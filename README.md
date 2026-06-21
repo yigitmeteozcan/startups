@@ -1,126 +1,114 @@
-# Techstars Portfolio API
+# Techstars Portfolio Dataset
 
-An Express API that scrapes [techstars.com/portfolio](https://www.techstars.com/portfolio) using a headless Playwright browser and returns structured company data.
+> The open dataset of every Techstars portfolio company — **5,000+ companies**, updated daily. No scraping, no setup, just data.
 
-## Setup
+[![companies](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/stats.json&query=$.total&label=companies&color=blue)](data/all.json)
+[![updated](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/stats.json&query=$.generatedAt&label=updated)](STATS.md)
+[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+There's [`yc-oss/api`](https://github.com/yc-oss/api) for Y Combinator. This is the equivalent for **Techstars** — clean, structured, free, and refreshed every day by a GitHub Action.
+
+## Get the data
+
+Grab it instantly over the jsDelivr CDN (or [browse `data/`](data/)):
 
 ```bash
-npm install
-npm run install:browsers   # installs Chromium for Playwright
-npm start                  # run the API
-# or, export everything straight to Excel without the server:
-npm run export             # -> ./techstars-portfolio.xlsx
+# everything
+curl https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.json
+
+# just the unicorns
+curl https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/unicorns.json
 ```
 
-Server runs on `http://localhost:3000` (override with `PORT` env var).
+```python
+import requests
+companies = requests.get(
+    "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.json"
+).json()
+print(len(companies), "companies")
+```
 
-## Endpoints
+```javascript
+const companies = await fetch(
+  "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.json"
+).then((r) => r.json());
+```
 
-### `GET /portfolio`
+## What's in it
 
-Returns all portfolio companies. Results are cached for 1 hour.
+Every company looks like this:
 
-**Query parameters**
-
-| Param | Type | Description |
-|-------|------|-------------|
-| `refresh` | `true` | Bypass cache and re-scrape |
-| `search` | string | Filter by name, description, or tag |
-| `tag` | string | Filter by industry tag |
-| `location` | string | Filter by location/city |
-| `year` | string | Filter by cohort/founded year |
-| `page` | number | Page number (default: 1) |
-| `limit` | number | Results per page (default: 50, max: 500) |
-| `debug` | `true` | Include discovered JSON endpoints + api/dom counts in the response |
-
-**Example response**
 ```json
 {
-  "status": "ok",
-  "source": "typesense",
-  "cached": false,
-  "cacheExpiresAt": "2025-01-01T13:00:00.000Z",
-  "pagination": { "page": 1, "limit": 50, "total": 4200, "totalPages": 84 },
-  "companies": [
-    {
-      "name": "DigitalOcean",
-      "description": "Cloud infrastructure for developers",
-      "logo": "https://apimg.techstars.com/.../do-icon-logo.png",
-      "website": "https://digitalocean.com/",
-      "location": "New York, NY, USA",
-      "region": "North America",
-      "tags": ["Cloud", "DevTools"],
-      "year": 2012,
-      "program": "Techstars NYC",
-      "isExit": false,
-      "isUnicorn": true,
-      "isBCorp": false,
-      "extra": { "...": "raw Typesense document" }
-    }
-  ]
+  "name": "DigitalOcean",
+  "description": "Simple, scalable cloud computing solutions built for startups and small-to-midsize businesses.",
+  "website": "https://digitalocean.com",
+  "location": "New York City, New York, United States",
+  "region": "Americas",
+  "subregion": "North America",
+  "tags": ["Cloudtech and DevOps"],
+  "year": 2012,
+  "program": "Techstars Boulder Accelerator",
+  "isExit": true,
+  "isUnicorn": true,
+  "isBCorp": false,
+  "isCurrentSession": false,
+  "social": {
+    "linkedin": "https://linkedin.com/company/digitalocean",
+    "twitter": "https://twitter.com/digitalocean",
+    "facebook": "https://facebook.com/DigitalOceanCloudHosting",
+    "crunchbase": "https://crunchbase.com/organization/digitalocean"
+  }
 }
 ```
 
-`source` indicates where the data came from:
-- `typesense` — the site's underlying Typesense search API (preferred: complete + clean)
-- `api` — another intercepted JSON endpoint
-- `dom` — HTML scraping fallback
+## Files
 
-### `GET /portfolio.xlsx`
+| File | Contents |
+|---|---|
+| [`data/all.json`](data/all.json) | Every company (also `all.csv`, `all.xlsx`) |
+| [`data/unicorns.json`](data/unicorns.json) | Companies valued $1B+ |
+| [`data/exits.json`](data/exits.json) | Companies that have exited |
+| [`data/b-corps.json`](data/b-corps.json) | Certified B Corps |
+| [`data/current.json`](data/current.json) | Current accelerator session |
+| [`data/by-year/`](data/by-year) | One file per cohort year |
+| [`data/by-program/`](data/by-program) | One file per accelerator program |
+| [`data/by-region/`](data/by-region) | One file per world region |
+| [`data/by-industry/`](data/by-industry) | One file per industry vertical |
+| [`data/stats.json`](data/stats.json) | Aggregate stats |
+| [`STATS.md`](STATS.md) | 📊 Techstars by the numbers |
 
-Download **all** portfolio companies as an Excel spreadsheet. Supports the same
-filters as `/portfolio` (`search`, `tag`, `location`, `year`) plus `refresh=true`.
+See **[STATS.md](STATS.md)** for charts: companies per year, top cities, unicorns, exits, and more.
+
+## How it's built
+
+The portfolio is powered by a public **Typesense** search cluster. A [daily GitHub Action](.github/workflows/update-data.yml) queries it directly (no browser) and commits the refreshed dataset. There's also a local REST API and an Excel exporter if you'd rather run it yourself.
+
+<details>
+<summary>Run it yourself</summary>
 
 ```bash
-curl -L "http://localhost:3000/portfolio.xlsx" -o techstars-portfolio.xlsx
-# filtered example:
-curl -L "http://localhost:3000/portfolio.xlsx?tag=Fintech&location=United%20States" -o fintech-us.xlsx
+npm install
+
+# Seed data/ locally (uses a headless browser to grab the search key):
+npm run install:browsers
+npm run build:data
+
+# ...or, if you have the Typesense search key, no browser needed:
+TYPESENSE_API_KEY=xxxx npm run fetch:data
+
+# Run the REST API:
+npm start
+#   GET /portfolio            all companies (paginated, filterable)
+#   GET /portfolio.xlsx       download as Excel
+#   GET /portfolio/:name      lookup by name
+
+# One-off Excel export:
+npm run export
 ```
 
-The sheet has a frozen, filterable header row and one column per field
-(company, description, website, city/state/country, region, tags, year,
-program, exit/unicorn/B-Corp flags, and social links).
+</details>
 
-### Export to Excel from the command line
+## License
 
-No server needed — scrape straight to a file:
-
-```bash
-npm run export                      # -> ./techstars-portfolio.xlsx
-npm run export -- ~/Desktop/ts.xlsx # custom output path
-```
-
-### `GET /portfolio/:name`
-
-Look up a single company by partial name match.
-
-```
-GET /portfolio/airbnb
-```
-
-### `DELETE /cache`
-
-Invalidate the portfolio cache so the next request re-scrapes.
-
-### `GET /health`
-
-Returns server status and cache info.
-
-## Environment variables
-
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `PORT` | `3000` | HTTP port |
-| `CACHE_TTL_MS` | `3600000` | Cache TTL in milliseconds (default 1 hour) |
-
-## How it works
-
-The Techstars portfolio is powered by a **Typesense** search cluster. The scraper:
-
-1. Launches headless Chromium with a realistic user-agent/viewport and loads the portfolio page (the site blocks plain HTTP requests from datacenter IPs, so a real browser load is needed).
-2. Intercepts the page's Typesense search request to grab the cluster URL and the search-only API key (which the site exposes client-side).
-3. Replays that search **directly** server-side, paging through all results (`per_page=250`) to collect every company with clean structured fields (`source: "typesense"`).
-4. If the Typesense request can't be captured, it falls back to intercepted JSON (`source: "api"`) or, last resort, DOM scraping with auto-scroll (`source: "dom"`).
-5. Results are cached in-memory for 1 hour to avoid hammering the site.
-
-> **Note:** Run this from a residential IP. Datacenter/cloud IPs are blocked by the site's CDN (`403 host_not_allowed`).
+[MIT](LICENSE). Data is sourced from the public Techstars portfolio page; please respect Techstars' terms when using it.
