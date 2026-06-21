@@ -34,6 +34,12 @@ const companies = await fetch(
 ).then((r) => r.json());
 ```
 
+**Every endpoint** — all 240+ sliced URLs (by year, program, region, industry) with counts — is catalogued in one place:
+
+```
+https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/meta.json
+```
+
 ## What's in it
 
 Every company looks like this:

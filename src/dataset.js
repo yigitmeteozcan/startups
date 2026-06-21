@@ -129,6 +129,10 @@ ${list(stats.byRegion)}
 `;
 }
 
+const CDN_BASE =
+  process.env.CDN_BASE ||
+  'https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data';
+
 // Write the full sliced dataset to disk.
 function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {
   const base = path.resolve(rootDir, outDir);
@@ -139,12 +143,17 @@ function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {
   fs.writeFileSync(path.join(base, 'all.csv'), toCsv(companies));
 
   // Boolean slices.
-  writeJson(path.join(base, 'unicorns.json'), companies.filter((c) => c.isUnicorn));
-  writeJson(path.join(base, 'exits.json'), companies.filter((c) => c.isExit));
-  writeJson(path.join(base, 'b-corps.json'), companies.filter((c) => c.isBCorp));
-  writeJson(path.join(base, 'current.json'), companies.filter((c) => c.isCurrentSession));
+  const unicorns = companies.filter((c) => c.isUnicorn);
+  const exits = companies.filter((c) => c.isExit);
+  const bCorps = companies.filter((c) => c.isBCorp);
+  const current = companies.filter((c) => c.isCurrentSession);
+  writeJson(path.join(base, 'unicorns.json'), unicorns);
+  writeJson(path.join(base, 'exits.json'), exits);
+  writeJson(path.join(base, 'b-corps.json'), bCorps);
+  writeJson(path.join(base, 'current.json'), current);
 
   // Grouped slices.
+  const groupIndexes = {};
   const groupWrite = (subdir, keyFn) => {
     const groups = new Map();
     for (const c of companies) {
@@ -160,6 +169,7 @@ function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {
       index[k] = { slug, count: list.length, file: `${subdir}/${slug}.json` };
     }
     writeJson(path.join(base, subdir, 'index.json'), index);
+    groupIndexes[subdir] = index;
   };
 
   groupWrite('by-year', (c) => c.year);
@@ -172,7 +182,53 @@ function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {
   writeJson(path.join(base, 'stats.json'), stats);
   fs.writeFileSync(path.resolve(rootDir, 'STATS.md'), renderStatsMarkdown(stats));
 
+  // Meta — the catalog of every endpoint (like yc-oss/api meta.json).
+  const counts = {
+    all: companies.length,
+    unicorns: unicorns.length,
+    exits: exits.length,
+    bCorps: bCorps.length,
+    current: current.length,
+  };
+  const meta = buildMeta({ counts, groupIndexes, generatedAt: stats.generatedAt });
+  writeJson(path.join(base, 'meta.json'), meta);
+
   return stats;
+}
+
+// Build the endpoint catalog. Every entry carries a ready-to-use CDN URL.
+function buildMeta({ counts, groupIndexes, generatedAt }) {
+  const url = (p) => `${CDN_BASE}/${p}`;
+  const collection = (subdir) =>
+    Object.entries(groupIndexes[subdir] || {})
+      .map(([name, info]) => ({
+        name,
+        slug: info.slug,
+        count: info.count,
+        api: url(info.file),
+      }))
+      .sort((a, b) => b.count - a.count);
+
+  return {
+    generatedAt,
+    source: 'https://www.techstars.com/portfolio',
+    cdn: CDN_BASE,
+    total: counts.all,
+    endpoints: {
+      all: { count: counts.all, api: url('all.json'), csv: url('all.csv'), xlsx: url('all.xlsx') },
+      unicorns: { count: counts.unicorns, api: url('unicorns.json') },
+      exits: { count: counts.exits, api: url('exits.json') },
+      bCorps: { count: counts.bCorps, api: url('b-corps.json') },
+      current: { count: counts.current, api: url('current.json') },
+      stats: { api: url('stats.json') },
+    },
+    collections: {
+      'by-year': collection('by-year'),
+      'by-program': collection('by-program'),
+      'by-region': collection('by-region'),
+      'by-industry': collection('by-industry'),
+    },
+  };
 }
 
 // XLSX is written separately (async).
@@ -181,4 +237,4 @@ async function writeXlsx(companies, file) {
   await buildWorkbook(companies).xlsx.writeFile(file);
 }
 
-module.exports = { writeDataset, writeXlsx, computeStats, renderStatsMarkdown, toCsv };
+module.exports = { writeDataset, writeXlsx, computeStats, renderStatsMarkdown, toCsv, buildMeta };
