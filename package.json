@@ -8,6 +8,7 @@
     "dev": "nodemon src/index.js",
     "export": "node scripts/export.js",
     "build:data": "node scripts/build-dataset.js",
+    "build:readme": "node scripts/build-readme.js",
     "fetch:data": "node scripts/fetch-direct.js",
     "install:browsers": "npx playwright install chromium"
   },

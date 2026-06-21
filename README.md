@@ -6,6 +6,8 @@ The open API for every company in the [Techstars](https://www.techstars.com/port
 [![updated](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/stats.json&query=$.generatedAt&label=updated)](STATS.md)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
+**[🔎 Live explorer →](https://yigitmeteozcan.github.io/techstars/)** · search and filter all 5,105 companies in your browser.
+
 ## ℹ️ Metadata
 
 > Last updated: **2026-06-21**
@@ -34,6 +36,25 @@ print(len(companies), "companies")
 
 ```javascript
 const companies = await fetch("https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.json").then((r) => r.json());
+```
+
+### Recipes
+
+```python
+import requests
+
+base = "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data"
+
+# Fintech unicorns
+unicorns = requests.get(f"{base}/unicorns.json").json()
+fintech = [c for c in unicorns if "Fintech" in c["tags"]]
+
+# Every company from a single program
+boulder = requests.get(f"{base}/by-program/techstars-boulder-accelerator.json").json()
+
+# Discover every endpoint and its count
+meta = requests.get(f"{base}/meta.json").json()
+print(meta["collections"]["by-industry"][:3])
 ```
 
 ## 💻 APIs
@@ -396,14 +417,14 @@ See **[STATS.md](STATS.md)** for charts — companies per year, top countries an
 
 ## 🔄 How it stays fresh
 
-The Techstars portfolio is powered by a public search index. A scheduled job queries it directly, rebuilds every JSON/CSV/XLSX file, regenerates the stats, and commits the result — so the data here tracks the live portfolio without any manual work.
+The Techstars portfolio is powered by a public search index. A scheduled job queries it directly, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result — so the data here tracks the live portfolio without any manual work.
 
 ## 🛠️ Run it yourself
 
 ```bash
 npm install
 npm run install:browsers
-npm run build:data        # rebuild data/ locally
+npm run build:data        # rebuild data/ + README locally
 
 npm start                 # REST API
 #   GET /portfolio          all companies (paginated, filterable)

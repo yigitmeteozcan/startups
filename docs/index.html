@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Techstars Portfolio Explorer</title>
+<meta name="description" content="Search and filter every Techstars portfolio company — free open dataset." />
+<style>
+  :root {
+    --bg: #0d1117; --panel: #161b22; --border: #30363d; --text: #e6edf3;
+    --muted: #8b949e; --accent: #58a6ff; --chip: #21262d;
+    --uni: #d29922; --exit: #3fb950; --bcorp: #2f81f7;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header { padding: 28px 20px 12px; max-width: 1100px; margin: 0 auto; }
+  h1 { margin: 0 0 4px; font-size: 26px; }
+  .sub { color: var(--muted); margin: 0 0 16px; }
+  .stats { display: flex; gap: 18px; flex-wrap: wrap; margin-bottom: 18px; }
+  .stat { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 10px 16px; }
+  .stat b { display: block; font-size: 22px; }
+  .stat span { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+  .controls { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  input, select {
+    background: var(--panel); color: var(--text); border: 1px solid var(--border);
+    border-radius: 8px; padding: 9px 12px; font-size: 14px;
+  }
+  input[type=search] { flex: 1 1 280px; min-width: 200px; }
+  .toggles { display: flex; gap: 8px; flex-wrap: wrap; }
+  .toggle { background: var(--chip); border: 1px solid var(--border); border-radius: 20px;
+    padding: 6px 12px; cursor: pointer; font-size: 13px; user-select: none; }
+  .toggle.on { background: var(--accent); color: #0d1117; border-color: var(--accent); font-weight: 600; }
+  main { max-width: 1100px; margin: 0 auto; padding: 0 20px 60px; }
+  .count { color: var(--muted); margin: 14px 0 8px; font-size: 13px; }
+  .list { display: grid; gap: 10px; }
+  .card { background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+    padding: 14px 16px; display: flex; gap: 14px; align-items: flex-start; }
+  .logo { width: 44px; height: 44px; border-radius: 8px; object-fit: contain; background: #fff; flex: none; }
+  .logo.placeholder { background: var(--chip); display: grid; place-items: center; color: var(--muted); font-weight: 700; }
+  .body { min-width: 0; flex: 1; }
+  .name { font-weight: 600; font-size: 16px; }
+  .desc { color: var(--muted); margin: 2px 0 8px; }
+  .meta { display: flex; gap: 8px; flex-wrap: wrap; font-size: 12px; color: var(--muted); align-items: center; }
+  .chip { background: var(--chip); border: 1px solid var(--border); border-radius: 6px; padding: 2px 8px; }
+  .badge { border-radius: 6px; padding: 2px 8px; font-weight: 600; color: #0d1117; }
+  .b-uni { background: var(--uni); } .b-exit { background: var(--exit); } .b-bcorp { background: var(--bcorp); color:#fff; }
+  .social a { margin-left: 8px; }
+  .pager { display: flex; gap: 10px; justify-content: center; align-items: center; margin-top: 24px; }
+  .pager button { background: var(--panel); color: var(--text); border: 1px solid var(--border);
+    border-radius: 8px; padding: 8px 14px; cursor: pointer; }
+  .pager button:disabled { opacity: .4; cursor: default; }
+  .loading { text-align: center; color: var(--muted); padding: 60px 0; }
+  footer { text-align: center; color: var(--muted); font-size: 13px; padding: 20px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Techstars Portfolio Explorer</h1>
+  <p class="sub">Every Techstars portfolio company — searchable, filterable, free. Powered by the open <a href="https://github.com/yigitmeteozcan/techstars">Techstars Portfolio API</a>.</p>
+  <div class="stats" id="stats"></div>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search name or description…" autocomplete="off" />
+    <select id="region"><option value="">All regions</option></select>
+    <select id="year"><option value="">All years</option></select>
+    <select id="industry"><option value="">All industries</option></select>
+  </div>
+  <div class="toggles" style="margin-top:10px">
+    <span class="toggle" data-flag="isUnicorn">🦄 Unicorns</span>
+    <span class="toggle" data-flag="isExit">💰 Exits</span>
+    <span class="toggle" data-flag="isBCorp">🌱 B Corps</span>
+  </div>
+</header>
+<main>
+  <div class="count" id="count"></div>
+  <div class="list" id="list"><div class="loading">Loading 5,000+ companies…</div></div>
+  <div class="pager" id="pager"></div>
+</main>
+<footer>
+  Data: <a href="https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.json">all.json</a> ·
+  Source: <a href="https://www.techstars.com/portfolio">Techstars portfolio</a> ·
+  Not affiliated with Techstars.
+</footer>
+<script>
+const CDN = "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data";
+const PER_PAGE = 30;
+let companies = [], filtered = [], page = 0;
+const flags = { isUnicorn: false, isExit: false, isBCorp: false };
+
+const el = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
+
+async function load() {
+  const [all, stats] = await Promise.all([
+    fetch(`${CDN}/all.json`).then(r => r.json()),
+    fetch(`${CDN}/stats.json`).then(r => r.json()).catch(() => null),
+  ]);
+  companies = all;
+  renderStats(stats);
+  buildFilters();
+  apply();
+}
+
+function renderStats(s) {
+  const total = s?.total ?? companies.length;
+  const stat = (n, label) => `<div class="stat"><b>${Number(n).toLocaleString()}</b><span>${label}</span></div>`;
+  el("stats").innerHTML =
+    stat(total, "companies") +
+    stat(s?.unicorns ?? companies.filter(c=>c.isUnicorn).length, "🦄 unicorns") +
+    stat(s?.exits ?? companies.filter(c=>c.isExit).length, "💰 exits") +
+    stat(s?.bCorps ?? companies.filter(c=>c.isBCorp).length, "🌱 B corps");
+}
+
+function uniqueSorted(fn, numeric) {
+  const set = new Set();
+  for (const c of companies) for (const v of [].concat(fn(c)).filter(Boolean)) set.add(v);
+  const arr = [...set];
+  arr.sort(numeric ? (a,b) => b - a : (a,b) => String(a).localeCompare(String(b)));
+  return arr;
+}
+
+function buildFilters() {
+  for (const r of uniqueSorted(c => c.region)) el("region").insertAdjacentHTML("beforeend", `<option>${esc(r)}</option>`);
+  for (const y of uniqueSorted(c => c.year, true)) el("year").insertAdjacentHTML("beforeend", `<option>${esc(y)}</option>`);
+  for (const t of uniqueSorted(c => c.tags)) el("industry").insertAdjacentHTML("beforeend", `<option>${esc(t)}</option>`);
+}
+
+function apply() {
+  const q = el("q").value.trim().toLowerCase();
+  const region = el("region").value, year = el("year").value, industry = el("industry").value;
+  filtered = companies.filter(c => {
+    if (q && !(`${c.name} ${c.description}`.toLowerCase().includes(q))) return false;
+    if (region && c.region !== region) return false;
+    if (year && String(c.year) !== year) return false;
+    if (industry && !(c.tags || []).includes(industry)) return false;
+    for (const f in flags) if (flags[f] && !c[f]) return false;
+    return true;
+  });
+  page = 0;
+  render();
+}
+
+function render() {
+  el("count").textContent = `${filtered.length.toLocaleString()} companies`;
+  const start = page * PER_PAGE;
+  const slice = filtered.slice(start, start + PER_PAGE);
+  el("list").innerHTML = slice.map(card).join("") || `<div class="loading">No matches.</div>`;
+  renderPager();
+  window.scrollTo({ top: 0 });
+}
+
+function card(c) {
+  const initials = esc((c.name || "?").slice(0, 2).toUpperCase());
+  const logo = c.logo
+    ? `<img class="logo" src="${esc(c.logo)}" alt="" loading="lazy" onerror="this.outerHTML='<div class=&quot;logo placeholder&quot;>${initials}</div>'" />`
+    : `<div class="logo placeholder">${initials}</div>`;
+  const badges = [
+    c.isUnicorn ? `<span class="badge b-uni">🦄 Unicorn</span>` : "",
+    c.isExit ? `<span class="badge b-exit">💰 Exit</span>` : "",
+    c.isBCorp ? `<span class="badge b-bcorp">🌱 B Corp</span>` : "",
+  ].join("");
+  const tags = (c.tags || []).slice(0, 3).map(t => `<span class="chip">${esc(t)}</span>`).join("");
+  const soc = c.social || {};
+  const link = (url, label) => url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${label}</a>` : "";
+  const social = [link(soc.linkedin, "in"), link(soc.twitter, "𝕏"), link(soc.crunchbase, "cb")].filter(Boolean).join("");
+  const title = c.website
+    ? `<a href="${esc(c.website)}" target="_blank" rel="noopener">${esc(c.name)}</a>` : esc(c.name);
+  return `<div class="card">${logo}<div class="body">
+    <div class="name">${title} ${badges}</div>
+    <div class="desc">${esc(c.description)}</div>
+    <div class="meta">
+      ${c.location ? `<span>📍 ${esc(c.location)}</span>` : ""}
+      ${c.year ? `<span class="chip">${esc(c.year)}</span>` : ""}
+      ${c.program ? `<span class="chip">${esc(c.program)}</span>` : ""}
+      ${tags}
+      ${social ? `<span class="social">${social}</span>` : ""}
+    </div></div></div>`;
+}
+
+function renderPager() {
+  const pages = Math.ceil(filtered.length / PER_PAGE) || 1;
+  el("pager").innerHTML = `
+    <button ${page === 0 ? "disabled" : ""} id="prev">← Prev</button>
+    <span>Page ${page + 1} of ${pages}</span>
+    <button ${page >= pages - 1 ? "disabled" : ""} id="next">Next →</button>`;
+  const prev = el("prev"), next = el("next");
+  if (prev) prev.onclick = () => { page--; render(); };
+  if (next) next.onclick = () => { page++; render(); };
+}
+
+let t;
+el("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(apply, 150); });
+["region", "year", "industry"].forEach(id => el(id).addEventListener("change", apply));
+document.querySelectorAll(".toggle").forEach(btn => btn.addEventListener("click", () => {
+  const f = btn.dataset.flag; flags[f] = !flags[f]; btn.classList.toggle("on", flags[f]); apply();
+}));
+
+load().catch(err => { el("list").innerHTML = `<div class="loading">Failed to load: ${esc(err.message)}</div>`; });
+</script>
+</body>
+</html>

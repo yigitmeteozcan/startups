@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { buildWorkbook } = require('./excel');
+const { renderReadme } = require('./readme');
 
 function slugify(s) {
   return String(s)
@@ -192,6 +193,9 @@ function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {
   };
   const meta = buildMeta({ counts, groupIndexes, generatedAt: stats.generatedAt });
   writeJson(path.join(base, 'meta.json'), meta);
+
+  // Keep README counts/tables in sync with the data.
+  fs.writeFileSync(path.resolve(rootDir, 'README.md'), renderReadme(meta, stats));
 
   return stats;
 }
