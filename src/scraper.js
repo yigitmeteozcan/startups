@@ -194,6 +194,26 @@ async function extractCompanies(page) {
 async function interceptApiResponse(page) {
   const captured = [];
   const endpoints = [];
+  let typesense = null; // { url, apiKey, method, postData }
+
+  // The Techstars portfolio is backed by a Typesense search cluster. Capture
+  // the request so we can replay it directly (with the search-only API key,
+  // which the site exposes client-side) and page through every company.
+  page.on('request', (request) => {
+    const url = request.url();
+    if (url.includes('typesense.net') && url.includes('/documents/search')) {
+      const headers = request.headers();
+      typesense = {
+        url,
+        apiKey:
+          headers['x-typesense-api-key'] ||
+          new URL(url).searchParams.get('x-typesense-api-key') ||
+          null,
+        method: request.method(),
+        postData: request.postData() || null,
+      };
+    }
+  });
 
   page.on('response', async (response) => {
     const url = response.url();
@@ -207,15 +227,54 @@ async function interceptApiResponse(page) {
     } catch (_) {}
   });
 
-  return { captured, endpoints };
+  return { captured, endpoints, getTypesense: () => typesense };
+}
+
+// Replay the Typesense search directly, paging through all results.
+async function fetchAllFromTypesense(ts) {
+  if (!ts || !ts.apiKey) return null;
+
+  const base = new URL(ts.url);
+  base.searchParams.set('per_page', '250'); // Typesense max page size
+  base.searchParams.set('max_facet_values', '1'); // we don't need facets here
+  base.searchParams.delete('x-typesense-api-key'); // send via header instead
+
+  const headers = { 'x-typesense-api-key': ts.apiKey };
+  const all = [];
+  let page = 1;
+  let found = Infinity;
+
+  while (all.length < found && page <= 500) {
+    base.searchParams.set('page', String(page));
+    const res = await fetch(base.toString(), { headers });
+    if (!res.ok) {
+      if (page === 1) return null; // couldn't start -> let caller fall back
+      break;
+    }
+    const json = await res.json();
+    found = typeof json.found === 'number' ? json.found : all.length;
+    const hits = (json.hits || []).map((h) => h.document || h);
+    if (hits.length === 0) break;
+    all.push(...hits);
+    page++;
+  }
+
+  return all;
 }
 
 function looksLikeCompany(obj) {
   if (!obj || typeof obj !== 'object') return false;
-  const keys = Object.keys(obj).map((k) => k.toLowerCase());
-  const hasName = keys.some((k) => ['name', 'company_name', 'companyname', 'title'].includes(k));
+  // Typesense wraps each result as { document: {...}, highlight, text_match }.
+  const o = obj.document && typeof obj.document === 'object' ? obj.document : obj;
+  const keys = Object.keys(o).map((k) => k.toLowerCase());
+  const hasName = keys.some((k) =>
+    ['name', 'company_name', 'companyname', 'title'].includes(k)
+  );
   const hasMeta = keys.some((k) =>
-    ['website', 'url', 'homepage', 'logo', 'logo_url', 'description', 'tagline', 'location'].includes(k)
+    [
+      'website', 'url', 'homepage', 'logo', 'logo_url', 'description',
+      'brief_description', 'tagline', 'location', 'city',
+    ].includes(k)
   );
   return hasName && hasMeta;
 }
@@ -256,17 +315,47 @@ function normalizeApiData(apiResponses) {
   return best ? best.map(normalizeCompany) : null;
 }
 
+function toArray(v) {
+  if (v == null) return [];
+  return Array.isArray(v) ? v.filter(Boolean) : [v].filter(Boolean);
+}
+
 function normalizeCompany(raw) {
+  // Unwrap Typesense hit wrappers if present.
+  const d = raw.document && typeof raw.document === 'object' ? raw.document : raw;
+
+  const location =
+    [d.city, d.state_province, d.country].filter(Boolean).join(', ') ||
+    d.location ||
+    d.headquarters ||
+    '';
+
+  const tags = [
+    ...toArray(d.industry_vertical),
+    ...toArray(d.tags),
+    ...toArray(d.categories),
+    ...toArray(d.sectors),
+  ];
+
+  const program = toArray(d.program_names).join(', ') ||
+    d.program || d.cohort || d.accelerator || '';
+
   return {
-    name: raw.name || raw.company_name || raw.title || '',
-    description: raw.description || raw.short_description || raw.tagline || raw.bio || '',
-    logo: raw.logo || raw.logo_url || raw.image || raw.thumbnail || '',
-    website: raw.website || raw.url || raw.homepage || raw.website_url || '',
-    location: raw.location || raw.city || raw.headquarters || '',
-    tags: raw.tags || raw.categories || raw.sectors || raw.industries || [],
-    year: raw.year || raw.founded_year || raw.cohort_year || raw.graduation_year || '',
-    program: raw.program || raw.cohort || raw.accelerator || '',
-    extra: raw,
+    name: d.company_name || d.name || d.title || '',
+    description:
+      d.brief_description || d.description || d.short_description ||
+      d.tagline || d.bio || '',
+    logo: d.logo || d.logo_url || d.image || d.thumbnail || '',
+    website: d.website || d.url || d.homepage || d.website_url || '',
+    location,
+    region: d.worldregion || '',
+    tags: [...new Set(tags)],
+    year: d.first_session_year || d.year || d.founded_year || d.cohort_year || '',
+    program,
+    isExit: d.is_exit ?? undefined,
+    isUnicorn: d.is_1b ?? undefined,
+    isBCorp: d.is_bcorp ?? undefined,
+    extra: d,
   };
 }
 
@@ -283,7 +372,7 @@ async function scrapePortfolio({ filters = {}, debug = false } = {}) {
     });
 
     const page = await context.newPage();
-    const { captured, endpoints } = await interceptApiResponse(page);
+    const { captured, endpoints, getTypesense } = await interceptApiResponse(page);
 
     // Apply filters via URL params if supported.
     const target = new URL(PORTFOLIO_URL);
@@ -291,16 +380,31 @@ async function scrapePortfolio({ filters = {}, debug = false } = {}) {
 
     await page.goto(target.toString(), { waitUntil: 'networkidle', timeout: 60000 });
     await waitForCompanies(page);
+    // Give the Typesense search request a moment to fire.
+    await page.waitForTimeout(2000);
 
-    // Scroll to trigger lazy-load / infinite scroll, then let late XHRs settle.
+    // FAST PATH: replay the Typesense search directly and page through everything.
+    const ts = getTypesense();
+    const direct = await fetchAllFromTypesense(ts).catch(() => null);
+    if (direct && direct.length > 0) {
+      const companies = direct.map(normalizeCompany);
+      const result = { source: 'typesense', count: companies.length, companies };
+      if (debug) {
+        result.debug = {
+          typesenseUrl: ts.url,
+          hasApiKey: !!ts.apiKey,
+          fetched: companies.length,
+        };
+      }
+      return result;
+    }
+
+    // FALLBACK: scroll to trigger lazy-load, then use intercepted JSON or DOM.
     await autoScroll(page);
     await page.waitForTimeout(2000);
 
-    // Prefer intercepted API data (richest + most complete).
     const normalized = normalizeApiData(captured);
     const apiCount = normalized ? normalized.length : 0;
-
-    // Always also run the DOM extraction so we can pick whichever is better.
     const domCompanies = await extractCompanies(page);
 
     const useApi = apiCount >= domCompanies.length && apiCount > 0;
@@ -313,6 +417,7 @@ async function scrapePortfolio({ filters = {}, debug = false } = {}) {
         jsonEndpoints: [...new Set(endpoints)],
         apiCount,
         domCount: domCompanies.length,
+        typesenseFound: !!(ts && ts.apiKey),
       };
     }
 

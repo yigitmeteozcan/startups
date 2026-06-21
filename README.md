@@ -35,24 +35,34 @@ Returns all portfolio companies. Results are cached for 1 hour.
 ```json
 {
   "status": "ok",
-  "source": "api",
+  "source": "typesense",
   "cached": false,
   "cacheExpiresAt": "2025-01-01T13:00:00.000Z",
   "pagination": { "page": 1, "limit": 50, "total": 4200, "totalPages": 84 },
   "companies": [
     {
-      "name": "Example Co",
-      "description": "Building the future of ...",
-      "logo": "https://...",
-      "website": "https://example.com",
-      "location": "New York, NY",
-      "tags": ["FinTech", "B2B"],
-      "year": "2022",
-      "program": "Techstars NYC"
+      "name": "DigitalOcean",
+      "description": "Cloud infrastructure for developers",
+      "logo": "https://apimg.techstars.com/.../do-icon-logo.png",
+      "website": "https://digitalocean.com/",
+      "location": "New York, NY, USA",
+      "region": "North America",
+      "tags": ["Cloud", "DevTools"],
+      "year": 2012,
+      "program": "Techstars NYC",
+      "isExit": false,
+      "isUnicorn": true,
+      "isBCorp": false,
+      "extra": { "...": "raw Typesense document" }
     }
   ]
 }
 ```
+
+`source` indicates where the data came from:
+- `typesense` — the site's underlying Typesense search API (preferred: complete + clean)
+- `api` — another intercepted JSON endpoint
+- `dom` — HTML scraping fallback
 
 ### `GET /portfolio/:name`
 
@@ -79,7 +89,12 @@ Returns server status and cache info.
 
 ## How it works
 
-1. Playwright launches a headless Chromium with a realistic user-agent and viewport.
-2. It intercepts JSON network responses — if the site makes an internal API call to load portfolio data, that raw JSON is captured and returned directly (`source: "api"`).
-3. If no API response is found, it falls back to DOM scraping after auto-scrolling to trigger lazy loading (`source: "dom"`).
-4. Results are cached in-memory for 1 hour to avoid hammering the site.
+The Techstars portfolio is powered by a **Typesense** search cluster. The scraper:
+
+1. Launches headless Chromium with a realistic user-agent/viewport and loads the portfolio page (the site blocks plain HTTP requests from datacenter IPs, so a real browser load is needed).
+2. Intercepts the page's Typesense search request to grab the cluster URL and the search-only API key (which the site exposes client-side).
+3. Replays that search **directly** server-side, paging through all results (`per_page=250`) to collect every company with clean structured fields (`source: "typesense"`).
+4. If the Typesense request can't be captured, it falls back to intercepted JSON (`source: "api"`) or, last resort, DOM scraping with auto-scroll (`source: "dom"`).
+5. Results are cached in-memory for 1 hour to avoid hammering the site.
+
+> **Note:** Run this from a residential IP. Datacenter/cloud IPs are blocked by the site's CDN (`403 host_not_allowed`).
