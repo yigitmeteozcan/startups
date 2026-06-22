@@ -4,7 +4,7 @@ _Auto-generated from the dataset on 2026-06-22._
 
 | Metric | Count |
 |---|---|
-| Total companies | **11,068** |
+| Total companies | **12,305** |
 | 🦄 Unicorns ($1B+) | **23** |
 | 💰 Exits | **1435** |
 | 🌱 B Corps | **29** |
@@ -16,6 +16,7 @@ _Auto-generated from the dataset on 2026-06-22._
 |---|---|
 | yc | 5,963 |
 | techstars | 5,105 |
+| antler | 1,237 |
 
 ## Companies by first session year
 
@@ -80,21 +81,21 @@ _Auto-generated from the dataset on 2026-06-22._
 15. **Cambridge** — 71
 
 ## Top programs
-1. **YC Winter 2022** — 398
-2. **YC Summer 2021** — 391
-3. **YC Winter 2021** — 336
-4. **Techstars New York City Accelerator** — 274
-5. **YC Winter 2023** — 274
-6. **YC Winter 2024** — 249
-7. **YC Summer 2024** — 248
-8. **Techstars Boston Accelerator** — 239
-9. **YC Summer 2022** — 234
-10. **YC Winter 2020** — 229
-11. **YC Summer 2023** — 219
-12. **Techstars Boulder Accelerator** — 216
-13. **YC Summer 2020** — 208
-14. **YC Winter 2026** — 198
-15. **YC Spring 2026** — 197
+1. **Antler** — 1237
+2. **YC Winter 2022** — 398
+3. **YC Summer 2021** — 391
+4. **YC Winter 2021** — 336
+5. **Techstars New York City Accelerator** — 274
+6. **YC Winter 2023** — 274
+7. **YC Winter 2024** — 249
+8. **YC Summer 2024** — 248
+9. **Techstars Boston Accelerator** — 239
+10. **YC Summer 2022** — 234
+11. **YC Winter 2020** — 229
+12. **YC Summer 2023** — 219
+13. **Techstars Boulder Accelerator** — 216
+14. **YC Summer 2020** — 208
+15. **YC Winter 2026** — 198
 
 ## Top industries
 1. **B2B** — 3264
@@ -108,15 +109,15 @@ _Auto-generated from the dataset on 2026-06-22._
 9. **Healthcare** — 705
 10. **Infrastructure** — 631
 11. **Engineering, Product and Design** — 603
-12. **Developer Tools** — 517
-13. **Industrials** — 491
-14. **Healthtech** — 440
-15. **Lifestyles of Health and Sustainability and wellness** — 384
-16. **Internet of Things** — 384
-17. **Climate tech** — 360
-18. **Cleantech** — 339
-19. **HRtech** — 332
-20. **Productivity** — 321
+12. **Industrials** — 563
+13. **B2B Software** — 544
+14. **Developer Tools** — 517
+15. **Healthtech** — 440
+16. **Lifestyles of Health and Sustainability and wellness** — 384
+17. **Internet of Things** — 384
+18. **Climate tech** — 360
+19. **2024** — 340
+20. **Cleantech** — 339
 
 ## By region
 1. **United States of America** — 4433
