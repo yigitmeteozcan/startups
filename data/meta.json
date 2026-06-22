@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T15:10:14.996Z",
+  "generatedAt": "2026-06-22T15:23:05.005Z",
   "sources": [
     {
       "name": "500",
@@ -20,13 +20,18 @@
       "name": "antler",
       "site": "https://www.antler.co/portfolio",
       "count": 1237
+    },
+    {
+      "name": "ef",
+      "site": "https://www.joinef.com/portfolio/",
+      "count": 48
     }
   ],
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data",
-  "total": 12318,
+  "total": 12366,
   "endpoints": {
     "all": {
-      "count": 12318,
+      "count": 12366,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json",
       "csv": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.csv",
       "xlsx": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx"
@@ -36,7 +41,7 @@
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/unicorns.json"
     },
     "exits": {
-      "count": 1435,
+      "count": 1437,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/exits.json"
     },
     "bCorps": {
@@ -72,6 +77,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/antler.json"
       },
       {
+        "name": "ef",
+        "slug": "ef",
+        "count": 48,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/ef.json"
+      },
+      {
         "name": "500",
         "slug": "500",
         "count": 13,
@@ -82,31 +93,31 @@
       {
         "name": "2023",
         "slug": "2023",
-        "count": 1260,
+        "count": 1262,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2023.json"
       },
       {
         "name": "2024",
         "slug": "2024",
-        "count": 1228,
+        "count": 1229,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2024.json"
       },
       {
         "name": "2022",
         "slug": "2022",
-        "count": 1207,
+        "count": 1209,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2022.json"
       },
       {
         "name": "2021",
         "slug": "2021",
-        "count": 1186,
+        "count": 1193,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2021.json"
       },
       {
         "name": "2020",
         "slug": "2020",
-        "count": 849,
+        "count": 853,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2020.json"
       },
       {
@@ -118,19 +129,19 @@
       {
         "name": "2019",
         "slug": "2019",
-        "count": 775,
+        "count": 782,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2019.json"
       },
       {
         "name": "2018",
         "slug": "2018",
-        "count": 655,
+        "count": 665,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2018.json"
       },
       {
         "name": "2017",
         "slug": "2017",
-        "count": 532,
+        "count": 534,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2017.json"
       },
       {
@@ -142,19 +153,19 @@
       {
         "name": "2016",
         "slug": "2016",
-        "count": 441,
+        "count": 443,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2016.json"
       },
       {
         "name": "2015",
         "slug": "2015",
-        "count": 408,
+        "count": 415,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2015.json"
       },
       {
         "name": "2014",
         "slug": "2014",
-        "count": 303,
+        "count": 307,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2014.json"
       },
       {
@@ -620,6 +631,12 @@
         "slug": "abn-amro-techstars-future-of-finance-accelerator",
         "count": 48,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/abn-amro-techstars-future-of-finance-accelerator.json"
+      },
+      {
+        "name": "Entrepreneur First",
+        "slug": "entrepreneur-first",
+        "count": 48,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/entrepreneur-first.json"
       },
       {
         "name": "Techstars Oakland powered by J.P. Morgan",
