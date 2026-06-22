@@ -79,6 +79,11 @@ function normalizeRecord(raw, { source, program }) {
     isUnicorn: !!(d.is_unicorn || d.unicorn),
     isBCorp: false,
     isCurrentSession: false,
+    founders: toArray(d.founders).map((f) => ({
+      name: (f && (f.name || f)) || '',
+      role: (f && f.role) || '',
+      linkedin: addHttps((f && f.linkedin) || ''),
+    })),
     social: {
       linkedin: addHttps(d.linkedin || d.linkedin_url || ''),
       twitter: addHttps(d.twitter || d.twitter_url || ''),

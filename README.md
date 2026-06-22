@@ -1027,6 +1027,7 @@ Each company is an object with the following fields:
 | `year` | number | First session (cohort) year |
 | `program` | string | Accelerator program name |
 | `programSlugs` | string[] | Program slug(s) |
+| `founders` | object[] | Founders: `name`, `role`, `linkedin` (where available, e.g. EF / 500) |
 | `isExit` | boolean | Has exited |
 | `isUnicorn` | boolean | Valued $1B+ |
 | `isBCorp` | boolean | Certified B Corp |

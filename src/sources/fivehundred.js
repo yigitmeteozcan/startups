@@ -64,6 +64,15 @@ function normalize500(d) {
     isUnicorn: false,
     isBCorp: false,
     isCurrentSession: false,
+    founders: toArray(org.positions)
+      .map((p) => p && p.person)
+      .filter(Boolean)
+      .map((person) => ({
+        name: [person.firstName, person.lastName].filter(Boolean).join(' ').trim(),
+        role: '',
+        linkedin: '',
+      }))
+      .filter((f) => f.name),
     social: {
       linkedin: addHttps(org.companyLinkedIn || ''),
       twitter: '',

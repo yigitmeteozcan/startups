@@ -83,6 +83,25 @@ function parseTiles(html) {
     const yearMatch = b.match(/Founded<\/div>[\s\S]*?meta__row__name[^>]*>\s*(\d{4})\s*</);
     const year = yearMatch ? Number(yearMatch[1]) : '';
     const isExit = /Exited to<\/div>/.test(b);
+
+    // Founders: each `meta__row` pairs a role with a person (LinkedIn-linked).
+    const founders = [];
+    for (const row of b.split('class="meta__row ')) {
+      const role = (row.match(/meta__row__role[^>]*>([\s\S]*?)<\/div>/) || [])[1];
+      const link = row.match(/meta__row__founder[\s\S]*?<a[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/);
+      if (link) {
+        founders.push({
+          name: decodeEntities(link[2]),
+          role: decodeEntities(role || ''),
+          linkedin: link[1],
+        });
+      }
+    }
+    // "Funded by" / "Exited to" investor or acquirer.
+    const investor =
+      (b.match(/(?:Funded by|Exited to)<\/div>[\s\S]*?meta__row__name[^>]*>([\s\S]*?)<\/div>/) ||
+        [])[1] || '';
+
     out.push({
       name: decodeEntities(name),
       slug,
@@ -91,6 +110,8 @@ function parseTiles(html) {
       industries,
       year,
       is_exit: isExit,
+      founders,
+      investor: decodeEntities(investor),
     });
   }
   return out;

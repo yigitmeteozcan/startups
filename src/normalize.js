@@ -113,6 +113,7 @@ function normalizeCompany(raw, source = 'techstars') {
     isUnicorn: d.is_1b ?? false,
     isBCorp: d.is_bcorp ?? false,
     isCurrentSession: d.is_current_session ?? false,
+    founders: [],
     social: {
       linkedin: addHttps(d.linkedin_url || ''),
       twitter: addHttps(d.twitter_url || ''),

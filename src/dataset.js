@@ -37,6 +37,7 @@ function toCsv(companies) {
     ['tags', (c) => (c.tags || []).join('; ')],
     ['year', (c) => c.year],
     ['program', (c) => c.program],
+    ['founders', (c) => (c.founders || []).map((f) => f.name).filter(Boolean).join('; ')],
     ['isExit', (c) => c.isExit],
     ['isUnicorn', (c) => c.isUnicorn],
     ['isBCorp', (c) => c.isBCorp],
@@ -147,7 +148,7 @@ const CDN_BASE =
 // Keep `extra` to a small whitelist. The full raw record (YC long_description,
 // Q&A, duplicate urls, etc.) bloats all.json past jsDelivr's 20 MB per-file
 // limit; these are the only raw fields the CSV/stats actually read.
-const EXTRA_KEEP = ['city', 'state_province', 'country'];
+const EXTRA_KEEP = ['city', 'state_province', 'country', 'investor'];
 function slimExtra(companies) {
   return companies.map((c) => {
     const e = c.extra || {};

@@ -74,6 +74,8 @@
   .name{font-weight:600;font-size:15px;margin-bottom:2px;}
   .desc{color:var(--muted);font-size:13px;margin-bottom:7px;
     display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+  .founders{font-size:12px;color:var(--muted);margin-bottom:6px;}
+  .founders a{color:var(--accent);}
   .meta{display:flex;gap:6px;flex-wrap:wrap;font-size:12px;color:var(--muted);align-items:center;}
   .chip{background:var(--chip);border:1px solid var(--border);border-radius:5px;padding:1px 7px;}
   .chip-src{text-transform:capitalize;font-weight:600;background:#1d4ed8;color:#fff;border-color:#1d4ed8;}
@@ -271,12 +273,19 @@ function card(c) {
   const lnk = (url,label) => url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${label}</a>` : "";
   const social = [lnk(soc.linkedin,"in"), lnk(soc.twitter,"𝕏"), lnk(soc.crunchbase,"cb")].filter(Boolean).join(" · ");
   const title = c.website ? `<a href="${esc(c.website)}" target="_blank" rel="noopener">${esc(c.name)}</a>` : esc(c.name);
+  const founders = (c.founders||[]).map(f => {
+    const label = (f.role ? `${f.role}: ` : "") + (f.name||"");
+    return f.linkedin
+      ? `<a href="${esc(f.linkedin)}" target="_blank" rel="noopener">${esc(label)}</a>`
+      : esc(label);
+  }).filter(Boolean).join(" · ");
   return `<div class="card" data-key="${key}">
     <input type="checkbox" class="card-cb" data-key="${key}" />
     ${logo}
     <div class="body">
       <div class="name">${title} ${badges}</div>
       <div class="desc">${esc(c.description)}</div>
+      ${founders ? `<div class="founders">👤 ${founders}</div>` : ""}
       <div class="meta">
         ${c.source ? `<span class="chip chip-src">${esc(c.source)}</span>` : ""}
         ${c.location ? `<span>📍 ${esc(c.location)}</span>` : ""}
@@ -350,6 +359,7 @@ function toRows(data) {
     Industries: (c.tags||[]).join("; "),
     Year: c.year || "",
     Program: c.program || "",
+    Founders: (c.founders||[]).map(f => f.role ? `${f.name} (${f.role})` : f.name).filter(Boolean).join("; "),
     IsExit: c.isExit ? "Yes" : "No",
     IsUnicorn: c.isUnicorn ? "Yes" : "No",
     IsBCorp: c.isBCorp ? "Yes" : "No",

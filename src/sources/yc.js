@@ -43,6 +43,7 @@ function normalizeYc(d) {
     isUnicorn: false, // YC does not expose a $1B+ flag
     isBCorp: false,
     isCurrentSession: false,
+    founders: [],
     social: {
       linkedin: '',
       twitter: '',
