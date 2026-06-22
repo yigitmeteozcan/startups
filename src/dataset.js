@@ -140,7 +140,7 @@ ${list(stats.byRegion)}
 
 const CDN_BASE =
   process.env.CDN_BASE ||
-  'https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data';
+  'https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data';
 
 // Write the full sliced dataset to disk.
 function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {

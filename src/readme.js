@@ -48,7 +48,7 @@ The open API for every company across multiple startup portfolios — [Techstars
 [![updated](https://img.shields.io/badge/dynamic/json?url=${B}/stats.json&query=$.generatedAt&label=updated)](STATS.md)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-**[🔎 Live explorer →](https://yigitmeteozcan.github.io/techstars/)** · search and filter all ${n(stats.total)} companies in your browser.
+**[🔎 Live explorer →](https://yigitmeteozcan.github.io/startups/)** · search and filter all ${n(stats.total)} companies in your browser.
 
 ## ℹ️ Metadata
 
