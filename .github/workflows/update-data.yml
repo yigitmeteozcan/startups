@@ -43,5 +43,15 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore: update startup portfolios dataset ($(date -u +%Y-%m-%d))"
-            git push
+            # Rebase onto any concurrent pushes and retry, so the data commit
+            # isn't lost to a race with another push.
+            for attempt in 1 2 3 4 5; do
+              if git push; then
+                echo "Pushed on attempt $attempt."
+                break
+              fi
+              echo "Push rejected (attempt $attempt) — rebasing on origin/main and retrying..."
+              git pull --rebase --autostash origin main || exit 1
+              sleep 3
+            done
           fi
