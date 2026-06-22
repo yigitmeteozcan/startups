@@ -231,6 +231,8 @@ const SOURCE_SITES = {
   techstars: 'https://www.techstars.com/portfolio',
   yc: 'https://www.ycombinator.com/companies',
   antler: 'https://www.antler.co/portfolio',
+  500: 'https://500.co/portfolio',
+  ef: 'https://www.joinef.com/portfolio/',
 };
 
 function buildMeta({ counts, groupIndexes, generatedAt, bySource = {} }) {

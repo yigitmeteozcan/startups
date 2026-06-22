@@ -8,6 +8,8 @@ const path = require('path');
 const { fetchAllCompanies } = require('../typesense');
 const { fetchYc } = require('./yc');
 const { fetchAntler } = require('./antler');
+const { fetch500 } = require('./fivehundred');
+const { fetchEf } = require('./ef');
 
 // Techstars: live Typesense when a key is available, otherwise fall back to the
 // already-committed dataset so non-key environments can still rebuild.
@@ -30,9 +32,13 @@ const SOURCES = {
   techstars: fetchTechstars,
   yc: fetchYc,
   antler: fetchAntler,
+  500: fetch500,
+  ef: fetchEf,
 };
 
-async function gatherAll({ sources = ['techstars', 'yc', 'antler'], onLog = console.log } = {}) {
+const DEFAULT_SOURCES = ['techstars', 'yc', 'antler', '500', 'ef'];
+
+async function gatherAll({ sources = DEFAULT_SOURCES, onLog = console.log } = {}) {
   const all = [];
   const summary = {};
   for (const name of sources) {

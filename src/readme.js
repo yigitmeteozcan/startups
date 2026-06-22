@@ -40,7 +40,7 @@ function renderReadme(meta, stats) {
 
   return `# Startup Portfolios API
 
-The open API for every company across multiple startup portfolios — [Techstars](https://www.techstars.com/portfolio), [Y Combinator](https://www.ycombinator.com/companies), and [Antler](https://www.antler.co/portfolio). Every record carries a \`source\` field, so you can query one combined dataset or filter to a single program. The data is refreshed automatically every day and served as static JSON, CSV, and XLSX over the jsDelivr CDN — no key, no rate limits, no setup.
+The open API for every company across multiple startup portfolios — [Techstars](https://www.techstars.com/portfolio), [Y Combinator](https://www.ycombinator.com/companies), [Antler](https://www.antler.co/portfolio), [500 Global](https://500.co/portfolio), and [Entrepreneur First](https://www.joinef.com/portfolio/). Every record carries a \`source\` field, so you can query one combined dataset or filter to a single program. The data is refreshed automatically every day and served as static JSON, CSV, and XLSX over the jsDelivr CDN — no key, no rate limits, no setup.
 
 **Sources:** ${sourceLine || 'Techstars · Y Combinator · Antler'}
 
@@ -174,7 +174,7 @@ Each company is an object with the following fields:
 
 | Field | Type | Description |
 |---|---|---|
-| \`source\` | string | Portfolio source (\`techstars\`, \`yc\`, or \`antler\`) |
+| \`source\` | string | Portfolio source (\`techstars\`, \`yc\`, \`antler\`, \`500\`, or \`ef\`) |
 | \`name\` | string | Company name |
 | \`description\` | string | Short description |
 | \`website\` | string | Company website URL |
@@ -225,7 +225,7 @@ See **[STATS.md](STATS.md)** for charts — companies per year, top countries an
 
 ## 🔄 How it stays fresh
 
-A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, and Antler via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result. So the data here tracks the live portfolios without any manual work.
+A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, and Antler, 500 Global, and Entrepreneur First via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result. So the data here tracks the live portfolios without any manual work.
 
 ## 🛠️ Run it yourself
 
@@ -244,7 +244,7 @@ npm run export            # one-off Excel export
 
 ## 📄 License
 
-[MIT](LICENSE). Data is sourced from the public Techstars, Y Combinator, and Antler portfolios; please respect each provider's terms when using it. This project is not affiliated with or endorsed by Techstars, Y Combinator, or Antler.
+[MIT](LICENSE). Data is sourced from the public Techstars, Y Combinator, Antler, 500 Global, and Entrepreneur First portfolios; please respect each provider's terms when using it. This project is not affiliated with or endorsed by any of them.
 `;
 }
 
