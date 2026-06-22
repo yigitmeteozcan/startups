@@ -4,9 +4,9 @@ _Auto-generated from the dataset on 2026-06-22._
 
 | Metric | Count |
 |---|---|
-| Total companies | **15,047** |
+| Total companies | **15,044** |
 | 🦄 Unicorns ($1B+) | **77** |
-| 💰 Exits | **2115** |
+| 💰 Exits | **2117** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -16,7 +16,7 @@ _Auto-generated from the dataset on 2026-06-22._
 |---|---|
 | yc | 5,963 |
 | techstars | 5,105 |
-| 500 | 2,244 |
+| 500 | 2,241 |
 | antler | 1,237 |
 | ef | 498 |
 
@@ -31,11 +31,11 @@ _Auto-generated from the dataset on 2026-06-22._
 2010  ███░░░░░░░░░░░░░░░░░░░░░░░░░ 149
 2011  █████░░░░░░░░░░░░░░░░░░░░░░░ 253
 2012  ███████░░░░░░░░░░░░░░░░░░░░░ 355
-2013  ██████░░░░░░░░░░░░░░░░░░░░░░ 322
+2013  ██████░░░░░░░░░░░░░░░░░░░░░░ 321
 2014  █████████░░░░░░░░░░░░░░░░░░░ 448
 2015  █████████████░░░░░░░░░░░░░░░ 661
 2016  █████████████░░░░░░░░░░░░░░░ 689
-2017  ███████████████░░░░░░░░░░░░░ 770
+2017  ███████████████░░░░░░░░░░░░░ 768
 2018  ████████████████░░░░░░░░░░░░ 818
 2019  ███████████████████░░░░░░░░░ 984
 2020  ███████████████████░░░░░░░░░ 1004
@@ -51,7 +51,7 @@ _Auto-generated from the dataset on 2026-06-22._
 ## Top countries
 1. **United States** — 4314
 2. **United Kingdom** — 427
-3. **Canada** — 324
+3. **Canada** — 322
 4. **Singapore** — 141
 5. **Israel** — 138
 6. **Mexico** — 120
@@ -83,7 +83,7 @@ _Auto-generated from the dataset on 2026-06-22._
 15. **Cambridge** — 71
 
 ## Top programs
-1. **500 Global** — 1404
+1. **500 Global** — 1401
 2. **Antler** — 1237
 3. **Entrepreneur First** — 498
 4. **YC Winter 2022** — 398
@@ -130,13 +130,13 @@ _Auto-generated from the dataset on 2026-06-22._
 6. **South Asia** — 265
 7. **United Kingdom** — 210
 8. **India** — 200
-9. **Canada** — 196
+9. **Canada** — 194
 10. **Unspecified** — 183
 11. **Latin America** — 165
 12. **Middle East** — 159
 13. **Asia** — 142
 14. **Remote** — 114
-15. **North Asia** — 111
+15. **North Asia** — 110
 16. **Africa** — 107
 17. **Southeast Asia** — 95
 18. **Mexico** — 80
