@@ -10,6 +10,8 @@ const { fetchYc } = require('./yc');
 const { fetchAntler } = require('./antler');
 const { fetch500 } = require('./fivehundred');
 const { fetchEf } = require('./ef');
+const { fetchAlchemist } = require('./alchemist');
+const { fetchPlugAndPlay } = require('./plugandplay');
 
 // Techstars: live Typesense when a key is available, otherwise fall back to the
 // already-committed dataset so non-key environments can still rebuild.
@@ -34,9 +36,11 @@ const SOURCES = {
   antler: fetchAntler,
   500: fetch500,
   ef: fetchEf,
+  alchemist: fetchAlchemist,
+  plugandplay: fetchPlugAndPlay,
 };
 
-const DEFAULT_SOURCES = ['techstars', 'yc', 'antler', '500', 'ef'];
+const DEFAULT_SOURCES = ['techstars', 'yc', 'antler', '500', 'ef', 'alchemist', 'plugandplay'];
 
 async function gatherAll({ sources = DEFAULT_SOURCES, onLog = console.log } = {}) {
   const all = [];

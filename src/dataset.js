@@ -240,6 +240,8 @@ const SOURCE_SITES = {
   antler: 'https://www.antler.co/portfolio',
   500: 'https://500.co/portfolio',
   ef: 'https://www.joinef.com/portfolio/',
+  alchemist: 'https://www.alchemistaccelerator.com/portfolio',
+  plugandplay: 'https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups',
 };
 
 function buildMeta({ counts, groupIndexes, generatedAt, bySource = {} }) {

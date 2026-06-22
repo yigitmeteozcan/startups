@@ -14,7 +14,7 @@ const { writeDataset, writeXlsx } = require('../src/dataset');
 
 async function main() {
   const root = path.resolve(__dirname, '..');
-  const sources = (process.env.SOURCES || 'techstars,yc,antler,500,ef')
+  const sources = (process.env.SOURCES || 'techstars,yc,antler,500,ef,alchemist,plugandplay')
     .split(',')
     .map((s) => s.trim())
     .filter(Boolean);
