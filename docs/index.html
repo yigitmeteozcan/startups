@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Techstars Portfolio Explorer</title>
-<meta name="description" content="Search and filter every Techstars portfolio company — free open dataset." />
+<title>Startup Portfolios Explorer</title>
+<meta name="description" content="Search and filter every Techstars, Y Combinator, and Antler portfolio company — free open dataset." />
 <!-- SheetJS for in-browser Excel export -->
 <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
 <style>
@@ -76,6 +76,7 @@
     display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
   .meta{display:flex;gap:6px;flex-wrap:wrap;font-size:12px;color:var(--muted);align-items:center;}
   .chip{background:var(--chip);border:1px solid var(--border);border-radius:5px;padding:1px 7px;}
+  .chip-src{text-transform:capitalize;font-weight:600;background:#1d4ed8;color:#fff;border-color:#1d4ed8;}
   .badge{border-radius:5px;padding:1px 7px;font-weight:600;color:#0d1117;}
   .b-uni{background:var(--uni);}
   .b-exit{background:var(--exit);}
@@ -94,14 +95,15 @@
 </head>
 <body>
 <header>
-  <h1>Techstars Portfolio Explorer</h1>
+  <h1>Startup Portfolios Explorer</h1>
   <p class="sub">
-    Every Techstars portfolio company, searchable and filterable.
-    Data via the open <a href="https://github.com/yigitmeteozcan/techstars">Techstars Portfolio API</a>.
+    Every Techstars, Y Combinator, and Antler portfolio company, searchable and filterable.
+    Data via the open <a href="https://github.com/yigitmeteozcan/startups">Startup Portfolios API</a>.
   </p>
   <div class="stats" id="stats"></div>
   <div class="controls">
     <input type="search" id="q" placeholder="Search name or description…" autocomplete="off" />
+    <select id="source"><option value="">All sources</option></select>
     <select id="region"><option value="">All regions</option></select>
     <select id="year"><option value="">All years</option></select>
     <select id="industry"><option value="">All industries</option></select>
@@ -132,8 +134,10 @@
 
 <footer>
   Data: <a href="https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.json">all.json</a> ·
-  Source: <a href="https://www.techstars.com/portfolio">Techstars portfolio</a> ·
-  Not affiliated with Techstars.
+  Sources: <a href="https://www.techstars.com/portfolio">Techstars</a>,
+  <a href="https://www.ycombinator.com/companies">Y Combinator</a>,
+  <a href="https://www.antler.co/portfolio">Antler</a> ·
+  Not affiliated with any of them.
 </footer>
 
 <script>
@@ -179,6 +183,7 @@ function uniq(fn, numeric) {
 }
 
 function buildFilters() {
+  for (const s of uniq(c => c.source)) $("source").insertAdjacentHTML("beforeend",`<option>${esc(s)}</option>`);
   for (const r of uniq(c => c.region)) $("region").insertAdjacentHTML("beforeend",`<option>${esc(r)}</option>`);
   for (const y of uniq(c => c.year, true)) $("year").insertAdjacentHTML("beforeend",`<option>${esc(y)}</option>`);
   for (const t of uniq(c => c.tags)) $("industry").insertAdjacentHTML("beforeend",`<option>${esc(t)}</option>`);
@@ -186,9 +191,10 @@ function buildFilters() {
 
 function apply() {
   const q = $("q").value.trim().toLowerCase();
-  const region = $("region").value, year = $("year").value, industry = $("industry").value;
+  const source = $("source").value, region = $("region").value, year = $("year").value, industry = $("industry").value;
   filtered = companies.filter(c => {
     if (q && !(`${c.name} ${c.description}`.toLowerCase().includes(q))) return false;
+    if (source && c.source !== source) return false;
     if (region && c.region !== region) return false;
     if (year && String(c.year) !== year) return false;
     if (industry && !(c.tags||[]).includes(industry)) return false;
@@ -251,6 +257,7 @@ function card(c) {
       <div class="name">${title} ${badges}</div>
       <div class="desc">${esc(c.description)}</div>
       <div class="meta">
+        ${c.source ? `<span class="chip chip-src">${esc(c.source)}</span>` : ""}
         ${c.location ? `<span>📍 ${esc(c.location)}</span>` : ""}
         ${c.year ? `<span class="chip">${esc(c.year)}</span>` : ""}
         ${c.program ? `<span class="chip">${esc(c.program)}</span>` : ""}
@@ -312,6 +319,7 @@ function exportData() {
 
 function toRows(data) {
   return data.map(c => ({
+    Source: c.source || "",
     Name: c.name || "",
     Description: c.description || "",
     Website: c.website || "",
@@ -340,7 +348,7 @@ $("btn-csv").addEventListener("click", () => {
   const cols = Object.keys(rows[0]);
   const esc = v => { const s = v == null ? "" : String(v); return /[",\n]/.test(s) ? `"${s.replace(/"/g,'""')}"` : s; };
   const csv = [cols.join(","), ...rows.map(r => cols.map(c => esc(r[c])).join(","))].join("\n");
-  download(new Blob([csv], { type: "text/csv" }), `techstars-${label()}.csv`);
+  download(new Blob([csv], { type: "text/csv" }), `startups-${label()}.csv`);
 });
 
 // Excel export (SheetJS)
@@ -351,15 +359,15 @@ $("btn-xl").addEventListener("click", () => {
   const ws = XLSX.utils.json_to_sheet(rows);
   // freeze header row, set column widths
   ws["!freeze"] = { xSplit: 0, ySplit: 1 };
-  ws["!cols"] = [30,60,30,30,15,18,40,8,50,8,10,8,15,35,35,35,35,35].map(w => ({ wch: w }));
-  XLSX.utils.book_append_sheet(wb, ws, "Techstars");
-  XLSX.writeFile(wb, `techstars-${label()}.xlsx`);
+  ws["!cols"] = [12,30,60,30,30,15,18,40,8,50,8,10,8,15,35,35,35,35,35].map(w => ({ wch: w }));
+  XLSX.utils.book_append_sheet(wb, ws, "Startups");
+  XLSX.writeFile(wb, `startups-${label()}.xlsx`);
 });
 
 function label() {
   const q = $("q").value.trim();
-  const r = $("region").value, y = $("year").value, i = $("industry").value;
-  const parts = [q,r,y,i].filter(Boolean);
+  const s = $("source").value, r = $("region").value, y = $("year").value, i = $("industry").value;
+  const parts = [q,s,r,y,i].filter(Boolean);
   return parts.length ? parts.join("-").toLowerCase().replace(/[^a-z0-9-]/g,"-") : "portfolio";
 }
 
@@ -385,7 +393,7 @@ function renderPager() {
 // ── Event wiring ──────────────────────────────────────────────────────────────
 let t;
 $("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(apply, 150); });
-["region","year","industry"].forEach(id => $(id).addEventListener("change", apply));
+["source","region","year","industry"].forEach(id => $(id).addEventListener("change", apply));
 document.querySelectorAll(".toggle").forEach(btn => btn.addEventListener("click", () => {
   const f = btn.dataset.flag;
   flags[f] = !flags[f];

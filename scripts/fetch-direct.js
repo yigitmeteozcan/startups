@@ -1,16 +1,32 @@
 #!/usr/bin/env node
-// CI-friendly dataset build: queries Typesense directly (no browser), then
-// writes the full sliced dataset. Requires TYPESENSE_API_KEY in the env.
+// CI-friendly dataset build. Gathers every source (Techstars via Typesense, YC
+// via the static JSON mirror, Antler via the headless browser), merges them,
+// and writes the full sliced dataset.
+//
+// Techstars needs TYPESENSE_API_KEY in the env; if it's absent the build falls
+// back to the committed data/all.json for Techstars. Antler needs a browser and
+// network reachability to antler.co — if it can't run it's skipped without
+// failing the build. Pass SOURCES=techstars,yc to limit which sources run.
 
 const path = require('path');
-const { fetchAllCompanies } = require('../src/typesense');
+const { gatherAll } = require('../src/sources');
 const { writeDataset, writeXlsx } = require('../src/dataset');
 
 async function main() {
   const root = path.resolve(__dirname, '..');
-  console.log('Fetching all companies from Typesense (no browser)...');
-  const companies = await fetchAllCompanies();
-  console.log(`Fetched ${companies.length} companies.`);
+  const sources = (process.env.SOURCES || 'techstars,yc,antler')
+    .split(',')
+    .map((s) => s.trim())
+    .filter(Boolean);
+
+  console.log(`Gathering sources: ${sources.join(', ')}`);
+  const { companies, summary } = await gatherAll({ sources });
+  console.log(`\nFetched ${companies.length} companies total:`);
+  for (const [name, n] of Object.entries(summary)) console.log(`  ${name}: ${n}`);
+
+  if (companies.length === 0) {
+    throw new Error('No companies fetched from any source — refusing to overwrite dataset.');
+  }
 
   const stats = writeDataset(companies, { rootDir: root });
   await writeXlsx(companies, path.join(root, 'data', 'all.xlsx'));

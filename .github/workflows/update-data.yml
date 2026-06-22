@@ -24,9 +24,12 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci --omit=optional --ignore-scripts
+        run: npm ci --omit=optional
 
-      - name: Fetch latest portfolio data
+      - name: Install Playwright Chromium (for Antler)
+        run: npx playwright install --with-deps chromium
+
+      - name: Fetch latest portfolio data (Techstars + YC + Antler)
         env:
           TYPESENSE_API_KEY: ${{ secrets.TYPESENSE_API_KEY }}
         run: npm run fetch:data
@@ -39,6 +42,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update Techstars dataset ($(date -u +%Y-%m-%d))"
+            git commit -m "chore: update startup portfolios dataset ($(date -u +%Y-%m-%d))"
             git push
           fi

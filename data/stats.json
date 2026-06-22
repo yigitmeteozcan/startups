@@ -1,31 +1,38 @@
 {
-  "generatedAt": "2026-06-21T15:28:22.549Z",
-  "total": 5105,
+  "generatedAt": "2026-06-22T05:16:42.077Z",
+  "total": 11068,
+  "bySource": {
+    "yc": 5963,
+    "techstars": 5105
+  },
   "unicorns": 23,
-  "exits": 621,
+  "exits": 1435,
   "bCorps": 29,
   "currentSession": 0,
   "byYear": {
-    "2007": 10,
-    "2008": 10,
-    "2009": 19,
-    "2010": 31,
-    "2011": 57,
-    "2012": 92,
-    "2013": 128,
-    "2014": 151,
-    "2015": 194,
-    "2016": 217,
-    "2017": 291,
-    "2018": 378,
-    "2019": 404,
-    "2020": 412,
-    "2021": 459,
-    "2022": 575,
-    "2023": 767,
-    "2024": 637,
-    "2025": 221,
-    "2026": 52
+    "2005": 9,
+    "2006": 18,
+    "2007": 42,
+    "2008": 53,
+    "2009": 61,
+    "2010": 94,
+    "2011": 162,
+    "2012": 241,
+    "2013": 226,
+    "2014": 303,
+    "2015": 408,
+    "2016": 441,
+    "2017": 532,
+    "2018": 655,
+    "2019": 775,
+    "2020": 849,
+    "2021": 1186,
+    "2022": 1207,
+    "2023": 1260,
+    "2024": 1228,
+    "2025": 845,
+    "2026": 471,
+    "2027": 1
   },
   "topCountries": [
     [
@@ -153,12 +160,28 @@
   ],
   "byRegion": [
     [
+      "United States of America",
+      4433
+    ],
+    [
       "Americas",
       3749
     ],
     [
       "Europe",
       894
+    ],
+    [
+      "United Kingdom",
+      210
+    ],
+    [
+      "India",
+      200
+    ],
+    [
+      "Unspecified",
+      183
     ],
     [
       "Middle East",
@@ -169,88 +192,432 @@
       142
     ],
     [
+      "Canada",
+      133
+    ],
+    [
+      "Remote",
+      114
+    ],
+    [
       "Africa",
       88
     ],
     [
+      "Mexico",
+      80
+    ],
+    [
       "Oceania",
       73
+    ],
+    [
+      "France",
+      53
+    ],
+    [
+      "Nigeria",
+      51
+    ],
+    [
+      "Singapore",
+      49
+    ],
+    [
+      "Brazil",
+      47
+    ],
+    [
+      "Germany",
+      46
+    ],
+    [
+      "Indonesia",
+      30
+    ],
+    [
+      "Colombia",
+      29
+    ],
+    [
+      "Israel",
+      28
+    ],
+    [
+      "Argentina",
+      17
+    ],
+    [
+      "Spain",
+      16
+    ],
+    [
+      "Chile",
+      16
+    ],
+    [
+      "Denmark",
+      13
+    ],
+    [
+      "Netherlands",
+      11
+    ],
+    [
+      "Egypt",
+      11
+    ],
+    [
+      "Australia",
+      11
+    ],
+    [
+      "Sweden",
+      10
+    ],
+    [
+      "United Arab Emirates",
+      10
+    ],
+    [
+      "Pakistan",
+      10
+    ],
+    [
+      "Kenya",
+      9
+    ],
+    [
+      "Switzerland",
+      9
+    ],
+    [
+      "Ireland",
+      8
+    ],
+    [
+      "Philippines",
+      8
+    ],
+    [
+      "China",
+      7
+    ],
+    [
+      "Peru",
+      7
+    ],
+    [
+      "Hong Kong",
+      6
+    ],
+    [
+      "Malaysia",
+      6
+    ],
+    [
+      "Vietnam",
+      6
+    ],
+    [
+      "Poland",
+      5
+    ],
+    [
+      "South Korea",
+      5
+    ],
+    [
+      "Panama",
+      5
+    ],
+    [
+      "Austria",
+      4
+    ],
+    [
+      "Slovenia",
+      4
+    ],
+    [
+      "Ghana",
+      4
+    ],
+    [
+      "Norway",
+      4
+    ],
+    [
+      "Saudi Arabia",
+      4
+    ],
+    [
+      "Morocco",
+      3
+    ],
+    [
+      "Estonia",
+      3
+    ],
+    [
+      "Belgium",
+      3
+    ],
+    [
+      "Senegal",
+      2
+    ],
+    [
+      "South Africa",
+      2
+    ],
+    [
+      "New Zealand",
+      2
+    ],
+    [
+      "Turkey",
+      2
+    ],
+    [
+      "Ukraine",
+      2
+    ],
+    [
+      "Italy",
+      2
+    ],
+    [
+      "Finland",
+      2
+    ],
+    [
+      "Nepal",
+      1
+    ],
+    [
+      "Bangladesh",
+      1
+    ],
+    [
+      "Russia",
+      1
+    ],
+    [
+      "Hungary",
+      1
+    ],
+    [
+      "Latvia",
+      1
+    ],
+    [
+      "Puerto Rico",
+      1
+    ],
+    [
+      "Czechia",
+      1
+    ],
+    [
+      "Greece",
+      1
+    ],
+    [
+      "Iraq",
+      1
+    ],
+    [
+      "Kyrgyzstan",
+      1
+    ],
+    [
+      "Tanzania",
+      1
+    ],
+    [
+      "Algeria",
+      1
+    ],
+    [
+      "Croatia",
+      1
+    ],
+    [
+      "Lithuania",
+      1
+    ],
+    [
+      "Ivory Coast",
+      1
+    ],
+    [
+      "Romania",
+      1
+    ],
+    [
+      "Zambia",
+      1
+    ],
+    [
+      "Ecuador",
+      1
+    ],
+    [
+      "Cyprus",
+      1
+    ],
+    [
+      "Georgia",
+      1
+    ],
+    [
+      "Namibia",
+      1
+    ],
+    [
+      "Costa Rica",
+      1
+    ],
+    [
+      "Uganda",
+      1
+    ],
+    [
+      "Bahrain",
+      1
+    ],
+    [
+      "Venezuela",
+      1
+    ],
+    [
+      "Ethiopia",
+      1
+    ],
+    [
+      "Japan",
+      1
+    ],
+    [
+      "Democratic Republic of the Congo",
+      1
     ]
   ],
   "topPrograms": [
     [
+      "YC Winter 2022",
+      398
+    ],
+    [
+      "YC Summer 2021",
+      391
+    ],
+    [
+      "YC Winter 2021",
+      336
+    ],
+    [
       "Techstars New York City Accelerator",
       274
+    ],
+    [
+      "YC Winter 2023",
+      274
+    ],
+    [
+      "YC Winter 2024",
+      249
+    ],
+    [
+      "YC Summer 2024",
+      248
     ],
     [
       "Techstars Boston Accelerator",
       239
     ],
     [
+      "YC Summer 2022",
+      234
+    ],
+    [
+      "YC Winter 2020",
+      229
+    ],
+    [
+      "YC Summer 2023",
+      219
+    ],
+    [
       "Techstars Boulder Accelerator",
       216
     ],
     [
-      "Techstars London Accelerator",
-      177
+      "YC Summer 2020",
+      208
     ],
     [
-      "Techstars Seattle Accelerator",
-      165
+      "YC Winter 2026",
+      198
     ],
     [
-      "Techstars Austin Accelerator",
-      138
-    ],
-    [
-      "Techstars Berlin Accelerator",
-      129
-    ],
-    [
-      "Techstars Chicago Accelerator",
-      116
-    ],
-    [
-      "Techstars Anywhere Accelerator",
-      116
-    ],
-    [
-      "Techstars Space Accelerator",
-      104
-    ],
-    [
-      "Techstars Toronto Accelerator",
-      100
-    ],
-    [
-      "Techstars Atlanta powered by Cox Enterprises",
-      86
-    ],
-    [
-      "Techstars Future of Food Powered by Ecolab",
-      84
-    ],
-    [
-      "Techstars Tel Aviv Accelerator",
-      80
-    ],
-    [
-      "Build in Tulsa Techstars Accelerator",
-      79
+      "YC Spring 2026",
+      197
     ]
   ],
   "topIndustries": [
     [
+      "B2B",
+      3264
+    ],
+    [
+      "Fintech",
+      1897
+    ],
+    [
       "Artificial intelligence and machine learning",
       1510
+    ],
+    [
+      "SaaS",
+      1304
     ],
     [
       "Mobile",
       1136
     ],
     [
-      "Fintech",
-      1031
+      "Consumer",
+      957
+    ],
+    [
+      "Artificial Intelligence",
+      881
+    ],
+    [
+      "AI",
+      784
+    ],
+    [
+      "Healthcare",
+      705
+    ],
+    [
+      "Infrastructure",
+      631
+    ],
+    [
+      "Engineering, Product and Design",
+      603
+    ],
+    [
+      "Developer Tools",
+      517
+    ],
+    [
+      "Industrials",
+      491
     ],
     [
       "Healthtech",
@@ -277,48 +644,8 @@
       332
     ],
     [
-      "Technology, media and telecommunications",
-      311
-    ],
-    [
-      "Infrastructure",
-      271
-    ],
-    [
-      "Big Data",
-      266
-    ],
-    [
-      "Cryptocurrency/Blockchain",
-      261
-    ],
-    [
-      "Edtech",
-      234
-    ],
-    [
-      "SaaS",
-      229
-    ],
-    [
-      "Digital health",
-      204
-    ],
-    [
-      "Robotics and Drones",
-      195
-    ],
-    [
-      "Marketing tech",
-      188
-    ],
-    [
-      "Gaming",
-      183
-    ],
-    [
-      "Real estate tech",
-      179
+      "Productivity",
+      321
     ]
   ]
 }

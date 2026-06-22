@@ -23,6 +23,7 @@ function writeJson(file, data) {
 // Minimal RFC-4180 CSV (quotes fields containing comma/quote/newline).
 function toCsv(companies) {
   const cols = [
+    ['source', (c) => c.source || ''],
     ['name', (c) => c.name],
     ['description', (c) => c.description],
     ['website', (c) => c.website],
@@ -67,6 +68,7 @@ function computeStats(companies) {
   return {
     generatedAt: new Date().toISOString(),
     total: companies.length,
+    bySource: Object.fromEntries(countBy(companies, (c) => c.source)),
     unicorns: companies.filter((c) => c.isUnicorn).length,
     exits: companies.filter((c) => c.isExit).length,
     bCorps: companies.filter((c) => c.isBCorp).length,
@@ -95,7 +97,13 @@ function renderStatsMarkdown(stats) {
   const list = (rows) =>
     rows.map(([k, n], i) => `${i + 1}. **${k}** — ${n}`).join('\n');
 
-  return `# Techstars Portfolio — by the numbers
+  const sourceRows = Object.entries(stats.bySource || {}).sort((a, b) => b[1] - a[1]);
+  const sourceTable = sourceRows.length
+    ? '\n\n## By source\n\n| Source | Companies |\n|---|---|\n' +
+      sourceRows.map(([k, n]) => `| ${k} | ${n.toLocaleString()} |`).join('\n')
+    : '';
+
+  return `# Startup Portfolios — by the numbers
 
 _Auto-generated from the dataset on ${stats.generatedAt.slice(0, 10)}._
 
@@ -105,7 +113,7 @@ _Auto-generated from the dataset on ${stats.generatedAt.slice(0, 10)}._
 | 🦄 Unicorns ($1B+) | **${stats.unicorns}** |
 | 💰 Exits | **${stats.exits}** |
 | 🌱 B Corps | **${stats.bCorps}** |
-| Current session | **${stats.currentSession}** |
+| Current session | **${stats.currentSession}** |${sourceTable}
 
 ## Companies by first session year
 
@@ -173,6 +181,7 @@ function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {
     groupIndexes[subdir] = index;
   };
 
+  groupWrite('by-source', (c) => c.source);
   groupWrite('by-year', (c) => c.year);
   groupWrite('by-program', (c) => c.program);
   groupWrite('by-region', (c) => c.region);
@@ -191,7 +200,7 @@ function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {
     bCorps: bCorps.length,
     current: current.length,
   };
-  const meta = buildMeta({ counts, groupIndexes, generatedAt: stats.generatedAt });
+  const meta = buildMeta({ counts, groupIndexes, generatedAt: stats.generatedAt, bySource: stats.bySource });
   writeJson(path.join(base, 'meta.json'), meta);
 
   // Keep README counts/tables in sync with the data.
@@ -201,7 +210,13 @@ function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {
 }
 
 // Build the endpoint catalog. Every entry carries a ready-to-use CDN URL.
-function buildMeta({ counts, groupIndexes, generatedAt }) {
+const SOURCE_SITES = {
+  techstars: 'https://www.techstars.com/portfolio',
+  yc: 'https://www.ycombinator.com/companies',
+  antler: 'https://www.antler.co/portfolio',
+};
+
+function buildMeta({ counts, groupIndexes, generatedAt, bySource = {} }) {
   const url = (p) => `${CDN_BASE}/${p}`;
   const collection = (subdir) =>
     Object.entries(groupIndexes[subdir] || {})
@@ -215,7 +230,11 @@ function buildMeta({ counts, groupIndexes, generatedAt }) {
 
   return {
     generatedAt,
-    source: 'https://www.techstars.com/portfolio',
+    sources: Object.keys(bySource).map((name) => ({
+      name,
+      site: SOURCE_SITES[name] || '',
+      count: bySource[name],
+    })),
     cdn: CDN_BASE,
     total: counts.all,
     endpoints: {
@@ -227,6 +246,7 @@ function buildMeta({ counts, groupIndexes, generatedAt }) {
       stats: { api: url('stats.json') },
     },
     collections: {
+      'by-source': collection('by-source'),
       'by-year': collection('by-year'),
       'by-program': collection('by-program'),
       'by-region': collection('by-region'),

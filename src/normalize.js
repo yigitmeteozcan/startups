@@ -11,7 +11,7 @@ function addHttps(url) {
   return url.startsWith('http') ? url : `https://${url}`;
 }
 
-function normalizeCompany(raw) {
+function normalizeCompany(raw, source = 'techstars') {
   // Unwrap Typesense hit wrappers if present.
   const d = raw.document && typeof raw.document === 'object' ? raw.document : raw;
 
@@ -36,6 +36,7 @@ function normalizeCompany(raw) {
     '';
 
   return {
+    source,
     name: d.company_name || d.name || d.title || '',
     description:
       d.brief_description || d.description || d.short_description ||

@@ -1,13 +1,14 @@
 {
-  "name": "techstars-portfolio-api",
+  "name": "startup-portfolios-api",
   "version": "1.0.0",
-  "description": "API to scrape Techstars portfolio company information",
+  "description": "Open API aggregating Techstars, Y Combinator, and Antler portfolio companies",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
     "export": "node scripts/export.js",
     "build:data": "node scripts/build-dataset.js",
+    "build:all": "node scripts/fetch-direct.js",
     "build:readme": "node scripts/build-readme.js",
     "get-key": "node scripts/get-key.js",
     "fetch:data": "node scripts/fetch-direct.js",

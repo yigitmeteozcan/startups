@@ -17,6 +17,7 @@ function renderReadme(meta, stats) {
   const date = (stats.generatedAt || meta.generatedAt || '').slice(0, 10);
   const n = (x) => Number(x || 0).toLocaleString();
 
+  const tSource = collectionTable(meta, 'by-source', 'Source');
   const tYear = collectionTable(meta, 'by-year', 'Year', {
     sortFn: (a, b) => Number(b.name) - Number(a.name),
   });
@@ -24,14 +25,24 @@ function renderReadme(meta, stats) {
   const tRegion = collectionTable(meta, 'by-region', 'Region');
   const tProgram = collectionTable(meta, 'by-program', 'Program');
 
+  const sources = meta.sources || [];
+  const sourceLine = sources.length
+    ? sources
+        .slice()
+        .sort((a, b) => b.count - a.count)
+        .map((s) => `[${s.name}](${s.site}) (${n(s.count)})`)
+        .join(' · ')
+    : '';
   const cYear = (meta.collections['by-year'] || []).length;
   const cIndustry = (meta.collections['by-industry'] || []).length;
   const cRegion = (meta.collections['by-region'] || []).length;
   const cProgram = (meta.collections['by-program'] || []).length;
 
-  return `# Techstars Portfolio API
+  return `# Startup Portfolios API
 
-The open API for every company in the [Techstars](https://www.techstars.com/portfolio) portfolio. The data is pulled directly from the portfolio's public search index (not scraped from HTML) and refreshed automatically every day, then served as static JSON, CSV, and XLSX over the jsDelivr CDN — no key, no rate limits, no setup.
+The open API for every company across multiple startup portfolios — [Techstars](https://www.techstars.com/portfolio), [Y Combinator](https://www.ycombinator.com/companies), and [Antler](https://www.antler.co/portfolio). Every record carries a \`source\` field, so you can query one combined dataset or filter to a single program. The data is refreshed automatically every day and served as static JSON, CSV, and XLSX over the jsDelivr CDN — no key, no rate limits, no setup.
+
+**Sources:** ${sourceLine || 'Techstars · Y Combinator · Antler'}
 
 [![companies](https://img.shields.io/badge/dynamic/json?url=${B}/stats.json&query=$.total&label=companies&color=blue)](${B}/all.json)
 [![updated](https://img.shields.io/badge/dynamic/json?url=${B}/stats.json&query=$.generatedAt&label=updated)](STATS.md)
@@ -43,8 +54,8 @@ The open API for every company in the [Techstars](https://www.techstars.com/port
 
 > Last updated: **${date}**
 
-- **${n(stats.total)}** companies
-- **${cProgram}** accelerator programs
+- **${n(stats.total)}** companies across **${sources.length}** portfolio sources
+- **${cProgram}** accelerator programs / cohorts
 - **${cIndustry}** industry verticals
 - **${cRegion}** world regions, across **${cYear}** cohort years
 - 🦄 **${stats.unicorns}** unicorns · 💰 **${stats.exits}** exits · 🌱 **${stats.bCorps}** B Corps
@@ -110,6 +121,15 @@ ${B}/
 | Aggregate stats | [\`stats.json\`](${B}/stats.json) |
 | **Catalog of every endpoint** | [\`meta.json\`](${B}/meta.json) |
 
+### 🏛️ By source
+
+<details open>
+<summary>${sources.length} portfolio sources — <a href="${B}/by-source/index.json">index.json</a></summary>
+
+${tSource}
+
+</details>
+
 ### 🎓 By year
 
 <details>
@@ -154,6 +174,7 @@ Each company is an object with the following fields:
 
 | Field | Type | Description |
 |---|---|---|
+| \`source\` | string | Portfolio source (\`techstars\`, \`yc\`, or \`antler\`) |
 | \`name\` | string | Company name |
 | \`description\` | string | Short description |
 | \`website\` | string | Company website URL |
@@ -204,7 +225,7 @@ See **[STATS.md](STATS.md)** for charts — companies per year, top countries an
 
 ## 🔄 How it stays fresh
 
-The Techstars portfolio is powered by a public search index. A scheduled job queries it directly, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result — so the data here tracks the live portfolio without any manual work.
+A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, and Antler via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result. So the data here tracks the live portfolios without any manual work.
 
 ## 🛠️ Run it yourself
 
@@ -223,7 +244,7 @@ npm run export            # one-off Excel export
 
 ## 📄 License
 
-[MIT](LICENSE). Data is sourced from the public Techstars portfolio; please respect Techstars' terms when using it. This project is not affiliated with or endorsed by Techstars.
+[MIT](LICENSE). Data is sourced from the public Techstars, Y Combinator, and Antler portfolios; please respect each provider's terms when using it. This project is not affiliated with or endorsed by Techstars, Y Combinator, or Antler.
 `;
 }
 
