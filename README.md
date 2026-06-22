@@ -2275,7 +2275,7 @@ Each company is an object with the following fields:
 | `isBCorp` | boolean | Certified B Corp |
 | `isCurrentSession` | boolean | In the current session |
 | `social` | object | `linkedin`, `twitter`, `facebook`, `crunchbase` URLs |
-| `extra` | object | Raw source record (all original fields) |
+| `extra` | object | Selected raw source fields (`city`, `state_province`, `country`) |
 
 ### Example
 

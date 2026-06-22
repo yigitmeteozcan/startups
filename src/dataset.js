@@ -142,10 +142,27 @@ const CDN_BASE =
   process.env.CDN_BASE ||
   'https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data';
 
+// Keep `extra` to a small whitelist. The full raw record (YC long_description,
+// Q&A, duplicate urls, etc.) bloats all.json past jsDelivr's 20 MB per-file
+// limit; these are the only raw fields the CSV/stats actually read.
+const EXTRA_KEEP = ['city', 'state_province', 'country'];
+function slimExtra(companies) {
+  return companies.map((c) => {
+    const e = c.extra || {};
+    const kept = {};
+    for (const k of EXTRA_KEEP) if (e[k] != null) kept[k] = e[k];
+    return { ...c, extra: kept };
+  });
+}
+
 // Write the full sliced dataset to disk.
 function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {
   const base = path.resolve(rootDir, outDir);
   ensureDir(base);
+
+  // Trim the heavy raw `extra` blob before writing anything (CSV/stats below
+  // only read city/state_province/country from it, which we keep).
+  companies = slimExtra(companies);
 
   // Full dataset (JSON + CSV + XLSX).
   writeJson(path.join(base, 'all.json'), companies);
