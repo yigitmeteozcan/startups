@@ -159,15 +159,18 @@ const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;
 const uid = c => c.name + "||" + (c.website || "");
 
 // ── Load ────────────────────────────────────────────────────────────────────
-// Try jsDelivr first, fall back to raw GitHub if it's not serving yet.
+// Load straight from GitHub first (updates within minutes of a data push, no
+// CDN cache to purge); fall back to the jsDelivr CDN if raw GitHub is rate-
+// limited or unreachable. A cache-busting param avoids any browser/proxy cache.
 async function getJson(file) {
-  for (const base of [CDN, RAW]) {
+  const bust = `?t=${Date.now()}`;
+  for (const base of [RAW, CDN]) {
     try {
-      const r = await fetch(`${base}/${file}`);
+      const r = await fetch(`${base}/${file}${bust}`, { cache: "no-store" });
       if (r.ok) return await r.json();
     } catch (_) { /* try next base */ }
   }
-  throw new Error(`Could not load ${file} from jsDelivr or raw GitHub.`);
+  throw new Error(`Could not load ${file} from GitHub or jsDelivr.`);
 }
 
 async function load() {
