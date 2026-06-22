@@ -256,4 +256,4 @@ function makeBrowserSource(config) {
   };
 }
 
-module.exports = { scrapeSite, makeBrowserSource, normalizeRecord };
+module.exports = { scrapeSite, makeBrowserSource, normalizeRecord, findCompanyArray };
