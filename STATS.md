@@ -4,7 +4,7 @@ _Auto-generated from the dataset on 2026-06-22._
 
 | Metric | Count |
 |---|---|
-| Total companies | **12,305** |
+| Total companies | **12,318** |
 | 🦄 Unicorns ($1B+) | **23** |
 | 💰 Exits | **1435** |
 | 🌱 B Corps | **29** |
@@ -17,6 +17,7 @@ _Auto-generated from the dataset on 2026-06-22._
 | yc | 5,963 |
 | techstars | 5,105 |
 | antler | 1,237 |
+| 500 | 13 |
 
 ## Companies by first session year
 
