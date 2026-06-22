@@ -1,86 +1,253 @@
 [
   {
-    "source": "yc",
-    "name": "42Floors",
-    "description": "We make it easy to search for office space.",
-    "logo": "/company/thumb/missing.png",
-    "website": "http://42floors.com",
-    "location": "San Francisco, CA, USA; Remote",
-    "region": "United States of America",
+    "source": "500",
+    "name": "Ajeer",
+    "description": "Developer of a digital facilities platform designed for providing home maintenance services. The company's platform offers a wide range of services for all home maintenance needs while keeping up with current trends and finding continuous areas of innovative approaches and improvements, enabling customers to access technicians in an on-demand model.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/a7c6e510-2e7b-4bc4-b8eb-5a4bfc8bec5a.png",
+    "website": "https://www.iajeer.com",
+    "location": "Saudi Arabia",
+    "region": "Middle East & Africa",
     "subregion": "",
     "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
+      "PropTech",
+      "Consumer",
+      "B2C"
+    ],
+    "year": 2022,
+    "program": "Misk 3",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/iajeer",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Alterestate",
+    "description": "An all-in-one platform that empowers real estate agencies and developers to boost sales and enhance efficiency through data-driven CRM, marketing, and automation tools.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/0da94363-5650-4386-98c1-e096e071adc6.png",
+    "website": "https://www.alterestate.com",
+    "location": "Dominican Republic",
+    "region": "Latin America",
+    "subregion": "",
+    "tags": [
+      "PropTech",
+      "SaaS",
+      "B2B"
+    ],
+    "year": 2021,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/alterestate/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Dominican Republic"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Dora",
+    "description": "Dora Pay: AI for screening the best tenants and collecting rent on time. ",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/468150e4-c142-4d76-a43c-56b712b23c4f.png",
+    "website": "https://holadora.co",
+    "location": "Colombia",
+    "region": "Latin America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "InsurTech",
+      "PropTech",
+      "B2B"
+    ],
+    "year": 2023,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/hola-dora/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Colombia"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Ejari Co.",
+    "description": "Operator of a real estate technology company intended to provide rent now and pay later service for residential properties. The company rents the unit on behalf of the customer for a period of one year or six months and then re-rents it to the customer with a monthly payment plan, enabling customers to reduce their financial burden and pay rent on a monthly basis.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8452d1bb-af47-415f-a14c-e2682594ef9e.png",
+    "website": "https://ejari.sa",
+    "location": "Saudi Arabia",
+    "region": "Middle East & Africa",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "PropTech",
+      "B2C"
+    ],
+    "year": 2023,
+    "program": "MENA 6",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/ejari/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Expansive",
+    "description": "Developer of an online investment platform created to facilitate real estate crowdfunding. The company's platform displays real estate projects with descriptions, risk factors as well as performance to investors for funding, enabling small and medium-sized developers with the lack of opportunities to finance their projects.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/028b7e0f-d7c8-436e-aabe-2ba43d199094.png",
+    "website": "https://expansive.mx",
+    "location": "Peru",
+    "region": "Latin America",
+    "subregion": "",
+    "tags": [
+      "PropTech",
+      "B2C"
+    ],
+    "year": 2017,
+    "program": "Lucha 7",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Peru"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Flat",
+    "description": "Operator of an online property listing platform intended to help people buy and sell residential properties. The company's platform offers a searchable database that helps to find, browse, and purchase domestic estates based on feedback and reviews from registered customers, enabling users to locate and list properties at a certain range of prices.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/93224e12-e52f-41d7-89b3-207796ca56df.png",
+    "website": "https://www.clau.com",
+    "location": "Mexico",
+    "region": "Latin America",
+    "subregion": "",
+    "tags": [
+      "PropTech",
+      "B2C"
+    ],
+    "year": 2019,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/abreclau",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Mexico"
+    }
+  },
+  {
+    "source": "500",
+    "name": "HappyCo",
+    "description": "Developer of a property inspection platform designed to inspect, monitor, and analyze the performance of real estate assets. The company's platform allows for undertaking mobile inspections, work order management, and remote monitoring and is used for inspecting residential real estate, commercial buildings, cruise ships, ski resorts, food, and fire safety, enabling apartment operators to have real-time visibility and control of operations.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2b34a343-22fa-47e4-84ab-c89b7cff2fae.png",
+    "website": "https://happy.co",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "PropTech",
       "Real Estate",
-      "Proptech"
+      "B2B"
     ],
     "year": 2012,
-    "program": "YC Winter 2012",
+    "program": "500 Global",
     "programSlugs": [
-      "yc-winter-2012"
+      "500"
     ],
-    "isExit": true,
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/happyco/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {
+      "country": "United States"
+    }
   },
   {
-    "source": "yc",
-    "name": "Zeus",
-    "description": "Tech-enabled property manager focused on corporate rentals; Acquired…",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7a77198c0030d747ae9d8cca182ce3d6f4fe59dd.png",
-    "website": "https://zeusliving.com/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "source": "500",
+    "name": "Infraspeak",
+    "description": "Developer of a facility management platform designed to bring entire operations together with intelligent maintenance. The company's platform automates recurring tasks, makes everything work together, and reduces bureaucracy, risks, and costs with the help of innovative technologies, APIs, applications, and sensors to transform all data into actionable insights and suggestions, enabling facilities owners, managers, and service providers to manage facilities significantly with less stress, paper, and costs.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/78881832-2aeb-4106-88ec-ff7db014e128.png",
+    "website": "https://infraspeak.com",
+    "location": "Portugal",
+    "region": "Europe",
     "subregion": "",
     "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
+      "Enterprise",
+      "PropTech",
       "Real Estate",
-      "Proptech"
+      "B2B"
     ],
-    "year": 2011,
-    "program": "YC Summer 2011",
+    "year": 2023,
+    "program": "500 Global",
     "programSlugs": [
-      "yc-summer-2011"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Claimspotting",
-    "description": "Claim and conquer your city",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5d7da52a8f0008b798683c3b997438fab8e37483.png",
-    "website": "http://urbantakeover.at",
-    "location": "Remote",
-    "region": "Remote",
-    "subregion": "",
-    "tags": [
-      "Consumer",
-      "Gaming",
-      "Proptech"
-    ],
-    "year": 2008,
-    "program": "YC Summer 2008",
-    "programSlugs": [
-      "yc-summer-2008"
+      "500"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -92,322 +259,27 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {
+      "country": "Portugal"
+    }
   },
   {
-    "source": "yc",
-    "name": "Guesty",
-    "description": "The management platform for the short term rental industry.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d59f731120bd004f3252c700f665371ea8be8b0e.png",
-    "website": "http://www.guesty.com",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "source": "500",
+    "name": "Lo Que Necesito",
+    "description": "Developer of a property search engine designed to choose housing credit options. The company's platform accompanies and advises the buyer and seller throughout their search and negotiation process and provides a list of property details and accompanies buyers in the process of acquiring credit and reducing the time from the request to its disbursement, enabling buyers and sellers to save time, and money and increase the effectiveness of closing businesses.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/21f937c9-dae9-4e68-9384-ab516826341d.png",
+    "website": "https://loquenecesito.co",
+    "location": "Colombia",
+    "region": "Latin America",
     "subregion": "",
     "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "SaaS",
-      "B2B",
-      "Travel",
-      "Proptech"
-    ],
-    "year": 2014,
-    "program": "YC Winter 2014",
-    "programSlugs": [
-      "yc-winter-2014"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Cribspot",
-    "description": "Tech-Enabled Real Estate Company (YC W15)",
-    "logo": "/company/thumb/missing.png",
-    "website": "http://cribspot.com",
-    "location": "Ann Arbor, MI, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Real Estate",
-      "Proptech"
-    ],
-    "year": 2015,
-    "program": "YC Winter 2015",
-    "programSlugs": [
-      "yc-winter-2015"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "BuildScience",
-    "description": "The operating system for commercial buildings.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ea5b7ba5bf28f127304f4edff2198d051dc6e72f.png",
-    "website": "http://www.buildscience.com/",
-    "location": "Niagara Falls, NY, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Sustainability",
-      "Proptech",
-      "Energy"
-    ],
-    "year": 2015,
-    "program": "YC Winter 2015",
-    "programSlugs": [
-      "yc-winter-2015"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Tenant Turner",
-    "description": "We help residential property managers eliminate vacancy.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/85676abad5fd22db0416185c9b0ba9b6864dade8.png",
-    "website": "http://tenantturner.com",
-    "location": "Richmond, VA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "SaaS",
-      "Smart Locks",
-      "Proptech"
-    ],
-    "year": 2015,
-    "program": "YC Summer 2015",
-    "programSlugs": [
-      "yc-summer-2015"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Landed",
-    "description": "White-labeled shared appreciation down payment programs for employers",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7ab8fa26571630366add5d76d46ba876b673c7b9.png",
-    "website": "http://www.landed.com",
-    "location": "San Francisco, CA, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Credit and Lending",
-      "Proptech"
-    ],
-    "year": 2016,
-    "program": "YC Winter 2016",
-    "programSlugs": [
-      "yc-winter-2016"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Starcity",
-    "description": "Starcity was one of the largest co-living brands. Exit to Common in…",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/573d2b808f8f09ef46ab8547f94821c886a32647.png",
-    "website": "https://starcity.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Real Estate",
-      "Housing",
-      "Proptech"
-    ],
-    "year": 2016,
-    "program": "YC Summer 2016",
-    "programSlugs": [
-      "yc-summer-2016"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "REZI",
-    "description": "Rent Better",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8f48caee61173c5c2660bdd99d7dd475bb82a36c.png",
-    "website": "https://www.rentrezi.com",
-    "location": "New York, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Real Estate",
-      "Proptech"
-    ],
-    "year": 2017,
-    "program": "YC Winter 2017",
-    "programSlugs": [
-      "yc-winter-2017"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "VergeSense",
-    "description": "AI-Powered Building Management",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8ae8f5a94af62b1cae1e783c5ea5dc76b3ccc975.png",
-    "website": "http://www.vergesense.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Artificial Intelligence",
-      "Proptech"
-    ],
-    "year": 2017,
-    "program": "YC Summer 2017",
-    "programSlugs": [
-      "yc-summer-2017"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Roofr",
-    "description": "Sales software for roofers. Aerial measurements + proposals in seconds",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3ca476b7fd3c753aaf02894c9ec075292f0f47ea.png",
-    "website": "https://roofr.com/",
-    "location": "San Francisco, CA, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Consumer",
-      "Home and Personal",
-      "SaaS",
-      "Construction",
-      "Proptech"
-    ],
-    "year": 2017,
-    "program": "YC Summer 2017",
-    "programSlugs": [
-      "yc-summer-2017"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Culdesac",
-    "description": "We build cities for people, not cars. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
-    "website": "http://culdesac.com",
-    "location": "San Francisco, CA, USA; Tempe, AZ, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Real Estate",
-      "Housing",
-      "Proptech",
-      "ClimateTech"
+      "PropTech",
+      "B2A"
     ],
     "year": 2018,
-    "program": "YC Summer 2018",
+    "program": "Lucha 9",
     "programSlugs": [
-      "yc-summer-2018"
+      "500"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -419,28 +291,27 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {
+      "country": "Colombia"
+    }
   },
   {
-    "source": "yc",
-    "name": "Pippin / Rent the Backyard",
-    "description": "Autonomous homebuilding factory for the $1.7 trillion housing crisis.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png",
-    "website": "http://rentthebackyard.com",
-    "location": "Oakland, CA, USA",
-    "region": "United States of America",
+    "source": "500",
+    "name": "MHub",
+    "description": "Developer of a real-estate fin-tech platform designed for property developers, agents and bankers. The company's platform brings together real estate developers, sales teams, bankers, lawyers and buyers, enabling clients to avoid long and arduous property sales journeys.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4e8f55db-bbf1-4e87-b4de-7934897f28e0.png",
+    "website": "https://www.mhub.my",
+    "location": "Malaysia",
+    "region": "South Asia",
     "subregion": "",
     "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Construction",
-      "Housing",
-      "Proptech"
+      "PropTech",
+      "B2A"
     ],
-    "year": 2019,
-    "program": "YC Summer 2019",
+    "year": 2020,
+    "program": "500 Global",
     "programSlugs": [
-      "yc-summer-2019"
+      "500"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -452,28 +323,95 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {
+      "country": "Malaysia"
+    }
   },
   {
-    "source": "yc",
-    "name": "Convex",
-    "description": "Software for the commercial services industry. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7c5d3a6d72aa7ddc98296b94c59a3ba4b3e19f96.png",
-    "website": "https://www.convex.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "source": "500",
+    "name": "Blynk",
+    "description": "Operator of a property tech marketplace platform intended to protect clients' property ownership, and transform it into a digital wallet. The company's platform offers a digital home registration service, home equity investment, financing at low-interest rates and a custom dashboard for the organization, enabling borrowers with online and effortless access to mortgage options.",
+    "logo": "",
+    "website": "https://mnzl.co",
+    "location": "Egypt",
+    "region": "Middle East & Africa",
     "subregion": "",
     "tags": [
-      "B2B",
-      "Sales",
-      "SaaS",
-      "Proptech",
-      "Enterprise"
+      "FinTech",
+      "Impact",
+      "PropTech",
+      "B2C"
     ],
-    "year": 2019,
-    "program": "YC Winter 2019",
+    "year": 2022,
+    "program": "500 Global",
     "programSlugs": [
-      "yc-winter-2019"
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Egypt"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Mubit",
+    "description": "Provider of a storage service intended to store valuables and goods securely. The company allows users to store furniture, files, boxes, and anything they want in macro-warehouses with a single click, enabling individuals to ensure the benefit from hassle-less, economic, and intelligent storage.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/032e6ab4-9825-4c57-b09a-60c3439b4541.png",
+    "website": "https://mubit.co",
+    "location": "Mexico",
+    "region": "Latin America",
+    "subregion": "",
+    "tags": [
+      "PropTech",
+      "B2C"
+    ],
+    "year": 2021,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/mubit-co/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Mexico"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Pellego",
+    "description": "Flat fee firm focused on the 2.5m real estate agents who use their license part time. Beachhead market of real estate investors with an agent license. Growing at 100% per year (3 years in a row) with 13x LTV:CAC and $1m ARR.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dd28e53c-afb8-4b81-9249-72c1875ab676.png",
+    "website": "https://www.pellego.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Payments",
+      "PropTech",
+      "Real Estate",
+      "B2B"
+    ],
+    "year": 2017,
+    "program": "GA 21",
+    "programSlugs": [
+      "500"
     ],
     "isExit": true,
     "isUnicorn": false,
@@ -485,126 +423,27 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {
+      "country": "United States"
+    }
   },
   {
-    "source": "yc",
-    "name": "Banner",
-    "description": "Banner makes software for CRE owners to manage capital spend",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7f7894aa9ed686ecf41b4e45c69ea8f7318f0d7e.png",
-    "website": "https://withbanner.com",
-    "location": "New York, NY, USA; San Francisco, CA, USA; Remote",
-    "region": "United States of America",
+    "source": "500",
+    "name": "Portal Terreno",
+    "description": "Developer of real estate marketplace designed to generate information regarding real estate. The company's platform accelerates the sale of land for different projects, enabling customers to tap into an unexplored market and find good opportunities to buy real estate and land.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/a8960b5e-5c4a-457d-bb85-d1c209826dd3.png",
+    "website": "https://www.portalterreno.com",
+    "location": "Chile",
+    "region": "Latin America",
     "subregion": "",
     "tags": [
-      "Real Estate and Construction",
-      "Marketplace",
-      "SaaS",
-      "Proptech"
-    ],
-    "year": 2019,
-    "program": "YC Summer 2019",
-    "programSlugs": [
-      "yc-summer-2019"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Green Canopy NODE",
-    "description": "Green Canopy NODE builds sustainable homes fast.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b30df9b5f90d13d064e140e178602c2711c3ef51.png",
-    "website": "http://greencanopynode.com",
-    "location": "Seattle, WA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Hardware",
-      "Housing",
-      "Proptech"
-    ],
-    "year": 2019,
-    "program": "YC Summer 2019",
-    "programSlugs": [
-      "yc-summer-2019"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Mudafy",
-    "description": "The LatAm tech-enabled real estate broker to buy and sell houses. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ff2ca99052b08f56d8a1a0eddf8bfefbc9369b92.png",
-    "website": "https://mudafy.com",
-    "location": "Buenos Aires, CABA, Argentina",
-    "region": "Argentina",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Marketplace",
-      "Proptech"
-    ],
-    "year": 2019,
-    "program": "YC Summer 2019",
-    "programSlugs": [
-      "yc-summer-2019"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Handoff",
-    "description": "AI estimator & agent for remodelers.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7c28f259776f3ae753c7e797a8482d385f032fef.png",
-    "website": "https://www.handoff.ai/",
-    "location": "Austin, TX, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Construction",
-      "Machine Learning",
-      "B2B",
-      "Proptech",
-      "API"
+      "PropTech",
+      "B2B"
     ],
     "year": 2020,
-    "program": "YC Winter 2020",
+    "program": "Lucha 11",
     "programSlugs": [
-      "yc-winter-2020"
+      "500"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -616,2128 +455,73 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {
+      "country": "Chile"
+    }
   },
   {
-    "source": "yc",
-    "name": "Haven",
-    "description": "Homeownership reimagined for the 21st century.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4b949041fc34a7a6df68747d882e4e62e59539dd.png",
-    "website": "http://www.havenservicing.com",
-    "location": "New York, NY, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Credit and Lending",
-      "Proptech"
-    ],
-    "year": 2020,
-    "program": "YC Winter 2020",
-    "programSlugs": [
-      "yc-winter-2020"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Homestead",
-    "description": "Homestead is a real estate development platform for homeowners",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0550d8ea74722eb5cd34da132bd5a603a99c8fbf.png",
-    "website": "https://www.myhomestead.com/",
-    "location": "Los Angeles, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "FinOps",
-      "Marketplace",
-      "Proptech"
-    ],
-    "year": 2020,
-    "program": "YC Winter 2020",
-    "programSlugs": [
-      "yc-winter-2020"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Hent",
-    "description": "Hent is helping land lot developers to better manage their sales…",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/92008358c093464b00e54b3939faf8232ef1dabe.png",
-    "website": "http://www.hent.com.br",
-    "location": "Recife, PE, Brazil",
-    "region": "Brazil",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Fintech",
-      "Proptech"
-    ],
-    "year": 2020,
-    "program": "YC Winter 2020",
-    "programSlugs": [
-      "yc-winter-2020"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Inspectify",
-    "description": "Home Inspections, Simplified",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ae6cf708b106cf68bb0d7581f467e1e21110d963.png",
-    "website": "http://www.inspectify.com",
-    "location": "Seattle, WA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Marketplace",
-      "Real Estate",
-      "Proptech"
-    ],
-    "year": 2020,
-    "program": "YC Summer 2020",
-    "programSlugs": [
-      "yc-summer-2020"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Clau",
-    "description": "The real estate superapp for Mexico",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/27f510d61e3fb71a7cb032342d796e9d330fa8a5.png",
-    "website": "https://clau.com",
-    "location": "Mexico City, CDMX, Mexico",
-    "region": "Mexico",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Fintech",
-      "Machine Learning",
-      "Marketplace",
-      "Proptech"
-    ],
-    "year": 2020,
-    "program": "YC Summer 2020",
-    "programSlugs": [
-      "yc-summer-2020"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Atmos",
-    "description": "The entire homebuilding process, all online",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/56c7ef5e92980547f109adff516d7c08cf47b59f.png",
-    "website": "https://www.buildatmos.com/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Housing",
-      "Proptech"
-    ],
-    "year": 2020,
-    "program": "YC Summer 2020",
-    "programSlugs": [
-      "yc-summer-2020"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "GoBuild (fka Brick)",
-    "description": "The payments solution for small scale construction. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dec4438ef7997107996b03f943e7910cbffed97e.png",
-    "website": "https://go.build",
-    "location": "Oakland, CA, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Credit and Lending",
-      "Housing",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Winter 2021",
-    "programSlugs": [
-      "yc-winter-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Topkey",
-    "description": "Topkey is the all-in-one financial operating platform that simplifies expense management for hospitality managers.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/23de4d79ee063eb46469a86ed476601d26b20f0e.png",
-    "website": "https://www.topkey.io/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Finance and Accounting",
-      "Fintech",
-      "Real Estate",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Winter 2021",
-    "programSlugs": [
-      "yc-winter-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Homebase",
-    "description": "Personalized rent-to-own real estate financing using technology in SEA",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/40f593ffbf87115d864ecfbdee92baad6860322a.png",
-    "website": "http://www.gethomebase.com/",
-    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam; Ho Chi Minh City, Vietnam",
-    "region": "Vietnam",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Fintech",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Winter 2021",
-    "programSlugs": [
-      "yc-winter-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Resquared",
-    "description": "Marketing automation platform for selling to local businesses.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b5be9e39b7c1acccc4e73c9f5973b901bd2ae7a4.png",
-    "website": "http://re2.ai",
-    "location": "Philadelphia, PA, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Marketing",
-      "SaaS",
-      "Sales",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Winter 2021",
-    "programSlugs": [
-      "yc-winter-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "HomeBreeze",
-    "description": "The fastest and easiest way to make home upgrades",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b9eb31df6605279d78436b260aecddc2b77c97ff.png",
-    "website": "https://www.homebreeze.com/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Consumer",
-      "Home and Personal",
-      "Marketplace",
-      "Real Estate",
-      "Proptech",
-      "Climate",
-      "Home Services"
-    ],
-    "year": 2021,
-    "program": "YC Winter 2021",
-    "programSlugs": [
-      "yc-winter-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Houm",
-    "description": "All-in-one real estate marketplace for Latin America",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f58147331ea247e7f1b2605dfc3f60dbee27a141.png",
-    "website": "https://houm.com",
-    "location": "Santiago, Santiago Metropolitan Region, Chile",
-    "region": "Chile",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Marketplace",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Winter 2021",
-    "programSlugs": [
-      "yc-winter-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Kanda",
-    "description": "Affirm for general contractors",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12721c77ec6abed4cfdc871f289cbeee71a330f6.png",
-    "website": "https://www.getkanda.com/",
-    "location": "Birmingham, England, United Kingdom; Remote",
-    "region": "United Kingdom",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Credit and Lending",
-      "SaaS",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Winter 2021",
-    "programSlugs": [
-      "yc-winter-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Deskimo",
-    "description": "Workspaces on demand, paid by the minute.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1291f709de04bd35266cafcf047e0cc80f5b1280.png",
-    "website": "http://www.deskimo.com",
-    "location": "Singapore, Singapore; Remote",
-    "region": "Singapore",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Office Management",
-      "Marketplace",
-      "SaaS",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Summer 2021",
-    "programSlugs": [
-      "yc-summer-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Jupe",
-    "description": "Just add land",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/32999b03bfa83f47b9348a7e827836b3d847b026.png",
-    "website": "http://www.jupe.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Hardware",
-      "Housing",
-      "Manufacturing",
-      "Proptech",
-      "Climate"
-    ],
-    "year": 2021,
-    "program": "YC Summer 2021",
-    "programSlugs": [
-      "yc-summer-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "PropReturns",
-    "description": "End-to-end commercial real estate transaction platform ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8c6ba36875562c96fddf6ef04d0acd5852345d88.png",
-    "website": "https://www.propreturns.com/",
-    "location": "MH, India",
-    "region": "India",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Fintech",
-      "Marketplace",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Summer 2021",
-    "programSlugs": [
-      "yc-summer-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Commery",
-    "description": "Marketplace to lease commercial real estate",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/61a8f1e4e8b1762e3c85e8a3ab981ded85af6fc0.png",
-    "website": "http://trycommery.com",
-    "location": "New York, NY, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Marketplace",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Summer 2021",
-    "programSlugs": [
-      "yc-summer-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Ivy Homes",
-    "description": "We make instant offers to buy homes in India",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f51dc2b307e3d50d35264d05b53bf776e1a2bdb8.png",
-    "website": "https://ivy.homes",
-    "location": "Bengaluru, KA, India",
-    "region": "India",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Summer 2021",
-    "programSlugs": [
-      "yc-summer-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Bolster",
-    "description": "The platform for buying, selling and managing residential construction",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2118ef969f1350ba67b660fc943964dbc77e4bd0.png",
-    "website": "https://bolsterbuilt.com",
-    "location": "Calgary, AB, Canada",
+    "source": "500",
+    "name": "Renotag, Inc.",
+    "description": "Renotag is a renovation cost calculator gives you accurate market pricing for your project — like having a contractor in your pocket.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a99971ad-e21d-49fb-a60d-6899254d412e.png",
+    "website": "https://www.renotag.com",
+    "location": "Canada",
     "region": "Canada",
     "subregion": "",
     "tags": [
-      "Real Estate and Construction",
-      "Construction",
-      "Fintech",
-      "Marketplace",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Summer 2021",
-    "programSlugs": [
-      "yc-summer-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Ancana",
-    "description": "Marketplace to buy managed vacation homes through fractional ownership",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eedadee5411c154fc5263ef5ce5f6982bfe91a07.png",
-    "website": "https://www.ancana.co",
-    "location": "Mérida, Yuc., Mexico; Remote",
-    "region": "Mexico",
-    "subregion": "",
-    "tags": [
-      "Consumer",
-      "Travel, Leisure and Tourism",
-      "Marketplace",
-      "Travel",
-      "Proptech"
-    ],
-    "year": 2021,
-    "program": "YC Summer 2021",
-    "programSlugs": [
-      "yc-summer-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Zuma",
-    "description": "We help businesses convert leads into sales in minutes using text",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/84726eaf029b9ba89c36aa373753fe1b0650f8be.png",
-    "website": "https://www.getzuma.com/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Proptech",
-      "AI"
-    ],
-    "year": 2021,
-    "program": "YC Summer 2021",
-    "programSlugs": [
-      "yc-summer-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Agave",
-    "description": "AI Financial Operations for Construction",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
-    "website": "https://www.useagave.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "SaaS",
-      "Construction",
-      "Proptech"
+      "FinTech",
+      "PropTech",
+      "B2A"
     ],
     "year": 2022,
-    "program": "YC Winter 2022",
+    "program": "500 Global",
     "programSlugs": [
-      "yc-winter-2022"
+      "500"
     ],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/renotag",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {
+      "country": "Canada"
+    }
   },
   {
-    "source": "yc",
-    "name": "WeReno",
-    "description": "AI platform for construction, renovation, and property maintenance.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c78986b23d9ab7c1e3cc7f8e34b14ae56a86fcaf.png",
-    "website": "https://wereno.com",
-    "location": "Newport Beach, CA, USA",
-    "region": "United States of America",
+    "source": "500",
+    "name": "Smart Bricks",
+    "description": "The Smarter Way to Invest in Residential Real Estate - Powered by AI.",
+    "logo": "",
+    "website": "https://www.smart-bricks.com/",
+    "location": "United Arab Emirates",
+    "region": "Middle East & Africa",
     "subregion": "",
     "tags": [
-      "Real Estate and Construction",
-      "Construction",
-      "Fintech",
-      "Real Estate",
-      "Proptech",
-      "AI"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "HomeRoom",
-    "description": "We Rent Your Property by the Room.  You earn 50% more Rent.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/28c5f983626c200b08794eb57093e4b2320036df.png",
-    "website": "https://livehomeroom.com/",
-    "location": "San Jose, CA, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Machine Learning",
-      "Real Estate",
-      "Proptech",
-      "NLP",
-      "Data Engineering"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Castia",
-    "description": "Built Rewards for Latam. Pay Rent and get benefits.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/54352d794e359591bddc4ade9c2565db797df0be.png",
-    "website": "https://www.castia.com",
-    "location": "Bogotá, Bogota, Colombia; Mexico City, CDMX, Mexico",
-    "region": "Colombia",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Fintech",
-      "Consumer",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Munily",
-    "description": "Access control management app for Latam´s gated communities",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/13df6243cbbce163d95235b9604ed80a95d8e734.png",
-    "website": "https://munily.com/#/",
-    "location": "Panama City, Panama, Panama; Remote",
-    "region": "Panama",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Security",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "PermitFlow",
-    "description": "Construction's AI Platform",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7ded490920c3d66fa08b0a9da3269ee21d78daff.png",
-    "website": "http://www.permitflow.com",
-    "location": "New York, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Construction",
-      "GovTech",
-      "Proptech",
-      "AI"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Stairs Financial",
-    "description": "Find a home you can actually afford",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/947c12dfe7364c0cdc976248bb2744519c5003b7.png",
-    "website": "https://stairsfinancial.com",
-    "location": "New York, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Consumer Finance",
-      "GovTech",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Cash Flow Portal",
-    "description": "Investment management platform for real estate",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b10b394d0b76a9c9e5b89b8e5357ee40c93c16bb.png",
-    "website": "https://www.cashflowportal.com/",
-    "location": "Seattle, WA, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Marketplace",
-      "SaaS",
-      "Real Estate",
-      "B2B",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Material Depot",
-    "description": "India's Fastest Growing Home Decor destination for Floor & Wall Decor",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a662852a35aa588b121563de0be00dcfacd66749.png",
-    "website": "https://materialdepot.in/",
-    "location": "Bengaluru, KA, India",
-    "region": "India",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Marketplace",
-      "Construction",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Nophin",
-    "description": "AI Deal Screening Analyst for Commercial Real Estate Acquisitions",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d0455a652b85ac5ebbe8030cb953e41c7e4c2098.png",
-    "website": "https://www.nophin.com",
-    "location": "New York, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Generative AI",
-      "SaaS",
-      "Real Estate",
-      "Proptech",
-      "AI Assistant"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "GoJom",
-    "description": "One-stop-shop for Real Estate Solutions. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6f6a49e808e5f793fd59cf2dacc4bd426cfbce9e.png",
-    "website": "https://gojom.com",
-    "location": "Lima, Callao Region, Peru; Lima, Lima Province, Peru",
-    "region": "Peru",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Fintech",
-      "Machine Learning",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Trusty",
-    "description": "Limitless Real Estate",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a59458e8f506838724f8360325fccbc3925e3cff.png",
-    "website": "https://trustyhomes.com/",
-    "location": "San Francisco, CA, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Marketplace",
-      "Real Estate",
-      "Consumer",
-      "B2B",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Vecindario",
-    "description": "We make it easier for real estate to sell properties and mortgages.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4f39d6bdd2afdb4bab46e8ad395f0178a1f7412f.png",
-    "website": "https://www.vecindario.com/",
-    "location": "Medellín, Antioquia, Colombia",
-    "region": "Colombia",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Fintech",
-      "SaaS",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Remi",
-    "description": "Simplifying roofing for homeowners, roofers and enterprises.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c65fe6a486657f5ef33dae6c663d4b163a7be728.png",
-    "website": "https://www.remihq.com",
-    "location": "Lehi, UT, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "SaaS",
-      "Solar Power",
-      "Construction",
-      "Proptech",
-      "Climate"
-    ],
-    "year": 2022,
-    "program": "YC Winter 2022",
-    "programSlugs": [
-      "yc-winter-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Paces",
-    "description": "Agentic AI for Power Projects and AI Infrastructure",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a92cafe33d123a85f38886d7af1f5aa33cbfd033.png",
-    "website": "https://paces.com",
-    "location": "New York, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Industrials",
-      "Climate",
-      "Proptech",
-      "Energy",
-      "Automation",
-      "AI"
-    ],
-    "year": 2022,
-    "program": "YC Summer 2022",
-    "programSlugs": [
-      "yc-summer-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Apply Design",
-    "description": "Helping realtors showcase the full potential of their properties",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/731fd6f22634f935a03484945b5b569dae8c8ed9.png",
-    "website": "http://www.applydesign.io",
-    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "region": "Israel",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Generative AI",
-      "SaaS",
-      "Computer Vision",
-      "Proptech",
-      "E-commerce"
-    ],
-    "year": 2022,
-    "program": "YC Summer 2022",
-    "programSlugs": [
-      "yc-summer-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Pulppo",
-    "description": "Shopify for Real Estate Agents in LATAM",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0e253fb534aa462b015973594492ef7bc2c27096.png",
-    "website": "https://www.pulppo.com",
-    "location": "Mexico City, CDMX, Mexico",
-    "region": "Mexico",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Real Estate",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Summer 2022",
-    "programSlugs": [
-      "yc-summer-2022"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "HOMLI",
-    "description": "Sell your home without brokers",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6811479c1b708608fea18dd35850ae5ec8cd5a17.png",
-    "website": "https://thehomli.com",
-    "location": "New York, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Artificial Intelligence",
-      "Real Estate",
-      "Consumer",
-      "Proptech",
-      "AI"
-    ],
-    "year": 2022,
-    "program": "YC Summer 2022",
-    "programSlugs": [
-      "yc-summer-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Express Building",
-    "description": "Financing Southeast Asia's ~$1 trillion housing backlog",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/51e56d00fdef4175645d89fdb8c4452e07a347e7.png",
-    "website": "https://www.expressbuilding.ph",
-    "location": "Singapore, Singapore; Remote",
-    "region": "Singapore",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Fintech",
-      "Real Estate",
-      "B2B",
-      "Proptech",
-      "Lending"
-    ],
-    "year": 2022,
-    "program": "YC Summer 2022",
-    "programSlugs": [
-      "yc-summer-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Aldara",
-    "description": "HOA manager with automated operations",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0c86ef8ba5f876baddbfe2edd028c531149deb0f.png",
-    "website": "https://aldara.com",
-    "location": "Barcelona, CT, Spain",
-    "region": "Spain",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Fintech",
-      "Real Estate",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Summer 2022",
-    "programSlugs": [
-      "yc-summer-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Landeed",
-    "description": "Landeed is India’s digital infrastructure for property intelligence,…",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
-    "website": "https://www.landeed.com/",
-    "location": "Hyderabad, Telangana, India",
-    "region": "India",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Documents",
-      "Artificial Intelligence",
-      "Legal",
-      "Proptech"
-    ],
-    "year": 2022,
-    "program": "YC Summer 2022",
-    "programSlugs": [
-      "yc-summer-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "FlexDesk",
-    "description": "AI Agents for corporate real estate teams",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7ba7b37dc3c29d740d89959501d5950b59307a9f.png",
-    "website": "https://www.flexdesk.com/",
-    "location": "New York, NY, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Office Management",
-      "Real Estate",
-      "HR Tech",
-      "Proptech"
-    ],
-    "year": 2023,
-    "program": "YC Winter 2023",
-    "programSlugs": [
-      "yc-winter-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Overflux",
-    "description": "Streamline EV charger installations for real estate developers",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6a0338ca42cb50b2be254086011ed9dc423496b0.png",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Logistics",
-      "Proptech",
-      "Climate",
-      "Transportation",
-      "Electric Vehicles"
-    ],
-    "year": 2023,
-    "program": "YC Winter 2023",
-    "programSlugs": [
-      "yc-winter-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Trigo",
-    "description": "Rent verification API for landlords and lenders",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f4995777223c0a6941873d356643ed969835aea5.png",
-    "website": "https://trigodata.com/",
-    "location": "New York, NY, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Credit and Lending",
-      "B2B",
-      "Proptech",
-      "API",
-      "Enterprise"
-    ],
-    "year": 2023,
-    "program": "YC Winter 2023",
-    "programSlugs": [
-      "yc-winter-2023"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Haven",
-    "description": "AI workforce for property management",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5f51be3e6016c33657688a682b7eb23e8ee1044a.png",
-    "website": "https://www.usehaven.ai/",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "SaaS",
-      "Real Estate",
-      "Proptech",
-      "AI"
-    ],
-    "year": 2023,
-    "program": "YC Winter 2023",
-    "programSlugs": [
-      "yc-winter-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Propexo",
-    "description": "Plaid for Commercial Real Estate",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7822d11e41140d7f6d2558bc38734397f57dde43.png",
-    "website": "https://propexo.com",
-    "location": "Boston, MA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Developer Tools",
-      "SaaS",
-      "Proptech",
-      "API"
-    ],
-    "year": 2023,
-    "program": "YC Winter 2023",
-    "programSlugs": [
-      "yc-winter-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Homeflow",
-    "description": "Simplifying insurance for large real estate investors",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cfb9cc8d9dd9147ff98523666ebfa64cc90b36a9.png",
-    "website": "https://www.homeflow.me/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Real Estate",
-      "Proptech"
-    ],
-    "year": 2023,
-    "program": "YC Winter 2023",
-    "programSlugs": [
-      "yc-winter-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "inBuild",
-    "description": "Workflow Automation for Construction Finance ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/565db1f58d2ff6409bb5c8eb3aefcdbc3f515329.png",
-    "website": "https://www.inbuild.ai/",
-    "location": "Wilmington, DE, USA; San Francisco, CA, USA; Aspen, CO, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "AI-Enhanced Learning",
-      "Fintech",
-      "Payments",
-      "Construction",
-      "Proptech"
-    ],
-    "year": 2023,
-    "program": "YC Winter 2023",
-    "programSlugs": [
-      "yc-winter-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Craftwork",
-    "description": "Digital-native home painting franchise",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a808b8722de9d2ecbb9fc19cae6ba864f6358f23.png",
-    "website": "https://craftwork.com/",
-    "location": "Charlotte, NC, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Construction",
-      "Proptech",
-      "Home Services",
-      "Home Automation"
-    ],
-    "year": 2023,
-    "program": "YC Summer 2023",
-    "programSlugs": [
-      "yc-summer-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Trayd",
-    "description": "A construction payroll platform designed for same-day pay.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b0a9f2865966789c4edf9a5fb78aced71bf8c4d9.png",
-    "website": "https://www.buildtrayd.com/",
-    "location": "New York, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Finance and Accounting",
-      "Fintech",
-      "SaaS",
-      "Construction",
-      "Proptech",
-      "Payroll"
-    ],
-    "year": 2023,
-    "program": "YC Summer 2023",
-    "programSlugs": [
-      "yc-summer-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Foundation",
-    "description": "Shopify for Homebuilders",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9dd20033ab143f980f73115add9045604e7e9b6b.png",
-    "website": "https://buildwithfoundation.com/",
-    "location": "Boulder, CO, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "SaaS",
-      "Real Estate",
-      "B2B",
-      "Proptech",
-      "AI Assistant"
-    ],
-    "year": 2023,
-    "program": "YC Summer 2023",
-    "programSlugs": [
-      "yc-summer-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Goldbridge",
-    "description": "Ramp for Real Estate",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4d6bc2a399aaabb43bac34995b9a37125e0e1426.png",
-    "website": "https://www.goldbridgebanking.com/",
-    "location": "",
-    "region": "Unspecified",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Real Estate",
-      "Finance",
-      "Proptech",
-      "Neobank",
-      "AI"
-    ],
-    "year": 2025,
-    "program": "YC Fall 2025",
-    "programSlugs": [
-      "yc-fall-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "AveryIQ",
-    "description": "AI Copilot for Property Managers and Landlords",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e9858815bbd831276cdcb1d662f0a88316f786e6.png",
-    "website": "https://averyiq.com",
-    "location": "Austin, TX, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Real Estate",
-      "Proptech",
-      "Telecommunications",
-      "AI"
+      "PropTech",
+      "B2C"
     ],
     "year": 2024,
-    "program": "YC Winter 2024",
+    "program": "MENA 8",
     "programSlugs": [
-      "yc-winter-2024"
+      "500"
     ],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/smart-bricks/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Ryse",
-    "description": "The secondary market for real estate leases",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b3127fdf5e5c4be37c6ea79ff2812b08ce513d40.png",
-    "website": "https://www.rysemarket.com/",
-    "location": "New York, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Fintech",
-      "Machine Learning",
-      "Marketplace",
-      "Proptech"
-    ],
-    "year": 2024,
-    "program": "YC Winter 2024",
-    "programSlugs": [
-      "yc-winter-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "InspectMind AI",
-    "description": "AI agent for construction drawings review",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/380201f9cadb6a3d51cb0328080b2378d425269f.png",
-    "website": "https://www.inspectmind.ai",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Construction",
-      "Artificial Intelligence",
-      "B2B",
-      "Proptech",
-      "AI"
-    ],
-    "year": 2024,
-    "program": "YC Winter 2024",
-    "programSlugs": [
-      "yc-winter-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Tandem",
-    "description": "AI-native office leasing broker",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/088175fa9125ef3885f5ea688b7630e8021bece3.png",
-    "website": "https://tandemspace.com/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Office Management",
-      "Real Estate",
-      "Proptech"
-    ],
-    "year": 2024,
-    "program": "YC Summer 2024",
-    "programSlugs": [
-      "yc-summer-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Propaya",
-    "description": "AI commercial lease abstractions and review",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/25c55eb31d984b6e1d9f11620ead41083180bcf4.png",
-    "website": "https://www.propaya.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Artificial Intelligence",
-      "Real Estate",
-      "Housing",
-      "Proptech"
-    ],
-    "year": 2024,
-    "program": "YC Summer 2024",
-    "programSlugs": [
-      "yc-summer-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Assembly HOA",
-    "description": "AI-native HOA Management Company",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/251db0cfd3ffbbbe376cb8fa8066246654b8bd87.png",
-    "website": "https://assemblyhoa.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "Artificial Intelligence",
-      "Fintech",
-      "Real Estate",
-      "Housing",
-      "Proptech"
-    ],
-    "year": 2024,
-    "program": "YC Summer 2024",
-    "programSlugs": [
-      "yc-summer-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "RentFlow",
-    "description": "The AI infrastructure for cash-flow-aligned business rent",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/83db64301a123c8f20195581b448254e59c1a24f.png",
-    "website": "https://www.therentflow.com",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "Fintech",
-      "Generative AI",
-      "SaaS",
-      "Payments",
-      "Proptech"
-    ],
-    "year": 2024,
-    "program": "YC Summer 2024",
-    "programSlugs": [
-      "yc-summer-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "ArchiLabs",
-    "description": "AI CAD for AEC",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fb2a3cdbbb6f4b0b97cc737484c96197f2cb06a5.png",
-    "website": "https://archilabs.ai",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Construction",
-      "SaaS",
-      "B2B",
-      "Proptech",
-      "AI"
-    ],
-    "year": 2024,
-    "program": "YC Fall 2024",
-    "programSlugs": [
-      "yc-fall-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Bystreet",
-    "description": "Your partner for hotel ownership data. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/17421a7106c2aa1e760abcb7892a8de8d04a9e7a.png",
-    "website": "http://www.bystreet.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "B2B",
-      "SaaS",
-      "Proptech"
-    ],
-    "year": 2025,
-    "program": "YC Winter 2025",
-    "programSlugs": [
-      "yc-winter-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "PARES AI",
-    "description": "AI-native real estate services firm",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dbbb70598f14b005aa7da32e84d2d14fed9e3e3a.png",
-    "website": "https://www.pares.ai/",
-    "location": "Los Angeles, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Artificial Intelligence",
-      "Real Estate",
-      "Proptech",
-      "Conversational AI"
-    ],
-    "year": 2025,
-    "program": "YC Summer 2025",
-    "programSlugs": [
-      "yc-summer-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Automax.ai",
-    "description": "AI native real-estate appraisal firm",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f265caa416fd1f57b94ea1289947654c7e9e7877.png",
-    "website": "https://automax.ai",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Housing and Real Estate",
-      "B2B",
-      "Proptech"
-    ],
-    "year": 2025,
-    "program": "YC Fall 2025",
-    "programSlugs": [
-      "yc-fall-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
+    "extra": {
+      "country": "United Arab Emirates"
+    }
   }
 ]
