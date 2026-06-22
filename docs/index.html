@@ -142,6 +142,8 @@
 
 <script>
 const CDN = "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data";
+// Fallback if jsDelivr is cold/lagging — raw GitHub is immediate for public repos.
+const RAW = "https://raw.githubusercontent.com/yigitmeteozcan/startups/main/data";
 const PER_PAGE = 30;
 
 let companies = [], filtered = [], page = 0;
@@ -153,15 +155,32 @@ const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;
 const uid = c => c.name + "||" + (c.website || "");
 
 // ── Load ────────────────────────────────────────────────────────────────────
+// Try jsDelivr first, fall back to raw GitHub if it's not serving yet.
+async function getJson(file) {
+  for (const base of [CDN, RAW]) {
+    try {
+      const r = await fetch(`${base}/${file}`);
+      if (r.ok) return await r.json();
+    } catch (_) { /* try next base */ }
+  }
+  throw new Error(`Could not load ${file} from jsDelivr or raw GitHub.`);
+}
+
 async function load() {
-  const [all, stats] = await Promise.all([
-    fetch(`${CDN}/all.json`).then(r => r.json()),
-    fetch(`${CDN}/stats.json`).then(r => r.json()).catch(() => null),
-  ]);
-  companies = all;
-  renderStats(stats);
-  buildFilters();
-  apply();
+  try {
+    const [all, stats] = await Promise.all([
+      getJson("all.json"),
+      getJson("stats.json").catch(() => null),
+    ]);
+    companies = all;
+    renderStats(stats);
+    buildFilters();
+    apply();
+  } catch (err) {
+    $("list").innerHTML =
+      `<div class="loading">Couldn't load the dataset.<br><small>${esc(err.message)} ` +
+      `If the repo was just made public, jsDelivr can take a few minutes — try a hard refresh.</small></div>`;
+  }
 }
 
 function renderStats(s) {
