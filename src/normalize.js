@@ -11,6 +11,65 @@ function addHttps(url) {
   return url.startsWith('http') ? url : `https://${url}`;
 }
 
+// Tags that aren't industries — business models, funding stages, work-styles,
+// and filler — which leak into the tag lists from various sources.
+const TAG_DENY = new Set(
+  [
+    'b2b', 'b2c', 'b2b2c', 'b2b2b', 'b2g', 'c2c', 'd2c', 'p2p',
+    'pre-seed', 'preseed', 'seed', 'pre-series a', 'series a', 'series b', 'series c',
+    'series d', 'series e', 'series f', 'series g', 'growth', 'early', 'late stage',
+    'late', 'ipo', 'public', 'private', 'acquired', 'active', 'inactive', 'dead',
+    'exit', 'exited', 'unicorn',
+    'remote', 'partly remote', 'fully remote', 'hybrid', 'onsite', 'distributed',
+    'other', 'others', 'n/a', 'na', 'none', 'unknown', 'unspecified', 'general', '-',
+  ].map((s) => s.toLowerCase())
+);
+
+// Country / region names should not appear as industries (they leak in from
+// scraped meta blocks). Kept lowercase for case-insensitive matching.
+const TAG_COUNTRIES = new Set(
+  [
+    'united states', 'united states of america', 'usa', 'us', 'america', 'canada',
+    'united kingdom', 'uk', 'england', 'scotland', 'ireland', 'france', 'germany',
+    'spain', 'portugal', 'italy', 'netherlands', 'belgium', 'switzerland', 'austria',
+    'sweden', 'norway', 'denmark', 'finland', 'poland', 'czech republic', 'greece',
+    'turkey', 'türkiye', 'russia', 'ukraine', 'romania', 'hungary', 'estonia', 'latvia',
+    'lithuania', 'israel', 'united arab emirates', 'uae', 'saudi arabia', 'qatar',
+    'egypt', 'south africa', 'nigeria', 'kenya', 'ghana', 'morocco', 'india', 'pakistan',
+    'bangladesh', 'sri lanka', 'china', 'hong kong', 'taiwan', 'japan', 'south korea',
+    'korea', 'singapore', 'malaysia', 'indonesia', 'thailand', 'vietnam', 'philippines',
+    'australia', 'new zealand', 'mexico', 'brazil', 'argentina', 'chile', 'colombia',
+    'peru', 'uruguay', 'ecuador', 'bolivia', 'remote', 'global', 'europe', 'asia',
+    'africa', 'north america', 'south america', 'latin america', 'middle east',
+    'apac', 'emea', 'mena', 'southeast asia', 'south asia', 'north asia',
+    'bangalore', 'berlin', 'london', 'new york', 'san francisco', 'paris', 'toronto',
+    'external',
+  ].map((s) => s.toLowerCase())
+);
+
+// Normalize a raw tag list into clean industry-ish tags: split mashed
+// multi-line values, drop years/numbers, business models, stages, and
+// country/region names, then de-duplicate case-insensitively.
+function cleanTags(tags) {
+  const out = [];
+  const seen = new Set();
+  for (const raw of toArray(tags)) {
+    // Scraped meta blocks sometimes mash country + industry + year with newlines.
+    for (const piece of String(raw).split(/[\n\r]+/)) {
+      const t = piece.replace(/\s+/g, ' ').trim();
+      if (!t) continue;
+      const low = t.toLowerCase();
+      if (TAG_DENY.has(low) || TAG_COUNTRIES.has(low)) continue;
+      if (/^\d+$/.test(t)) continue; // pure numbers / years
+      if (/^(19|20)\d{2}$/.test(t)) continue;
+      if (seen.has(low)) continue;
+      seen.add(low);
+      out.push(t);
+    }
+  }
+  return out;
+}
+
 function normalizeCompany(raw, source = 'techstars') {
   // Unwrap Typesense hit wrappers if present.
   const d = raw.document && typeof raw.document === 'object' ? raw.document : raw;
@@ -64,4 +123,4 @@ function normalizeCompany(raw, source = 'techstars') {
   };
 }
 
-module.exports = { toArray, addHttps, normalizeCompany };
+module.exports = { toArray, addHttps, normalizeCompany, cleanTags };

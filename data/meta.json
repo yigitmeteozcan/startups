@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T15:44:48.564Z",
+  "generatedAt": "2026-06-22T15:53:55.899Z",
   "sources": [
     {
       "name": "500",
@@ -37,7 +37,7 @@
       "xlsx": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx"
     },
     "unicorns": {
-      "count": 23,
+      "count": 77,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/unicorns.json"
     },
     "exits": {
@@ -2593,12 +2593,6 @@
     ],
     "by-industry": [
       {
-        "name": "B2B",
-        "slug": "b2b",
-        "count": 4482,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/b2b.json"
-      },
-      {
         "name": "Fintech",
         "slug": "fintech",
         "count": 1897,
@@ -2633,12 +2627,6 @@
         "slug": "artificial-intelligence",
         "count": 881,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/artificial-intelligence.json"
-      },
-      {
-        "name": "B2C",
-        "slug": "b2c",
-        "count": 806,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/b2c.json"
       },
       {
         "name": "Healthcare",
@@ -2725,12 +2713,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/fintech.json"
       },
       {
-        "name": "2024",
-        "slug": "2024",
-        "count": 340,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/2024.json"
-      },
-      {
         "name": "Cleantech",
         "slug": "cleantech",
         "count": 339,
@@ -2791,12 +2773,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/cryptocurrency-blockchain.json"
       },
       {
-        "name": "2023",
-        "slug": "2023",
-        "count": 258,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/2023.json"
-      },
-      {
         "name": "Payments",
         "slug": "payments",
         "count": 258,
@@ -2845,12 +2821,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/marketing.json"
       },
       {
-        "name": "2025",
-        "slug": "2025",
-        "count": 207,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/2025.json"
-      },
-      {
         "name": "Digital health",
         "slug": "digital-health",
         "count": 204,
@@ -2861,12 +2831,6 @@
         "slug": "cybersecurity",
         "count": 197,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/cybersecurity.json"
-      },
-      {
-        "name": "US",
-        "slug": "us",
-        "count": 196,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us.json"
       },
       {
         "name": "Robotics and Drones",
@@ -2885,12 +2849,6 @@
         "slug": "marketing-tech",
         "count": 188,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/marketing-tech.json"
-      },
-      {
-        "name": "2022",
-        "slug": "2022",
-        "count": 187,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/2022.json"
       },
       {
         "name": "Real Estate",
@@ -2995,12 +2953,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/mobility-tech.json"
       },
       {
-        "name": "Singapore",
-        "slug": "singapore",
-        "count": 142,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore.json"
-      },
-      {
         "name": "API",
         "slug": "api",
         "count": 141,
@@ -3035,12 +2987,6 @@
         "slug": "virtual-reality",
         "count": 133,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/virtual-reality.json"
-      },
-      {
-        "name": "India",
-        "slug": "india",
-        "count": 132,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india.json"
       },
       {
         "name": "AI/Machine Learning",
@@ -3133,28 +3079,10 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/consumer-health-services.json"
       },
       {
-        "name": "Australia",
-        "slug": "australia",
-        "count": 103,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia.json"
-      },
-      {
-        "name": "UK",
-        "slug": "uk",
-        "count": 102,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk.json"
-      },
-      {
         "name": "Data Engineering",
         "slug": "data-engineering",
         "count": 99,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/data-engineering.json"
-      },
-      {
-        "name": "2021",
-        "slug": "2021",
-        "count": 98,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/2021.json"
       },
       {
         "name": "Insurance",
@@ -3319,12 +3247,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/energy-and-climatetech.json"
       },
       {
-        "name": "2020",
-        "slug": "2020",
-        "count": 72,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/2020.json"
-      },
-      {
         "name": "Workflow Automation",
         "slug": "workflow-automation",
         "count": 71,
@@ -3391,22 +3313,10 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/legal-tech.json"
       },
       {
-        "name": "Sweden",
-        "slug": "sweden",
-        "count": 61,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden.json"
-      },
-      {
         "name": "Aviation and Space",
         "slug": "aviation-and-space",
         "count": 60,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/aviation-and-space.json"
-      },
-      {
-        "name": "Germany",
-        "slug": "germany",
-        "count": 60,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany.json"
       },
       {
         "name": "Beauty",
@@ -3487,12 +3397,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/devops.json"
       },
       {
-        "name": "Netherlands",
-        "slug": "netherlands",
-        "count": 52,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands.json"
-      },
-      {
         "name": "IoT",
         "slug": "iot",
         "count": 51,
@@ -3503,12 +3407,6 @@
         "slug": "mobility",
         "count": 51,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/mobility.json"
-      },
-      {
-        "name": "Vietnam",
-        "slug": "vietnam",
-        "count": 51,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam.json"
       },
       {
         "name": "Entertainment / Media",
@@ -3527,12 +3425,6 @@
         "slug": "elearning",
         "count": 50,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/elearning.json"
-      },
-      {
-        "name": "Norway",
-        "slug": "norway",
-        "count": 50,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway.json"
       },
       {
         "name": "Travel",
@@ -3565,22 +3457,10 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/neobank.json"
       },
       {
-        "name": "Indonesia",
-        "slug": "indonesia",
-        "count": 48,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia.json"
-      },
-      {
         "name": "Cloud Computing",
         "slug": "cloud-computing",
         "count": 46,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/cloud-computing.json"
-      },
-      {
-        "name": "Korea",
-        "slug": "korea",
-        "count": 46,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea.json"
       },
       {
         "name": "Collaboration",
@@ -3655,12 +3535,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/media.json"
       },
       {
-        "name": "US\nB2B Software\n2024",
-        "slug": "us-b2b-software-2024",
-        "count": 41,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-b2b-software-2024.json"
-      },
-      {
         "name": "Audiotech",
         "slug": "audiotech",
         "count": 40,
@@ -3671,12 +3545,6 @@
         "slug": "e-commerce",
         "count": 40,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/e-commerce.json"
-      },
-      {
-        "name": "2019",
-        "slug": "2019",
-        "count": 39,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/2019.json"
       },
       {
         "name": "Deep Learning",
@@ -3793,12 +3661,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/drug-discovery.json"
       },
       {
-        "name": "Canada",
-        "slug": "canada",
-        "count": 32,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada.json"
-      },
-      {
         "name": "Grocery",
         "slug": "grocery",
         "count": 31,
@@ -3883,12 +3745,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/agtech.json"
       },
       {
-        "name": "2026",
-        "slug": "2026",
-        "count": 27,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/2026.json"
-      },
-      {
         "name": "eSports",
         "slug": "esports",
         "count": 27,
@@ -3937,12 +3793,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/genomics.json"
       },
       {
-        "name": "Denmark",
-        "slug": "denmark",
-        "count": 27,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark.json"
-      },
-      {
         "name": "Banking as a Service",
         "slug": "banking-as-a-service",
         "count": 26,
@@ -3953,12 +3803,6 @@
         "slug": "crypto",
         "count": 26,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/crypto.json"
-      },
-      {
-        "name": "D2C",
-        "slug": "d2c",
-        "count": 26,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/d2c.json"
       },
       {
         "name": "Nanotechnology",
@@ -4027,12 +3871,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/industrial.json"
       },
       {
-        "name": "United Arab Emirates",
-        "slug": "united-arab-emirates",
-        "count": 23,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates.json"
-      },
-      {
         "name": "Customer Service",
         "slug": "customer-service",
         "count": 22,
@@ -4063,12 +3901,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/blockchain.json"
       },
       {
-        "name": "Brazil",
-        "slug": "brazil",
-        "count": 21,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/brazil.json"
-      },
-      {
         "name": "Virtual and Augmented Reality",
         "slug": "virtual-and-augmented-reality",
         "count": 20,
@@ -4079,18 +3911,6 @@
         "slug": "music",
         "count": 20,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/music.json"
-      },
-      {
-        "name": "Latin America",
-        "slug": "latin-america",
-        "count": 20,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/latin-america.json"
-      },
-      {
-        "name": "Malaysia",
-        "slug": "malaysia",
-        "count": 20,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/malaysia.json"
       },
       {
         "name": "Privacy",
@@ -4135,12 +3955,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/regtech.json"
       },
       {
-        "name": "Kenya",
-        "slug": "kenya",
-        "count": 19,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya.json"
-      },
-      {
         "name": "Climate Tech",
         "slug": "climate-tech",
         "count": 19,
@@ -4165,12 +3979,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ml.json"
       },
       {
-        "name": "Unspecified",
-        "slug": "unspecified",
-        "count": 18,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/unspecified.json"
-      },
-      {
         "name": "Sports Tech",
         "slug": "sports-tech",
         "count": 18,
@@ -4181,12 +3989,6 @@
         "slug": "search",
         "count": 18,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/search.json"
-      },
-      {
-        "name": "Saudi Arabia",
-        "slug": "saudi-arabia",
-        "count": 18,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/saudi-arabia.json"
       },
       {
         "name": "Pet tech",
@@ -4205,18 +4007,6 @@
         "slug": "renewable-energy",
         "count": 17,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/renewable-energy.json"
-      },
-      {
-        "name": "Singapore\nB2B Software\n2024",
-        "slug": "singapore-b2b-software-2024",
-        "count": 17,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-b2b-software-2024.json"
-      },
-      {
-        "name": "Japan",
-        "slug": "japan",
-        "count": 17,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan.json"
       },
       {
         "name": "Payroll",
@@ -4241,24 +4031,6 @@
         "slug": "data-labeling",
         "count": 16,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/data-labeling.json"
-      },
-      {
-        "name": "Australia\nB2B Software\n2024",
-        "slug": "australia-b2b-software-2024",
-        "count": 16,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-b2b-software-2024.json"
-      },
-      {
-        "name": "US\nHealth and BioTech\n2024",
-        "slug": "us-health-and-biotech-2024",
-        "count": 16,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-health-and-biotech-2024.json"
-      },
-      {
-        "name": "Singapore\nB2B Software\n2023",
-        "slug": "singapore-b2b-software-2023",
-        "count": 16,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-b2b-software-2023.json"
       },
       {
         "name": "PropTech",
@@ -4315,12 +4087,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/identity.json"
       },
       {
-        "name": "France",
-        "slug": "france",
-        "count": 15,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france.json"
-      },
-      {
         "name": "BioTech & Life Sciences",
         "slug": "biotech-life-sciences",
         "count": 15,
@@ -4355,18 +4121,6 @@
         "slug": "gene-therapy",
         "count": 14,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/gene-therapy.json"
-      },
-      {
-        "name": "US\nB2B Software\n2022",
-        "slug": "us-b2b-software-2022",
-        "count": 14,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-b2b-software-2022.json"
-      },
-      {
-        "name": "US\nB2B Software\n2025",
-        "slug": "us-b2b-software-2025",
-        "count": 14,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-b2b-software-2025.json"
       },
       {
         "name": "App",
@@ -4411,18 +4165,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/warehouse-management-tech.json"
       },
       {
-        "name": "Finland",
-        "slug": "finland",
-        "count": 13,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finland.json"
-      },
-      {
-        "name": "Singapore\nB2B Software\n2025",
-        "slug": "singapore-b2b-software-2025",
-        "count": 13,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-b2b-software-2025.json"
-      },
-      {
         "name": "Subscription",
         "slug": "subscription",
         "count": 13,
@@ -4463,18 +4205,6 @@
         "slug": "defi",
         "count": 12,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/defi.json"
-      },
-      {
-        "name": "Australia\nB2B Software\n2023",
-        "slug": "australia-b2b-software-2023",
-        "count": 12,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-b2b-software-2023.json"
-      },
-      {
-        "name": "UK\nB2B Software\n2023",
-        "slug": "uk-b2b-software-2023",
-        "count": 12,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-b2b-software-2023.json"
       },
       {
         "name": "Impact",
@@ -4525,18 +4255,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ghost-kitchens.json"
       },
       {
-        "name": "India\nB2B Software\n2023",
-        "slug": "india-b2b-software-2023",
-        "count": 11,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-b2b-software-2023.json"
-      },
-      {
-        "name": "Germany\nB2B Software\n2024",
-        "slug": "germany-b2b-software-2024",
-        "count": 11,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-b2b-software-2024.json"
-      },
-      {
         "name": "SME Solution",
         "slug": "sme-solution",
         "count": 11,
@@ -4567,30 +4285,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/semiconductors.json"
       },
       {
-        "name": "Germany\nB2B Software\n2023",
-        "slug": "germany-b2b-software-2023",
-        "count": 10,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-b2b-software-2023.json"
-      },
-      {
-        "name": "US\nConsumerTech\n2024",
-        "slug": "us-consumertech-2024",
-        "count": 10,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-consumertech-2024.json"
-      },
-      {
-        "name": "India\nB2B Software\n2024",
-        "slug": "india-b2b-software-2024",
-        "count": 10,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-b2b-software-2024.json"
-      },
-      {
-        "name": "Singapore\nB2B Software\n2022",
-        "slug": "singapore-b2b-software-2022",
-        "count": 10,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-b2b-software-2022.json"
-      },
-      {
         "name": "CloudTech",
         "slug": "cloudtech",
         "count": 10,
@@ -4613,12 +4307,6 @@
         "slug": "electronics",
         "count": 9,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/electronics.json"
-      },
-      {
-        "name": "Remote",
-        "slug": "remote",
-        "count": 9,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/remote.json"
       },
       {
         "name": "APIs",
@@ -4655,18 +4343,6 @@
         "slug": "sustainable-fashion",
         "count": 9,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sustainable-fashion.json"
-      },
-      {
-        "name": "Indonesia\nB2B Software\n2024",
-        "slug": "indonesia-b2b-software-2024",
-        "count": 9,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-b2b-software-2024.json"
-      },
-      {
-        "name": "US\nB2B Software\n2021",
-        "slug": "us-b2b-software-2021",
-        "count": 9,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-b2b-software-2021.json"
       },
       {
         "name": "Commerce",
@@ -4721,60 +4397,6 @@
         "slug": "call-center",
         "count": 8,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/call-center.json"
-      },
-      {
-        "name": "Canada\nB2B Software\n2025",
-        "slug": "canada-b2b-software-2025",
-        "count": 8,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-b2b-software-2025.json"
-      },
-      {
-        "name": "US\nFinTech\n2024",
-        "slug": "us-fintech-2024",
-        "count": 8,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-fintech-2024.json"
-      },
-      {
-        "name": "US\nHealth and BioTech\n2025",
-        "slug": "us-health-and-biotech-2025",
-        "count": 8,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-health-and-biotech-2025.json"
-      },
-      {
-        "name": "Brazil\nB2B Software\n2024",
-        "slug": "brazil-b2b-software-2024",
-        "count": 8,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/brazil-b2b-software-2024.json"
-      },
-      {
-        "name": "India\nFinTech\n2025",
-        "slug": "india-fintech-2025",
-        "count": 8,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-fintech-2025.json"
-      },
-      {
-        "name": "Australia\nB2B Software\n2020",
-        "slug": "australia-b2b-software-2020",
-        "count": 8,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-b2b-software-2020.json"
-      },
-      {
-        "name": "India\nB2B Software\n2025",
-        "slug": "india-b2b-software-2025",
-        "count": 8,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-b2b-software-2025.json"
-      },
-      {
-        "name": "Korea\nB2B Software\n2023",
-        "slug": "korea-b2b-software-2023",
-        "count": 8,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-b2b-software-2023.json"
-      },
-      {
-        "name": "Netherlands\nB2B Software\n2023",
-        "slug": "netherlands-b2b-software-2023",
-        "count": 8,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-b2b-software-2023.json"
       },
       {
         "name": "CPG (Consumer packaged goods)",
@@ -4853,48 +4475,6 @@
         "slug": "investments",
         "count": 7,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/investments.json"
-      },
-      {
-        "name": "Vietnam\nB2B Software\n2025",
-        "slug": "vietnam-b2b-software-2025",
-        "count": 7,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-b2b-software-2025.json"
-      },
-      {
-        "name": "Malaysia\nB2B Software\n2025",
-        "slug": "malaysia-b2b-software-2025",
-        "count": 7,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/malaysia-b2b-software-2025.json"
-      },
-      {
-        "name": "Singapore\nFinTech\n2023",
-        "slug": "singapore-fintech-2023",
-        "count": 7,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-fintech-2023.json"
-      },
-      {
-        "name": "Korea\nConsumerTech\n2022",
-        "slug": "korea-consumertech-2022",
-        "count": 7,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-consumertech-2022.json"
-      },
-      {
-        "name": "Sweden\nB2B Software\n2024",
-        "slug": "sweden-b2b-software-2024",
-        "count": 7,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-b2b-software-2024.json"
-      },
-      {
-        "name": "Canada\nB2B Software\n2024",
-        "slug": "canada-b2b-software-2024",
-        "count": 7,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-b2b-software-2024.json"
-      },
-      {
-        "name": "UK\nB2B Software\n2024",
-        "slug": "uk-b2b-software-2024",
-        "count": 7,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-b2b-software-2024.json"
       },
       {
         "name": "Direct to Consumer",
@@ -5017,90 +4597,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/commercial-space-launch.json"
       },
       {
-        "name": "UK\nB2B Software\n2026",
-        "slug": "uk-b2b-software-2026",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-b2b-software-2026.json"
-      },
-      {
-        "name": "US\nConsumerTech\n2021",
-        "slug": "us-consumertech-2021",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-consumertech-2021.json"
-      },
-      {
-        "name": "US\nB2B Software\n2023",
-        "slug": "us-b2b-software-2023",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-b2b-software-2023.json"
-      },
-      {
-        "name": "Korea\nConsumerTech\n2023",
-        "slug": "korea-consumertech-2023",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-consumertech-2023.json"
-      },
-      {
-        "name": "US\nIndustrials\n2024",
-        "slug": "us-industrials-2024",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-industrials-2024.json"
-      },
-      {
-        "name": "India\nIndustrials\n2025",
-        "slug": "india-industrials-2025",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-industrials-2025.json"
-      },
-      {
-        "name": "Sweden\nConsumerTech\n2019",
-        "slug": "sweden-consumertech-2019",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-consumertech-2019.json"
-      },
-      {
-        "name": "Netherlands\nB2B Software\n2024",
-        "slug": "netherlands-b2b-software-2024",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-b2b-software-2024.json"
-      },
-      {
-        "name": "US\nFinTech\n2022",
-        "slug": "us-fintech-2022",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-fintech-2022.json"
-      },
-      {
-        "name": "Singapore\nB2B Software\n2020",
-        "slug": "singapore-b2b-software-2020",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-b2b-software-2020.json"
-      },
-      {
-        "name": "UK\nB2B Software\n2025",
-        "slug": "uk-b2b-software-2025",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-b2b-software-2025.json"
-      },
-      {
-        "name": "UK\nB2B Software\n2022",
-        "slug": "uk-b2b-software-2022",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-b2b-software-2022.json"
-      },
-      {
-        "name": "India\nConsumerTech\n2025",
-        "slug": "india-consumertech-2025",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-consumertech-2025.json"
-      },
-      {
-        "name": "Singapore\nB2B Software\n2021",
-        "slug": "singapore-b2b-software-2021",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-b2b-software-2021.json"
-      },
-      {
         "name": "Sports",
         "slug": "sports",
         "count": 6,
@@ -5117,12 +4613,6 @@
         "slug": "hospitality",
         "count": 6,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/hospitality.json"
-      },
-      {
-        "name": "2018",
-        "slug": "2018",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/2018.json"
       },
       {
         "name": "Carsharing",
@@ -5237,150 +4727,6 @@
         "slug": "billing",
         "count": 5,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/billing.json"
-      },
-      {
-        "name": "UK\nConsumerTech\n2025",
-        "slug": "uk-consumertech-2025",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-consumertech-2025.json"
-      },
-      {
-        "name": "Netherlands\nConsumerTech\n2022",
-        "slug": "netherlands-consumertech-2022",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-consumertech-2022.json"
-      },
-      {
-        "name": "Australia\nB2B Software\n2022",
-        "slug": "australia-b2b-software-2022",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-b2b-software-2022.json"
-      },
-      {
-        "name": "Finland\nB2B Software\n2024",
-        "slug": "finland-b2b-software-2024",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finland-b2b-software-2024.json"
-      },
-      {
-        "name": "Norway\nB2B Software\n2023",
-        "slug": "norway-b2b-software-2023",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-b2b-software-2023.json"
-      },
-      {
-        "name": "UK\nFinTech\n2023",
-        "slug": "uk-fintech-2023",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-fintech-2023.json"
-      },
-      {
-        "name": "India\nConsumerTech\n2024",
-        "slug": "india-consumertech-2024",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-consumertech-2024.json"
-      },
-      {
-        "name": "Australia\nB2B Software\n2021",
-        "slug": "australia-b2b-software-2021",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-b2b-software-2021.json"
-      },
-      {
-        "name": "Australia\nB2B Software\n2025",
-        "slug": "australia-b2b-software-2025",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-b2b-software-2025.json"
-      },
-      {
-        "name": "Indonesia\nB2B Software\n2025",
-        "slug": "indonesia-b2b-software-2025",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-b2b-software-2025.json"
-      },
-      {
-        "name": "Vietnam\nConsumerTech\n2024",
-        "slug": "vietnam-consumertech-2024",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-consumertech-2024.json"
-      },
-      {
-        "name": "Singapore\nConsumerTech\n2023",
-        "slug": "singapore-consumertech-2023",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-consumertech-2023.json"
-      },
-      {
-        "name": "Norway\nB2B Software\n2021",
-        "slug": "norway-b2b-software-2021",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-b2b-software-2021.json"
-      },
-      {
-        "name": "US\nEnergy and ClimateTech\n2024",
-        "slug": "us-energy-and-climatetech-2024",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-energy-and-climatetech-2024.json"
-      },
-      {
-        "name": "India\nConsumerTech\n2022",
-        "slug": "india-consumertech-2022",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-consumertech-2022.json"
-      },
-      {
-        "name": "Sweden\nB2B Software\n2021",
-        "slug": "sweden-b2b-software-2021",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-b2b-software-2021.json"
-      },
-      {
-        "name": "US\nConsumerTech\n2022",
-        "slug": "us-consumertech-2022",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-consumertech-2022.json"
-      },
-      {
-        "name": "Vietnam\nConsumerTech\n2023",
-        "slug": "vietnam-consumertech-2023",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-consumertech-2023.json"
-      },
-      {
-        "name": "India\nB2B Software\n2022",
-        "slug": "india-b2b-software-2022",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-b2b-software-2022.json"
-      },
-      {
-        "name": "India\nFinTech\n2024",
-        "slug": "india-fintech-2024",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-fintech-2024.json"
-      },
-      {
-        "name": "Norway\nEnergy and ClimateTech\n2020",
-        "slug": "norway-energy-and-climatetech-2020",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-energy-and-climatetech-2020.json"
-      },
-      {
-        "name": "Japan\nB2B Software\n2025",
-        "slug": "japan-b2b-software-2025",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-b2b-software-2025.json"
-      },
-      {
-        "name": "Vietnam\nB2B Software\n2023",
-        "slug": "vietnam-b2b-software-2023",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-b2b-software-2023.json"
-      },
-      {
-        "name": "Saudi Arabia\nB2B Software\n2025",
-        "slug": "saudi-arabia-b2b-software-2025",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/saudi-arabia-b2b-software-2025.json"
       },
       {
         "name": "Leisure & Entretainment",
@@ -5509,144 +4855,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/hydrogen-energy.json"
       },
       {
-        "name": "Australia\nConsumerTech\n2023",
-        "slug": "australia-consumertech-2023",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-consumertech-2023.json"
-      },
-      {
-        "name": "United Arab Emirates\nConsumerTech\n2025",
-        "slug": "united-arab-emirates-consumertech-2025",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-consumertech-2025.json"
-      },
-      {
-        "name": "Singapore\nConsumerTech\n2021",
-        "slug": "singapore-consumertech-2021",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-consumertech-2021.json"
-      },
-      {
-        "name": "United Arab Emirates\nB2B Software\n2025",
-        "slug": "united-arab-emirates-b2b-software-2025",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-b2b-software-2025.json"
-      },
-      {
-        "name": "Singapore\nHealth and BioTech\n2020",
-        "slug": "singapore-health-and-biotech-2020",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-health-and-biotech-2020.json"
-      },
-      {
-        "name": "Portugal",
-        "slug": "portugal",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/portugal.json"
-      },
-      {
-        "name": "Vietnam\nConsumerTech\n2022",
-        "slug": "vietnam-consumertech-2022",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-consumertech-2022.json"
-      },
-      {
-        "name": "UK\nConsumerTech\n2023",
-        "slug": "uk-consumertech-2023",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-consumertech-2023.json"
-      },
-      {
-        "name": "Malaysia\nB2B Software\n2023",
-        "slug": "malaysia-b2b-software-2023",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/malaysia-b2b-software-2023.json"
-      },
-      {
-        "name": "India\nFinTech\n2023",
-        "slug": "india-fintech-2023",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-fintech-2023.json"
-      },
-      {
-        "name": "United Arab Emirates\nFinTech\n2024",
-        "slug": "united-arab-emirates-fintech-2024",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-fintech-2024.json"
-      },
-      {
-        "name": "Netherlands\nFinTech\n2022",
-        "slug": "netherlands-fintech-2022",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-fintech-2022.json"
-      },
-      {
-        "name": "UK\nConsumerTech\n2022",
-        "slug": "uk-consumertech-2022",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-consumertech-2022.json"
-      },
-      {
-        "name": "Canada\nB2B Software\n2023",
-        "slug": "canada-b2b-software-2023",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-b2b-software-2023.json"
-      },
-      {
-        "name": "Singapore\nConsumerTech\n2022",
-        "slug": "singapore-consumertech-2022",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-consumertech-2022.json"
-      },
-      {
-        "name": "Korea\nConsumerTech\n2025",
-        "slug": "korea-consumertech-2025",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-consumertech-2025.json"
-      },
-      {
-        "name": "Australia\nHealth and BioTech\n2021",
-        "slug": "australia-health-and-biotech-2021",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-health-and-biotech-2021.json"
-      },
-      {
-        "name": "Australia\nConsumerTech\n2022",
-        "slug": "australia-consumertech-2022",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-consumertech-2022.json"
-      },
-      {
-        "name": "Indonesia\nConsumerTech\n2024",
-        "slug": "indonesia-consumertech-2024",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-consumertech-2024.json"
-      },
-      {
-        "name": "UK\nEnergy and ClimateTech\n2022",
-        "slug": "uk-energy-and-climatetech-2022",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-energy-and-climatetech-2022.json"
-      },
-      {
-        "name": "Denmark\nB2B Software\n2025",
-        "slug": "denmark-b2b-software-2025",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-b2b-software-2025.json"
-      },
-      {
-        "name": "Norway\nReal Estate and PropTech\n2021",
-        "slug": "norway-real-estate-and-proptech-2021",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-real-estate-and-proptech-2021.json"
-      },
-      {
-        "name": "Sweden\nB2B Software\n2022",
-        "slug": "sweden-b2b-software-2022",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-b2b-software-2022.json"
-      },
-      {
         "name": "Talent Management",
         "slug": "talent-management",
         "count": 4,
@@ -5743,12 +4951,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/bioplastic.json"
       },
       {
-        "name": "China",
-        "slug": "china",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/china.json"
-      },
-      {
         "name": "Sustainable Agriculture",
         "slug": "sustainable-agriculture",
         "count": 3,
@@ -5825,348 +5027,6 @@
         "slug": "maritime",
         "count": 3,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/maritime.json"
-      },
-      {
-        "name": "US\nReal Estate and PropTech\n2024",
-        "slug": "us-real-estate-and-proptech-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-real-estate-and-proptech-2024.json"
-      },
-      {
-        "name": "Norway\nEnergy and ClimateTech\n2024",
-        "slug": "norway-energy-and-climatetech-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-energy-and-climatetech-2024.json"
-      },
-      {
-        "name": "Indonesia\nIndustrials\n2023",
-        "slug": "indonesia-industrials-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-industrials-2023.json"
-      },
-      {
-        "name": "Singapore\nConsumerTech\n2019",
-        "slug": "singapore-consumertech-2019",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-consumertech-2019.json"
-      },
-      {
-        "name": "Saudi Arabia\nB2B Software\n2024",
-        "slug": "saudi-arabia-b2b-software-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/saudi-arabia-b2b-software-2024.json"
-      },
-      {
-        "name": "India\nConsumerTech\n2021",
-        "slug": "india-consumertech-2021",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-consumertech-2021.json"
-      },
-      {
-        "name": "Germany\nIndustrials\n2024",
-        "slug": "germany-industrials-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-industrials-2024.json"
-      },
-      {
-        "name": "Vietnam\nB2B Software\n2022",
-        "slug": "vietnam-b2b-software-2022",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-b2b-software-2022.json"
-      },
-      {
-        "name": "Australia\nB2B Software\n2019",
-        "slug": "australia-b2b-software-2019",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-b2b-software-2019.json"
-      },
-      {
-        "name": "UK\nB2B Software\n2021",
-        "slug": "uk-b2b-software-2021",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-b2b-software-2021.json"
-      },
-      {
-        "name": "Denmark\nEnergy and ClimateTech\n2023",
-        "slug": "denmark-energy-and-climatetech-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "France\nConsumerTech\n2023",
-        "slug": "france-consumertech-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france-consumertech-2023.json"
-      },
-      {
-        "name": "US\nConsumerTech\n2020",
-        "slug": "us-consumertech-2020",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-consumertech-2020.json"
-      },
-      {
-        "name": "Vietnam\nFinTech\n2023",
-        "slug": "vietnam-fintech-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-fintech-2023.json"
-      },
-      {
-        "name": "Singapore\nEnergy and ClimateTech\n2023",
-        "slug": "singapore-energy-and-climatetech-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "Vietnam\nConsumerTech\n2025",
-        "slug": "vietnam-consumertech-2025",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-consumertech-2025.json"
-      },
-      {
-        "name": "Netherlands\nHealth and BioTech\n2019",
-        "slug": "netherlands-health-and-biotech-2019",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-health-and-biotech-2019.json"
-      },
-      {
-        "name": "Germany\nConsumerTech\n2022",
-        "slug": "germany-consumertech-2022",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-consumertech-2022.json"
-      },
-      {
-        "name": "Brazil\nB2B Software\n2023",
-        "slug": "brazil-b2b-software-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/brazil-b2b-software-2023.json"
-      },
-      {
-        "name": "Nigeria",
-        "slug": "nigeria",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/nigeria.json"
-      },
-      {
-        "name": "United Arab Emirates\nB2B Software\n2024",
-        "slug": "united-arab-emirates-b2b-software-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-b2b-software-2024.json"
-      },
-      {
-        "name": "Singapore\nFinTech\n2024",
-        "slug": "singapore-fintech-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-fintech-2024.json"
-      },
-      {
-        "name": "US\nConsumerTech\n2023",
-        "slug": "us-consumertech-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-consumertech-2023.json"
-      },
-      {
-        "name": "Germany\nHealth and BioTech\n2024",
-        "slug": "germany-health-and-biotech-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-health-and-biotech-2024.json"
-      },
-      {
-        "name": "Denmark\nConsumerTech\n2024",
-        "slug": "denmark-consumertech-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-consumertech-2024.json"
-      },
-      {
-        "name": "Norway\nB2B Software\n2024",
-        "slug": "norway-b2b-software-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-b2b-software-2024.json"
-      },
-      {
-        "name": "Netherlands\nConsumerTech\n2019",
-        "slug": "netherlands-consumertech-2019",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-consumertech-2019.json"
-      },
-      {
-        "name": "Sweden\nB2B Software\n2019",
-        "slug": "sweden-b2b-software-2019",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-b2b-software-2019.json"
-      },
-      {
-        "name": "Singapore\nIndustrials\n2023",
-        "slug": "singapore-industrials-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-industrials-2023.json"
-      },
-      {
-        "name": "Germany\nConsumerTech\n2024",
-        "slug": "germany-consumertech-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-consumertech-2024.json"
-      },
-      {
-        "name": "India\nFinTech\n2022",
-        "slug": "india-fintech-2022",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-fintech-2022.json"
-      },
-      {
-        "name": "Singapore\nFinTech\n2022",
-        "slug": "singapore-fintech-2022",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-fintech-2022.json"
-      },
-      {
-        "name": "UK\nHealth and BioTech\n2023",
-        "slug": "uk-health-and-biotech-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-health-and-biotech-2023.json"
-      },
-      {
-        "name": "France\nB2B Software\n2023",
-        "slug": "france-b2b-software-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france-b2b-software-2023.json"
-      },
-      {
-        "name": "Brazil\nHealth and BioTech\n2023",
-        "slug": "brazil-health-and-biotech-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/brazil-health-and-biotech-2023.json"
-      },
-      {
-        "name": "US\nFinTech\n2023",
-        "slug": "us-fintech-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-fintech-2023.json"
-      },
-      {
-        "name": "Netherlands\nB2B Software\n2019",
-        "slug": "netherlands-b2b-software-2019",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-b2b-software-2019.json"
-      },
-      {
-        "name": "Germany\nHealth and BioTech\n2022",
-        "slug": "germany-health-and-biotech-2022",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-health-and-biotech-2022.json"
-      },
-      {
-        "name": "Vietnam\nIndustrials\n2022",
-        "slug": "vietnam-industrials-2022",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-industrials-2022.json"
-      },
-      {
-        "name": "Kenya\nB2B Software\n2023",
-        "slug": "kenya-b2b-software-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-b2b-software-2023.json"
-      },
-      {
-        "name": "Kenya\nB2B Software\n2022",
-        "slug": "kenya-b2b-software-2022",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-b2b-software-2022.json"
-      },
-      {
-        "name": "Germany\nB2B Software\n2025",
-        "slug": "germany-b2b-software-2025",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-b2b-software-2025.json"
-      },
-      {
-        "name": "UK\nHealth and BioTech\n2024",
-        "slug": "uk-health-and-biotech-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-health-and-biotech-2024.json"
-      },
-      {
-        "name": "Sweden\nConsumerTech\n2020",
-        "slug": "sweden-consumertech-2020",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-consumertech-2020.json"
-      },
-      {
-        "name": "Norway\nFinTech\n2024",
-        "slug": "norway-fintech-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-fintech-2024.json"
-      },
-      {
-        "name": "Singapore\nConsumerTech\n2024",
-        "slug": "singapore-consumertech-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-consumertech-2024.json"
-      },
-      {
-        "name": "Sweden\nConsumerTech\n2023",
-        "slug": "sweden-consumertech-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-consumertech-2023.json"
-      },
-      {
-        "name": "Indonesia\nFinTech\n2024",
-        "slug": "indonesia-fintech-2024",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-fintech-2024.json"
-      },
-      {
-        "name": "Indonesia\nB2B Software\n2023",
-        "slug": "indonesia-b2b-software-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-b2b-software-2023.json"
-      },
-      {
-        "name": "Norway\nReal Estate and PropTech\n2020",
-        "slug": "norway-real-estate-and-proptech-2020",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-real-estate-and-proptech-2020.json"
-      },
-      {
-        "name": "Australia\nConsumerTech\n2020",
-        "slug": "australia-consumertech-2020",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-consumertech-2020.json"
-      },
-      {
-        "name": "Germany\nEnergy and ClimateTech\n2022",
-        "slug": "germany-energy-and-climatetech-2022",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-energy-and-climatetech-2022.json"
-      },
-      {
-        "name": "Sweden\nB2B Software\n2020",
-        "slug": "sweden-b2b-software-2020",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-b2b-software-2020.json"
-      },
-      {
-        "name": "Spain",
-        "slug": "spain",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/spain.json"
-      },
-      {
-        "name": "FinTech\n2025",
-        "slug": "fintech-2025",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/fintech-2025.json"
-      },
-      {
-        "name": "Korea\nB2B Software\n2022",
-        "slug": "korea-b2b-software-2022",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-b2b-software-2022.json"
-      },
-      {
-        "name": "Sweden\nB2B Software\n2023",
-        "slug": "sweden-b2b-software-2023",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-b2b-software-2023.json"
       },
       {
         "name": "Banking & Exchange",
@@ -6313,600 +5173,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/trust-safety.json"
       },
       {
-        "name": "Kenya\nB2B Software\n2021",
-        "slug": "kenya-b2b-software-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-b2b-software-2021.json"
-      },
-      {
-        "name": "Germany\nEnergy and ClimateTech\n2023",
-        "slug": "germany-energy-and-climatetech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "Finland\nHealth and BioTech\n2025",
-        "slug": "finland-health-and-biotech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finland-health-and-biotech-2025.json"
-      },
-      {
-        "name": "Denmark\nHealth and BioTech\n2023",
-        "slug": "denmark-health-and-biotech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-health-and-biotech-2023.json"
-      },
-      {
-        "name": "United Arab Emirates\nHealth and BioTech\n2024",
-        "slug": "united-arab-emirates-health-and-biotech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-health-and-biotech-2024.json"
-      },
-      {
-        "name": "Sweden\nReal Estate and PropTech\n2020",
-        "slug": "sweden-real-estate-and-proptech-2020",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-real-estate-and-proptech-2020.json"
-      },
-      {
-        "name": "Singapore\nFinTech\n2021",
-        "slug": "singapore-fintech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-fintech-2021.json"
-      },
-      {
-        "name": "Singapore\nFinTech\n2025",
-        "slug": "singapore-fintech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-fintech-2025.json"
-      },
-      {
-        "name": "Canada\nConsumerTech\n2022",
-        "slug": "canada-consumertech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-consumertech-2022.json"
-      },
-      {
-        "name": "UK\nIndustrials\n2025",
-        "slug": "uk-industrials-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-industrials-2025.json"
-      },
-      {
-        "name": "US\nHealth and BioTech\n2023",
-        "slug": "us-health-and-biotech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-health-and-biotech-2023.json"
-      },
-      {
-        "name": "Brazil\nEnergy and ClimateTech\n2024",
-        "slug": "brazil-energy-and-climatetech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/brazil-energy-and-climatetech-2024.json"
-      },
-      {
-        "name": "Netherlands\nConsumerTech\n2021",
-        "slug": "netherlands-consumertech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-consumertech-2021.json"
-      },
-      {
-        "name": "Indonesia\nFinTech\n2023",
-        "slug": "indonesia-fintech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-fintech-2023.json"
-      },
-      {
-        "name": "UK\nReal Estate and PropTech\n2024",
-        "slug": "uk-real-estate-and-proptech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-real-estate-and-proptech-2024.json"
-      },
-      {
-        "name": "Netherlands\nB2B Software\n2020",
-        "slug": "netherlands-b2b-software-2020",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-b2b-software-2020.json"
-      },
-      {
-        "name": "Netherlands\nB2B Software\n2022",
-        "slug": "netherlands-b2b-software-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-b2b-software-2022.json"
-      },
-      {
-        "name": "Canada\nFinTech\n2024",
-        "slug": "canada-fintech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-fintech-2024.json"
-      },
-      {
-        "name": "UK\nFinTech\n2024",
-        "slug": "uk-fintech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-fintech-2024.json"
-      },
-      {
-        "name": "India\nConsumerTech\n2026",
-        "slug": "india-consumertech-2026",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-consumertech-2026.json"
-      },
-      {
-        "name": "Korea\nIndustrials\n2024",
-        "slug": "korea-industrials-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-industrials-2024.json"
-      },
-      {
-        "name": "US\nHealth and BioTech\n2020",
-        "slug": "us-health-and-biotech-2020",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-health-and-biotech-2020.json"
-      },
-      {
-        "name": "India\nConsumerTech\n2023",
-        "slug": "india-consumertech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-consumertech-2023.json"
-      },
-      {
-        "name": "Indonesia\nFinTech\n2022",
-        "slug": "indonesia-fintech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-fintech-2022.json"
-      },
-      {
-        "name": "Finland\nB2B Software\n2025",
-        "slug": "finland-b2b-software-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finland-b2b-software-2025.json"
-      },
-      {
-        "name": "Singapore\nB2B Software\n2019",
-        "slug": "singapore-b2b-software-2019",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-b2b-software-2019.json"
-      },
-      {
-        "name": "Vietnam\nFinTech\n2025",
-        "slug": "vietnam-fintech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-fintech-2025.json"
-      },
-      {
-        "name": "Malaysia\nB2B Software\n2024",
-        "slug": "malaysia-b2b-software-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/malaysia-b2b-software-2024.json"
-      },
-      {
-        "name": "Vietnam\nHealth and BioTech\n2024",
-        "slug": "vietnam-health-and-biotech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-health-and-biotech-2024.json"
-      },
-      {
-        "name": "Korea\nHealth and BioTech\n2025",
-        "slug": "korea-health-and-biotech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-health-and-biotech-2025.json"
-      },
-      {
-        "name": "US\nReal Estate and PropTech\n2022",
-        "slug": "us-real-estate-and-proptech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-real-estate-and-proptech-2022.json"
-      },
-      {
-        "name": "Australia\nFinTech\n2022",
-        "slug": "australia-fintech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-fintech-2022.json"
-      },
-      {
-        "name": "Korea\nHealth and BioTech\n2022",
-        "slug": "korea-health-and-biotech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-health-and-biotech-2022.json"
-      },
-      {
-        "name": "Denmark\nHealth and BioTech\n2025",
-        "slug": "denmark-health-and-biotech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-health-and-biotech-2025.json"
-      },
-      {
-        "name": "US\nIndustrials\n2023",
-        "slug": "us-industrials-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-industrials-2023.json"
-      },
-      {
-        "name": "Australia\nConsumerTech\n2021",
-        "slug": "australia-consumertech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-consumertech-2021.json"
-      },
-      {
-        "name": "Germany\nB2B Software\n2022",
-        "slug": "germany-b2b-software-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-b2b-software-2022.json"
-      },
-      {
-        "name": "Singapore\nHealth and BioTech\n2022",
-        "slug": "singapore-health-and-biotech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-health-and-biotech-2022.json"
-      },
-      {
-        "name": "ConsumerTech\n2026",
-        "slug": "consumertech-2026",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/consumertech-2026.json"
-      },
-      {
-        "name": "US\nFinTech\n2020",
-        "slug": "us-fintech-2020",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-fintech-2020.json"
-      },
-      {
-        "name": "Nigeria\nConsumerTech\n2025",
-        "slug": "nigeria-consumertech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/nigeria-consumertech-2025.json"
-      },
-      {
-        "name": "France\nB2B Software\n2024",
-        "slug": "france-b2b-software-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france-b2b-software-2024.json"
-      },
-      {
-        "name": "US\nIndustrials\n2025",
-        "slug": "us-industrials-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-industrials-2025.json"
-      },
-      {
-        "name": "US\nHealth and BioTech\n2022",
-        "slug": "us-health-and-biotech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-health-and-biotech-2022.json"
-      },
-      {
-        "name": "US\nIndustrials\n2022",
-        "slug": "us-industrials-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-industrials-2022.json"
-      },
-      {
-        "name": "Germany\nFinTech\n2024",
-        "slug": "germany-fintech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-fintech-2024.json"
-      },
-      {
-        "name": "Australia\nFinTech\n2025",
-        "slug": "australia-fintech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-fintech-2025.json"
-      },
-      {
-        "name": "US\nFinTech\n2021",
-        "slug": "us-fintech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-fintech-2021.json"
-      },
-      {
-        "name": "Australia\nConsumerTech\n2024",
-        "slug": "australia-consumertech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-consumertech-2024.json"
-      },
-      {
-        "name": "Singapore\nIndustrials\n2024",
-        "slug": "singapore-industrials-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-industrials-2024.json"
-      },
-      {
-        "name": "UK\nFinTech\n2021",
-        "slug": "uk-fintech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-fintech-2021.json"
-      },
-      {
-        "name": "Saudi Arabia\nFinTech\n2025",
-        "slug": "saudi-arabia-fintech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/saudi-arabia-fintech-2025.json"
-      },
-      {
-        "name": "Indonesia\nConsumerTech\n2022",
-        "slug": "indonesia-consumertech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-consumertech-2022.json"
-      },
-      {
-        "name": "UK\nHealth and BioTech\n2022",
-        "slug": "uk-health-and-biotech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-health-and-biotech-2022.json"
-      },
-      {
-        "name": "Norway\nEnergy and ClimateTech\n2022",
-        "slug": "norway-energy-and-climatetech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-energy-and-climatetech-2022.json"
-      },
-      {
-        "name": "Singapore\nHealth and BioTech\n2023",
-        "slug": "singapore-health-and-biotech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-health-and-biotech-2023.json"
-      },
-      {
-        "name": "Sweden\nReal Estate and PropTech\n2019",
-        "slug": "sweden-real-estate-and-proptech-2019",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-real-estate-and-proptech-2019.json"
-      },
-      {
-        "name": "UK\nEnergy and ClimateTech\n2023",
-        "slug": "uk-energy-and-climatetech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "Indonesia\nHealth and BioTech\n2022",
-        "slug": "indonesia-health-and-biotech-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-health-and-biotech-2022.json"
-      },
-      {
-        "name": "Germany\nConsumerTech\n2023",
-        "slug": "germany-consumertech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-consumertech-2023.json"
-      },
-      {
-        "name": "Norway\nEnergy and ClimateTech\n2023",
-        "slug": "norway-energy-and-climatetech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "Japan\nConsumerTech\n2023",
-        "slug": "japan-consumertech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-consumertech-2023.json"
-      },
-      {
-        "name": "India\nHealth and BioTech\n2024",
-        "slug": "india-health-and-biotech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-health-and-biotech-2024.json"
-      },
-      {
-        "name": "Norway\nEnergy and ClimateTech\n2021",
-        "slug": "norway-energy-and-climatetech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-energy-and-climatetech-2021.json"
-      },
-      {
-        "name": "Saudi Arabia\nReal Estate and PropTech\n2024",
-        "slug": "saudi-arabia-real-estate-and-proptech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/saudi-arabia-real-estate-and-proptech-2024.json"
-      },
-      {
-        "name": "Indonesia\nIndustrials\n2024",
-        "slug": "indonesia-industrials-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-industrials-2024.json"
-      },
-      {
-        "name": "Indonesia\nHealth and BioTech\n2023",
-        "slug": "indonesia-health-and-biotech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-health-and-biotech-2023.json"
-      },
-      {
-        "name": "India\nEnergy and ClimateTech\n2024",
-        "slug": "india-energy-and-climatetech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-energy-and-climatetech-2024.json"
-      },
-      {
-        "name": "Norway\nB2B Software\n2020",
-        "slug": "norway-b2b-software-2020",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-b2b-software-2020.json"
-      },
-      {
-        "name": "Australia\nIndustrials\n2024",
-        "slug": "australia-industrials-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-industrials-2024.json"
-      },
-      {
-        "name": "Singapore\nB2B Software\n2018",
-        "slug": "singapore-b2b-software-2018",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-b2b-software-2018.json"
-      },
-      {
-        "name": "Japan\nB2B Software\n2026",
-        "slug": "japan-b2b-software-2026",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-b2b-software-2026.json"
-      },
-      {
-        "name": "Norway\nConsumerTech\n2021",
-        "slug": "norway-consumertech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-consumertech-2021.json"
-      },
-      {
-        "name": "Australia\nHealth and BioTech\n2025",
-        "slug": "australia-health-and-biotech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-health-and-biotech-2025.json"
-      },
-      {
-        "name": "Kenya\nFinTech\n2025",
-        "slug": "kenya-fintech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-fintech-2025.json"
-      },
-      {
-        "name": "Brazil\nConsumerTech\n2024",
-        "slug": "brazil-consumertech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/brazil-consumertech-2024.json"
-      },
-      {
-        "name": "Australia\nReal Estate and PropTech\n2021",
-        "slug": "australia-real-estate-and-proptech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-real-estate-and-proptech-2021.json"
-      },
-      {
-        "name": "Indonesia\nB2B Software\n2022",
-        "slug": "indonesia-b2b-software-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-b2b-software-2022.json"
-      },
-      {
-        "name": "Netherlands\nConsumerTech\n2023",
-        "slug": "netherlands-consumertech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-consumertech-2023.json"
-      },
-      {
-        "name": "Australia\nEnergy and ClimateTech\n2020",
-        "slug": "australia-energy-and-climatetech-2020",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-energy-and-climatetech-2020.json"
-      },
-      {
-        "name": "Sweden\nHealth and BioTech\n2021",
-        "slug": "sweden-health-and-biotech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-health-and-biotech-2021.json"
-      },
-      {
-        "name": "Germany\nFinTech\n2021",
-        "slug": "germany-fintech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-fintech-2021.json"
-      },
-      {
-        "name": "Denmark\nHealth and BioTech\n2024",
-        "slug": "denmark-health-and-biotech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-health-and-biotech-2024.json"
-      },
-      {
-        "name": "ConsumerTech\n2025",
-        "slug": "consumertech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/consumertech-2025.json"
-      },
-      {
-        "name": "UK\nReal Estate and PropTech\n2023",
-        "slug": "uk-real-estate-and-proptech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "India\nEnergy and ClimateTech\n2025",
-        "slug": "india-energy-and-climatetech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-energy-and-climatetech-2025.json"
-      },
-      {
-        "name": "Portugal\nB2B Software",
-        "slug": "portugal-b2b-software",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/portugal-b2b-software.json"
-      },
-      {
-        "name": "Germany\nHealth and BioTech\n2023",
-        "slug": "germany-health-and-biotech-2023",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-health-and-biotech-2023.json"
-      },
-      {
-        "name": "UK\nHealth and BioTech\n2019",
-        "slug": "uk-health-and-biotech-2019",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-health-and-biotech-2019.json"
-      },
-      {
-        "name": "Australia\nFinTech\n2021",
-        "slug": "australia-fintech-2021",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-fintech-2021.json"
-      },
-      {
-        "name": "Vietnam\nFinTech\n2024",
-        "slug": "vietnam-fintech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-fintech-2024.json"
-      },
-      {
-        "name": "Singapore\nB2B Software\n2026",
-        "slug": "singapore-b2b-software-2026",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-b2b-software-2026.json"
-      },
-      {
-        "name": "Saudi Arabia\nConsumerTech\n2025",
-        "slug": "saudi-arabia-consumertech-2025",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/saudi-arabia-consumertech-2025.json"
-      },
-      {
-        "name": "Korea\nB2B Software\n2024",
-        "slug": "korea-b2b-software-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-b2b-software-2024.json"
-      },
-      {
-        "name": "US\nB2B Software\n2020",
-        "slug": "us-b2b-software-2020",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-b2b-software-2020.json"
-      },
-      {
-        "name": "Malaysia\nB2B Software\n2026",
-        "slug": "malaysia-b2b-software-2026",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/malaysia-b2b-software-2026.json"
-      },
-      {
-        "name": "Saudi Arabia\nFinTech\n2024",
-        "slug": "saudi-arabia-fintech-2024",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/saudi-arabia-fintech-2024.json"
-      },
-      {
-        "name": "Australia\nFinTech\n2020",
-        "slug": "australia-fintech-2020",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-fintech-2020.json"
-      },
-      {
-        "name": "Denmark\nB2B Software\n2022",
-        "slug": "denmark-b2b-software-2022",
-        "count": 2,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-b2b-software-2022.json"
-      },
-      {
         "name": "Smart Cities",
         "slug": "smart-cities",
         "count": 2,
@@ -7033,1276 +5299,10 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/livestock-health.json"
       },
       {
-        "name": "Indonesia\nEnergy and ClimateTech\n2024",
-        "slug": "indonesia-energy-and-climatetech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-energy-and-climatetech-2024.json"
-      },
-      {
-        "name": "Sweden\nFinTech\n2021",
-        "slug": "sweden-fintech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-fintech-2021.json"
-      },
-      {
-        "name": "Brazil\nIndustrials\n2024",
-        "slug": "brazil-industrials-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/brazil-industrials-2024.json"
-      },
-      {
-        "name": "Norway\nB2B Software\n2022",
-        "slug": "norway-b2b-software-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-b2b-software-2022.json"
-      },
-      {
-        "name": "Germany\nReal Estate and PropTech\n2024",
-        "slug": "germany-real-estate-and-proptech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-real-estate-and-proptech-2024.json"
-      },
-      {
-        "name": "Kenya\nB2B Software\n2020",
-        "slug": "kenya-b2b-software-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-b2b-software-2020.json"
-      },
-      {
-        "name": "India\nHealth and BioTech\n2025",
-        "slug": "india-health-and-biotech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-health-and-biotech-2025.json"
-      },
-      {
-        "name": "Vietnam\nReal Estate and PropTech\n2022",
-        "slug": "vietnam-real-estate-and-proptech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-real-estate-and-proptech-2022.json"
-      },
-      {
-        "name": "US\nB2B Software\n2026",
-        "slug": "us-b2b-software-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-b2b-software-2026.json"
-      },
-      {
-        "name": "Indonesia\nIndustrials\n2022",
-        "slug": "indonesia-industrials-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-industrials-2022.json"
-      },
-      {
-        "name": "France\nFinTech\n2024",
-        "slug": "france-fintech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france-fintech-2024.json"
-      },
-      {
-        "name": "Vietnam\nEnergy and ClimateTech\n2023",
-        "slug": "vietnam-energy-and-climatetech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "UK\nEnergy and ClimateTech\n2025",
-        "slug": "uk-energy-and-climatetech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-energy-and-climatetech-2025.json"
-      },
-      {
-        "name": "Saudi Arabia\nIndustrials\n2024",
-        "slug": "saudi-arabia-industrials-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/saudi-arabia-industrials-2024.json"
-      },
-      {
-        "name": "Canada\nReal Estate and PropTech\n2023",
-        "slug": "canada-real-estate-and-proptech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "Sweden\nEnergy and ClimateTech\n2019",
-        "slug": "sweden-energy-and-climatetech-2019",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-energy-and-climatetech-2019.json"
-      },
-      {
-        "name": "Norway\nReal Estate and PropTech\n2024",
-        "slug": "norway-real-estate-and-proptech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-real-estate-and-proptech-2024.json"
-      },
-      {
-        "name": "Indonesia\nHealth and BioTech\n2025",
-        "slug": "indonesia-health-and-biotech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-health-and-biotech-2025.json"
-      },
-      {
-        "name": "Australia\nHealth and BioTech\n2024",
-        "slug": "australia-health-and-biotech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-health-and-biotech-2024.json"
-      },
-      {
-        "name": "France\nHealth and BioTech\n2024",
-        "slug": "france-health-and-biotech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france-health-and-biotech-2024.json"
-      },
-      {
-        "name": "Brazil\nConsumerTech\n2023",
-        "slug": "brazil-consumertech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/brazil-consumertech-2023.json"
-      },
-      {
-        "name": "Kenya\nConsumerTech\n2023",
-        "slug": "kenya-consumertech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-consumertech-2023.json"
-      },
-      {
-        "name": "Canada\nReal Estate and PropTech\n2024",
-        "slug": "canada-real-estate-and-proptech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-real-estate-and-proptech-2024.json"
-      },
-      {
-        "name": "UK\nReal Estate and PropTech\n2026",
-        "slug": "uk-real-estate-and-proptech-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-real-estate-and-proptech-2026.json"
-      },
-      {
-        "name": "Portugal\nB2B Software\n2023",
-        "slug": "portugal-b2b-software-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/portugal-b2b-software-2023.json"
-      },
-      {
-        "name": "US\nHealth and BioTech\n2021",
-        "slug": "us-health-and-biotech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-health-and-biotech-2021.json"
-      },
-      {
-        "name": "Netherlands\nB2B Software\n2025",
-        "slug": "netherlands-b2b-software-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-b2b-software-2025.json"
-      },
-      {
-        "name": "Sweden\nIndustrials\n2022",
-        "slug": "sweden-industrials-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-industrials-2022.json"
-      },
-      {
-        "name": "Sweden\nB2B Software\n2025",
-        "slug": "sweden-b2b-software-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-b2b-software-2025.json"
-      },
-      {
-        "name": "Sweden\nIndustrials\n2020",
-        "slug": "sweden-industrials-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-industrials-2020.json"
-      },
-      {
-        "name": "Vietnam\nEnergy and ClimateTech\n2022",
-        "slug": "vietnam-energy-and-climatetech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-energy-and-climatetech-2022.json"
-      },
-      {
-        "name": "Canada\nConsumerTech\n2024",
-        "slug": "canada-consumertech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-consumertech-2024.json"
-      },
-      {
-        "name": "Australia\nIndustrials\n2022",
-        "slug": "australia-industrials-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-industrials-2022.json"
-      },
-      {
-        "name": "Singapore\nHealth and BioTech\n2024",
-        "slug": "singapore-health-and-biotech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-health-and-biotech-2024.json"
-      },
-      {
-        "name": "Germany\nIndustrials\n2026",
-        "slug": "germany-industrials-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-industrials-2026.json"
-      },
-      {
-        "name": "Vietnam\nB2B Software\n2024",
-        "slug": "vietnam-b2b-software-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-b2b-software-2024.json"
-      },
-      {
-        "name": "Canada\nReal Estate and PropTech\n2022",
-        "slug": "canada-real-estate-and-proptech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-real-estate-and-proptech-2022.json"
-      },
-      {
-        "name": "Denmark\nReal Estate and PropTech\n2024",
-        "slug": "denmark-real-estate-and-proptech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-real-estate-and-proptech-2024.json"
-      },
-      {
-        "name": "Singapore\nIndustrials\n2022",
-        "slug": "singapore-industrials-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-industrials-2022.json"
-      },
-      {
-        "name": "Germany\nHealth and BioTech\n2021",
-        "slug": "germany-health-and-biotech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-health-and-biotech-2021.json"
-      },
-      {
-        "name": "Malaysia\nConsumerTech\n2023",
-        "slug": "malaysia-consumertech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/malaysia-consumertech-2023.json"
-      },
-      {
-        "name": "UK\nIndustrials\n2019",
-        "slug": "uk-industrials-2019",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-industrials-2019.json"
-      },
-      {
-        "name": "Sweden\nReal Estate and PropTech\n2024",
-        "slug": "sweden-real-estate-and-proptech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-real-estate-and-proptech-2024.json"
-      },
-      {
-        "name": "Canada\nEnergy and ClimateTech\n2023",
-        "slug": "canada-energy-and-climatetech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "UK\nReal Estate and PropTech\n2022",
-        "slug": "uk-real-estate-and-proptech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-real-estate-and-proptech-2022.json"
-      },
-      {
-        "name": "Singapore\nReal Estate and PropTech\n2018",
-        "slug": "singapore-real-estate-and-proptech-2018",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-real-estate-and-proptech-2018.json"
-      },
-      {
-        "name": "Korea\nEnergy and ClimateTech\n2024",
-        "slug": "korea-energy-and-climatetech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-energy-and-climatetech-2024.json"
-      },
-      {
-        "name": "Sweden\nFinTech\n2024",
-        "slug": "sweden-fintech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-fintech-2024.json"
-      },
-      {
-        "name": "Health and BioTech\n2021",
-        "slug": "health-and-biotech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/health-and-biotech-2021.json"
-      },
-      {
-        "name": "United Arab Emirates\nB2B Software\n2022",
-        "slug": "united-arab-emirates-b2b-software-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-b2b-software-2022.json"
-      },
-      {
-        "name": "UK\nFinTech\n2022",
-        "slug": "uk-fintech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-fintech-2022.json"
-      },
-      {
-        "name": "India\nIndustrials\n2026",
-        "slug": "india-industrials-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-industrials-2026.json"
-      },
-      {
-        "name": "Sweden\nEnergy and ClimateTech\n2020",
-        "slug": "sweden-energy-and-climatetech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-energy-and-climatetech-2020.json"
-      },
-      {
-        "name": "US\nConsumerTech\n2025",
-        "slug": "us-consumertech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-consumertech-2025.json"
-      },
-      {
-        "name": "US\nEnergy and ClimateTech\n2023",
-        "slug": "us-energy-and-climatetech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "Australia\nEnergy and ClimateTech\n2023",
-        "slug": "australia-energy-and-climatetech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "Denmark\nEnergy and ClimateTech\n2024",
-        "slug": "denmark-energy-and-climatetech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-energy-and-climatetech-2024.json"
-      },
-      {
-        "name": "Sweden\nEnergy and ClimateTech\n2021",
-        "slug": "sweden-energy-and-climatetech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-energy-and-climatetech-2021.json"
-      },
-      {
-        "name": "Indonesia\nIndustrials\n2021",
-        "slug": "indonesia-industrials-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-industrials-2021.json"
-      },
-      {
-        "name": "Netherlands\nFinTech\n2023",
-        "slug": "netherlands-fintech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-fintech-2023.json"
-      },
-      {
-        "name": "Australia\nIndustrials\n2025",
-        "slug": "australia-industrials-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-industrials-2025.json"
-      },
-      {
-        "name": "Netherlands\nHealth and BioTech\n2024",
-        "slug": "netherlands-health-and-biotech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-health-and-biotech-2024.json"
-      },
-      {
-        "name": "UK\nReal Estate and PropTech\n2021",
-        "slug": "uk-real-estate-and-proptech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-real-estate-and-proptech-2021.json"
-      },
-      {
-        "name": "Singapore\nHealth and BioTech\n2021",
-        "slug": "singapore-health-and-biotech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-health-and-biotech-2021.json"
-      },
-      {
-        "name": "Korea\nFinTech\n2023",
-        "slug": "korea-fintech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-fintech-2023.json"
-      },
-      {
-        "name": "Canada\nReal Estate and PropTech\n2025",
-        "slug": "canada-real-estate-and-proptech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-real-estate-and-proptech-2025.json"
-      },
-      {
-        "name": "Sweden\nFinTech\n2022",
-        "slug": "sweden-fintech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-fintech-2022.json"
-      },
-      {
-        "name": "United Arab Emirates\nIndustrials\n2024",
-        "slug": "united-arab-emirates-industrials-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-industrials-2024.json"
-      },
-      {
-        "name": "Netherlands\nB2B Software\n2021",
-        "slug": "netherlands-b2b-software-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-b2b-software-2021.json"
-      },
-      {
-        "name": "Canada\nHealth and BioTech\n2022",
-        "slug": "canada-health-and-biotech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-health-and-biotech-2022.json"
-      },
-      {
-        "name": "Singapore\nReal Estate and PropTech\n2022",
-        "slug": "singapore-real-estate-and-proptech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-real-estate-and-proptech-2022.json"
-      },
-      {
-        "name": "UK\nConsumerTech\n2020",
-        "slug": "uk-consumertech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-consumertech-2020.json"
-      },
-      {
-        "name": "Malaysia\nReal Estate and PropTech\n2025",
-        "slug": "malaysia-real-estate-and-proptech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/malaysia-real-estate-and-proptech-2025.json"
-      },
-      {
-        "name": "United Arab Emirates\nFinTech\n2025",
-        "slug": "united-arab-emirates-fintech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-fintech-2025.json"
-      },
-      {
-        "name": "India\nHealth and BioTech\n2022",
-        "slug": "india-health-and-biotech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-health-and-biotech-2022.json"
-      },
-      {
-        "name": "Korea\nHealth and BioTech\n2024",
-        "slug": "korea-health-and-biotech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-health-and-biotech-2024.json"
-      },
-      {
-        "name": "France\nIndustrials\n2023",
-        "slug": "france-industrials-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france-industrials-2023.json"
-      },
-      {
-        "name": "B2B Software\n2026",
-        "slug": "b2b-software-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/b2b-software-2026.json"
-      },
-      {
-        "name": "Germany\nConsumerTech\n2021",
-        "slug": "germany-consumertech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-consumertech-2021.json"
-      },
-      {
-        "name": "Singapore\nReal Estate and PropTech\n2019",
-        "slug": "singapore-real-estate-and-proptech-2019",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-real-estate-and-proptech-2019.json"
-      },
-      {
-        "name": "UK\nConsumerTech\n2019",
-        "slug": "uk-consumertech-2019",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-consumertech-2019.json"
-      },
-      {
-        "name": "Kenya\nFinTech\n2021",
-        "slug": "kenya-fintech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-fintech-2021.json"
-      },
-      {
-        "name": "India\nReal Estate and PropTech\n2023",
-        "slug": "india-real-estate-and-proptech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "UK\nConsumerTech\n2021",
-        "slug": "uk-consumertech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-consumertech-2021.json"
-      },
-      {
-        "name": "Kenya\nConsumerTech\n2021",
-        "slug": "kenya-consumertech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-consumertech-2021.json"
-      },
-      {
-        "name": "Denmark\nEnergy and ClimateTech\n2021",
-        "slug": "denmark-energy-and-climatetech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-energy-and-climatetech-2021.json"
-      },
-      {
-        "name": "Singapore\nConsumerTech\n2025",
-        "slug": "singapore-consumertech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-consumertech-2025.json"
-      },
-      {
-        "name": "India\nIndustrials\n2023",
-        "slug": "india-industrials-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-industrials-2023.json"
-      },
-      {
-        "name": "Denmark\nReal Estate and PropTech\n2023",
-        "slug": "denmark-real-estate-and-proptech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "Denmark\nB2B Software\n2026",
-        "slug": "denmark-b2b-software-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-b2b-software-2026.json"
-      },
-      {
-        "name": "Denmark\nConsumerTech\n2025",
-        "slug": "denmark-consumertech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-consumertech-2025.json"
-      },
-      {
-        "name": "Kenya\nIndustrials\n2023",
-        "slug": "kenya-industrials-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-industrials-2023.json"
-      },
-      {
-        "name": "Norway\nB2B Software\n2025",
-        "slug": "norway-b2b-software-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-b2b-software-2025.json"
-      },
-      {
-        "name": "UK\nHealth and BioTech\n2021",
-        "slug": "uk-health-and-biotech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-health-and-biotech-2021.json"
-      },
-      {
-        "name": "Finland\nConsumerTech\n2024",
-        "slug": "finland-consumertech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finland-consumertech-2024.json"
-      },
-      {
-        "name": "Denmark\nEnergy and ClimateTech\n2022",
-        "slug": "denmark-energy-and-climatetech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-energy-and-climatetech-2022.json"
-      },
-      {
-        "name": "Japan\nIndustrials\n2023",
-        "slug": "japan-industrials-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-industrials-2023.json"
-      },
-      {
-        "name": "Sweden\nHealth and BioTech\n2022",
-        "slug": "sweden-health-and-biotech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-health-and-biotech-2022.json"
-      },
-      {
-        "name": "Singapore\nIndustrials\n2020",
-        "slug": "singapore-industrials-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-industrials-2020.json"
-      },
-      {
-        "name": "Australia\nFinTech\n2024",
-        "slug": "australia-fintech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-fintech-2024.json"
-      },
-      {
-        "name": "France\nIndustrials\n2024",
-        "slug": "france-industrials-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france-industrials-2024.json"
-      },
-      {
-        "name": "Japan\nReal Estate and PropTech\n2023",
-        "slug": "japan-real-estate-and-proptech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "UK\nEnergy and ClimateTech\n2026",
-        "slug": "uk-energy-and-climatetech-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-energy-and-climatetech-2026.json"
-      },
-      {
-        "name": "Malaysia\nHealth and BioTech\n2025",
-        "slug": "malaysia-health-and-biotech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/malaysia-health-and-biotech-2025.json"
-      },
-      {
-        "name": "Sweden\nFinTech\n2023",
-        "slug": "sweden-fintech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-fintech-2023.json"
-      },
-      {
-        "name": "Australia\nB2B Software\n2026",
-        "slug": "australia-b2b-software-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-b2b-software-2026.json"
-      },
-      {
-        "name": "US\nIndustrials\n2020",
-        "slug": "us-industrials-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-industrials-2020.json"
-      },
-      {
-        "name": "UK\nFinTech\n2020",
-        "slug": "uk-fintech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-fintech-2020.json"
-      },
-      {
-        "name": "Portugal\nConsumerTech",
-        "slug": "portugal-consumertech",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/portugal-consumertech.json"
-      },
-      {
-        "name": "Sweden\nConsumerTech\n2022",
-        "slug": "sweden-consumertech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-consumertech-2022.json"
-      },
-      {
-        "name": "United Arab Emirates\nReal Estate and PropTech\n2025",
-        "slug": "united-arab-emirates-real-estate-and-proptech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-real-estate-and-proptech-2025.json"
-      },
-      {
-        "name": "Denmark\nB2B Software\n2024",
-        "slug": "denmark-b2b-software-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-b2b-software-2024.json"
-      },
-      {
-        "name": "Kenya\nHealth and BioTech\n2025",
-        "slug": "kenya-health-and-biotech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-health-and-biotech-2025.json"
-      },
-      {
-        "name": "Kenya\nFinTech\n2022",
-        "slug": "kenya-fintech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-fintech-2022.json"
-      },
-      {
-        "name": "Malaysia\nFinTech\n2025",
-        "slug": "malaysia-fintech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/malaysia-fintech-2025.json"
-      },
-      {
-        "name": "United Arab Emirates\nConsumerTech\n2024",
-        "slug": "united-arab-emirates-consumertech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-consumertech-2024.json"
-      },
-      {
-        "name": "Canada\nB2B Software\n2022",
-        "slug": "canada-b2b-software-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-b2b-software-2022.json"
-      },
-      {
-        "name": "Japan\nHealth and BioTech\n2025",
-        "slug": "japan-health-and-biotech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-health-and-biotech-2025.json"
-      },
-      {
-        "name": "Spain\nB2B Software",
-        "slug": "spain-b2b-software",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/spain-b2b-software.json"
-      },
-      {
-        "name": "Sweden\nHealth and BioTech\n2024",
-        "slug": "sweden-health-and-biotech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-health-and-biotech-2024.json"
-      },
-      {
-        "name": "US\nReal Estate and PropTech\n2023",
-        "slug": "us-real-estate-and-proptech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "Sweden\nConsumerTech\n2021",
-        "slug": "sweden-consumertech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-consumertech-2021.json"
-      },
-      {
-        "name": "Sweden\nHealth and BioTech\n2020",
-        "slug": "sweden-health-and-biotech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-health-and-biotech-2020.json"
-      },
-      {
-        "name": "UK\nIndustrials\n2024",
-        "slug": "uk-industrials-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-industrials-2024.json"
-      },
-      {
-        "name": "Australia\nHealth and BioTech\n2023",
-        "slug": "australia-health-and-biotech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-health-and-biotech-2023.json"
-      },
-      {
-        "name": "Australia\nIndustrials\n2021",
-        "slug": "australia-industrials-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-industrials-2021.json"
-      },
-      {
-        "name": "Australia\nEnergy and ClimateTech\n2025",
-        "slug": "australia-energy-and-climatetech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-energy-and-climatetech-2025.json"
-      },
-      {
-        "name": "Norway\nIndustrials\n2023",
-        "slug": "norway-industrials-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-industrials-2023.json"
-      },
-      {
-        "name": "Korea\nB2B Software\n2025",
-        "slug": "korea-b2b-software-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-b2b-software-2025.json"
-      },
-      {
-        "name": "B2B Software\n2022",
-        "slug": "b2b-software-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/b2b-software-2022.json"
-      },
-      {
-        "name": "Netherlands\nHealth and BioTech\n2022",
-        "slug": "netherlands-health-and-biotech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-health-and-biotech-2022.json"
-      },
-      {
-        "name": "Saudi Arabia\nConsumerTech\n2024",
-        "slug": "saudi-arabia-consumertech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/saudi-arabia-consumertech-2024.json"
-      },
-      {
-        "name": "Singapore\nConsumerTech\n2020",
-        "slug": "singapore-consumertech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-consumertech-2020.json"
-      },
-      {
-        "name": "UK\nConsumerTech\n2024",
-        "slug": "uk-consumertech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-consumertech-2024.json"
-      },
-      {
-        "name": "Denmark\nIndustrials\n2022",
-        "slug": "denmark-industrials-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/denmark-industrials-2022.json"
-      },
-      {
-        "name": "FinTech\n2024",
-        "slug": "fintech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/fintech-2024.json"
-      },
-      {
-        "name": "Canada\nEnergy and ClimateTech\n2024",
-        "slug": "canada-energy-and-climatetech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/canada-energy-and-climatetech-2024.json"
-      },
-      {
-        "name": "US\nEnergy and ClimateTech\n2020",
-        "slug": "us-energy-and-climatetech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-energy-and-climatetech-2020.json"
-      },
-      {
-        "name": "Finland\nConsumerTech\n2026",
-        "slug": "finland-consumertech-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finland-consumertech-2026.json"
-      },
-      {
-        "name": "FinTech\n2023",
-        "slug": "fintech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/fintech-2023.json"
-      },
-      {
-        "name": "Australia\nReal Estate and PropTech\n2025",
-        "slug": "australia-real-estate-and-proptech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-real-estate-and-proptech-2025.json"
-      },
-      {
-        "name": "Netherlands\nFinTech\n2024",
-        "slug": "netherlands-fintech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-fintech-2024.json"
-      },
-      {
-        "name": "Singapore\nFinTech\n2019",
-        "slug": "singapore-fintech-2019",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-fintech-2019.json"
-      },
-      {
-        "name": "Nigeria\nB2B Software\n2025",
-        "slug": "nigeria-b2b-software-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/nigeria-b2b-software-2025.json"
-      },
-      {
-        "name": "UK\nFinTech\n2025",
-        "slug": "uk-fintech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-fintech-2025.json"
-      },
-      {
-        "name": "Germany\nB2B Software\n2021",
-        "slug": "germany-b2b-software-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-b2b-software-2021.json"
-      },
-      {
-        "name": "Singapore\nReal Estate and PropTech\n2023",
-        "slug": "singapore-real-estate-and-proptech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "Australia\nEnergy and ClimateTech\n2019",
-        "slug": "australia-energy-and-climatetech-2019",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-energy-and-climatetech-2019.json"
-      },
-      {
-        "name": "Korea\nEnergy and ClimateTech\n2022",
-        "slug": "korea-energy-and-climatetech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-energy-and-climatetech-2022.json"
-      },
-      {
-        "name": "Norway\nReal Estate and PropTech\n2022",
-        "slug": "norway-real-estate-and-proptech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-real-estate-and-proptech-2022.json"
-      },
-      {
-        "name": "Korea\nEnergy and ClimateTech\n2023",
-        "slug": "korea-energy-and-climatetech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "Kenya\nB2B Software\n2025",
-        "slug": "kenya-b2b-software-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-b2b-software-2025.json"
-      },
-      {
-        "name": "UK\nIndustrials\n2023",
-        "slug": "uk-industrials-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-industrials-2023.json"
-      },
-      {
-        "name": "India\nEnergy and ClimateTech\n2023",
-        "slug": "india-energy-and-climatetech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "United Arab Emirates\nConsumerTech\n2022",
-        "slug": "united-arab-emirates-consumertech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/united-arab-emirates-consumertech-2022.json"
-      },
-      {
-        "name": "Germany\nEnergy and ClimateTech\n2024",
-        "slug": "germany-energy-and-climatetech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/germany-energy-and-climatetech-2024.json"
-      },
-      {
-        "name": "UK\nB2B Software\n2020",
-        "slug": "uk-b2b-software-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-b2b-software-2020.json"
-      },
-      {
-        "name": "Indonesia\nReal Estate and PropTech\n2022",
-        "slug": "indonesia-real-estate-and-proptech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-real-estate-and-proptech-2022.json"
-      },
-      {
-        "name": "Korea\nConsumerTech\n2024",
-        "slug": "korea-consumertech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-consumertech-2024.json"
-      },
-      {
-        "name": "Vietnam\nHealth and BioTech\n2022",
-        "slug": "vietnam-health-and-biotech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-health-and-biotech-2022.json"
-      },
-      {
-        "name": "Korea\nReal Estate and PropTech\n2023",
-        "slug": "korea-real-estate-and-proptech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "Norway\nConsumerTech\n2020",
-        "slug": "norway-consumertech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-consumertech-2020.json"
-      },
-      {
-        "name": "Korea\nReal Estate and PropTech\n2024",
-        "slug": "korea-real-estate-and-proptech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-real-estate-and-proptech-2024.json"
-      },
-      {
-        "name": "Japan\nIndustrials\n2025",
-        "slug": "japan-industrials-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-industrials-2025.json"
-      },
-      {
-        "name": "Korea\nIndustrials\n2025",
-        "slug": "korea-industrials-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/korea-industrials-2025.json"
-      },
-      {
-        "name": "Australia\nIndustrials\n2019",
-        "slug": "australia-industrials-2019",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-industrials-2019.json"
-      },
-      {
-        "name": "Vietnam\nHealth and BioTech\n2023",
-        "slug": "vietnam-health-and-biotech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-health-and-biotech-2023.json"
-      },
-      {
-        "name": "Japan\nB2B Software\n2024",
-        "slug": "japan-b2b-software-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-b2b-software-2024.json"
-      },
-      {
-        "name": "Netherlands\nFinTech\n2021",
-        "slug": "netherlands-fintech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-fintech-2021.json"
-      },
-      {
-        "name": "Sweden\nEnergy and ClimateTech\n2025",
-        "slug": "sweden-energy-and-climatetech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-energy-and-climatetech-2025.json"
-      },
-      {
-        "name": "Singapore\nHealth and BioTech\n2019",
-        "slug": "singapore-health-and-biotech-2019",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-health-and-biotech-2019.json"
-      },
-      {
-        "name": "Netherlands\nIndustrials\n2023",
-        "slug": "netherlands-industrials-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-industrials-2023.json"
-      },
-      {
-        "name": "Indonesia\nB2B Software\n2018",
-        "slug": "indonesia-b2b-software-2018",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-b2b-software-2018.json"
-      },
-      {
-        "name": "India\nHealth and BioTech\n2023",
-        "slug": "india-health-and-biotech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/india-health-and-biotech-2023.json"
-      },
-      {
-        "name": "Netherlands\nReal Estate and PropTech\n2024",
-        "slug": "netherlands-real-estate-and-proptech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-real-estate-and-proptech-2024.json"
-      },
-      {
-        "name": "Netherlands\nFinTech\n2020",
-        "slug": "netherlands-fintech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-fintech-2020.json"
-      },
-      {
-        "name": "Vietnam\nFinTech\n2022",
-        "slug": "vietnam-fintech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/vietnam-fintech-2022.json"
-      },
-      {
-        "name": "US\nFinTech\n2025",
-        "slug": "us-fintech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-fintech-2025.json"
-      },
-      {
-        "name": "Singapore\nFinTech\n2020",
-        "slug": "singapore-fintech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-fintech-2020.json"
-      },
-      {
-        "name": "FinTech\n2026",
-        "slug": "fintech-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/fintech-2026.json"
-      },
-      {
-        "name": "Norway\nConsumerTech\n2022",
-        "slug": "norway-consumertech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-consumertech-2022.json"
-      },
-      {
-        "name": "Finland\nConsumerTech\n2025",
-        "slug": "finland-consumertech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finland-consumertech-2025.json"
-      },
-      {
-        "name": "B2B Software\n2025",
-        "slug": "b2b-software-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/b2b-software-2025.json"
-      },
-      {
-        "name": "France\nFinTech\n2023",
-        "slug": "france-fintech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france-fintech-2023.json"
-      },
-      {
-        "name": "Australia\nFinTech\n2023",
-        "slug": "australia-fintech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-fintech-2023.json"
-      },
-      {
-        "name": "Spain\nHealth and BioTech\n2025",
-        "slug": "spain-health-and-biotech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/spain-health-and-biotech-2025.json"
-      },
-      {
-        "name": "France\nEnergy and ClimateTech\n2024",
-        "slug": "france-energy-and-climatetech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france-energy-and-climatetech-2024.json"
-      },
-      {
-        "name": "Netherlands\nIndustrials\n2020",
-        "slug": "netherlands-industrials-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-industrials-2020.json"
-      },
-      {
-        "name": "Singapore\nEnergy and ClimateTech\n2022",
-        "slug": "singapore-energy-and-climatetech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-energy-and-climatetech-2022.json"
-      },
-      {
-        "name": "Sweden\nFinTech\n2020",
-        "slug": "sweden-fintech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sweden-fintech-2020.json"
-      },
-      {
-        "name": "Indonesia\nEnergy and ClimateTech\n2022",
-        "slug": "indonesia-energy-and-climatetech-2022",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/indonesia-energy-and-climatetech-2022.json"
-      },
-      {
-        "name": "UK\nFinTech\n2026",
-        "slug": "uk-fintech-2026",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/uk-fintech-2026.json"
-      },
-      {
-        "name": "Norway\nFinTech\n2021",
-        "slug": "norway-fintech-2021",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-fintech-2021.json"
-      },
-      {
-        "name": "Kenya\nConsumerTech\n2020",
-        "slug": "kenya-consumertech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/kenya-consumertech-2020.json"
-      },
-      {
-        "name": "Malaysia\nReal Estate and PropTech\n2023",
-        "slug": "malaysia-real-estate-and-proptech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/malaysia-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "Finland\nIndustrials\n2024",
-        "slug": "finland-industrials-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finland-industrials-2024.json"
-      },
-      {
-        "name": "Australia\nFinTech\n2019",
-        "slug": "australia-fintech-2019",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/australia-fintech-2019.json"
-      },
-      {
-        "name": "Netherlands\nReal Estate and PropTech\n2023",
-        "slug": "netherlands-real-estate-and-proptech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/netherlands-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "Japan\nHealth and BioTech\n2024",
-        "slug": "japan-health-and-biotech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-health-and-biotech-2024.json"
-      },
-      {
-        "name": "France\nEnergy and ClimateTech\n2023",
-        "slug": "france-energy-and-climatetech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/france-energy-and-climatetech-2023.json"
-      },
-      {
-        "name": "Norway\nReal Estate and PropTech\n2023",
-        "slug": "norway-real-estate-and-proptech-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/norway-real-estate-and-proptech-2023.json"
-      },
-      {
-        "name": "Japan\nFinTech\n2025",
-        "slug": "japan-fintech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-fintech-2025.json"
-      },
-      {
-        "name": "Spain\nIndustrials\n2024",
-        "slug": "spain-industrials-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/spain-industrials-2024.json"
-      },
-      {
-        "name": "Brazil\nFinTech\n2024",
-        "slug": "brazil-fintech-2024",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/brazil-fintech-2024.json"
-      },
-      {
-        "name": "US\nReal Estate and PropTech\n2020",
-        "slug": "us-real-estate-and-proptech-2020",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-real-estate-and-proptech-2020.json"
-      },
-      {
-        "name": "Japan\nB2B Software\n2023",
-        "slug": "japan-b2b-software-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/japan-b2b-software-2023.json"
-      },
-      {
-        "name": "Singapore\nConsumerTech\n2018",
-        "slug": "singapore-consumertech-2018",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-consumertech-2018.json"
-      },
-      {
-        "name": "B2B Software\n2023",
-        "slug": "b2b-software-2023",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/b2b-software-2023.json"
-      },
-      {
-        "name": "US\nEnergy and ClimateTech\n2025",
-        "slug": "us-energy-and-climatetech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/us-energy-and-climatetech-2025.json"
-      },
-      {
-        "name": "Singapore\nHealth and BioTech\n2025",
-        "slug": "singapore-health-and-biotech-2025",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/singapore-health-and-biotech-2025.json"
-      },
-      {
         "name": "Debt",
         "slug": "debt",
         "count": 1,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/debt.json"
-      },
-      {
-        "name": "Other",
-        "slug": "other",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/other.json"
       },
       {
         "name": "CivicTech",

@@ -5,7 +5,7 @@ _Auto-generated from the dataset on 2026-06-22._
 | Metric | Count |
 |---|---|
 | Total companies | **15,047** |
-| 🦄 Unicorns ($1B+) | **23** |
+| 🦄 Unicorns ($1B+) | **77** |
 | 💰 Exits | **2115** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
@@ -100,26 +100,26 @@ _Auto-generated from the dataset on 2026-06-22._
 15. **Techstars Boulder Accelerator** — 216
 
 ## Top industries
-1. **B2B** — 4482
-2. **Fintech** — 1897
-3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1402
-5. **Mobile** — 1141
-6. **Consumer** — 1045
-7. **Artificial Intelligence** — 881
-8. **B2C** — 806
-9. **Healthcare** — 795
-10. **AI** — 784
-11. **Developer Tools** — 681
-12. **Infrastructure** — 654
-13. **Engineering, Product and Design** — 603
-14. **Industrials** — 565
-15. **B2B Software** — 544
-16. **Healthtech** — 440
-17. **Lifestyles of Health and Sustainability and wellness** — 384
-18. **Internet of Things** — 384
-19. **Productivity** — 381
-20. **Climate tech** — 360
+1. **Fintech** — 1897
+2. **Artificial intelligence and machine learning** — 1510
+3. **SaaS** — 1402
+4. **Mobile** — 1141
+5. **Consumer** — 1045
+6. **Artificial Intelligence** — 881
+7. **Healthcare** — 795
+8. **AI** — 784
+9. **Developer Tools** — 681
+10. **Infrastructure** — 654
+11. **Engineering, Product and Design** — 603
+12. **Industrials** — 565
+13. **B2B Software** — 544
+14. **Healthtech** — 440
+15. **Lifestyles of Health and Sustainability and wellness** — 384
+16. **Internet of Things** — 384
+17. **Productivity** — 381
+18. **Climate tech** — 360
+19. **Marketplace** — 345
+20. **FinTech** — 343
 
 ## By region
 1. **United States of America** — 4433

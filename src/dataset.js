@@ -2,6 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const { buildWorkbook } = require('./excel');
 const { renderReadme } = require('./readme');
+const { cleanTags } = require('./normalize');
+const { isKnownUnicorn } = require('./data/unicorns');
 
 function slugify(s) {
   return String(s)
@@ -160,9 +162,13 @@ function writeDataset(companies, { outDir = 'data', rootDir = '.' } = {}) {
   const base = path.resolve(rootDir, outDir);
   ensureDir(base);
 
-  // Trim the heavy raw `extra` blob before writing anything (CSV/stats below
-  // only read city/state_province/country from it, which we keep).
-  companies = slimExtra(companies);
+  // Trim the heavy raw `extra` blob (CSV/stats only read city/state/country),
+  // clean up the industry tags, and enrich the unicorn flag across all sources.
+  companies = slimExtra(companies).map((c) => ({
+    ...c,
+    tags: cleanTags(c.tags),
+    isUnicorn: !!c.isUnicorn || isKnownUnicorn(c.website),
+  }));
 
   // Full dataset (JSON + CSV + XLSX).
   writeJson(path.join(base, 'all.json'), companies);
