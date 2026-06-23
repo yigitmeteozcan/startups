@@ -8,7 +8,7 @@ The open API for every company across multiple startup portfolios — [Techstars
 [![updated](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/stats.json&query=$.generatedAt&label=updated)](STATS.md)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-**[🔎 Live explorer →](https://yigitmeteozcan.github.io/startups/)** · search and filter all 21,071 companies in your browser.
+**[🔎 Live explorer →](https://yigitmeteozcan.github.io/startups/)** · search, filter (by source, region, industry, year range), sort, and export all 21,071 companies in your browser.
 
 ## ℹ️ Metadata
 
@@ -1096,7 +1096,7 @@ Each company is an object with the following fields:
 | `isBCorp` | boolean | Certified B Corp |
 | `isCurrentSession` | boolean | In the current session |
 | `social` | object | `linkedin`, `twitter`, `facebook`, `crunchbase` URLs |
-| `extra` | object | Selected raw source fields (`city`, `state_province`, `country`) |
+| `extra` | object | Selected raw source fields (`city`, `state_province`, `country`, `investor`) |
 
 ### Example
 
@@ -1130,7 +1130,7 @@ See **[STATS.md](STATS.md)** for charts — companies per year, top countries an
 
 ## 🔄 How it stays fresh
 
-A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, 500 Global and Entrepreneur First from their public endpoints, and Antler, Alchemist, and Plug and Play via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result. So the data here tracks the live portfolios without any manual work.
+A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, 500 Global, Entrepreneur First, Alchemist, and Plug and Play from their public JSON endpoints, and Antler via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result. If a source is briefly unreachable, its previously committed records are kept so a transient failure never drops it from the dataset. So the data here tracks the live portfolios without any manual work.
 
 ## 🛠️ Run it yourself
 
