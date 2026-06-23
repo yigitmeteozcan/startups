@@ -1,7 +1,7 @@
 {
   "Americas": {
     "slug": "americas",
-    "count": 3749,
+    "count": 5479,
     "file": "by-region/americas.json"
   },
   "Middle East": {
@@ -21,7 +21,7 @@
   },
   "Asia": {
     "slug": "asia",
-    "count": 142,
+    "count": 3180,
     "file": "by-region/asia.json"
   },
   "Oceania": {
@@ -478,5 +478,10 @@
     "slug": "global",
     "count": 1,
     "file": "by-region/global.json"
+  },
+  "EMEA": {
+    "slug": "emea",
+    "count": 726,
+    "file": "by-region/emea.json"
   }
 }
