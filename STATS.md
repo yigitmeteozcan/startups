@@ -5,8 +5,8 @@ _Auto-generated from the dataset on 2026-06-23._
 | Metric | Count |
 |---|---|
 | Total companies | **21,071** |
-| 🦄 Unicorns ($1B+) | **146** |
-| 💰 Exits | **2691** |
+| 🦄 Unicorns ($1B+) | **148** |
+| 💰 Exits | **2687** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -51,29 +51,29 @@ _Auto-generated from the dataset on 2026-06-23._
 ```
 
 ## Top countries
-1. **United States** — 5768
-2. **Japan** — 2878
-3. **United Kingdom** — 580
-4. **Canada** — 567
+1. **United States** — 5757
+2. **Japan** — 2933
+3. **United Kingdom** — 575
+4. **Canada** — 565
 5. **USA** — 396
-6. **Germany** — 236
-7. **Israel** — 186
+6. **Germany** — 232
+7. **Israel** — 180
 8. **Singapore** — 172
-9. **France** — 169
+9. **France** — 168
 10. **Mexico** — 138
 11. **South Korea** — 136
-12. **India** — 125
-13. **United Arab Emirates** — 103
+12. **India** — 124
+13. **United Arab Emirates** — 102
 14. **UNITED STATES** — 99
-15. **Italy** — 97
+15. **Italy** — 95
 
 ## Top cities
-1. **Tokyo** — 2861
-2. **Silicon Valley** — 1498
+1. **Tokyo** — 2850
+2. **Silicon Valley** — 1511
 3. **New York City** — 398
 4. **London** — 304
 5. **San Francisco** — 176
-6. **Los Angeles** — 143
+6. **Los Angeles** — 142
 7. **Boston** — 122
 8. **Seattle** — 116
 9. **Chicago** — 113
@@ -102,7 +102,7 @@ _Auto-generated from the dataset on 2026-06-23._
 15. **YC Summer 2023** — 219
 
 ## Top industries
-1. **Fintech** — 2456
+1. **Fintech** — 2458
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1402
 4. **Mobile** — 1141
@@ -111,25 +111,25 @@ _Auto-generated from the dataset on 2026-06-23._
 7. **Healthcare** — 796
 8. **AI** — 786
 9. **Developer Tools** — 680
-10. **Health** — 673
+10. **Health** — 676
 11. **Infrastructure** — 654
 12. **Engineering, Product and Design** — 604
 13. **Industrials** — 565
 14. **B2B Software** — 544
-15. **Insurtech** — 505
+15. **Insurtech** — 517
 16. **Healthtech** — 440
-17. **Deeptech** — 436
-18. **Mobility & Physical AI** — 427
-19. **Energy** — 422
-20. **Brand & Retail** — 422
+17. **Mobility & Physical AI** — 440
+18. **Energy** — 431
+19. **Brand & Retail** — 425
+20. **Deeptech** — 392
 
 ## By region
-1. **Americas** — 5479
+1. **Americas** — 5465
 2. **United States of America** — 4431
-3. **Asia** — 3180
+3. **Asia** — 3217
 4. **Europe** — 1014
 5. **North America** — 903
-6. **EMEA** — 726
+6. **EMEA** — 703
 7. **Middle East & Africa** — 285
 8. **South Asia** — 265
 9. **United Kingdom** — 210
