@@ -107,8 +107,16 @@
     <input type="search" id="q" placeholder="Search name or description…" autocomplete="off" />
     <select id="source"><option value="">All sources</option></select>
     <select id="region"><option value="">All regions</option></select>
-    <select id="year"><option value="">All years</option></select>
+    <select id="yearFrom"><option value="">Year from</option></select>
+    <select id="yearTo"><option value="">Year to</option></select>
     <select id="industry"><option value="">All industries</option></select>
+    <select id="sort">
+      <option value="">Sort: default</option>
+      <option value="year-desc">Year: newest first</option>
+      <option value="year-asc">Year: oldest first</option>
+      <option value="name-asc">Name: A → Z</option>
+      <option value="name-desc">Name: Z → A</option>
+    </select>
   </div>
   <div class="toggles">
     <span class="toggle" data-flag="isUnicorn">🦄 Unicorns</span>
@@ -213,24 +221,56 @@ function uniq(fn, numeric) {
 function buildFilters() {
   for (const s of uniq(c => c.source)) $("source").insertAdjacentHTML("beforeend",`<option>${esc(s)}</option>`);
   for (const r of uniq(c => c.region)) $("region").insertAdjacentHTML("beforeend",`<option>${esc(r)}</option>`);
-  for (const y of uniq(c => c.year, true)) $("year").insertAdjacentHTML("beforeend",`<option>${esc(y)}</option>`);
+  // Year range: oldest → newest, shared by both the "from" and "to" selects.
+  const years = uniq(c => c.year, true).filter(y => /^\d{4}$/.test(String(y))).sort((a,b)=>a-b);
+  for (const y of years) {
+    $("yearFrom").insertAdjacentHTML("beforeend",`<option>${esc(y)}</option>`);
+    $("yearTo").insertAdjacentHTML("beforeend",`<option>${esc(y)}</option>`);
+  }
   for (const t of uniq(c => c.tags)) $("industry").insertAdjacentHTML("beforeend",`<option>${esc(t)}</option>`);
 }
 
 function apply() {
   const q = $("q").value.trim().toLowerCase();
-  const source = $("source").value, region = $("region").value, year = $("year").value, industry = $("industry").value;
+  const source = $("source").value, region = $("region").value, industry = $("industry").value;
+  const from = parseInt($("yearFrom").value, 10), to = parseInt($("yearTo").value, 10);
   filtered = companies.filter(c => {
     if (q && !(`${c.name} ${c.description}`.toLowerCase().includes(q))) return false;
     if (source && c.source !== source) return false;
     if (region && c.region !== region) return false;
-    if (year && String(c.year) !== year) return false;
+    // Year range. Companies without a year are excluded once a bound is set.
+    if (!Number.isNaN(from) || !Number.isNaN(to)) {
+      const y = parseInt(c.year, 10);
+      if (Number.isNaN(y)) return false;
+      if (!Number.isNaN(from) && y < from) return false;
+      if (!Number.isNaN(to) && y > to) return false;
+    }
     if (industry && !(c.tags||[]).includes(industry)) return false;
     for (const f in flags) if (flags[f] && !c[f]) return false;
     return true;
   });
+  sortFiltered();
   page = 0;
   render();
+}
+
+function sortFiltered() {
+  const mode = $("sort").value;
+  if (!mode) return;
+  const yr = c => { const y = parseInt(c.year, 10); return Number.isNaN(y) ? null : y; };
+  const byName = (a,b) => String(a.name||"").localeCompare(String(b.name||""), undefined, { sensitivity:"base" });
+  // Undated companies always sink to the bottom, in both sort directions.
+  const byYear = dir => (a,b) => {
+    const ya = yr(a), yb = yr(b);
+    if (ya === null && yb === null) return 0;
+    if (ya === null) return 1;
+    if (yb === null) return -1;
+    return dir * (ya - yb);
+  };
+  if (mode === "name-asc")  filtered.sort(byName);
+  if (mode === "name-desc") filtered.sort((a,b) => byName(b,a));
+  if (mode === "year-asc")  filtered.sort(byYear(1));
+  if (mode === "year-desc") filtered.sort(byYear(-1));
 }
 
 // ── Render ────────────────────────────────────────────────────────────────────
@@ -402,8 +442,10 @@ $("btn-xl").addEventListener("click", () => {
 
 function label() {
   const q = $("q").value.trim();
-  const s = $("source").value, r = $("region").value, y = $("year").value, i = $("industry").value;
-  const parts = [q,s,r,y,i].filter(Boolean);
+  const s = $("source").value, r = $("region").value, i = $("industry").value;
+  const from = $("yearFrom").value, to = $("yearTo").value;
+  const yr = (from || to) ? `${from||"all"}-${to||"now"}` : "";
+  const parts = [q,s,r,yr,i].filter(Boolean);
   return parts.length ? parts.join("-").toLowerCase().replace(/[^a-z0-9-]/g,"-") : "portfolio";
 }
 
@@ -429,7 +471,7 @@ function renderPager() {
 // ── Event wiring ──────────────────────────────────────────────────────────────
 let t;
 $("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(apply, 150); });
-["source","region","year","industry"].forEach(id => $(id).addEventListener("change", apply));
+["source","region","yearFrom","yearTo","industry","sort"].forEach(id => $(id).addEventListener("change", apply));
 document.querySelectorAll(".toggle").forEach(btn => btn.addEventListener("click", () => {
   const f = btn.dataset.flag;
   flags[f] = !flags[f];
