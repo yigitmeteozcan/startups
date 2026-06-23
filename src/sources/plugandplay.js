@@ -31,6 +31,32 @@ const browser = makeBrowserSource({
   program: 'Plug and Play',
 });
 
+// Japanese (and other CJK) companies come back under their localized legal name
+// (e.g. "株式会社モノクローム"), which is unreadable in the explorer. The English
+// one-liner reliably leads with the brand ("Monochrome is creating…"), so when
+// the title is non-Latin we recover the brand from the start of the description.
+const CJK = /[　-鿿가-힯＀-￯]/;
+const LEAD_VERB =
+  /^(.*?)\s+(is|are|was|were|has|have|provides?|develops?|engages?|offers?|specializ\w+|operates?|builds?|creates?|makes?|enables?|helps?|delivers?|produces?|designs?|manufactur\w+|focus\w+|aims?|works?|runs?|sells?|connects?|allows?|combines?|leverages?|uses?|brings?|transform\w+|empowers?|supports?|promotes?|provid\w+|develop\w+)\b/i;
+
+function capitalizedWord(w) {
+  return /^[0-9]/.test(w) || /^[A-Z]/.test(w) || w === w.toUpperCase();
+}
+
+function displayName(title, description) {
+  if (!title || !CJK.test(title) || !description) return title;
+  let d = String(description).trim();
+  if (/^At\s+/i.test(d)) d = d.replace(/^At\s+/i, '').split(',')[0];
+  const m = d.match(LEAD_VERB);
+  const brand = (m ? m[1] : d.split(/[.,]/)[0]).trim().replace(/[.,;:]+$/, '');
+  if (!/^[A-Za-z0-9]/.test(brand)) return title;
+  const words = brand.split(/\s+/);
+  // Reject generic lowercase phrases ("Internet media management"); a real brand
+  // reads as capitalized/all-caps tokens.
+  if (brand.length > 40 || words.length > 5 || !words.every(capitalizedWord)) return title;
+  return brand;
+}
+
 function buildUrl(offset, limit) {
   const u = new URL(API);
   u.searchParams.set('offset', String(offset));
@@ -59,7 +85,7 @@ function normalizePlugAndPlay(item) {
   const cityParts = [loc.locationCity, loc.locationState].filter(Boolean);
   return {
     source: 'plugandplay',
-    name: item.startupTitle || '',
+    name: displayName(item.startupTitle || '', item.startupOneLiner || item.startupDescription || ''),
     description: item.startupOneLiner || item.startupDescription || '',
     logo: item.startupLogo || '',
     website: addHttps(item.startupWebsite || ''),
