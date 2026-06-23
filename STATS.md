@@ -4,9 +4,9 @@ _Auto-generated from the dataset on 2026-06-23._
 
 | Metric | Count |
 |---|---|
-| Total companies | **15,564** |
-| 🦄 Unicorns ($1B+) | **77** |
-| 💰 Exits | **2189** |
+| Total companies | **21,071** |
+| 🦄 Unicorns ($1B+) | **148** |
+| 💰 Exits | **2687** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -15,6 +15,7 @@ _Auto-generated from the dataset on 2026-06-23._
 | Source | Companies |
 |---|---|
 | yc | 5,964 |
+| plugandplay | 5,507 |
 | techstars | 5,105 |
 | 500 | 2,241 |
 | antler | 1,237 |
@@ -50,58 +51,58 @@ _Auto-generated from the dataset on 2026-06-23._
 ```
 
 ## Top countries
-1. **United States** — 4317
-2. **United Kingdom** — 427
-3. **USA** — 396
-4. **Canada** — 340
-5. **Israel** — 142
-6. **Singapore** — 142
-7. **Germany** — 123
-8. **Mexico** — 122
-9. **India** — 117
-10. **France** — 102
-11. **UNITED STATES** — 99
-12. **United Arab Emirates** — 90
-13. **Saudi Arabia** — 82
-14. **Australia** — 80
-15. **South Korea** — 74
+1. **United States** — 5757
+2. **Japan** — 2933
+3. **United Kingdom** — 575
+4. **Canada** — 565
+5. **USA** — 396
+6. **Germany** — 232
+7. **Israel** — 180
+8. **Singapore** — 172
+9. **France** — 168
+10. **Mexico** — 138
+11. **South Korea** — 136
+12. **India** — 124
+13. **United Arab Emirates** — 102
+14. **UNITED STATES** — 99
+15. **Italy** — 95
 
 ## Top cities
-1. **New York City** — 398
-2. **London** — 288
-3. **San Francisco** — 176
-4. **Boston** — 122
-5. **Los Angeles** — 122
-6. **Chicago** — 113
-7. **Seattle** — 110
-8. **Austin** — 109
-9. **Toronto** — 98
-10. **Brooklyn** — 84
-11. **Boulder** — 79
-12. **Denver** — 78
-13. **Atlanta** — 76
-14. **Tel Aviv** — 72
-15. **Cambridge** — 71
+1. **Tokyo** — 2850
+2. **Silicon Valley** — 1511
+3. **New York City** — 398
+4. **London** — 304
+5. **San Francisco** — 176
+6. **Los Angeles** — 142
+7. **Boston** — 122
+8. **Seattle** — 116
+9. **Chicago** — 113
+10. **Austin** — 109
+11. **Paris** — 108
+12. **Toronto** — 98
+13. **Alberta** — 97
+14. **Brooklyn** — 84
+15. **Boulder** — 79
 
 ## Top programs
-1. **500 Global** — 1401
-2. **Antler** — 1237
-3. **Entrepreneur First** — 498
-4. **YC Winter 2022** — 398
-5. **YC Summer 2021** — 391
-6. **YC Winter 2021** — 336
-7. **Techstars New York City Accelerator** — 274
-8. **YC Winter 2023** — 274
-9. **YC Winter 2024** — 249
-10. **YC Summer 2024** — 248
-11. **Techstars Boston Accelerator** — 239
-12. **YC Summer 2022** — 234
-13. **YC Winter 2020** — 229
-14. **YC Summer 2023** — 219
-15. **Techstars Boulder Accelerator** — 216
+1. **Plug and Play** — 5507
+2. **500 Global** — 1401
+3. **Antler** — 1237
+4. **Entrepreneur First** — 498
+5. **YC Winter 2022** — 398
+6. **YC Summer 2021** — 391
+7. **YC Winter 2021** — 336
+8. **Techstars New York City Accelerator** — 274
+9. **YC Winter 2023** — 274
+10. **YC Winter 2024** — 249
+11. **YC Summer 2024** — 248
+12. **Techstars Boston Accelerator** — 239
+13. **YC Summer 2022** — 234
+14. **YC Winter 2020** — 229
+15. **YC Summer 2023** — 219
 
 ## Top industries
-1. **Fintech** — 1897
+1. **Fintech** — 2458
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1402
 4. **Mobile** — 1141
@@ -110,112 +111,113 @@ _Auto-generated from the dataset on 2026-06-23._
 7. **Healthcare** — 796
 8. **AI** — 786
 9. **Developer Tools** — 680
-10. **Infrastructure** — 654
-11. **Engineering, Product and Design** — 604
-12. **Industrials** — 565
-13. **B2B Software** — 544
-14. **Healthtech** — 440
-15. **Lifestyles of Health and Sustainability and wellness** — 384
-16. **Internet of Things** — 384
-17. **Productivity** — 381
-18. **Climate tech** — 360
-19. **Marketplace** — 345
-20. **FinTech** — 343
+10. **Health** — 676
+11. **Infrastructure** — 654
+12. **Engineering, Product and Design** — 604
+13. **Industrials** — 565
+14. **B2B Software** — 544
+15. **Insurtech** — 517
+16. **Healthtech** — 440
+17. **Mobility & Physical AI** — 440
+18. **Energy** — 431
+19. **Brand & Retail** — 425
+20. **Deeptech** — 392
 
 ## By region
-1. **United States of America** — 4431
-2. **Americas** — 3749
-3. **Europe** — 1014
-4. **North America** — 903
-5. **Middle East & Africa** — 285
-6. **South Asia** — 265
-7. **United Kingdom** — 210
-8. **India** — 201
-9. **Canada** — 194
-10. **Unspecified** — 185
-11. **Latin America** — 165
-12. **Middle East** — 159
-13. **Asia** — 142
-14. **Remote** — 114
-15. **North Asia** — 110
-16. **Africa** — 107
-17. **Southeast Asia** — 95
-18. **Mexico** — 80
-19. **Oceania** — 73
-20. **Brazil** — 67
-21. **France** — 53
-22. **Nigeria** — 51
-23. **Singapore** — 49
-24. **Germany** — 46
-25. **Indonesia** — 30
-26. **Colombia** — 29
-27. **Israel** — 28
-28. **Argentina** — 17
-29. **Spain** — 16
-30. **Chile** — 16
-31. **Denmark** — 13
-32. **Australia & NZ** — 13
-33. **Netherlands** — 11
-34. **Egypt** — 11
-35. **Australia** — 11
-36. **Sweden** — 10
-37. **United Arab Emirates** — 10
-38. **Pakistan** — 10
-39. **Kenya** — 9
-40. **Switzerland** — 9
-41. **Ireland** — 8
-42. **Philippines** — 8
-43. **China** — 7
-44. **Peru** — 7
-45. **Hong Kong** — 6
-46. **Malaysia** — 6
-47. **Vietnam** — 6
-48. **Poland** — 5
-49. **South Korea** — 5
-50. **Panama** — 5
-51. **Austria** — 4
-52. **Slovenia** — 4
-53. **Ghana** — 4
-54. **Norway** — 4
-55. **Saudi Arabia** — 4
-56. **Morocco** — 3
-57. **Estonia** — 3
-58. **Belgium** — 3
-59. **East Asia** — 3
-60. **Senegal** — 2
-61. **South Africa** — 2
-62. **New Zealand** — 2
-63. **Turkey** — 2
-64. **Ukraine** — 2
-65. **Italy** — 2
-66. **Finland** — 2
-67. **Nepal** — 1
-68. **Bangladesh** — 1
-69. **Russia** — 1
-70. **Hungary** — 1
-71. **Latvia** — 1
-72. **Puerto Rico** — 1
-73. **Czechia** — 1
-74. **Greece** — 1
-75. **Iraq** — 1
-76. **Kyrgyzstan** — 1
-77. **Tanzania** — 1
-78. **Algeria** — 1
-79. **Croatia** — 1
-80. **Lithuania** — 1
-81. **Ivory Coast** — 1
-82. **Romania** — 1
-83. **Zambia** — 1
-84. **Ecuador** — 1
-85. **Cyprus** — 1
-86. **Georgia** — 1
-87. **Namibia** — 1
-88. **Costa Rica** — 1
-89. **Uganda** — 1
-90. **Bahrain** — 1
-91. **Venezuela** — 1
-92. **Ethiopia** — 1
-93. **Japan** — 1
-94. **Democratic Republic of the Congo** — 1
-95. **Americas - United States** — 1
-96. **Global** — 1
+1. **Americas** — 5465
+2. **United States of America** — 4431
+3. **Asia** — 3217
+4. **Europe** — 1014
+5. **North America** — 903
+6. **EMEA** — 703
+7. **Middle East & Africa** — 285
+8. **South Asia** — 265
+9. **United Kingdom** — 210
+10. **India** — 201
+11. **Canada** — 194
+12. **Unspecified** — 185
+13. **Latin America** — 165
+14. **Middle East** — 159
+15. **Remote** — 114
+16. **North Asia** — 110
+17. **Africa** — 107
+18. **Southeast Asia** — 95
+19. **Mexico** — 80
+20. **Oceania** — 73
+21. **Brazil** — 67
+22. **France** — 53
+23. **Nigeria** — 51
+24. **Singapore** — 49
+25. **Germany** — 46
+26. **Indonesia** — 30
+27. **Colombia** — 29
+28. **Israel** — 28
+29. **Argentina** — 17
+30. **Spain** — 16
+31. **Chile** — 16
+32. **Denmark** — 13
+33. **Australia & NZ** — 13
+34. **Netherlands** — 11
+35. **Egypt** — 11
+36. **Australia** — 11
+37. **Sweden** — 10
+38. **United Arab Emirates** — 10
+39. **Pakistan** — 10
+40. **Kenya** — 9
+41. **Switzerland** — 9
+42. **Ireland** — 8
+43. **Philippines** — 8
+44. **China** — 7
+45. **Peru** — 7
+46. **Hong Kong** — 6
+47. **Malaysia** — 6
+48. **Vietnam** — 6
+49. **Poland** — 5
+50. **South Korea** — 5
+51. **Panama** — 5
+52. **Austria** — 4
+53. **Slovenia** — 4
+54. **Ghana** — 4
+55. **Norway** — 4
+56. **Saudi Arabia** — 4
+57. **Morocco** — 3
+58. **Estonia** — 3
+59. **Belgium** — 3
+60. **East Asia** — 3
+61. **Senegal** — 2
+62. **South Africa** — 2
+63. **New Zealand** — 2
+64. **Turkey** — 2
+65. **Ukraine** — 2
+66. **Italy** — 2
+67. **Finland** — 2
+68. **Nepal** — 1
+69. **Bangladesh** — 1
+70. **Russia** — 1
+71. **Hungary** — 1
+72. **Latvia** — 1
+73. **Puerto Rico** — 1
+74. **Czechia** — 1
+75. **Greece** — 1
+76. **Iraq** — 1
+77. **Kyrgyzstan** — 1
+78. **Tanzania** — 1
+79. **Algeria** — 1
+80. **Croatia** — 1
+81. **Lithuania** — 1
+82. **Ivory Coast** — 1
+83. **Romania** — 1
+84. **Zambia** — 1
+85. **Ecuador** — 1
+86. **Cyprus** — 1
+87. **Georgia** — 1
+88. **Namibia** — 1
+89. **Costa Rica** — 1
+90. **Uganda** — 1
+91. **Bahrain** — 1
+92. **Venezuela** — 1
+93. **Ethiopia** — 1
+94. **Japan** — 1
+95. **Democratic Republic of the Congo** — 1
+96. **Americas - United States** — 1
+97. **Global** — 1

@@ -42,6 +42,19 @@ const SOURCES = {
 
 const DEFAULT_SOURCES = ['techstars', 'yc', 'antler', '500', 'ef', 'alchemist', 'plugandplay'];
 
+// Last-resort fallback: when a source fetches nothing (network flake, a host
+// blocking the CI runner, an API change), reuse whatever was already committed
+// for it in data/all.json rather than dropping the source from the dataset.
+function committedFor(name) {
+  try {
+    const file = path.resolve(__dirname, '../../data/all.json');
+    if (!fs.existsSync(file)) return [];
+    return JSON.parse(fs.readFileSync(file, 'utf8')).filter((c) => c.source === name);
+  } catch (_) {
+    return [];
+  }
+}
+
 async function gatherAll({ sources = DEFAULT_SOURCES, onLog = console.log } = {}) {
   const all = [];
   const summary = {};
@@ -53,13 +66,28 @@ async function gatherAll({ sources = DEFAULT_SOURCES, onLog = console.log } = {}
     }
     try {
       onLog(`  → Fetching ${name}...`);
-      const companies = await fetcher();
+      let companies = await fetcher();
+      // Don't let a transient empty fetch wipe a source — keep the prior data.
+      if ((!companies || companies.length === 0) && name !== 'techstars') {
+        const prior = committedFor(name);
+        if (prior.length > 0) {
+          onLog(`    ⚠️  ${name} returned 0 — keeping ${prior.length} previously committed.`);
+          companies = prior;
+        }
+      }
       summary[name] = companies.length;
       all.push(...companies);
       onLog(`    ✓ ${name}: ${companies.length} companies`);
     } catch (err) {
-      summary[name] = 0;
-      onLog(`    ✗ ${name} failed: ${err.message}`);
+      const prior = name !== 'techstars' ? committedFor(name) : [];
+      if (prior.length > 0) {
+        summary[name] = prior.length;
+        all.push(...prior);
+        onLog(`    ✗ ${name} failed (${err.message}) — kept ${prior.length} committed.`);
+      } else {
+        summary[name] = 0;
+        onLog(`    ✗ ${name} failed: ${err.message}`);
+      }
     }
   }
   return { companies: all, summary };

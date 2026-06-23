@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-06-23T05:34:45.128Z",
-  "total": 15564,
+  "generatedAt": "2026-06-23T05:36:38.651Z",
+  "total": 21071,
   "bySource": {
     "500": 2241,
     "yc": 5964,
+    "plugandplay": 5507,
     "techstars": 5105,
     "antler": 1237,
     "alchemist": 519,
     "ef": 498
   },
-  "unicorns": 77,
-  "exits": 2189,
+  "unicorns": 148,
+  "exits": 2687,
   "bCorps": 29,
   "currentSession": 0,
   "byYear": {
@@ -41,42 +42,54 @@
   "topCountries": [
     [
       "United States",
-      4317
+      5757
+    ],
+    [
+      "Japan",
+      2933
     ],
     [
       "United Kingdom",
-      427
+      575
+    ],
+    [
+      "Canada",
+      565
     ],
     [
       "USA",
       396
     ],
     [
-      "Canada",
-      340
+      "Germany",
+      232
     ],
     [
       "Israel",
-      142
+      180
     ],
     [
       "Singapore",
-      142
-    ],
-    [
-      "Germany",
-      123
-    ],
-    [
-      "Mexico",
-      122
-    ],
-    [
-      "India",
-      117
+      172
     ],
     [
       "France",
+      168
+    ],
+    [
+      "Mexico",
+      138
+    ],
+    [
+      "South Korea",
+      136
+    ],
+    [
+      "India",
+      124
+    ],
+    [
+      "United Arab Emirates",
       102
     ],
     [
@@ -84,58 +97,62 @@
       99
     ],
     [
-      "United Arab Emirates",
-      90
-    ],
-    [
-      "Saudi Arabia",
-      82
-    ],
-    [
-      "Australia",
-      80
-    ],
-    [
-      "South Korea",
-      74
+      "Italy",
+      95
     ]
   ],
   "topCities": [
+    [
+      "Tokyo",
+      2850
+    ],
+    [
+      "Silicon Valley",
+      1511
+    ],
     [
       "New York City",
       398
     ],
     [
       "London",
-      288
+      304
     ],
     [
       "San Francisco",
       176
     ],
     [
+      "Los Angeles",
+      142
+    ],
+    [
       "Boston",
       122
     ],
     [
-      "Los Angeles",
-      122
+      "Seattle",
+      116
     ],
     [
       "Chicago",
       113
     ],
     [
-      "Seattle",
-      110
-    ],
-    [
       "Austin",
       109
     ],
     [
+      "Paris",
+      108
+    ],
+    [
       "Toronto",
       98
+    ],
+    [
+      "Alberta",
+      97
     ],
     [
       "Brooklyn",
@@ -144,32 +161,20 @@
     [
       "Boulder",
       79
-    ],
-    [
-      "Denver",
-      78
-    ],
-    [
-      "Atlanta",
-      76
-    ],
-    [
-      "Tel Aviv",
-      72
-    ],
-    [
-      "Cambridge",
-      71
     ]
   ],
   "byRegion": [
+    [
+      "Americas",
+      5465
+    ],
     [
       "United States of America",
       4431
     ],
     [
-      "Americas",
-      3749
+      "Asia",
+      3217
     ],
     [
       "Europe",
@@ -178,6 +183,10 @@
     [
       "North America",
       903
+    ],
+    [
+      "EMEA",
+      703
     ],
     [
       "Middle East & Africa",
@@ -210,10 +219,6 @@
     [
       "Middle East",
       159
-    ],
-    [
-      "Asia",
-      142
     ],
     [
       "Remote",
@@ -550,6 +555,10 @@
   ],
   "topPrograms": [
     [
+      "Plug and Play",
+      5507
+    ],
+    [
       "500 Global",
       1401
     ],
@@ -604,16 +613,12 @@
     [
       "YC Summer 2023",
       219
-    ],
-    [
-      "Techstars Boulder Accelerator",
-      216
     ]
   ],
   "topIndustries": [
     [
       "Fintech",
-      1897
+      2458
     ],
     [
       "Artificial intelligence and machine learning",
@@ -648,6 +653,10 @@
       680
     ],
     [
+      "Health",
+      676
+    ],
+    [
       "Infrastructure",
       654
     ],
@@ -664,32 +673,28 @@
       544
     ],
     [
+      "Insurtech",
+      517
+    ],
+    [
       "Healthtech",
       440
     ],
     [
-      "Lifestyles of Health and Sustainability and wellness",
-      384
+      "Mobility & Physical AI",
+      440
     ],
     [
-      "Internet of Things",
-      384
+      "Energy",
+      431
     ],
     [
-      "Productivity",
-      381
+      "Brand & Retail",
+      425
     ],
     [
-      "Climate tech",
-      360
-    ],
-    [
-      "Marketplace",
-      345
-    ],
-    [
-      "FinTech",
-      343
+      "Deeptech",
+      392
     ]
   ]
 }
