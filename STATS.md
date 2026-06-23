@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-06-22._
+_Auto-generated from the dataset on 2026-06-23._
 
 | Metric | Count |
 |---|---|
-| Total companies | **15,044** |
+| Total companies | **15,094** |
 | 🦄 Unicorns ($1B+) | **77** |
-| 💰 Exits | **2117** |
+| 💰 Exits | **2118** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,11 +14,12 @@ _Auto-generated from the dataset on 2026-06-22._
 
 | Source | Companies |
 |---|---|
-| yc | 5,963 |
+| yc | 5,964 |
 | techstars | 5,105 |
 | 500 | 2,241 |
 | antler | 1,237 |
 | ef | 498 |
+| plugandplay | 49 |
 
 ## Companies by first session year
 
@@ -44,7 +45,7 @@ _Auto-generated from the dataset on 2026-06-22._
 2023  ████████████████████████████ 1444
 2024  ███████████████████████████░ 1398
 2025  ████████████████████░░░░░░░░ 1022
-2026  ██████████░░░░░░░░░░░░░░░░░░ 513
+2026  ██████████░░░░░░░░░░░░░░░░░░ 514
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -105,12 +106,12 @@ _Auto-generated from the dataset on 2026-06-22._
 3. **SaaS** — 1402
 4. **Mobile** — 1141
 5. **Consumer** — 1045
-6. **Artificial Intelligence** — 881
-7. **Healthcare** — 795
-8. **AI** — 784
-9. **Developer Tools** — 681
+6. **Artificial Intelligence** — 879
+7. **Healthcare** — 796
+8. **AI** — 786
+9. **Developer Tools** — 680
 10. **Infrastructure** — 654
-11. **Engineering, Product and Design** — 603
+11. **Engineering, Product and Design** — 604
 12. **Industrials** — 565
 13. **B2B Software** — 544
 14. **Healthtech** — 440
@@ -122,16 +123,16 @@ _Auto-generated from the dataset on 2026-06-22._
 20. **FinTech** — 343
 
 ## By region
-1. **United States of America** — 4433
+1. **United States of America** — 4431
 2. **Americas** — 3749
 3. **Europe** — 1014
 4. **North America** — 903
 5. **Middle East & Africa** — 285
 6. **South Asia** — 265
 7. **United Kingdom** — 210
-8. **India** — 200
+8. **India** — 201
 9. **Canada** — 194
-10. **Unspecified** — 183
+10. **Unspecified** — 185
 11. **Latin America** — 165
 12. **Middle East** — 159
 13. **Asia** — 142
