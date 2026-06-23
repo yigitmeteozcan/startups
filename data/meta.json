@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T04:27:23.674Z",
+  "generatedAt": "2026-06-23T05:00:47.249Z",
   "sources": [
     {
       "name": "500",
@@ -22,21 +22,21 @@
       "count": 1237
     },
     {
+      "name": "alchemist",
+      "site": "https://www.alchemistaccelerator.com/portfolio",
+      "count": 519
+    },
+    {
       "name": "ef",
       "site": "https://www.joinef.com/portfolio/",
       "count": 498
-    },
-    {
-      "name": "plugandplay",
-      "site": "https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups",
-      "count": 49
     }
   ],
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data",
-  "total": 15094,
+  "total": 15564,
   "endpoints": {
     "all": {
-      "count": 15094,
+      "count": 15564,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json",
       "csv": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.csv",
       "xlsx": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx"
@@ -46,7 +46,7 @@
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/unicorns.json"
     },
     "exits": {
-      "count": 2118,
+      "count": 2189,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/exits.json"
     },
     "bCorps": {
@@ -88,107 +88,107 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/antler.json"
       },
       {
+        "name": "alchemist",
+        "slug": "alchemist",
+        "count": 519,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/alchemist.json"
+      },
+      {
         "name": "ef",
         "slug": "ef",
         "count": 498,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/ef.json"
-      },
-      {
-        "name": "plugandplay",
-        "slug": "plugandplay",
-        "count": 49,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/plugandplay.json"
       }
     ],
     "by-year": [
       {
         "name": "2023",
         "slug": "2023",
-        "count": 1444,
+        "count": 1493,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2023.json"
       },
       {
         "name": "2022",
         "slug": "2022",
-        "count": 1410,
+        "count": 1457,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2022.json"
       },
       {
         "name": "2024",
         "slug": "2024",
-        "count": 1398,
+        "count": 1448,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2024.json"
       },
       {
         "name": "2021",
         "slug": "2021",
-        "count": 1344,
+        "count": 1384,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2021.json"
-      },
-      {
-        "name": "2025",
-        "slug": "2025",
-        "count": 1022,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2025.json"
       },
       {
         "name": "2020",
         "slug": "2020",
-        "count": 1004,
+        "count": 1053,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2020.json"
+      },
+      {
+        "name": "2025",
+        "slug": "2025",
+        "count": 1050,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2025.json"
       },
       {
         "name": "2019",
         "slug": "2019",
-        "count": 984,
+        "count": 1033,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2019.json"
       },
       {
         "name": "2018",
         "slug": "2018",
-        "count": 818,
+        "count": 866,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2018.json"
       },
       {
         "name": "2017",
         "slug": "2017",
-        "count": 768,
+        "count": 816,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2017.json"
       },
       {
         "name": "2016",
         "slug": "2016",
-        "count": 689,
+        "count": 724,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2016.json"
       },
       {
         "name": "2015",
         "slug": "2015",
-        "count": 661,
+        "count": 685,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2015.json"
       },
       {
         "name": "2026",
         "slug": "2026",
-        "count": 514,
+        "count": 518,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2026.json"
       },
       {
         "name": "2014",
         "slug": "2014",
-        "count": 448,
+        "count": 470,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2014.json"
       },
       {
         "name": "2012",
         "slug": "2012",
-        "count": 355,
+        "count": 361,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2012.json"
       },
       {
         "name": "2013",
         "slug": "2013",
-        "count": 321,
+        "count": 341,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2013.json"
       },
       {
@@ -650,12 +650,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/techstars-new-york-city-powered-by-j-p-morgan.json"
       },
       {
-        "name": "Plug and Play",
-        "slug": "plug-and-play",
-        "count": 49,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/plug-and-play.json"
-      },
-      {
         "name": "ABN AMRO & Techstars Future of Finance Accelerator",
         "slug": "abn-amro-techstars-future-of-finance-accelerator",
         "count": 48,
@@ -932,6 +926,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/ga-20.json"
       },
       {
+        "name": "Alchemist Class 41",
+        "slug": "alchemist-class-41",
+        "count": 26,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-41.json"
+      },
+      {
         "name": "Eastern Pacific Accelerator Powered by Techstars",
         "slug": "eastern-pacific-accelerator-powered-by-techstars",
         "count": 25,
@@ -1040,6 +1040,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-winter-2008.json"
       },
       {
+        "name": "Alchemist Class 37",
+        "slug": "alchemist-class-37",
+        "count": 21,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-37.json"
+      },
+      {
         "name": "R/GA Accelerator, powered by Techstars",
         "slug": "r-ga-accelerator-powered-by-techstars",
         "count": 20,
@@ -1086,6 +1092,24 @@
         "slug": "bsh-future-home-accelerator-powered-by-techstars",
         "count": 20,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/bsh-future-home-accelerator-powered-by-techstars.json"
+      },
+      {
+        "name": "Alchemist Class 22",
+        "slug": "alchemist-class-22",
+        "count": 20,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-22.json"
+      },
+      {
+        "name": "Alchemist Class 34",
+        "slug": "alchemist-class-34",
+        "count": 20,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-34.json"
+      },
+      {
+        "name": "Alchemist Class 39",
+        "slug": "alchemist-class-39",
+        "count": 20,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-39.json"
       },
       {
         "name": "Colliers Proptech Accelerator Powered by Techstars",
@@ -1136,6 +1160,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/metro-retail-accelerator-powered-by-techstars.json"
       },
       {
+        "name": "Alchemist Class 23",
+        "slug": "alchemist-class-23",
+        "count": 18,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-23.json"
+      },
+      {
         "name": "GA 21",
         "slug": "ga-21",
         "count": 17,
@@ -1148,10 +1178,58 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/ga-22.json"
       },
       {
+        "name": "Alchemist Class 30",
+        "slug": "alchemist-class-30",
+        "count": 17,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-30.json"
+      },
+      {
+        "name": "Alchemist Class 36",
+        "slug": "alchemist-class-36",
+        "count": 17,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-36.json"
+      },
+      {
+        "name": "Alchemist Class 26",
+        "slug": "alchemist-class-26",
+        "count": 17,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-26.json"
+      },
+      {
         "name": "YC Winter 2009",
         "slug": "yc-winter-2009",
         "count": 16,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-winter-2009.json"
+      },
+      {
+        "name": "Alchemist Class 20",
+        "slug": "alchemist-class-20",
+        "count": 16,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-20.json"
+      },
+      {
+        "name": "Alchemist Class 19",
+        "slug": "alchemist-class-19",
+        "count": 16,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-19.json"
+      },
+      {
+        "name": "Alchemist Class 27",
+        "slug": "alchemist-class-27",
+        "count": 16,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-27.json"
+      },
+      {
+        "name": "Alchemist Class 32",
+        "slug": "alchemist-class-32",
+        "count": 16,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-32.json"
+      },
+      {
+        "name": "Alchemist Class 25",
+        "slug": "alchemist-class-25",
+        "count": 16,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-25.json"
       },
       {
         "name": "Mena 1",
@@ -1172,6 +1250,18 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/ga-3.json"
       },
       {
+        "name": "Alchemist Class 17",
+        "slug": "alchemist-class-17",
+        "count": 15,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-17.json"
+      },
+      {
+        "name": "Alchemist Class 31",
+        "slug": "alchemist-class-31",
+        "count": 15,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-31.json"
+      },
+      {
         "name": "GA 14",
         "slug": "ga-14",
         "count": 14,
@@ -1188,6 +1278,36 @@
         "slug": "ga-10",
         "count": 14,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/ga-10.json"
+      },
+      {
+        "name": "Alchemist Class 14",
+        "slug": "alchemist-class-14",
+        "count": 14,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-14.json"
+      },
+      {
+        "name": "Alchemist Class 28",
+        "slug": "alchemist-class-28",
+        "count": 14,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-28.json"
+      },
+      {
+        "name": "Alchemist Class 21",
+        "slug": "alchemist-class-21",
+        "count": 14,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-21.json"
+      },
+      {
+        "name": "Alchemist Class 33",
+        "slug": "alchemist-class-33",
+        "count": 14,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-33.json"
+      },
+      {
+        "name": "Alchemist Class 16",
+        "slug": "alchemist-class-16",
+        "count": 14,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-16.json"
       },
       {
         "name": "USC and Techstars Accelerator",
@@ -1232,6 +1352,18 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/ga-5.json"
       },
       {
+        "name": "Alchemist Class 15",
+        "slug": "alchemist-class-15",
+        "count": 13,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-15.json"
+      },
+      {
+        "name": "Alchemist Class 35",
+        "slug": "alchemist-class-35",
+        "count": 13,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-35.json"
+      },
+      {
         "name": "Techstars London Powered by Polygon",
         "slug": "techstars-london-powered-by-polygon",
         "count": 12,
@@ -1272,6 +1404,12 @@
         "slug": "ga-6",
         "count": 12,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/ga-6.json"
+      },
+      {
+        "name": "Alchemist Class 24",
+        "slug": "alchemist-class-24",
+        "count": 12,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-24.json"
       },
       {
         "name": "Filecoin Techstars Accelerator",
@@ -1320,6 +1458,30 @@
         "slug": "ga-24",
         "count": 11,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/ga-24.json"
+      },
+      {
+        "name": "Alchemist Class 18",
+        "slug": "alchemist-class-18",
+        "count": 11,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-18.json"
+      },
+      {
+        "name": "Alchemist Class 29",
+        "slug": "alchemist-class-29",
+        "count": 11,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-29.json"
+      },
+      {
+        "name": "Alchemist Class 38",
+        "slug": "alchemist-class-38",
+        "count": 11,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-38.json"
+      },
+      {
+        "name": "Alchemist Class 40",
+        "slug": "alchemist-class-40",
+        "count": 11,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-40.json"
       },
       {
         "name": "Rakuten Accelerator, Powered by Techstars",
@@ -1448,6 +1610,24 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/misk-2.json"
       },
       {
+        "name": "Alchemist Class 8",
+        "slug": "alchemist-class-8",
+        "count": 9,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-8.json"
+      },
+      {
+        "name": "Alchemist Class 12",
+        "slug": "alchemist-class-12",
+        "count": 9,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-12.json"
+      },
+      {
+        "name": "Alchemist Class 10",
+        "slug": "alchemist-class-10",
+        "count": 9,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-10.json"
+      },
+      {
         "name": "Nike+ Accelerator, powered by Techstars",
         "slug": "nike-accelerator-powered-by-techstars",
         "count": 8,
@@ -1490,6 +1670,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/mena-10.json"
       },
       {
+        "name": "Alchemist Class 13",
+        "slug": "alchemist-class-13",
+        "count": 8,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-13.json"
+      },
+      {
         "name": "Techstars Chicago",
         "slug": "techstars-chicago",
         "count": 7,
@@ -1524,6 +1710,24 @@
         "slug": "lucha-none",
         "count": 7,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/lucha-none.json"
+      },
+      {
+        "name": "Alchemist Class 9",
+        "slug": "alchemist-class-9",
+        "count": 7,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-9.json"
+      },
+      {
+        "name": "Alchemist Class 5",
+        "slug": "alchemist-class-5",
+        "count": 7,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-5.json"
+      },
+      {
+        "name": "Alchemist Class 4",
+        "slug": "alchemist-class-4",
+        "count": 7,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-4.json"
       },
       {
         "name": "Techstars Korea Accelerator",
@@ -1572,6 +1776,24 @@
         "slug": "eurasia-10",
         "count": 6,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/eurasia-10.json"
+      },
+      {
+        "name": "Alchemist Class 7",
+        "slug": "alchemist-class-7",
+        "count": 6,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-7.json"
+      },
+      {
+        "name": "Alchemist Class 6",
+        "slug": "alchemist-class-6",
+        "count": 6,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-6.json"
+      },
+      {
+        "name": "Alchemist Class 11",
+        "slug": "alchemist-class-11",
+        "count": 6,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-11.json"
       },
       {
         "name": "Founder Catalyst WaterTech & Sustainability, Techstars WaterTech & Sustainability",
@@ -1664,6 +1886,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/eurasia-9.json"
       },
       {
+        "name": "Alchemist Class 3",
+        "slug": "alchemist-class-3",
+        "count": 4,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-3.json"
+      },
+      {
         "name": "Disney Accelerator, powered by Techstars, Techstars Boulder Accelerator",
         "slug": "disney-accelerator-powered-by-techstars-techstars-boulder-accelerator",
         "count": 3,
@@ -1746,6 +1974,12 @@
         "slug": "lucha-2",
         "count": 2,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/lucha-2.json"
+      },
+      {
+        "name": "Alchemist Class 1",
+        "slug": "alchemist-class-1",
+        "count": 2,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-1.json"
       },
       {
         "name": "Alexa Next Stage, Powered by Techstars, Techstars Seattle Accelerator",
@@ -2028,6 +2262,12 @@
         "slug": "ga-6-distro-1",
         "count": 1,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/ga-6-distro-1.json"
+      },
+      {
+        "name": "Alchemist Class 2",
+        "slug": "alchemist-class-2",
+        "count": 1,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/alchemist-class-2.json"
       }
     ],
     "by-region": [
