@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-06-23._
+_Auto-generated from the dataset on 2026-06-24._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,071** |
-| 🦄 Unicorns ($1B+) | **148** |
-| 💰 Exits | **2687** |
+| Total companies | **21,078** |
+| 🦄 Unicorns ($1B+) | **146** |
+| 💰 Exits | **2808** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-06-23._
 
 | Source | Companies |
 |---|---|
-| yc | 5,964 |
+| yc | 5,971 |
 | plugandplay | 5,507 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -45,42 +45,42 @@ _Auto-generated from the dataset on 2026-06-23._
 2022  ███████████████████████████░ 1457
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1448
-2025  ████████████████████░░░░░░░░ 1050
-2026  ██████████░░░░░░░░░░░░░░░░░░ 518
+2025  ████████████████████░░░░░░░░ 1051
+2026  ██████████░░░░░░░░░░░░░░░░░░ 524
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
 ## Top countries
-1. **United States** — 5757
-2. **Japan** — 2933
-3. **United Kingdom** — 575
-4. **Canada** — 565
+1. **United States** — 6076
+2. **Japan** — 2232
+3. **Canada** — 625
+4. **United Kingdom** — 624
 5. **USA** — 396
-6. **Germany** — 232
-7. **Israel** — 180
-8. **Singapore** — 172
-9. **France** — 168
-10. **Mexico** — 138
-11. **South Korea** — 136
-12. **India** — 124
-13. **United Arab Emirates** — 102
-14. **UNITED STATES** — 99
-15. **Italy** — 95
+6. **Germany** — 265
+7. **Israel** — 215
+8. **France** — 188
+9. **Singapore** — 185
+10. **Mexico** — 149
+11. **Italy** — 136
+12. **South Korea** — 130
+13. **India** — 126
+14. **United Arab Emirates** — 119
+15. **Australia** — 99
 
 ## Top cities
-1. **Tokyo** — 2850
-2. **Silicon Valley** — 1511
+1. **Tokyo** — 2533
+2. **Silicon Valley** — 1783
 3. **New York City** — 398
-4. **London** — 304
+4. **London** — 313
 5. **San Francisco** — 176
-6. **Los Angeles** — 142
-7. **Boston** — 122
-8. **Seattle** — 116
-9. **Chicago** — 113
-10. **Austin** — 109
-11. **Paris** — 108
-12. **Toronto** — 98
-13. **Alberta** — 97
+6. **Los Angeles** — 131
+7. **Alberta** — 125
+8. **Boston** — 122
+9. **Seattle** — 116
+10. **Chicago** — 113
+11. **Paris** — 112
+12. **Austin** — 109
+13. **Toronto** — 98
 14. **Brooklyn** — 84
 15. **Boulder** — 79
 
@@ -102,43 +102,43 @@ _Auto-generated from the dataset on 2026-06-23._
 15. **YC Summer 2023** — 219
 
 ## Top industries
-1. **Fintech** — 2458
+1. **Fintech** — 2427
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1402
+3. **SaaS** — 1401
 4. **Mobile** — 1141
-5. **Consumer** — 1045
-6. **Artificial Intelligence** — 879
-7. **Healthcare** — 796
-8. **AI** — 786
-9. **Developer Tools** — 680
-10. **Health** — 676
-11. **Infrastructure** — 654
-12. **Engineering, Product and Design** — 604
+5. **Consumer** — 1048
+6. **Artificial Intelligence** — 877
+7. **Healthcare** — 797
+8. **AI** — 794
+9. **Developer Tools** — 681
+10. **Infrastructure** — 653
+11. **Engineering, Product and Design** — 604
+12. **Health** — 577
 13. **Industrials** — 565
 14. **B2B Software** — 544
-15. **Insurtech** — 517
-16. **Healthtech** — 440
-17. **Mobility & Physical AI** — 440
-18. **Energy** — 431
-19. **Brand & Retail** — 425
-20. **Deeptech** — 392
+15. **Healthtech** — 440
+16. **Insurtech** — 435
+17. **Deeptech** — 432
+18. **Brand & Retail** — 421
+19. **Energy** — 415
+20. **Mobility & Physical AI** — 403
 
 ## By region
-1. **Americas** — 5465
-2. **United States of America** — 4431
-3. **Asia** — 3217
+1. **Americas** — 5871
+2. **United States of America** — 4435
+3. **Asia** — 2566
 4. **Europe** — 1014
-5. **North America** — 903
-6. **EMEA** — 703
+5. **EMEA** — 945
+6. **North America** — 903
 7. **Middle East & Africa** — 285
 8. **South Asia** — 265
 9. **United Kingdom** — 210
 10. **India** — 201
 11. **Canada** — 194
-12. **Unspecified** — 185
+12. **Unspecified** — 187
 13. **Latin America** — 165
 14. **Middle East** — 159
-15. **Remote** — 114
+15. **Remote** — 115
 16. **North Asia** — 110
 17. **Africa** — 107
 18. **Southeast Asia** — 95

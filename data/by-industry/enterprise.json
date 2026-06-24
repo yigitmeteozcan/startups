@@ -3530,6 +3530,38 @@
     "extra": {}
   },
   {
+    "source": "yc",
+    "name": "Shepherd",
+    "description": "Your company memory, one text away",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/391f78e0202565767f4e07ba30c7abaf3cd19093.png",
+    "website": "https://askshepherd.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Enterprise",
+      "Search",
+      "AI Assistant"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
     "source": "500",
     "name": "Ejen2u",
     "description": "Developer of a reseller ecosystem platform intended to help business owners manage resellers like stockists, agents, and dropships. The company's platform is integrated, digitalized, and data-driven and offers systematic product ordering, detailed reporting, commissions, reward systems, databases, and performance monitoring among others, enabling businesses to improve productivity and profitability.",
@@ -4144,55 +4176,6 @@
   },
   {
     "source": "500",
-    "name": "Obie",
-    "description": "Provider of a Slackbot platform created for team collaboration and on boarding. The company's platform provides a web virtual assistant to help teams collaborate and make faster decisions, enabling them to be informed of team members and save time and effort in decision making.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/1e4034e2-6150-42eb-bf49-e371094be922.png",
-    "website": "https://obie.ai",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "AI/Machine Learning",
-      "Enterprise"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alexander Sopinka",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Chris Buttenham",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ravinda Seunath",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "500",
     "name": "Avocode",
     "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
     "logo": "",
@@ -4244,6 +4227,55 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Obie",
+    "description": "Provider of a Slackbot platform created for team collaboration and on boarding. The company's platform provides a web virtual assistant to help teams collaborate and make faster decisions, enabling them to be informed of team members and save time and effort in decision making.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/1e4034e2-6150-42eb-bf49-e371094be922.png",
+    "website": "https://obie.ai",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "AI/Machine Learning",
+      "Enterprise"
+    ],
+    "year": 2017,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alexander Sopinka",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Chris Buttenham",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ravinda Seunath",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
     }
   }
 ]

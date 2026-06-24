@@ -5310,7 +5310,7 @@
   {
     "source": "yc",
     "name": "GhostEye",
-    "description": "Vulnerability Management for the Human Layer ",
+    "description": "AI-Powered Social Engineering Defense",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
     "website": "https://ghosteye.ai",
     "location": "New York, NY, USA",
@@ -5318,8 +5318,8 @@
     "subregion": "",
     "tags": [
       "Security",
-      "Artificial Intelligence",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -6729,18 +6729,20 @@
   },
   {
     "source": "500",
-    "name": "Fakespot",
-    "description": "Developer of an online data authentication platform designed to prevent fake and misleading content from deceiving consumers. The company's application software analyzes product reviews and provides potential buyers with a grade based on the authenticity of the review, enabling consumers to detect fake reviews on Amazon, TripAdvisor, Yelp and the Apple App Store.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/77c1c3ba-629b-4125-88cc-d36ec0974536.png",
-    "website": "https://www.fakespot.com",
+    "name": "Gluwa",
+    "description": "Gluwa is a builder of Gluwa, Creditcoin, and a stealth protocol. Gluwa connects DeFi investors to TradFi investment opportunities. Creditcoin is an interoperable credit network that powers Gluwa. The stealth protocol provides trustless proof-of-location, which enhances the security and usability of Gluwa.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/75977019-e003-41b2-af12-99121b50922d.png",
+    "website": "https://gluwa.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Cybersecurity"
+      "Cybersecurity",
+      "FinTech",
+      "Web 3"
     ],
-    "year": 2020,
-    "program": "500 Global",
+    "year": 2017,
+    "program": "GA 19",
     "programSlugs": [
       "500"
     ],
@@ -6750,55 +6752,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Robert Gross",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saoud Khalifah",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "SafeShepherd",
-    "description": "Provider of services for people to protect their privacy. The company's website enables users to see, remove and protect their personal information from the Internet.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4508139c-9637-4bd5-8e81-cc7dbc750f97.png",
-    "website": "https://safeshepherd.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Cybersecurity"
-    ],
-    "year": 2011,
-    "program": "GA 3",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Geoffrey Hayes",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Robert Leshner",
+        "name": "Tae Oh",
         "role": "",
         "linkedin": ""
       }
@@ -6863,20 +6817,18 @@
   },
   {
     "source": "500",
-    "name": "Gluwa",
-    "description": "Gluwa is a builder of Gluwa, Creditcoin, and a stealth protocol. Gluwa connects DeFi investors to TradFi investment opportunities. Creditcoin is an interoperable credit network that powers Gluwa. The stealth protocol provides trustless proof-of-location, which enhances the security and usability of Gluwa.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/75977019-e003-41b2-af12-99121b50922d.png",
-    "website": "https://gluwa.com",
+    "name": "SafeShepherd",
+    "description": "Provider of services for people to protect their privacy. The company's website enables users to see, remove and protect their personal information from the Internet.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4508139c-9637-4bd5-8e81-cc7dbc750f97.png",
+    "website": "https://safeshepherd.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Cybersecurity",
-      "FinTech",
-      "Web 3"
+      "Cybersecurity"
     ],
-    "year": 2017,
-    "program": "GA 19",
+    "year": 2011,
+    "program": "GA 3",
     "programSlugs": [
       "500"
     ],
@@ -6886,7 +6838,55 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Tae Oh",
+        "name": "Geoffrey Hayes",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Robert Leshner",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Fakespot",
+    "description": "Developer of an online data authentication platform designed to prevent fake and misleading content from deceiving consumers. The company's application software analyzes product reviews and provides potential buyers with a grade based on the authenticity of the review, enabling consumers to detect fake reviews on Amazon, TripAdvisor, Yelp and the Apple App Store.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/77c1c3ba-629b-4125-88cc-d36ec0974536.png",
+    "website": "https://www.fakespot.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Cybersecurity"
+    ],
+    "year": 2020,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Robert Gross",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saoud Khalifah",
         "role": "",
         "linkedin": ""
       }

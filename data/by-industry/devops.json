@@ -1325,39 +1325,6 @@
   },
   {
     "source": "yc",
-    "name": "SRE.ai",
-    "description": "AI DevOps Agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd1f2b79da0bdbfdd0ca1eda2e6a7f66a6dd2ae7.png",
-    "website": "https://sre.ai",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Infrastructure",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevOps"
-    ],
-    "year": 2024,
-    "program": "YC Fall 2024",
-    "programSlugs": [
-      "yc-fall-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Relvy AI",
     "description": "AI powered debugging notebooks for incident response",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
@@ -1531,17 +1498,17 @@
     "source": "yc",
     "name": "Specific",
     "description": "AWS for coding agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b78cfc7f96ec9c05be6c06823bccd27995a3125.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/32b20b00d4eefb0011495a24b9f27376787da0bc.png",
     "website": "https://specific.dev",
     "location": "Stockholm, Stockholm County, Sweden",
     "region": "Sweden",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
       "No-code",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -1704,49 +1671,6 @@
   },
   {
     "source": "500",
-    "name": "Amixr.io",
-    "description": "Developer of IT incident management system intended to help engineering teams all around the world to stop hassling with IT operations, adopt new DevOps best practices and focus on making new products.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6b5c3a2f-90e9-4b83-b342-cb5a4b72ce66.png",
-    "website": "https://amixr.io",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "DevOps"
-    ],
-    "year": 2020,
-    "program": "GA 26",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Matvey Kukuy",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ildar Iskhakov",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "WhoAPI",
     "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
     "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
@@ -1776,6 +1700,49 @@
       },
       {
         "name": "Goran Duskic",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Amixr.io",
+    "description": "Developer of IT incident management system intended to help engineering teams all around the world to stop hassling with IT operations, adopt new DevOps best practices and focus on making new products.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6b5c3a2f-90e9-4b83-b342-cb5a4b72ce66.png",
+    "website": "https://amixr.io",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "DevOps"
+    ],
+    "year": 2020,
+    "program": "GA 26",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Matvey Kukuy",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ildar Iskhakov",
         "role": "",
         "linkedin": ""
       }

@@ -20623,41 +20623,6 @@
   },
   {
     "source": "yc",
-    "name": "authzed",
-    "description": "Cloud Infrastructure for Authorization",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ee578b781cb190a51362b9fda6dc57b36d74972d.png",
-    "website": "https://authzed.com",
-    "location": "New York, NY, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design",
-      "Developer Tools",
-      "SaaS",
-      "Security",
-      "Open Source",
-      "Data Engineering"
-    ],
-    "year": 2021,
-    "program": "YC Winter 2021",
-    "programSlugs": [
-      "yc-winter-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Humaans",
     "description": "AI-Powered HRIS for high performing teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5d9d92284da5e0578d6ae11b390f879ee72085b9.png",
@@ -41004,9 +40969,9 @@
     "subregion": "",
     "tags": [
       "Operations",
-      "Artificial Intelligence",
       "FinOps",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -42695,7 +42660,7 @@
   {
     "source": "yc",
     "name": "Aside",
-    "description": "Operating system for the AI era",
+    "description": "The browser built to do real work for you",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
     "website": "https://aside.com",
     "location": "San Francisco, CA, USA",
@@ -42703,9 +42668,9 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Artificial Intelligence",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -43096,9 +43061,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Restaurant Tech"
+      "Restaurant Tech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -47488,60 +47453,6 @@
   },
   {
     "source": "500",
-    "name": "GoSpotCheck",
-    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
-    "website": "https://gospotcheck.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "No Code",
-      "SaaS"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Bart Ciak",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Joseph Alfano",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Matt Talbot",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Samantha Holloway",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Avocode",
     "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
     "logo": "",
@@ -47726,6 +47637,60 @@
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/plerk/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "GoSpotCheck",
+    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
+    "website": "https://gospotcheck.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "No Code",
+      "SaaS"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Bart Ciak",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Joseph Alfano",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt Talbot",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Samantha Holloway",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""

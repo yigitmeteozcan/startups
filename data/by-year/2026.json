@@ -6967,7 +6967,11 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design"
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Consumer",
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -8488,8 +8492,8 @@
     "description": "Multi-chain deposit and payment infrastructure",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/710f285bfbafa7ec0d7936331011b69c72d32a9f.png",
     "website": "https://unifold.io",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "",
+    "region": "Unspecified",
     "subregion": "",
     "tags": [
       "Fintech",
@@ -10824,8 +10828,8 @@
     "description": "AI Go-To-Market agents for B2B teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4a81291bc11ae471a475ddf6ccf1d67360474a8c.png",
     "website": "https://www.gojiberry.ai",
-    "location": "San Francisco, CA, USA; Remote",
-    "region": "United States of America",
+    "location": "Remote",
+    "region": "Remote",
     "subregion": "",
     "tags": [
       "Sales"
@@ -12068,6 +12072,38 @@
   },
   {
     "source": "yc",
+    "name": "Shepherd",
+    "description": "Your company memory, one text away",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/391f78e0202565767f4e07ba30c7abaf3cd19093.png",
+    "website": "https://askshepherd.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Enterprise",
+      "Search",
+      "AI Assistant"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "BioStack Platforms",
     "description": "Real world training envs for healthcare AI models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a993952405cff56ad7f559e6e6fcf8b0c2191ed2.png",
@@ -12099,7 +12135,7 @@
   {
     "source": "yc",
     "name": "Silmaril",
-    "description": "Prompt injection defense that self-improves",
+    "description": "Runtime security for AI that self-improves",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/86b9dc2025d8d9aaca7a7d152afe3f067bb14268.png",
     "website": "https://silmaril.dev",
     "location": "San Francisco, CA, USA",
@@ -13273,6 +13309,40 @@
   },
   {
     "source": "yc",
+    "name": "Atlas Discovery",
+    "description": "Discovering the atlas of disease biology using virtual cells.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6e6c174c3a8e56844bf81efbc8b8532b4e509f73.png",
+    "website": "https://atlasdiscovery.bio",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Drug Discovery and Delivery",
+      "AI-powered Drug Discovery",
+      "Drug discovery",
+      "Biotechnology"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Lattice Health",
     "description": "Monitoring and governance for deployed medical imaging AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2410273df05a84647f5ff7950dad614c7167a5e8.png",
@@ -14084,6 +14154,39 @@
   },
   {
     "source": "yc",
+    "name": "Blueprints",
+    "description": "Agentic harness for financial markets",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0b5ae24985462d50b5267e6bca51332341df6d38.png",
+    "website": "https://useblueprints.ai",
+    "location": "",
+    "region": "Unspecified",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Consumer Finance",
+      "Generative AI",
+      "Consumer"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Rex",
     "description": "AI Operations Partner for Enterprise Order to Cash",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
@@ -14194,9 +14297,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Restaurant Tech"
+      "Restaurant Tech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -14219,7 +14322,7 @@
   {
     "source": "yc",
     "name": "Glen",
-    "description": "Shared learning for AI Agents",
+    "description": "Unified organizational context for agents and humans",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cc11fde647ded2f52bca6ff53c7ad045f290e1ee.png",
     "website": "https://www.tryglen.com/",
     "location": "San Francisco, CA, USA",
@@ -14373,6 +14476,39 @@
   },
   {
     "source": "yc",
+    "name": "Talentpluto",
+    "description": "Voice agents that represent people's careers",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
+    "website": "https://talentpluto.com",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Recruiting and Talent",
+      "Marketplace",
+      "AI",
+      "Careers"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "machine0",
     "description": "Persistent & powerful cloud VMs from your CLI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c00ce2cbd95a0e0d81ff55b96ce241fb3462c28b.png",
@@ -14384,6 +14520,72 @@
       "Infrastructure",
       "Developer Tools",
       "Cloud Computing"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Bloomy",
+    "description": "AI-powered mastery learning for K-12",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/209c1fdd9d657cb4fad05300bbb0faf304f4d29c.png",
+    "website": "https://bloomylearning.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Education",
+      "AI-Enhanced Learning",
+      "eLearning",
+      "Personalization",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "LATO",
+    "description": "Agent-native research and simulation platform for investors",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/78429e3a8867e93ea2df52fc422fdbd447685774.png",
+    "website": "https://www.latolabs.io/",
+    "location": "",
+    "region": "Unspecified",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Investing",
+      "Market Research"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -15121,7 +15323,18 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yagmur Aydemir Kami",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Müjgan Öykü Şahin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
