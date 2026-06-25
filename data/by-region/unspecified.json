@@ -4550,7 +4550,7 @@
     "programSlugs": [
       "yc-fall-2025"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4936,7 +4936,7 @@
   {
     "source": "yc",
     "name": "Palus Finance",
-    "description": "40% higher yields on company cash, in under 5 minutes.",
+    "description": "Your startup's financial advisor",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0848c6eda1cd290639119a9922d58316825a98e4.png",
     "website": "https://palus.finance",
     "location": "",
@@ -5546,6 +5546,37 @@
   },
   {
     "source": "yc",
+    "name": "Rudus",
+    "description": "AI Takeoffs for Concrete",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/407f4a93871730524968180bcf20dd23fc9ce7b2.png",
+    "website": "http://rudus.ai/",
+    "location": "",
+    "region": "Unspecified",
+    "subregion": "",
+    "tags": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Elyra",
     "description": "AI Reservation System for Restaurants ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dfc0518b0601b15bf131b045d7c9085b3ab4ac5e.png",
@@ -5797,9 +5828,9 @@
     "region": "Unspecified",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Investing",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",

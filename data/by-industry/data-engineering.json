@@ -824,10 +824,10 @@
   {
     "source": "yc",
     "name": "Jitsu",
-    "description": "Capture Event Data into Your Stack",
+    "description": "Open-Source CDP (acquired by Helium Ventures)",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d2a6bc92874bce104c70f6971a040465116e2321.png",
     "website": "https://jitsu.com",
-    "location": "New York City, NY, USA; San Francisco, CA, USA; Remote",
+    "location": "New York City, NY, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -841,7 +841,7 @@
     "programSlugs": [
       "yc-summer-2020"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3294,6 +3294,39 @@
     "program": "YC Winter 2026",
     "programSlugs": [
       "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Markov",
+    "description": "Data for computer-use ai",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/455a1b80a115b180bc211a79ff00bc48bf9cb451.png",
+    "website": "https://www.markovstudios.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Reinforcement Learning",
+      "Data Labeling",
+      "Data Engineering"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,

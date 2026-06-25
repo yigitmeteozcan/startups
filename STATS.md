@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-06-24._
+_Auto-generated from the dataset on 2026-06-25._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,078** |
+| Total companies | **21,084** |
 | 🦄 Unicorns ($1B+) | **146** |
-| 💰 Exits | **2808** |
+| 💰 Exits | **2810** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-06-24._
 
 | Source | Companies |
 |---|---|
-| yc | 5,971 |
+| yc | 5,977 |
 | plugandplay | 5,507 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-06-24._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1448
 2025  ████████████████████░░░░░░░░ 1051
-2026  ██████████░░░░░░░░░░░░░░░░░░ 524
+2026  ██████████░░░░░░░░░░░░░░░░░░ 530
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -107,15 +107,15 @@ _Auto-generated from the dataset on 2026-06-24._
 3. **SaaS** — 1401
 4. **Mobile** — 1141
 5. **Consumer** — 1048
-6. **Artificial Intelligence** — 877
-7. **Healthcare** — 797
-8. **AI** — 794
-9. **Developer Tools** — 681
-10. **Infrastructure** — 653
-11. **Engineering, Product and Design** — 604
+6. **Artificial Intelligence** — 883
+7. **Healthcare** — 798
+8. **AI** — 792
+9. **Developer Tools** — 683
+10. **Infrastructure** — 655
+11. **Engineering, Product and Design** — 605
 12. **Health** — 577
 13. **Industrials** — 565
-14. **B2B Software** — 544
+14. **B2B Software** — 545
 15. **Healthtech** — 440
 16. **Insurtech** — 435
 17. **Deeptech** — 432
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-06-24._
 
 ## By region
 1. **Americas** — 5871
-2. **United States of America** — 4435
+2. **United States of America** — 4439
 3. **Asia** — 2566
 4. **Europe** — 1014
 5. **EMEA** — 945
@@ -134,8 +134,8 @@ _Auto-generated from the dataset on 2026-06-24._
 8. **South Asia** — 265
 9. **United Kingdom** — 210
 10. **India** — 201
-11. **Canada** — 194
-12. **Unspecified** — 187
+11. **Canada** — 195
+12. **Unspecified** — 188
 13. **Latin America** — 165
 14. **Middle East** — 159
 15. **Remote** — 115
