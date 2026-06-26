@@ -24117,16 +24117,16 @@
   },
   {
     "source": "yc",
-    "name": "TokenOwl",
+    "name": "Panelytic",
     "description": "Payment infrastructure for machines",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2adfd60610f060b139d1e1752fe74ca86d3be846.png",
-    "website": "",
+    "website": "https://panelytic.com/",
     "location": "New York, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Fintech",
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -34629,7 +34629,7 @@
   {
     "source": "yc",
     "name": "Thunder Compute",
-    "description": "The world's cheapest GPU cloud",
+    "description": "VMware for GPUs",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2623539c5a9dddb54681db96f38cf2be0f9428d9.png",
     "website": "https://www.thundercompute.com",
     "location": "San Francisco, CA, USA",
@@ -34637,10 +34637,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -39750,14 +39750,14 @@
     "source": "yc",
     "name": "Moonshine",
     "description": "Extending AI to interact with the real world",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/41d0d29f17c0fe53c2d566e5f77d03d3f14a7e62.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b168616a2e0ef551e8a1be5dfe50f9700bc903c0.png",
     "website": "https://usemoonshine.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Machine Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Machine Learning"
     ],
     "year": 2024,
     "program": "YC Fall 2024",
@@ -48676,6 +48676,47 @@
   },
   {
     "source": "alchemist",
+    "name": "Glidely",
+    "description": "Renewal Readiness AI that turns scattered contracts or spend data  into a negotiation-ready package.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Shu Oikawa**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Yas Morita**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Voltfox",
     "description": "Granular Energy Tracking For Tangible Financial Returns",
     "logo": "",
@@ -48706,47 +48747,6 @@
       },
       {
         "name": "Erhan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Glidely",
-    "description": "Renewal Readiness AI that turns scattered contracts or spend data  into a negotiation-ready package.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Shu Oikawa**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Yas Morita**",
         "role": "",
         "linkedin": ""
       }

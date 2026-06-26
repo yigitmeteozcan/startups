@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-06-25._
+_Auto-generated from the dataset on 2026-06-26._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,084** |
+| Total companies | **21,089** |
 | 🦄 Unicorns ($1B+) | **146** |
 | 💰 Exits | **2810** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-06-25._
 
 | Source | Companies |
 |---|---|
-| yc | 5,977 |
+| yc | 5,982 |
 | plugandplay | 5,507 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-06-25._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1448
 2025  ████████████████████░░░░░░░░ 1051
-2026  ██████████░░░░░░░░░░░░░░░░░░ 530
+2026  ██████████░░░░░░░░░░░░░░░░░░ 535
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -102,19 +102,19 @@ _Auto-generated from the dataset on 2026-06-25._
 15. **YC Summer 2023** — 219
 
 ## Top industries
-1. **Fintech** — 2427
+1. **Fintech** — 2428
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1401
+3. **SaaS** — 1403
 4. **Mobile** — 1141
-5. **Consumer** — 1048
-6. **Artificial Intelligence** — 883
-7. **Healthcare** — 798
-8. **AI** — 792
-9. **Developer Tools** — 683
-10. **Infrastructure** — 655
-11. **Engineering, Product and Design** — 605
+5. **Consumer** — 1049
+6. **Artificial Intelligence** — 888
+7. **Healthcare** — 799
+8. **AI** — 794
+9. **Developer Tools** — 684
+10. **Infrastructure** — 656
+11. **Engineering, Product and Design** — 606
 12. **Health** — 577
-13. **Industrials** — 565
+13. **Industrials** — 566
 14. **B2B Software** — 545
 15. **Healthtech** — 440
 16. **Insurtech** — 435
@@ -125,14 +125,14 @@ _Auto-generated from the dataset on 2026-06-25._
 
 ## By region
 1. **Americas** — 5871
-2. **United States of America** — 4439
+2. **United States of America** — 4442
 3. **Asia** — 2566
 4. **Europe** — 1014
 5. **EMEA** — 945
 6. **North America** — 903
 7. **Middle East & Africa** — 285
 8. **South Asia** — 265
-9. **United Kingdom** — 210
+9. **United Kingdom** — 211
 10. **India** — 201
 11. **Canada** — 195
 12. **Unspecified** — 188
@@ -157,7 +157,7 @@ _Auto-generated from the dataset on 2026-06-25._
 31. **Chile** — 16
 32. **Denmark** — 13
 33. **Australia & NZ** — 13
-34. **Netherlands** — 11
+34. **Netherlands** — 12
 35. **Egypt** — 11
 36. **Australia** — 11
 37. **Sweden** — 10

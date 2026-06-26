@@ -13459,7 +13459,7 @@
   {
     "source": "yc",
     "name": "Thunder Compute",
-    "description": "The world's cheapest GPU cloud",
+    "description": "VMware for GPUs",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2623539c5a9dddb54681db96f38cf2be0f9428d9.png",
     "website": "https://www.thundercompute.com",
     "location": "San Francisco, CA, USA",
@@ -13467,10 +13467,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -16438,6 +16438,40 @@
     "tags": [
       "Engineering, Product and Design",
       "Developer Tools"
+    ],
+    "year": 2025,
+    "program": "YC Fall 2025",
+    "programSlugs": [
+      "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Kestrel AI",
+    "description": "AI Agents for Platform Engineering",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png",
+    "website": "https://usekestrel.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Security",
+      "AIOps",
+      "Developer Tools",
+      "DevOps",
+      "Infrastructure"
     ],
     "year": 2025,
     "program": "YC Fall 2025",

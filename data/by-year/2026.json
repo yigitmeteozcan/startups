@@ -6994,15 +6994,19 @@
   {
     "source": "yc",
     "name": "Servo7",
-    "description": "Robots that 10x manual industry work",
+    "description": "Robots that unload containers in warehouses",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
     "website": "https://servo7.com",
-    "location": "",
-    "region": "Unspecified",
+    "location": "Amsterdam, NH, Netherlands",
+    "region": "Netherlands",
     "subregion": "",
     "tags": [
       "Industrials",
-      "Manufacturing and Robotics"
+      "Manufacturing and Robotics",
+      "Robotics",
+      "Logistics",
+      "Automation",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -8858,14 +8862,14 @@
     "description": "The Intelligence Layer for Manufacturing.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bff684184cec0196e94661d371f2a25d85fea831.png",
     "website": "https://korsoai.com/",
-    "location": "San Francisco, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Operations",
-      "Artificial Intelligence",
       "SaaS",
-      "Manufacturing"
+      "Market Research",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -9044,10 +9048,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Sales",
+      "Artificial Intelligence",
       "Sales Enablement",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -13166,7 +13169,10 @@
     "subregion": "",
     "tags": [
       "Fintech",
-      "Payments"
+      "Payments",
+      "Consumer",
+      "Infrastructure",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -14573,6 +14579,39 @@
   },
   {
     "source": "yc",
+    "name": "FlowManual",
+    "description": "AI for Construction's Back Office.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2f6665f1300dc258526280c5fbb72df3fbac9eb1.png",
+    "website": "https://flowmanual.com/",
+    "location": "",
+    "region": "Unspecified",
+    "subregion": "",
+    "tags": [
+      "Real Estate and Construction",
+      "Construction",
+      "SaaS",
+      "Workflow Automation"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Talentpluto",
     "description": "Voice agents that represent people's careers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
@@ -14672,6 +14711,39 @@
   },
   {
     "source": "yc",
+    "name": "Whitespace",
+    "description": "AI Operating System for Wholesale Distributors",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d7ab9b902afa3fe0a37b3622022557a9cd82d082.png",
+    "website": "https://whitespacehq.ai/",
+    "location": "London, United Kingdom",
+    "region": "United Kingdom",
+    "subregion": "",
+    "tags": [
+      "Supply Chain and Logistics",
+      "Artificial Intelligence",
+      "SaaS",
+      "Supply Chain"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "LATO",
     "description": "Agent-native research and simulation platform for investors",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/78429e3a8867e93ea2df52fc422fdbd447685774.png",
@@ -14683,6 +14755,73 @@
       "Investing",
       "Market Research",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Isengard Industries Inc",
+    "description": "Mass-produced AI strike systems and Counter-UAS",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/61edd7196dfa0843151f208bc6c91a2bd788bc94.png",
+    "website": "http://isengardindustries.com/",
+    "location": "Florida City, FL, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Defense",
+      "Artificial Intelligence",
+      "Swarm Robotics",
+      "Unmanned Vehicle"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Denta",
+    "description": "The dental practice that runs itself",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
+    "website": "https://trydenta.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Healthcare IT",
+      "Artificial Intelligence",
+      "Dental"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -14874,6 +15013,40 @@
     "tags": [
       "Industrials",
       "Defense"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Florin",
+    "description": "The financial operating system for the companies building the future.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/48074691217afbc59a4443c6ffa2379a823efda9.png",
+    "website": "https://florin.inc",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Artificial Intelligence",
+      "Banking as a Service",
+      "Finance",
+      "Neobank"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
