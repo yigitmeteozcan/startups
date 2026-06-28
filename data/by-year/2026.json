@@ -1806,7 +1806,7 @@
   {
     "source": "yc",
     "name": "Baud",
-    "description": "Multiplier-free ASIC for 100x faster and cheaper AI",
+    "description": "AI training chips and developer platform",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2ea89d0878c367c79b3a58c19eb1323a648e3f38.png",
     "website": "https://baudlabs.ai",
     "location": "San Francisco, CA, USA",
@@ -2352,14 +2352,17 @@
   {
     "source": "yc",
     "name": "Agentic Fabriq",
-    "description": "Okta for Agents.",
+    "description": "The control plane for AI agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9a5cc9740ffbab442e3f13d623875ee650093eac.png",
     "website": "https://www.agenticfabriq.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Security"
+      "Security",
+      "Artificial Intelligence",
+      "Identity",
+      "Cybersecurity"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -6152,10 +6155,13 @@
     "description": "Intelligence for Automotive Operations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/083700d7d477f8653353926e2c024cda96cf803d.png",
     "website": "https://revion.inc",
-    "location": "",
-    "region": "Unspecified",
+    "location": "New York, NY, USA",
+    "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Automotive"
+    ],
     "year": 2026,
     "program": "YC Winter 2026",
     "programSlugs": [
@@ -11695,7 +11701,7 @@
     "source": "yc",
     "name": "tday.com",
     "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d5d837a9522155fb78ecd320dc4ef54f3c129b6a.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1012df6bea018e8f6d8fbcdd4215014712efbdd5.png",
     "website": "https://tday.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -12396,7 +12402,11 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Drones"
+      "Drones",
+      "Hard Tech",
+      "Robotics",
+      "Aerospace",
+      "Defense"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -14274,8 +14284,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -14444,6 +14454,37 @@
       "Artificial Intelligence",
       "Real Estate",
       "Enterprise Software"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Dialogus",
+    "description": "Infra for enterprise voice agents.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c7df204d91879e8e730b8993b754b3d35b87106e.png",
+    "website": "https://www.dialoguslabs.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Customer Support"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -14983,6 +15024,39 @@
   },
   {
     "source": "yc",
+    "name": "Operon",
+    "description": "Agentic data layer for manufacturing & process industries. ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
+    "website": "https://operonsolutions.com/en",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Agentcard",
     "description": "debit cards for AI agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aba1ff38c8593a6ce1ecdd01f1125330e298ac04.png",
@@ -15186,6 +15260,37 @@
       "AIOps",
       "Developer Tools",
       "Workflow Automation"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Experiential Labs",
+    "description": "World models for AI agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
+    "website": "https://experientiallabs.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
