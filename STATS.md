@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-06-28._
+_Auto-generated from the dataset on 2026-06-29._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,095** |
+| Total companies | **21,096** |
 | 🦄 Unicorns ($1B+) | **146** |
 | 💰 Exits | **2810** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-06-28._
 
 | Source | Companies |
 |---|---|
-| yc | 5,988 |
+| yc | 5,989 |
 | plugandplay | 5,507 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-06-28._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1448
 2025  ████████████████████░░░░░░░░ 1051
-2026  ██████████░░░░░░░░░░░░░░░░░░ 541
+2026  ██████████░░░░░░░░░░░░░░░░░░ 542
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -104,14 +104,14 @@ _Auto-generated from the dataset on 2026-06-28._
 ## Top industries
 1. **Fintech** — 2426
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1403
+3. **SaaS** — 1404
 4. **Mobile** — 1141
 5. **Consumer** — 1049
-6. **Artificial Intelligence** — 888
-7. **AI** — 803
+6. **Artificial Intelligence** — 887
+7. **AI** — 806
 8. **Healthcare** — 799
-9. **Developer Tools** — 683
-10. **Infrastructure** — 660
+9. **Developer Tools** — 684
+10. **Infrastructure** — 661
 11. **Engineering, Product and Design** — 606
 12. **Health** — 577
 13. **Industrials** — 570
@@ -125,20 +125,20 @@ _Auto-generated from the dataset on 2026-06-28._
 
 ## By region
 1. **Americas** — 5871
-2. **United States of America** — 4450
+2. **United States of America** — 4458
 3. **Asia** — 2566
 4. **Europe** — 1014
 5. **EMEA** — 945
 6. **North America** — 903
 7. **Middle East & Africa** — 285
 8. **South Asia** — 265
-9. **United Kingdom** — 210
-10. **India** — 201
-11. **Canada** — 195
-12. **Unspecified** — 187
+9. **United Kingdom** — 211
+10. **India** — 202
+11. **Canada** — 196
+12. **Unspecified** — 180
 13. **Latin America** — 165
 14. **Middle East** — 159
-15. **Remote** — 115
+15. **Remote** — 112
 16. **North Asia** — 110
 17. **Africa** — 107
 18. **Southeast Asia** — 95

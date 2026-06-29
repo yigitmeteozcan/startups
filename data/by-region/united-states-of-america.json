@@ -20712,7 +20712,7 @@
     "description": "SIRUM is a “match.com” for unused medicine. We connect institutional…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2eaff4c9574450ebd693897cc2604edad7f9b0ce.png",
     "website": "http://sirum.org",
-    "location": "Palo Alto, CA, USA",
+    "location": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -42537,7 +42537,7 @@
     "description": "Platform that allows anyone to create and monetize video games.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e5350e1545dde29c153c2bb23ad5d1fdb3f3bf68.png",
     "website": "https://www.dreamcraft.com/",
-    "location": "Redwood City, CA, USA",
+    "location": "San Francisco, CA, USA; Redwood City, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -42637,7 +42637,7 @@
     "description": "We provide primary care in senior living communities.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3facf7f7379345c5f8e16d3059db45980ba0aa68.png",
     "website": "http://pineparkhealth.com",
-    "location": "Oakland, CA, USA",
+    "location": "San Francisco, CA, USA; Oakland, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -56616,6 +56616,38 @@
   },
   {
     "source": "yc",
+    "name": "SOMATIC",
+    "description": "Bathroom cleaning robots for office buildings. ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f23007b7bbf72d015d806b6e02a0a3432a5c5266.png",
+    "website": "http://getsomatic.com",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Robotics"
+    ],
+    "year": 2020,
+    "program": "YC Winter 2020",
+    "programSlugs": [
+      "yc-winter-2020"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "ElectroNeek",
     "description": "Robotic Process Automation and Document Processing Platform",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/60c6f1e1102860aaf28ab55f675c131d4edc4cb3.png",
@@ -67360,7 +67392,7 @@
     "source": "yc",
     "name": "Navattic",
     "description": "Interactive product demos",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/22212a19a00cdc48d8187c96a9935e78ca56ee79.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8d4a4ef6a3d05c5e0e6207e2f196eaafa06183e8.png",
     "website": "https://www.navattic.com/",
     "location": "New York, NY, USA",
     "region": "United States of America",
@@ -67368,7 +67400,8 @@
     "tags": [
       "Marketing",
       "SaaS",
-      "Sales"
+      "Sales",
+      "Conversational AI"
     ],
     "year": 2021,
     "program": "YC Winter 2021",
@@ -74575,7 +74608,7 @@
     "description": "Robots that build solar farms",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0118080552ba9d1fbdfe132c3eead249237876d9.png",
     "website": "https://chargerobotics.com/",
-    "location": "Oakland, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -87250,7 +87283,7 @@
   {
     "source": "yc",
     "name": "Rubbrband",
-    "description": "The creative agency",
+    "description": "Culture-defining commercials",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5720d48d89fcdf16b2887231b42541c2a4f1da5b.png",
     "website": "https://rubbrband.com",
     "location": "San Francisco, CA, USA",
@@ -87259,9 +87292,9 @@
     "tags": [
       "Consumer",
       "Content",
-      "Artificial Intelligence",
       "Video",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "year": 2023,
     "program": "YC Winter 2023",
@@ -105686,9 +105719,9 @@
     "tags": [
       "Education",
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
       "Generative AI",
-      "Edtech"
+      "Edtech",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -111143,15 +111176,18 @@
     "name": "Vendra",
     "description": "Custom Parts, Manufactured in America 🇺🇸",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/929ad75b7088b9721f87d1e0e30daae50d49198f.png",
-    "website": "https://vendra-marketplace.io/",
+    "website": "https://vendra.io/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
+      "Manufacturing and Robotics",
       "Hardware",
       "Manufacturing",
-      "Supply Chain"
+      "Supply Chain",
+      "Aerospace",
+      "Defense"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -112539,39 +112575,6 @@
       "Artificial Intelligence",
       "SaaS",
       "Compliance"
-    ],
-    "year": 2024,
-    "program": "YC Summer 2024",
-    "programSlugs": [
-      "yc-summer-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Arva AI",
-    "description": "AI Agents to scale AML, KYB and KYC operations",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
-    "website": "https://www.arva.ai",
-    "location": "New York, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Compliance",
-      "Regtech",
-      "AI"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -117610,6 +117613,38 @@
   },
   {
     "source": "yc",
+    "name": "Cuckoo Labs",
+    "description": "Real-time AI translator for global sales and marketing",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b101bcbe3aa299f4c858e25eded7583252ab9ab6.png",
+    "website": "https://www.cuckoo.so/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Marketing"
+    ],
+    "year": 2025,
+    "program": "YC Winter 2025",
+    "programSlugs": [
+      "yc-winter-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "hud",
     "description": "Platform for building RL environments and evals ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
@@ -117679,7 +117714,7 @@
     "description": "More 𝛼, less latency: exchange and HFT on one chip.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05c8cff591b86d49ecb387cae532233ca6d248ee.png",
     "website": "https://pax.markets/",
-    "location": "Redwood City, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -117803,6 +117838,36 @@
   },
   {
     "source": "yc",
+    "name": "Lucid",
+    "description": "interactive video models",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
+    "website": "https://lucid.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer"
+    ],
+    "year": 2025,
+    "program": "YC Winter 2025",
+    "programSlugs": [
+      "yc-winter-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Pickle",
     "description": "Where your life context becomes understanding.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ad757e8400d1148cc83fb94eb774347a9fe0f4ad.png",
@@ -117872,7 +117937,7 @@
     "description": "AI Healthcare Provider Credentialing Software",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7e6ffdce0849e290e9af29bb1746cf9441830631.png",
     "website": "https://harbera.com/",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -117936,7 +118001,7 @@
   {
     "source": "yc",
     "name": "Lopus",
-    "description": "Growth Operations Data Platform",
+    "description": "Headless Data Team",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5463151bfe24c55a37e65a12d8f89b62dcef5c86.png",
     "website": "https://lopus.ai",
     "location": "San Francisco, CA, USA",
@@ -117944,7 +118009,7 @@
     "subregion": "",
     "tags": [
       "Analytics",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -120125,39 +120190,6 @@
       "Real Estate",
       "Consumer",
       "AI"
-    ],
-    "year": 2025,
-    "program": "YC Spring 2025",
-    "programSlugs": [
-      "yc-spring-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Frekil",
-    "description": "RWE Generation in minutes",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
-    "website": "https://www.frekil.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Healthcare",
-      "Artificial Intelligence",
-      "Health Tech",
-      "Biotech"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -122809,7 +122841,7 @@
   {
     "source": "yc",
     "name": "Naïve",
-    "description": "Agent Infrastructure as Code",
+    "description": "Autonomous Company Infrastructure",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d9f36771516883d109fe1d640d056334a197d1d8.png",
     "website": "https://usenaive.ai",
     "location": "San Francisco, CA, USA",
@@ -124482,10 +124514,10 @@
   },
   {
     "source": "yc",
-    "name": "gitdot",
+    "name": "args",
     "description": "A better GItHub",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2d07ddb576ac56313f5c987b3bb7c2ff770b583a.png",
-    "website": "https://www.gitdot.io/",
+    "website": "https://args.io/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
@@ -124527,6 +124559,37 @@
       "Video",
       "Sales Enablement",
       "Marketing"
+    ],
+    "year": 2025,
+    "program": "YC Summer 2025",
+    "programSlugs": [
+      "yc-summer-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Shor",
+    "description": "International payroll, built for founders",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9323f5fe8a247ae355ff7d76dd80f82fd6b8e192.png",
+    "website": "https://www.shorpay.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Payments"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -124972,16 +125035,16 @@
     "source": "yc",
     "name": "Design Arena",
     "description": "World's largest crowdsourced benchmark for AI-generated design",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5f1a8344ff885ad778d50753135552f998c9bb9e.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4ac909ee76924412f3072f355a4f8129e69e1478.png",
     "website": "https://www.designarena.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
-      "Artificial Intelligence",
       "Design",
-      "Crowdsourcing"
+      "Crowdsourcing",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -125038,7 +125101,7 @@
   {
     "source": "yc",
     "name": "Signals",
-    "description": "Proactive AI customer support that engages high-value users",
+    "description": "iMessage revenue channel for DTC brands that brings customers back",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/487ac0ad9f618f937dd875c80053d719f8a25d07.png",
     "website": "https://www.returnsignals.com",
     "location": "San Francisco, CA, USA",
@@ -125199,6 +125262,36 @@
     "tags": [
       "Engineering, Product and Design",
       "AI"
+    ],
+    "year": 2025,
+    "program": "YC Summer 2025",
+    "programSlugs": [
+      "yc-summer-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Panels",
+    "description": "Audio Data for AI Labs",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f6701ac45e2897f58f58412507e74dbdbfa60235.png",
+    "website": "https://www.usepanels.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -126375,7 +126468,7 @@
     "description": "Indexing human dialogue through digital products",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/38c13032eb7bce2281be3f920e3afeabfd0835c8.png",
     "website": "https://www.costream.ai",
-    "location": "San Francisco, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -128711,6 +128804,37 @@
   },
   {
     "source": "yc",
+    "name": "RealRoots",
+    "description": "IRL friendship app for women",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e4b72e88bef4437e7d672c23bb7e1f952c837fca.png",
+    "website": "http://www.realroots.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Social"
+    ],
+    "year": 2025,
+    "program": "YC Summer 2025",
+    "programSlugs": [
+      "yc-summer-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Uplift AI",
     "description": "Foundational Voice Models for regional languages",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4c2008e580fb1146da7922b566c2a03af87f5a0c.png",
@@ -130916,6 +131040,37 @@
       "Finance",
       "Consumer",
       "Neobank"
+    ],
+    "year": 2025,
+    "program": "YC Fall 2025",
+    "programSlugs": [
+      "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Casey",
+    "description": "Casey is an AI-native commercial insurance brokerage",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fa8267b34eb44ac708090ff04ca6eeef01fa75d3.png",
+    "website": "https://caseyinsure.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Insurance"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -133557,7 +133712,7 @@
   },
   {
     "source": "yc",
-    "name": "Prescience",
+    "name": "Prescience, Inc.",
     "description": "Healthcare for the age of abundant intelligence.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9318ef0555c0ad2e5ce6049908b655658d073f1f.png",
     "website": "https://www.getprescience.com/",
@@ -136820,14 +136975,19 @@
   {
     "source": "yc",
     "name": "Inth",
-    "description": "Your AI Native Compliance team ",
+    "description": "Enterprise privacy governance for companies that ship fast",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
     "website": "https://inth.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure"
+      "Infrastructure",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Compliance",
+      "Web Development",
+      "Trust & Safety"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -138166,9 +138326,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Sales Enablement",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -138258,6 +138418,37 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Rudus",
+    "description": "AI Takeoffs for Concrete",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/407f4a93871730524968180bcf20dd23fc9ce7b2.png",
+    "website": "http://rudus.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Real Estate and Construction",
+      "Construction"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -139857,6 +140048,36 @@
   },
   {
     "source": "yc",
+    "name": "Gojiberry AI",
+    "description": "AI Go-To-Market agents for B2B teams",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4a81291bc11ae471a475ddf6ccf1d67360474a8c.png",
+    "website": "https://www.gojiberry.ai",
+    "location": "San Francisco, CA, USA; Remote",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Sales"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Napkin Math",
     "description": "AI nutrition coach in your pocket",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/43a02b84a6b28b5fb26796fe822a596c638d433c.png",
@@ -140079,6 +140300,37 @@
     "tags": [
       "Healthcare",
       "Medical Devices"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Prototyping.io",
+    "description": "Autonomous manufacturing for mechanical parts",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
+    "website": "https://www.prototyping.io",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -140565,7 +140817,7 @@
     "source": "yc",
     "name": "tday.com",
     "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1012df6bea018e8f6d8fbcdd4215014712efbdd5.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/be18e0389cf4e054ea9daa993ce4e9131722dfb7.png",
     "website": "https://tday.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -143517,8 +143769,8 @@
     "tags": [
       "Healthcare",
       "Healthcare IT",
-      "Artificial Intelligence",
-      "Dental"
+      "Dental",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
