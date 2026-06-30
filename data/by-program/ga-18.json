@@ -810,15 +810,15 @@
   },
   {
     "source": "500",
-    "name": "Paedae",
-    "description": "Provider of a decentralized marketplace designed to offer compliant exchange of location data. The company's marketplace helps to monetize user's application and generate location analytics without showing advertisement, enabling application developers to access beacon networks.",
+    "name": "OnFarm",
+    "description": "Developer of an agriculture management software designed to integrate data into a customizable dashboard with forecasts and recommendations. The company's software offers a data management platform that collates statistics about the weather conditions, irrigation and soil moisture data from the sensors to map fields to optimize the costs for irrigation, enabling farmers to make better and more informed decisions resulting in immediate impact on farm inputs, productivity and profitability.",
     "logo": "",
-    "website": "https://fysical.com",
+    "website": "https://onfarm.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Data & Analytics"
+      "AgTech"
     ],
     "year": 2016,
     "program": "GA 18",
@@ -831,12 +831,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "John Foley",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Justin Mann",
+        "name": "Lance Donny",
         "role": "",
         "linkedin": ""
       }
@@ -853,15 +848,15 @@
   },
   {
     "source": "500",
-    "name": "Treat.co",
-    "description": "Provider of an application for pet care. The company's application offers users to book for veterinary care, training and grooming of their pets.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b8e37838-8126-4380-829c-6ecc2125600b.png",
-    "website": "https://treat.co",
-    "location": "United States",
-    "region": "North America",
+    "name": "INZMO",
+    "description": "Developer of an insurance purchasing platform created to get insurance cover and personal insurance products over mobile application. The company 's insurance purchasing platform offers a fully digitalized B2B2C insurance process covering all the key stages, including taking out cover, managing contracts, partnerships and aims reporting, enabling consumers to instantly meet their insurance needs online via a mobile app or in the stores of partner retailers.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5b9f46ba-2616-4322-a5df-8e05d8327c8c.png",
+    "website": "https://inzmo.com",
+    "location": "Germany",
+    "region": "Europe",
     "subregion": "",
     "tags": [
-      "Pet Tech"
+      "InsurTech"
     ],
     "year": 2016,
     "program": "GA 18",
@@ -874,17 +869,55 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Steve Simitzis",
+        "name": "Markus Trei",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Marta Crowe",
+        "name": "Risto Klausen",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Kait Link",
+        "name": "Meeri Rebane",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Germany"
+    }
+  },
+  {
+    "source": "500",
+    "name": "SimplifiMed",
+    "description": "Provider of a platform for connecting patients with doctors. The company provides an online platform where patients could update their personal health profiles and seek medication facilities and consult with caregivers without having to move to clinics physically.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e9be1282-56d3-40f1-912f-ccdc6178b51d.png",
+    "website": "https://simplifimed.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2016,
+    "program": "GA 18",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Chinmay Singh",
         "role": "",
         "linkedin": ""
       }
@@ -928,6 +961,140 @@
       },
       {
         "name": "Ira McMahon",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Paedae",
+    "description": "Provider of a decentralized marketplace designed to offer compliant exchange of location data. The company's marketplace helps to monetize user's application and generate location analytics without showing advertisement, enabling application developers to access beacon networks.",
+    "logo": "",
+    "website": "https://fysical.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics"
+    ],
+    "year": 2016,
+    "program": "GA 18",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "John Foley",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Justin Mann",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Shoppr",
+    "description": "Provider of a software test automation platform. The company's platform offers online testing of the development and progress of Web software.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/432e6317-bd2b-4e85-9cda-45fea570ee75.png",
+    "website": "https://usetrace.com",
+    "location": "Finland",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2016,
+    "program": "GA 18",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Eero Heino",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Arto Vuori",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Finland"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Treat.co",
+    "description": "Provider of an application for pet care. The company's application offers users to book for veterinary care, training and grooming of their pets.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b8e37838-8126-4380-829c-6ecc2125600b.png",
+    "website": "https://treat.co",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Pet Tech"
+    ],
+    "year": 2016,
+    "program": "GA 18",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Steve Simitzis",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Marta Crowe",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kait Link",
         "role": "",
         "linkedin": ""
       }
@@ -1137,173 +1304,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "INZMO",
-    "description": "Developer of an insurance purchasing platform created to get insurance cover and personal insurance products over mobile application. The company 's insurance purchasing platform offers a fully digitalized B2B2C insurance process covering all the key stages, including taking out cover, managing contracts, partnerships and aims reporting, enabling consumers to instantly meet their insurance needs online via a mobile app or in the stores of partner retailers.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5b9f46ba-2616-4322-a5df-8e05d8327c8c.png",
-    "website": "https://inzmo.com",
-    "location": "Germany",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "InsurTech"
-    ],
-    "year": 2016,
-    "program": "GA 18",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Markus Trei",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Risto Klausen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Meeri Rebane",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Germany"
-    }
-  },
-  {
-    "source": "500",
-    "name": "SimplifiMed",
-    "description": "Provider of a platform for connecting patients with doctors. The company provides an online platform where patients could update their personal health profiles and seek medication facilities and consult with caregivers without having to move to clinics physically.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e9be1282-56d3-40f1-912f-ccdc6178b51d.png",
-    "website": "https://simplifimed.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2016,
-    "program": "GA 18",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Chinmay Singh",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "OnFarm",
-    "description": "Developer of an agriculture management software designed to integrate data into a customizable dashboard with forecasts and recommendations. The company's software offers a data management platform that collates statistics about the weather conditions, irrigation and soil moisture data from the sensors to map fields to optimize the costs for irrigation, enabling farmers to make better and more informed decisions resulting in immediate impact on farm inputs, productivity and profitability.",
-    "logo": "",
-    "website": "https://onfarm.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "AgTech"
-    ],
-    "year": 2016,
-    "program": "GA 18",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Lance Donny",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Shoppr",
-    "description": "Provider of a software test automation platform. The company's platform offers online testing of the development and progress of Web software.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/432e6317-bd2b-4e85-9cda-45fea570ee75.png",
-    "website": "https://usetrace.com",
-    "location": "Finland",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2016,
-    "program": "GA 18",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Eero Heino",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Arto Vuori",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Finland"
     }
   }
 ]

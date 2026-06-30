@@ -4764,7 +4764,7 @@
     "description": "The design system layer for coding agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ed2baeb51a0f0a58c1fedf8a9565de188c435f34.png",
     "website": "https://zeroheight.com",
-    "location": "London, England, United Kingdom; Remote",
+    "location": "London, United Kingdom; Remote",
     "region": "United Kingdom",
     "subregion": "",
     "tags": [
@@ -7114,7 +7114,7 @@
   {
     "source": "yc",
     "name": "Terra API",
-    "description": "API for developers to access health data ",
+    "description": "API for developers and AIs to access health data ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/97a6c134a2281fc0b76fb07a0fe0c197e4948543.png",
     "website": "http://tryterra.co",
     "location": "San Francisco, CA, USA",
@@ -11914,9 +11914,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "year": 2023,
     "program": "YC Summer 2023",
@@ -18008,16 +18008,16 @@
     "name": "The Context Company",
     "description": "Monitor AI agents and understand user behavior",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/897cd2d31bc7dc869e170422ebc8e24a66f3e2bc.png",
-    "website": "https://thecontext.company",
+    "website": "https://thecontextcompany.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
-      "Monitoring"
+      "Monitoring",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -19589,6 +19589,39 @@
     "program": "YC Spring 2026",
     "programSlugs": [
       "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Prized",
+    "description": "Internal tools, built by the people who use them.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7162dc10af43dc1c38075eec773f7958383384d2.png",
+    "website": "https://prized.dev",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "SaaS",
+      "Productivity"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,

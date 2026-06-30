@@ -25839,7 +25839,7 @@
   {
     "source": "yc",
     "name": "Terra API",
-    "description": "API for developers to access health data ",
+    "description": "API for developers and AIs to access health data ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/97a6c134a2281fc0b76fb07a0fe0c197e4948543.png",
     "website": "http://tryterra.co",
     "location": "San Francisco, CA, USA",
@@ -43413,52 +43413,6 @@
   },
   {
     "source": "500",
-    "name": "Poko",
-    "description": "Developer of a digital supermarket application designed to support women in starting a business. The company engages in the asset-light retail network using digital tools and community leaders to bring quality, assortment, and pricing at par, enabling female micro-entrepreneurs to bring greater selection and affordable products to underserved communities.",
-    "logo": "",
-    "website": "https://www.shoppa.biz",
-    "location": "Singapore",
-    "region": "South Asia",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Van Tran",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Geoffrey See",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sean Ang",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Singapore"
-    }
-  },
-  {
-    "source": "500",
     "name": "Plerk",
     "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
@@ -43505,6 +43459,52 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Poko",
+    "description": "Developer of a digital supermarket application designed to support women in starting a business. The company engages in the asset-light retail network using digital tools and community leaders to bring quality, assortment, and pricing at par, enabling female micro-entrepreneurs to bring greater selection and affordable products to underserved communities.",
+    "logo": "",
+    "website": "https://www.shoppa.biz",
+    "location": "Singapore",
+    "region": "South Asia",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Van Tran",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Geoffrey See",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sean Ang",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Singapore"
     }
   },
   {
@@ -46965,11 +46965,88 @@
   },
   {
     "source": "alchemist",
-    "name": "Werbot",
-    "description": "1Password for Servers - Easy Server Access Sharing, Control and Audit",
+    "name": "Rocketbrew",
+    "description": "GenAI for personalized sales outbound.",
     "logo": "",
     "website": "",
-    "location": "Middletown, DE, USA",
+    "location": "Vancouver, BC, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Heidi Ye",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rachel Wong",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "UserLove",
+    "description": "Generative AI for customer support - automating 47% of customer service tickets.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 32",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Hasan Khan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Portals",
+    "description": "Platform for Creators to Host their Communities on with Subscription and Sponsorship Components for Monetization",
+    "logo": "",
+    "website": "",
+    "location": "Palo Alto, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -46984,12 +47061,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Inna Ponamarchuk",
+        "name": "Usman Hanif",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Dmitry Shurco",
+        "name": "Eric Zhou",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Caleb Finn",
         "role": "",
         "linkedin": ""
       }
@@ -47052,11 +47134,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Rocketbrew",
-    "description": "GenAI for personalized sales outbound.",
+    "name": "NavigateIO Inc.",
+    "description": "Self Contained Location Intelligence in GPS-Denied Areas for Public Safety, Military, Construction, Warehousing, Industrial and AR/VR",
     "logo": "",
     "website": "",
-    "location": "Vancouver, BC, Canada",
+    "location": "Santa Rosa, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -47071,12 +47153,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Heidi Ye",
+        "name": "Sukhi Lamba",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Rachel Wong",
+        "name": "Karthik Sundaresan",
         "role": "",
         "linkedin": ""
       }
@@ -47088,7 +47170,130 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Canada"
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Flyhound",
+    "description": "Patented Technology for Drones that Locates and Identifies People on the Ground and Inside Buildings Without an App, User Interaction, or Infrastructure",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Manny Cerniglia",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Antonio Albanese",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Lynxai Technologies, Inc",
+    "description": "A Data-Driven Platform that Makes ESG Investment More Efficient",
+    "logo": "",
+    "website": "",
+    "location": "California City, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Tiago Andrade",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Eduardo Rebelo",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Werbot",
+    "description": "1Password for Servers - Easy Server Access Sharing, Control and Audit",
+    "logo": "",
+    "website": "",
+    "location": "Middletown, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 29",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Inna Ponamarchuk",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dmitry Shurco",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
     }
   },
   {
@@ -47123,93 +47328,6 @@
       },
       {
         "name": "Matt Hemmings",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "VAR.energy",
-    "description": "Smart Grid “Platform-as-a-Service” Provider",
-    "logo": "",
-    "website": "",
-    "location": "Kyiv, Ukraine, 02000",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Nick Turchak",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Denys Popov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mykola Pimankov",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "02000"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Simularge",
-    "description": "No-code AI Platform for Industrial Cost Reduction",
-    "logo": "",
-    "website": "",
-    "location": "Delaware, OH 43015, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 28",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Buryan Turan",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Erhan Turan",
         "role": "",
         "linkedin": ""
       }
@@ -47293,6 +47411,47 @@
     },
     "extra": {
       "country": "Netherlands"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Deriskly Limited",
+    "description": "Leveraging AI to Help Companies Prevent Legal Disputes by Detecting and Assessing Risks in Documents, Emails, Social Media & Web",
+    "logo": "",
+    "website": "",
+    "location": "Oxford, UK",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 29",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dr Mimi Zou",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tatiana Botskina",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "UK"
     }
   },
   {
@@ -47394,11 +47553,52 @@
   },
   {
     "source": "alchemist",
-    "name": "NavigateIO Inc.",
-    "description": "Self Contained Location Intelligence in GPS-Denied Areas for Public Safety, Military, Construction, Warehousing, Industrial and AR/VR",
+    "name": "Simularge",
+    "description": "No-code AI Platform for Industrial Cost Reduction",
     "logo": "",
     "website": "",
-    "location": "Santa Rosa, CA, USA",
+    "location": "Delaware, OH 43015, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 28",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Buryan Turan",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Erhan Turan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "VAR.energy",
+    "description": "Smart Grid “Platform-as-a-Service” Provider",
+    "logo": "",
+    "website": "",
+    "location": "Kyiv, Ukraine, 02000",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -47413,12 +47613,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Sukhi Lamba",
+        "name": "Nick Turchak",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Karthik Sundaresan",
+        "name": "Denys Popov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mykola Pimankov",
         "role": "",
         "linkedin": ""
       }
@@ -47430,212 +47635,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Portals",
-    "description": "Platform for Creators to Host their Communities on with Subscription and Sponsorship Components for Monetization",
-    "logo": "",
-    "website": "",
-    "location": "Palo Alto, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 29",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Usman Hanif",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Eric Zhou",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Caleb Finn",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Flyhound",
-    "description": "Patented Technology for Drones that Locates and Identifies People on the Ground and Inside Buildings Without an App, User Interaction, or Infrastructure",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 31",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Manny Cerniglia",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Antonio Albanese",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Lynxai Technologies, Inc",
-    "description": "A Data-Driven Platform that Makes ESG Investment More Efficient",
-    "logo": "",
-    "website": "",
-    "location": "California City, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Tiago Andrade",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Eduardo Rebelo",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Deriskly Limited",
-    "description": "Leveraging AI to Help Companies Prevent Legal Disputes by Detecting and Assessing Risks in Documents, Emails, Social Media & Web",
-    "logo": "",
-    "website": "",
-    "location": "Oxford, UK",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 29",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dr Mimi Zou",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tatiana Botskina",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "UK"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "UserLove",
-    "description": "Generative AI for customer support - automating 47% of customer service tickets.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 32",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Hasan Khan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
+      "country": "02000"
     }
   }
 ]

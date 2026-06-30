@@ -16312,7 +16312,7 @@
     "description": "The design system layer for coding agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ed2baeb51a0f0a58c1fedf8a9565de188c435f34.png",
     "website": "https://zeroheight.com",
-    "location": "London, England, United Kingdom; Remote",
+    "location": "London, United Kingdom; Remote",
     "region": "United Kingdom",
     "subregion": "",
     "tags": [
@@ -23467,7 +23467,7 @@
   {
     "source": "yc",
     "name": "Terra API",
-    "description": "API for developers to access health data ",
+    "description": "API for developers and AIs to access health data ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/97a6c134a2281fc0b76fb07a0fe0c197e4948543.png",
     "website": "http://tryterra.co",
     "location": "San Francisco, CA, USA",
@@ -43055,6 +43055,39 @@
   },
   {
     "source": "yc",
+    "name": "Prized",
+    "description": "Internal tools, built by the people who use them.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7162dc10af43dc1c38075eec773f7958383384d2.png",
+    "website": "https://prized.dev",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "SaaS",
+      "Productivity"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Truffle",
     "description": "The autonomous back-of-house for restaurants.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c2506c5899c2529c2d5cc182e3a242e11f99aa02.png",
@@ -43091,15 +43124,15 @@
     "description": "Guarantee your agents use the right evidence before they act.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/553f76678219d35e34302add5de43fb39448c22c.png",
     "website": "https://www.usebylaw.com",
-    "location": "Waterloo, ON, Canada",
-    "region": "Canada",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "SaaS",
       "Compliance",
-      "Security"
+      "Security",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -47555,6 +47588,60 @@
   },
   {
     "source": "500",
+    "name": "GoSpotCheck",
+    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
+    "website": "https://gospotcheck.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "No Code",
+      "SaaS"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Bart Ciak",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Joseph Alfano",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt Talbot",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Samantha Holloway",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "Avocode",
     "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
     "logo": "",
@@ -47739,60 +47826,6 @@
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/plerk/",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "GoSpotCheck",
-    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
-    "website": "https://gospotcheck.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "No Code",
-      "SaaS"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Bart Ciak",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Joseph Alfano",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Matt Talbot",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Samantha Holloway",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""

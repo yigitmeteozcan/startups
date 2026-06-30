@@ -11123,10 +11123,10 @@
     "subregion": "",
     "tags": [
       "Finance and Accounting",
+      "Artificial Intelligence",
       "Finance",
       "Community",
-      "Investing",
-      "AI"
+      "Investing"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -14983,7 +14983,7 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -16846,7 +16846,7 @@
   {
     "source": "yc",
     "name": "Naïve",
-    "description": "Autonomous Company Infrastructure",
+    "description": "Unified Agent Infrastructure",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d9f36771516883d109fe1d640d056334a197d1d8.png",
     "website": "https://usenaive.ai",
     "location": "San Francisco, CA, USA",
@@ -16854,7 +16854,7 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -18717,10 +18717,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "Data Labeling",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -19483,13 +19483,13 @@
     "source": "yc",
     "name": "Async",
     "description": "AI Agents for Service Businesses",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3ef853f258eb99b0ff5f02c093cf533799635b8c.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
     "website": "https://withasync.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -20746,6 +20746,42 @@
       "SaaS",
       "LegalTech",
       "AI"
+    ],
+    "year": 2025,
+    "program": "YC Summer 2025",
+    "programSlugs": [
+      "yc-summer-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "TwentyTwo",
+    "description": "AI infrastructure for biosecurity",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5be6b2304553a4bca9bfa1f2953ae02638a8d430.png",
+    "website": "https://twentytwo.bio/",
+    "location": "New York, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Industrial Bio",
+      "Artificial Intelligence",
+      "Synthetic Biology",
+      "Biotech",
+      "Compliance",
+      "Security"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -24012,16 +24048,16 @@
     "name": "The Context Company",
     "description": "Monitor AI agents and understand user behavior",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/897cd2d31bc7dc869e170422ebc8e24a66f3e2bc.png",
-    "website": "https://thecontext.company",
+    "website": "https://thecontextcompany.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
-      "Monitoring"
+      "Monitoring",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -35435,16 +35471,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Slideflow Labs",
-    "description": "Empowering next-gen precision oncology with scalable, in-house AI biomarkers from routine pathology slides.",
+    "name": "Polyview Health",
+    "description": "Prevent fraud, waste, abuse in healthcare claims",
     "logo": "",
     "website": "",
-    "location": "Chicago, IL, USA",
+    "location": "Menlo Park, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2025,
-    "program": "Alchemist Class 41",
+    "program": "Alchemist Class 40",
     "programSlugs": [
       "alchemist"
     ],
@@ -35454,22 +35490,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Akhil Chakravarti**",
+        "name": "Jason Hwang",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Sid Ramesh**",
+        "name": "Dimitri Arges",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**James Dolezal**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Kyler Rosen**",
+        "name": "Greg Deocampo",
         "role": "",
         "linkedin": ""
       }
@@ -35486,11 +35517,11 @@
   },
   {
     "source": "alchemist",
-    "name": "DevPlaza",
-    "description": "Automated production-readiness for AI-generated code",
+    "name": "Xitester",
+    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
     "logo": "",
     "website": "",
-    "location": "Pleasanton, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35505,22 +35536,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Sahana Nagabhushan**",
+        "name": "**CEO:** Shine Oovattil .",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Arjun G N**",
+        "name": "**CTO:** Dharwish Raj",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Stephen Service**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Advisors:** Adam Frankl",
+        "name": "**COO:** Harikumar S",
         "role": "",
         "linkedin": ""
       }
@@ -35537,11 +35563,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Adrich",
-    "description": "Smart packaging that tracks consumer product usage",
+    "name": "Planeo",
+    "description": "AI copilot that bridges code and runtime",
     "logo": "",
     "website": "",
-    "location": "Pittsburgh, PA, USA",
+    "location": "Dover, DE, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35556,12 +35582,53 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Adhithi Aji**",
+        "name": "**Santosh Sadasivuni**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Dale Harber**",
+        "name": "**Marcello DeSales**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Industrial Dynamics",
+    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "logo": "",
+    "website": "",
+    "location": "Reno, NV, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Konstantin Sarichev**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Michael Lawrie**",
         "role": "",
         "linkedin": ""
       }
@@ -35696,52 +35763,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Planeo",
-    "description": "AI copilot that bridges code and runtime",
+    "name": "PayCare AI ",
+    "description": "PayCare AI automates radiology practices from front desk to scanner — turning idle machines and long patient wait times into 24/7 access. Profitable for operators (like the founder) and accessible for patients.",
     "logo": "",
     "website": "",
-    "location": "Dover, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Santosh Sadasivuni**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Marcello DeSales**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Industrial Dynamics",
-    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
-    "logo": "",
-    "website": "",
-    "location": "Reno, NV, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35756,12 +35782,37 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Konstantin Sarichev**",
+        "name": "Himza — Founder",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Michael Lawrie**",
+        "name": "Engineer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ravi — CMO",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Northwestern Medical School",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Krisha — Infra Engineer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Cornell CS",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Together",
         "role": "",
         "linkedin": ""
       }
@@ -35778,11 +35829,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Xitester",
-    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
+    "name": "DevPlaza",
+    "description": "Automated production-readiness for AI-generated code",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Pleasanton, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35797,17 +35848,73 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**CEO:** Shine Oovattil .",
+        "name": "**Sahana Nagabhushan**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**CTO:** Dharwish Raj",
+        "name": "**Arjun G N**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**COO:** Harikumar S",
+        "name": "**Stephen Service**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Advisors:** Adam Frankl",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Slideflow Labs",
+    "description": "Empowering next-gen precision oncology with scalable, in-house AI biomarkers from routine pathology slides.",
+    "logo": "",
+    "website": "",
+    "location": "Chicago, IL, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Akhil Chakravarti**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Sid Ramesh**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**James Dolezal**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Kyler Rosen**",
         "role": "",
         "linkedin": ""
       }
@@ -35870,16 +35977,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Polyview Health",
-    "description": "Prevent fraud, waste, abuse in healthcare claims",
+    "name": "Adrich",
+    "description": "Smart packaging that tracks consumer product usage",
     "logo": "",
     "website": "",
-    "location": "Menlo Park, CA, USA",
+    "location": "Pittsburgh, PA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2025,
-    "program": "Alchemist Class 40",
+    "program": "Alchemist Class 41",
     "programSlugs": [
       "alchemist"
     ],
@@ -35889,83 +35996,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jason Hwang",
+        "name": "**Adhithi Aji**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Dimitri Arges",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Greg Deocampo",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "PayCare AI ",
-    "description": "PayCare AI automates radiology practices from front desk to scanner — turning idle machines and long patient wait times into 24/7 access. Profitable for operators (like the founder) and accessible for patients.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Himza — Founder",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Engineer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ravi — CMO",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Northwestern Medical School",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Krisha — Infra Engineer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Cornell CS",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Together",
+        "name": "**Dale Harber**",
         "role": "",
         "linkedin": ""
       }

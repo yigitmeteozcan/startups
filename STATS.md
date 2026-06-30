@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-06-29._
+_Auto-generated from the dataset on 2026-06-30._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,096** |
+| Total companies | **21,105** |
 | 🦄 Unicorns ($1B+) | **146** |
 | 💰 Exits | **2810** |
 | 🌱 B Corps | **29** |
@@ -14,10 +14,10 @@ _Auto-generated from the dataset on 2026-06-29._
 
 | Source | Companies |
 |---|---|
-| yc | 5,989 |
+| yc | 5,996 |
 | plugandplay | 5,507 |
 | techstars | 5,105 |
-| 500 | 2,241 |
+| 500 | 2,243 |
 | antler | 1,237 |
 | alchemist | 519 |
 | ef | 498 |
@@ -38,15 +38,15 @@ _Auto-generated from the dataset on 2026-06-29._
 2015  █████████████░░░░░░░░░░░░░░░ 685
 2016  ██████████████░░░░░░░░░░░░░░ 724
 2017  ███████████████░░░░░░░░░░░░░ 816
-2018  ████████████████░░░░░░░░░░░░ 866
+2018  ████████████████░░░░░░░░░░░░ 865
 2019  ███████████████████░░░░░░░░░ 1033
 2020  ████████████████████░░░░░░░░ 1053
 2021  ██████████████████████████░░ 1384
 2022  ███████████████████████████░ 1457
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1448
-2025  ████████████████████░░░░░░░░ 1051
-2026  ██████████░░░░░░░░░░░░░░░░░░ 542
+2025  ████████████████████░░░░░░░░ 1052
+2026  ██████████░░░░░░░░░░░░░░░░░░ 553
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -59,13 +59,13 @@ _Auto-generated from the dataset on 2026-06-29._
 6. **Germany** — 265
 7. **Israel** — 215
 8. **France** — 188
-9. **Singapore** — 185
+9. **Singapore** — 184
 10. **Mexico** — 149
 11. **Italy** — 136
 12. **South Korea** — 130
 13. **India** — 126
 14. **United Arab Emirates** — 119
-15. **Australia** — 99
+15. **UNITED STATES** — 102
 
 ## Top cities
 1. **Tokyo** — 2533
@@ -86,7 +86,7 @@ _Auto-generated from the dataset on 2026-06-29._
 
 ## Top programs
 1. **Plug and Play** — 5507
-2. **500 Global** — 1401
+2. **500 Global** — 1400
 3. **Antler** — 1237
 4. **Entrepreneur First** — 498
 5. **YC Winter 2022** — 398
@@ -102,40 +102,40 @@ _Auto-generated from the dataset on 2026-06-29._
 15. **YC Summer 2023** — 219
 
 ## Top industries
-1. **Fintech** — 2426
+1. **Fintech** — 2427
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1404
+3. **SaaS** — 1405
 4. **Mobile** — 1141
 5. **Consumer** — 1049
-6. **Artificial Intelligence** — 887
-7. **AI** — 806
-8. **Healthcare** — 799
-9. **Developer Tools** — 684
-10. **Infrastructure** — 661
-11. **Engineering, Product and Design** — 606
+6. **Artificial Intelligence** — 888
+7. **AI** — 808
+8. **Healthcare** — 800
+9. **Developer Tools** — 685
+10. **Infrastructure** — 662
+11. **Engineering, Product and Design** — 607
 12. **Health** — 577
-13. **Industrials** — 570
+13. **Industrials** — 572
 14. **B2B Software** — 545
 15. **Healthtech** — 440
 16. **Insurtech** — 435
 17. **Deeptech** — 432
 18. **Brand & Retail** — 421
-19. **Energy** — 415
+19. **Energy** — 416
 20. **Mobility & Physical AI** — 403
 
 ## By region
 1. **Americas** — 5871
-2. **United States of America** — 4458
+2. **United States of America** — 4466
 3. **Asia** — 2566
 4. **Europe** — 1014
 5. **EMEA** — 945
 6. **North America** — 903
 7. **Middle East & Africa** — 285
-8. **South Asia** — 265
+8. **South Asia** — 264
 9. **United Kingdom** — 211
 10. **India** — 202
 11. **Canada** — 196
-12. **Unspecified** — 180
+12. **Unspecified** — 179
 13. **Latin America** — 165
 14. **Middle East** — 159
 15. **Remote** — 112
