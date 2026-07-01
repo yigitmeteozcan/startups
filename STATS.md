@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-06-30._
+_Auto-generated from the dataset on 2026-07-01._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,105** |
+| Total companies | **21,106** |
 | 🦄 Unicorns ($1B+) | **146** |
 | 💰 Exits | **2810** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-06-30._
 
 | Source | Companies |
 |---|---|
-| yc | 5,996 |
+| yc | 5,997 |
 | plugandplay | 5,507 |
 | techstars | 5,105 |
 | 500 | 2,243 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-06-30._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1448
 2025  ████████████████████░░░░░░░░ 1052
-2026  ██████████░░░░░░░░░░░░░░░░░░ 553
+2026  ██████████░░░░░░░░░░░░░░░░░░ 554
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -60,7 +60,7 @@ _Auto-generated from the dataset on 2026-06-30._
 7. **Israel** — 215
 8. **France** — 188
 9. **Singapore** — 184
-10. **Mexico** — 149
+10. **Mexico** — 150
 11. **Italy** — 136
 12. **South Korea** — 130
 13. **India** — 126
@@ -104,17 +104,17 @@ _Auto-generated from the dataset on 2026-06-30._
 ## Top industries
 1. **Fintech** — 2427
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1405
+3. **SaaS** — 1406
 4. **Mobile** — 1141
 5. **Consumer** — 1049
-6. **Artificial Intelligence** — 888
+6. **Artificial Intelligence** — 890
 7. **AI** — 808
 8. **Healthcare** — 800
 9. **Developer Tools** — 685
 10. **Infrastructure** — 662
 11. **Engineering, Product and Design** — 607
 12. **Health** — 577
-13. **Industrials** — 572
+13. **Industrials** — 573
 14. **B2B Software** — 545
 15. **Healthtech** — 440
 16. **Insurtech** — 435
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-06-30._
 
 ## By region
 1. **Americas** — 5871
-2. **United States of America** — 4466
+2. **United States of America** — 4467
 3. **Asia** — 2566
 4. **Europe** — 1014
 5. **EMEA** — 945

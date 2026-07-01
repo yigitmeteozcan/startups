@@ -35776,7 +35776,7 @@
   {
     "source": "yc",
     "name": "Metal",
-    "description": "Institutional Intelligence for Private Equity",
+    "description": "The AI context platform for private capital. Everything your firm…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0bdcc8475801e999a95ad750970c80614d23f5c4.png",
     "website": "https://metal.ai/",
     "location": "New York, NY, USA",
@@ -35784,11 +35784,11 @@
     "subregion": "",
     "tags": [
       "Finance and Accounting",
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "year": 2023,
     "program": "YC Winter 2023",
@@ -45304,6 +45304,46 @@
   },
   {
     "source": "500",
+    "name": "MaiCall",
+    "description": "Self-learning debt collection system that trains on every conversation — and speaks to your debtors in their own accent. AI Agent calls, negotiates, secures a promise to pay — then follows up until the money lands.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/ab6c6e50-9573-4860-8656-bb461654bacb.png",
+    "website": "https://www.maicall.ai",
+    "location": "Mexico",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "SaaS",
+      "Debt"
+    ],
+    "year": 2026,
+    "program": "Eurasia 10",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vadym Bortnyk",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/106467262/admin/dashboard/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Mexico"
+    }
+  },
+  {
+    "source": "500",
     "name": "ManyChat",
     "description": "Developer of chatbot software designed to simplify the process of engaging an audience. The company's software offers a visual interface that implements coding-free instructions on how to create a bot within a few minutes and helps to broadcast messages to subscribers, create scheduled messages, auto-post from social media applications, and automate replies based on keywords as well as engage with interactive messages, enabling businesses to do marketing, sales and grow their ROI and revenue.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6479b580-05c4-4404-89c3-84916a074cb1.png",
@@ -47588,60 +47628,6 @@
   },
   {
     "source": "500",
-    "name": "GoSpotCheck",
-    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
-    "website": "https://gospotcheck.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "No Code",
-      "SaaS"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Bart Ciak",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Joseph Alfano",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Matt Talbot",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Samantha Holloway",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Avocode",
     "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
     "logo": "",
@@ -47725,6 +47711,60 @@
       },
       {
         "name": "Saleh Al-Mansouri",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "GoSpotCheck",
+    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
+    "website": "https://gospotcheck.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "No Code",
+      "SaaS"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Bart Ciak",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Joseph Alfano",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt Talbot",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Samantha Holloway",
         "role": "",
         "linkedin": ""
       }

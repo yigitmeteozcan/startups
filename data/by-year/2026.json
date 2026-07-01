@@ -2140,6 +2140,40 @@
   },
   {
     "source": "yc",
+    "name": "OS3",
+    "description": "Intelligence and Machines for Physical Labor",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
+    "website": "https://os3robotics.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Foresight",
     "description": "Consumer simulations for CPG market research",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e73e06f06f9c82efc635b55f38984d2cb9645b67.png",
@@ -6431,13 +6465,16 @@
   {
     "source": "yc",
     "name": "Ressl AI",
-    "description": "AI Workers for Field Services",
+    "description": "Train, eval and build autonomous agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
     "website": "https://ressl.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Operations"
+    ],
     "year": 2026,
     "program": "YC Winter 2026",
     "programSlugs": [
@@ -9123,8 +9160,8 @@
   {
     "source": "yc",
     "name": "Osmaura",
-    "description": "We find new matter opportunities for law firms.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/63934d43dcd74318180ec3c1c312807e4665bef0.png",
+    "description": "We find new matter opportunities for corporate law firms.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f8f5bfc033ae31d6282044fe4ce792725cc090a1.png",
     "website": "https://osmaura.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -11953,7 +11990,7 @@
   {
     "source": "yc",
     "name": "Soria",
-    "description": "AI Bloomberg Terminal built for Healthcare (and beyond)",
+    "description": "AI Financial Research Terminal built for Healthcare (and beyond)",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05b2506991797891dcda24e0fe6be2c7f7a60423.png",
     "website": "https://www.soriaanalytics.com/",
     "location": "New York City, NY, USA",
@@ -15493,7 +15530,7 @@
     "source": "yc",
     "name": "Edviro",
     "description": "Energy world models that fix energy waste before it becomes expensive.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/98362e61e1649e1ea6df53e5da74fe5c0a88a97e.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c179a28044a3d4a8c3ceaf2a5b8cecbf90f66aa7.png",
     "website": "https://edviroenergy.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -15524,7 +15561,7 @@
   {
     "source": "yc",
     "name": "Experiential Labs",
-    "description": "World models for AI agents",
+    "description": "World models for hypothesis testing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
     "website": "https://experientiallabs.ai",
     "location": "San Francisco, CA, USA",
@@ -15532,7 +15569,7 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -15636,7 +15673,13 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Amani Abulaban",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -16274,7 +16317,7 @@
     "description": "The cross-border employee benefits platform with embedded marketplace that increases engagement.",
     "logo": "https://founder-hub-public.s3.amazonaws.com/1902240d-aa5e-43ab-98bf-7655270692f7.png",
     "website": "https://www.karpatia.tech",
-    "location": "UNITED KINGDOM",
+    "location": "Ukraine",
     "region": "",
     "subregion": "",
     "tags": [
@@ -16315,19 +16358,23 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "UNITED KINGDOM"
+      "country": "Ukraine"
     }
   },
   {
     "source": "500",
     "name": "MaiCall",
-    "description": "Voice AI agent and vertical SaaS platform for loan management that automates human-like conversations to make collections faster, smarter, and ethical.​",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/a40de079-414d-49d3-b7ce-f9cbd61205c2.png",
+    "description": "Self-learning debt collection system that trains on every conversation — and speaks to your debtors in their own accent. AI Agent calls, negotiates, secures a promise to pay — then follows up until the money lands.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/ab6c6e50-9573-4860-8656-bb461654bacb.png",
     "website": "https://www.maicall.ai",
-    "location": "ESTONIA",
+    "location": "Mexico",
     "region": "",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "FinTech",
+      "SaaS",
+      "Debt"
+    ],
     "year": 2026,
     "program": "Eurasia 10",
     "programSlugs": [
@@ -16345,13 +16392,13 @@
       }
     ],
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/106467262/admin/dashboard/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
     },
     "extra": {
-      "country": "ESTONIA"
+      "country": "Mexico"
     }
   },
   {
@@ -16460,7 +16507,13 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Arvind Anandakumar",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -12188,7 +12188,7 @@
   {
     "source": "yc",
     "name": "Reditus Space",
-    "description": "Reusable Satellites for zero-g manufacturing",
+    "description": "Reusable Satellites",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f567bf243e624ac80b841cec50ec05ef7e87c1ac.png",
     "website": "https://www.reditus.space/",
     "location": "Atlanta, GA, USA",
@@ -12291,10 +12291,10 @@
   {
     "source": "yc",
     "name": "Corsair",
-    "description": "Integration Layer for AI Agents",
+    "description": "Connect your users to their apps",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/669230895e9a350309e4b696d01d846593838da1.png",
     "website": "https://www.corsair.dev",
-    "location": "New York, NY, USA",
+    "location": "New York, NY, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -14358,10 +14358,10 @@
   },
   {
     "source": "yc",
-    "name": "Chonkie",
-    "description": "Deep research on autopilot",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ec7731d8a7139472d0383a52014ff67683cdac5c.png",
-    "website": "https://www.chonkie.ai",
+    "name": "Feyn",
+    "description": "Custom models trained on your data",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7711f83eeb988737aadd19d8943c753d2e4085f4.png",
+    "website": "https://www.usefeyn.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -14369,7 +14369,8 @@
       "Engineering, Product and Design",
       "Artificial Intelligence",
       "Developer Tools",
-      "AI"
+      "AI",
+      "ML"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -31266,6 +31267,11 @@
         "name": "Yasin Ehsan",
         "role": "",
         "linkedin": ""
+      },
+      {
+        "name": "Umid Akhmedov",
+        "role": "",
+        "linkedin": ""
       }
     ],
     "social": {
@@ -35517,134 +35523,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Xitester",
-    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**CEO:** Shine Oovattil .",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**CTO:** Dharwish Raj",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**COO:** Harikumar S",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Planeo",
-    "description": "AI copilot that bridges code and runtime",
-    "logo": "",
-    "website": "",
-    "location": "Dover, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Santosh Sadasivuni**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Marcello DeSales**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Industrial Dynamics",
-    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
-    "logo": "",
-    "website": "",
-    "location": "Reno, NV, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Konstantin Sarichev**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Michael Lawrie**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Havilo.ai",
     "description": "The intelligence layer for the world's most valuable networks.",
     "logo": "",
@@ -35727,6 +35605,88 @@
   },
   {
     "source": "alchemist",
+    "name": "Industrial Dynamics",
+    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "logo": "",
+    "website": "",
+    "location": "Reno, NV, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Konstantin Sarichev**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Michael Lawrie**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Planeo",
+    "description": "AI copilot that bridges code and runtime",
+    "logo": "",
+    "website": "",
+    "location": "Dover, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Santosh Sadasivuni**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Marcello DeSales**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Etat'H Solide",
     "description": "We make plastic lighter,  cheaper, and retrofitted",
     "logo": "",
@@ -35763,8 +35723,8 @@
   },
   {
     "source": "alchemist",
-    "name": "PayCare AI ",
-    "description": "PayCare AI automates radiology practices from front desk to scanner — turning idle machines and long patient wait times into 24/7 access. Profitable for operators (like the founder) and accessible for patients.",
+    "name": "Xitester",
+    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -35772,7 +35732,7 @@
     "subregion": "",
     "tags": [],
     "year": 2025,
-    "program": "Alchemist Class 40",
+    "program": "Alchemist Class 41",
     "programSlugs": [
       "alchemist"
     ],
@@ -35782,37 +35742,58 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Himza — Founder",
+        "name": "**CEO:** Shine Oovattil .",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Engineer",
+        "name": "**CTO:** Dharwish Raj",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Ravi — CMO",
+        "name": "**COO:** Harikumar S",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Adrich",
+    "description": "Smart packaging that tracks consumer product usage",
+    "logo": "",
+    "website": "",
+    "location": "Pittsburgh, PA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Adhithi Aji**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Northwestern Medical School",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Krisha — Infra Engineer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Cornell CS",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Together",
+        "name": "**Dale Harber**",
         "role": "",
         "linkedin": ""
       }
@@ -35880,6 +35861,52 @@
   },
   {
     "source": "alchemist",
+    "name": "Divergent Physics",
+    "description": " Claude Code for Hardware design",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Gustavo Navarro",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Volodymyr Shyianov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Bamelak Tadele",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Slideflow Labs",
     "description": "Empowering next-gen precision oncology with scalable, in-house AI biomarkers from routine pathology slides.",
     "logo": "",
@@ -35931,8 +35958,8 @@
   },
   {
     "source": "alchemist",
-    "name": "Divergent Physics",
-    "description": " Claude Code for Hardware design",
+    "name": "PayCare AI ",
+    "description": "PayCare AI automates radiology practices from front desk to scanner — turning idle machines and long patient wait times into 24/7 access. Profitable for operators (like the founder) and accessible for patients.",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -35940,7 +35967,7 @@
     "subregion": "",
     "tags": [],
     "year": 2025,
-    "program": "Alchemist Class 41",
+    "program": "Alchemist Class 40",
     "programSlugs": [
       "alchemist"
     ],
@@ -35950,58 +35977,37 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Gustavo Navarro",
+        "name": "Himza — Founder",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Volodymyr Shyianov",
+        "name": "Engineer",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Bamelak Tadele",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Adrich",
-    "description": "Smart packaging that tracks consumer product usage",
-    "logo": "",
-    "website": "",
-    "location": "Pittsburgh, PA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Adhithi Aji**",
+        "name": "Ravi — CMO",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Dale Harber**",
+        "name": "Northwestern Medical School",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Krisha — Infra Engineer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Cornell CS",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Together",
         "role": "",
         "linkedin": ""
       }
