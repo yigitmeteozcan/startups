@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-01._
+_Auto-generated from the dataset on 2026-07-02._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,106** |
+| Total companies | **21,105** |
 | 🦄 Unicorns ($1B+) | **146** |
-| 💰 Exits | **2810** |
+| 💰 Exits | **2811** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,13 +14,13 @@ _Auto-generated from the dataset on 2026-07-01._
 
 | Source | Companies |
 |---|---|
-| yc | 5,997 |
+| yc | 5,999 |
 | plugandplay | 5,507 |
 | techstars | 5,105 |
 | 500 | 2,243 |
-| antler | 1,237 |
+| antler | 1,233 |
 | alchemist | 519 |
-| ef | 498 |
+| ef | 499 |
 
 ## Companies by first session year
 
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-01._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1448
 2025  ████████████████████░░░░░░░░ 1052
-2026  ██████████░░░░░░░░░░░░░░░░░░ 554
+2026  ██████████░░░░░░░░░░░░░░░░░░ 557
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -87,8 +87,8 @@ _Auto-generated from the dataset on 2026-07-01._
 ## Top programs
 1. **Plug and Play** — 5507
 2. **500 Global** — 1400
-3. **Antler** — 1237
-4. **Entrepreneur First** — 498
+3. **Antler** — 1233
+4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
 7. **YC Winter 2021** — 336
@@ -102,20 +102,20 @@ _Auto-generated from the dataset on 2026-07-01._
 15. **YC Summer 2023** — 219
 
 ## Top industries
-1. **Fintech** — 2427
+1. **Fintech** — 2426
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1406
 4. **Mobile** — 1141
 5. **Consumer** — 1049
-6. **Artificial Intelligence** — 890
-7. **AI** — 808
+6. **Artificial Intelligence** — 894
+7. **AI** — 805
 8. **Healthcare** — 800
-9. **Developer Tools** — 685
-10. **Infrastructure** — 662
+9. **Developer Tools** — 686
+10. **Infrastructure** — 663
 11. **Engineering, Product and Design** — 607
 12. **Health** — 577
-13. **Industrials** — 573
-14. **B2B Software** — 545
+13. **Industrials** — 574
+14. **B2B Software** — 543
 15. **Healthtech** — 440
 16. **Insurtech** — 435
 17. **Deeptech** — 432
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-07-01._
 
 ## By region
 1. **Americas** — 5871
-2. **United States of America** — 4467
+2. **United States of America** — 4469
 3. **Asia** — 2566
 4. **Europe** — 1014
 5. **EMEA** — 945

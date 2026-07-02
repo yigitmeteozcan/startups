@@ -7041,7 +7041,7 @@
   {
     "source": "yc",
     "name": "Superset",
-    "description": "The IDE for the AI Agents Era",
+    "description": "Building the platform for software factories",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
     "website": "https://www.superset.sh/",
     "location": "San Francisco, CA, USA",
@@ -7049,10 +7049,10 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -8332,10 +8332,10 @@
   },
   {
     "source": "yc",
-    "name": "Librar Labs",
+    "name": "Ossus",
     "description": "Intelligence for cultural institutions",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
-    "website": "https://www.librarlabs.com",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5d996045fb0f0538e45cf4f2a7445da3af339bb3.png",
+    "website": "https://www.ossus.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -10829,16 +10829,16 @@
     "name": "StableBrowse",
     "description": "Browser Layer for AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
-    "website": "https://stablebrowse.com/",
+    "website": "https://stablebrowse.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Artificial Intelligence",
       "API",
       "Automation",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -11223,7 +11223,7 @@
     "description": "Fast, smart, accessible 3D ultrasound that anyone can use",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/19ff35f4e54afb89b7ab4ec1ed26198fc61066ae.png",
     "website": "https://www.lumius-imaging.com",
-    "location": "San Francisco, CA, USA",
+    "location": "Durham, NC, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -14549,7 +14549,7 @@
   {
     "source": "yc",
     "name": "GUILD",
-    "description": "Neoprime Reshaping Defense Supply Chain",
+    "description": "AI-Native Defense Contractor Reshaping the Defense Supply Chain",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
     "website": "https://www.guildai.co",
     "location": "New York, NY, USA",
@@ -14558,11 +14558,10 @@
     "tags": [
       "Industrials",
       "Defense",
-      "GovTech",
+      "Artificial Intelligence",
       "Compliance",
       "Manufacturing",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -14776,7 +14775,7 @@
   {
     "source": "yc",
     "name": "Touchmark",
-    "description": "Prices AI by the value it delivers",
+    "description": "Solving AI pricing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fac4fb7e32c7424e6eea88690415f386be2f5832.png",
     "website": "https://touchmark.ai",
     "location": "San Francisco, CA, USA",
@@ -15013,9 +15012,9 @@
     "tags": [
       "Education",
       "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "eLearning",
-      "Personalization",
-      "AI"
+      "Personalization"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -15304,6 +15303,38 @@
   },
   {
     "source": "yc",
+    "name": "Inkbox",
+    "description": "Give your AI agents email, phone, iMessage and an internet address",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f2e10120a7184c6f7b716b22ea7167e079fcbd86.png",
+    "website": "https://inkbox.ai",
+    "location": "Boston, MA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Developer Tools",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Agentcard",
     "description": "debit cards for AI agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aba1ff38c8593a6ce1ecdd01f1125330e298ac04.png",
@@ -15345,6 +15376,39 @@
       "Healthcare",
       "SaaS",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Praxis AI",
+    "description": "Turns every company into a data vendor ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9bc18b804ad9a5d92ef1db88e90491f98e0204a7.png",
+    "website": "https://www.praxisrobotics.io",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Hard Tech",
+      "Reinforcement Learning",
+      "Robotic Process Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17322,6 +17386,47 @@
         "name": "Edmundo Sanz-Gadea",
         "role": "CTO",
         "linkedin": "https://www.linkedin.com/in/edmundo-sg/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Rig",
+    "description": "Data infrastructure for business teams.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Toby Mather",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/tobymather/"
+      },
+      {
+        "name": "Jakub Langr",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/jakublangr/"
       }
     ],
     "social": {

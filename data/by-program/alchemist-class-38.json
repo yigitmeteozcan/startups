@@ -262,11 +262,11 @@
   },
   {
     "source": "alchemist",
-    "name": "DiffEnder",
-    "description": "Ship 2x faster with AI-Assisted Code Reviews",
+    "name": "Nomadic Drones",
+    "description": "Self-Recharging Drones Autonomously Inspecting Power Grids, Enabling Proactive Maintenance at Scale",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Munich, Germany",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -281,16 +281,46 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Kyle Smith",
+        "name": "Andreas Moldskred",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Connor Owen",
+        "name": "Lauritz Weil",
         "role": "",
         "linkedin": ""
       }
     ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Germany"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Warestack",
+    "description": "Engineering delivery governance for software teams",
+    "logo": "",
+    "website": "",
+    "location": "Delaware City, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 38",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -339,11 +369,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Warestack",
-    "description": "Engineering delivery governance for software teams",
+    "name": "DiffEnder",
+    "description": "Ship 2x faster with AI-Assisted Code Reviews",
     "logo": "",
     "website": "",
-    "location": "Delaware City, DE, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -356,7 +386,18 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kyle Smith",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Connor Owen",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -406,47 +447,6 @@
     },
     "extra": {
       "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Nomadic Drones",
-    "description": "Self-Recharging Drones Autonomously Inspecting Power Grids, Enabling Proactive Maintenance at Scale",
-    "logo": "",
-    "website": "",
-    "location": "Munich, Germany",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 38",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Andreas Moldskred",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Lauritz Weil",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Germany"
     }
   }
 ]
