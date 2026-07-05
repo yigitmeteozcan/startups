@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-04._
+_Auto-generated from the dataset on 2026-07-05._
 
 | Metric | Count |
 |---|---|
 | Total companies | **21,112** |
-| 🦄 Unicorns ($1B+) | **154** |
-| 💰 Exits | **2744** |
+| 🦄 Unicorns ($1B+) | **164** |
+| 💰 Exits | **2757** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -51,36 +51,36 @@ _Auto-generated from the dataset on 2026-07-04._
 ```
 
 ## Top countries
-1. **United States** — 6104
-2. **Japan** — 2511
-3. **Canada** — 598
-4. **United Kingdom** — 588
+1. **United States** — 5876
+2. **Japan** — 2639
+3. **United Kingdom** — 593
+4. **Canada** — 571
 5. **USA** — 396
-6. **Germany** — 266
-7. **Israel** — 191
-8. **Singapore** — 174
-9. **France** — 170
-10. **Mexico** — 147
-11. **India** — 123
-12. **Italy** — 110
-13. **South Korea** — 107
-14. **United Arab Emirates** — 103
+6. **Germany** — 237
+7. **Israel** — 195
+8. **Singapore** — 178
+9. **France** — 175
+10. **South Korea** — 146
+11. **Mexico** — 144
+12. **India** — 127
+13. **United Arab Emirates** — 111
+14. **Italy** — 104
 15. **UNITED STATES** — 102
 
 ## Top cities
-1. **Tokyo** — 2624
-2. **Silicon Valley** — 1836
+1. **Tokyo** — 2739
+2. **Silicon Valley** — 1598
 3. **New York City** — 398
-4. **London** — 297
+4. **London** — 310
 5. **San Francisco** — 176
 6. **Los Angeles** — 137
 7. **Boston** — 122
-8. **Alberta** — 120
-9. **Chicago** — 113
-10. **Seattle** — 110
+8. **Seattle** — 120
+9. **Paris** — 114
+10. **Chicago** — 113
 11. **Austin** — 109
-12. **Paris** — 109
-13. **Toronto** — 98
+12. **Toronto** — 98
+13. **Alberta** — 88
 14. **Brooklyn** — 84
 15. **Boulder** — 79
 
@@ -102,34 +102,34 @@ _Auto-generated from the dataset on 2026-07-04._
 15. **YC Summer 2023** — 219
 
 ## Top industries
-1. **Fintech** — 2453
+1. **Fintech** — 2465
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1405
 4. **Mobile** — 1141
 5. **Consumer** — 1050
-6. **Artificial Intelligence** — 900
-7. **AI** — 805
+6. **Artificial Intelligence** — 902
+7. **AI** — 804
 8. **Healthcare** — 800
 9. **Developer Tools** — 686
 10. **Infrastructure** — 663
-11. **Health** — 648
+11. **Health** — 633
 12. **Engineering, Product and Design** — 607
 13. **Industrials** — 577
 14. **B2B Software** — 543
-15. **Insurtech** — 531
-16. **Brand & Retail** — 490
-17. **Energy** — 467
-18. **Healthtech** — 440
-19. **Mobility & Physical AI** — 437
-20. **Supply Chain** — 385
+15. **Insurtech** — 450
+16. **Healthtech** — 440
+17. **Brand & Retail** — 416
+18. **Deeptech** — 413
+19. **Energy** — 390
+20. **Lifestyles of Health and Sustainability and wellness** — 384
 
 ## By region
-1. **Americas** — 5867
+1. **Americas** — 5600
 2. **United States of America** — 4476
-3. **Asia** — 2781
+3. **Asia** — 2967
 4. **Europe** — 1014
 5. **North America** — 903
-6. **EMEA** — 740
+6. **EMEA** — 812
 7. **Middle East & Africa** — 285
 8. **South Asia** — 264
 9. **United Kingdom** — 211
