@@ -47306,7 +47306,7 @@
     "description": "Precision-first therapies",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/91f103c5ea8ba96047f1ef891154ca0f0c8dea47.png",
     "website": "https://endpointhealth.com/",
-    "location": "Palo Alto, CA, USA; Remote",
+    "location": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -47633,7 +47633,7 @@
     "description": "Non-profit building open-source voting machines for US elections.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/23b57358e5b0a28777ac8011329e25a9eec76361.png",
     "website": "https://voting.works",
-    "location": "CA, USA; Remote",
+    "location": "Boston, MA, USA; CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -50040,7 +50040,7 @@
     "description": "Hearing aids that work in noisy places, like restaurants, using ML.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dfd0e481274d2ce049ec8ba610428a947f18b71a.png",
     "website": "http://audiofocus.io",
-    "location": "Oakland, CA, USA",
+    "location": "San Francisco, CA, USA; Oakland, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -74913,7 +74913,7 @@
     "description": "All-in-one re-entry & workforce development training platform",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9e401a97dde3f7f88aeada95e5e8968168ae0390.png",
     "website": "https://www.emergecareer.com/",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -75855,7 +75855,7 @@
   },
   {
     "source": "yc",
-    "name": "Scope3D (fka WeReno)",
+    "name": "Scope3D",
     "description": "AI-powered 3D building twins for design, renovation, and CapEx.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9829f1724ebbe405bb8d2b742deed7a21e5388c0.png",
     "website": "https://scope3d.com",
@@ -75865,9 +75865,9 @@
     "tags": [
       "Real Estate and Construction",
       "Construction",
-      "Artificial Intelligence",
       "Real Estate",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "year": 2022,
     "program": "YC Winter 2022",
@@ -81877,18 +81877,18 @@
   },
   {
     "source": "yc",
-    "name": "OpenBuilder",
-    "description": "The vibe coding platform where builders actually finish.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png",
-    "website": "https://theopenbuilder.com/",
-    "location": "San Francisco, CA, USA",
+    "name": "MSPilot",
+    "description": "Turn AI adoption into a recurring revenue line.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/af6da8314f45312f4d972daa5d200eefd67b2ec8.png",
+    "website": "https://mspilot.io",
+    "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
       "Generative AI",
-      "Open Source",
       "No-code",
+      "Infrastructure",
       "AI"
     ],
     "year": 2025,
@@ -85823,7 +85823,7 @@
     "description": "Shopify for vehicles",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba6801f432e8bfe7e4b8428c160da89816133ee9.png",
     "website": "https://www.ekho.com",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -110421,7 +110421,7 @@
     "description": "Robotic Training Data at Scale",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0e3e1067b2d9b0492706fd6cec1ccf4d50ee5c59.png",
     "website": "https://senseirobotics.com",
-    "location": "San Francisco, CA, USA",
+    "location": "Boston, MA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -112474,7 +112474,7 @@
     "description": "Helping America's businesses become employee owned",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b437f74d1da9b456b7203c06d57c8eae2c1fa858.png",
     "website": "https://villagelabs.app/",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -112575,6 +112575,39 @@
       "Artificial Intelligence",
       "SaaS",
       "Compliance"
+    ],
+    "year": 2024,
+    "program": "YC Summer 2024",
+    "programSlugs": [
+      "yc-summer-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Arva AI",
+    "description": "AI Agents to scale AML, KYB and KYC operations",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
+    "website": "https://www.arva.ai",
+    "location": "New York, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Compliance",
+      "Regtech"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -121184,17 +121217,18 @@
   },
   {
     "source": "yc",
-    "name": "YouLearn",
-    "description": "AI tutor for each student. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6853a397a8c949c1f81a95e63684f2b530461ce0.png",
-    "website": "https://www.youlearn.ai/",
+    "name": "Hanji",
+    "description": "Turn complex documents into AI-ready data",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9438999e1f2681be7ed1a32e6e245f0d3885b798.png",
+    "website": "https://hanji.dev/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Education",
-      "AI-Enhanced Learning",
-      "Artificial Intelligence"
+      "Infrastructure",
+      "Documents",
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -121857,7 +121891,7 @@
     "description": "Conversational robots for physical businesses.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
     "website": "https://habitrobotics.com",
-    "location": "El Segundo, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -121973,19 +122007,16 @@
   {
     "source": "yc",
     "name": "Morphik",
-    "description": "Open-source multimodal search for AI apps",
+    "description": "AI workers for Skilled Nursing and Senior Living Operations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1a260c523f9c222814023a16c76c6a2b22616cd5.png",
     "website": "https://morphik.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Search",
-      "Databases"
+      "Operations",
+      "Healthcare",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -122939,7 +122970,7 @@
     "description": "Autonomous Security Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
     "website": "https://www.mindfort.ai",
-    "location": "San Francisco, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -129576,7 +129607,7 @@
   {
     "source": "yc",
     "name": "Caddy",
-    "description": "Your partner for everyday work, lives in iMessage",
+    "description": "Your Personal AI for everyday work. Lives in your texts.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4a18ef62feeed4267cb16429f2de1d3e6abbb159.png",
     "website": "https://caddy.app/",
     "location": "New York City, NY, USA",
@@ -129585,6 +129616,7 @@
     "tags": [
       "Engineering, Product and Design",
       "Artificial Intelligence",
+      "Automation",
       "AI Assistant"
     ],
     "year": 2025,
@@ -137353,6 +137385,37 @@
   },
   {
     "source": "yc",
+    "name": "Tsenta",
+    "description": "We match you with jobs and apply automatically",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "website": "https://tsenta.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Copperlane",
     "description": "Agentic Mortgage Origination",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f6c74fb63a006045b5124e1949931ca658a4aafd.png",
@@ -137368,6 +137431,39 @@
     "program": "YC Winter 2026",
     "programSlugs": [
       "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Control Seat",
+    "description": "Control and Monitoring of Industrial Operations",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c9fbf6b23216653c383d7f0caea2def1b673a3a5.png",
+    "website": "https://www.controlseat.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Workflow Automation",
+      "Monitoring",
+      "Industrial"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -141049,7 +141145,7 @@
     "description": "ValCtrl is building the only intelligent prediction market",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1765dfae476622be6f06883ebedd8aeed86f8664.png",
     "website": "https://valctrl.com",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -142011,6 +142107,37 @@
   },
   {
     "source": "yc",
+    "name": "Apollo Atomics, Inc.",
+    "description": "We make the most compact nuclear reactors",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/16f6645d8ad61e91c9ab2ac0538b531424aa4cb7.png",
+    "website": "https://apolloatomics.com/",
+    "location": "Boston, MA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Energy"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "OpenWork",
     "description": "The open source alternative to Claude Cowork",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/79f117b2c0a8e5660f929ae9a8070ce8dd61d0ff.png",
@@ -142140,6 +142267,36 @@
     "subregion": "",
     "tags": [
       "Operations"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Pentagon",
+    "description": "The control plane for agent-native work.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/668fe720bcb2a436a1056efc2df9c0c22d5922cc.png",
+    "website": "https://pentagon.run",
+    "location": "Salt Lake City, UT, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -143202,7 +143359,7 @@
     "description": "Agents that automate research for institutional investors",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a85ed9b4f8c87d919e87f4a7838af368b02f0f94.png",
     "website": "https://cohesionplatform.com/",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -143572,6 +143729,37 @@
   },
   {
     "source": "yc",
+    "name": "Verdant",
+    "description": "AI-native land-use permit management for local gov",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4de79d62c0767417bcc285f4339875d51c92131b.png",
+    "website": "https://www.verdantapp.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Government",
+      "GovTech"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "GUILD",
     "description": "AI-Native Defense Contractor Reshaping the Defense Supply Chain",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
@@ -143872,7 +144060,43 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence"
+      "AIOps",
+      "Artificial Intelligence",
+      "Search",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "FlowManual",
+    "description": "AI for Construction's Back Office.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2f6665f1300dc258526280c5fbb72df3fbac9eb1.png",
+    "website": "https://flowmanual.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Real Estate and Construction",
+      "Construction",
+      "SaaS",
+      "Workflow Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -144108,6 +144332,38 @@
       "Insurance",
       "Machine Learning",
       "Climate",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "LATO",
+    "description": "Agent-native research and simulation platform for investors",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/78429e3a8867e93ea2df52fc422fdbd447685774.png",
+    "website": "https://www.latolabs.io/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Investing",
+      "Market Research",
       "AI"
     ],
     "year": 2026,
@@ -144501,6 +144757,37 @@
       "Banking as a Service",
       "Finance",
       "Neobank"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Justinian",
+    "description": "Builders of the first AI-native government affairs firm.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05d00b332191d31f20aa45f1bbec7b3fd866e683.png",
+    "website": "https://justinianai.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "GovTech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",

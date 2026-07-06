@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-05._
+_Auto-generated from the dataset on 2026-07-06._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,112** |
+| Total companies | **21,114** |
 | 🦄 Unicorns ($1B+) | **164** |
 | 💰 Exits | **2757** |
 | 🌱 B Corps | **29** |
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-07-05._
 
 | Source | Companies |
 |---|---|
-| yc | 6,006 |
+| yc | 6,007 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,243 |
-| antler | 1,233 |
+| antler | 1,234 |
 | alchemist | 518 |
 | ef | 499 |
 
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-05._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1447
 2025  ████████████████████░░░░░░░░ 1052
-2026  ███████████░░░░░░░░░░░░░░░░░ 564
+2026  ███████████░░░░░░░░░░░░░░░░░ 565
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-07-05._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1400
-3. **Antler** — 1233
+3. **Antler** — 1234
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -107,11 +107,11 @@ _Auto-generated from the dataset on 2026-07-05._
 3. **SaaS** — 1405
 4. **Mobile** — 1141
 5. **Consumer** — 1050
-6. **Artificial Intelligence** — 902
-7. **AI** — 804
-8. **Healthcare** — 800
+6. **Artificial Intelligence** — 900
+7. **AI** — 808
+8. **Healthcare** — 801
 9. **Developer Tools** — 686
-10. **Infrastructure** — 663
+10. **Infrastructure** — 664
 11. **Health** — 633
 12. **Engineering, Product and Design** — 607
 13. **Industrials** — 577
@@ -125,17 +125,17 @@ _Auto-generated from the dataset on 2026-07-05._
 
 ## By region
 1. **Americas** — 5600
-2. **United States of America** — 4476
+2. **United States of America** — 4485
 3. **Asia** — 2967
 4. **Europe** — 1014
 5. **North America** — 903
 6. **EMEA** — 812
 7. **Middle East & Africa** — 285
 8. **South Asia** — 264
-9. **United Kingdom** — 211
+9. **United Kingdom** — 210
 10. **India** — 202
 11. **Canada** — 196
-12. **Unspecified** — 179
+12. **Unspecified** — 172
 13. **Latin America** — 165
 14. **Middle East** — 159
 15. **Remote** — 112
