@@ -5,7 +5,7 @@
     "description": "Really secure file sending for big files.",
     "logo": "/company/thumb/missing.png",
     "website": "http://wireover.com",
-    "location": "Cambridge, MA, USA",
+    "location": "Boston, MA, USA; Cambridge, MA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -6972,18 +6972,17 @@
   {
     "source": "yc",
     "name": "Type",
-    "description": "The AI-first document editor.",
+    "description": "AI-native storytelling studio.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7055cc5668e741c817315243c78d24ed1bcdd9fd.png",
     "website": "https://type.ai",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
-      "Content",
-      "Artificial Intelligence",
       "SaaS",
-      "Productivity"
+      "Productivity",
+      "AI"
     ],
     "year": 2023,
     "program": "YC Winter 2023",
@@ -9080,7 +9079,7 @@
     "description": "The agentic operating system for modern system integrators.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e14ac50e2fa0724e7b0c94e9bc2c4cdac5732e9e.png",
     "website": "https://getauctor.com",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -9863,6 +9862,40 @@
   },
   {
     "source": "yc",
+    "name": "TrustAI",
+    "description": "Suggested cross-tool automations that run in one-click in background",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
+    "website": "https://auto.trytrust.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Productivity"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Syntropy",
     "description": "The agentic coding app for complex tasks.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e19b35070e7d07faf76c0c63ed399bd1286b5daf.png",
@@ -10360,6 +10393,40 @@
       "Productivity",
       "Artificial Intelligence",
       "Generative AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "screenpipe",
+    "description": "Turn your company’s daily work into automation",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
+    "website": "https://screenpipe.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Productivity",
+      "SaaS",
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -12475,88 +12542,6 @@
   },
   {
     "source": "500",
-    "name": "Atexto",
-    "description": "Provider of transcription services intended to offer speech-to-text transcriptions. The company's platform offers audio transcription service to train, test and tune voice machines, creating folders for each file or project and accessing live visibility about transcript progression and downloading them when they are ready, enabling companies to access their platform to load recording files to transcribe at any time and at a low cost.",
-    "logo": "",
-    "website": "https://ww.atexto.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools",
-      "Productivity"
-    ],
-    "year": 2017,
-    "program": "Lucha 8",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Esteban Gorupicz",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Otherinbox",
-    "description": "Provider of domain name services to Web users. The company provides email account hosting services to consumers. Additionally, it offers newsletters, social networking updates, and online purchase receipts and coupons organizing services.",
-    "logo": "",
-    "website": "https://otherinbox.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Productivity"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mike Subelsky",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Joshua Baer",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Friendly Data",
     "description": "Developer of a natural language interface designed to integrate human voice and text into queries to simplify sorting through data. The company's interface translates human language into SQL query and then returns data in JSON format, enabling businesses to increase user engagement and employees productivity by providing natural language interface for databases.",
     "logo": "",
@@ -12605,6 +12590,45 @@
   },
   {
     "source": "500",
+    "name": "Regulus",
+    "description": "Recruiting automation",
+    "logo": "",
+    "website": "https://regulus-technologies.co.jp",
+    "location": "Japan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Productivity",
+      "HR Tech"
+    ],
+    "year": 2017,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Max Koenig",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Japan"
+    }
+  },
+  {
+    "source": "500",
     "name": "Y&S",
     "description": "Developer of a beauty booking mobile application designed to discover and book shifts in beauty centers. The company's beauty booking mobile application helps users to find beauty salons, spa centers and parlours and it offers a database of available services by those salons with prices, enabling users to browse, find and book parlour slots with required services as per their preferable time.",
     "logo": "",
@@ -12632,6 +12656,127 @@
       },
       {
         "name": "Mijal Yelin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Deal Connect",
+    "description": "Developing a logistics optimization service for scrap metal industry",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e8bc9ef3-000b-49fb-8c63-be574e579258.png",
+    "website": "https://deal-connect.co.jp",
+    "location": "Japan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Productivity",
+      "Supply Chain"
+    ],
+    "year": 2018,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Takuya Tsuji",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Japan"
+    }
+  },
+  {
+    "source": "500",
+    "name": "CE 140",
+    "description": "Provider of database intended to help businesses discover, buy and use software. The company's database provides a platform for people to share information on productivity products and find what others are using, enabling companies to better discover software they should buy, with recommendations based on their current stack and what similar companies are using.",
+    "logo": "",
+    "website": "https://siftery.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2013,
+    "program": "GA 6",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ayan Barua",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Vamshi Mokshagundam",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Atexto",
+    "description": "Provider of transcription services intended to offer speech-to-text transcriptions. The company's platform offers audio transcription service to train, test and tune voice machines, creating folders for each file or project and accessing live visibility about transcript progression and downloading them when they are ready, enabling companies to access their platform to load recording files to transcribe at any time and at a low cost.",
+    "logo": "",
+    "website": "https://ww.atexto.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools",
+      "Productivity"
+    ],
+    "year": 2017,
+    "program": "Lucha 8",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Esteban Gorupicz",
         "role": "",
         "linkedin": ""
       }
@@ -12692,16 +12837,165 @@
   },
   {
     "source": "500",
-    "name": "Gantto",
-    "description": "Provider of project management tool which uses gantt chart for visual representation. The company's platform enables users to create their own charts and presentations to show project progress and management.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7c0775fd-753e-451a-8e43-298f6732a114.png",
-    "website": "https://gantto.com",
+    "name": "Peoplise",
+    "description": "Provider of a cloud-based recruitment platform designed to help HR practitioners to utilize digital and analytical technologies. The company's platform to help in talent acquisition process and create the better teams for business with lower turn-over, higher performance, enabling users to target the candidates via employer-branded advertisements and video-enabled digital screening.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/54d61cd1-3439-4113-a7fd-c7ab41db5f89.png",
+    "website": "https://www.peoplise.com",
+    "location": "Turkey",
+    "region": "Middle East & Africa",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Productivity"
+    ],
+    "year": 2017,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Cagatay Guney",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Guclu Ozenci",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mehmet Ali Ozenci",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alexandra Bilici",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Turkey"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Sunrise Atelier",
+    "description": "Provider of a free calender application for mobile devices. The company has developed a mobile application that is made for Google Calendar users, providing real-time synchronization, quick-add event tools, time-zone support and Facebook events and birthdays.",
+    "logo": "",
+    "website": "https://sunrise.am",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Productivity",
-      "HR Tech"
+      "Productivity"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jeremy Le Van",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Pierre Valade",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Don.na",
+    "description": "Developer of an artificial intelligence software. The company is the creator of Donna, a mobile personal assistant that anticipates individual needs.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9f1a3ec7-bb48-4345-8105-1516e64269d4.png",
+    "website": "https://incredible.io",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Arshad Tayyeb",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Scott San Filippo",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Spence Murray",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kevin Cheng",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "TaskDock",
+    "description": "Developer of a solution that helps integrate applications such as Word, Excel, PowerPoint, and the web with mobile devices.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cdc7d061-d66c-4970-9259-01e7aadad4c2.png",
+    "website": "https://versly.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
     ],
     "year": 2010,
     "program": "500 Global",
@@ -12714,7 +13008,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Federico Barbagli",
+        "name": "Erik Eccles",
         "role": "",
         "linkedin": ""
       }
@@ -12786,165 +13080,16 @@
   },
   {
     "source": "500",
-    "name": "Don.na",
-    "description": "Developer of an artificial intelligence software. The company is the creator of Donna, a mobile personal assistant that anticipates individual needs.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9f1a3ec7-bb48-4345-8105-1516e64269d4.png",
-    "website": "https://incredible.io",
+    "name": "Gantto",
+    "description": "Provider of project management tool which uses gantt chart for visual representation. The company's platform enables users to create their own charts and presentations to show project progress and management.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7c0775fd-753e-451a-8e43-298f6732a114.png",
+    "website": "https://gantto.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Productivity"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Arshad Tayyeb",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Scott San Filippo",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Spence Murray",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kevin Cheng",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Sunrise Atelier",
-    "description": "Provider of a free calender application for mobile devices. The company has developed a mobile application that is made for Google Calendar users, providing real-time synchronization, quick-add event tools, time-zone support and Facebook events and birthdays.",
-    "logo": "",
-    "website": "https://sunrise.am",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Productivity"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jeremy Le Van",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Pierre Valade",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Peoplise",
-    "description": "Provider of a cloud-based recruitment platform designed to help HR practitioners to utilize digital and analytical technologies. The company's platform to help in talent acquisition process and create the better teams for business with lower turn-over, higher performance, enabling users to target the candidates via employer-branded advertisements and video-enabled digital screening.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/54d61cd1-3439-4113-a7fd-c7ab41db5f89.png",
-    "website": "https://www.peoplise.com",
-    "location": "Turkey",
-    "region": "Middle East & Africa",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics",
-      "Productivity"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Cagatay Guney",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Guclu Ozenci",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mehmet Ali Ozenci",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Alexandra Bilici",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Turkey"
-    }
-  },
-  {
-    "source": "500",
-    "name": "TaskDock",
-    "description": "Developer of a solution that helps integrate applications such as Word, Excel, PowerPoint, and the web with mobile devices.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cdc7d061-d66c-4970-9259-01e7aadad4c2.png",
-    "website": "https://versly.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Productivity"
+      "Productivity",
+      "HR Tech"
     ],
     "year": 2010,
     "program": "500 Global",
@@ -12957,7 +13102,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Erik Eccles",
+        "name": "Federico Barbagli",
         "role": "",
         "linkedin": ""
       }
@@ -13022,96 +13167,18 @@
   },
   {
     "source": "500",
-    "name": "Regulus",
-    "description": "Recruiting automation",
+    "name": "Otherinbox",
+    "description": "Provider of domain name services to Web users. The company provides email account hosting services to consumers. Additionally, it offers newsletters, social networking updates, and online purchase receipts and coupons organizing services.",
     "logo": "",
-    "website": "https://regulus-technologies.co.jp",
-    "location": "Japan",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Productivity",
-      "HR Tech"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Max Koenig",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Deal Connect",
-    "description": "Developing a logistics optimization service for scrap metal industry",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e8bc9ef3-000b-49fb-8c63-be574e579258.png",
-    "website": "https://deal-connect.co.jp",
-    "location": "Japan",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Productivity",
-      "Supply Chain"
-    ],
-    "year": 2018,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Takuya Tsuji",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
-    }
-  },
-  {
-    "source": "500",
-    "name": "CE 140",
-    "description": "Provider of database intended to help businesses discover, buy and use software. The company's database provides a platform for people to share information on productivity products and find what others are using, enabling companies to better discover software they should buy, with recommendations based on their current stack and what similar companies are using.",
-    "logo": "",
-    "website": "https://siftery.com",
+    "website": "https://otherinbox.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Productivity"
     ],
-    "year": 2013,
-    "program": "GA 6",
+    "year": 2010,
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -13121,12 +13188,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Ayan Barua",
+        "name": "Mike Subelsky",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Vamshi Mokshagundam",
+        "name": "Joshua Baer",
         "role": "",
         "linkedin": ""
       }

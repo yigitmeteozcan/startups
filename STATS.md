@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-06._
+_Auto-generated from the dataset on 2026-07-07._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,114** |
+| Total companies | **21,119** |
 | 🦄 Unicorns ($1B+) | **164** |
 | 💰 Exits | **2757** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-07-06._
 
 | Source | Companies |
 |---|---|
-| yc | 6,007 |
+| yc | 6,012 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,243 |
@@ -37,22 +37,22 @@ _Auto-generated from the dataset on 2026-07-06._
 2014  █████████░░░░░░░░░░░░░░░░░░░ 470
 2015  █████████████░░░░░░░░░░░░░░░ 685
 2016  ██████████████░░░░░░░░░░░░░░ 724
-2017  ███████████████░░░░░░░░░░░░░ 816
+2017  ███████████████░░░░░░░░░░░░░ 817
 2018  ████████████████░░░░░░░░░░░░ 865
-2019  ███████████████████░░░░░░░░░ 1033
+2019  ███████████████████░░░░░░░░░ 1032
 2020  ████████████████████░░░░░░░░ 1053
 2021  ██████████████████████████░░ 1384
 2022  ███████████████████████████░ 1457
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1447
 2025  ████████████████████░░░░░░░░ 1052
-2026  ███████████░░░░░░░░░░░░░░░░░ 565
+2026  ███████████░░░░░░░░░░░░░░░░░ 570
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
 ## Top countries
 1. **United States** — 5876
-2. **Japan** — 2639
+2. **Japan** — 2640
 3. **United Kingdom** — 593
 4. **Canada** — 571
 5. **USA** — 396
@@ -61,7 +61,7 @@ _Auto-generated from the dataset on 2026-07-06._
 8. **Singapore** — 178
 9. **France** — 175
 10. **South Korea** — 146
-11. **Mexico** — 144
+11. **Mexico** — 143
 12. **India** — 127
 13. **United Arab Emirates** — 111
 14. **Italy** — 104
@@ -104,17 +104,17 @@ _Auto-generated from the dataset on 2026-07-06._
 ## Top industries
 1. **Fintech** — 2465
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1405
+3. **SaaS** — 1407
 4. **Mobile** — 1141
 5. **Consumer** — 1050
-6. **Artificial Intelligence** — 900
-7. **AI** — 808
+6. **Artificial Intelligence** — 902
+7. **AI** — 812
 8. **Healthcare** — 801
 9. **Developer Tools** — 686
-10. **Infrastructure** — 664
+10. **Infrastructure** — 665
 11. **Health** — 633
 12. **Engineering, Product and Design** — 607
-13. **Industrials** — 577
+13. **Industrials** — 579
 14. **B2B Software** — 543
 15. **Insurtech** — 450
 16. **Healthtech** — 440
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-07-06._
 
 ## By region
 1. **Americas** — 5600
-2. **United States of America** — 4485
+2. **United States of America** — 4489
 3. **Asia** — 2967
 4. **Europe** — 1014
 5. **North America** — 903
@@ -135,11 +135,11 @@ _Auto-generated from the dataset on 2026-07-06._
 9. **United Kingdom** — 210
 10. **India** — 202
 11. **Canada** — 196
-12. **Unspecified** — 172
-13. **Latin America** — 165
+12. **Unspecified** — 173
+13. **Latin America** — 164
 14. **Middle East** — 159
 15. **Remote** — 112
-16. **North Asia** — 110
+16. **North Asia** — 111
 17. **Africa** — 107
 18. **Southeast Asia** — 95
 19. **Mexico** — 80

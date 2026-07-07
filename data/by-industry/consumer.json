@@ -360,7 +360,7 @@
     "description": "Kid's first smartphone with web-based parental controls.",
     "logo": "/company/thumb/missing.png",
     "website": "http://kytephone.com",
-    "location": "Mountain View, CA, USA",
+    "location": "San Francisco, CA, USA; Mountain View, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -2979,7 +2979,7 @@
     "description": "Picurio is web-based photo sharing and photo management software.",
     "logo": "/company/thumb/missing.png",
     "website": "http://picurio.com",
-    "location": "Mountain View, CA, USA",
+    "location": "San Francisco, CA, USA; Mountain View, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -8253,7 +8253,7 @@
     "description": "Laundry & Dry Cleaning delivered.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8349634f7984abbf72ed4977ed18128b2cd5d9ad.png",
     "website": "https://cleanly.com",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -16374,7 +16374,7 @@
     "description": "Benefits for independent workers.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aa4c35a6f8f553f40faf34ff03bdf8c8fdf76754.png",
     "website": "http://www.catch.co",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -18707,7 +18707,7 @@
     "description": "Try on clothing online",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/95e53cdae8e9da9ed50d96445eabb8bd2cde68a6.png",
     "website": "https://drapr.com",
-    "location": "Berkeley, CA, USA",
+    "location": "San Francisco, CA, USA; Berkeley, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -20261,7 +20261,7 @@
     "name": "HomeBreeze",
     "description": "The fastest and easiest way to make home upgrades",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b9eb31df6605279d78436b260aecddc2b77c97ff.png",
-    "website": "https://www.homebreeze.com/",
+    "website": "https://www.homebreeze.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -24656,7 +24656,7 @@
     "description": "America's #1 Sports Trading App",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70b63d7ab273fdb7b71b48db89fe1042c817e72b.png",
     "website": "https://www.novig.com",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -25979,18 +25979,17 @@
   {
     "source": "yc",
     "name": "Type",
-    "description": "The AI-first document editor.",
+    "description": "AI-native storytelling studio.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7055cc5668e741c817315243c78d24ed1bcdd9fd.png",
     "website": "https://type.ai",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
-      "Content",
-      "Artificial Intelligence",
       "SaaS",
-      "Productivity"
+      "Productivity",
+      "AI"
     ],
     "year": 2023,
     "program": "YC Winter 2023",
@@ -27561,7 +27560,7 @@
     "description": "The integration layer for live events infrastructure ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/49d2b2fe60b70ec0fe7e8a8f8b9fc420d26c4098.png",
     "website": "https://crowdvolt.com/",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -35306,6 +35305,46 @@
   },
   {
     "source": "500",
+    "name": "CraftCoffee",
+    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
+    "website": "https://craftcoffee.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Direct to Consumer",
+      "Subscription",
+      "Consumer"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Michael Horn",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "Rebaja Tus Cuentas",
     "description": "Developer of a mortgage purchase software designed to provide financial advisory services for mortgage debts. The company's software provides a form for basic information about the current mortgage credit, helps in finding good bidders with the financial institution to close the terms of the transfer of the mortgage, enabling users to avail mortgage debt purchase without any hassle.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a433923-6059-4e38-9d1a-1c4710fb1007.png",
@@ -35335,46 +35374,6 @@
       },
       {
         "name": "Nicolas del Solar",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "CraftCoffee",
-    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
-    "website": "https://craftcoffee.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Direct to Consumer",
-      "Subscription",
-      "Consumer"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Michael Horn",
         "role": "",
         "linkedin": ""
       }
