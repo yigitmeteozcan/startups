@@ -6497,7 +6497,7 @@
     "description": "User research on autopilot. ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cbc38c395f4f32191dcaac60013ed038a0a40611.png",
     "website": "https://greatquestion.co",
-    "location": "Oakland, CA, USA; Remote",
+    "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -7245,14 +7245,15 @@
   {
     "source": "yc",
     "name": "Superwall",
-    "description": "Remotely configure every aspect of your mobile app's paywall",
+    "description": "Subscription infrastructure & paywall experimentation for mobile apps",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
     "website": "https://superwall.com",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
       "Payments"
     ],
@@ -10226,7 +10227,7 @@
     "description": "Generative AI Worlds",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dc5c128914787f1ad09c34983b9c40c1200da598.png",
     "website": "https://dream3d.com",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -15880,8 +15881,8 @@
     "tags": [
       "Engineering, Product and Design",
       "AIOps",
-      "Artificial Intelligence",
-      "Electronics"
+      "Electronics",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -19619,6 +19620,39 @@
       "Developer Tools",
       "SaaS",
       "Productivity"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "HyperProbe",
+    "description": "Your coding agent writes code. Now let it fix prod too.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e5b4807040a02ba35de45355e3c51fd115e82199.png",
+    "website": "http://hyperprobe.co",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "DevSecOps",
+      "SaaS"
     ],
     "year": 2026,
     "program": "YC Summer 2026",

@@ -1623,20 +1623,18 @@
   },
   {
     "source": "500",
-    "name": "AutoChilango",
-    "description": "Provider of legal and bureaucracy assistance for cars. The company engages in development of a mobile phone application that provides traffic alerts, insurance management and other vital information that helps people to manage everything that is necessary with having a car in Mexico City.",
+    "name": "BenRevo",
+    "description": "Provider of an online platform intended to sell and buy insurance products. The company's online platform automates manual tasks, helps to shop, compare and complete the purchasing of polices online, automates the paper heavy installation process, limiting redundant work and minimizing frequent errors and capture data and provide analytics, enabling the health insurance industry to get linked to the fragmented distribution process.",
     "logo": "",
-    "website": "https://autochilango.com",
+    "website": "https://benrevo.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech",
-      "InsurTech",
-      "Mobile"
+      "InsurTech"
     ],
-    "year": 2013,
-    "program": "Lucha 3",
+    "year": 2017,
+    "program": "GA 20",
     "programSlugs": [
       "500"
     ],
@@ -1646,12 +1644,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Rodrigo Ramirez",
+        "name": "Jimson Tharayil",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Guillermo Guadarrama",
+        "name": "Ojas Sitapara",
         "role": "",
         "linkedin": ""
       }
@@ -1766,18 +1764,20 @@
   },
   {
     "source": "500",
-    "name": "BenRevo",
-    "description": "Provider of an online platform intended to sell and buy insurance products. The company's online platform automates manual tasks, helps to shop, compare and complete the purchasing of polices online, automates the paper heavy installation process, limiting redundant work and minimizing frequent errors and capture data and provide analytics, enabling the health insurance industry to get linked to the fragmented distribution process.",
+    "name": "AutoChilango",
+    "description": "Provider of legal and bureaucracy assistance for cars. The company engages in development of a mobile phone application that provides traffic alerts, insurance management and other vital information that helps people to manage everything that is necessary with having a car in Mexico City.",
     "logo": "",
-    "website": "https://benrevo.com",
+    "website": "https://autochilango.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "InsurTech"
+      "FinTech",
+      "InsurTech",
+      "Mobile"
     ],
-    "year": 2017,
-    "program": "GA 20",
+    "year": 2013,
+    "program": "Lucha 3",
     "programSlugs": [
       "500"
     ],
@@ -1787,60 +1787,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jimson Tharayil",
+        "name": "Rodrigo Ramirez",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Ojas Sitapara",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Leaky",
-    "description": "Provider of insurance information. The company provides online insurance comparison quotes to compare prices across carriers.",
-    "logo": "",
-    "website": "https://leaky.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "InsurTech"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Geoffry Sumter",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jake Piccolo",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jason Traff",
+        "name": "Guillermo Guadarrama",
         "role": "",
         "linkedin": ""
       }
@@ -1901,6 +1853,54 @@
     },
     "extra": {
       "country": "Germany"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Leaky",
+    "description": "Provider of insurance information. The company provides online insurance comparison quotes to compare prices across carriers.",
+    "logo": "",
+    "website": "https://leaky.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "InsurTech"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Geoffry Sumter",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jake Piccolo",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jason Traff",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   }
 ]

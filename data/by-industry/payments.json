@@ -2221,7 +2221,7 @@
     "description": "Cash collection tech for B2B businesses",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cfbbee59804a41493e50bd030cff5d6d1bc8fc97.png",
     "website": "https://upflow.io/en/",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -3411,14 +3411,15 @@
   {
     "source": "yc",
     "name": "Superwall",
-    "description": "Remotely configure every aspect of your mobile app's paywall",
+    "description": "Subscription infrastructure & paywall experimentation for mobile apps",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
     "website": "https://superwall.com",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
       "Payments"
     ],
@@ -4576,18 +4577,18 @@
   {
     "source": "yc",
     "name": "Spade",
-    "description": "Enriched transaction data you can build on",
+    "description": "Spade is the data and AI platform for modern finance.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dc25342edef4b9f6942587780f3a5d96fae04f9c.png",
     "website": "https://www.spade.com",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Fintech",
+      "Artificial Intelligence",
       "Machine Learning",
       "Payments",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "year": 2022,
     "program": "YC Winter 2022",
@@ -4938,10 +4939,10 @@
   {
     "source": "yc",
     "name": "Sunlight",
-    "description": "The Universal Card-On-File API",
+    "description": "The intelligence and execution layer for B2B card payments.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/31758f22583088dc4bc585ae2c372fbd95e94ea0.png",
     "website": "https://www.sunlightapi.com/",
-    "location": "New York, NY, USA; Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -8163,17 +8164,17 @@
   },
   {
     "source": "500",
-    "name": "Giftcard Zen",
-    "description": "Buyer and seller of gift cards from retailers online. The company buys gift cards from consumers and businesses and sells them to consumers and businesses at a discount of face value.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bf5bbb56-9e57-4915-831f-87e95ff07221.png",
-    "website": "https://giftcardzen.com",
+    "name": "Gyft",
+    "description": "Developer of a digital gift card wallet application. The company offers a platform for managing digital gift cards from mobile phones by allowing its users to upload, buy and redeem gift cards in stores or online.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f5999366-2fab-4b3f-8ccf-26bd2f7c3641.png",
+    "website": "https://gyft.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Payments"
     ],
-    "year": 2015,
+    "year": 2012,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -8182,7 +8183,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "CJ MacDonald",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mark Levitt",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Vinny Lingham",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8195,18 +8212,18 @@
   },
   {
     "source": "500",
-    "name": "WayPay",
-    "description": "Operator of a payments platform intended to simplify business payments. The company's platform connects any accounts payable system and automatically reconciles payments sent to local or international suppliers from any combination of bank and credit card accounts, enabling small and medium enterprises to easily, efficiently and cost effectively make payments for their business expenses.",
-    "logo": "",
-    "website": "https://waypay.ca",
-    "location": "Canada",
-    "region": "Canada",
+    "name": "Pokkt",
+    "description": "Provider of a mobile video advertising platform intended to serve the application developers and publishers. The company's platform offers to make free purchases through multiple alternative monetization tools such as watching videos, subscribing to services, installing applications and participation in surveys, enabling clients to get connected with the right audiences.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/75119f88-6e1f-4a2f-baa9-101bf02e4793.png",
+    "website": "https://pokkt.com",
+    "location": "Singapore",
+    "region": "South Asia",
     "subregion": "",
     "tags": [
       "Payments"
     ],
-    "year": 2017,
-    "program": "GA 22",
+    "year": 2013,
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -8216,17 +8233,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Robert Bast",
+        "name": "Vaibhav Odhekar",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Roberto Ramesar",
+        "name": "Manish Tewari",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Hootan Arbab",
+        "name": "Sharad Ingule",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rohit Sharma",
         "role": "",
         "linkedin": ""
       }
@@ -8238,7 +8260,139 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Canada"
+      "country": "Singapore"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Payment24",
+    "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
+    "website": "https://payment24.co",
+    "location": "South Africa",
+    "region": "Africa",
+    "subregion": "",
+    "tags": [
+      "CloudTech",
+      "FinTech",
+      "Payments",
+      "Mobility"
+    ],
+    "year": 2018,
+    "program": "GA 22",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Janko Milunovic",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Nolan Daniel",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Shadab Rahil",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "South Africa"
+    }
+  },
+  {
+    "source": "500",
+    "name": "ShopGo",
+    "description": "Provider of software platform designed to create e-commerce Websites. The company's software platform provides local support to its merchants and their changing needs at every stage, enabling merchants to succeed in their online business.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/017c6531-a0a4-4b90-a3b6-81832b6c42e1.png",
+    "website": "https://shopgo.me",
+    "location": "British Virgin Islands",
+    "region": "Africa",
+    "subregion": "",
+    "tags": [
+      "Payments"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mohanad Ghashim",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "British Virgin Islands"
+    }
+  },
+  {
+    "source": "500",
+    "name": "WePay",
+    "description": "Provider of an online payment platform designed to accept and process instant payments. The company's online payment platform delivers payments-as-a-service APIs for simple onboarding and activation of payments, without impacting the user experience, enabling enterprises to process instant onboarding and payments without friction or fraud.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b2bd88e-0976-43bc-b6db-dfc3695950a8.png",
+    "website": "https://wepay.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Payments"
+    ],
+    "year": 2009,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Bill Clerico",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Richard Aberman",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   },
   {
@@ -8282,6 +8436,54 @@
     },
     "extra": {
       "country": "Singapore"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Papaya",
+    "description": "Provider of an online platform to sell movie tickets. The company offers a mobile application to sell tickets, while aggregating movie-related content and providing showtime information through its network of sites.",
+    "logo": "",
+    "website": "https://www.cinepapaya.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Payments"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Gary Urteaga",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Manuel Olguin",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Inma Cañadas",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   },
   {
@@ -8411,17 +8613,17 @@
   },
   {
     "source": "500",
-    "name": "WePay",
-    "description": "Provider of an online payment platform designed to accept and process instant payments. The company's online payment platform delivers payments-as-a-service APIs for simple onboarding and activation of payments, without impacting the user experience, enabling enterprises to process instant onboarding and payments without friction or fraud.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b2bd88e-0976-43bc-b6db-dfc3695950a8.png",
-    "website": "https://wepay.com",
+    "name": "Giftcard Zen",
+    "description": "Buyer and seller of gift cards from retailers online. The company buys gift cards from consumers and businesses and sells them to consumers and businesses at a discount of face value.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bf5bbb56-9e57-4915-831f-87e95ff07221.png",
+    "website": "https://giftcardzen.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Payments"
     ],
-    "year": 2009,
+    "year": 2015,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -8430,18 +8632,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Bill Clerico",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Richard Aberman",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8497,18 +8688,18 @@
   },
   {
     "source": "500",
-    "name": "Papaya",
-    "description": "Provider of an online platform to sell movie tickets. The company offers a mobile application to sell tickets, while aggregating movie-related content and providing showtime information through its network of sites.",
+    "name": "WayPay",
+    "description": "Operator of a payments platform intended to simplify business payments. The company's platform connects any accounts payable system and automatically reconciles payments sent to local or international suppliers from any combination of bank and credit card accounts, enabling small and medium enterprises to easily, efficiently and cost effectively make payments for their business expenses.",
     "logo": "",
-    "website": "https://www.cinepapaya.com",
-    "location": "United States",
-    "region": "North America",
+    "website": "https://waypay.ca",
+    "location": "Canada",
+    "region": "Canada",
     "subregion": "",
     "tags": [
       "Payments"
     ],
-    "year": 2012,
-    "program": "500 Global",
+    "year": 2017,
+    "program": "GA 22",
     "programSlugs": [
       "500"
     ],
@@ -8518,17 +8709,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Gary Urteaga",
+        "name": "Robert Bast",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Manuel Olguin",
+        "name": "Roberto Ramesar",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Inma Cañadas",
+        "name": "Hootan Arbab",
         "role": "",
         "linkedin": ""
       }
@@ -8540,7 +8731,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
+      "country": "Canada"
     }
   },
   {
@@ -8705,196 +8896,6 @@
     },
     "extra": {
       "country": "Singapore"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Pokkt",
-    "description": "Provider of a mobile video advertising platform intended to serve the application developers and publishers. The company's platform offers to make free purchases through multiple alternative monetization tools such as watching videos, subscribing to services, installing applications and participation in surveys, enabling clients to get connected with the right audiences.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/75119f88-6e1f-4a2f-baa9-101bf02e4793.png",
-    "website": "https://pokkt.com",
-    "location": "Singapore",
-    "region": "South Asia",
-    "subregion": "",
-    "tags": [
-      "Payments"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Vaibhav Odhekar",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Manish Tewari",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sharad Ingule",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Rohit Sharma",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Singapore"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Payment24",
-    "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
-    "website": "https://payment24.co",
-    "location": "South Africa",
-    "region": "Africa",
-    "subregion": "",
-    "tags": [
-      "CloudTech",
-      "FinTech",
-      "Payments",
-      "Mobility"
-    ],
-    "year": 2018,
-    "program": "GA 22",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Janko Milunovic",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Nolan Daniel",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Shadab Rahil",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "South Africa"
-    }
-  },
-  {
-    "source": "500",
-    "name": "ShopGo",
-    "description": "Provider of software platform designed to create e-commerce Websites. The company's software platform provides local support to its merchants and their changing needs at every stage, enabling merchants to succeed in their online business.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/017c6531-a0a4-4b90-a3b6-81832b6c42e1.png",
-    "website": "https://shopgo.me",
-    "location": "British Virgin Islands",
-    "region": "Africa",
-    "subregion": "",
-    "tags": [
-      "Payments"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mohanad Ghashim",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "British Virgin Islands"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Gyft",
-    "description": "Developer of a digital gift card wallet application. The company offers a platform for managing digital gift cards from mobile phones by allowing its users to upload, buy and redeem gift cards in stores or online.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f5999366-2fab-4b3f-8ccf-26bd2f7c3641.png",
-    "website": "https://gyft.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Payments"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "CJ MacDonald",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mark Levitt",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Vinny Lingham",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
     }
   }
 ]

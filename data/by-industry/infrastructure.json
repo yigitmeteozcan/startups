@@ -9730,7 +9730,7 @@
     "description": "Build and grow iOS, Android, and Web apps.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5f06cb2d2d57acd42365dbecb2d7b1f3fbd60904.png",
     "website": "http://firebase.com",
-    "location": "Mountain View, CA, USA",
+    "location": "San Francisco, CA, USA; Mountain View, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -17242,7 +17242,7 @@
   {
     "source": "yc",
     "name": "Oway",
-    "description": "AI Infrastructure for America’s Empty Truck Space",
+    "description": "The OS for physical commerce. Indexing America's industrial…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
     "website": "https://www.shipoway.com",
     "location": "San Francisco, CA, USA",
@@ -19634,7 +19634,6 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "AI-Enhanced Learning",
       "Artificial Intelligence",
       "Workflow Automation",
       "Productivity"
@@ -19780,14 +19779,17 @@
   {
     "source": "yc",
     "name": "Piris Labs",
-    "description": "Inference at Light Speed",
+    "description": "The Networking Layer of AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
     "website": "https://pirislabs.io/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure"
+      "Infrastructure",
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Hardware"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -20988,6 +20990,36 @@
   },
   {
     "source": "yc",
+    "name": "Rindler",
+    "description": "Middleware making websites readable for AI agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
+    "website": "https://rindler.ai",
+    "location": "Boston, MA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "RightNow",
     "description": "Enabling Model-Hardware Co-Design at Scale",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/59b2e02a314037738d9f32192f83e8bd442be246.png",
@@ -21030,6 +21062,39 @@
       "Machine Learning",
       "Neurotechnology",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Speko",
+    "description": "OpenRouter for voice AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/55b8df2a769dbcfc902b7c071a8bc334a7eb10dd.png",
+    "website": "https://speko.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Conversational AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -22150,18 +22215,18 @@
   },
   {
     "source": "500",
-    "name": "OneKitchen",
-    "description": "Provider of shared kitchen solutions. The company provides tailored spaces for dark kitchens to operate and allows chefs to launch and sell on delivery platforms within days, allowing chefs and restaurant owners to launch their new restaurant from scratch, fine-tune their menu, optimize their operations and maximize their sales.",
-    "logo": "",
-    "website": "https://joinonekitchen.com",
-    "location": "British Virgin Islands",
-    "region": "Africa",
+    "name": "Salido",
+    "description": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a33858b2-346a-45e2-bec3-e406b8d74dad.png",
+    "website": "https://salido.com",
+    "location": "United States",
+    "region": "North America",
     "subregion": "",
     "tags": [
-      "Content",
+      "Data & Analytics",
       "Infrastructure"
     ],
-    "year": 2019,
+    "year": 2014,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -22172,7 +22237,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Majed Abukhater",
+        "name": "Casey Cohen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "David Guilfoyle",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matthew Gaines",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Shu Chowdhury",
         "role": "",
         "linkedin": ""
       }
@@ -22184,7 +22264,45 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "British Virgin Islands"
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Shortcut",
+    "description": "Developer of an online platform for wholesalers to manage online orders. The company provides a platform that enables any wholesaler to manage B2B transactions, inventory and create digital catalogs.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bc4e169-72c8-4ab6-a471-e24524302770.png",
+    "website": "https://www.autonomous.ai",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure"
+    ],
+    "year": 2013,
+    "program": "GA 7",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Duy Huynh",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   },
   {
@@ -22234,6 +22352,45 @@
     },
     "extra": {
       "country": "Mexico"
+    }
+  },
+  {
+    "source": "500",
+    "name": "OneKitchen",
+    "description": "Provider of shared kitchen solutions. The company provides tailored spaces for dark kitchens to operate and allows chefs to launch and sell on delivery platforms within days, allowing chefs and restaurant owners to launch their new restaurant from scratch, fine-tune their menu, optimize their operations and maximize their sales.",
+    "logo": "",
+    "website": "https://joinonekitchen.com",
+    "location": "British Virgin Islands",
+    "region": "Africa",
+    "subregion": "",
+    "tags": [
+      "Content",
+      "Infrastructure"
+    ],
+    "year": 2019,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Majed Abukhater",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "British Virgin Islands"
     }
   },
   {
@@ -22315,18 +22472,18 @@
   },
   {
     "source": "500",
-    "name": "Salido",
-    "description": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a33858b2-346a-45e2-bec3-e406b8d74dad.png",
-    "website": "https://salido.com",
+    "name": "Silk Labs",
+    "description": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
+    "logo": "",
+    "website": "https://silklabs.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Data & Analytics",
+      "Developer Tools",
       "Infrastructure"
     ],
-    "year": 2014,
+    "year": 2015,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -22337,22 +22494,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Casey Cohen",
+        "name": "Moran Altarac",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "David Guilfoyle",
+        "name": "Andreas Gal",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Matthew Gaines",
+        "name": "Michael Vines",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Shu Chowdhury",
+        "name": "Sean Gallavan",
         "role": "",
         "linkedin": ""
       }
@@ -22397,98 +22554,6 @@
       },
       {
         "name": "Raad Mobrem",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Shortcut",
-    "description": "Developer of an online platform for wholesalers to manage online orders. The company provides a platform that enables any wholesaler to manage B2B transactions, inventory and create digital catalogs.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bc4e169-72c8-4ab6-a471-e24524302770.png",
-    "website": "https://www.autonomous.ai",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Infrastructure"
-    ],
-    "year": 2013,
-    "program": "GA 7",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Duy Huynh",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Silk Labs",
-    "description": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
-    "logo": "",
-    "website": "https://silklabs.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools",
-      "Infrastructure"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Moran Altarac",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andreas Gal",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Michael Vines",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sean Gallavan",
         "role": "",
         "linkedin": ""
       }

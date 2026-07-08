@@ -5262,7 +5262,7 @@
     "description": "Finder for the Cloud",
     "logo": "/company/thumb/missing.png",
     "website": "http://collections.me",
-    "location": "Mountain View, CA, USA",
+    "location": "San Francisco, CA, USA; Mountain View, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -24461,7 +24461,7 @@
     "description": "Create sites with just a prompt",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05027c3d0bb4e88dcc6030b97f26a6620fcc55f4.png",
     "website": "https://makeasite.io",
-    "location": "New York, NY, USA",
+    "location": "Orlando, FL, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -29123,7 +29123,7 @@
     "description": "A vintage marketplace curated by AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ffa47e801d15b5397dd78718f7ca873d429e85a4.png",
     "website": "https://www.retrofit.shop/",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -29606,7 +29606,7 @@
     "source": "yc",
     "name": "Pingo AI",
     "description": "AI companion that helps you learn languages",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8c01715a01a6f73433d324a587d34bafc2adf824.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/df5e302ee1aa2a614f8eb92d274a19d030ff6c3f.png",
     "website": "https://pingo.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -30287,7 +30287,7 @@
   {
     "source": "yc",
     "name": "Flick",
-    "description": "Figma + Cursor, for AI Filmmaking",
+    "description": "We Handle AI. You Direct Films.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9f96ddb243962497e60383676b01ce3b0cd4cb76.png",
     "website": "https://flick.art",
     "location": "San Francisco, CA, USA",
@@ -30295,7 +30295,9 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Content"
+      "Content",
+      "Artificial Intelligence",
+      "Creator Economy"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -31206,7 +31208,7 @@
     "description": "Create & play AI games with friends",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ff1807225bc4aea4a50ef4d5315e963925c04afd.png",
     "website": "https://pops.fyi",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -35305,19 +35307,17 @@
   },
   {
     "source": "500",
-    "name": "CraftCoffee",
-    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
-    "website": "https://craftcoffee.com",
-    "location": "United States",
-    "region": "North America",
+    "name": "Clarity",
+    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
+    "website": "https://clarity.fm",
+    "location": "Canada",
+    "region": "Canada",
     "subregion": "",
     "tags": [
-      "Direct to Consumer",
-      "Subscription",
       "Consumer"
     ],
-    "year": 2011,
+    "year": 2012,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -35328,7 +35328,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Michael Horn",
+        "name": "Dan Martell",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike Wu",
         "role": "",
         "linkedin": ""
       }
@@ -35340,7 +35345,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
+      "country": "Canada"
     }
   },
   {
@@ -35390,17 +35395,19 @@
   },
   {
     "source": "500",
-    "name": "Clarity",
-    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
-    "website": "https://clarity.fm",
-    "location": "Canada",
-    "region": "Canada",
+    "name": "CraftCoffee",
+    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
+    "website": "https://craftcoffee.com",
+    "location": "United States",
+    "region": "North America",
     "subregion": "",
     "tags": [
+      "Direct to Consumer",
+      "Subscription",
       "Consumer"
     ],
-    "year": 2012,
+    "year": 2011,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -35411,12 +35418,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Dan Martell",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mike Wu",
+        "name": "Michael Horn",
         "role": "",
         "linkedin": ""
       }
@@ -35428,7 +35430,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Canada"
+      "country": "United States"
     }
   }
 ]
