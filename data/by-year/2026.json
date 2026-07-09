@@ -6893,7 +6893,7 @@
     "source": "yc",
     "name": "Byteport",
     "description": "Global upload acceleration for 1GB-100TB files.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/462f2cba50e8812c9f84433bea456da30ecab7fa.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/515fbb960faad853499593966f0f18335db6e845.png",
     "website": "https://byteport.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -7821,7 +7821,7 @@
   {
     "source": "yc",
     "name": "Sila",
-    "description": "AI Work Messaging & Collaboration Platform",
+    "description": "Agent-Native Messaging Platform",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4d42a1203f89ac735d99407d8bc5984bd464fe7d.png",
     "website": "https://silahq.com",
     "location": "New York City, NY, USA",
@@ -8848,6 +8848,38 @@
     "program": "YC Winter 2026",
     "programSlugs": [
       "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Litmus",
+    "description": "Run an async work trial on every engineer you interview.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e62b680ea89cfd7e8d3a4f0cf83c2934f57a0f3a.png",
+    "website": "https://litmushiring.com/",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Recruiting and Talent",
+      "Recruiting",
+      "Talent Acquisition"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -10773,7 +10805,7 @@
   {
     "source": "yc",
     "name": "Drip",
-    "description": "AI that books meetings for you",
+    "description": "Never miss a lead",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6a200f7dd92eb8502bc67be24771887da99cbcfb.png",
     "website": "https://usedrip.ai",
     "location": "San Francisco, CA, USA",
@@ -14006,7 +14038,12 @@
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Biotech",
+      "Automation"
+    ],
     "year": 2026,
     "program": "YC Spring 2026",
     "programSlugs": [
@@ -14301,14 +14338,16 @@
   {
     "source": "yc",
     "name": "Rindler",
-    "description": "Middleware making websites readable for AI agents",
+    "description": "The translation layer between AI agents and the web",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
     "website": "https://rindler.ai",
     "location": "Boston, MA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure"
+      "Infrastructure",
+      "Workflow Automation",
+      "APIs"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -14402,6 +14441,41 @@
     "program": "YC Fall 2026",
     "programSlugs": [
       "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Torus",
+    "description": "Legora for physical engineering firms",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/79a2f7b5a083998db3fcc9309c0435a2ccb05016.png",
+    "website": "https://www.usetorus.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Artificial Intelligence",
+      "Construction",
+      "Energy",
+      "Enterprise Software",
+      "Industrial"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -14806,7 +14880,7 @@
   {
     "source": "yc",
     "name": "Rise Reforming",
-    "description": "We turn waste gases into valuable, supply-secure liquid chemicals ",
+    "description": "We turn waste gases into valuable supply-secure chemicals ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b908857ac82ef0d2a3b793f89fa198298587f8a.png",
     "website": "https://rise-reforming.com/home",
     "location": "Chicago, IL, USA",
@@ -14880,7 +14954,7 @@
     "description": "AI-Native Defense Contractor Reshaping the Defense Supply Chain",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
     "website": "https://www.guildai.co",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -15135,7 +15209,7 @@
   {
     "source": "yc",
     "name": "screenpipe",
-    "description": "Help your team find the work worth automating",
+    "description": "Capture how you work and turn that into agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
     "website": "https://screenpipe.com",
     "location": "San Francisco, CA, USA",
@@ -15143,10 +15217,10 @@
     "subregion": "",
     "tags": [
       "Productivity",
+      "Artificial Intelligence",
       "SaaS",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -15866,6 +15940,38 @@
   },
   {
     "source": "yc",
+    "name": "Agnost AI",
+    "description": "Product analytics for teams building conversational agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8bf16355f4f9b0a78a4a26f6f533377d295877d5.png",
+    "website": "https://agnost.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Analytics",
+      "Developer Tools",
+      "Monitoring"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Care GP",
     "description": "AI agents to run primary healthcare operations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3f871fa8c32b501e71ef06d881893d564e003fbd.png",
@@ -16160,7 +16266,7 @@
     "source": "yc",
     "name": "Petrarch",
     "description": "Market maker for specialized data assets",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7b5debb8ea62766300bda39dac40230ec792801c.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/091a0f9893d5a0f66b65399660fc8041716acd4e.png",
     "website": "https://petrarch.co/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -16293,7 +16399,7 @@
   {
     "source": "yc",
     "name": "Coasty",
-    "description": "Building the future of knowledge work, RPA and SOPs using computer use",
+    "description": "The best computer use. We will kill RPA.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/49c533e34b6c887207ac5683dd8dfab22709a458.png",
     "website": "http://coasty.ai/",
     "location": "San Francisco, CA, USA",
@@ -16406,6 +16512,37 @@
     "program": "YC Fall 2026",
     "programSlugs": [
       "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Conifer",
+    "description": "Local-first least cost routing system to reduce token spend",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1cd2adb8270db80170ab62b4140817892372538a.png",
+    "website": "https://www.conifer.build",
+    "location": "",
+    "region": "Unspecified",
+    "subregion": "",
+    "tags": [
+      "Security",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -17555,6 +17692,16 @@
     "founders": [
       {
         "name": "Mohamad Mounir",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ahmed Ehab",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mooaz Salem",
         "role": "",
         "linkedin": ""
       }

@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-08._
+_Auto-generated from the dataset on 2026-07-09._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,127** |
+| Total companies | **21,131** |
 | 🦄 Unicorns ($1B+) | **159** |
 | 💰 Exits | **2727** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-07-08._
 
 | Source | Companies |
 |---|---|
-| yc | 6,020 |
+| yc | 6,024 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,243 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-08._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1447
 2025  ████████████████████░░░░░░░░ 1051
-2026  ███████████░░░░░░░░░░░░░░░░░ 579
+2026  ███████████░░░░░░░░░░░░░░░░░ 583
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -104,20 +104,20 @@ _Auto-generated from the dataset on 2026-07-08._
 ## Top industries
 1. **Fintech** — 2488
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1410
+3. **SaaS** — 1411
 4. **Mobile** — 1141
 5. **Consumer** — 1050
-6. **Artificial Intelligence** — 908
-7. **AI** — 813
+6. **Artificial Intelligence** — 909
+7. **AI** — 815
 8. **Healthcare** — 802
-9. **Developer Tools** — 688
+9. **Developer Tools** — 689
 10. **Infrastructure** — 667
 11. **Health** — 632
 12. **Engineering, Product and Design** — 608
-13. **Industrials** — 580
+13. **Industrials** — 581
 14. **B2B Software** — 544
 15. **Insurtech** — 520
-16. **Energy** — 492
+16. **Energy** — 493
 17. **Deeptech** — 475
 18. **Brand & Retail** — 471
 19. **Healthtech** — 440
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-07-08._
 
 ## By region
 1. **Americas** — 5836
-2. **United States of America** — 4498
+2. **United States of America** — 4502
 3. **Asia** — 2678
 4. **Europe** — 1014
 5. **North America** — 903
@@ -133,13 +133,13 @@ _Auto-generated from the dataset on 2026-07-08._
 7. **Middle East & Africa** — 285
 8. **South Asia** — 264
 9. **United Kingdom** — 210
-10. **India** — 202
+10. **India** — 203
 11. **Canada** — 197
-12. **Unspecified** — 171
+12. **Unspecified** — 172
 13. **Latin America** — 164
 14. **Middle East** — 159
-15. **Remote** — 112
-16. **North Asia** — 111
+15. **North Asia** — 111
+16. **Remote** — 110
 17. **Africa** — 107
 18. **Southeast Asia** — 95
 19. **Mexico** — 80
