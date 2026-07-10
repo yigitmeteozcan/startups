@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-09._
+_Auto-generated from the dataset on 2026-07-10._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,131** |
+| Total companies | **21,137** |
 | 🦄 Unicorns ($1B+) | **159** |
 | 💰 Exits | **2727** |
 | 🌱 B Corps | **29** |
@@ -14,10 +14,10 @@ _Auto-generated from the dataset on 2026-07-09._
 
 | Source | Companies |
 |---|---|
-| yc | 6,024 |
+| yc | 6,031 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
-| 500 | 2,243 |
+| 500 | 2,242 |
 | antler | 1,234 |
 | alchemist | 518 |
 | ef | 499 |
@@ -43,10 +43,10 @@ _Auto-generated from the dataset on 2026-07-09._
 2020  ████████████████████░░░░░░░░ 1053
 2021  ██████████████████████████░░ 1384
 2022  ███████████████████████████░ 1457
-2023  ████████████████████████████ 1493
+2023  ████████████████████████████ 1492
 2024  ███████████████████████████░ 1447
-2025  ████████████████████░░░░░░░░ 1051
-2026  ███████████░░░░░░░░░░░░░░░░░ 583
+2025  ████████████████████░░░░░░░░ 1050
+2026  ███████████░░░░░░░░░░░░░░░░░ 591
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -104,20 +104,20 @@ _Auto-generated from the dataset on 2026-07-09._
 ## Top industries
 1. **Fintech** — 2488
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1411
+3. **SaaS** — 1412
 4. **Mobile** — 1141
-5. **Consumer** — 1050
-6. **Artificial Intelligence** — 909
-7. **AI** — 815
+5. **Consumer** — 1051
+6. **Artificial Intelligence** — 911
+7. **AI** — 818
 8. **Healthcare** — 802
-9. **Developer Tools** — 689
+9. **Developer Tools** — 690
 10. **Infrastructure** — 667
 11. **Health** — 632
-12. **Engineering, Product and Design** — 608
-13. **Industrials** — 581
+12. **Engineering, Product and Design** — 609
+13. **Industrials** — 585
 14. **B2B Software** — 544
 15. **Insurtech** — 520
-16. **Energy** — 493
+16. **Energy** — 494
 17. **Deeptech** — 475
 18. **Brand & Retail** — 471
 19. **Healthtech** — 440
@@ -125,17 +125,17 @@ _Auto-generated from the dataset on 2026-07-09._
 
 ## By region
 1. **Americas** — 5836
-2. **United States of America** — 4502
+2. **United States of America** — 4508
 3. **Asia** — 2678
 4. **Europe** — 1014
 5. **North America** — 903
 6. **EMEA** — 878
-7. **Middle East & Africa** — 285
+7. **Middle East & Africa** — 284
 8. **South Asia** — 264
 9. **United Kingdom** — 210
 10. **India** — 203
 11. **Canada** — 197
-12. **Unspecified** — 172
+12. **Unspecified** — 169
 13. **Latin America** — 164
 14. **Middle East** — 159
 15. **North Asia** — 111
@@ -145,10 +145,10 @@ _Auto-generated from the dataset on 2026-07-09._
 19. **Mexico** — 80
 20. **Oceania** — 73
 21. **Brazil** — 67
-22. **France** — 53
+22. **France** — 55
 23. **Nigeria** — 51
 24. **Singapore** — 49
-25. **Germany** — 46
+25. **Germany** — 47
 26. **Indonesia** — 30
 27. **Colombia** — 29
 28. **Israel** — 28
@@ -158,8 +158,8 @@ _Auto-generated from the dataset on 2026-07-09._
 32. **Denmark** — 13
 33. **Australia & NZ** — 13
 34. **Netherlands** — 12
-35. **Egypt** — 11
-36. **Australia** — 11
+35. **Australia** — 12
+36. **Egypt** — 11
 37. **Sweden** — 10
 38. **United Arab Emirates** — 10
 39. **Pakistan** — 10

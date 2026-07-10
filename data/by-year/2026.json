@@ -4730,14 +4730,15 @@
   {
     "source": "yc",
     "name": "Skillsync",
-    "description": "Hire engineers based on what they’ve shipped",
+    "description": "Discord for building with agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9cbaacf18216a2c670dfe6e49d4332b592214780.png",
-    "website": "https://skillsync.wiki",
+    "website": "https://skillsync.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Human Resources"
+      "Engineering, Product and Design",
+      "Developer Tools"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -4794,8 +4795,8 @@
     "description": "Logistics infrastructure to modernize healthcare operations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a941d8028fafa95dd706134a19099c733b0726ff.png",
     "website": "https://www.schedulingwiz.com",
-    "location": "",
-    "region": "Unspecified",
+    "location": "Washington, DC, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Healthcare",
@@ -6601,7 +6602,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Marketing"
+      "Marketing",
+      "Artificial Intelligence",
+      "Analytics"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -7191,6 +7194,40 @@
     "program": "YC Winter 2026",
     "programSlugs": [
       "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Libra Robotics",
+    "description": "Autonomous robots for solar farm construction",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/38569e8c7f99407654cda03fc6daff633822e414.png",
+    "website": "https://www.librabots.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Energy",
+      "Robotic Process Automation",
+      "Solar Power",
+      "Sustainability"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -8406,7 +8443,7 @@
     "name": "Rubric AI",
     "description": "Reasoning and verification infra for AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/76cd968796cb7fcfbf591c0c9f9bb7cdf5683449.png",
-    "website": "https://therubric.ai",
+    "website": "",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
@@ -8837,8 +8874,8 @@
     "description": "Software for enterprise energy procurement.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8fb409eebab1bce05d1234942c6f03c6739eec60.png",
     "website": "https://www.condor.energy",
-    "location": "",
-    "region": "Unspecified",
+    "location": "Paris, Île-de-France, France",
+    "region": "France",
     "subregion": "",
     "tags": [
       "Industrials",
@@ -11087,7 +11124,11 @@
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Enterprise"
+    ],
     "year": 2026,
     "program": "YC Spring 2026",
     "programSlugs": [
@@ -12361,7 +12402,7 @@
   {
     "source": "yc",
     "name": "Shepherd",
-    "description": "Give your company knowledge",
+    "description": "Give your company the knowledge it deserves",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/391f78e0202565767f4e07ba30c7abaf3cd19093.png",
     "website": "https://askshepherd.ai",
     "location": "San Francisco, CA, USA",
@@ -14558,6 +14599,37 @@
   },
   {
     "source": "yc",
+    "name": "OpenTrade",
+    "description": "Investing for the rest of us",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2b3f64adc26505359934c58cacea3f1c48facac8.png",
+    "website": "https://opentrade.live/",
+    "location": "Seattle, WA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Consumer Finance"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Perceptron ML",
     "description": "An event-driven AI engine that turns real-world signals into action.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/78fd0973779baafd178a4b5e1230878b341cb14b.png",
@@ -14664,6 +14736,39 @@
       "Security",
       "Cybersecurity",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Zomma",
+    "description": "Computer Use Agents for back offices in finance",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/019855257e473ab4938156b12e16e4a3214a2f51.png",
+    "website": "https://zommalabs.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Robotic Process Automation",
+      "Finance",
+      "Workflow Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -15029,6 +15134,38 @@
     "tags": [
       "Infrastructure",
       "Customer Support"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Alloovium",
+    "description": "Construction paperwork that finally works for your team",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a18b2e1de19ebc106cb340305f6e055da094e03b.png",
+    "website": "https://www.alloovium.com/en",
+    "location": "Brisbane, QLD, Australia",
+    "region": "Australia",
+    "subregion": "",
+    "tags": [
+      "Real Estate and Construction",
+      "Construction",
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -15910,6 +16047,40 @@
   },
   {
     "source": "yc",
+    "name": "ProvenMetal",
+    "description": "Fast-turn, American made PCBs",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/450cf955a0b5a1e301afe718484dd30ffb22fb67.png",
+    "website": "https://provenmetal.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Hardware",
+      "Manufacturing",
+      "Electronics"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Agentcard",
     "description": "debit cards for AI agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aba1ff38c8593a6ce1ecdd01f1125330e298ac04.png",
@@ -16135,6 +16306,40 @@
   },
   {
     "source": "yc",
+    "name": "Skymerse",
+    "description": "Autopilot for Flight Operations",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dcac201e21fa70f9b3a8a1b827c8fd7759c25920.png",
+    "website": "https://skymerse.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Aviation and Space",
+      "Artificial Intelligence",
+      "Airlines",
+      "Aerospace"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "HyperProbe",
     "description": "Your coding agent writes code. Now let it fix prod too.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e5b4807040a02ba35de45355e3c51fd115e82199.png",
@@ -16168,6 +16373,37 @@
   },
   {
     "source": "yc",
+    "name": "OpenRelay",
+    "description": "Distributed, hardware-agnostic AI inference",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dfebad0e89c8e36ca28819a3b651bee8a4326b76.png",
+    "website": "https://www.openrelay.inc",
+    "location": "Seattle, WA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Hop Aero",
     "description": "Rocket cargo delivery to contested environments",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a5cab9ede70e23b0ea3f8e3b64b7a19735939c17.png",
@@ -16178,6 +16414,40 @@
     "tags": [
       "Industrials",
       "Defense"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Earendil Robotics",
+    "description": "Drone swarm defence at a small-unit level",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/39ec6212427cdf833238bd48eca01f40904ba49f.png",
+    "website": "https://earendil.io",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Defense",
+      "Drones",
+      "Swarm Robotics",
+      "AR"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16529,15 +16799,15 @@
   {
     "source": "yc",
     "name": "Conifer",
-    "description": "Local-first least cost routing system to reduce token spend",
+    "description": "Local-first least cost routing system to reduce 80%+ token spend",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1cd2adb8270db80170ab62b4140817892372538a.png",
     "website": "https://www.conifer.build",
     "location": "",
     "region": "Unspecified",
     "subregion": "",
     "tags": [
-      "Security",
-      "AI"
+      "Artificial Intelligence",
+      "Security"
     ],
     "year": 2026,
     "program": "YC Summer 2026",

@@ -1277,7 +1277,7 @@
     "description": "Online circuit simulator and electronic schematic editor.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c463a769b2f58faee6f5bc842ce70bb66f0acc66.png",
     "website": "https://www.circuitlab.com/",
-    "location": "Redwood City, CA, USA; Remote",
+    "location": "San Francisco, CA, USA; Redwood City, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -4892,7 +4892,7 @@
     "description": "The next generation CMS built for mobile apps",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/65122a2cf93b0728efdffcc0603d35f8f2c17dbe.png",
     "website": "https://www.unflow.com",
-    "location": "New York, NY, USA; London, England, United Kingdom; Remote",
+    "location": "New York City, NY, USA; London, England, United Kingdom; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -13361,7 +13361,7 @@
     "description": "An AI-powered test and debug platform for chip developers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/01e853c98eeaa75f49024ede178b38c98d3e9a26.png",
     "website": "https://silogy.io",
-    "location": "New York, NY, USA; Remote",
+    "location": "New York City, NY, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -16652,17 +16652,17 @@
   },
   {
     "source": "yc",
-    "name": "Clado",
-    "description": "Global People Search",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ca45abeff29a0fe04be452f32d5fc05b53c26e70.png",
-    "website": "https://clado.ai",
+    "name": "Freesolo",
+    "description": "Product Native Models",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/45d118ce06f810c00f7b1f3105cf4f7906bd0d55.png",
+    "website": "https://freesolo.co",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -18335,40 +18335,6 @@
   },
   {
     "source": "yc",
-    "name": "Arcten",
-    "description": "Lab working on long-horizon autonomous research and coding agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
-    "website": "https://arcten.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design",
-      "Deep Learning",
-      "Generative AI",
-      "Machine Learning",
-      "AI"
-    ],
-    "year": 2025,
-    "program": "YC Fall 2025",
-    "programSlugs": [
-      "yc-fall-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Perseus",
     "description": "Applied Lab focused on Search in Latent Spaces.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9765cfac6d122dea71443fd13f227ed6e9c5257b.png",
@@ -18791,6 +18757,37 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design"
+    ],
+    "year": 2026,
+    "program": "YC Winter 2026",
+    "programSlugs": [
+      "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Skillsync",
+    "description": "Discord for building with agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9cbaacf18216a2c670dfe6e49d4332b592214780.png",
+    "website": "https://skillsync.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -19657,6 +19654,37 @@
       "Developer Tools",
       "DevSecOps",
       "SaaS"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "OpenRelay",
+    "description": "Distributed, hardware-agnostic AI inference",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dfebad0e89c8e36ca28819a3b651bee8a4326b76.png",
+    "website": "https://www.openrelay.inc",
+    "location": "Seattle, WA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
