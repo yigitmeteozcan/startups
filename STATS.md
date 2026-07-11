@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-10._
+_Auto-generated from the dataset on 2026-07-11._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,137** |
-| 🦄 Unicorns ($1B+) | **159** |
-| 💰 Exits | **2727** |
+| Total companies | **21,138** |
+| 🦄 Unicorns ($1B+) | **153** |
+| 💰 Exits | **2820** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-07-10._
 
 | Source | Companies |
 |---|---|
-| yc | 6,031 |
+| yc | 6,033 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
-| antler | 1,234 |
+| antler | 1,233 |
 | alchemist | 518 |
 | ef | 499 |
 
@@ -46,30 +46,30 @@ _Auto-generated from the dataset on 2026-07-10._
 2023  ████████████████████████████ 1492
 2024  ███████████████████████████░ 1447
 2025  ████████████████████░░░░░░░░ 1050
-2026  ███████████░░░░░░░░░░░░░░░░░ 591
+2026  ███████████░░░░░░░░░░░░░░░░░ 593
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
 ## Top countries
-1. **United States** — 6095
-2. **Japan** — 2366
-3. **United Kingdom** — 597
-4. **Canada** — 579
+1. **United States** — 5867
+2. **Japan** — 2721
+3. **United Kingdom** — 581
+4. **Canada** — 556
 5. **USA** — 396
-6. **Germany** — 260
-7. **Israel** — 201
-8. **France** — 186
-9. **Singapore** — 181
-10. **Mexico** — 143
-11. **Italy** — 132
-12. **South Korea** — 129
-13. **India** — 126
-14. **United Arab Emirates** — 111
+6. **Germany** — 244
+7. **Israel** — 193
+8. **Singapore** — 175
+9. **France** — 173
+10. **South Korea** — 144
+11. **Mexico** — 143
+12. **India** — 123
+13. **Italy** — 110
+14. **United Arab Emirates** — 108
 15. **UNITED STATES** — 102
 
 ## Top cities
-1. **Tokyo** — 2400
-2. **Silicon Valley** — 1873
+1. **Tokyo** — 2881
+2. **Silicon Valley** — 1625
 3. **New York City** — 398
 4. **London** — 306
 5. **San Francisco** — 176
@@ -77,17 +77,17 @@ _Auto-generated from the dataset on 2026-07-10._
 7. **Boston** — 122
 8. **Seattle** — 116
 9. **Chicago** — 113
-10. **Paris** — 112
-11. **Austin** — 109
+10. **Austin** — 109
+11. **Paris** — 109
 12. **Toronto** — 98
-13. **Alberta** — 91
-14. **Brooklyn** — 84
-15. **Boulder** — 79
+13. **Brooklyn** — 84
+14. **Boulder** — 79
+15. **Denver** — 78
 
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1400
-3. **Antler** — 1234
+3. **Antler** — 1233
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -102,40 +102,40 @@ _Auto-generated from the dataset on 2026-07-10._
 15. **YC Summer 2023** — 219
 
 ## Top industries
-1. **Fintech** — 2488
+1. **Fintech** — 2445
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1412
 4. **Mobile** — 1141
 5. **Consumer** — 1051
-6. **Artificial Intelligence** — 911
-7. **AI** — 818
+6. **Artificial Intelligence** — 913
+7. **AI** — 817
 8. **Healthcare** — 802
-9. **Developer Tools** — 690
+9. **Developer Tools** — 691
 10. **Infrastructure** — 667
-11. **Health** — 632
-12. **Engineering, Product and Design** — 609
+11. **Engineering, Product and Design** — 610
+12. **Health** — 603
 13. **Industrials** — 585
 14. **B2B Software** — 544
-15. **Insurtech** — 520
-16. **Energy** — 494
-17. **Deeptech** — 475
-18. **Brand & Retail** — 471
-19. **Healthtech** — 440
-20. **Supply Chain** — 403
+15. **Deeptech** — 466
+16. **Insurtech** — 457
+17. **Brand & Retail** — 449
+18. **Healthtech** — 440
+19. **Energy** — 407
+20. **Lifestyles of Health and Sustainability and wellness** — 384
 
 ## By region
-1. **Americas** — 5836
-2. **United States of America** — 4508
-3. **Asia** — 2678
+1. **Americas** — 5578
+2. **United States of America** — 4510
+3. **Asia** — 3043
 4. **Europe** — 1014
 5. **North America** — 903
-6. **EMEA** — 878
+6. **EMEA** — 757
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
 9. **United Kingdom** — 210
 10. **India** — 203
 11. **Canada** — 197
-12. **Unspecified** — 169
+12. **Unspecified** — 168
 13. **Latin America** — 164
 14. **Middle East** — 159
 15. **North Asia** — 111
@@ -156,9 +156,9 @@ _Auto-generated from the dataset on 2026-07-10._
 30. **Spain** — 16
 31. **Chile** — 16
 32. **Denmark** — 13
-33. **Australia & NZ** — 13
-34. **Netherlands** — 12
-35. **Australia** — 12
+33. **Australia** — 13
+34. **Australia & NZ** — 13
+35. **Netherlands** — 12
 36. **Egypt** — 11
 37. **Sweden** — 10
 38. **United Arab Emirates** — 10

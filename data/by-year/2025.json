@@ -11116,7 +11116,7 @@
     "description": "AI-powered research desk for hedge funds",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/508cd0aa179903aea336ffc42458a82d33d548ac.png",
     "website": "https://www.trytrata.com/",
-    "location": "New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -15858,7 +15858,7 @@
   {
     "source": "yc",
     "name": "throxy",
-    "description": "Vertical AI agents that run the sales funnel on autopilot",
+    "description": "Vertical AI agents running B2B outbound on autopilot, with human SDRs",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5384c6c535d7bcbaf2c4cee7af212ec06f70e79d.png",
     "website": "https://throxy.com/",
     "location": "London, England, United Kingdom",
@@ -15866,8 +15866,8 @@
     "subregion": "",
     "tags": [
       "Sales",
-      "Artificial Intelligence",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -27171,7 +27171,7 @@
     "source": "yc",
     "name": "Antigen",
     "description": "Continuous offensive security for the enterprise.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0b07aa9cb25d20cacdaa202c883fd119a25081bf.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cc431c735ff0142390b1e4f1f14cce038390f6cc.png",
     "website": "https://antigen.sh/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -34883,6 +34883,77 @@
   },
   {
     "source": "alchemist",
+    "name": "Anylens",
+    "description": "AI Governance Gateway",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Katsutoshi Tabata**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Yongi Kim**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Armeta",
+    "description": "Enabling engineers an AI agents to query legacy process drawings (P&IDs, PFDs, etc) in the energy and legacy sectors",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Slideflow Labs",
     "description": "Empowering next-gen precision oncology with scalable, in-house AI biomarkers from routine pathology slides.",
     "logo": "",
@@ -34922,36 +34993,6 @@
         "linkedin": ""
       }
     ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Armeta",
-    "description": "Enabling engineers an AI agents to query legacy process drawings (P&IDs, PFDs, etc) in the energy and legacy sectors",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -35256,47 +35297,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Anylens",
-    "description": "AI Governance Gateway",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Katsutoshi Tabata**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Yongi Kim**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Mahmi Bio",
     "description": "Unlocking the Freedom to Eat Without Fear or Limits.",
     "logo": "",
@@ -35476,6 +35476,47 @@
   },
   {
     "source": "alchemist",
+    "name": "Havilo.ai",
+    "description": "The intelligence layer for the world's most valuable networks.",
+    "logo": "",
+    "website": "",
+    "location": "Pleasanton, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Logan Dickey**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Taylor Cordoba**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Planeo",
     "description": "AI copilot that bridges code and runtime",
     "logo": "",
@@ -35629,47 +35670,6 @@
       },
       {
         "name": "**Alexander Gromov**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Havilo.ai",
-    "description": "The intelligence layer for the world's most valuable networks.",
-    "logo": "",
-    "website": "",
-    "location": "Pleasanton, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Logan Dickey**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Taylor Cordoba**",
         "role": "",
         "linkedin": ""
       }

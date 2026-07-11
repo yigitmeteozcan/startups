@@ -5231,7 +5231,7 @@
   },
   {
     "source": "yc",
-    "name": "SST",
+    "name": "OpenCode",
     "description": "For whatever you build.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4acd09521cfd92dc5dc54349811e3659f95a8c17.png",
     "website": "https://sst.dev",
@@ -5860,16 +5860,16 @@
   },
   {
     "source": "yc",
-    "name": "AXAR AI",
-    "description": "Multi-agent orchestration platform",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b95d154cb83a4708f9f0e1442a68b33e236a14bf.png",
-    "website": "https://www.axar.ai/",
+    "name": "Glop.dev",
+    "description": "How great teams ship with AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/52cb3520d9bab156b57aed7f3c76a564ce21c4cb.png",
+    "website": "https://www.glop.dev/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "year": 2021,
     "program": "YC Winter 2021",
@@ -17222,7 +17222,7 @@
   {
     "source": "yc",
     "name": "Codag",
-    "description": "Systems log compression for agents.",
+    "description": "Log compression for agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0a9882f0ac224b2b32ff0636a2c28986acf45c0d.png",
     "website": "https://codag.ai/",
     "location": "San Francisco, CA, USA",
@@ -17231,6 +17231,41 @@
     "tags": [
       "Infrastructure",
       "Developer Tools"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Alkera AI",
+    "description": "Data engineering and data science agents that are reliable and safe",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eecc1a49c35b3a26973c35ce53d1c3f862a058cb.png",
+    "website": "https://alkera.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Data Science",
+      "Data Engineering",
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17382,7 +17417,7 @@
   {
     "source": "yc",
     "name": "Coasty",
-    "description": "The best computer use. We will kill RPA.",
+    "description": "The computer-use agent that doesn't break on real software. We will…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/49c533e34b6c887207ac5683dd8dfab22709a458.png",
     "website": "http://coasty.ai/",
     "location": "San Francisco, CA, USA",
