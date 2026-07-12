@@ -1567,9 +1567,9 @@
   {
     "source": "yc",
     "name": "OpenCode",
-    "description": "For whatever you build.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4acd09521cfd92dc5dc54349811e3659f95a8c17.png",
-    "website": "https://sst.dev",
+    "description": "The open source AI coding agent",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a12e9098cbcd6d2919062aedf0b50e9d7b6c11e3.png",
+    "website": "https://opencode.ai",
     "location": "Toronto, ON, Canada; Remote",
     "region": "Canada",
     "subregion": "",
@@ -3376,7 +3376,7 @@
   {
     "source": "yc",
     "name": "Rivet",
-    "description": "Open-Source alternative to Durable Objects",
+    "description": "Rivet Actors are the primitive for stateful workloads",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/78acdf0f2271926c4c6856385a0b7846a8135bd7.png",
     "website": "https://rivet.dev",
     "location": "San Francisco, CA, USA",
@@ -5339,6 +5339,40 @@
     "program": "YC Spring 2026",
     "programSlugs": [
       "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Understudy Labs",
+    "description": "Effortlessly move to open weight models",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/034b1bab6d92bd99439aee47bf2312630046798c.png",
+    "website": "https://understudylabs.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Artificial Intelligence",
+      "Open Source",
+      "AI",
+      "ML"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
