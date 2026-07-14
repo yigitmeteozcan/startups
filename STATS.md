@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-13._
+_Auto-generated from the dataset on 2026-07-14._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,142** |
+| Total companies | **21,144** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2748** |
 | 🌱 B Corps | **29** |
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-07-13._
 
 | Source | Companies |
 |---|---|
-| yc | 6,037 |
+| yc | 6,040 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
-| antler | 1,233 |
+| antler | 1,232 |
 | alchemist | 518 |
 | ef | 499 |
 
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-13._
 2023  ████████████████████████████ 1492
 2024  ███████████████████████████░ 1447
 2025  ████████████████████░░░░░░░░ 1050
-2026  ███████████░░░░░░░░░░░░░░░░░ 597
+2026  ███████████░░░░░░░░░░░░░░░░░ 600
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-07-13._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1400
-3. **Antler** — 1233
+3. **Antler** — 1232
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -107,8 +107,8 @@ _Auto-generated from the dataset on 2026-07-13._
 3. **SaaS** — 1413
 4. **Mobile** — 1141
 5. **Consumer** — 1050
-6. **Artificial Intelligence** — 914
-7. **AI** — 822
+6. **Artificial Intelligence** — 916
+7. **AI** — 823
 8. **Healthcare** — 803
 9. **Developer Tools** — 693
 10. **Infrastructure** — 671
@@ -145,7 +145,7 @@ _Auto-generated from the dataset on 2026-07-13._
 19. **Mexico** — 79
 20. **Oceania** — 73
 21. **Brazil** — 67
-22. **France** — 61
+22. **France** — 63
 23. **Singapore** — 51
 24. **Nigeria** — 51
 25. **Germany** — 50
@@ -163,8 +163,8 @@ _Auto-generated from the dataset on 2026-07-13._
 37. **Australia & NZ** — 13
 38. **Egypt** — 11
 39. **Pakistan** — 11
-40. **Kenya** — 9
-41. **Switzerland** — 9
+40. **Switzerland** — 10
+41. **Kenya** — 9
 42. **Ireland** — 8
 43. **Philippines** — 8
 44. **South Korea** — 8
