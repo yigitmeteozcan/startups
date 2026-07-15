@@ -41757,6 +41757,40 @@
   },
   {
     "source": "yc",
+    "name": "Singularity",
+    "description": "Building and Protecting an Exciting Future",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/25eb003278f7a4ef82c20d24087957581b4b51e7.png",
+    "website": "https://www.singularityus.com/",
+    "location": "Los Angeles, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Aviation and Space",
+      "Hardware",
+      "Manufacturing",
+      "Aerospace"
+    ],
+    "year": 2023,
+    "program": "YC Summer 2023",
+    "programSlugs": [
+      "yc-summer-2023"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Tempo",
     "description": "Visual Editor for React, powered by AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
@@ -48862,6 +48896,47 @@
   },
   {
     "source": "ef",
+    "name": "Tonk Labs",
+    "description": "Making creating shared software as easy as creating a document.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Gavin Owens",
+        "role": "Founding Founding CTO & Current CEO",
+        "linkedin": "https://www.linkedin.com/in/gavin-owens-21887346/"
+      },
+      {
+        "name": "Harry Kingdon",
+        "role": "Founding CEO",
+        "linkedin": "https://www.linkedin.com/in/harry-kingdon-12b00a126/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
     "name": "TORTUS",
     "description": "AI co-pilot for clinical documentation.",
     "logo": "",
@@ -48930,47 +49005,6 @@
         "name": "Jonathan Raphael",
         "role": "CTO",
         "linkedin": "https://www.linkedin.com/in/jono-raphael/"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "investor": ""
-    }
-  },
-  {
-    "source": "ef",
-    "name": "Tonk Labs",
-    "description": "Vibe coding for custom dashboards.",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Entrepreneur First",
-    "programSlugs": [
-      "ef"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Harry Kingdon",
-        "role": "CEO",
-        "linkedin": "https://www.linkedin.com/in/harry-kingdon-12b00a126/"
-      },
-      {
-        "name": "Gavin Owens",
-        "role": "Founding CTO",
-        "linkedin": "https://www.linkedin.com/in/gavin-owens-21887346/"
       }
     ],
     "social": {
@@ -51258,47 +51292,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Arklex.AI (a.k.a Articulate.AI)",
-    "description": "LLM Framework to Democratize Building Chatbots\n",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 36",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Zhou Yu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Arbit Chen",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Mitra Biotechnologies",
     "description": "Nanomaterials to Accelerate Diagnostic Biology",
     "logo": "",
@@ -51341,6 +51334,47 @@
     },
     "extra": {
       "country": "Canada"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Arklex.AI (a.k.a Articulate.AI)",
+    "description": "LLM Framework to Democratize Building Chatbots\n",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 36",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Zhou Yu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Arbit Chen",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
     }
   },
   {
@@ -51584,16 +51618,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Glocate",
-    "description": "Geo-Location Visual Illumination and AI for Delivery Companies.",
+    "name": "Redshift ",
+    "description": "Next Gen ERP: SaaS-Based, Highly Customizable App that Matches a Company's Exact Processes",
     "logo": "",
     "website": "",
-    "location": "Memphis, TN, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2023,
-    "program": "Alchemist Class 36",
+    "program": "Alchemist Class 35",
     "programSlugs": [
       "alchemist"
     ],
@@ -51603,7 +51637,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Amber Glover",
+        "name": "Alex Lazich",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jesse Williams",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ben Folks",
         "role": "",
         "linkedin": ""
       }
@@ -51666,11 +51710,11 @@
   },
   {
     "source": "alchemist",
-    "name": "DocuTable",
-    "description": "App building platform for AI documents processing. ",
+    "name": "Pivla",
+    "description": "AI Agents for Labor Compliance",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "New York, NY, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -51685,12 +51729,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Alex Abol (ex VP Strategy",
+        "name": "Nigel Coelho",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Yuri Baburov (Asst Prof AI",
+        "name": "Karl Coelho",
         "role": "",
         "linkedin": ""
       }
@@ -51748,16 +51792,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Vara ",
-    "description": "Environmental Compliance AI for Manufacturers ",
+    "name": "GetCito",
+    "description": "Helping B2B SaaS companies dominate AI Search platforms such as ChatGPT, Google AI Overview & Perpexility AI. ",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Phoenix, AZ, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2023,
-    "program": "Alchemist Class 36",
+    "program": "Alchemist Class 37",
     "programSlugs": [
       "alchemist"
     ],
@@ -51767,7 +51811,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Founded by [Shraddha Agrawal]",
+        "name": "Avinash Tripathi",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Abhishek Tripathi",
         "role": "",
         "linkedin": ""
       }
@@ -51784,52 +51833,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Flyvercity",
-    "description": "High-density drone traffic management system on 5G networks",
+    "name": "Upcree",
+    "description": "ML to Fast-Forward Solar Plant Design",
     "logo": "",
     "website": "",
-    "location": "Netanya, Israel",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Andrey Potapov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Boris Resnick",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Israel"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Kropply",
-    "description": "AI Autocorrect for Software Runtime Errors.",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
+    "location": "Miami, FL, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -51844,7 +51852,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Panos Halios",
+        "name": "Valentin Noves",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Pablo Derendinger",
         "role": "",
         "linkedin": ""
       }
@@ -51907,11 +51920,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Worksense",
-    "description": "Real-Time People Analytics Platform",
+    "name": "Kropply",
+    "description": "AI Autocorrect for Software Runtime Errors.",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -51926,89 +51939,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Arshan Ahmad",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Upcree",
-    "description": "ML to Fast-Forward Solar Plant Design",
-    "logo": "",
-    "website": "",
-    "location": "Miami, FL, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 36",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Valentin Noves",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Pablo Derendinger",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "GetCito",
-    "description": "Helping B2B SaaS companies dominate AI Search platforms such as ChatGPT, Google AI Overview & Perpexility AI. ",
-    "logo": "",
-    "website": "",
-    "location": "Phoenix, AZ, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 37",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Avinash Tripathi",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Abhishek Tripathi",
+        "name": "Panos Halios",
         "role": "",
         "linkedin": ""
       }
@@ -52062,6 +51993,47 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Flyvercity",
+    "description": "High-density drone traffic management system on 5G networks",
+    "logo": "",
+    "website": "",
+    "location": "Netanya, Israel",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Andrey Potapov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Boris Resnick",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Israel"
     }
   },
   {
@@ -52143,16 +52115,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Pivla",
-    "description": "AI Agents for Labor Compliance",
+    "name": "Vara ",
+    "description": "Environmental Compliance AI for Manufacturers ",
     "logo": "",
     "website": "",
-    "location": "New York, NY, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2023,
-    "program": "Alchemist Class 35",
+    "program": "Alchemist Class 36",
     "programSlugs": [
       "alchemist"
     ],
@@ -52162,12 +52134,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Nigel Coelho",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Karl Coelho",
+        "name": "Founded by [Shraddha Agrawal]",
         "role": "",
         "linkedin": ""
       }
@@ -52184,8 +52151,8 @@
   },
   {
     "source": "alchemist",
-    "name": "Redshift ",
-    "description": "Next Gen ERP: SaaS-Based, Highly Customizable App that Matches a Company's Exact Processes",
+    "name": "DocuTable",
+    "description": "App building platform for AI documents processing. ",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -52203,17 +52170,84 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Alex Lazich",
+        "name": "Alex Abol (ex VP Strategy",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Jesse Williams",
+        "name": "Yuri Baburov (Asst Prof AI",
         "role": "",
         "linkedin": ""
-      },
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Glocate",
+    "description": "Geo-Location Visual Illumination and AI for Delivery Companies.",
+    "logo": "",
+    "website": "",
+    "location": "Memphis, TN, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 36",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
       {
-        "name": "Ben Folks",
+        "name": "Amber Glover",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Worksense",
+    "description": "Real-Time People Analytics Platform",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 36",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Arshan Ahmad",
         "role": "",
         "linkedin": ""
       }

@@ -5190,7 +5190,7 @@
   {
     "source": "yc",
     "name": "Fern",
-    "description": "Enabling physical AI at scale.",
+    "description": "RL environments for robotics companies",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
     "website": "https://fern.bot",
     "location": "",
@@ -8562,10 +8562,10 @@
   },
   {
     "source": "yc",
-    "name": "GrazeMate",
+    "name": "Brumby (Formerly GrazeMate)",
     "description": "Robot Cowboys that Herd Cattle with AI Drones",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d2a4475db614107fb0effa347e625a6885ca8045.png",
-    "website": "https://grazemate.com",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e7f64c3261f306e1859d503d40ad84601c127c82.png",
+    "website": "https://brumby",
     "location": "Sydney, NSW, Australia",
     "region": "Australia",
     "subregion": "",
@@ -9792,7 +9792,10 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Manufacturing and Robotics"
+      "Manufacturing and Robotics",
+      "Hard Tech",
+      "Aerospace",
+      "Telecommunications"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -14204,7 +14207,7 @@
     "description": "AI-native credentialing and contracting for healthcare",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/efe1f3eb6680314e6f5fa5d9fc1161df9fcbaa31.png",
     "website": "https://arctic.health",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -14889,7 +14892,7 @@
   {
     "source": "yc",
     "name": "Prized",
-    "description": "Internal tools, built by the people who use them.",
+    "description": "Lovable for internal tools",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7162dc10af43dc1c38075eec773f7958383384d2.png",
     "website": "https://prized.dev",
     "location": "San Francisco, CA, USA",
@@ -15583,7 +15586,7 @@
     "source": "yc",
     "name": "Molagri",
     "description": "Biopesticides that are safe for humans and bees.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/73c2cb671f399e3f094f4caf701a63e06155fc4f.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/71eba8e2b8b0a262e4c76ef41e5ab46b59552e6d.png",
     "website": "https://molagri.com",
     "location": "Toronto, ON, Canada",
     "region": "Canada",
@@ -15649,7 +15652,7 @@
   },
   {
     "source": "yc",
-    "name": "Talentpluto",
+    "name": "Pluto",
     "description": "AI voice agent that helps professionals get discovered",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
     "website": "https://talentpluto.com",
@@ -15657,8 +15660,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Recruiting and Talent",
-      "AI",
+      "Consumer",
+      "Job and Career Services",
+      "Artificial Intelligence",
       "Careers",
       "Conversational AI"
     ],
@@ -15824,8 +15828,8 @@
     "region": "France",
     "subregion": "",
     "tags": [
-      "Reinforcement Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Reinforcement Learning"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16966,6 +16970,41 @@
   },
   {
     "source": "yc",
+    "name": "hardware intelligence",
+    "description": "Agentic chip design with ultrafast feedback loops",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c2193e7412febe2e812491e1a73617bb09eb897.png",
+    "website": "https://hardwareintelligence.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "Hardware",
+      "Enterprise Software",
+      "Semiconductors",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Coasty",
     "description": "The computer-use agent that doesn't break on real software. We will…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/49c533e34b6c887207ac5683dd8dfab22709a458.png",
@@ -17906,8 +17945,8 @@
     "source": "500",
     "name": "MANTAS INSURANCE SOLUTIONS, INC.",
     "description": "",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/cdfbf5d4-14ba-4052-ab6e-10f00349baf7.png",
-    "website": "https://www.mantas.ai",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/4db28705-50aa-4cbc-ab53-f9987dfb5abf.png",
+    "website": "https://mantas.ai",
     "location": "UNITED STATES",
     "region": "",
     "subregion": "",
@@ -19082,42 +19121,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Mutaz Musa**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Asterquanta Systems Inc.",
     "description": "Semiconductor Design Automation enabled by AI",
     "logo": "",
@@ -19184,6 +19187,42 @@
       },
       {
         "name": "**James Russell**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Mutaz Musa**",
         "role": "",
         "linkedin": ""
       }

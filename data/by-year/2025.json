@@ -9175,11 +9175,11 @@
   {
     "source": "yc",
     "name": "superglue",
-    "description": "AI that fixes enterprise glue",
+    "description": "connect, migrate and implement enterprise systems",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
     "website": "https://superglue.ai/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "BY, Germany",
+    "region": "Germany",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
@@ -15917,17 +15917,17 @@
   {
     "source": "yc",
     "name": "IRBC",
-    "description": "AI native meeting platform",
+    "description": "AI-native financial institution for global businesses + agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e7d307e10d74fa01d4fd34d5f8ea0755540c4046.png",
     "website": "https://irbc.com/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Sales",
+      "Fintech",
+      "Banking and Exchange",
       "Artificial Intelligence",
-      "Customer Success",
-      "Telecommunications"
+      "Neobank"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -19721,9 +19721,9 @@
     "subregion": "",
     "tags": [
       "Analytics",
-      "Artificial Intelligence",
       "API",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -20781,9 +20781,8 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
       "Robotics",
-      "Retail"
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -21260,7 +21259,7 @@
   {
     "source": "yc",
     "name": "Omnara",
-    "description": "Mobile & Web Interface for Claude Code & Codex",
+    "description": "The Control Plane for Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
     "website": "https://omnara.com",
     "location": "San Francisco, CA, USA",
@@ -26434,8 +26433,8 @@
     "description": "The full-stack AI financial audit firm",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1543e40091902a20ba3f9f49ea46c17e0b60e86a.png",
     "website": "https://denki.ai",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
     "subregion": "",
     "tags": [
       "Finance and Accounting",
@@ -27173,15 +27172,15 @@
     "source": "yc",
     "name": "Antigen",
     "description": "Continuous offensive security for the enterprise.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cc431c735ff0142390b1e4f1f14cce038390f6cc.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/714f71e97009698c591e79370e41cb52734e724e.png",
     "website": "https://antigen.sh/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -31220,6 +31219,11 @@
       },
       {
         "name": "Umid Akhmedov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Onur Yordem",
         "role": "",
         "linkedin": ""
       }
@@ -35478,82 +35482,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Etat'H Solide",
-    "description": "We make plastic lighter,  cheaper, and retrofitted",
-    "logo": "",
-    "website": "",
-    "location": "Grand Rapids, MI, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Xitester",
-    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**CEO:** Shine Oovattil .",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**CTO:** Dharwish Raj",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**COO:** Harikumar S",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Industrial Dynamics",
     "description": "The intelligence layer for simulating and scaling industrial vision systems.",
     "logo": "",
@@ -35677,6 +35605,47 @@
   },
   {
     "source": "alchemist",
+    "name": "Planeo",
+    "description": "AI copilot that bridges code and runtime",
+    "logo": "",
+    "website": "",
+    "location": "Dover, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Santosh Sadasivuni**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Marcello DeSales**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Polyview Health",
     "description": "Prevent fraud, waste, abuse in healthcare claims",
     "logo": "",
@@ -35707,47 +35676,6 @@
       },
       {
         "name": "Greg Deocampo",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Planeo",
-    "description": "AI copilot that bridges code and runtime",
-    "logo": "",
-    "website": "",
-    "location": "Dover, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Santosh Sadasivuni**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Marcello DeSales**",
         "role": "",
         "linkedin": ""
       }
@@ -35956,6 +35884,82 @@
         "linkedin": ""
       }
     ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Xitester",
+    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**CEO:** Shine Oovattil .",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**CTO:** Dharwish Raj",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**COO:** Harikumar S",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Etat'H Solide",
+    "description": "We make plastic lighter,  cheaper, and retrofitted",
+    "logo": "",
+    "website": "",
+    "location": "Grand Rapids, MI, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",

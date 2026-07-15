@@ -26836,37 +26836,6 @@
   },
   {
     "source": "yc",
-    "name": "MathDash",
-    "description": "Learning Platform for Math Competitions",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6ec49a1c12b0b025bec7371a71c990514b23fe37.png",
-    "website": "https://mathdash.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Education",
-      "Consumer"
-    ],
-    "year": 2024,
-    "program": "YC Winter 2024",
-    "programSlugs": [
-      "yc-winter-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Eggnog",
     "description": "Fun with AI video",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8db4ae69ffa9fe27a2e056c7825fa07368367d7.png",
@@ -31423,6 +31392,40 @@
     "extra": {}
   },
   {
+    "source": "yc",
+    "name": "Pluto",
+    "description": "AI voice agent that helps professionals get discovered",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
+    "website": "https://talentpluto.com",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Job and Career Services",
+      "Artificial Intelligence",
+      "Careers",
+      "Conversational AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
     "source": "500",
     "name": "21 Market",
     "description": "Developer of an e-commerce platform designed to inspect electronic device quality and resell them to consumers. The company purchases a variety of used electronic devices and sells them as verified refurbished products at the new product level through upcycling, packaging, and warranty, enabling consumers with refurbished products and increasing customer satisfaction.",
@@ -35344,49 +35347,6 @@
   },
   {
     "source": "500",
-    "name": "Clarity",
-    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
-    "website": "https://clarity.fm",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Consumer"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dan Martell",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mike Wu",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "500",
     "name": "Rebaja Tus Cuentas",
     "description": "Developer of a mortgage purchase software designed to provide financial advisory services for mortgage debts. The company's software provides a form for basic information about the current mortgage credit, helps in finding good bidders with the financial institution to close the terms of the transfer of the mortgage, enabling users to avail mortgage debt purchase without any hassle.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a433923-6059-4e38-9d1a-1c4710fb1007.png",
@@ -35428,6 +35388,49 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Clarity",
+    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
+    "website": "https://clarity.fm",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Consumer"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dan Martell",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike Wu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
     }
   }
 ]
