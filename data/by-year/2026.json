@@ -4374,10 +4374,10 @@
   },
   {
     "source": "yc",
-    "name": "Carson",
-    "description": "Carson is a desktop AI app that generates custom, sharable workspaces",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/92a11d3a3ee3272d1d97560705cf903b54ea3437.png",
-    "website": "https://usecarson.com",
+    "name": "/dev/fast",
+    "description": "/dev/fast is the AI-native code forge",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f469eb5ba6a411e5af0eabbb334d7879cbe6f9e5.png",
+    "website": "https://dev.fast",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -9325,6 +9325,42 @@
   },
   {
     "source": "yc",
+    "name": "Illume Labs",
+    "description": "24/7 Personal Health & Longevity Companion",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dd1ef3f79f970a8952409fdf5f74ab223d1c47c4.png",
+    "website": "https://www.illumelabs.ai",
+    "location": "Boston, MA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Consumer Health and Wellness",
+      "Generative AI",
+      "Health Tech",
+      "Biotech",
+      "Health & Wellness",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Instance",
     "description": "Automated evals for robot policies",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6294b12382598c88510ebe8d73568321732a7d00.png",
@@ -11796,7 +11832,7 @@
     "source": "yc",
     "name": "Allowance",
     "description": "The spend control layer for AI agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fefdb05a7320e2952ac117dd8b969cf5bab55d0a.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c21d6adefff883f7581e72ca876529eba262eb64.png",
     "website": "https://useallowance.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -15662,7 +15698,7 @@
     "tags": [
       "Consumer",
       "Job and Career Services",
-      "Artificial Intelligence",
+      "AI",
       "Careers",
       "Conversational AI"
     ],
@@ -15953,7 +15989,7 @@
   {
     "source": "yc",
     "name": "Risklytics",
-    "description": "Property-level natural disaster risk scoring for insurers",
+    "description": "Property-Level Natural Disaster Risk Modeling",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b0ad1653f775fb272b3481e8715c274f46c2c464.png",
     "website": "https://www.risklytics.ai/",
     "location": "San Francisco, CA, USA",
@@ -15963,7 +15999,7 @@
       "Fintech",
       "Insurance",
       "Machine Learning",
-      "Climate",
+      "Real Estate",
       "AI"
     ],
     "year": 2026,
@@ -19121,47 +19157,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Asterquanta Systems Inc.",
-    "description": "Semiconductor Design Automation enabled by AI",
-    "logo": "",
-    "website": "",
-    "location": "Toronto, ON, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Pradeep V Pydah**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Matthew Taylor**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Luce Labs",
     "description": "Programmable expression of high-value plant compounds\n",
     "logo": "",
@@ -19199,6 +19194,47 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Asterquanta Systems Inc.",
+    "description": "Semiconductor Design Automation enabled by AI",
+    "logo": "",
+    "website": "",
+    "location": "Toronto, ON, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Pradeep V Pydah**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Matthew Taylor**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
     }
   },
   {

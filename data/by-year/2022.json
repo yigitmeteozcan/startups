@@ -20600,17 +20600,18 @@
   },
   {
     "source": "yc",
-    "name": "WorldQL",
-    "description": "Custom AI harnesses for enterprises",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png",
-    "website": "https://www.worldql.com/",
+    "name": "Capuchin",
+    "description": "Search and automation for engineer-to-order companies",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/63839deb3c78a77497bdc13f9bb954aa6d5f06ef.png",
+    "website": "https://capuchin.ai/",
     "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Artificial Intelligence",
-      "Reinforcement Learning",
-      "Security"
+      "Manufacturing",
+      "Defense",
+      "Search"
     ],
     "year": 2022,
     "program": "YC Winter 2022",
@@ -26102,7 +26103,7 @@
     "description": "Multicolor lasers for ultrafast data transmission",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/26b9f67c4720bc41433bdf2649784cad9156ee26.png",
     "website": "https://www.enlightra.com/",
-    "location": "Ecublens, VD, Switzerland",
+    "location": "Lausanne, VD, Switzerland; Ecublens, VD, Switzerland",
     "region": "Switzerland",
     "subregion": "",
     "tags": [
@@ -50519,42 +50520,6 @@
   },
   {
     "source": "alchemist",
-    "name": "QI",
-    "description": "Predictive Insights to Test Content Before Going Live",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "JD Rico",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Alfa",
     "description": "Alfa = Autonomous GTM engineer, in one click.  ",
     "logo": "",
@@ -50585,6 +50550,52 @@
       },
       {
         "name": "CPO",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "FreeFuse",
+    "description": "A video communication platform that simplifies how information is shared and processed.",
+    "logo": "",
+    "website": "",
+    "location": "Los Angeles, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mike Liu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Wendy Chen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Marcus Jeffrey",
         "role": "",
         "linkedin": ""
       }
@@ -50642,16 +50653,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Bonfire Analytics",
-    "description": "AI-Driven Lead Scoring for Digital Health Companies: Faster High-Quality Lead Generation Leads to Cheaper Customer Acquisition\n\n",
+    "name": "QI",
+    "description": "Predictive Insights to Test Content Before Going Live",
     "logo": "",
     "website": "",
-    "location": "Philadelphia, PA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2022,
-    "program": "Alchemist Class 33",
+    "program": "Alchemist Class 34",
     "programSlugs": [
       "alchemist"
     ],
@@ -50661,12 +50672,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Vinay Nagaraj",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jaya Pokuri",
+        "name": "JD Rico",
         "role": "",
         "linkedin": ""
       }
@@ -50725,6 +50731,93 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Bonfire Analytics",
+    "description": "AI-Driven Lead Scoring for Digital Health Companies: Faster High-Quality Lead Generation Leads to Cheaper Customer Acquisition\n\n",
+    "logo": "",
+    "website": "",
+    "location": "Philadelphia, PA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 33",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vinay Nagaraj",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jaya Pokuri",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "synthavo",
+    "description": "Visual Search for Spare Parts for Mechanical Engineering",
+    "logo": "",
+    "website": "",
+    "location": "Stuttgart, Germany",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 32",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sebastian Stöcklmeier",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Benedict Lindner",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alexander Illg",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Germany"
     }
   },
   {
@@ -50807,98 +50900,6 @@
     },
     "extra": {
       "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "FreeFuse",
-    "description": "A video communication platform that simplifies how information is shared and processed.",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 31",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mike Liu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Wendy Chen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Marcus Jeffrey",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "synthavo",
-    "description": "Visual Search for Spare Parts for Mechanical Engineering",
-    "logo": "",
-    "website": "",
-    "location": "Stuttgart, Germany",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 32",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Sebastian Stöcklmeier",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Benedict Lindner",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Alexander Illg",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Germany"
     }
   },
   {
