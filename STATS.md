@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-16._
+_Auto-generated from the dataset on 2026-07-17._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,150** |
+| Total companies | **21,162** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2749** |
+| 💰 Exits | **2750** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-07-16._
 
 | Source | Companies |
 |---|---|
-| yc | 6,043 |
+| yc | 6,050 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
-| antler | 1,236 |
+| antler | 1,241 |
 | alchemist | 518 |
 | ef | 498 |
 
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-16._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1050
-2026  ███████████░░░░░░░░░░░░░░░░░ 602
+2026  ███████████░░░░░░░░░░░░░░░░░ 609
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-07-16._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1400
-3. **Antler** — 1236
+3. **Antler** — 1241
 4. **Entrepreneur First** — 498
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -102,20 +102,20 @@ _Auto-generated from the dataset on 2026-07-16._
 15. **YC Summer 2023** — 220
 
 ## Top industries
-1. **Fintech** — 2460
+1. **Fintech** — 2461
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1413
+3. **SaaS** — 1414
 4. **Mobile** — 1141
-5. **Consumer** — 1051
-6. **Artificial Intelligence** — 916
-7. **AI** — 828
+5. **Consumer** — 1052
+6. **Artificial Intelligence** — 918
+7. **AI** — 830
 8. **Healthcare** — 803
 9. **Developer Tools** — 694
-10. **Infrastructure** — 673
+10. **Infrastructure** — 674
 11. **Health** — 663
 12. **Engineering, Product and Design** — 610
-13. **Industrials** — 587
-14. **B2B Software** — 547
+13. **Industrials** — 588
+14. **B2B Software** — 549
 15. **Insurtech** — 513
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
@@ -125,14 +125,14 @@ _Auto-generated from the dataset on 2026-07-16._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4498
+2. **United States of America** — 4506
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 209
+9. **United Kingdom** — 207
 10. **Canada** — 205
 11. **India** — 200
 12. **Latin America** — 164
@@ -146,7 +146,7 @@ _Auto-generated from the dataset on 2026-07-16._
 20. **Oceania** — 73
 21. **Brazil** — 67
 22. **France** — 64
-23. **Germany** — 51
+23. **Germany** — 52
 24. **Singapore** — 51
 25. **Nigeria** — 51
 26. **Israel** — 32

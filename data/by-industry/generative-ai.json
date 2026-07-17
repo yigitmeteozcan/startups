@@ -4132,7 +4132,7 @@
     "programSlugs": [
       "yc-winter-2023"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4314,8 +4314,8 @@
   {
     "source": "yc",
     "name": "Lightski",
-    "description": "AI Agents for Enterprises",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bb4374eaa0da532a48ab79f76c84cd38d075db6d.png",
+    "description": "Transform Document Workflows with AI Agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4f913750d13336c120035ae29b41b164fc9638be.png",
     "website": "https://www.lightski.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -5492,7 +5492,7 @@
   {
     "source": "yc",
     "name": "Keystroke",
-    "description": "n8n for coding agents",
+    "description": "An all-in-one platform for building internal agents & workflows",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cf87214e16d20d148922c10192f5ccf83e32f1f8.png",
     "website": "http://keystroke.ai",
     "location": "Salt Lake City, UT, USA",
@@ -5500,11 +5500,11 @@
     "subregion": "",
     "tags": [
       "Analytics",
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Workflow Automation",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -8246,6 +8246,36 @@
     "tags": [
       "Productivity",
       "Artificial Intelligence",
+      "Generative AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Almanac",
+    "description": "Self updating wiki for your coding agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12b18390ac9aff0968a7a1c2e09e151efc7a0913.png",
+    "website": "https://codealmanac.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
       "Generative AI"
     ],
     "year": 2026,
