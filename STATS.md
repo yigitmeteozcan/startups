@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-17._
+_Auto-generated from the dataset on 2026-07-18._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,162** |
+| Total companies | **21,167** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2750** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-07-17._
 
 | Source | Companies |
 |---|---|
-| yc | 6,050 |
+| yc | 6,055 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-17._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1050
-2026  ███████████░░░░░░░░░░░░░░░░░ 609
+2026  ████████████░░░░░░░░░░░░░░░░ 614
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -104,11 +104,11 @@ _Auto-generated from the dataset on 2026-07-17._
 ## Top industries
 1. **Fintech** — 2461
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1414
+3. **SaaS** — 1412
 4. **Mobile** — 1141
 5. **Consumer** — 1052
-6. **Artificial Intelligence** — 918
-7. **AI** — 830
+6. **Artificial Intelligence** — 919
+7. **AI** — 833
 8. **Healthcare** — 803
 9. **Developer Tools** — 694
 10. **Infrastructure** — 674
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-07-17._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4506
+2. **United States of America** — 4511
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -137,7 +137,7 @@ _Auto-generated from the dataset on 2026-07-17._
 11. **India** — 200
 12. **Latin America** — 164
 13. **Middle East** — 159
-14. **Unspecified** — 150
+14. **Unspecified** — 149
 15. **North Asia** — 111
 16. **Africa** — 107
 17. **Remote** — 96
@@ -163,7 +163,7 @@ _Auto-generated from the dataset on 2026-07-17._
 37. **Australia & NZ** — 13
 38. **Egypt** — 11
 39. **Pakistan** — 11
-40. **Switzerland** — 10
+40. **Switzerland** — 11
 41. **Kenya** — 9
 42. **Ireland** — 8
 43. **Philippines** — 8

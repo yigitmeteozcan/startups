@@ -221,41 +221,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Warestack",
-    "description": "Engineering delivery governance for software teams",
+    "name": "Nomadic Drones",
+    "description": "Self-Recharging Drones Autonomously Inspecting Power Grids, Enabling Proactive Maintenance at Scale",
     "logo": "",
     "website": "",
-    "location": "Delaware City, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 38",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Clikr",
-    "description": "Turning UGC into a Revenue Driver for Both Brands and Customers",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
+    "location": "Munich, Germany",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -270,7 +240,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Laura Khoudari",
+        "name": "Andreas Moldskred",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Lauritz Weil",
         "role": "",
         "linkedin": ""
       }
@@ -282,7 +257,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "USA"
+      "country": "Germany"
     }
   },
   {
@@ -369,11 +344,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Nomadic Drones",
-    "description": "Self-Recharging Drones Autonomously Inspecting Power Grids, Enabling Proactive Maintenance at Scale",
+    "name": "Clikr",
+    "description": "Turning UGC into a Revenue Driver for Both Brands and Customers",
     "logo": "",
     "website": "",
-    "location": "Munich, Germany",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -388,12 +363,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Andreas Moldskred",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Lauritz Weil",
+        "name": "Laura Khoudari",
         "role": "",
         "linkedin": ""
       }
@@ -405,7 +375,37 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Germany"
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Warestack",
+    "description": "Engineering delivery governance for software teams",
+    "logo": "",
+    "website": "",
+    "location": "Delaware City, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 38",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
     }
   }
 ]
