@@ -2792,7 +2792,7 @@
     "description": "AI automated prior-auths for private medical practices",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/48782eb0f481328aac8f4b278b2ce32986e4a61b.png",
     "website": "https://claimglide.com/",
-    "location": "San Francisco, CA, USA",
+    "location": "Seattle, WA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -3720,8 +3720,8 @@
     "description": "Makes software self-healing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png",
     "website": "https://sonarly.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "Paris, Île-de-France, France",
+    "region": "France",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design"
@@ -4322,8 +4322,8 @@
     "description": "Plan mode for complex features",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b6c411bb6889813a0a977496d80f091ebb000aac.png",
     "website": "http://openspec.dev",
-    "location": "",
-    "region": "Unspecified",
+    "location": "Sydney, NSW, Australia",
+    "region": "Australia",
     "subregion": "",
     "tags": [],
     "year": 2026,
@@ -6663,8 +6663,8 @@
     "description": "Marketing suite for the agentic web",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ea31f29e253c2635c1eccbc268b7d4d685f8caf6.png",
     "website": "https://sitefire.ai",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "BY, Germany",
+    "region": "Germany",
     "subregion": "",
     "tags": [
       "Marketing",
@@ -7313,8 +7313,8 @@
     "description": "Low-latency execution across crypto, prediction, and tokenized assets",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
     "website": "https://sequencemkts.com/",
-    "location": "",
-    "region": "Unspecified",
+    "location": "Toronto, ON, Canada",
+    "region": "Canada",
     "subregion": "",
     "tags": [
       "Fintech"
@@ -8357,8 +8357,8 @@
     "description": "AI Agents for the supply chain.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a91425bc13e71d0ca296b97834e36834cea9ce3a.png",
     "website": "https://www.pollinate.tech/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "Brisbane, QLD, Australia",
+    "region": "Australia",
     "subregion": "",
     "tags": [
       "Supply Chain and Logistics"
@@ -9086,7 +9086,7 @@
   {
     "source": "yc",
     "name": "Hedge",
-    "description": "AI-Native wholesale insurance company",
+    "description": "AI-Native insurance company",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/757956da562e7db7b519f5658a7c7ffb78f05a6b.png",
     "website": "https://www.hedgespecialty.com/",
     "location": "San Francisco, CA, USA",
@@ -9094,7 +9094,8 @@
     "subregion": "",
     "tags": [
       "Fintech",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -14367,6 +14368,39 @@
   },
   {
     "source": "yc",
+    "name": "rekursiv.ai",
+    "description": "Scale AI scientists whose own breakthroughs accelerate the next.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f8606b08cc0428757361006dc3171d7b460ae47e.png",
+    "website": "https://rekursiv.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Intelligence Factory",
     "description": "Human Intelligence for Robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/30c1f1fb7356289878fa2341c0a20700f178fbcf.png",
@@ -14612,8 +14646,8 @@
     "description": "Enabling Model-Hardware Co-Design at Scale",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/59b2e02a314037738d9f32192f83e8bd442be246.png",
     "website": "https://runinfra.ai/",
-    "location": "",
-    "region": "Unspecified",
+    "location": "Amman, Amman Governorate, Jordan",
+    "region": "Jordan",
     "subregion": "",
     "tags": [
       "Infrastructure"
@@ -14707,7 +14741,7 @@
     "source": "yc",
     "name": "Pango",
     "description": "Agentic OS for e-commerce operations",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6b9308af1455bcde8e9b13e4cbe45eb13d33d384.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d6fb7711e26bf57516e7dcfa35cfadeb5d98b5b2.png",
     "website": "https://pango.ai/",
     "location": "Stockholm, Stockholm County, Sweden",
     "region": "Sweden",
@@ -14780,8 +14814,11 @@
     "subregion": "",
     "tags": [
       "Consumer",
+      "Finance",
       "Gaming",
-      "Consumer Finance"
+      "Investing",
+      "Consumer Finance",
+      "Stocks"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -14995,7 +15032,7 @@
   {
     "source": "yc",
     "name": "Nebula Security",
-    "description": "Our AI agent finds vulnerabilities that Mythos can't",
+    "description": "A security engineer in your team",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/33d955b678b21d1907f01bee006dfaf515655e98.png",
     "website": "https://nebusec.ai",
     "location": "Vancouver, WA, USA; Remote",
@@ -15003,8 +15040,8 @@
     "subregion": "",
     "tags": [
       "Security",
-      "Artificial Intelligence",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16119,7 +16156,7 @@
     "source": "yc",
     "name": "Greypoint Industries",
     "description": "Manufacturing the future of autonomous swarm warfare.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0639d67fe49e5a542121b3abc6ee745141eeff4b.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b0d5898f7b8fc2ee6fc19f6de3dae045123c7608.png",
     "website": "https://greypointindustries.ca/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -16194,6 +16231,38 @@
       "Artificial Intelligence",
       "SaaS",
       "Supply Chain"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Vendo",
+    "description": "Let your users build their own features on top of your product",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/78a3b3436ef4b4e09e82a4c3fcc2733004348735.png",
+    "website": "https://vendo.run/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Customer Success",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -19656,6 +19725,42 @@
   },
   {
     "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Mutaz Musa**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Asterquanta Systems Inc.",
     "description": "Semiconductor Design Automation enabled by AI",
     "logo": "",
@@ -19693,42 +19798,6 @@
     },
     "extra": {
       "country": "Canada"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Mutaz Musa**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
     }
   }
 ]

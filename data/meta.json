@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T08:38:20.663Z",
+  "generatedAt": "2026-07-20T09:39:52.800Z",
   "sources": [
     {
       "name": "500",
@@ -9,7 +9,7 @@
     {
       "name": "yc",
       "site": "https://www.ycombinator.com/companies",
-      "count": 6057
+      "count": 6059
     },
     {
       "name": "plugandplay",
@@ -38,10 +38,10 @@
     }
   ],
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data",
-  "total": 21169,
+  "total": 21171,
   "endpoints": {
     "all": {
-      "count": 21169,
+      "count": 21171,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json",
       "csv": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.csv",
       "xlsx": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx"
@@ -71,7 +71,7 @@
       {
         "name": "yc",
         "slug": "yc",
-        "count": 6057,
+        "count": 6059,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/yc.json"
       },
       {
@@ -181,7 +181,7 @@
       {
         "name": "2026",
         "slug": "2026",
-        "count": 616,
+        "count": 618,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2026.json"
       },
       {
@@ -471,7 +471,7 @@
       {
         "name": "YC Summer 2026",
         "slug": "yc-summer-2026",
-        "count": 114,
+        "count": 116,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-summer-2026.json"
       },
       {
@@ -2303,7 +2303,7 @@
       {
         "name": "United States of America",
         "slug": "united-states-of-america",
-        "count": 4512,
+        "count": 4499,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-states-of-america.json"
       },
       {
@@ -2343,21 +2343,21 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/south-asia.json"
       },
       {
-        "name": "United Kingdom",
-        "slug": "united-kingdom",
-        "count": 207,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-kingdom.json"
-      },
-      {
         "name": "Canada",
         "slug": "canada",
-        "count": 205,
+        "count": 211,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/canada.json"
+      },
+      {
+        "name": "United Kingdom",
+        "slug": "united-kingdom",
+        "count": 206,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-kingdom.json"
       },
       {
         "name": "India",
         "slug": "india",
-        "count": 200,
+        "count": 202,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/india.json"
       },
       {
@@ -2375,7 +2375,7 @@
       {
         "name": "Unspecified",
         "slug": "unspecified",
-        "count": 147,
+        "count": 123,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/unspecified.json"
       },
       {
@@ -2391,21 +2391,21 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/africa.json"
       },
       {
-        "name": "Remote",
-        "slug": "remote",
-        "count": 95,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/remote.json"
-      },
-      {
         "name": "Southeast Asia",
         "slug": "southeast-asia",
         "count": 95,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/southeast-asia.json"
       },
       {
+        "name": "Remote",
+        "slug": "remote",
+        "count": 88,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/remote.json"
+      },
+      {
         "name": "Mexico",
         "slug": "mexico",
-        "count": 79,
+        "count": 81,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/mexico.json"
       },
       {
@@ -2415,21 +2415,21 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/oceania.json"
       },
       {
-        "name": "Brazil",
-        "slug": "brazil",
-        "count": 67,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/brazil.json"
-      },
-      {
         "name": "France",
         "slug": "france",
-        "count": 65,
+        "count": 71,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/france.json"
+      },
+      {
+        "name": "Brazil",
+        "slug": "brazil",
+        "count": 68,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/brazil.json"
       },
       {
         "name": "Germany",
         "slug": "germany",
-        "count": 53,
+        "count": 61,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/germany.json"
       },
       {
@@ -2441,13 +2441,13 @@
       {
         "name": "Nigeria",
         "slug": "nigeria",
-        "count": 51,
+        "count": 50,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/nigeria.json"
       },
       {
         "name": "Israel",
         "slug": "israel",
-        "count": 32,
+        "count": 33,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/israel.json"
       },
       {
@@ -2469,6 +2469,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/spain.json"
       },
       {
+        "name": "Sweden",
+        "slug": "sweden",
+        "count": 18,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/sweden.json"
+      },
+      {
         "name": "Argentina",
         "slug": "argentina",
         "count": 18,
@@ -2481,34 +2487,34 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/chile.json"
       },
       {
-        "name": "Sweden",
-        "slug": "sweden",
-        "count": 14,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/sweden.json"
-      },
-      {
-        "name": "United Arab Emirates",
-        "slug": "united-arab-emirates",
-        "count": 14,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-arab-emirates.json"
-      },
-      {
         "name": "Australia",
         "slug": "australia",
-        "count": 14,
+        "count": 16,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/australia.json"
       },
       {
         "name": "Netherlands",
         "slug": "netherlands",
-        "count": 13,
+        "count": 15,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/netherlands.json"
+      },
+      {
+        "name": "United Arab Emirates",
+        "slug": "united-arab-emirates",
+        "count": 15,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-arab-emirates.json"
       },
       {
         "name": "Denmark",
         "slug": "denmark",
         "count": 13,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/denmark.json"
+      },
+      {
+        "name": "Switzerland",
+        "slug": "switzerland",
+        "count": 13,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/switzerland.json"
       },
       {
         "name": "Australia & NZ",
@@ -2529,16 +2535,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/pakistan.json"
       },
       {
-        "name": "Switzerland",
-        "slug": "switzerland",
-        "count": 11,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/switzerland.json"
-      },
-      {
         "name": "Kenya",
         "slug": "kenya",
         "count": 9,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/kenya.json"
+      },
+      {
+        "name": "South Korea",
+        "slug": "south-korea",
+        "count": 9,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/south-korea.json"
       },
       {
         "name": "Ireland",
@@ -2551,12 +2557,6 @@
         "slug": "philippines",
         "count": 8,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/philippines.json"
-      },
-      {
-        "name": "South Korea",
-        "slug": "south-korea",
-        "count": 8,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/south-korea.json"
       },
       {
         "name": "Malaysia",
@@ -2573,7 +2573,7 @@
       {
         "name": "Hong Kong",
         "slug": "hong-kong",
-        "count": 6,
+        "count": 7,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/hong-kong.json"
       },
       {
@@ -2595,10 +2595,22 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/slovenia.json"
       },
       {
+        "name": "Norway",
+        "slug": "norway",
+        "count": 6,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/norway.json"
+      },
+      {
         "name": "Vietnam",
         "slug": "vietnam",
         "count": 6,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/vietnam.json"
+      },
+      {
+        "name": "Austria",
+        "slug": "austria",
+        "count": 5,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/austria.json"
       },
       {
         "name": "Panama",
@@ -2607,22 +2619,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/panama.json"
       },
       {
-        "name": "Norway",
-        "slug": "norway",
-        "count": 5,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/norway.json"
-      },
-      {
-        "name": "Austria",
-        "slug": "austria",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/austria.json"
-      },
-      {
         "name": "Ghana",
         "slug": "ghana",
         "count": 4,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/ghana.json"
+      },
+      {
+        "name": "Belgium",
+        "slug": "belgium",
+        "count": 4,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/belgium.json"
       },
       {
         "name": "Saudi Arabia",
@@ -2655,16 +2661,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/turkey.json"
       },
       {
-        "name": "Belgium",
-        "slug": "belgium",
-        "count": 3,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/belgium.json"
-      },
-      {
         "name": "East Asia",
         "slug": "east-asia",
         "count": 3,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/east-asia.json"
+      },
+      {
+        "name": "Portugal",
+        "slug": "portugal",
+        "count": 2,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/portugal.json"
       },
       {
         "name": "Senegal",
@@ -2691,16 +2697,28 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/croatia.json"
       },
       {
+        "name": "Romania",
+        "slug": "romania",
+        "count": 2,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/romania.json"
+      },
+      {
+        "name": "Georgia",
+        "slug": "georgia",
+        "count": 2,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/georgia.json"
+      },
+      {
         "name": "Finland",
         "slug": "finland",
         "count": 2,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/finland.json"
       },
       {
-        "name": "Portugal",
-        "slug": "portugal",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/portugal.json"
+        "name": "Jordan",
+        "slug": "jordan",
+        "count": 2,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/jordan.json"
       },
       {
         "name": "Nepal",
@@ -2799,12 +2817,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/ivory-coast.json"
       },
       {
-        "name": "Romania",
-        "slug": "romania",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/romania.json"
-      },
-      {
         "name": "Zambia",
         "slug": "zambia",
         "count": 1,
@@ -2821,12 +2833,6 @@
         "slug": "cyprus",
         "count": 1,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/cyprus.json"
-      },
-      {
-        "name": "Georgia",
-        "slug": "georgia",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/georgia.json"
       },
       {
         "name": "Costa Rica",
@@ -2853,12 +2859,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/venezuela.json"
       },
       {
-        "name": "Jordan",
-        "slug": "jordan",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/jordan.json"
-      },
-      {
         "name": "Ethiopia",
         "slug": "ethiopia",
         "count": 1,
@@ -2877,6 +2877,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/taiwan.json"
       },
       {
+        "name": "Uruguay",
+        "slug": "uruguay",
+        "count": 1,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/uruguay.json"
+      },
+      {
         "name": "Bulgaria",
         "slug": "bulgaria",
         "count": 1,
@@ -2887,6 +2893,12 @@
         "slug": "democratic-republic-of-the-congo",
         "count": 1,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/democratic-republic-of-the-congo.json"
+      },
+      {
+        "name": "Malta",
+        "slug": "malta",
+        "count": 1,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/malta.json"
       },
       {
         "name": "Americas - United States",
@@ -2935,13 +2947,13 @@
       {
         "name": "Artificial Intelligence",
         "slug": "artificial-intelligence",
-        "count": 920,
+        "count": 918,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/artificial-intelligence.json"
       },
       {
         "name": "AI",
         "slug": "ai",
-        "count": 833,
+        "count": 838,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ai.json"
       },
       {
@@ -2971,7 +2983,7 @@
       {
         "name": "Engineering, Product and Design",
         "slug": "engineering-product-and-design",
-        "count": 611,
+        "count": 612,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/engineering-product-and-design.json"
       },
       {
@@ -3031,7 +3043,7 @@
       {
         "name": "Productivity",
         "slug": "productivity",
-        "count": 386,
+        "count": 387,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/productivity.json"
       },
       {
@@ -3169,7 +3181,7 @@
       {
         "name": "Machine Learning",
         "slug": "machine-learning",
-        "count": 230,
+        "count": 231,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/machine-learning.json"
       },
       {
@@ -3301,7 +3313,7 @@
       {
         "name": "Healthcare IT",
         "slug": "healthcare-it",
-        "count": 152,
+        "count": 153,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/healthcare-it.json"
       },
       {
@@ -3515,6 +3527,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/adtech.json"
       },
       {
+        "name": "Finance",
+        "slug": "finance",
+        "count": 90,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finance.json"
+      },
+      {
         "name": "New Materials & Packaging",
         "slug": "new-materials-packaging",
         "count": 90,
@@ -3525,12 +3543,6 @@
         "slug": "fashion",
         "count": 89,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/fashion.json"
-      },
-      {
-        "name": "Finance",
-        "slug": "finance",
-        "count": 89,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finance.json"
       },
       {
         "name": "Crypto / Web3",
@@ -3631,7 +3643,7 @@
       {
         "name": "Healthcare Services",
         "slug": "healthcare-services",
-        "count": 73,
+        "count": 72,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/healthcare-services.json"
       },
       {
@@ -3701,6 +3713,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/aviation-and-space.json"
       },
       {
+        "name": "Investing",
+        "slug": "investing",
+        "count": 59,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/investing.json"
+      },
+      {
         "name": "Beauty",
         "slug": "beauty",
         "count": 58,
@@ -3717,12 +3735,6 @@
         "slug": "community",
         "count": 58,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/community.json"
-      },
-      {
-        "name": "Investing",
-        "slug": "investing",
-        "count": 58,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/investing.json"
       },
       {
         "name": "AIOps",
@@ -3959,16 +3971,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/e-commerce.json"
       },
       {
+        "name": "Deep Learning",
+        "slug": "deep-learning",
+        "count": 40,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/deep-learning.json"
+      },
+      {
         "name": "Sales Enablement",
         "slug": "sales-enablement",
         "count": 39,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sales-enablement.json"
-      },
-      {
-        "name": "Deep Learning",
-        "slug": "deep-learning",
-        "count": 39,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/deep-learning.json"
       },
       {
         "name": "Crypto & Digital Assets",
@@ -4241,6 +4253,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/nonprofit.json"
       },
       {
+        "name": "Customer Success",
+        "slug": "customer-success",
+        "count": 25,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/customer-success.json"
+      },
+      {
         "name": "Housing",
         "slug": "housing",
         "count": 25,
@@ -4257,12 +4275,6 @@
         "slug": "office-management",
         "count": 24,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/office-management.json"
-      },
-      {
-        "name": "Customer Success",
-        "slug": "customer-success",
-        "count": 24,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/customer-success.json"
       },
       {
         "name": "Databases",
@@ -5087,6 +5099,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/airlines.json"
       },
       {
+        "name": "Stocks",
+        "slug": "stocks",
+        "count": 5,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/stocks.json"
+      },
+      {
         "name": "Self-Driving Vehicles",
         "slug": "self-driving-vehicles",
         "count": 5,
@@ -5187,12 +5205,6 @@
         "slug": "recommendation-system",
         "count": 4,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/recommendation-system.json"
-      },
-      {
-        "name": "Stocks",
-        "slug": "stocks",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/stocks.json"
       },
       {
         "name": "Apparel",
