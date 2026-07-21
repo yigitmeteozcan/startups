@@ -4730,7 +4730,7 @@
   {
     "source": "yc",
     "name": "Skillsync",
-    "description": "Discord for building with agents",
+    "description": "Github for agent sessions",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9cbaacf18216a2c670dfe6e49d4332b592214780.png",
     "website": "https://skillsync.com",
     "location": "San Francisco, CA, USA",
@@ -7583,7 +7583,7 @@
   {
     "source": "yc",
     "name": "Corelayer",
-    "description": "AI on-call engineer for data-heavy, regulated industries",
+    "description": "AI production engineer for regulated industries",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
     "website": "https://www.corelayer.com",
     "location": "San Francisco, CA, USA",
@@ -8415,8 +8415,8 @@
     "description": "AI-native platform for Life-Sciences Documentation ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png",
     "website": "https://www.ritivel.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "Bengaluru, KA, India",
+    "region": "India",
     "subregion": "",
     "tags": [
       "Healthcare",
@@ -8969,7 +8969,7 @@
     "source": "yc",
     "name": "Litmus",
     "description": "Run an async work trial on every engineer you interview.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/516ca1f368566ec2f95995b8719badb42677caec.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/39a17e0191e960065ada172370fa314ccb65fc28.png",
     "website": "https://litmushiring.com/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
@@ -9362,7 +9362,7 @@
     "source": "yc",
     "name": "Illume Labs",
     "description": "24/7 Personal Health & Longevity Companion",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dd1ef3f79f970a8952409fdf5f74ab223d1c47c4.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/72dfae7e6f3aa505626a7c902f014e294cc6ab91.png",
     "website": "https://www.illumelabs.ai",
     "location": "Boston, MA, USA",
     "region": "United States of America",
@@ -10073,7 +10073,7 @@
     "name": "Atrisa",
     "description": "AI Agents for Analog Circuit Design",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4617548496dbefec602196f4a8fd1a7cc44bc632.png",
-    "website": "https://refortif.ai",
+    "website": "https://atrisa.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -14255,7 +14255,8 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -14936,6 +14937,39 @@
   },
   {
     "source": "yc",
+    "name": "Olam Labs",
+    "description": "Evaluating models for behavior and performance through simulated games",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d6d9543a0527b0b5ac428e043f211c75ac5d1d59.png",
+    "website": "https://olamlabs.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Gaming",
+      "Data Engineering"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Belvedir",
     "description": "The autonomous private AI platform.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f563d562770577c32b95513d2c40e79d38c42745.png",
@@ -15040,8 +15074,9 @@
     "subregion": "",
     "tags": [
       "Security",
+      "Artificial Intelligence",
       "Cybersecurity",
-      "AI"
+      "Enterprise"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -15785,6 +15820,42 @@
   },
   {
     "source": "yc",
+    "name": "Manifold",
+    "description": "Low-cost, deployment-ready robotic labor for warehouses",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/98f03122e41743439cec57f8152eac9cd506d714.png",
+    "website": "https://www.manifoldindustries.ai/",
+    "location": "Los Angeles, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Hardware",
+      "Warehouse Management Tech",
+      "Robotics",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Alkera AI",
     "description": "Reliable and safe data engineering and data science agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eecc1a49c35b3a26973c35ce53d1c3f862a058cb.png",
@@ -15888,7 +15959,7 @@
   {
     "source": "yc",
     "name": "Molagri",
-    "description": "Biopesticides that are safe for humans and bees.",
+    "description": "Resistance free pesticides.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/71eba8e2b8b0a262e4c76ef41e5ab46b59552e6d.png",
     "website": "https://molagri.com",
     "location": "Toronto, ON, Canada",
@@ -16219,6 +16290,41 @@
   },
   {
     "source": "yc",
+    "name": "Orvixo",
+    "description": "AI advanced planning and optimisation for manufacturers.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ddba7253c3011655d54f0092475cf8b1618333c9.png",
+    "website": "https://www.orvixo.ai/",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Robotics",
+      "Manufacturing",
+      "Operations"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Whitespace",
     "description": "AI Operating System for Wholesale Distributors",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d7ab9b902afa3fe0a37b3622022557a9cd82d082.png",
@@ -16414,7 +16520,7 @@
   {
     "source": "yc",
     "name": "Risklytics",
-    "description": "Property-Level Natural Disaster Risk Modeling",
+    "description": "AI-Native Brokerage for Hard-to-Place Commercial Insurance",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b0ad1653f775fb272b3481e8715c274f46c2c464.png",
     "website": "https://www.risklytics.ai/",
     "location": "San Francisco, CA, USA",
@@ -16558,6 +16664,39 @@
       "Healthcare IT",
       "Dental",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Last Accounting Company",
+    "description": "Agent-native accounting firm.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cf21d2add4951b9271177840cd785b32579fdb0f.png",
+    "website": "https://lastaccountingcompany.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Finance and Accounting",
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18236,13 +18375,16 @@
   {
     "source": "500",
     "name": "Evermuse",
-    "description": "",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/a08cc422-feef-4a62-b1b1-480aab9f4b81.png",
+    "description": "Evermuse helps Product teams ship 12X faster with code-ready, well-researched feature specs shaped by all customer signals.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/2c3a3225-f138-410e-9377-eac0127954e4.png",
     "website": "https://www.evermuse.com",
     "location": "UNITED STATES",
     "region": "",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "AI/Machine Learning",
+      "Productivity"
+    ],
     "year": 2026,
     "program": "Eurasia 10",
     "programSlugs": [
@@ -18260,7 +18402,7 @@
       }
     ],
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/evermuse/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -19408,6 +19550,47 @@
   },
   {
     "source": "ef",
+    "name": "Operon",
+    "description": "Operating brain for modern manufacturing.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Shatrughan Singh",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/shatrughaniitd/"
+      },
+      {
+        "name": "Sumesh Meppadath",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/sumesh-meppadath-176553124/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
     "name": "Helicon",
     "description": "America's carbon fiber foundry for unmanned systems.",
     "logo": "",
@@ -19604,6 +19787,47 @@
         "name": "Tattvam Nair",
         "role": "COO",
         "linkedin": "https://www.linkedin.com/in/tattvam-nair-a35191197/ "
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Miles",
+    "description": "Resurfacing your saved content.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Nishant Chahar",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/chaharnishant11/"
+      },
+      {
+        "name": "Deepak .",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/deepakkhichar/"
       }
     ],
     "social": {

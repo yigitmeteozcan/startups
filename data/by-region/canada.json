@@ -4821,7 +4821,7 @@
   {
     "source": "yc",
     "name": "Molagri",
-    "description": "Biopesticides that are safe for humans and bees.",
+    "description": "Resistance free pesticides.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/71eba8e2b8b0a262e4c76ef41e5ab46b59552e6d.png",
     "website": "https://molagri.com",
     "location": "Toronto, ON, Canada",
@@ -6987,18 +6987,18 @@
   },
   {
     "source": "500",
-    "name": "WayPay",
-    "description": "Operator of a payments platform intended to simplify business payments. The company's platform connects any accounts payable system and automatically reconciles payments sent to local or international suppliers from any combination of bank and credit card accounts, enabling small and medium enterprises to easily, efficiently and cost effectively make payments for their business expenses.",
-    "logo": "",
-    "website": "https://waypay.ca",
+    "name": "Clarity",
+    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
+    "website": "https://clarity.fm",
     "location": "Canada",
     "region": "Canada",
     "subregion": "",
     "tags": [
-      "Payments"
+      "Consumer"
     ],
-    "year": 2017,
-    "program": "GA 22",
+    "year": 2012,
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -7008,17 +7008,119 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Robert Bast",
+        "name": "Dan Martell",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Roberto Ramesar",
+        "name": "Mike Wu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Neutun",
+    "description": "Developer of a novel tracking software designed to track epileptic events. The company's novel tracking software offers a pre existing wearable offers continuous passive tracking, medication reminders, notification and recording progress services, enabling epilepsy patients with a seizure tracking tool to track chronic and acute health conditions.",
+    "logo": "",
+    "website": "https://neutun.com",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Health Tech"
+    ],
+    "year": 2016,
+    "program": "GA 16",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alexander Dolan",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Hootan Arbab",
+        "name": "Eric Dolan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Unbounce",
+    "description": "Provider of an online platform designed to increase website and campaign conversions. The company's platform provides tools to build custom landing pages, which increase website and campaign conversions and helps marketers to quickly create, launch and test high-converting landing pages, popups, and sticky bars without developers, enabling them to create better marketing experiences.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ee27fbe6-3800-4fb3-8d90-fb388160f63e.png",
+    "website": "https://unbounce.com",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Developer Tools"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Carl Schmidt",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Carter Gilchrist",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jason Murphy",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Justin Stacey",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Oli Gardner",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rick Perreault",
         "role": "",
         "linkedin": ""
       }
@@ -7093,6 +7195,54 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
+    "name": "WayPay",
+    "description": "Operator of a payments platform intended to simplify business payments. The company's platform connects any accounts payable system and automatically reconciles payments sent to local or international suppliers from any combination of bank and credit card accounts, enabling small and medium enterprises to easily, efficiently and cost effectively make payments for their business expenses.",
+    "logo": "",
+    "website": "https://waypay.ca",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Payments"
+    ],
+    "year": 2017,
+    "program": "GA 22",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Robert Bast",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Roberto Ramesar",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Hootan Arbab",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7304,60 +7454,6 @@
   },
   {
     "source": "500",
-    "name": "Turnstyle",
-    "description": "Turnstyle is a proximity based marketing tool for local retailers who offer their patrons free wifi. By exchanging Facebook login for free wifi, retailers can connect with people who have walked through their door in the future to boost future engagement.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9d4c4aca-b919-4cb1-b252-34c414cb1c10.png",
-    "website": "https://getturnstyle.com",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Content",
-      "Developer Tools"
-    ],
-    "year": 2016,
-    "program": "Distro 1",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Matt Hunter",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Devon Wright",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Nav Sangha",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Chris Gilpin",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "500",
     "name": "Innohub",
     "description": "Developer of automated data analysis and visualization platform designed to make data accessible and insightful. The company's automated data analysis and visualization platform offers data automation, data integration and analysis, enabling companies and their employees to request, analyze and visualize internal business data to quickly capitalize on hidden trends and improve organizational productivity.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/81f7bce7-44bf-4c17-8d0e-b568be15f80b.png",
@@ -7401,105 +7497,19 @@
   },
   {
     "source": "500",
-    "name": "Clarity",
-    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
-    "website": "https://clarity.fm",
+    "name": "Turnstyle",
+    "description": "Turnstyle is a proximity based marketing tool for local retailers who offer their patrons free wifi. By exchanging Facebook login for free wifi, retailers can connect with people who have walked through their door in the future to boost future engagement.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9d4c4aca-b919-4cb1-b252-34c414cb1c10.png",
+    "website": "https://getturnstyle.com",
     "location": "Canada",
     "region": "Canada",
     "subregion": "",
     "tags": [
-      "Consumer"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dan Martell",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mike Wu",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Neutun",
-    "description": "Developer of a novel tracking software designed to track epileptic events. The company's novel tracking software offers a pre existing wearable offers continuous passive tracking, medication reminders, notification and recording progress services, enabling epilepsy patients with a seizure tracking tool to track chronic and acute health conditions.",
-    "logo": "",
-    "website": "https://neutun.com",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Health Tech"
-    ],
-    "year": 2016,
-    "program": "GA 16",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alexander Dolan",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Eric Dolan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Unbounce",
-    "description": "Provider of an online platform designed to increase website and campaign conversions. The company's platform provides tools to build custom landing pages, which increase website and campaign conversions and helps marketers to quickly create, launch and test high-converting landing pages, popups, and sticky bars without developers, enabling them to create better marketing experiences.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ee27fbe6-3800-4fb3-8d90-fb388160f63e.png",
-    "website": "https://unbounce.com",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics",
+      "Content",
       "Developer Tools"
     ],
-    "year": 2011,
-    "program": "500 Global",
+    "year": 2016,
+    "program": "Distro 1",
     "programSlugs": [
       "500"
     ],
@@ -7509,32 +7519,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Carl Schmidt",
+        "name": "Matt Hunter",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Carter Gilchrist",
+        "name": "Devon Wright",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Jason Murphy",
+        "name": "Nav Sangha",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Justin Stacey",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Oli Gardner",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Rick Perreault",
+        "name": "Chris Gilpin",
         "role": "",
         "linkedin": ""
       }

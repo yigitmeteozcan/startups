@@ -15458,7 +15458,7 @@
     "tags": [
       "Consumer",
       "Food and Beverage",
-      "Health & Wellness",
+      "Robotics",
       "Food Tech"
     ],
     "year": 2019,
@@ -27628,6 +27628,40 @@
   },
   {
     "source": "yc",
+    "name": "Wordware",
+    "description": "AI agents you can rely on",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
+    "website": "https://wordware.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "AIOps",
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "year": 2024,
+    "program": "YC Summer 2024",
+    "programSlugs": [
+      "yc-summer-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Stardrift",
     "description": "AI travel planner",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/509f2048cdd77eab05ee8a3d68e8bbc31e9d9af1.png",
@@ -28424,7 +28458,7 @@
   {
     "source": "yc",
     "name": "Streamable",
-    "description": "Enabling IRL streamers to do what they love.",
+    "description": "Powering the biggest IRL streamers today.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cdee682cffd04f37019b910b81a540343c3ed75e.png",
     "website": "https://streamable.run",
     "location": "San Francisco, CA, USA",
@@ -28432,9 +28466,9 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Artificial Intelligence",
       "Social Media",
-      "Live"
+      "Live",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Fall 2024",
@@ -29678,9 +29712,9 @@
     "subregion": "",
     "tags": [
       "Consumer",
+      "Artificial Intelligence",
       "Design",
-      "Crowdsourcing",
-      "AI"
+      "Crowdsourcing"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -31378,7 +31412,8 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -35411,6 +35446,49 @@
   },
   {
     "source": "500",
+    "name": "Clarity",
+    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
+    "website": "https://clarity.fm",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Consumer"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dan Martell",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike Wu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
     "name": "CraftCoffee",
     "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
@@ -35492,49 +35570,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Clarity",
-    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
-    "website": "https://clarity.fm",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Consumer"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dan Martell",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mike Wu",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
     }
   }
 ]
