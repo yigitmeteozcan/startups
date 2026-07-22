@@ -535,15 +535,16 @@
   },
   {
     "source": "500",
-    "name": "WayPay",
-    "description": "Operator of a payments platform intended to simplify business payments. The company's platform connects any accounts payable system and automatically reconciles payments sent to local or international suppliers from any combination of bank and credit card accounts, enabling small and medium enterprises to easily, efficiently and cost effectively make payments for their business expenses.",
-    "logo": "",
-    "website": "https://waypay.ca",
-    "location": "Canada",
-    "region": "Canada",
+    "name": "Rever Moto",
+    "description": "Developer of a mobile application designed to connect a global community of motorcycle enthusiasts. The company's application discovers the best places to ride, enabling motorcycle enthusiasts to record and track their rides and share their favorite roads and routes with other enthusiasts in the community easily.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c16e555c-ea97-4796-bb4f-edb0f6766aef.png",
+    "website": "https://rever.co",
+    "location": "United States",
+    "region": "North America",
     "subregion": "",
     "tags": [
-      "Payments"
+      "Mobility",
+      "Social Impact"
     ],
     "year": 2017,
     "program": "GA 22",
@@ -556,17 +557,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Robert Bast",
+        "name": "Justin Bradshaw",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Roberto Ramesar",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Hootan Arbab",
+        "name": "Mark Roebke",
         "role": "",
         "linkedin": ""
       }
@@ -578,7 +574,50 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Canada"
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Mailhaven",
+    "description": "Developer of a mailbox application designed to track packages. The company's mailbox application permits managing of online purchases and automated tracking of shipments, enabling users to simplify package tracking.",
+    "logo": "",
+    "website": "https://mailhaven.co",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Supply Chain"
+    ],
+    "year": 2017,
+    "program": "GA 22",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Kelachukwu Ivonye",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jonathan Frazier",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   },
   {
@@ -610,50 +649,6 @@
       },
       {
         "name": "Shaun Moore",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Rever Moto",
-    "description": "Developer of a mobile application designed to connect a global community of motorcycle enthusiasts. The company's application discovers the best places to ride, enabling motorcycle enthusiasts to record and track their rides and share their favorite roads and routes with other enthusiasts in the community easily.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c16e555c-ea97-4796-bb4f-edb0f6766aef.png",
-    "website": "https://rever.co",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Mobility",
-      "Social Impact"
-    ],
-    "year": 2017,
-    "program": "GA 22",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Justin Bradshaw",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mark Roebke",
         "role": "",
         "linkedin": ""
       }
@@ -713,15 +708,15 @@
   },
   {
     "source": "500",
-    "name": "Mailhaven",
-    "description": "Developer of a mailbox application designed to track packages. The company's mailbox application permits managing of online purchases and automated tracking of shipments, enabling users to simplify package tracking.",
+    "name": "WayPay",
+    "description": "Operator of a payments platform intended to simplify business payments. The company's platform connects any accounts payable system and automatically reconciles payments sent to local or international suppliers from any combination of bank and credit card accounts, enabling small and medium enterprises to easily, efficiently and cost effectively make payments for their business expenses.",
     "logo": "",
-    "website": "https://mailhaven.co",
-    "location": "United States",
-    "region": "North America",
+    "website": "https://waypay.ca",
+    "location": "Canada",
+    "region": "Canada",
     "subregion": "",
     "tags": [
-      "Supply Chain"
+      "Payments"
     ],
     "year": 2017,
     "program": "GA 22",
@@ -734,12 +729,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Kelachukwu Ivonye",
+        "name": "Robert Bast",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Jonathan Frazier",
+        "name": "Roberto Ramesar",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Hootan Arbab",
         "role": "",
         "linkedin": ""
       }
@@ -751,7 +751,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
+      "country": "Canada"
     }
   }
 ]

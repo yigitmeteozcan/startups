@@ -3287,17 +3287,16 @@
   {
     "source": "yc",
     "name": "TrustAI",
-    "description": "Suggested cross-tool automations that run in one-click in background",
+    "description": "Continuous compliance and governance for agents on sensitive systems",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
-    "website": "https://auto.trytrust.ai/",
+    "website": "https://trytrust.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure",
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Productivity"
+      "Security",
+      "Compliance",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -6695,7 +6694,7 @@
     "description": "The first exchange to trade on attention.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8d74562fedba22811a7ce25c1922d244abfba883.png",
     "website": "https://www.forum.market/",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -7399,17 +7398,17 @@
   },
   {
     "source": "yc",
-    "name": "Glue",
-    "description": "The Interface Design Canvas for AI agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94793bf221bc6ce91588050e2c5778b8af1a1941.png",
+    "name": "Anchorhead",
+    "description": "Fractional buyer for hardware companies in critical industries",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7b4d1a0f867d8f5d24359da3d4d5fca3fbbabe57.png",
     "website": "https://buildwithglue.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design",
-      "Developer Tools",
-      "Design Tools"
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Industrial"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -8969,7 +8968,7 @@
     "source": "yc",
     "name": "Litmus",
     "description": "Run an async work trial on every engineer you interview.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/39a17e0191e960065ada172370fa314ccb65fc28.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4a56ea18c8e5d64454459c33f797c9c803995b44.png",
     "website": "https://litmushiring.com/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
@@ -14553,6 +14552,39 @@
   },
   {
     "source": "yc",
+    "name": "Proprio Robotics",
+    "description": "Building autonomous data centers",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3aeac99898de10d679342b3768b7bc6047f56469.png",
+    "website": "https://www.propriorobotics.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Robotics"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Rindler",
     "description": "The translation layer between AI agents and the web",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
@@ -14586,8 +14618,8 @@
   {
     "source": "yc",
     "name": "HeyClicky",
-    "description": "The simplest AI interface in the world for consumers to spawn agents.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/34ed2451ac5368900060488563c63ff6cbf673d7.png",
+    "description": "The simplest interface in the world to talk AI models + spawn agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/64ec16230f1dd8e0dac5872dd520347d50014996.png",
     "website": "https://heyclicky.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -14906,10 +14938,10 @@
   },
   {
     "source": "yc",
-    "name": "Notyfi",
-    "description": "Live alerts for anything happening in the world.",
+    "name": "Perceptron ML",
+    "description": "The ground-truth layer for AI agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/39ef9d285402475a966cd1a646ae8e3b72115c89.png",
-    "website": "https://notyfi.com",
+    "website": "https://perceptronml.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -14949,6 +14981,41 @@
       "Reinforcement Learning",
       "Gaming",
       "Data Engineering"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Shielded",
+    "description": "We automate supply chain and financial risk management ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eec883dcf84a87963c1d7874cef470c16c9dad19.png",
+    "website": "https://www.shieldedglobal.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Finance and Accounting",
+      "Fintech",
+      "Supply Chain",
+      "Agriculture",
+      "Energy",
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -15533,7 +15600,7 @@
   {
     "source": "yc",
     "name": "Bizmark",
-    "description": "The bespoke operating system for manufacturers and distributors.",
+    "description": "The bespoke operating system for manufacturers.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4791de2dabb8bec7ed5148dd8de1f8400f029cbd.png",
     "website": "https://bizmark.ai",
     "location": "San Francisco, CA, USA",
@@ -16367,8 +16434,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Customer Success",
-      "AI"
+      "Open Source"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16663,6 +16731,41 @@
       "Healthcare",
       "Healthcare IT",
       "Dental",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Computable",
+    "description": "Buy, sell, and redeem GPU hours for any week with instant liquidity",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4778fcb121d43a885f6b39a13d66a2fe2364fb1a.png",
+    "website": "https://getcomputable.com",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Marketplace",
+      "Finance",
+      "Cloud Computing",
+      "Trading",
       "AI"
     ],
     "year": 2026,
@@ -17473,9 +17576,9 @@
     "subregion": "",
     "tags": [
       "Security",
+      "Artificial Intelligence",
       "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17498,7 +17601,7 @@
   {
     "source": "yc",
     "name": "Nex",
-    "description": "Turn manual workflows into AI agents",
+    "description": "Claude Cowork with your model of choice",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8f563ce5c802b34a01e9ad0f5641eb4bb092c6c.png",
     "website": "https://nex.ai",
     "location": "San Francisco, CA, USA",
@@ -17669,7 +17772,7 @@
   {
     "source": "yc",
     "name": "Billow AI Labs",
-    "description": "AI-native Accounting & Finance Firm for Regulated Industries",
+    "description": "AI-native Accounting & Finance Firm to Replace the Big-4",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2c42b391e7d2cf9beb71d20f5ce1ed2b4e77e77d.png",
     "website": "https://thebillow.ai/",
     "location": "San Francisco, CA, USA",
@@ -19908,47 +20011,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Luce Labs",
-    "description": "Programmable expression of high-value plant compounds\n",
-    "logo": "",
-    "website": "",
-    "location": "Chicago, IL, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Luigi Guadagno**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**James Russell**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Renna Health",
     "description": "The AI for ER workflows. ",
     "logo": "",
@@ -20022,6 +20084,47 @@
     },
     "extra": {
       "country": "Canada"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Luce Labs",
+    "description": "Programmable expression of high-value plant compounds\n",
+    "logo": "",
+    "website": "",
+    "location": "Chicago, IL, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Luigi Guadagno**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**James Russell**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
     }
   }
 ]
