@@ -302,11 +302,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Tallyfy",
-    "description": "Never forget a task",
+    "name": "Roxy",
+    "description": "Venture-Backed Company that Creates Intelligent, Conversational Devices for Businesses, Providing Patrons with On-Site Information and Services",
     "logo": "",
     "website": "",
-    "location": "St. Louis, MO, USA",
+    "location": "Seattle, WA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -315,11 +315,27 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Cam Urban",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Peng \"Michael\" Shao",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Le \"Grace\" Huang",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -328,66 +344,6 @@
     },
     "extra": {
       "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Plan",
-    "description": "Plan builds software that acts as the central brain of a company -- automating the role of a manager or operator for a team.\n\n",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2016,
-    "program": "Alchemist Class 14",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Remote Interview, Inc.",
-    "description": "Online programming screening",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2016,
-    "program": "Alchemist Class 14",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": ""
     }
   },
   {
@@ -433,6 +389,36 @@
   },
   {
     "source": "alchemist",
+    "name": "Tallyfy",
+    "description": "Never forget a task",
+    "logo": "",
+    "website": "",
+    "location": "St. Louis, MO, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2016,
+    "program": "Alchemist Class 14",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Adenda",
     "description": "Adenda uses AI to power next-generation push notifications that are full-page, interactive, and rich media. Notifications pushed through Adenda have up to 10 times the engagement rate of traditional push notifications, and increase overall revenue per user by 50%. Adenda processes over 90 Million events monthly, has $1M in annual bookings, 25% month-over-month growth, and has been profitable for the past 5 quarters. Customers of Adenda include US Cellular, InMobi, and TIM, Brazil's second largest mobile operator with 75 Million subscribers.",
     "logo": "",
@@ -463,11 +449,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Roxy",
-    "description": "Venture-Backed Company that Creates Intelligent, Conversational Devices for Businesses, Providing Patrons with On-Site Information and Services",
+    "name": "Remote Interview, Inc.",
+    "description": "Online programming screening",
     "logo": "",
     "website": "",
-    "location": "Seattle, WA, USA",
+    "location": "",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -476,27 +462,41 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": true,
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Cam Urban",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Peng \"Michael\" Shao",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Le \"Grace\" Huang",
-        "role": "",
-        "linkedin": ""
-      }
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": ""
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Plan",
+    "description": "Plan builds software that acts as the central brain of a company -- automating the role of a manager or operator for a team.\n\n",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2016,
+    "program": "Alchemist Class 14",
+    "programSlugs": [
+      "alchemist"
     ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",

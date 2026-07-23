@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-22._
+_Auto-generated from the dataset on 2026-07-23._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,182** |
+| Total companies | **21,188** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2751** |
+| 💰 Exits | **2752** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-07-22._
 
 | Source | Companies |
 |---|---|
-| yc | 6,066 |
+| yc | 6,072 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,245 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-22._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1447
 2025  ████████████████████░░░░░░░░ 1048
-2026  ████████████░░░░░░░░░░░░░░░░ 627
+2026  ████████████░░░░░░░░░░░░░░░░ 633
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -102,30 +102,30 @@ _Auto-generated from the dataset on 2026-07-22._
 15. **YC Summer 2023** — 220
 
 ## Top industries
-1. **Fintech** — 2463
+1. **Fintech** — 2464
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1412
 4. **Mobile** — 1141
-5. **Consumer** — 1054
-6. **Artificial Intelligence** — 920
-7. **AI** — 842
-8. **Healthcare** — 803
-9. **Developer Tools** — 693
+5. **Consumer** — 1056
+6. **Artificial Intelligence** — 928
+7. **AI** — 841
+8. **Healthcare** — 804
+9. **Developer Tools** — 692
 10. **Infrastructure** — 674
 11. **Health** — 663
 12. **Engineering, Product and Design** — 611
-13. **Industrials** — 594
+13. **Industrials** — 596
 14. **B2B Software** — 549
 15. **Insurtech** — 513
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
 18. **Healthtech** — 440
-19. **Energy** — 424
+19. **Energy** — 425
 20. **Mobility & Physical AI** — 409
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4505
+2. **United States of America** — 4510
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -144,7 +144,7 @@ _Auto-generated from the dataset on 2026-07-22._
 18. **Remote** — 88
 19. **Mexico** — 81
 20. **Oceania** — 73
-21. **France** — 71
+21. **France** — 72
 22. **Brazil** — 68
 23. **Germany** — 61
 24. **Singapore** — 51

@@ -16082,7 +16082,7 @@
   {
     "source": "yc",
     "name": "ParadeDB",
-    "description": "Simple, Elastic-quality search for Postgres",
+    "description": "Unify application data, vectors, and full-text search in one Postgres",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "location": "San Francisco, CA, USA",
@@ -16816,13 +16816,12 @@
     "name": "NowHouse",
     "description": "NowHouse helps stock brokerages settle trades instantly.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5a46937fb560137c8e2a3bbcfcaf475423a4d2fc.png",
-    "website": "https://www.nowhouse.io",
+    "website": "",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Fintech",
-      "SaaS",
       "Enterprise",
       "Infrastructure",
       "AI"
@@ -17340,7 +17339,7 @@
   {
     "source": "yc",
     "name": "Oway",
-    "description": "AI Infrastructure for America’s Empty Truck Space",
+    "description": "Turning America’s supply chain inefficiency into infrastructure.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
     "website": "https://www.shipoway.com",
     "location": "San Francisco, CA, USA",
@@ -17348,8 +17347,8 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Logistics",
-      "AI"
+      "Artificial Intelligence",
+      "Logistics"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -19079,6 +19078,39 @@
   },
   {
     "source": "yc",
+    "name": "Induction Labs",
+    "description": "Building intellectually curious AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0c2f926be6434de6b8c75a3a873f2b79fe0bdf59.png",
+    "website": "https://inductionlabs.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Deep Learning",
+      "Hard Tech",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Manufact",
     "description": "Cloud infrastructure for MCP servers and Claude / ChatGPT apps.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
@@ -19504,10 +19536,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Marketplace",
       "Data Labeling",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -20376,7 +20408,7 @@
   {
     "source": "yc",
     "name": "Moda",
-    "description": "The monitoring layer your AI agents need.",
+    "description": "Continual learning for AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
     "website": "https://moda.dev",
     "location": "San Francisco, CA, USA",
@@ -20752,36 +20784,6 @@
     "description": "Scalable windows desktop automations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
     "website": "https://minicor.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Infrastructure"
-    ],
-    "year": 2026,
-    "program": "YC Spring 2026",
-    "programSlugs": [
-      "yc-spring-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "General Instinct",
-    "description": "Deployable Physical AI on Any Edge Device.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e506831e9805799a19c0fa94ac85f0578ee4374e.png",
-    "website": "https://general-instinct.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -21441,11 +21443,11 @@
   {
     "source": "yc",
     "name": "machine0",
-    "description": "Persistent & powerful cloud VMs from your CLI",
+    "description": "One command gives your agent its own cloud computer",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c00ce2cbd95a0e0d81ff55b96ce241fb3462c28b.png",
     "website": "https://machine0.io",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "Paris, Île-de-France, France",
+    "region": "France",
     "subregion": "",
     "tags": [
       "Infrastructure",
