@@ -64753,7 +64753,7 @@
   {
     "source": "yc",
     "name": "Popl",
-    "description": "Your AI GTM platform for event lead capture",
+    "description": "Your AI GTM platform for In-Person Events",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/38d405f6de14f8d3d7f5c8feb80ff7911ac69ec2.png",
     "website": "https://popl.co/",
     "location": "New York City, NY, USA; Remote",
@@ -73050,7 +73050,7 @@
   {
     "source": "yc",
     "name": "Ferveret",
-    "description": "Liquid cooling solutions inspired by nuclear reactor cooling",
+    "description": "Nuclear-inspired cooling that turns wasted power into more AI compute",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5df9957e26e62bd0ce5370986cca3a22a7822646.png",
     "website": "http://www.ferveret.com",
     "location": "San Francisco, CA, USA",
@@ -73058,9 +73058,9 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Climate",
+      "Energy",
       "Hardware",
-      "Energy"
+      "Climate"
     ],
     "year": 2021,
     "program": "YC Summer 2021",
@@ -107405,14 +107405,19 @@
   {
     "source": "yc",
     "name": "Parahelp",
-    "description": "The AI agent that resolves complex support tickets, effortlessly",
+    "description": "Build an AI support agent that can use all your tools",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4d8bd41bea120a97058cce60e2d04af90f42a4c8.png",
     "website": "https://parahelp.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Operations"
+      "Operations",
+      "Customer Success",
+      "Customer Service",
+      "Customer Support",
+      "AI",
+      "Conversational AI"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -124504,7 +124509,7 @@
   {
     "source": "yc",
     "name": "Async",
-    "description": "AI Agents for Small Businesses",
+    "description": "Skilled Digital Labor for Small Businesses",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
     "website": "https://withasync.com",
     "location": "New York City, NY, USA",
@@ -125562,7 +125567,7 @@
   {
     "source": "yc",
     "name": "GhostEye",
-    "description": "AI-Powered Social Engineering Defense",
+    "description": "Your always-on red team.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5e189bef77c95ad81a23c2a379e641dd9f19e141.png",
     "website": "https://ghosteye.ai",
     "location": "New York City, NY, USA",
@@ -128263,10 +128268,10 @@
     "subregion": "",
     "tags": [
       "Marketing",
+      "Artificial Intelligence",
       "SaaS",
       "Analytics",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -131603,6 +131608,40 @@
   },
   {
     "source": "yc",
+    "name": "Clicks",
+    "description": "AI agents for your back-office operations.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9ba947944afd3b1dfe85a7f3891e69a0b39e5fe9.png",
+    "website": "https://goclicks.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Health Insurance"
+    ],
+    "year": 2025,
+    "program": "YC Fall 2025",
+    "programSlugs": [
+      "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Voltair",
     "description": "Autonomous Drones for Earth Observation",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a981c3ee0de6ecf9a915e188b211780fce335e44.png",
@@ -133518,7 +133557,7 @@
   {
     "source": "yc",
     "name": "21st",
-    "description": "Infrastructure and UI building blocks for the agentic internet",
+    "description": "UI building blocks for the agentic internet",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://21st.dev",
     "location": "San Francisco, CA, USA",
@@ -136620,8 +136659,8 @@
     "subregion": "",
     "tags": [
       "Healthcare",
-      "Artificial Intelligence",
-      "Consumer Health Services"
+      "Consumer Health Services",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -144539,8 +144578,43 @@
   },
   {
     "source": "yc",
+    "name": "Neuron Industries",
+    "description": "Industrial Controllers built for AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12fc3438894b5a05c8d3d1997a329d2c5053c9b8.png",
+    "website": "https://neuronindustries.com",
+    "location": "Los Angeles, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Robotic Process Automation",
+      "Manufacturing",
+      "Automation",
+      "Industrial"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Vestris",
-    "description": "Replaces title searchers and closes property deals",
+    "description": "AI agents for the full real estate closing stack",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e17d90c0a32a27bdb75bac6bb8a2ca4e0ad1646d.png",
     "website": "https://vestris.ai/",
     "location": "San Francisco, CA, USA",
@@ -144843,16 +144917,16 @@
     "description": "Scalable Personalised Cancer Treatment",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6f6bf83f60f82f47f1a3b961153608810edebb3b.png",
     "website": "https://gamgee.io/",
-    "location": "Tampa, FL, USA; Remote",
+    "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Healthcare",
       "Drug Discovery and Delivery",
-      "Artificial Intelligence",
       "Biotech",
       "Genomics",
-      "Oncology"
+      "Oncology",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -145046,6 +145120,41 @@
     "tags": [
       "Artificial Intelligence",
       "Travel"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Derya",
+    "description": "AI-Native Logistics Office",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e0512b453e994207fdf56052eb221e687d29dc51.png",
+    "website": "http://usederya.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Supply Chain and Logistics",
+      "AIOps",
+      "Digital Freight Brokerage",
+      "Finance",
+      "Logistics",
+      "Supply Chain"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -145363,10 +145472,10 @@
   },
   {
     "source": "yc",
-    "name": "Justinian",
+    "name": "Locke",
     "description": "Builders of the first AI-native government affairs firm.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05d00b332191d31f20aa45f1bbec7b3fd866e683.png",
-    "website": "https://justinianai.com",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ef45315b5a753af3ca5decc639d785a08eb897be.png",
+    "website": "https://locke.inc",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -145457,6 +145566,38 @@
   },
   {
     "source": "yc",
+    "name": "Avoca Systems",
+    "description": "The AI-powered operating system for radiology networks",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/555346995ae2b6c3163f5ec605c10e5d27db2e8d.png",
+    "website": "https://avocasystems.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Enterprise Software",
+      "Healthcare IT"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Amulet",
     "description": "Agents that drive customer success",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/995b893cdd67e1db883c8b75bff1f9221fff5327.png",
@@ -145524,7 +145665,7 @@
   {
     "source": "yc",
     "name": "Nex",
-    "description": "Claude Cowork for GTM Engineering",
+    "description": "Claude Cowork for GTM Automations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8f563ce5c802b34a01e9ad0f5641eb4bb092c6c.png",
     "website": "https://nex.ai",
     "location": "San Francisco, CA, USA",

@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-23._
+_Auto-generated from the dataset on 2026-07-24._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,188** |
+| Total companies | **21,194** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2752** |
 | 🌱 B Corps | **29** |
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-07-23._
 
 | Source | Companies |
 |---|---|
-| yc | 6,072 |
+| yc | 6,077 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,245 |
-| antler | 1,241 |
+| antler | 1,242 |
 | alchemist | 518 |
 | ef | 499 |
 
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-23._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1447
 2025  ████████████████████░░░░░░░░ 1048
-2026  ████████████░░░░░░░░░░░░░░░░ 633
+2026  ████████████░░░░░░░░░░░░░░░░ 638
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-07-23._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1402
-3. **Antler** — 1241
+3. **Antler** — 1242
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -104,18 +104,18 @@ _Auto-generated from the dataset on 2026-07-23._
 ## Top industries
 1. **Fintech** — 2464
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1412
+3. **SaaS** — 1413
 4. **Mobile** — 1141
 5. **Consumer** — 1056
-6. **Artificial Intelligence** — 928
-7. **AI** — 841
-8. **Healthcare** — 804
+6. **Artificial Intelligence** — 930
+7. **AI** — 842
+8. **Healthcare** — 806
 9. **Developer Tools** — 692
 10. **Infrastructure** — 674
 11. **Health** — 663
 12. **Engineering, Product and Design** — 611
-13. **Industrials** — 596
-14. **B2B Software** — 549
+13. **Industrials** — 597
+14. **B2B Software** — 550
 15. **Insurtech** — 513
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-07-23._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4510
+2. **United States of America** — 4514
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -153,16 +153,16 @@ _Auto-generated from the dataset on 2026-07-23._
 27. **Indonesia** — 30
 28. **Colombia** — 29
 29. **Spain** — 21
-30. **Sweden** — 18
+30. **Sweden** — 20
 31. **Argentina** — 18
 32. **Chile** — 16
 33. **Australia** — 16
 34. **Netherlands** — 15
 35. **United Arab Emirates** — 15
 36. **Denmark** — 13
-37. **Switzerland** — 13
-38. **Australia & NZ** — 13
-39. **Egypt** — 12
+37. **Australia & NZ** — 13
+38. **Egypt** — 12
+39. **Switzerland** — 12
 40. **Pakistan** — 11
 41. **Kenya** — 9
 42. **South Korea** — 9
