@@ -1869,14 +1869,15 @@
   {
     "source": "yc",
     "name": "jo",
-    "description": "The private AI that runs your life before you ask.",
+    "description": "The personal AI agent that keeps up with your work and life.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c9c7f687c3a57d8f3b931f1e760657237991cb95.png",
     "website": "https://askjo.ai",
     "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Consumer"
+      "Consumer",
+      "AI Assistant"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -3045,6 +3046,41 @@
   },
   {
     "source": "yc",
+    "name": "Waddle Labs",
+    "description": "Agents for robotics control. ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f525546cff510b464f7877004fcc10c8f0b97843.png",
+    "website": "https://www.waddlelabs.ai/",
+    "location": "Boston, MA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Developer Tools",
+      "Generative AI",
+      "Robotics",
+      "Automation"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "FullSeam",
     "description": "AI agents for corporate accounting teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7d791283eb9d18f99f2eee62fd335ead9af79f84.png",
@@ -3352,7 +3388,7 @@
   {
     "source": "yc",
     "name": "Imperfect",
-    "description": "AI coach for athletes with real lives and epic goals",
+    "description": "Adaptive training coach for athletes with real lives and epic goals",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/002fb81dd9c99e80efddd89e683644b3b238f04e.png",
     "website": "https://imperfect.co",
     "location": "San Francisco, CA, USA",
@@ -3360,9 +3396,9 @@
     "subregion": "",
     "tags": [
       "Consumer",
+      "Artificial Intelligence",
       "Digital Health",
       "Health & Wellness",
-      "AI",
       "AI Assistant"
     ],
     "year": 2026,
@@ -6843,7 +6879,7 @@
   {
     "source": "yc",
     "name": "Oximy",
-    "description": "See and control all AI activity across your enterprise",
+    "description": "Take command of the AI your company already runs on.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0f253ec2ac4c62d3fd349aefdf584c9074cae87d.png",
     "website": "https://oximy.com",
     "location": "San Francisco, CA, USA",
@@ -10292,16 +10328,17 @@
   {
     "source": "yc",
     "name": "GodHands",
-    "description": "Deterministic Computer Use Infra for AI Agents",
+    "description": "The company knowledge base that updates itself",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
     "website": "https://godhands.dev",
     "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Robotic Process Automation",
-      "Workflow Automation",
-      "AI"
+      "Documents",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "DevOps"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -14974,7 +15011,7 @@
   {
     "source": "yc",
     "name": "HERA",
-    "description": "Hera automates mechanical design reviews to catch thousand dollar…",
+    "description": "Hera catches thousand dollar errors before they hit the shop floor.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/caa902826145e78311e27007937976e8663a9265.png",
     "website": "https://www.manufacturingintelligence.org",
     "location": "Seattle, WA, USA",
@@ -16019,7 +16056,7 @@
   {
     "source": "yc",
     "name": "screenpipe",
-    "description": "Record how you work and turn that into agents",
+    "description": "AI powered by everything you've seen, said or heard",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
     "website": "https://screenpipe.com",
     "location": "San Francisco, CA, USA",
@@ -16027,10 +16064,10 @@
     "subregion": "",
     "tags": [
       "Productivity",
+      "Artificial Intelligence",
       "SaaS",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16136,6 +16173,42 @@
       "Fintech",
       "SaaS",
       "Finance"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Agency Tool Company",
+    "description": "Reliable infrastructure to build, deploy and manage real-world robots.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/244ddf9b0965c4c601170d71dd660ad1a89f8792.png",
+    "website": "https://agencytool.company",
+    "location": "Denver, CO, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Developer Tools",
+      "Robotics",
+      "Automation",
+      "Infrastructure",
+      "Self-Driving Vehicles"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17000,6 +17073,39 @@
       "Artificial Intelligence",
       "Fintech",
       "Finance"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "RonanRx Inc.",
+    "description": "We use AI to personalize peptides to your biology",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ce1dcec626f9c7fdc1ea66f4d7850c7a32015773.png",
+    "website": "https://ronanrx.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Health Tech",
+      "Telehealth",
+      "Therapeutics"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18237,7 +18343,7 @@
   {
     "source": "yc",
     "name": "Experiential Labs",
-    "description": "World models for agents",
+    "description": "Continual Learning for Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
     "website": "https://experientiallabs.ai",
     "location": "San Francisco, CA, USA",
@@ -18245,7 +18351,7 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18989,13 +19095,16 @@
   {
     "source": "500",
     "name": "KAMI",
-    "description": "",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/2d6509bd-ae4e-485e-8274-60434d155da7.png",
-    "website": "https://readkami.com",
+    "description": "The full-stack IP studio: where stories are discovered, monetized, and adapted, without ever leaving Kami.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/ef6addb4-0f32-4705-9efa-4f14312e2bc5.png",
+    "website": "https://wearekami.com",
     "location": "UNITED STATES",
     "region": "",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Content",
+      "Entertainment / Media"
+    ],
     "year": 2026,
     "program": "MENA 11",
     "programSlugs": [
@@ -19007,7 +19116,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Yagmur Aydemir Kami",
+        "name": "Yagmur Aydemir",
         "role": "",
         "linkedin": ""
       },
@@ -19018,7 +19127,7 @@
       }
     ],
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/readkami/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -20379,42 +20488,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Mutaz Musa**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Asterquanta Systems Inc.",
     "description": "Semiconductor Design Automation enabled by AI",
     "logo": "",
@@ -20481,6 +20554,42 @@
       },
       {
         "name": "**James Russell**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Mutaz Musa**",
         "role": "",
         "linkedin": ""
       }

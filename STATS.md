@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-24._
+_Auto-generated from the dataset on 2026-07-25._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,194** |
+| Total companies | **21,197** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2752** |
+| 💰 Exits | **2753** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-07-24._
 
 | Source | Companies |
 |---|---|
-| yc | 6,077 |
+| yc | 6,080 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,245 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-24._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1447
 2025  ████████████████████░░░░░░░░ 1048
-2026  ████████████░░░░░░░░░░░░░░░░ 638
+2026  ████████████░░░░░░░░░░░░░░░░ 641
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -106,15 +106,15 @@ _Auto-generated from the dataset on 2026-07-24._
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1413
 4. **Mobile** — 1141
-5. **Consumer** — 1056
-6. **Artificial Intelligence** — 930
+5. **Consumer** — 1055
+6. **Artificial Intelligence** — 932
 7. **AI** — 842
-8. **Healthcare** — 806
-9. **Developer Tools** — 692
-10. **Infrastructure** — 674
+8. **Healthcare** — 807
+9. **Developer Tools** — 695
+10. **Infrastructure** — 675
 11. **Health** — 663
 12. **Engineering, Product and Design** — 611
-13. **Industrials** — 597
+13. **Industrials** — 599
 14. **B2B Software** — 550
 15. **Insurtech** — 513
 16. **Deeptech** — 489
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-07-24._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4514
+2. **United States of America** — 4517
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903

@@ -10183,8 +10183,8 @@
   {
     "source": "yc",
     "name": "Mosaic",
-    "description": "Agentic video editing",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/42ace1eadbe1b05502a2cb3cdba29fa862539d5e.png",
+    "description": "Frontier Video Agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c8413f69be9e2f1c16114a6a958c34a98655042.png",
     "website": "https://mosaic.so",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -10627,17 +10627,17 @@
   {
     "source": "yc",
     "name": "Asteroid",
-    "description": "AI Browser Workforce for Operations Teams",
+    "description": "The integration layer for healthcare: EHRs, payer portals & more ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4598dd293d773fa0a9a1c72940f2f2e3153dda35.png",
     "website": "https://asteroid.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
       "Health Tech",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -11891,7 +11891,7 @@
     "name": "FuseAI",
     "description": "#1 AI Platform for Outbound Sales",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/31bcea60ffb3d8a33af2866a492802486933e372.png",
-    "website": "https://tryfuse.ai/",
+    "website": "https://fuseai.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -12563,7 +12563,7 @@
     "programSlugs": [
       "yc-winter-2025"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -22634,7 +22634,7 @@
   {
     "source": "yc",
     "name": "Interfere",
-    "description": "Production visibility for teams that ship fast",
+    "description": "Give engineering, product, and design teams insight into unseen issues",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c788f853f55de9b0ed57c42d5dd9b8c7388fc49f.png",
     "website": "https://interfere.com",
     "location": "New York City, NY, USA",
@@ -22642,9 +22642,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Design"
+      "Design",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -25543,10 +25543,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -35505,16 +35505,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Havilo.ai",
-    "description": "The intelligence layer for the world's most valuable networks.",
+    "name": "Divergent Physics",
+    "description": " Claude Code for Hardware design",
     "logo": "",
     "website": "",
-    "location": "Pleasanton, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2025,
-    "program": "Alchemist Class 40",
+    "program": "Alchemist Class 41",
     "programSlugs": [
       "alchemist"
     ],
@@ -35524,12 +35524,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Logan Dickey**",
+        "name": "Gustavo Navarro",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Taylor Cordoba**",
+        "name": "Volodymyr Shyianov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Bamelak Tadele",
         "role": "",
         "linkedin": ""
       }
@@ -35592,8 +35597,8 @@
   },
   {
     "source": "alchemist",
-    "name": "Divergent Physics",
-    "description": " Claude Code for Hardware design",
+    "name": "Xitester",
+    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -35611,17 +35616,58 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Gustavo Navarro",
+        "name": "**CEO:** Shine Oovattil .",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Volodymyr Shyianov",
+        "name": "**CTO:** Dharwish Raj",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Bamelak Tadele",
+        "name": "**COO:** Harikumar S",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Industrial Dynamics",
+    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "logo": "",
+    "website": "",
+    "location": "Reno, NV, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Konstantin Sarichev**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Michael Lawrie**",
         "role": "",
         "linkedin": ""
       }
@@ -35689,11 +35735,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Adrich",
-    "description": "Smart packaging that tracks consumer product usage",
+    "name": "Etat'H Solide",
+    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
     "logo": "",
     "website": "",
-    "location": "Pittsburgh, PA, USA",
+    "location": "Grand Rapids, MI, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35708,12 +35754,48 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Adhithi Aji**",
+        "name": "Jhea-Uhg  Kang",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Havilo.ai",
+    "description": "The intelligence layer for the world's most valuable networks.",
+    "logo": "",
+    "website": "",
+    "location": "Pleasanton, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Logan Dickey**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Dale Harber**",
+        "name": "**Taylor Cordoba**",
         "role": "",
         "linkedin": ""
       }
@@ -35812,11 +35894,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Xitester",
-    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
+    "name": "Adrich",
+    "description": "Smart packaging that tracks consumer product usage",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Pittsburgh, PA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35831,94 +35913,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**CEO:** Shine Oovattil .",
+        "name": "**Adhithi Aji**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**CTO:** Dharwish Raj",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**COO:** Harikumar S",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Etat'H Solide",
-    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
-    "logo": "",
-    "website": "",
-    "location": "Grand Rapids, MI, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jhea-Uhg  Kang",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Industrial Dynamics",
-    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
-    "logo": "",
-    "website": "",
-    "location": "Reno, NV, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Konstantin Sarichev**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Michael Lawrie**",
+        "name": "**Dale Harber**",
         "role": "",
         "linkedin": ""
       }
