@@ -317,8 +317,8 @@
   },
   {
     "source": "alchemist",
-    "name": "Tangent.ai",
-    "description": "Enabling Personalization for a Cookie-Less World",
+    "name": "Bitesize",
+    "description": "Human augmentation platform for sales",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -336,7 +336,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Mayank Kumar",
+        "name": "Jess Lee",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Omid Ahourai",
         "role": "",
         "linkedin": ""
       }
@@ -407,47 +412,6 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Insera Health",
-    "description": " ",
-    "logo": "",
-    "website": "",
-    "location": "Durham, NC, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 20",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ranjith Babu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "David Parker",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -556,47 +520,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Bitesize",
-    "description": "Human augmentation platform for sales",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 20",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jess Lee",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Omid Ahourai",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Aday Technologies, Inc.",
     "description": " ",
     "logo": "",
@@ -623,6 +546,83 @@
     },
     "extra": {
       "country": ""
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Insera Health",
+    "description": " ",
+    "logo": "",
+    "website": "",
+    "location": "Durham, NC, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ranjith Babu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "David Parker",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Tangent.ai",
+    "description": "Enabling Personalization for a Cookie-Less World",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mayank Kumar",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
     }
   }
 ]

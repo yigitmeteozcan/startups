@@ -40081,16 +40081,16 @@
   },
   {
     "source": "yc",
-    "name": "Tarjimly",
+    "name": "Tarjimly (acquired)",
     "description": "Translating for Humanity",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/afd0f94fe908901e234dd94e1cf271709a78f826.png",
     "website": "https://tarjimly.org",
-    "location": "San Francisco, CA, USA; Mountain View, CA, USA; Remote",
+    "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Consumer",
-      "Social",
+      "Healthcare",
+      "Marketplace",
       "Nonprofit"
     ],
     "year": 2018,
@@ -100199,16 +100199,16 @@
   {
     "source": "yc",
     "name": "Artisan",
-    "description": "AI employees called Artisans, starting with an AI BDR",
+    "description": "The AI BDR for enterprise revenue teams, plus a full AI sales team",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3aa68965eefe42dc96e16073740dae2087ad188f.png",
     "website": "https://artisan.co/?utm_source=ycombinator",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "Sales",
       "Automation",
-      "AI",
       "AI Assistant"
     ],
     "year": 2024,
@@ -100567,8 +100567,8 @@
     "tags": [
       "Fintech",
       "Insurance",
+      "Artificial Intelligence",
       "Health Insurance",
-      "AI",
       "AI Assistant"
     ],
     "year": 2024,
@@ -101856,8 +101856,8 @@
   {
     "source": "yc",
     "name": "Ellipsis",
-    "description": "AI code reviews & bug fixes",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/825caa6d8502745ed1854595552f4f7f1091bb3e.png",
+    "description": "Cloud platform for coding agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1fa4719de38384c762164e3dcd13cfaa014c5ba3.png",
     "website": "https://ellipsis.dev",
     "location": "New York City, NY, USA",
     "region": "United States of America",
@@ -118676,7 +118676,7 @@
     "source": "yc",
     "name": "CopyCat",
     "description": "AI agents built for insurance. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e53b0a2f0edf2d0fa1b2684e2752773cf3f0afba.png",
     "website": "https://runcopycat.com",
     "location": "Seattle, WA, USA",
     "region": "United States of America",
@@ -118684,10 +118684,10 @@
     "tags": [
       "Fintech",
       "Insurance",
-      "Artificial Intelligence",
       "Logistics",
       "Healthcare",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -120558,7 +120558,7 @@
   {
     "source": "yc",
     "name": "Paper Instruments",
-    "description": "Frontier models and software for knowledge work",
+    "description": "Open-source frontier models for knowledge work",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b0612dcacbdc26af352611e30ccd5d9b8e4dfc31.png",
     "website": "https://www.paperinstruments.com/",
     "location": "San Francisco, CA, USA",
@@ -120566,8 +120566,8 @@
     "subregion": "",
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -134047,36 +134047,6 @@
   },
   {
     "source": "yc",
-    "name": "Moritz",
-    "description": "Global AI-native law firm handling legal work with same-day turnaround",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba9cb936197827cdb07b7561ff78521aed096ae7.png",
-    "website": "http://moritzlegal.com/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Legal"
-    ],
-    "year": 2026,
-    "program": "YC Winter 2026",
-    "programSlugs": [
-      "yc-winter-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Salus",
     "description": "Guardrails to validate your agent's actions before they execute",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ab475a73fae950cedb2c238eb5a23d6a709d5cb2.png",
@@ -138411,10 +138381,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Artificial Intelligence",
       "Robotics",
       "Crowdsourcing",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -141457,7 +141427,7 @@
     "description": "The autonomous ERP for every manufacturer",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
     "website": "https://www.arzana.com/",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -143984,6 +143954,37 @@
   },
   {
     "source": "yc",
+    "name": "Zaplar",
+    "description": "Agentic Hotel Operating System",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccfe3188152229b75f7e38241a91f40b4c9edd.png",
+    "website": "https://zaplar.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Operations",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "screenpipe",
     "description": "AI powered by everything you've seen, said or heard",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
@@ -144097,11 +144098,45 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure",
-      "Artificial Intelligence",
+      "Finance and Accounting",
       "Fintech",
       "SaaS",
-      "Finance"
+      "Finance",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Traceforce",
+    "description": "Securing AI native apps directly on devices",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8a31e3b43130c5974d52608c066ff45cc746112f.png",
+    "website": "https://www.traceforce.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Security",
+      "Artificial Intelligence",
+      "SaaS",
+      "Cybersecurity",
+      "Enterprise"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -144869,6 +144904,42 @@
       "Health Tech",
       "Telehealth",
       "Therapeutics"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Lumeria",
+    "description": "Oura Ring for Skin.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3248066794d2775ccfb10dc3c2b88563b19d2b91.png",
+    "website": "https://lumeria.skin",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Consumer Health and Wellness",
+      "Consumer Health Services",
+      "Health Tech",
+      "Health & Wellness",
+      "Skincare",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -145922,6 +145993,38 @@
       "Artificial Intelligence",
       "Finance",
       "Workflow Automation"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Atomarine",
+    "description": "Off shore nuclear powered data centers at sea.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/68f45c0c6632da6b496042e949e7594d02236fdd.png",
+    "website": "https://atomarine.co",
+    "location": "Boston, MA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Energy",
+      "Hard Tech"
     ],
     "year": 2026,
     "program": "YC Summer 2026",

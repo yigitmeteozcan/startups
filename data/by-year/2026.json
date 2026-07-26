@@ -5138,8 +5138,8 @@
     "description": "Global AI-native law firm handling legal work with same-day turnaround",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba9cb936197827cdb07b7561ff78521aed096ae7.png",
     "website": "http://moritzlegal.com/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "Oslo, Oslo, Norway",
+    "region": "Norway",
     "subregion": "",
     "tags": [
       "Legal"
@@ -10240,10 +10240,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Artificial Intelligence",
       "Robotics",
       "Crowdsourcing",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -13404,7 +13404,7 @@
     "description": "The autonomous ERP for every manufacturer",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
     "website": "https://www.arzana.com/",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -16028,8 +16028,8 @@
     "description": "Agentic Hotel Operating System",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccfe3188152229b75f7e38241a91f40b4c9edd.png",
     "website": "https://zaplar.com",
-    "location": "Stockholm, Stockholm County, Sweden",
-    "region": "Sweden",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Operations",
@@ -16168,11 +16168,45 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure",
-      "Artificial Intelligence",
+      "Finance and Accounting",
       "Fintech",
       "SaaS",
-      "Finance"
+      "Finance",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Traceforce",
+    "description": "Securing AI native apps directly on devices",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8a31e3b43130c5974d52608c066ff45cc746112f.png",
+    "website": "https://www.traceforce.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Security",
+      "Artificial Intelligence",
+      "SaaS",
+      "Cybersecurity",
+      "Enterprise"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16926,6 +16960,40 @@
   },
   {
     "source": "yc",
+    "name": "PokerClubHub",
+    "description": "Host a Poker Club and Make Money",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bdce623e4f66c5199feb962395591af2b0973e32.png",
+    "website": "https://www.pokerclubhub.com",
+    "location": "Jaco, Puntarenas Province, Costa Rica",
+    "region": "Costa Rica",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Gaming",
+      "SaaS",
+      "Crypto / Web3",
+      "eSports"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Vestris",
     "description": "AI agents for the full real estate closing stack",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e17d90c0a32a27bdb75bac6bb8a2ca4e0ad1646d.png",
@@ -17106,6 +17174,42 @@
       "Health Tech",
       "Telehealth",
       "Therapeutics"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Lumeria",
+    "description": "Oura Ring for Skin.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3248066794d2775ccfb10dc3c2b88563b19d2b91.png",
+    "website": "https://lumeria.skin",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Consumer Health and Wellness",
+      "Consumer Health Services",
+      "Health Tech",
+      "Health & Wellness",
+      "Skincare",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18246,17 +18350,17 @@
   },
   {
     "source": "yc",
-    "name": "Coasty",
-    "description": "The computer-use agent that doesn't break on real software. We will…",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/49c533e34b6c887207ac5683dd8dfab22709a458.png",
-    "website": "http://coasty.ai/",
-    "location": "San Francisco, CA, USA",
+    "name": "Atomarine",
+    "description": "Off shore nuclear powered data centers at sea.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/68f45c0c6632da6b496042e949e7594d02236fdd.png",
+    "website": "https://atomarine.co",
+    "location": "Boston, MA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Workflow Automation"
+      "Industrials",
+      "Energy",
+      "Hard Tech"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18278,17 +18382,17 @@
   },
   {
     "source": "yc",
-    "name": "Blaise",
-    "description": "AI native software factory",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2bff3fcdc434c99cf544f6ebe967ec66cea3af59.png",
-    "website": "https://blaise.new/",
-    "location": "Stockholm, Stockholm County, Sweden",
-    "region": "Sweden",
+    "name": "Coasty",
+    "description": "The computer-use agent that doesn't break on real software. We will…",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/49c533e34b6c887207ac5683dd8dfab22709a458.png",
+    "website": "http://coasty.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Enterprise Software"
+      "AIOps",
+      "Developer Tools",
+      "Workflow Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -20488,47 +20592,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Asterquanta Systems Inc.",
-    "description": "Semiconductor Design Automation enabled by AI",
-    "logo": "",
-    "website": "",
-    "location": "Toronto, ON, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Pradeep V Pydah**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Matthew Taylor**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Luce Labs",
     "description": "Programmable expression of high-value plant compounds\n",
     "logo": "",
@@ -20566,6 +20629,47 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Asterquanta Systems Inc.",
+    "description": "Semiconductor Design Automation enabled by AI",
+    "logo": "",
+    "website": "",
+    "location": "Toronto, ON, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Pradeep V Pydah**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Matthew Taylor**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
     }
   },
   {

@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-25._
+_Auto-generated from the dataset on 2026-07-26._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,197** |
+| Total companies | **21,200** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2753** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-07-25._
 
 | Source | Companies |
 |---|---|
-| yc | 6,080 |
+| yc | 6,083 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,245 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-25._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1447
 2025  ████████████████████░░░░░░░░ 1048
-2026  ████████████░░░░░░░░░░░░░░░░ 641
+2026  ████████████░░░░░░░░░░░░░░░░ 644
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -104,28 +104,28 @@ _Auto-generated from the dataset on 2026-07-25._
 ## Top industries
 1. **Fintech** — 2464
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1413
+3. **SaaS** — 1414
 4. **Mobile** — 1141
 5. **Consumer** — 1055
 6. **Artificial Intelligence** — 932
-7. **AI** — 842
-8. **Healthcare** — 807
+7. **AI** — 843
+8. **Healthcare** — 809
 9. **Developer Tools** — 695
-10. **Infrastructure** — 675
+10. **Infrastructure** — 674
 11. **Health** — 663
 12. **Engineering, Product and Design** — 611
-13. **Industrials** — 599
+13. **Industrials** — 600
 14. **B2B Software** — 550
 15. **Insurtech** — 513
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
 18. **Healthtech** — 440
-19. **Energy** — 425
+19. **Energy** — 426
 20. **Mobility & Physical AI** — 409
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4517
+2. **United States of America** — 4520
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -153,7 +153,7 @@ _Auto-generated from the dataset on 2026-07-25._
 27. **Indonesia** — 30
 28. **Colombia** — 29
 29. **Spain** — 21
-30. **Sweden** — 20
+30. **Sweden** — 18
 31. **Argentina** — 18
 32. **Chile** — 16
 33. **Australia** — 16
@@ -171,10 +171,10 @@ _Auto-generated from the dataset on 2026-07-25._
 45. **Malaysia** — 8
 46. **Peru** — 8
 47. **Hong Kong** — 7
-48. **China** — 6
-49. **Poland** — 6
-50. **Slovenia** — 6
-51. **Norway** — 6
+48. **Norway** — 7
+49. **China** — 6
+50. **Poland** — 6
+51. **Slovenia** — 6
 52. **Vietnam** — 6
 53. **Austria** — 5
 54. **Panama** — 5
@@ -194,27 +194,27 @@ _Auto-generated from the dataset on 2026-07-25._
 68. **Romania** — 2
 69. **Georgia** — 2
 70. **Finland** — 2
-71. **Jordan** — 2
-72. **Nepal** — 1
-73. **Bangladesh** — 1
-74. **Russia** — 1
-75. **Hungary** — 1
-76. **Latvia** — 1
-77. **Puerto Rico** — 1
-78. **Iceland** — 1
-79. **Czechia** — 1
-80. **Greece** — 1
-81. **Iraq** — 1
-82. **Kyrgyzstan** — 1
-83. **Tanzania** — 1
-84. **Algeria** — 1
-85. **Italy** — 1
-86. **Lithuania** — 1
-87. **Ivory Coast** — 1
-88. **Zambia** — 1
-89. **Ecuador** — 1
-90. **Cyprus** — 1
-91. **Costa Rica** — 1
+71. **Costa Rica** — 2
+72. **Jordan** — 2
+73. **Nepal** — 1
+74. **Bangladesh** — 1
+75. **Russia** — 1
+76. **Hungary** — 1
+77. **Latvia** — 1
+78. **Puerto Rico** — 1
+79. **Iceland** — 1
+80. **Czechia** — 1
+81. **Greece** — 1
+82. **Iraq** — 1
+83. **Kyrgyzstan** — 1
+84. **Tanzania** — 1
+85. **Algeria** — 1
+86. **Italy** — 1
+87. **Lithuania** — 1
+88. **Ivory Coast** — 1
+89. **Zambia** — 1
+90. **Ecuador** — 1
+91. **Cyprus** — 1
 92. **Uganda** — 1
 93. **Bahrain** — 1
 94. **Venezuela** — 1
