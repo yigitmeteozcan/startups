@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-26._
+_Auto-generated from the dataset on 2026-07-27._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,200** |
+| Total companies | **21,202** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2753** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-07-26._
 
 | Source | Companies |
 |---|---|
-| yc | 6,083 |
+| yc | 6,085 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,245 |
@@ -44,9 +44,9 @@ _Auto-generated from the dataset on 2026-07-26._
 2021  ██████████████████████████░░ 1384
 2022  ███████████████████████████░ 1457
 2023  ████████████████████████████ 1493
-2024  ███████████████████████████░ 1447
+2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1048
-2026  ████████████░░░░░░░░░░░░░░░░ 644
+2026  ████████████░░░░░░░░░░░░░░░░ 647
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -94,7 +94,7 @@ _Auto-generated from the dataset on 2026-07-26._
 7. **YC Winter 2021** — 336
 8. **Techstars New York City Accelerator** — 274
 9. **YC Winter 2023** — 274
-10. **YC Winter 2024** — 249
+10. **YC Winter 2024** — 248
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
 13. **YC Summer 2022** — 234
@@ -102,19 +102,19 @@ _Auto-generated from the dataset on 2026-07-26._
 15. **YC Summer 2023** — 220
 
 ## Top industries
-1. **Fintech** — 2464
+1. **Fintech** — 2463
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1414
+3. **SaaS** — 1413
 4. **Mobile** — 1141
 5. **Consumer** — 1055
-6. **Artificial Intelligence** — 932
+6. **Artificial Intelligence** — 934
 7. **AI** — 843
 8. **Healthcare** — 809
-9. **Developer Tools** — 695
+9. **Developer Tools** — 697
 10. **Infrastructure** — 674
 11. **Health** — 663
-12. **Engineering, Product and Design** — 611
-13. **Industrials** — 600
+12. **Engineering, Product and Design** — 612
+13. **Industrials** — 601
 14. **B2B Software** — 550
 15. **Insurtech** — 513
 16. **Deeptech** — 489
@@ -125,40 +125,40 @@ _Auto-generated from the dataset on 2026-07-26._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4520
+2. **United States of America** — 4506
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **Canada** — 211
-10. **United Kingdom** — 207
-11. **India** — 203
+9. **Canada** — 212
+10. **United Kingdom** — 208
+11. **India** — 204
 12. **Latin America** — 164
 13. **Middle East** — 159
-14. **Unspecified** — 123
+14. **Unspecified** — 121
 15. **North Asia** — 111
 16. **Africa** — 107
 17. **Southeast Asia** — 95
 18. **Remote** — 88
 19. **Mexico** — 81
 20. **Oceania** — 73
-21. **France** — 72
+21. **France** — 73
 22. **Brazil** — 68
-23. **Germany** — 61
-24. **Singapore** — 51
+23. **Germany** — 62
+24. **Singapore** — 52
 25. **Nigeria** — 50
-26. **Israel** — 33
+26. **Israel** — 34
 27. **Indonesia** — 30
 28. **Colombia** — 29
 29. **Spain** — 21
-30. **Sweden** — 18
-31. **Argentina** — 18
-32. **Chile** — 16
-33. **Australia** — 16
-34. **Netherlands** — 15
-35. **United Arab Emirates** — 15
+30. **Sweden** — 20
+31. **Australia** — 18
+32. **Argentina** — 18
+33. **United Arab Emirates** — 16
+34. **Chile** — 16
+35. **Netherlands** — 15
 36. **Denmark** — 13
 37. **Australia & NZ** — 13
 38. **Egypt** — 12
@@ -168,18 +168,18 @@ _Auto-generated from the dataset on 2026-07-26._
 42. **South Korea** — 9
 43. **Ireland** — 8
 44. **Philippines** — 8
-45. **Malaysia** — 8
-46. **Peru** — 8
-47. **Hong Kong** — 7
-48. **Norway** — 7
+45. **Norway** — 8
+46. **Malaysia** — 8
+47. **Peru** — 8
+48. **Hong Kong** — 7
 49. **China** — 6
 50. **Poland** — 6
 51. **Slovenia** — 6
 52. **Vietnam** — 6
 53. **Austria** — 5
 54. **Panama** — 5
-55. **Ghana** — 4
-56. **Belgium** — 4
+55. **Belgium** — 5
+56. **Ghana** — 4
 57. **Saudi Arabia** — 4
 58. **Morocco** — 3
 59. **South Africa** — 3
@@ -192,37 +192,40 @@ _Auto-generated from the dataset on 2026-07-26._
 66. **Ukraine** — 2
 67. **Croatia** — 2
 68. **Romania** — 2
-69. **Georgia** — 2
-70. **Finland** — 2
-71. **Costa Rica** — 2
-72. **Jordan** — 2
-73. **Nepal** — 1
-74. **Bangladesh** — 1
-75. **Russia** — 1
-76. **Hungary** — 1
-77. **Latvia** — 1
-78. **Puerto Rico** — 1
-79. **Iceland** — 1
-80. **Czechia** — 1
-81. **Greece** — 1
-82. **Iraq** — 1
-83. **Kyrgyzstan** — 1
-84. **Tanzania** — 1
-85. **Algeria** — 1
-86. **Italy** — 1
-87. **Lithuania** — 1
-88. **Ivory Coast** — 1
-89. **Zambia** — 1
-90. **Ecuador** — 1
-91. **Cyprus** — 1
-92. **Uganda** — 1
-93. **Bahrain** — 1
-94. **Venezuela** — 1
-95. **Ethiopia** — 1
-96. **Japan** — 1
-97. **Taiwan** — 1
-98. **Uruguay** — 1
-99. **Bulgaria** — 1
-100. **Democratic Republic of the Congo** — 1
-101. **Americas - United States** — 1
-102. **Global** — 1
+69. **Bulgaria** — 2
+70. **Georgia** — 2
+71. **Finland** — 2
+72. **Costa Rica** — 2
+73. **Jordan** — 2
+74. **Thailand** — 1
+75. **Nepal** — 1
+76. **Bangladesh** — 1
+77. **Bermuda** — 1
+78. **Russia** — 1
+79. **Hungary** — 1
+80. **Latvia** — 1
+81. **Puerto Rico** — 1
+82. **Iceland** — 1
+83. **Czechia** — 1
+84. **Greece** — 1
+85. **Iraq** — 1
+86. **Kyrgyzstan** — 1
+87. **Tanzania** — 1
+88. **Algeria** — 1
+89. **Kazakhstan** — 1
+90. **Italy** — 1
+91. **Lithuania** — 1
+92. **Ivory Coast** — 1
+93. **Zambia** — 1
+94. **Ecuador** — 1
+95. **Cyprus** — 1
+96. **Uganda** — 1
+97. **Bahrain** — 1
+98. **Venezuela** — 1
+99. **Ethiopia** — 1
+100. **Japan** — 1
+101. **Taiwan** — 1
+102. **Uruguay** — 1
+103. **Democratic Republic of the Congo** — 1
+104. **Americas - United States** — 1
+105. **Global** — 1
