@@ -25924,9 +25924,9 @@
     "subregion": "",
     "tags": [
       "Consumer",
+      "Artificial Intelligence",
       "SaaS",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "year": 2023,
     "program": "YC Winter 2023",
@@ -30777,7 +30777,7 @@
   {
     "source": "yc",
     "name": "Imperfect",
-    "description": "Adaptive training coach for athletes with real lives and epic goals",
+    "description": "Adaptive training coach for runners, cyclists, and triathletes ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/002fb81dd9c99e80efddd89e683644b3b238f04e.png",
     "website": "https://imperfect.co",
     "location": "San Francisco, CA, USA",
@@ -31582,6 +31582,40 @@
       "SaaS",
       "Crypto / Web3",
       "eSports"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Wondering",
+    "description": "Duolingo for Learning Anything",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/188e05122015c2a6e85c91c5145eeef637482a9b.png",
+    "website": "https://wondering.app",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Education",
+      "AI Assistant"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -35483,17 +35517,19 @@
   },
   {
     "source": "500",
-    "name": "Clarity",
-    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
-    "website": "https://clarity.fm",
-    "location": "Canada",
-    "region": "Canada",
+    "name": "CraftCoffee",
+    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
+    "website": "https://craftcoffee.com",
+    "location": "United States",
+    "region": "North America",
     "subregion": "",
     "tags": [
+      "Direct to Consumer",
+      "Subscription",
       "Consumer"
     ],
-    "year": 2012,
+    "year": 2011,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -35504,12 +35540,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Dan Martell",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mike Wu",
+        "name": "Michael Horn",
         "role": "",
         "linkedin": ""
       }
@@ -35521,7 +35552,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Canada"
+      "country": "United States"
     }
   },
   {
@@ -35571,19 +35602,17 @@
   },
   {
     "source": "500",
-    "name": "CraftCoffee",
-    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
-    "website": "https://craftcoffee.com",
-    "location": "United States",
-    "region": "North America",
+    "name": "Clarity",
+    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
+    "website": "https://clarity.fm",
+    "location": "Canada",
+    "region": "Canada",
     "subregion": "",
     "tags": [
-      "Direct to Consumer",
-      "Subscription",
       "Consumer"
     ],
-    "year": 2011,
+    "year": 2012,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -35594,7 +35623,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Michael Horn",
+        "name": "Dan Martell",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike Wu",
         "role": "",
         "linkedin": ""
       }
@@ -35606,7 +35640,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
+      "country": "Canada"
     }
   }
 ]

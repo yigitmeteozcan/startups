@@ -16289,9 +16289,9 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Artificial Intelligence",
       "SaaS",
-      "Legal",
-      "AI"
+      "Legal"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -18299,7 +18299,7 @@
   {
     "source": "yc",
     "name": "Hanji",
-    "description": "Turn complex documents into AI-ready data",
+    "description": "Turn your hardest documents into reliable data",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9438999e1f2681be7ed1a32e6e245f0d3885b798.png",
     "website": "https://hanji.dev/",
     "location": "San Francisco, CA, USA",
@@ -18308,8 +18308,8 @@
     "tags": [
       "Infrastructure",
       "Documents",
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -20567,10 +20567,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Robotics",
       "Crowdsourcing",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -22452,6 +22452,45 @@
   },
   {
     "source": "500",
+    "name": "OneKitchen",
+    "description": "Provider of shared kitchen solutions. The company provides tailored spaces for dark kitchens to operate and allows chefs to launch and sell on delivery platforms within days, allowing chefs and restaurant owners to launch their new restaurant from scratch, fine-tune their menu, optimize their operations and maximize their sales.",
+    "logo": "",
+    "website": "https://joinonekitchen.com",
+    "location": "British Virgin Islands",
+    "region": "Africa",
+    "subregion": "",
+    "tags": [
+      "Content",
+      "Infrastructure"
+    ],
+    "year": 2019,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Majed Abukhater",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "British Virgin Islands"
+    }
+  },
+  {
+    "source": "500",
     "name": "Shortcut",
     "description": "Developer of an online platform for wholesalers to manage online orders. The company provides a platform that enables any wholesaler to manage B2B transactions, inventory and create digital catalogs.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bc4e169-72c8-4ab6-a471-e24524302770.png",
@@ -22486,6 +22525,55 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Yaydoo",
+    "description": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ac40d0a-657b-4c41-820e-18ec93aa6afd.png",
+    "website": "https://yaydoo.com",
+    "location": "Mexico",
+    "region": "Latin America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "Infrastructure"
+    ],
+    "year": 2016,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Roberto Flores Riveroll",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Guillermo Treviño",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sergio Almaguer Ramirez",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Mexico"
     }
   },
   {
@@ -22584,55 +22672,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Yaydoo",
-    "description": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ac40d0a-657b-4c41-820e-18ec93aa6afd.png",
-    "website": "https://yaydoo.com",
-    "location": "Mexico",
-    "region": "Latin America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "Infrastructure"
-    ],
-    "year": 2016,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Roberto Flores Riveroll",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Guillermo Treviño",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sergio Almaguer Ramirez",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Mexico"
     }
   },
   {
@@ -22764,45 +22803,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "OneKitchen",
-    "description": "Provider of shared kitchen solutions. The company provides tailored spaces for dark kitchens to operate and allows chefs to launch and sell on delivery platforms within days, allowing chefs and restaurant owners to launch their new restaurant from scratch, fine-tune their menu, optimize their operations and maximize their sales.",
-    "logo": "",
-    "website": "https://joinonekitchen.com",
-    "location": "British Virgin Islands",
-    "region": "Africa",
-    "subregion": "",
-    "tags": [
-      "Content",
-      "Infrastructure"
-    ],
-    "year": 2019,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Majed Abukhater",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "British Virgin Islands"
     }
   }
 ]
