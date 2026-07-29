@@ -37241,7 +37241,7 @@
   {
     "source": "yc",
     "name": "Trayd",
-    "description": "A construction payroll platform designed for same-day pay.",
+    "description": "A construction payroll and compliance platform built for specialty…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b0a9f2865966789c4edf9a5fb78aced71bf8c4d9.png",
     "website": "https://www.buildtrayd.com/",
     "location": "New York City, NY, USA",
@@ -41158,40 +41158,6 @@
   },
   {
     "source": "yc",
-    "name": "Artificial Societies",
-    "description": "We build networks of AI personas that simulate stakeholder opinions",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3f1ebd1806463e3909d4a1f7b197b6c3788ebf4c.png",
-    "website": "https://societies.io",
-    "location": "London, England, United Kingdom",
-    "region": "United Kingdom",
-    "subregion": "",
-    "tags": [
-      "Analytics",
-      "Artificial Intelligence",
-      "Machine Learning",
-      "SaaS",
-      "Market Research"
-    ],
-    "year": 2025,
-    "program": "YC Winter 2025",
-    "programSlugs": [
-      "yc-winter-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Woz",
     "description": "Claude Code plugin that reduces token consumption and cost by 50%",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3ec5c6a24f1037c7183c8ce6c5dc019a1f42ec3d.png",
@@ -42634,9 +42600,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -43179,10 +43145,10 @@
   },
   {
     "source": "yc",
-    "name": "Truffle",
+    "name": "Marble",
     "description": "The autonomous back-of-house for restaurants.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c2506c5899c2529c2d5cc182e3a242e11f99aa02.png",
-    "website": "https://usetruffle.ai/",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd8594643506090563d23eac2d8bee3b9c1e526f.png",
+    "website": "https://joinmarble.ai/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
@@ -43480,7 +43446,7 @@
     "source": "yc",
     "name": "HyperProbe",
     "description": "Your coding agent writes code. Now let it fix prod too.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e5b4807040a02ba35de45355e3c51fd115e82199.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b4b91e0b78bbed1c83add57d22b06ab632567450.png",
     "website": "http://hyperprobe.co",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -47956,56 +47922,6 @@
   },
   {
     "source": "500",
-    "name": "Plerk",
-    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
-    "website": "https://plerk.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "Marketplace",
-      "SaaS"
-    ],
-    "year": 2021,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Miguel Medina",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "José Antonio Martínez Quintero",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Angel Arias",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/company/plerk/",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Fatora",
     "description": "All-in-one tool to go eCommerce and start selling",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
@@ -48085,6 +48001,56 @@
     ],
     "social": {
       "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Plerk",
+    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
+    "website": "https://plerk.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "Marketplace",
+      "SaaS"
+    ],
+    "year": 2021,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Miguel Medina",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "José Antonio Martínez Quintero",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Angel Arias",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/plerk/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""

@@ -10342,8 +10342,8 @@
     "description": "Offensive security for the teams that are 100x outnumbered",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0210bbcb75b7ba7c4519705bd24c324666b9538b.png",
     "website": "https://escape.tech",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "Paris, Île-de-France, France",
+    "region": "France",
     "subregion": "",
     "tags": [
       "Security",
@@ -16704,9 +16704,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -17128,6 +17128,41 @@
   },
   {
     "source": "yc",
+    "name": "Superlog",
+    "description": "Make software self-healing",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
+    "website": "https://superlog.sh/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Kubernetes",
+      "Enterprise Software"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Ara",
     "description": "The Cloud Coding Agent",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b5ee0827d5ffecc1db23e6d64592d549b5e1e1ab.png",
@@ -17494,7 +17529,7 @@
     "source": "yc",
     "name": "HyperProbe",
     "description": "Your coding agent writes code. Now let it fix prod too.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e5b4807040a02ba35de45355e3c51fd115e82199.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b4b91e0b78bbed1c83add57d22b06ab632567450.png",
     "website": "http://hyperprobe.co",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -17560,7 +17595,7 @@
   {
     "source": "yc",
     "name": "hardware intelligence",
-    "description": "Agentic chip design with ultrafast feedback loops",
+    "description": "AI tools for the chips your AI runs on",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c2193e7412febe2e812491e1a73617bb09eb897.png",
     "website": "https://hardwareintelligence.ai",
     "location": "San Francisco, CA, USA",
@@ -17568,11 +17603,11 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Enterprise Software",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -21819,10 +21854,92 @@
   },
   {
     "source": "500",
-    "name": "WebMynd",
-    "description": "Developer of a mobile application creating tool platform designed to assist companies to interact with their customer through digital media. The company's platform develops HTML5 operating system and regularly updates bugs which make the application low data consuming, enabling web developers to build a native mobile application at web speed.",
+    "name": "Keen Print",
+    "description": "Provider of a cloud-based printing ecommerce software intended to help print service providers set up online stores to optimize business. The company's cloud-based printing ecommerce software is an easy-to-use, zero-maintenance hosted service that lets printing companies sell online, accept and inspect files and manage all customer communication, billing, scheduling and shipping, enabling printing companies transit to online retail through subscription-based, on-demand service while reducing costs, increasing efficiency and improving relationships with existing customers.",
     "logo": "",
-    "website": "https://trigger.io",
+    "website": "https://keenprint.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vitaly Golomb",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "uNow",
+    "description": "Provider of an online education platform designed to ensure that a quality higher education is available to people everywhere. The company's educational platform provides peer-to-peer learning communities, pedagogical models and tuition models and also operates a network of online schools that provides higher education programs, enabling people to get a proper degree, who might not otherwise get a college degree, due to cost or other commitments.",
+    "logo": "",
+    "website": "https://unow.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools",
+      "Education"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jeremie Sicsic",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yannick PETIT",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "LightBox",
+    "description": "Provider of applications for Android mobile phones. The company's primary application Lightbox Photos, connect the Android camera with social networks.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7b9397e2-f8de-4c94-8896-6312851ad130.png",
+    "website": "https://lightbox.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
@@ -21840,12 +21957,271 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Amir Nathoo",
+        "name": "Nitin Sharma",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "James Brady",
+        "name": "Thai Tran",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "API Fortress",
+    "description": "Provider of a visual API testing and monitoring platform. The company provides a platform that tests and monitors API, notifying users of moment flaws, and facilitates corrective action processes when vulnerabilities are found.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/43414282-fe3d-417b-86a5-531e82afd21d.png",
+    "website": "https://apifortress.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Patrick Poulin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Apsalar",
+    "description": "Developer of a mobile application attribution and audience management platform designed to drive engagement and monetization through data-driven marketing. The company's Apsalar Mobile Marketing Cloud provides the critical data layer for customized marketing based on the actions and needs of each individual app user, providing both essential business and user insights along with audience tools to power customized, data-driven marketing.",
+    "logo": "",
+    "website": "https://apsalar.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Developer Tools"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Michael Oiknine",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Philippe Suchet",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Steve Reiss",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Fazal Majid",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Skygiraffe",
+    "description": "Developer of an enterprise-grade mobility platform designed to mobilize line-of-business applications. The company's platform helps businesses to deploy enterprise-grade mobile applications on any device immediately and without the need for writing code, enabling employees to read and write-back data through customized mobile business applications.",
+    "logo": "",
+    "website": "https://skygiraffe.com",
+    "location": "Israel",
+    "region": "Middle East & Africa",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Boaz Hecht",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Itay Braun",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Israel"
+    }
+  },
+  {
+    "source": "500",
+    "name": "PopApp",
+    "description": "Developer of an application prototyping tool designed to assist users with various technological concepts. The company's application prototyping tool offers a platform to application developers to share their ideas and communicate with users to demonstrate how it works on a smartphone, enabling users to get technical guidance.",
+    "logo": "",
+    "website": "https://www.woomoo.in",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2013,
+    "program": "GA 6",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ben Lin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Freckle Education",
+    "description": "Provider of a mathematics education program designed to meet the needs of every student through individualized Math, ELA and Social Studies resources. The company's mathematics education platform brings together the best in technology and great teaching to create unique, modern didactic experiences and makes a mathematics tablet program that adapts to students' capabilities in real time, enabling students to practice common core aligned math at their own pace and their teachers can tailor instruction for each student.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8685ee93-901b-4fc1-b9e1-9b62b2c90b34.png",
+    "website": "https://www.freckle.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alexandr Kurilin",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sidharth Kakkar",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "VoiceVoice",
+    "description": "Developer of a platform designed to help people participate in virtual events featuring real conversations. The company's platform offers social conferencing where people can convene around a topic or cause, engage in small group conversation to learn, share, inspire one another to action and change and connect live voices that can build relationships, develop minds, open hearts, and change the world, enabling people to be a part of meaningful, large-scale conversations that can bring about changes.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3c339bfe-9c08-4217-929c-336b648ac486.png",
+    "website": "https://maestroconference.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2016,
+    "program": "GA 16",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Marcy Deluce",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Brian Burt",
         "role": "",
         "linkedin": ""
       }
@@ -21905,17 +22281,17 @@
   },
   {
     "source": "500",
-    "name": "API Fortress",
-    "description": "Provider of a visual API testing and monitoring platform. The company provides a platform that tests and monitors API, notifying users of moment flaws, and facilitates corrective action processes when vulnerabilities are found.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/43414282-fe3d-417b-86a5-531e82afd21d.png",
-    "website": "https://apifortress.com",
+    "name": "WebMynd",
+    "description": "Developer of a mobile application creating tool platform designed to assist companies to interact with their customer through digital media. The company's platform develops HTML5 operating system and regularly updates bugs which make the application low data consuming, enabling web developers to build a native mobile application at web speed.",
+    "logo": "",
+    "website": "https://trigger.io",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Developer Tools"
     ],
-    "year": 2015,
+    "year": 2011,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -21926,7 +22302,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Patrick Poulin",
+        "name": "Amir Nathoo",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "James Brady",
         "role": "",
         "linkedin": ""
       }
@@ -21996,6 +22377,49 @@
   },
   {
     "source": "500",
+    "name": "TestFairy",
+    "description": "Developer of an online application testing platform designed to integrate bug-tracking and update user experience. The company's online application testing platform allows users a seamless branded corporate experience for downloading apps and reporting bugs, enabling users to update their application continuously with various technical reforms.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/57f90097-9c55-4b9d-8afa-666c7475e83c.png",
+    "website": "https://testfairy.com",
+    "location": "Israel",
+    "region": "Middle East & Africa",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Gil Megidish",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yair Bar-On",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Israel"
+    }
+  },
+  {
+    "source": "500",
     "name": "Sonar",
     "description": "Developer enterprise-grade customer engagement designed to offer alternative way to reach customers. The company's customer engagement tool sends automated messages based on customer actions, enabling businesses to communicate with customers and vice versa over mobile messaging channels.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/79300064-bd2d-489f-949c-176149b431bd.png",
@@ -22031,6 +22455,108 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Silk Labs",
+    "description": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
+    "logo": "",
+    "website": "https://silklabs.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Moran Altarac",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andreas Gal",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Vines",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sean Gallavan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Zumata",
+    "description": "Developer of a Software-as-a-Service (SaaS) travel technology designed to solve complex problems. The company's technology uses artificial intelligence and machine learning capabilities to offer internet booking engines and travel content, enabling companies to overcome the many challenges of accommodation distribution, increase speed to market and maximize profit from each sale.",
+    "logo": "",
+    "website": "https://zumata.com",
+    "location": "Singapore",
+    "region": "South Asia",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Craig Dixon",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Gary Theis",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Josh Ziegler",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Singapore"
     }
   },
   {
@@ -22304,49 +22830,6 @@
   },
   {
     "source": "500",
-    "name": "Iconfinder",
-    "description": "Provider of an icon search engine designed to offer customized icon design. The company's icon search engine gives access to a library of icons through subscription, enabling web designers and developers to use graphical computer icons.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7360c3fe-241d-4741-b0ca-76ec08695018.png",
-    "website": "https://iconfinder.com",
-    "location": "Denmark",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2013,
-    "program": "GA 5",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Martin LeBlanc",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Steffen Thilsted",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Denmark"
-    }
-  },
-  {
-    "source": "500",
     "name": "BotSociety",
     "description": "Provider of online tools designed for previewing, prototyping and testing conversational interfaces. The company's online tools offer fastest way to create a bot experience preview, enabling users to create an online messaging service with the help of chatbot or online assistance.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/410acd2b-2dd0-4e08-a65e-c4ecd8756d6a.png",
@@ -22450,6 +22933,54 @@
     "founders": [
       {
         "name": "Scott Thorpe",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Humanoid",
+    "description": "Developer of a human brainpower API (Application Programming Interface) that enables engineers to create tasks and send instructions to humans. The company offers computer programmers a way to use human intelligence in software applications.",
+    "logo": "",
+    "website": "https://speakertext.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Matt Mireles",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt Swanson",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tyler Kieft",
         "role": "",
         "linkedin": ""
       }
@@ -22590,6 +23121,814 @@
   },
   {
     "source": "500",
+    "name": "Cloudpipes",
+    "description": "Developer of a workflow automation service platform designed to connect various cloud applications. The company's platform bridges the integration challenges between custom or package applications deployed within a customer data center and new SaaS applications deployed in the cloud that applies integration between cloud services without coding, enabling users to integrate all the data from cloud application to one.",
+    "logo": "",
+    "website": "https://www.cloudpipes.com",
+    "location": "United Kingdom",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2018,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Boris Raicheff",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Sqoot",
+    "description": "Provider of an online source for daily deals. The company's product enables websites and applications to build with deals.",
+    "logo": "",
+    "website": "https://sqoot.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Content",
+      "Developer Tools"
+    ],
+    "year": 2012,
+    "program": "GA 4",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Avand Amiri",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mo Yehia",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Shoppr",
+    "description": "Provider of a software test automation platform. The company's platform offers online testing of the development and progress of Web software.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/432e6317-bd2b-4e85-9cda-45fea570ee75.png",
+    "website": "https://usetrace.com",
+    "location": "Finland",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2016,
+    "program": "GA 18",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Eero Heino",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Arto Vuori",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Finland"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Edools",
+    "description": "Operator of an online learning platform. The company delivers an online platform that takes care of management videos and documents, students management, e-commerce integration, scalability, customization of appearance and provides an API for integration with third party services.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5b096d34-d7fd-4f88-94a2-74cb4206977d.png",
+    "website": "https://edools.com",
+    "location": "Brazil",
+    "region": "Brazil",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2015,
+    "program": "GA 13",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Bernardo Kircove",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Maurilio Alberone",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rafael Carvalho",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Brazil"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Little Eye",
+    "description": "Developer of analysis software for developers and testers of Android applications. The company provides a performance-analysis platform enabling developers to measure, analyze and optimize Android apps. The platform generates performance reports and does not require setup or coding - users plug their device in and begin profiling.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b366530e-7ec6-44e4-948a-62c9e8d15eb8.png",
+    "website": "https://littleeye.co",
+    "location": "India",
+    "region": "Southeast Asia",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Aditya Kulkarni",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Giridhar Murthy",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Lakshman Kakkirala",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "India"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Japan",
+    "description": "Provider of cloud telephony tools. The company offers cloud telephony and SMS API tools used to connect calls and messages through the cloud.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1bcfed8c-4a6a-44b0-9ba6-97ecedc822f7.png",
+    "website": "https://fullcourt.co",
+    "location": "Singapore",
+    "region": "South Asia",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Takashi Kosumi",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Singapore"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Chalkable",
+    "description": "Developer of administration software. The company is engaged in the development of automated means of accountability to integrate the curriculum and mission standards of private schools and non-profit organizations.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d23f6fdc-a9fa-4f97-bf4b-7ba5f922b30d.png",
+    "website": "https://www.huntersystems.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools",
+      "Education"
+    ],
+    "year": 2012,
+    "program": "GA 4",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Michael Levy",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Zoli Honig",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Unbounce",
+    "description": "Provider of an online platform designed to increase website and campaign conversions. The company's platform provides tools to build custom landing pages, which increase website and campaign conversions and helps marketers to quickly create, launch and test high-converting landing pages, popups, and sticky bars without developers, enabling them to create better marketing experiences.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ee27fbe6-3800-4fb3-8d90-fb388160f63e.png",
+    "website": "https://unbounce.com",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Developer Tools"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Carl Schmidt",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Carter Gilchrist",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jason Murphy",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Justin Stacey",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Oli Gardner",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rick Perreault",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Speek",
+    "description": "Provider of an alternative service to conference calls for both web and mobile users. The company provides a conference calling services with a visual interface, which uses a personal and business link instead of a phone number for conference calls.",
+    "logo": "",
+    "website": "https://speek.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Danny Boice",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "John Bracken",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Divshot",
+    "description": "Provider of a browser-based, front-end development platform for responsive web applications. The company has developed a web application interface for designing webpages and exporting them to HTML5/CSS3.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7bbc410b-b599-405b-944b-5359f92a7214.png",
+    "website": "https://divshot.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jake Johnson",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Bleigh",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "SendGrid",
+    "description": "Provider of mobile and cloud-based email service platform designed to deliver customer communication that drives engagement and business growth. The company's email service platform integrates via API, SMTP or builds and sends email campaigns using online email marketing tools, enabling enterprises to increase email deliverability, to access actionable insight and scale itself to meet any volume of email.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a857ce58-2ca9-49f4-ab2d-4a354d25e9d2.png",
+    "website": "https://sendgrid.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Content",
+      "Developer Tools"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Isaac Saldana",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jose Lopez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tim Jenkins",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "ZippyKid",
+    "description": "Provider of WordPress hosting services designed to make WordPress hosting easy, fast and reliable at scale. The company's WordPress hosting services provides automatic update, traffic scaling, nightly backups and responsive support enabling companies to share branded content and deliver engaging online shopping experiences to its users.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b430973c-b97c-470e-9f8b-87e21440e577.png",
+    "website": "https://www.pressable.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vid Luther",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Iconfinder",
+    "description": "Provider of an icon search engine designed to offer customized icon design. The company's icon search engine gives access to a library of icons through subscription, enabling web designers and developers to use graphical computer icons.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7360c3fe-241d-4741-b0ca-76ec08695018.png",
+    "website": "https://iconfinder.com",
+    "location": "Denmark",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2013,
+    "program": "GA 5",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Martin LeBlanc",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Steffen Thilsted",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Stamplay",
+    "description": "Developer of a cloud-based application programming interface platform designed to automate business operation. The company's platform facilitates digitize operation by creating workflows that map to real business processes and eliminate the lag between getting information from one department to the next, enabling developers from different sectors like, consumer support, sales, operation, marketing, human resource and finance to create web applications without writing back-end codes and eliminate manual work.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9e4ac0b0-a9c7-42a1-84af-01fb041eea07.png",
+    "website": "https://stamplay.com",
+    "location": "United Kingdom",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2015,
+    "program": "GA 14",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Giuliano Lacobelli",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Nicola Mattina",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "source": "500",
+    "name": "MoonFruit",
+    "description": "Developer and designer of websites. The company is engaged in the designing, customization, styling and layout of websites that reflects a particular company's brand.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c43e0fe-9a5c-4056-af1a-93d8fe1bcc3a.png",
+    "website": "https://moonfruit.com",
+    "location": "United Kingdom",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Eirik Pettersen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Wendy Tan White",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Joe White",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Hall",
+    "description": "Provider of a cross-platform, cross-device messaging service to businesses. The company's platform provides SMS-like messaging services that run across all mobile devices in real-time.",
+    "logo": "",
+    "website": "https://hall.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Brett Hellman",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ron Adams",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "ThriveCom",
+    "description": "Provider of a platform to help application developers to onboard and verify users. The company's platform helps in bringing phone verification to web and mobile applications easily.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a408b59a-bde3-4cc2-8088-e7ef7266cf11.png",
+    "website": "https://ringcaptcha.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2015,
+    "program": "GA 13",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Nicolás Messina",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mariano Fernandez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Martín Cócaro",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Torbit",
+    "description": "Provider of a cloud-based website accelerator. The company provides tools to help businesses measure website performance and quantify how speed impacts their revenue.",
+    "logo": "",
+    "website": "https://torbit.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jon Fox",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Josh Fraser",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "Cloudability",
     "description": "Provider of a financial management tool for monitoring and analyzing cloud expenses. The company's platform aggregates expenditures into accessible and comprehensive reports that identify and allocate cloud costs using the most accurate, precise data in real-time thus scale efficiently and confidently with enterprise-scale analysis and machine learning which empower teams to optimize and be agile while staying accountable recommendations via SMS and email.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f6400742-3c0e-4da5-978f-ec3481ed7379.png",
@@ -22635,44 +23974,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Cloudpipes",
-    "description": "Developer of a workflow automation service platform designed to connect various cloud applications. The company's platform bridges the integration challenges between custom or package applications deployed within a customer data center and new SaaS applications deployed in the cloud that applies integration between cloud services without coding, enabling users to integrate all the data from cloud application to one.",
-    "logo": "",
-    "website": "https://www.cloudpipes.com",
-    "location": "United Kingdom",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2018,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Boris Raicheff",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United Kingdom"
     }
   },
   {
@@ -23096,93 +24397,6 @@
   },
   {
     "source": "500",
-    "name": "Sqoot",
-    "description": "Provider of an online source for daily deals. The company's product enables websites and applications to build with deals.",
-    "logo": "",
-    "website": "https://sqoot.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Content",
-      "Developer Tools"
-    ],
-    "year": 2012,
-    "program": "GA 4",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Avand Amiri",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mo Yehia",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Shoppr",
-    "description": "Provider of a software test automation platform. The company's platform offers online testing of the development and progress of Web software.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/432e6317-bd2b-4e85-9cda-45fea570ee75.png",
-    "website": "https://usetrace.com",
-    "location": "Finland",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2016,
-    "program": "GA 18",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Eero Heino",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Arto Vuori",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Finland"
-    }
-  },
-  {
-    "source": "500",
     "name": "Chain",
     "description": "Provider of ledger-as-a-service technology that enables organizations to securely track and transfer balances in a token format. The company's blockchain technology helps organizations can securely manage their financial assets in a token format on private ledgers and, soon, seamlessly transfer them across public networks, enabling financial institutions to offer seamless, programmatic and peer-to-peer transfer of digital assets.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/451ee531-342f-4ee6-97ae-7398b00d34d8.png",
@@ -23400,146 +24614,6 @@
   },
   {
     "source": "500",
-    "name": "uNow",
-    "description": "Provider of an online education platform designed to ensure that a quality higher education is available to people everywhere. The company's educational platform provides peer-to-peer learning communities, pedagogical models and tuition models and also operates a network of online schools that provides higher education programs, enabling people to get a proper degree, who might not otherwise get a college degree, due to cost or other commitments.",
-    "logo": "",
-    "website": "https://unow.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools",
-      "Education"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jeremie Sicsic",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Yannick PETIT",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Edools",
-    "description": "Operator of an online learning platform. The company delivers an online platform that takes care of management videos and documents, students management, e-commerce integration, scalability, customization of appearance and provides an API for integration with third party services.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5b096d34-d7fd-4f88-94a2-74cb4206977d.png",
-    "website": "https://edools.com",
-    "location": "Brazil",
-    "region": "Brazil",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2015,
-    "program": "GA 13",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Bernardo Kircove",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Maurilio Alberone",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Rafael Carvalho",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Brazil"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Little Eye",
-    "description": "Developer of analysis software for developers and testers of Android applications. The company provides a performance-analysis platform enabling developers to measure, analyze and optimize Android apps. The platform generates performance reports and does not require setup or coding - users plug their device in and begin profiling.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b366530e-7ec6-44e4-948a-62c9e8d15eb8.png",
-    "website": "https://littleeye.co",
-    "location": "India",
-    "region": "Southeast Asia",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Aditya Kulkarni",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Giridhar Murthy",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Lakshman Kakkirala",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "India"
-    }
-  },
-  {
-    "source": "500",
     "name": "Atexto",
     "description": "Provider of transcription services intended to offer speech-to-text transcriptions. The company's platform offers audio transcription service to train, test and tune voice machines, creating folders for each file or project and accessing live visibility about transcript progression and downloading them when they are ready, enabling companies to access their platform to load recording files to transcribe at any time and at a low cost.",
     "logo": "",
@@ -23675,44 +24749,6 @@
   },
   {
     "source": "500",
-    "name": "Japan",
-    "description": "Provider of cloud telephony tools. The company offers cloud telephony and SMS API tools used to connect calls and messages through the cloud.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1bcfed8c-4a6a-44b0-9ba6-97ecedc822f7.png",
-    "website": "https://fullcourt.co",
-    "location": "Singapore",
-    "region": "South Asia",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Takashi Kosumi",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Singapore"
-    }
-  },
-  {
-    "source": "500",
     "name": "Shopline",
     "description": "Developer of a DIY e-commerce platform designed to create online shops for merchants in Asia. The company's e-commerce platform allows merchants to apply for one free custom domain for their shop and provides professional and well-designed to customize their storefront, enabling them to launch an online shop in minutes, no coding required.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/72075c38-4c1a-4b81-b550-173afb641c20.png",
@@ -23761,44 +24797,6 @@
   },
   {
     "source": "500",
-    "name": "Keen Print",
-    "description": "Provider of a cloud-based printing ecommerce software intended to help print service providers set up online stores to optimize business. The company's cloud-based printing ecommerce software is an easy-to-use, zero-maintenance hosted service that lets printing companies sell online, accept and inspect files and manage all customer communication, billing, scheduling and shipping, enabling printing companies transit to online retail through subscription-based, on-demand service while reducing costs, increasing efficiency and improving relationships with existing customers.",
-    "logo": "",
-    "website": "https://keenprint.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Vitaly Golomb",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Skry",
     "description": "Developer of block-chain analytics and intelligence platform designed to manage, visualize and analyse blockchain data from disparate sources. The company's Skry platform uses latest Artificial Intelligence technologies allowing people to extract insights at a speed and scale that no human can on their own and provides easy access to actionable insights in real-time through its APIs and visual interfaces, enabling enterprises to derive real-time intelligence and risk assessment from block-chains and decentralized applications.",
     "logo": "",
@@ -23831,50 +24829,6 @@
       },
       {
         "name": "James Edwards",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Chalkable",
-    "description": "Developer of administration software. The company is engaged in the development of automated means of accountability to integrate the curriculum and mission standards of private schools and non-profit organizations.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d23f6fdc-a9fa-4f97-bf4b-7ba5f922b30d.png",
-    "website": "https://www.huntersystems.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools",
-      "Education"
-    ],
-    "year": 2012,
-    "program": "GA 4",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Michael Levy",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Zoli Honig",
         "role": "",
         "linkedin": ""
       }
@@ -23940,17 +24894,18 @@
   },
   {
     "source": "500",
-    "name": "Greply",
-    "description": "Developer of an on-demand communication and collaboration tool for home service professionals. The company's mobile application delivers a combination of augmented reality (AR), computer vision, and machine learning in order to capture information such as brand model, serial number, measurements and angles, and also allows for saving notes and images through a digital toolbox and record, enabling home management professionals including plumbers, painters and electricians to provide remote support, spend less time on the road and have happier customers.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5d6b7174-ecee-4f07-9598-210d72c69212.png",
-    "website": "https://streem.com",
-    "location": "United States",
-    "region": "North America",
+    "name": "Uninstall",
+    "description": "Developer of a data analysis platform designed to reduce application uninstalls. The company's data analysis platform uses an internal proprietary prediction engine that measures all huerstics and utilizes historical data to determine exactly which lot of users are going to uninstall an application in the next few days, enabling mobile application developers to engage with these users and prevent them from uninstalling.",
+    "logo": "",
+    "website": "https://uninstall.io",
+    "location": "India",
+    "region": "Southeast Asia",
     "subregion": "",
     "tags": [
+      "Content",
       "Developer Tools"
     ],
-    "year": 2013,
+    "year": 2015,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -23961,12 +24916,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Ritik Malhotra",
+        "name": "Alok Mishra",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Tanooj Luthra",
+        "name": "Lennon Teng",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Pritesh Vora",
         "role": "",
         "linkedin": ""
       }
@@ -23978,7 +24938,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
+      "country": "India"
     }
   },
   {
@@ -24075,215 +25035,10 @@
   },
   {
     "source": "500",
-    "name": "Unbounce",
-    "description": "Provider of an online platform designed to increase website and campaign conversions. The company's platform provides tools to build custom landing pages, which increase website and campaign conversions and helps marketers to quickly create, launch and test high-converting landing pages, popups, and sticky bars without developers, enabling them to create better marketing experiences.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ee27fbe6-3800-4fb3-8d90-fb388160f63e.png",
-    "website": "https://unbounce.com",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics",
-      "Developer Tools"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Carl Schmidt",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Carter Gilchrist",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jason Murphy",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Justin Stacey",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Oli Gardner",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Rick Perreault",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Speek",
-    "description": "Provider of an alternative service to conference calls for both web and mobile users. The company provides a conference calling services with a visual interface, which uses a personal and business link instead of a phone number for conference calls.",
-    "logo": "",
-    "website": "https://speek.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Danny Boice",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "John Bracken",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Uninstall",
-    "description": "Developer of a data analysis platform designed to reduce application uninstalls. The company's data analysis platform uses an internal proprietary prediction engine that measures all huerstics and utilizes historical data to determine exactly which lot of users are going to uninstall an application in the next few days, enabling mobile application developers to engage with these users and prevent them from uninstalling.",
-    "logo": "",
-    "website": "https://uninstall.io",
-    "location": "India",
-    "region": "Southeast Asia",
-    "subregion": "",
-    "tags": [
-      "Content",
-      "Developer Tools"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alok Mishra",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Lennon Teng",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Pritesh Vora",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "India"
-    }
-  },
-  {
-    "source": "500",
-    "name": "SendGrid",
-    "description": "Provider of mobile and cloud-based email service platform designed to deliver customer communication that drives engagement and business growth. The company's email service platform integrates via API, SMTP or builds and sends email campaigns using online email marketing tools, enabling enterprises to increase email deliverability, to access actionable insight and scale itself to meet any volume of email.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a857ce58-2ca9-49f4-ab2d-4a354d25e9d2.png",
-    "website": "https://sendgrid.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Content",
-      "Developer Tools"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Isaac Saldana",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jose Lopez",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tim Jenkins",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "ZippyKid",
-    "description": "Provider of WordPress hosting services designed to make WordPress hosting easy, fast and reliable at scale. The company's WordPress hosting services provides automatic update, traffic scaling, nightly backups and responsive support enabling companies to share branded content and deliver engaging online shopping experiences to its users.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b430973c-b97c-470e-9f8b-87e21440e577.png",
-    "website": "https://www.pressable.com",
+    "name": "Greply",
+    "description": "Developer of an on-demand communication and collaboration tool for home service professionals. The company's mobile application delivers a combination of augmented reality (AR), computer vision, and machine learning in order to capture information such as brand model, serial number, measurements and angles, and also allows for saving notes and images through a digital toolbox and record, enabling home management professionals including plumbers, painters and electricians to provide remote support, spend less time on the road and have happier customers.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5d6b7174-ecee-4f07-9598-210d72c69212.png",
+    "website": "https://streem.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
@@ -24301,7 +25056,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Vid Luther",
+        "name": "Ritik Malhotra",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tanooj Luthra",
         "role": "",
         "linkedin": ""
       }
@@ -24314,731 +25074,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Apsalar",
-    "description": "Developer of a mobile application attribution and audience management platform designed to drive engagement and monetization through data-driven marketing. The company's Apsalar Mobile Marketing Cloud provides the critical data layer for customized marketing based on the actions and needs of each individual app user, providing both essential business and user insights along with audience tools to power customized, data-driven marketing.",
-    "logo": "",
-    "website": "https://apsalar.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics",
-      "Developer Tools"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Michael Oiknine",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Philippe Suchet",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Steve Reiss",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Fazal Majid",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Skygiraffe",
-    "description": "Developer of an enterprise-grade mobility platform designed to mobilize line-of-business applications. The company's platform helps businesses to deploy enterprise-grade mobile applications on any device immediately and without the need for writing code, enabling employees to read and write-back data through customized mobile business applications.",
-    "logo": "",
-    "website": "https://skygiraffe.com",
-    "location": "Israel",
-    "region": "Middle East & Africa",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Boaz Hecht",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Itay Braun",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Israel"
-    }
-  },
-  {
-    "source": "500",
-    "name": "PopApp",
-    "description": "Developer of an application prototyping tool designed to assist users with various technological concepts. The company's application prototyping tool offers a platform to application developers to share their ideas and communicate with users to demonstrate how it works on a smartphone, enabling users to get technical guidance.",
-    "logo": "",
-    "website": "https://www.woomoo.in",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2013,
-    "program": "GA 6",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ben Lin",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Freckle Education",
-    "description": "Provider of a mathematics education program designed to meet the needs of every student through individualized Math, ELA and Social Studies resources. The company's mathematics education platform brings together the best in technology and great teaching to create unique, modern didactic experiences and makes a mathematics tablet program that adapts to students' capabilities in real time, enabling students to practice common core aligned math at their own pace and their teachers can tailor instruction for each student.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8685ee93-901b-4fc1-b9e1-9b62b2c90b34.png",
-    "website": "https://www.freckle.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alexandr Kurilin",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sidharth Kakkar",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "VoiceVoice",
-    "description": "Developer of a platform designed to help people participate in virtual events featuring real conversations. The company's platform offers social conferencing where people can convene around a topic or cause, engage in small group conversation to learn, share, inspire one another to action and change and connect live voices that can build relationships, develop minds, open hearts, and change the world, enabling people to be a part of meaningful, large-scale conversations that can bring about changes.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3c339bfe-9c08-4217-929c-336b648ac486.png",
-    "website": "https://maestroconference.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2016,
-    "program": "GA 16",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Marcy Deluce",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Brian Burt",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Stamplay",
-    "description": "Developer of a cloud-based application programming interface platform designed to automate business operation. The company's platform facilitates digitize operation by creating workflows that map to real business processes and eliminate the lag between getting information from one department to the next, enabling developers from different sectors like, consumer support, sales, operation, marketing, human resource and finance to create web applications without writing back-end codes and eliminate manual work.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9e4ac0b0-a9c7-42a1-84af-01fb041eea07.png",
-    "website": "https://stamplay.com",
-    "location": "United Kingdom",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2015,
-    "program": "GA 14",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Giuliano Lacobelli",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Nicola Mattina",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United Kingdom"
-    }
-  },
-  {
-    "source": "500",
-    "name": "MoonFruit",
-    "description": "Developer and designer of websites. The company is engaged in the designing, customization, styling and layout of websites that reflects a particular company's brand.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c43e0fe-9a5c-4056-af1a-93d8fe1bcc3a.png",
-    "website": "https://moonfruit.com",
-    "location": "United Kingdom",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Eirik Pettersen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Wendy Tan White",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Joe White",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United Kingdom"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Hall",
-    "description": "Provider of a cross-platform, cross-device messaging service to businesses. The company's platform provides SMS-like messaging services that run across all mobile devices in real-time.",
-    "logo": "",
-    "website": "https://hall.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Brett Hellman",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ron Adams",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "ThriveCom",
-    "description": "Provider of a platform to help application developers to onboard and verify users. The company's platform helps in bringing phone verification to web and mobile applications easily.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a408b59a-bde3-4cc2-8088-e7ef7266cf11.png",
-    "website": "https://ringcaptcha.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2015,
-    "program": "GA 13",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Nicolás Messina",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mariano Fernandez",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Martín Cócaro",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Torbit",
-    "description": "Provider of a cloud-based website accelerator. The company provides tools to help businesses measure website performance and quantify how speed impacts their revenue.",
-    "logo": "",
-    "website": "https://torbit.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jon Fox",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Josh Fraser",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "LightBox",
-    "description": "Provider of applications for Android mobile phones. The company's primary application Lightbox Photos, connect the Android camera with social networks.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7b9397e2-f8de-4c94-8896-6312851ad130.png",
-    "website": "https://lightbox.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Nitin Sharma",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Thai Tran",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Humanoid",
-    "description": "Developer of a human brainpower API (Application Programming Interface) that enables engineers to create tasks and send instructions to humans. The company offers computer programmers a way to use human intelligence in software applications.",
-    "logo": "",
-    "website": "https://speakertext.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Matt Mireles",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Matt Swanson",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tyler Kieft",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Divshot",
-    "description": "Provider of a browser-based, front-end development platform for responsive web applications. The company has developed a web application interface for designing webpages and exporting them to HTML5/CSS3.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7bbc410b-b599-405b-944b-5359f92a7214.png",
-    "website": "https://divshot.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jake Johnson",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Michael Bleigh",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Zumata",
-    "description": "Developer of a Software-as-a-Service (SaaS) travel technology designed to solve complex problems. The company's technology uses artificial intelligence and machine learning capabilities to offer internet booking engines and travel content, enabling companies to overcome the many challenges of accommodation distribution, increase speed to market and maximize profit from each sale.",
-    "logo": "",
-    "website": "https://zumata.com",
-    "location": "Singapore",
-    "region": "South Asia",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Craig Dixon",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Gary Theis",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Josh Ziegler",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Singapore"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Silk Labs",
-    "description": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
-    "logo": "",
-    "website": "https://silklabs.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools",
-      "Infrastructure"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Moran Altarac",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andreas Gal",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Michael Vines",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sean Gallavan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "TestFairy",
-    "description": "Developer of an online application testing platform designed to integrate bug-tracking and update user experience. The company's online application testing platform allows users a seamless branded corporate experience for downloading apps and reporting bugs, enabling users to update their application continuously with various technical reforms.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/57f90097-9c55-4b9d-8afa-666c7475e83c.png",
-    "website": "https://testfairy.com",
-    "location": "Israel",
-    "region": "Middle East & Africa",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Gil Megidish",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Yair Bar-On",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Israel"
     }
   }
 ]

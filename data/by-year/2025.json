@@ -11561,7 +11561,7 @@
   {
     "source": "yc",
     "name": "Tire Swing",
-    "description": "AI Powered Affordable Housing Eligibility",
+    "description": "AI Compliance for Affordable Housing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/954a6e03dc3be9737df64c792b63e036b1c580cf.png",
     "website": "https://gettireswing.com",
     "location": "New York City, NY, USA",
@@ -11822,17 +11822,14 @@
   {
     "source": "yc",
     "name": "Artificial Societies",
-    "description": "We build networks of AI personas that simulate stakeholder opinions",
+    "description": "We build networks of AIs to simulate high-value audiences",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3f1ebd1806463e3909d4a1f7b197b6c3788ebf4c.png",
     "website": "https://societies.io",
     "location": "London, England, United Kingdom",
     "region": "United Kingdom",
     "subregion": "",
     "tags": [
-      "Analytics",
       "Artificial Intelligence",
-      "Machine Learning",
-      "SaaS",
       "Market Research"
     ],
     "year": 2025,
@@ -12641,7 +12638,7 @@
   {
     "source": "yc",
     "name": "Atlog",
-    "description": "Voice AI That Won't Get You Sued",
+    "description": "Outbound voice and text AI without a prompt",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3405b06390efd124a27be23179a4e549fc3f10d0.png",
     "website": "https://atlog.ai",
     "location": "New York City, NY, USA",
@@ -13101,9 +13098,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Reinforcement Learning",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -14330,11 +14327,11 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
+      "Artificial Intelligence",
       "Hardware",
       "Robotics",
       "Manufacturing",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -16818,9 +16815,9 @@
     "tags": [
       "Infrastructure",
       "AIOps",
+      "Artificial Intelligence",
       "Machine Learning",
-      "Reinforcement Learning",
-      "AI"
+      "Reinforcement Learning"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -27102,18 +27099,18 @@
   },
   {
     "source": "yc",
-    "name": "Nerviom",
-    "description": "AI Autopilot for Infrastructure Permitting",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7466bfa4281b844c618118683dbd69f3e3cec258.png",
-    "website": "https://www.nerviom.com",
+    "name": "Axial",
+    "description": "Accelerated Physics Kernels for Computational Engineering",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/50b2530edbf5348c3c01f68b90374b1e76cd4dd6.png",
+    "website": "https://axialcompute.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Real Estate and Construction",
-      "Real Estate",
-      "Legal",
-      "AI",
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Manufacturing",
       "Industrial"
     ],
     "year": 2025,
@@ -27374,9 +27371,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -31242,6 +31239,16 @@
         "linkedin": ""
       },
       {
+        "name": "Kirill Bigai",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Bohumil Pokstefl",
+        "role": "",
+        "linkedin": ""
+      },
+      {
         "name": "Tjr Humphrey",
         "role": "",
         "linkedin": ""
@@ -31258,6 +31265,11 @@
       },
       {
         "name": "Igor Pistolyaka",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kate Jones",
         "role": "",
         "linkedin": ""
       }
@@ -34887,36 +34899,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Armeta",
-    "description": "Enabling engineers an AI agents to query legacy process drawings (P&IDs, PFDs, etc) in the energy and legacy sectors",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Slideflow Labs",
     "description": "Empowering next-gen precision oncology with scalable, in-house AI biomarkers from routine pathology slides.",
     "logo": "",
@@ -34956,6 +34938,36 @@
         "linkedin": ""
       }
     ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Armeta",
+    "description": "Enabling engineers an AI agents to query legacy process drawings (P&IDs, PFDs, etc) in the energy and legacy sectors",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -35439,11 +35451,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Adrich",
-    "description": "Smart packaging that tracks consumer product usage",
+    "name": "Etat'H Solide",
+    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
     "logo": "",
     "website": "",
-    "location": "Pittsburgh, PA, USA",
+    "location": "Grand Rapids, MI, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35458,221 +35470,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Adhithi Aji**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Dale Harber**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "DevPlaza",
-    "description": "Automated production-readiness platform for the AI coding era",
-    "logo": "",
-    "website": "",
-    "location": "Pleasanton, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Sahana Nagabhushan**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Arjun G N**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Stephen Service**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Advisors:** Adam Frankl",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Divergent Physics",
-    "description": " Claude Code for Hardware design",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Gustavo Navarro",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Volodymyr Shyianov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Bamelak Tadele",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "PayCare AI ",
-    "description": "PayCare AI automates radiology practices from front desk to scanner — turning idle machines and long patient wait times into 24/7 access. Profitable for operators (like the founder) and accessible for patients.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Himza — Founder",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Engineer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ravi — CMO",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Northwestern Medical School",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Krisha — Infra Engineer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Cornell CS",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Together",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Polyview Health",
-    "description": "Prevent fraud, waste, abuse in healthcare claims",
-    "logo": "",
-    "website": "",
-    "location": "Menlo Park, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jason Hwang",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dimitri Arges",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Greg Deocampo",
+        "name": "Jhea-Uhg \"Damian\" Kang",
         "role": "",
         "linkedin": ""
       }
@@ -35812,42 +35610,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Etat'H Solide",
-    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
-    "logo": "",
-    "website": "",
-    "location": "Grand Rapids, MI, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jhea-Uhg  Kang",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Xitester",
     "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
     "logo": "",
@@ -35919,6 +35681,256 @@
       },
       {
         "name": "**Alexander Gromov**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "PayCare AI ",
+    "description": "PayCare AI automates radiology practices from front desk to scanner — turning idle machines and long patient wait times into 24/7 access. Profitable for operators (like the founder) and accessible for patients.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Himza — Founder",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Engineer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ravi — CMO",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Northwestern Medical School",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Krisha — Infra Engineer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Cornell CS",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Together",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Divergent Physics",
+    "description": " Claude Code for Hardware design",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Gustavo Navarro",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Volodymyr Shyianov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Bamelak Tadele",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "DevPlaza",
+    "description": "Automated production-readiness platform for the AI coding era",
+    "logo": "",
+    "website": "",
+    "location": "Pleasanton, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Sahana Nagabhushan**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Arjun G N**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Stephen Service**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Advisors:** Adam Frankl",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Polyview Health",
+    "description": "Prevent fraud, waste, abuse in healthcare claims",
+    "logo": "",
+    "website": "",
+    "location": "Menlo Park, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jason Hwang",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dimitri Arges",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Greg Deocampo",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Adrich",
+    "description": "Smart packaging that tracks consumer product usage",
+    "logo": "",
+    "website": "",
+    "location": "Pittsburgh, PA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Adhithi Aji**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Dale Harber**",
         "role": "",
         "linkedin": ""
       }

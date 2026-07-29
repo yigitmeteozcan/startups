@@ -3784,15 +3784,16 @@
   },
   {
     "source": "yc",
-    "name": "Sonarly",
-    "description": "Makes software self-healing",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png",
-    "website": "https://sonarly.com",
+    "name": "Mirabelle",
+    "description": "The personal cooking robot",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9c87d0326f43aedaf5e755c291f9191473eb838d.png",
+    "website": "https://meetmirabelle.com",
     "location": "Paris, Île-de-France, France",
     "region": "France",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design"
+      "Consumer",
+      "Consumer Electronics"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -5865,14 +5866,15 @@
   {
     "source": "yc",
     "name": "Terminal Use",
-    "description": "Vercel for background agents",
+    "description": "Digital twins for data center construction",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7c1f9c6555570a59695390a5a40a26ba79862a09.png",
     "website": "https://www.terminaluse.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure"
+      "Real Estate and Construction",
+      "Construction"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -8944,6 +8946,41 @@
   },
   {
     "source": "yc",
+    "name": "Applied Electrodynamics, Inc.",
+    "description": "A new kind of camera that can see through walls.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8739177832b17ba59368a218faa7fcbfcdcbc74b.png",
+    "website": "https://www.ae-dyn.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Hard Tech",
+      "Hardware",
+      "Construction",
+      "Manufacturing",
+      "Defense"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Wayco",
     "description": "AI operator for medlegal cases",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/00d9df2c4df7159bbd9cfe29bf68638efb2f8ed3.png",
@@ -9536,9 +9573,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Sales Enablement",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -10368,7 +10405,12 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design"
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Kubernetes",
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -15670,7 +15712,7 @@
     "description": "AI-native land-use permit management for local gov",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4de79d62c0767417bcc285f4339875d51c92131b.png",
     "website": "https://www.verdantapp.com/",
-    "location": "San Francisco, CA, USA",
+    "location": "Washington, DC, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -15869,6 +15911,38 @@
   },
   {
     "source": "yc",
+    "name": "Buildbox",
+    "description": "Understand how users experience your AI agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/989f93098b0f9d50006d1cc3890e9da739799a9e.png",
+    "website": "https://heybuildbox.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Analytics",
+      "Artificial Intelligence",
+      "Enterprise Software"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Bizmark",
     "description": "The OS for companies that make, move, or sell physical goods",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4791de2dabb8bec7ed5148dd8de1f8400f029cbd.png",
@@ -15965,10 +16039,10 @@
   },
   {
     "source": "yc",
-    "name": "Truffle",
+    "name": "Marble",
     "description": "The autonomous back-of-house for restaurants.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c2506c5899c2529c2d5cc182e3a242e11f99aa02.png",
-    "website": "https://usetruffle.ai/",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd8594643506090563d23eac2d8bee3b9c1e526f.png",
+    "website": "https://joinmarble.ai/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
@@ -16992,7 +17066,7 @@
   {
     "source": "yc",
     "name": "Risklytics",
-    "description": "AI-Native Brokerage for Hard-to-Place Commercial Insurance",
+    "description": "Commercial Brokerage for Frontier Tech",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b0ad1653f775fb272b3481e8715c274f46c2c464.png",
     "website": "https://www.risklytics.ai/",
     "location": "San Francisco, CA, USA",
@@ -17001,9 +17075,9 @@
     "tags": [
       "Fintech",
       "Insurance",
+      "Artificial Intelligence",
       "Machine Learning",
-      "Real Estate",
-      "AI"
+      "Real Estate"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17755,6 +17829,37 @@
   },
   {
     "source": "yc",
+    "name": "Decawork",
+    "description": "The Agent Control Plane for IT teams",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
+    "website": "https://decawork.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Artificial Intelligence"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Derya",
     "description": "AI-Native Logistics Office",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e0512b453e994207fdf56052eb221e687d29dc51.png",
@@ -17802,6 +17907,39 @@
       "Artificial Intelligence",
       "Geographic Information System",
       "Location-based"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Lamb Labs",
+    "description": "World's fastest AI models",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c5ba47505a760393e85b91acdb4b3933cf8df0a7.png",
+    "website": "http://lamb-labs.com",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Electronics",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17923,9 +18061,42 @@
   },
   {
     "source": "yc",
+    "name": "Grip",
+    "description": "Physical AI for waste management",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a6be2671c5d4e3adfe916a4a59aad4680c7cc9d3.png",
+    "website": "https://www.griprobotics.ai",
+    "location": "Zürich, ZH, Switzerland",
+    "region": "Switzerland",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Robotic Process Automation",
+      "Sustainability"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "HyperProbe",
     "description": "Your coding agent writes code. Now let it fix prod too.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e5b4807040a02ba35de45355e3c51fd115e82199.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b4b91e0b78bbed1c83add57d22b06ab632567450.png",
     "website": "http://hyperprobe.co",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -17935,6 +18106,36 @@
       "Developer Tools",
       "DevSecOps",
       "SaaS"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Dock",
+    "description": "Multiplayer agent workspace that grows your company without growing…",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0cba332f90be97dc4bf4f1ed2941969d74936204.png",
+    "website": "https://trydock.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18416,7 +18617,7 @@
   {
     "source": "yc",
     "name": "Osseus",
-    "description": "The secure research brain for accelerating R&D",
+    "description": "The intelligent design platform for robotics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "location": "",
@@ -18424,10 +18625,10 @@
     "subregion": "",
     "tags": [
       "Productivity",
+      "Artificial Intelligence",
+      "Robotics",
       "Enterprise Software",
-      "Infrastructure",
-      "Operations",
-      "AI"
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18450,7 +18651,7 @@
   {
     "source": "yc",
     "name": "hardware intelligence",
-    "description": "Agentic chip design with ultrafast feedback loops",
+    "description": "AI tools for the chips your AI runs on",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c2193e7412febe2e812491e1a73617bb09eb897.png",
     "website": "https://hardwareintelligence.ai",
     "location": "San Francisco, CA, USA",
@@ -18458,11 +18659,11 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Enterprise Software",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18989,6 +19190,11 @@
       },
       {
         "name": "Fernanda Barbero",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Nicolas Alborno",
         "role": "",
         "linkedin": ""
       }
@@ -19712,6 +19918,211 @@
       },
       {
         "name": "Federico Naides",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andrés Benavides",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Gonzalo Gallardo",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Camilo Silva",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Benjamin Vega",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andrés Meira",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Robin Nuñez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Israel Garcia",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Juan Ozino Caligaris",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Diego Garfias Lopez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Bruno Garza",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Guillermo Martínez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Silvia Espinosa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dimitri Zaninovich",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Vicente Álvarez Retamal",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Santiago Bustamante",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Stiven Martínez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Luis Antonio Villarreal Castilla",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Lina Sanchez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Juan Gabriel Aguirre Barriga",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mauricio Almeida",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "François Gueneau de Mussy",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Abigail Sosa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Julio Franco",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alejandro Lopez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Daniel Bernardez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alejandro Lozano",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Oscar Garavito",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rodrigo Kuri",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Luis Caviglia",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alejandro Sisniega",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matias Carpintini",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Lucas Cornejo",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alberto Bonetti",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alejandro Flores Garcia",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rodrigo Hernández",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Miguel Morkin",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Oscar Gardiazabal",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Evandro Cantú Cruz",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Martin Gartz Gonzalez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sebastian Aranguiz",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Javier Hernandez",
         "role": "",
         "linkedin": ""
       }
@@ -20765,11 +21176,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Luce Labs",
-    "description": "Programmable expression of high-value plant compounds\n",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
     "logo": "",
     "website": "",
-    "location": "Chicago, IL, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -20784,12 +21195,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Luigi Guadagno**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**James Russell**",
+        "name": "**Mutaz Musa**",
         "role": "",
         "linkedin": ""
       }
@@ -20847,11 +21253,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
+    "name": "Luce Labs",
+    "description": "Programmable expression of high-value plant compounds\n",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Chicago, IL, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -20866,7 +21272,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Mutaz Musa**",
+        "name": "**Luigi Guadagno**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**James Russell**",
         "role": "",
         "linkedin": ""
       }
