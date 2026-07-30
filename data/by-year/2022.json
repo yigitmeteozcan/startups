@@ -19835,7 +19835,7 @@
     "programSlugs": [
       "yc-winter-2022"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -47339,6 +47339,47 @@
   },
   {
     "source": "ef",
+    "name": "Wexler",
+    "description": "AI assistant for legal professionals.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Gregory Mostyn",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/gregory-mostyn-9b3a89b8/"
+      },
+      {
+        "name": "Kush Madlani",
+        "role": "CTO",
+        "linkedin": "http://www.linkedin.com/in/kush-madlani-08141580/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
     "name": "MetaVoice",
     "description": "Voice AI that feels like talking to a friend.",
     "logo": "",
@@ -47448,47 +47489,6 @@
         "name": "Lazar Jovanovic",
         "role": "CTO",
         "linkedin": "https://www.linkedin.com/in/lazarjov/"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "investor": ""
-    }
-  },
-  {
-    "source": "ef",
-    "name": "Wexler",
-    "description": "AI assistant for legal professionals.",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Entrepreneur First",
-    "programSlugs": [
-      "ef"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Gregory Mostyn",
-        "role": "CEO",
-        "linkedin": "https://www.linkedin.com/in/gregory-mostyn-9b3a89b8/"
-      },
-      {
-        "name": "Kush Madlani",
-        "role": "CTO",
-        "linkedin": "http://www.linkedin.com/in/kush-madlani-08141580/"
       }
     ],
     "social": {
@@ -50525,11 +50525,11 @@
   },
   {
     "source": "alchemist",
-    "name": "LiveDiagrams, Inc.",
-    "description": "Cloud Operations. Simplified.",
+    "name": "QI",
+    "description": "Predictive Insights to Test Content Before Going Live",
     "logo": "",
     "website": "",
-    "location": "San Mateo, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -50538,18 +50538,13 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": true,
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Andrew Lupersolsky",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Yegor Tsynkevich",
+        "name": "JD Rico",
         "role": "",
         "linkedin": ""
       }
@@ -50607,16 +50602,16 @@
   },
   {
     "source": "alchemist",
-    "name": "QI",
-    "description": "Predictive Insights to Test Content Before Going Live",
+    "name": "mechlabs.ai",
+    "description": "Web3 Mechatronic Engineering education alternative to a 4-year University degree. Learn-to-Earn. No instructors, no textbooks and no lectures. ",
     "logo": "",
     "website": "",
-    "location": "Los Angeles, CA, USA",
+    "location": "Oakland, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2022,
-    "program": "Alchemist Class 34",
+    "program": "Alchemist Class 31",
     "programSlugs": [
       "alchemist"
     ],
@@ -50626,7 +50621,53 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "JD Rico",
+        "name": "Alex Dantas",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dan O'Mara",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "LiveDiagrams, Inc.",
+    "description": "Cloud Operations. Simplified.",
+    "logo": "",
+    "website": "",
+    "location": "San Mateo, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Andrew Lupersolsky",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yegor Tsynkevich",
         "role": "",
         "linkedin": ""
       }
@@ -50673,88 +50714,6 @@
       },
       {
         "name": "CPO",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "mechlabs.ai",
-    "description": "Web3 Mechatronic Engineering education alternative to a 4-year University degree. Learn-to-Earn. No instructors, no textbooks and no lectures. ",
-    "logo": "",
-    "website": "",
-    "location": "Oakland, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 31",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alex Dantas",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dan O'Mara",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Bonfire Analytics",
-    "description": "AI-Driven Lead Scoring for Digital Health Companies: Faster High-Quality Lead Generation Leads to Cheaper Customer Acquisition\n\n",
-    "logo": "",
-    "website": "",
-    "location": "Philadelphia, PA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 33",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Vinay Nagaraj",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jaya Pokuri",
         "role": "",
         "linkedin": ""
       }
@@ -50914,52 +50873,6 @@
   },
   {
     "source": "alchemist",
-    "name": "FreeFuse",
-    "description": "A video communication platform that simplifies how information is shared and processed.",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 31",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mike Liu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Wendy Chen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Marcus Jeffrey",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "docbotic",
     "description": "The World's Most Accessible Form of Mental Health Care",
     "logo": "",
@@ -50990,6 +50903,93 @@
       },
       {
         "name": "Anthony Bui",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Bonfire Analytics",
+    "description": "AI-Driven Lead Scoring for Digital Health Companies: Faster High-Quality Lead Generation Leads to Cheaper Customer Acquisition\n\n",
+    "logo": "",
+    "website": "",
+    "location": "Philadelphia, PA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 33",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vinay Nagaraj",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jaya Pokuri",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "FreeFuse",
+    "description": "A video communication platform that simplifies how information is shared and processed.",
+    "logo": "",
+    "website": "",
+    "location": "Los Angeles, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mike Liu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Wendy Chen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Marcus Jeffrey",
         "role": "",
         "linkedin": ""
       }
