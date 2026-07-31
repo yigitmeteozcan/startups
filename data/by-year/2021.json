@@ -18581,8 +18581,8 @@
   },
   {
     "source": "yc",
-    "name": "Version Story",
-    "description": "GitHub for lawyers",
+    "name": "Version Story Compare",
+    "description": "Claude Redlining Plugin",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c8427a4df46d5bdea47426e5463c809db03232f1.png",
     "website": "https://versionstory.com/",
     "location": "New York City, NY, USA",
@@ -18590,9 +18590,9 @@
     "subregion": "",
     "tags": [
       "Legal",
-      "Artificial Intelligence",
       "SaaS",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "year": 2021,
     "program": "YC Winter 2021",
@@ -29489,15 +29489,15 @@
     "description": "Visual AI shopping",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/48360413020d2b744e8c5f969d2f31d5390b1957.png",
     "website": "https://socosearch.com/",
-    "location": "Dallas, TX, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
       "Apparel and Cosmetics",
-      "Artificial Intelligence",
       "Chatbot",
       "Retail",
+      "AI",
       "AI Assistant"
     ],
     "year": 2021,
@@ -29947,7 +29947,7 @@
   {
     "source": "yc",
     "name": "Tablevibe",
-    "description": "All-in-one digital ordering system for restaurants",
+    "description": "Direct Ordering Software for Restaurants",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9212f9f0b96b04ad6f1ea1e8d1edd948fcc6ea81.png",
     "website": "https://www.tablevibe.co",
     "location": "Singapore, Singapore; Remote",
@@ -41018,6 +41018,11 @@
         "name": "Youngho Lee",
         "role": "",
         "linkedin": ""
+      },
+      {
+        "name": "Hyewon Choe",
+        "role": "",
+        "linkedin": ""
       }
     ],
     "social": {
@@ -46970,93 +46975,6 @@
   },
   {
     "source": "alchemist",
-    "name": "engageLively",
-    "description": "Intelligent Dashboards that Enable Data Science for All",
-    "logo": "",
-    "website": "",
-    "location": "Orinda, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Rick McGeer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andi Bergen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Matt Hemmings",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Deriskly Limited",
-    "description": "Leveraging AI to Help Companies Prevent Legal Disputes by Detecting and Assessing Risks in Documents, Emails, Social Media & Web",
-    "logo": "",
-    "website": "",
-    "location": "Oxford, UK",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 29",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dr Mimi Zou",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tatiana Botskina",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "UK"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "VAR.energy",
     "description": "Smart Grid “Platform-as-a-Service” Provider",
     "logo": "",
@@ -47317,47 +47235,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Sensory Robotics",
-    "description": "Safety Systems and Computer Vision for Factories",
-    "logo": "",
-    "website": "",
-    "location": "Cincinnati, OH, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 28",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Chris Edwards",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tristan Fogt",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "UserLove",
     "description": "Generative AI for customer support - automating 47% of customer service tickets.",
     "logo": "",
@@ -47378,47 +47255,6 @@
     "founders": [
       {
         "name": "Hasan Khan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Werbot",
-    "description": "1Password for Servers - Easy Server Access Sharing, Control and Audit",
-    "logo": "",
-    "website": "",
-    "location": "Middletown, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 29",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Inna Ponamarchuk",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dmitry Shurco",
         "role": "",
         "linkedin": ""
       }
@@ -47472,6 +47308,88 @@
     },
     "extra": {
       "country": "Canada"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Sensory Robotics",
+    "description": "Safety Systems and Computer Vision for Factories",
+    "logo": "",
+    "website": "",
+    "location": "Cincinnati, OH, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 28",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Chris Edwards",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tristan Fogt",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "NavigateIO Inc.",
+    "description": "Self Contained Location Intelligence in GPS-Denied Areas for Public Safety, Military, Construction, Warehousing, Industrial and AR/VR",
+    "logo": "",
+    "website": "",
+    "location": "Santa Rosa, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sukhi Lamba",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Karthik Sundaresan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
     }
   },
   {
@@ -47563,11 +47481,52 @@
   },
   {
     "source": "alchemist",
-    "name": "NavigateIO Inc.",
-    "description": "Self Contained Location Intelligence in GPS-Denied Areas for Public Safety, Military, Construction, Warehousing, Industrial and AR/VR",
+    "name": "Werbot",
+    "description": "1Password for Servers - Easy Server Access Sharing, Control and Audit",
     "logo": "",
     "website": "",
-    "location": "Santa Rosa, CA, USA",
+    "location": "Middletown, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 29",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Inna Ponamarchuk",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dmitry Shurco",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "engageLively",
+    "description": "Intelligent Dashboards that Enable Data Science for All",
+    "logo": "",
+    "website": "",
+    "location": "Orinda, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -47582,12 +47541,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Sukhi Lamba",
+        "name": "Rick McGeer",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Karthik Sundaresan",
+        "name": "Andi Bergen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt Hemmings",
         "role": "",
         "linkedin": ""
       }
@@ -47600,6 +47564,47 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Deriskly Limited",
+    "description": "Leveraging AI to Help Companies Prevent Legal Disputes by Detecting and Assessing Risks in Documents, Emails, Social Media & Web",
+    "logo": "",
+    "website": "",
+    "location": "Oxford, UK",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 29",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dr Mimi Zou",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tatiana Botskina",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "UK"
     }
   }
 ]

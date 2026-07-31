@@ -21100,15 +21100,15 @@
     "description": "Visual AI shopping",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/48360413020d2b744e8c5f969d2f31d5390b1957.png",
     "website": "https://socosearch.com/",
-    "location": "Dallas, TX, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
       "Apparel and Cosmetics",
-      "Artificial Intelligence",
       "Chatbot",
       "Retail",
+      "AI",
       "AI Assistant"
     ],
     "year": 2021,
@@ -29887,7 +29887,7 @@
     "programSlugs": [
       "yc-summer-2025"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -29903,8 +29903,8 @@
   {
     "source": "yc",
     "name": "Pally",
-    "description": "Intelligent Unified Inbox + Personal CRM",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8122df650e86be44e74129b9b3b90d553a670985.png",
+    "description": "Your personal AI Assistant",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/849f2561c7a883d8d5d6523f27f8404ee02820ed.png",
     "website": "https://pally.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -30211,6 +30211,40 @@
       "Video",
       "Media",
       "Creator Economy"
+    ],
+    "year": 2025,
+    "program": "YC Fall 2025",
+    "programSlugs": [
+      "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Bron",
+    "description": "TikTok for Sports Trading",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/322e036fa9ab0e06f47840b20ad078b02e03e79b.png",
+    "website": "https://askbron.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Sports Tech",
+      "Analytics",
+      "AI",
+      "AI Assistant"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -30780,7 +30814,7 @@
   {
     "source": "yc",
     "name": "Mirabelle",
-    "description": "The personal cooking robot",
+    "description": "Your robot chef",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9c87d0326f43aedaf5e755c291f9191473eb838d.png",
     "website": "https://meetmirabelle.com",
     "location": "Paris, Île-de-France, France",
@@ -31604,7 +31638,7 @@
   {
     "source": "yc",
     "name": "Wondering",
-    "description": "Duolingo for Learning Anything",
+    "description": "Duolingo for learning anything, but 10x better",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/188e05122015c2a6e85c91c5145eeef637482a9b.png",
     "website": "https://wondering.app",
     "location": "San Francisco, CA, USA",
@@ -31613,8 +31647,8 @@
     "tags": [
       "Consumer",
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
       "Education",
+      "AI",
       "AI Assistant"
     ],
     "year": 2026,
@@ -33427,6 +33461,11 @@
       },
       {
         "name": "Youngho Lee",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Hyewon Choe",
         "role": "",
         "linkedin": ""
       }

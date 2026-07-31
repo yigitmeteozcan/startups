@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-30._
+_Auto-generated from the dataset on 2026-07-31._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,014** |
+| Total companies | **21,026** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2758** |
+| 💰 Exits | **2759** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-07-30._
 
 | Source | Companies |
 |---|---|
-| yc | 6,106 |
+| yc | 6,108 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
-| antler | 1,036 |
+| antler | 1,046 |
 | alchemist | 518 |
 | ef | 499 |
 
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-30._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1048
-2026  █████████████░░░░░░░░░░░░░░░ 668
+2026  █████████████░░░░░░░░░░░░░░░ 670
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-07-30._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1401
-3. **Antler** — 1036
+3. **Antler** — 1046
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -106,26 +106,26 @@ _Auto-generated from the dataset on 2026-07-30._
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1415
 4. **Mobile** — 1141
-5. **Consumer** — 1056
-6. **Artificial Intelligence** — 947
-7. **AI** — 845
-8. **Healthcare** — 812
+5. **Consumer** — 1057
+6. **Artificial Intelligence** — 942
+7. **AI** — 850
+8. **Healthcare** — 813
 9. **Developer Tools** — 698
-10. **Infrastructure** — 678
+10. **Infrastructure** — 680
 11. **Health** — 663
 12. **Engineering, Product and Design** — 610
-13. **Industrials** — 601
+13. **Industrials** — 602
 14. **Insurtech** — 513
 15. **Deeptech** — 489
-16. **Brand & Retail** — 474
-17. **B2B Software** — 473
+16. **B2B Software** — 480
+17. **Brand & Retail** — 474
 18. **Healthtech** — 440
 19. **Energy** — 426
 20. **Mobility & Physical AI** — 409
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4523
+2. **United States of America** — 4525
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
