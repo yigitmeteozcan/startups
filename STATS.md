@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-07-31._
+_Auto-generated from the dataset on 2026-08-01._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,026** |
+| Total companies | **21,028** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2759** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-07-31._
 
 | Source | Companies |
 |---|---|
-| yc | 6,108 |
+| yc | 6,110 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-07-31._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1048
-2026  █████████████░░░░░░░░░░░░░░░ 670
+2026  █████████████░░░░░░░░░░░░░░░ 672
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -104,13 +104,13 @@ _Auto-generated from the dataset on 2026-07-31._
 ## Top industries
 1. **Fintech** — 2466
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1415
+3. **SaaS** — 1416
 4. **Mobile** — 1141
-5. **Consumer** — 1057
-6. **Artificial Intelligence** — 942
-7. **AI** — 850
+5. **Consumer** — 1058
+6. **Artificial Intelligence** — 945
+7. **AI** — 849
 8. **Healthcare** — 813
-9. **Developer Tools** — 698
+9. **Developer Tools** — 699
 10. **Infrastructure** — 680
 11. **Health** — 663
 12. **Engineering, Product and Design** — 610
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-07-31._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4525
+2. **United States of America** — 4527
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -134,7 +134,7 @@ _Auto-generated from the dataset on 2026-07-31._
 8. **South Asia** — 264
 9. **Canada** — 211
 10. **United Kingdom** — 209
-11. **India** — 204
+11. **India** — 205
 12. **Latin America** — 163
 13. **Middle East** — 159
 14. **Unspecified** — 121
@@ -196,32 +196,32 @@ _Auto-generated from the dataset on 2026-07-31._
 70. **Georgia** — 2
 71. **Finland** — 2
 72. **Costa Rica** — 2
-73. **Jordan** — 2
-74. **Thailand** — 1
-75. **Nepal** — 1
-76. **Bangladesh** — 1
-77. **Bermuda** — 1
-78. **Russia** — 1
-79. **Hungary** — 1
-80. **Latvia** — 1
-81. **Puerto Rico** — 1
-82. **Iceland** — 1
-83. **Czechia** — 1
-84. **Greece** — 1
-85. **Iraq** — 1
-86. **Kyrgyzstan** — 1
-87. **Tanzania** — 1
-88. **Algeria** — 1
-89. **Kazakhstan** — 1
-90. **Italy** — 1
-91. **Lithuania** — 1
-92. **Ivory Coast** — 1
-93. **Zambia** — 1
-94. **Ecuador** — 1
-95. **Cyprus** — 1
-96. **Uganda** — 1
-97. **Bahrain** — 1
-98. **Venezuela** — 1
+73. **Thailand** — 1
+74. **Nepal** — 1
+75. **Bangladesh** — 1
+76. **Bermuda** — 1
+77. **Russia** — 1
+78. **Hungary** — 1
+79. **Latvia** — 1
+80. **Puerto Rico** — 1
+81. **Iceland** — 1
+82. **Czechia** — 1
+83. **Greece** — 1
+84. **Iraq** — 1
+85. **Kyrgyzstan** — 1
+86. **Tanzania** — 1
+87. **Algeria** — 1
+88. **Kazakhstan** — 1
+89. **Italy** — 1
+90. **Lithuania** — 1
+91. **Ivory Coast** — 1
+92. **Zambia** — 1
+93. **Ecuador** — 1
+94. **Cyprus** — 1
+95. **Uganda** — 1
+96. **Bahrain** — 1
+97. **Venezuela** — 1
+98. **Jordan** — 1
 99. **Ethiopia** — 1
 100. **Japan** — 1
 101. **Taiwan** — 1
