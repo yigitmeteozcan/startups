@@ -317,11 +317,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Insera Health",
-    "description": " ",
+    "name": "Laava Tech",
+    "description": "AI-powered future of indoor farming",
     "logo": "",
     "website": "",
-    "location": "Durham, NC, USA",
+    "location": "Sunnyvale, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -334,18 +334,67 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ranjith Babu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "David Parker",
-        "role": "",
-        "linkedin": ""
-      }
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Aday Technologies, Inc.",
+    "description": " ",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
+    "programSlugs": [
+      "alchemist"
     ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": ""
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Nunetz, Inc.",
+    "description": "Platform for collecting, visualizing, and analyzing big medical data",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -471,11 +520,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Gridline AI",
-    "description": "AI-Powered platform to connect energy projects to financing companies, automating the financial due diligence processes. ",
+    "name": "Insera Health",
+    "description": " ",
     "logo": "",
     "website": "",
-    "location": "Palo Alto, CA, USA",
+    "location": "Durham, NC, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -490,71 +539,16 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Team: Michele  Lunati",
+        "name": "Ranjith Babu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "David Parker",
         "role": "",
         "linkedin": ""
       }
     ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Nunetz, Inc.",
-    "description": "Platform for collecting, visualizing, and analyzing big medical data",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 20",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Laava Tech",
-    "description": "AI-powered future of indoor farming",
-    "logo": "",
-    "website": "",
-    "location": "Sunnyvale, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 20",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -597,11 +591,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Aday Technologies, Inc.",
-    "description": " ",
+    "name": "Gridline AI",
+    "description": "AI-Powered platform to connect energy projects to financing companies, automating the financial due diligence processes. ",
     "logo": "",
     "website": "",
-    "location": "",
+    "location": "Palo Alto, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -614,7 +608,13 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Team: Michele  Lunati",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -622,7 +622,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": ""
+      "country": "USA"
     }
   }
 ]
