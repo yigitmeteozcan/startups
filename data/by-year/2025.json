@@ -19868,13 +19868,17 @@
     "source": "yc",
     "name": "Slashy",
     "description": "Cursor for Email",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e47e34f35e388489ce2a0f3f4a13e6b49dce9ab9.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e6667cfdd83f59c43fda8940767ec6748fe44b96.png",
     "website": "https://www.slashy.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Productivity"
+      "Productivity",
+      "Enterprise Software",
+      "Automation",
+      "Email",
+      "AI Assistant"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -24140,7 +24144,7 @@
     "description": "Automating equipment operations for nursing facilities",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e02b3e396920957fb568e6c31817205cde3dbd2a.png",
     "website": "https://www.norra.io",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -26082,8 +26086,8 @@
     "description": "General Purpose Robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c55c56d8a17e50d5a5504f506e783c2b8c9f8a61.png",
     "website": "https://philon.ai/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "Thessaloniki, Greece",
+    "region": "Greece",
     "subregion": "",
     "tags": [
       "Robotics",
@@ -32531,6 +32535,47 @@
   },
   {
     "source": "ef",
+    "name": "General Reasoning",
+    "description": "Helping companies deploy agents that undertake long-running tasks.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ross Taylor",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/rosstaylor90/"
+      },
+      {
+        "name": "Kip Parker",
+        "role": "Founding CTO",
+        "linkedin": "https://www.linkedin.com/in/kip-parker-773b00182/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
     "name": "Ariana.dev",
     "description": "Autonomous bug-fixing development assistant.",
     "logo": "",
@@ -32599,47 +32644,6 @@
         "name": "Patricia Apostol",
         "role": "CTO",
         "linkedin": "https://www.linkedin.com/in/patricia-apostol/"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "investor": ""
-    }
-  },
-  {
-    "source": "ef",
-    "name": "General Reasoning",
-    "description": "Helping companies deploy agents that undertake long-running tasks.",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Entrepreneur First",
-    "programSlugs": [
-      "ef"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ross Taylor",
-        "role": "CEO",
-        "linkedin": "https://www.linkedin.com/in/rosstaylor90/"
-      },
-      {
-        "name": "Kip Parker",
-        "role": "CTO",
-        "linkedin": "https://www.linkedin.com/in/kip-parker-773b00182/"
       }
     ],
     "social": {
