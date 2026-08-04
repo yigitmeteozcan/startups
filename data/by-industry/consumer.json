@@ -23164,7 +23164,7 @@
     "description": "'Office' Suite for Mobile-first Businesses in India",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f271350ee43aa2c95ce0719ddd066e79505b3730.png",
     "website": "https://kaagaz.app",
-    "location": "New Delhi, DL, India",
+    "location": "Gurugram, HR, India; New Delhi, DL, India",
     "region": "India",
     "subregion": "",
     "tags": [
@@ -26972,16 +26972,17 @@
   },
   {
     "source": "yc",
-    "name": "SevnAI",
-    "description": "AI Gaming",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a0d5a7145a5d944c8cc2d7fa992ec4ec7971ffae.png",
-    "website": "https://sevn.ai/",
+    "name": "Sagaland",
+    "description": "AI entertainment platform",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7bcc2515e31439799c6c2e2a9ca3667ca7af9de8.png",
+    "website": "https://sagaland.ai/",
     "location": "New York City, NY, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
-      "Artificial Intelligence"
+      "Entertainment",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -30205,10 +30206,10 @@
     "subregion": "",
     "tags": [
       "Human Resources",
-      "Artificial Intelligence",
       "Marketplace",
       "Consumer",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -35621,46 +35622,6 @@
   },
   {
     "source": "500",
-    "name": "CraftCoffee",
-    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
-    "website": "https://craftcoffee.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Direct to Consumer",
-      "Subscription",
-      "Consumer"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Michael Horn",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Clarity",
     "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
@@ -35733,6 +35694,46 @@
       },
       {
         "name": "Nicolas del Solar",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "CraftCoffee",
+    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
+    "website": "https://craftcoffee.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Direct to Consumer",
+      "Subscription",
+      "Consumer"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Michael Horn",
         "role": "",
         "linkedin": ""
       }

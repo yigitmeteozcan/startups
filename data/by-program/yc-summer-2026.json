@@ -822,7 +822,7 @@
   {
     "source": "yc",
     "name": "Sidekick",
-    "description": "AI-powered SMS assistant for deskless workers.",
+    "description": "The text layer for frontline operations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://www.textsidekick.com/",
     "location": "San Francisco, CA, USA",
@@ -831,7 +831,9 @@
     "tags": [
       "Operations",
       "SaaS",
-      "AI Assistant"
+      "Manufacturing",
+      "AI Assistant",
+      "Industrial"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -920,7 +922,7 @@
   {
     "source": "yc",
     "name": "Trident",
-    "description": "Secure your cloud and webapps by finding real attack paths ",
+    "description": "Your AI Security Team ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/537de46d97dcdac9c07b330a6a1a4b2ab0583b7b.png",
     "website": "https://tridentsecurity.io/",
     "location": "San Francisco, CA, USA",
@@ -928,8 +930,8 @@
     "subregion": "",
     "tags": [
       "Security",
-      "Cybersecurity",
-      "AI"
+      "Artificial Intelligence",
+      "Cybersecurity"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -1083,7 +1085,7 @@
     "name": "GitCafe",
     "description": "GitCafe is a modern replacement for GitHub.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/14fb9e028c09cd154bde4e2f89f26fde539ca415.png",
-    "website": "https://gitcafe.dev/",
+    "website": "https://git.cafe",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -1449,10 +1451,11 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Gaming",
-      "Data Engineering"
+      "Crowdsourcing",
+      "Data Engineering",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -1510,15 +1513,14 @@
   {
     "source": "yc",
     "name": "Belvedir",
-    "description": "The autonomous private AI platform.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/be265ae30f41df1ddeea6236499327a010c83192.png",
+    "description": "The easiest way to make private AI models.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c87fe6e15005349864c9553a731d786c39f38f18.png",
     "website": "https://belvedir.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Machine Learning",
-      "Reinforcement Learning"
+      "Machine Learning"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -1874,15 +1876,15 @@
     "source": "yc",
     "name": "Speko",
     "description": "OpenRouter for voice AI",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/55b8df2a769dbcfc902b7c071a8bc334a7eb10dd.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
     "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "Conversational AI"
     ],
     "year": 2026,
@@ -2695,6 +2697,40 @@
   },
   {
     "source": "yc",
+    "name": "Rasyn",
+    "description": "Towards a General Intelligence for Chemistry",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/076afb6659e399c99ca25bb457a92d8183d0aba2.png",
+    "website": "https://www.rasyn.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Drug Discovery and Delivery",
+      "AI-powered Drug Discovery",
+      "Deep Learning",
+      "Biotech"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Alkera AI",
     "description": "Reliable and safe data engineering and data science agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eecc1a49c35b3a26973c35ce53d1c3f862a058cb.png",
@@ -3474,6 +3510,40 @@
     "tags": [
       "Operations",
       "Enterprise",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Omanta",
+    "description": "A research lab for one",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ae1812a6e6a806880355a25e542d3970bd58deb5.png",
+    "website": "https://omanta.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Digital Health",
+      "Health & Wellness",
+      "Oncology",
       "AI"
     ],
     "year": 2026,

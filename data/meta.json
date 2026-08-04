@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T10:10:12.883Z",
+  "generatedAt": "2026-08-04T09:15:09.630Z",
   "sources": [
     {
       "name": "500",
@@ -9,7 +9,7 @@
     {
       "name": "yc",
       "site": "https://www.ycombinator.com/companies",
-      "count": 6116
+      "count": 6119
     },
     {
       "name": "plugandplay",
@@ -38,10 +38,10 @@
     }
   ],
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data",
-  "total": 21034,
+  "total": 21037,
   "endpoints": {
     "all": {
-      "count": 21034,
+      "count": 21037,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json",
       "csv": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.csv",
       "xlsx": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx"
@@ -51,7 +51,7 @@
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/unicorns.json"
     },
     "exits": {
-      "count": 2759,
+      "count": 2760,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/exits.json"
     },
     "bCorps": {
@@ -71,7 +71,7 @@
       {
         "name": "yc",
         "slug": "yc",
-        "count": 6116,
+        "count": 6119,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/yc.json"
       },
       {
@@ -181,7 +181,7 @@
       {
         "name": "2026",
         "slug": "2026",
-        "count": 678,
+        "count": 685,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2026.json"
       },
       {
@@ -387,7 +387,7 @@
       {
         "name": "YC Summer 2026",
         "slug": "yc-summer-2026",
-        "count": 172,
+        "count": 174,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-summer-2026.json"
       },
       {
@@ -1711,6 +1711,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-winter-2006.json"
       },
       {
+        "name": "YC Fall 2026",
+        "slug": "yc-fall-2026",
+        "count": 7,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-fall-2026.json"
+      },
+      {
         "name": "Dojo III",
         "slug": "dojo-iii",
         "count": 7,
@@ -1763,12 +1769,6 @@
         "slug": "techstars-korea-accelerator",
         "count": 6,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/techstars-korea-accelerator.json"
-      },
-      {
-        "name": "YC Fall 2026",
-        "slug": "yc-fall-2026",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-fall-2026.json"
       },
       {
         "name": "Lucha 12",
@@ -2303,7 +2303,7 @@
       {
         "name": "United States of America",
         "slug": "united-states-of-america",
-        "count": 4531,
+        "count": 4533,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-states-of-america.json"
       },
       {
@@ -2375,7 +2375,7 @@
       {
         "name": "Unspecified",
         "slug": "unspecified",
-        "count": 117,
+        "count": 118,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/unspecified.json"
       },
       {
@@ -2965,19 +2965,19 @@
       {
         "name": "Artificial Intelligence",
         "slug": "artificial-intelligence",
-        "count": 950,
+        "count": 951,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/artificial-intelligence.json"
       },
       {
         "name": "AI",
         "slug": "ai",
-        "count": 849,
+        "count": 850,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ai.json"
       },
       {
         "name": "Healthcare",
         "slug": "healthcare",
-        "count": 813,
+        "count": 815,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/healthcare.json"
       },
       {
@@ -3139,7 +3139,7 @@
       {
         "name": "Manufacturing",
         "slug": "manufacturing",
-        "count": 281,
+        "count": 282,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/manufacturing.json"
       },
       {
@@ -3187,7 +3187,7 @@
       {
         "name": "Analytics",
         "slug": "analytics",
-        "count": 247,
+        "count": 246,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/analytics.json"
       },
       {
@@ -3283,7 +3283,7 @@
       {
         "name": "Open Source",
         "slug": "open-source",
-        "count": 167,
+        "count": 168,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/open-source.json"
       },
       {
@@ -3329,16 +3329,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/climate.json"
       },
       {
+        "name": "Hardware",
+        "slug": "hardware",
+        "count": 155,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/hardware.json"
+      },
+      {
         "name": "Healthcare IT",
         "slug": "healthcare-it",
         "count": 155,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/healthcare-it.json"
-      },
-      {
-        "name": "Hardware",
-        "slug": "hardware",
-        "count": 154,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/hardware.json"
       },
       {
         "name": "Security",
@@ -3353,16 +3353,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/api.json"
       },
       {
+        "name": "Biotech",
+        "slug": "biotech",
+        "count": 143,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/biotech.json"
+      },
+      {
         "name": "Mobility tech",
         "slug": "mobility-tech",
         "count": 142,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/mobility-tech.json"
-      },
-      {
-        "name": "Biotech",
-        "slug": "biotech",
-        "count": 142,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/biotech.json"
       },
       {
         "name": "Supply Chain and Logistics",
@@ -3371,16 +3371,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/supply-chain-and-logistics.json"
       },
       {
+        "name": "Robotics",
+        "slug": "robotics",
+        "count": 137,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/robotics.json"
+      },
+      {
         "name": "Finance and Accounting",
         "slug": "finance-and-accounting",
         "count": 137,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finance-and-accounting.json"
-      },
-      {
-        "name": "Robotics",
-        "slug": "robotics",
-        "count": 136,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/robotics.json"
       },
       {
         "name": "AI/Machine Learning",
@@ -3413,16 +3413,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/enterprise.json"
       },
       {
+        "name": "Enterprise Software",
+        "slug": "enterprise-software",
+        "count": 126,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/enterprise-software.json"
+      },
+      {
         "name": "Travel & Hospitality",
         "slug": "travel-hospitality",
         "count": 126,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/travel-hospitality.json"
-      },
-      {
-        "name": "Enterprise Software",
-        "slug": "enterprise-software",
-        "count": 125,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/enterprise-software.json"
       },
       {
         "name": "Smart Cities",
@@ -3449,16 +3449,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/hard-tech.json"
       },
       {
+        "name": "Digital Health",
+        "slug": "digital-health",
+        "count": 115,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/digital-health.json"
+      },
+      {
         "name": "Impact investing",
         "slug": "impact-investing",
         "count": 114,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/impact-investing.json"
-      },
-      {
-        "name": "Digital Health",
-        "slug": "digital-health",
-        "count": 113,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/digital-health.json"
       },
       {
         "name": "Cloudtech and DevOps",
@@ -3731,16 +3731,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/investing.json"
       },
       {
+        "name": "Drug Discovery and Delivery",
+        "slug": "drug-discovery-and-delivery",
+        "count": 60,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/drug-discovery-and-delivery.json"
+      },
+      {
         "name": "Beauty",
         "slug": "beauty",
         "count": 59,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/beauty.json"
-      },
-      {
-        "name": "Drug Discovery and Delivery",
-        "slug": "drug-discovery-and-delivery",
-        "count": 59,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/drug-discovery-and-delivery.json"
       },
       {
         "name": "Community",
@@ -3851,6 +3851,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/iot.json"
       },
       {
+        "name": "Entertainment",
+        "slug": "entertainment",
+        "count": 50,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/entertainment.json"
+      },
+      {
         "name": "Travel",
         "slug": "travel",
         "count": 49,
@@ -3861,12 +3867,6 @@
         "slug": "cloud-computing",
         "count": 49,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/cloud-computing.json"
-      },
-      {
-        "name": "Entertainment",
-        "slug": "entertainment",
-        "count": 49,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/entertainment.json"
       },
       {
         "name": "Real Estate and PropTech",
@@ -3887,6 +3887,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/food-tech.json"
       },
       {
+        "name": "Health & Wellness",
+        "slug": "health-wellness",
+        "count": 47,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/health-wellness.json"
+      },
+      {
         "name": "Creator Economy",
         "slug": "creator-economy",
         "count": 47,
@@ -3897,12 +3903,6 @@
         "slug": "advertising",
         "count": 46,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/advertising.json"
-      },
-      {
-        "name": "Health & Wellness",
-        "slug": "health-wellness",
-        "count": 46,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/health-wellness.json"
       },
       {
         "name": "AI-Enhanced Learning",
@@ -3965,6 +3965,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/media.json"
       },
       {
+        "name": "Deep Learning",
+        "slug": "deep-learning",
+        "count": 42,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/deep-learning.json"
+      },
+      {
         "name": "Aerospace",
         "slug": "aerospace",
         "count": 42,
@@ -3983,6 +3989,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sales-enablement.json"
       },
       {
+        "name": "Oncology",
+        "slug": "oncology",
+        "count": 40,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/oncology.json"
+      },
+      {
         "name": "Audiotech",
         "slug": "audiotech",
         "count": 40,
@@ -3993,18 +4005,6 @@
         "slug": "e-commerce",
         "count": 40,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/e-commerce.json"
-      },
-      {
-        "name": "Deep Learning",
-        "slug": "deep-learning",
-        "count": 40,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/deep-learning.json"
-      },
-      {
-        "name": "Oncology",
-        "slug": "oncology",
-        "count": 39,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/oncology.json"
       },
       {
         "name": "Defense",
@@ -4037,6 +4037,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/insurtech.json"
       },
       {
+        "name": "Transportation",
+        "slug": "transportation",
+        "count": 37,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/transportation.json"
+      },
+      {
         "name": "Mental Health Tech",
         "slug": "mental-health-tech",
         "count": 37,
@@ -4061,28 +4067,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/telecommunications.json"
       },
       {
-        "name": "Transportation",
-        "slug": "transportation",
+        "name": "AI-powered Drug Discovery",
+        "slug": "ai-powered-drug-discovery",
         "count": 36,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/transportation.json"
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ai-powered-drug-discovery.json"
       },
       {
         "name": "Travel, Leisure and Tourism",
         "slug": "travel-leisure-and-tourism",
         "count": 35,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/travel-leisure-and-tourism.json"
-      },
-      {
-        "name": "AI-powered Drug Discovery",
-        "slug": "ai-powered-drug-discovery",
-        "count": 35,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ai-powered-drug-discovery.json"
-      },
-      {
-        "name": "Reinforcement Learning",
-        "slug": "reinforcement-learning",
-        "count": 35,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/reinforcement-learning.json"
       },
       {
         "name": "No-code",
@@ -4101,6 +4095,12 @@
         "slug": "documents",
         "count": 34,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/documents.json"
+      },
+      {
+        "name": "Reinforcement Learning",
+        "slug": "reinforcement-learning",
+        "count": 34,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/reinforcement-learning.json"
       },
       {
         "name": "Robotic Process Automation",
@@ -4127,6 +4127,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/drug-discovery.json"
       },
       {
+        "name": "Industrial",
+        "slug": "industrial",
+        "count": 33,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/industrial.json"
+      },
+      {
         "name": "Grocery",
         "slug": "grocery",
         "count": 31,
@@ -4137,12 +4143,6 @@
         "slug": "climatetech",
         "count": 31,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/climatetech.json"
-      },
-      {
-        "name": "Industrial",
-        "slug": "industrial",
-        "count": 31,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/industrial.json"
       },
       {
         "name": "Data Visualization",
@@ -4565,12 +4565,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/sportstech.json"
       },
       {
-        "name": "Energy Storage",
-        "slug": "energy-storage",
-        "count": 14,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/energy-storage.json"
-      },
-      {
         "name": "Kubernetes",
         "slug": "kubernetes",
         "count": 14,
@@ -4605,6 +4599,12 @@
         "slug": "3d-printing",
         "count": 13,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/3d-printing.json"
+      },
+      {
+        "name": "Energy Storage",
+        "slug": "energy-storage",
+        "count": 13,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/energy-storage.json"
       },
       {
         "name": "Virtual Reality",
@@ -4943,6 +4943,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/podcasts.json"
       },
       {
+        "name": "Crowdsourcing",
+        "slug": "crowdsourcing",
+        "count": 7,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/crowdsourcing.json"
+      },
+      {
         "name": "Anti-Aging",
         "slug": "anti-aging",
         "count": 7,
@@ -5025,12 +5031,6 @@
         "slug": "remittances",
         "count": 6,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/remittances.json"
-      },
-      {
-        "name": "Crowdsourcing",
-        "slug": "crowdsourcing",
-        "count": 6,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/crowdsourcing.json"
       },
       {
         "name": "Speech Recognition",

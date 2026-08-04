@@ -8913,19 +8913,20 @@
   },
   {
     "source": "yc",
-    "name": "Dartboard Energy",
-    "description": "AI Analyst for Electricity Markets",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/da8574389e1b618977a4c248ea7c02e6d8d5dc9b.png",
-    "website": "https://dartboardenergy.com",
+    "name": "Dartboard",
+    "description": "AI-native remote operations center for hardware fleets",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e6b5a6279db8d201fef41a88a35c1d4c0828744e.png",
+    "website": "https://dartboard.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
       "Energy",
-      "Energy Storage",
-      "Analytics",
-      "AI"
+      "Industrial"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -9285,9 +9286,9 @@
     "subregion": "",
     "tags": [
       "Recruiting and Talent",
-      "Artificial Intelligence",
       "SaaS",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -11054,10 +11055,10 @@
     "subregion": "",
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -23984,10 +23985,10 @@
     "subregion": "",
     "tags": [
       "Human Resources",
-      "Artificial Intelligence",
       "Marketplace",
       "Consumer",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -25773,6 +25774,7 @@
     "tags": [
       "Infrastructure",
       "Developer Tools",
+      "Open Source",
       "API",
       "Databases"
     ],
@@ -26910,8 +26912,8 @@
   {
     "source": "yc",
     "name": "Lightberry",
-    "description": "The social brain for robots.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d547e87dd8a95aef15364dc6867d855165863209.png",
+    "description": "Robots with soul",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e293e7e459ca366271fd5317cd8af37ed2cd6625.png",
     "website": "https://lightberry.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -32559,9 +32561,9 @@
         "linkedin": "https://www.linkedin.com/in/rosstaylor90/"
       },
       {
-        "name": "Kip Parker",
-        "role": "Founding CTO",
-        "linkedin": "https://www.linkedin.com/in/kip-parker-773b00182/"
+        "name": "Chengxi Taylor",
+        "role": "President",
+        "linkedin": "https://www.linkedin.com/in/chengxi-taylor/"
       }
     ],
     "social": {
@@ -35460,11 +35462,52 @@
   },
   {
     "source": "alchemist",
-    "name": "Industrial Dynamics",
-    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "name": "AISI X",
+    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
     "logo": "",
     "website": "",
-    "location": "Reno, NV, USA",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Denis Chegodaev**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Alexander Gromov**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Havilo.ai",
+    "description": "The intelligence layer for the world's most valuable networks.",
+    "logo": "",
+    "website": "",
+    "location": "Pleasanton, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35479,12 +35522,53 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Konstantin Sarichev**",
+        "name": "**Logan Dickey**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Michael Lawrie**",
+        "name": "**Taylor Cordoba**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Planeo",
+    "description": "AI copilot that bridges code and runtime",
+    "logo": "",
+    "website": "",
+    "location": "Dover, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Santosh Sadasivuni**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Marcello DeSales**",
         "role": "",
         "linkedin": ""
       }
@@ -35531,6 +35615,159 @@
       },
       {
         "name": "Greg Deocampo",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Xitester",
+    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**CEO:** Shine Oovattil .",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**CTO:** Dharwish Raj",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**COO:** Harikumar S",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "PayCare AI ",
+    "description": "PayCare AI automates radiology practices from front desk to scanner — turning idle machines and long patient wait times into 24/7 access. Profitable for operators (like the founder) and accessible for patients.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Himza — Founder",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Engineer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ravi — CMO",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Northwestern Medical School",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Krisha — Infra Engineer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Cornell CS",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Together",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Industrial Dynamics",
+    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "logo": "",
+    "website": "",
+    "location": "Reno, NV, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Konstantin Sarichev**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Michael Lawrie**",
         "role": "",
         "linkedin": ""
       }
@@ -35705,241 +35942,6 @@
     "founders": [
       {
         "name": "Jhea-Uhg \"Damian\" Kang",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Xitester",
-    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**CEO:** Shine Oovattil .",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**CTO:** Dharwish Raj",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**COO:** Harikumar S",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Planeo",
-    "description": "AI copilot that bridges code and runtime",
-    "logo": "",
-    "website": "",
-    "location": "Dover, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Santosh Sadasivuni**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Marcello DeSales**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "AISI X",
-    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Denis Chegodaev**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Alexander Gromov**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "PayCare AI ",
-    "description": "PayCare AI automates radiology practices from front desk to scanner — turning idle machines and long patient wait times into 24/7 access. Profitable for operators (like the founder) and accessible for patients.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Himza — Founder",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Engineer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ravi — CMO",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Northwestern Medical School",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Krisha — Infra Engineer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Cornell CS",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Together",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Havilo.ai",
-    "description": "The intelligence layer for the world's most valuable networks.",
-    "logo": "",
-    "website": "",
-    "location": "Pleasanton, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Logan Dickey**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Taylor Cordoba**",
         "role": "",
         "linkedin": ""
       }

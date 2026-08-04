@@ -8029,7 +8029,7 @@
     "description": "Engage customers through personalized omni-channel messaging",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e909ca477c49ecc4630b711eb00e53523cd42a90.png",
     "website": "https://onesignal.com",
-    "location": "San Francisco, CA, USA; San Mateo, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -29200,7 +29200,7 @@
     "description": "'Office' Suite for Mobile-first Businesses in India",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f271350ee43aa2c95ce0719ddd066e79505b3730.png",
     "website": "https://kaagaz.app",
-    "location": "New Delhi, DL, India",
+    "location": "Gurugram, HR, India; New Delhi, DL, India",
     "region": "India",
     "subregion": "",
     "tags": [
@@ -40736,9 +40736,9 @@
     "subregion": "",
     "tags": [
       "Recruiting and Talent",
-      "Artificial Intelligence",
       "SaaS",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -40970,10 +40970,10 @@
     "subregion": "",
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -42982,7 +42982,7 @@
   {
     "source": "yc",
     "name": "Sidekick",
-    "description": "AI-powered SMS assistant for deskless workers.",
+    "description": "The text layer for frontline operations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://www.textsidekick.com/",
     "location": "San Francisco, CA, USA",
@@ -42991,7 +42991,9 @@
     "tags": [
       "Operations",
       "SaaS",
-      "AI Assistant"
+      "Manufacturing",
+      "AI Assistant",
+      "Industrial"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -47975,6 +47977,145 @@
   },
   {
     "source": "500",
+    "name": "Fatora",
+    "description": "All-in-one tool to go eCommerce and start selling",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
+    "website": "https://maktapp.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "SaaS"
+    ],
+    "year": 2020,
+    "program": "Dojo III",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Waleed Fatora",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saleh Al-Mansouri",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Plerk",
+    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
+    "website": "https://plerk.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "Marketplace",
+      "SaaS"
+    ],
+    "year": 2021,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Miguel Medina",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "José Antonio Martínez Quintero",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Angel Arias",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/plerk/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "WhoAPI",
+    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
+    "website": "https://whoapi.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Cybersecurity",
+      "DevOps",
+      "SaaS"
+    ],
+    "year": 2012,
+    "program": "GA 5",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Edi Budimilic",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Goran Duskic",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "GoSpotCheck",
     "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
@@ -48074,145 +48215,6 @@
     ],
     "social": {
       "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Fatora",
-    "description": "All-in-one tool to go eCommerce and start selling",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
-    "website": "https://maktapp.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "SaaS"
-    ],
-    "year": 2020,
-    "program": "Dojo III",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Waleed Fatora",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saleh Al-Mansouri",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "WhoAPI",
-    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
-    "website": "https://whoapi.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Cybersecurity",
-      "DevOps",
-      "SaaS"
-    ],
-    "year": 2012,
-    "program": "GA 5",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Edi Budimilic",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Goran Duskic",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Plerk",
-    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
-    "website": "https://plerk.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "Marketplace",
-      "SaaS"
-    ],
-    "year": 2021,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Miguel Medina",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "José Antonio Martínez Quintero",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Angel Arias",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/company/plerk/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""

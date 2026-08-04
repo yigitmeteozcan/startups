@@ -5242,10 +5242,10 @@
   },
   {
     "source": "yc",
-    "name": "TrackChain",
-    "description": "AI-native logistics OS for autonomous freight execution",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/342433dcc9840812ba21edf14f03992ff4d9704f.png",
-    "website": "https://trackchain.io",
+    "name": "Tiriel AI",
+    "description": "The AI workforce for freight dispatch",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/02c979d7bd320de3e4df49874d735e12bbfa9cdc.png",
+    "website": "https://tiriel.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -5253,6 +5253,7 @@
       "Supply Chain and Logistics",
       "Logistics",
       "Supply Chain",
+      "Transportation",
       "AI"
     ],
     "year": 2021,
@@ -13854,11 +13855,11 @@
   {
     "source": "yc",
     "name": "Kabilah",
-    "description": "Pioneering Generative AI for Nursing",
+    "description": "Agentic AI for Nursing Workflows",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/559be3dbe8db39ee44373d9f21cfd1f1f146092e.png",
     "website": "https://www.kabilah.com",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "",
+    "region": "Unspecified",
     "subregion": "",
     "tags": [
       "Healthcare",
@@ -15111,6 +15112,38 @@
       "yc-winter-2024"
     ],
     "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Sagaland",
+    "description": "AI entertainment platform",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7bcc2515e31439799c6c2e2a9ca3667ca7af9de8.png",
+    "website": "https://sagaland.ai/",
+    "location": "New York City, NY, USA; Remote",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Entertainment",
+      "AI"
+    ],
+    "year": 2024,
+    "program": "YC Winter 2024",
+    "programSlugs": [
+      "yc-winter-2024"
+    ],
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -20118,38 +20151,6 @@
   },
   {
     "source": "yc",
-    "name": "Laminar",
-    "description": "Enterprise systems delivery without the turbulence.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd1f2b79da0bdbfdd0ca1eda2e6a7f66a6dd2ae7.png",
-    "website": "https://laminar.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools",
-      "Enterprise Software",
-      "AI"
-    ],
-    "year": 2024,
-    "program": "YC Fall 2024",
-    "programSlugs": [
-      "yc-fall-2024"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Relvy AI",
     "description": "AI powered debugging notebooks for incident response",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
@@ -20347,40 +20348,6 @@
   },
   {
     "source": "yc",
-    "name": "Dartboard Energy",
-    "description": "AI Analyst for Electricity Markets",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/da8574389e1b618977a4c248ea7c02e6d8d5dc9b.png",
-    "website": "https://dartboardenergy.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Industrials",
-      "Energy",
-      "Energy Storage",
-      "Analytics",
-      "AI"
-    ],
-    "year": 2025,
-    "program": "YC Winter 2025",
-    "programSlugs": [
-      "yc-winter-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Astro",
     "description": "The world’s first AI energy developer",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/988eb2e2b20c2a99fe4d96b54932cdebea0632d4.png",
@@ -20429,6 +20396,39 @@
       "API",
       "Enterprise",
       "Enterprise Software",
+      "AI"
+    ],
+    "year": 2025,
+    "program": "YC Winter 2025",
+    "programSlugs": [
+      "yc-winter-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Contrario",
+    "description": "AI hiring platform powered by expert recruiters",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4d87aacd192132e2914478f159180c7f82caa8ec.png",
+    "website": "https://contrario.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Recruiting and Talent",
+      "SaaS",
+      "Recruiting",
       "AI"
     ],
     "year": 2025,
@@ -20889,40 +20889,6 @@
       "Infrastructure",
       "Artificial Intelligence",
       "Machine Learning",
-      "AI"
-    ],
-    "year": 2025,
-    "program": "YC Winter 2025",
-    "programSlugs": [
-      "yc-winter-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Lucidic AI",
-    "description": "Reimagining how Machines Learn ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f666d84f3ea0fbb63226b5b84cd46c97e83f4414.png",
-    "website": "https://lucidic.ai",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "SaaS",
-      "Automation",
       "AI"
     ],
     "year": 2025,
@@ -24805,6 +24771,40 @@
   },
   {
     "source": "yc",
+    "name": "Sorce",
+    "description": "Tinder for jobs",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8b7d8d3ea28624898e277427bd19760e45bd0535.png",
+    "website": "https://sorce.jobs",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Human Resources",
+      "Marketplace",
+      "Consumer",
+      "Recruiting",
+      "AI"
+    ],
+    "year": 2025,
+    "program": "YC Fall 2025",
+    "programSlugs": [
+      "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Bron",
     "description": "TikTok for Sports Trading",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/322e036fa9ab0e06f47840b20ad078b02e03e79b.png",
@@ -26752,38 +26752,6 @@
   },
   {
     "source": "yc",
-    "name": "Trident",
-    "description": "Secure your cloud and webapps by finding real attack paths ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/537de46d97dcdac9c07b330a6a1a4b2ab0583b7b.png",
-    "website": "https://tridentsecurity.io/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Security",
-      "Cybersecurity",
-      "AI"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Playabl.ai",
     "description": "TikTok for User-generated Games",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/484b887f79a6e0d055be256cbacda5f8badb1317.png",
@@ -26982,6 +26950,40 @@
   },
   {
     "source": "yc",
+    "name": "Olam Labs",
+    "description": "Evaluating models for behavior and performance through simulated games",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d6d9543a0527b0b5ac428e043f211c75ac5d1d59.png",
+    "website": "https://olamlabs.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Reinforcement Learning",
+      "Gaming",
+      "Crowdsourcing",
+      "Data Engineering",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Parasma",
     "description": "Training human brain cells for AI compute",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/65a63b540239ee3a5538326d626bcceee19f52d9.png",
@@ -27095,39 +27097,6 @@
       "Open Source",
       "AI",
       "ML"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Speko",
-    "description": "OpenRouter for voice AI",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/55b8df2a769dbcfc902b7c071a8bc334a7eb10dd.png",
-    "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Infrastructure",
-      "Developer Tools",
-      "AI",
-      "Conversational AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -27556,6 +27525,40 @@
     "tags": [
       "Operations",
       "Enterprise",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Omanta",
+    "description": "A research lab for one",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ae1812a6e6a806880355a25e542d3970bd58deb5.png",
+    "website": "https://omanta.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Digital Health",
+      "Health & Wellness",
+      "Oncology",
       "AI"
     ],
     "year": 2026,
@@ -28285,6 +28288,37 @@
       "Manufacturing and Robotics",
       "Robotics",
       "Infrastructure",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Qokedas",
+    "description": "Teaching models to decode the physical world",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/31c1e7e41e8bdce6fdb8b0dbca8bc555e944bc47.png",
+    "website": "https://qokedas.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Deep Learning",
       "AI"
     ],
     "year": 2026,
