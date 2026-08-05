@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-04._
+_Auto-generated from the dataset on 2026-08-05._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,037** |
+| Total companies | **21,040** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2760** |
 | 🌱 B Corps | **29** |
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-08-04._
 
 | Source | Companies |
 |---|---|
-| yc | 6,119 |
+| yc | 6,124 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
-| antler | 1,046 |
+| antler | 1,044 |
 | alchemist | 518 |
 | ef | 499 |
 
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-08-04._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1048
-2026  █████████████░░░░░░░░░░░░░░░ 685
+2026  █████████████░░░░░░░░░░░░░░░ 690
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-08-04._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1401
-3. **Antler** — 1046
+3. **Antler** — 1044
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -102,30 +102,30 @@ _Auto-generated from the dataset on 2026-08-04._
 15. **YC Summer 2023** — 220
 
 ## Top industries
-1. **Fintech** — 2466
+1. **Fintech** — 2467
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1417
 4. **Mobile** — 1141
 5. **Consumer** — 1059
-6. **Artificial Intelligence** — 951
-7. **AI** — 850
+6. **Artificial Intelligence** — 952
+7. **AI** — 851
 8. **Healthcare** — 815
-9. **Developer Tools** — 699
-10. **Infrastructure** — 681
+9. **Developer Tools** — 701
+10. **Infrastructure** — 682
 11. **Health** — 663
-12. **Engineering, Product and Design** — 609
-13. **Industrials** — 603
+12. **Engineering, Product and Design** — 610
+13. **Industrials** — 604
 14. **Insurtech** — 513
 15. **Deeptech** — 489
-16. **B2B Software** — 480
+16. **B2B Software** — 479
 17. **Brand & Retail** — 474
 18. **Healthtech** — 440
-19. **Energy** — 426
+19. **Energy** — 427
 20. **Mobility & Physical AI** — 409
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4533
+2. **United States of America** — 4537
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -141,9 +141,9 @@ _Auto-generated from the dataset on 2026-08-04._
 15. **North Asia** — 110
 16. **Africa** — 107
 17. **Southeast Asia** — 95
-18. **Remote** — 86
+18. **Remote** — 85
 19. **Mexico** — 80
-20. **France** — 75
+20. **France** — 76
 21. **Oceania** — 73
 22. **Brazil** — 68
 23. **Germany** — 63
@@ -183,13 +183,13 @@ _Auto-generated from the dataset on 2026-08-04._
 57. **Saudi Arabia** — 4
 58. **Morocco** — 3
 59. **South Africa** — 3
-60. **Estonia** — 3
-61. **Turkey** — 3
-62. **East Asia** — 3
-63. **Japan** — 2
-64. **Portugal** — 2
-65. **Senegal** — 2
-66. **New Zealand** — 2
+60. **New Zealand** — 3
+61. **Estonia** — 3
+62. **Turkey** — 3
+63. **East Asia** — 3
+64. **Japan** — 2
+65. **Portugal** — 2
+66. **Senegal** — 2
 67. **Greece** — 2
 68. **Ukraine** — 2
 69. **Croatia** — 2

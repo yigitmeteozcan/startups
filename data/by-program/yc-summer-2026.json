@@ -35,14 +35,14 @@
   {
     "source": "yc",
     "name": "Async",
-    "description": "We transform small businesses with AI agents",
+    "description": "Transforming small businesses with AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
     "website": "https://withasync.com",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -822,7 +822,7 @@
   {
     "source": "yc",
     "name": "Sidekick",
-    "description": "The text layer for frontline operations",
+    "description": "AI agent that handles frontline operations over text",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://www.textsidekick.com/",
     "location": "San Francisco, CA, USA",
@@ -856,13 +856,15 @@
   {
     "source": "yc",
     "name": "Shepherd",
-    "description": "Give your company the knowledge it deserves",
+    "description": "Helping AI understand the physical world",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/391f78e0202565767f4e07ba30c7abaf3cd19093.png",
     "website": "https://askshepherd.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Hard Tech",
+      "Hardware",
       "Enterprise",
       "Search",
       "AI Assistant"
@@ -1060,7 +1062,7 @@
     "tags": [
       "Infrastructure",
       "Workflow Automation",
-      "APIs"
+      "Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -2006,7 +2008,7 @@
   {
     "source": "yc",
     "name": "IMPACT Drones",
-    "description": "Air defense as a Service.",
+    "description": "Air Defense as a Service for Civilian Infrastructure.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/51e28a022e68117f55cef18f71defaef380f1766.png",
     "website": "https://www.impact-drones.com",
     "location": "San Francisco, CA, USA",
@@ -2015,10 +2017,10 @@
     "tags": [
       "Industrials",
       "Defense",
+      "Artificial Intelligence",
       "Hardware",
       "Drones",
-      "Swarm Robotics",
-      "AI"
+      "Swarm Robotics"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -2254,6 +2256,40 @@
       "Analytics",
       "Artificial Intelligence",
       "Enterprise Software"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Riften",
+    "description": "Earned Intelligence for every company. ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "website": "https://riften.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Reinforcement Learning",
+      "Open Source"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -2835,7 +2871,7 @@
   {
     "source": "yc",
     "name": "Standard Machines",
-    "description": "Environments For Chip Design",
+    "description": "RL Environments For Chip Design",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20aa62fc0a930e7bfdba7047f185bab421afd2b2.png",
     "website": "https://standardmachines.com",
     "location": "San Francisco, CA, USA",
@@ -3765,6 +3801,74 @@
   },
   {
     "source": "yc",
+    "name": "Arbital",
+    "description": "The trading terminal for perps, memes, and stocks.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/41b5fd38dcf7826f6043c80c1a7e50338b8b5cb1.png",
+    "website": "https://arbital.xyz/yc?token=YC2026",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Consumer Finance",
+      "DeFi",
+      "Crypto / Web3",
+      "Trading"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Ultrasonium",
+    "description": "Manufacturing the metal parts the world runs on faster, cheaper, safer",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/734dc12d12265ba8890bf4ef5e7e564bdb629a87.png",
+    "website": "https://ultrasonium.com/",
+    "location": "Boston, MA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Hard Tech",
+      "Hardware",
+      "Manufacturing"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Vestris",
     "description": "AI native platform for real estate closings",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e17d90c0a32a27bdb75bac6bb8a2ca4e0ad1646d.png",
@@ -4499,8 +4603,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
+      "AI",
       "Automotive"
     ],
     "year": 2026,
@@ -4634,6 +4738,37 @@
       "Hardware",
       "Semiconductors",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "chromie.dev",
+    "description": "find, qualify, & win contracts with AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5a2ef01980100f9fd5b3d0aa3fa9559b4b8ae93e.png",
+    "website": "https://chromie.dev",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "GovTech",
+      "Workflow Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -4913,6 +5048,39 @@
   },
   {
     "source": "yc",
+    "name": "Agent FM",
+    "description": "One group chat to hear and steer your coding agents.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1cc0ea423493737ae6717d834b6bdb19aaf41f58.png",
+    "website": "https://www.agentfm.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Hop Aero",
     "description": "Rocket cargo delivery to contested environments",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a5cab9ede70e23b0ea3f8e3b64b7a19735939c17.png",
@@ -5018,8 +5186,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "GovTech",
-      "AI"
+      "Artificial Intelligence",
+      "GovTech"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -5417,6 +5585,8 @@
       "Manufacturing and Robotics",
       "Hard Tech",
       "Robotics",
+      "Energy",
+      "Defense",
       "Industrial"
     ],
     "year": 2026,

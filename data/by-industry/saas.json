@@ -30375,9 +30375,9 @@
   },
   {
     "source": "yc",
-    "name": "Rally UXR",
-    "description": "User Research CRM",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8d1bec746269f46935a108658fb17cddc54ed760.png",
+    "name": "Rally",
+    "description": "Agentic User Research Infrastructure",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/86f4764834a702e043cc7dc0faf2375ffa49f308.png",
     "website": "https://www.rallyuxr.com/",
     "location": "New York City, NY, USA; Remote",
     "region": "United States of America",
@@ -40829,18 +40829,19 @@
   {
     "source": "yc",
     "name": "Amby Health",
-    "description": "AI Copilot for Ambulance Agencies (EMS)",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b9958107dbb0957f151ac1f60d74995db0f2314.png",
+    "description": "The health coach that texts you first",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2236b25dd12c87c047e1fa71435b329c187e2c47.png",
     "website": "https://tryamby.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Healthcare",
-      "Healthcare IT",
+      "Consumer Health and Wellness",
       "SaaS",
       "Health Tech",
-      "Digital Health"
+      "Digital Health",
+      "Health & Wellness"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -42957,9 +42958,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -42982,7 +42983,7 @@
   {
     "source": "yc",
     "name": "Sidekick",
-    "description": "The text layer for frontline operations",
+    "description": "AI agent that handles frontline operations over text",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://www.textsidekick.com/",
     "location": "San Francisco, CA, USA",
@@ -43550,8 +43551,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
+      "AI",
       "Automotive"
     ],
     "year": 2026,
@@ -45694,16 +45695,16 @@
   {
     "source": "500",
     "name": "MaiCall",
-    "description": "Self-learning debt collection system that trains on every conversation — and speaks to your debtors in their own accent. AI Agent calls, negotiates, secures a promise to pay — then follows up until the money lands.",
+    "description": "Self-learning debt collection system: AI agents call, negotiate and follow up until the money lands",
     "logo": "https://founder-hub-public.s3.amazonaws.com/ab6c6e50-9573-4860-8656-bb461654bacb.png",
     "website": "https://www.maicall.ai",
     "location": "Mexico",
     "region": "",
     "subregion": "",
     "tags": [
+      "AI/Machine Learning",
       "FinTech",
-      "SaaS",
-      "Debt"
+      "SaaS"
     ],
     "year": 2026,
     "program": "Eurasia 10",
@@ -45722,7 +45723,7 @@
       }
     ],
     "social": {
-      "linkedin": "https://www.linkedin.com/company/106467262/admin/dashboard/",
+      "linkedin": "https://www.linkedin.com/company/maicall/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -47977,145 +47978,6 @@
   },
   {
     "source": "500",
-    "name": "Fatora",
-    "description": "All-in-one tool to go eCommerce and start selling",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
-    "website": "https://maktapp.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "SaaS"
-    ],
-    "year": 2020,
-    "program": "Dojo III",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Waleed Fatora",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saleh Al-Mansouri",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Plerk",
-    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
-    "website": "https://plerk.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "Marketplace",
-      "SaaS"
-    ],
-    "year": 2021,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Miguel Medina",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "José Antonio Martínez Quintero",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Angel Arias",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/company/plerk/",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "WhoAPI",
-    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
-    "website": "https://whoapi.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Cybersecurity",
-      "DevOps",
-      "SaaS"
-    ],
-    "year": 2012,
-    "program": "GA 5",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Edi Budimilic",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Goran Duskic",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "GoSpotCheck",
     "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
@@ -48209,6 +48071,145 @@
       },
       {
         "name": "Hoang Anh Vu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Plerk",
+    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
+    "website": "https://plerk.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "Marketplace",
+      "SaaS"
+    ],
+    "year": 2021,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Miguel Medina",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "José Antonio Martínez Quintero",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Angel Arias",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/plerk/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Fatora",
+    "description": "All-in-one tool to go eCommerce and start selling",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
+    "website": "https://maktapp.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "SaaS"
+    ],
+    "year": 2020,
+    "program": "Dojo III",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Waleed Fatora",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saleh Al-Mansouri",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "WhoAPI",
+    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
+    "website": "https://whoapi.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Cybersecurity",
+      "DevOps",
+      "SaaS"
+    ],
+    "year": 2012,
+    "program": "GA 5",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Edi Budimilic",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Goran Duskic",
         "role": "",
         "linkedin": ""
       }

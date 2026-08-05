@@ -13455,10 +13455,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Video",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "year": 2021,
     "program": "YC Summer 2021",
@@ -17339,7 +17339,7 @@
     "source": "yc",
     "name": "Freestyle",
     "description": "We run and deploy code your AI wrote",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3193d2e6673d05b7a76cddaa0bc355c6a2fd7e04.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c4c248db416a898fa7c553e48dd6ec3f458817e5.png",
     "website": "https://www.freestyle.sh",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -18912,7 +18912,7 @@
   {
     "source": "yc",
     "name": "Magnitude",
-    "description": "The best coding agent for open models",
+    "description": "Code with local models, zero setup",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "location": "San Francisco, CA, USA",
@@ -18922,7 +18922,7 @@
       "Engineering, Product and Design",
       "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software",
+      "Open Source",
       "Infrastructure",
       "AI"
     ],
@@ -21033,7 +21033,7 @@
     "tags": [
       "Infrastructure",
       "Workflow Automation",
-      "APIs"
+      "Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -21231,6 +21231,40 @@
       "Artificial Intelligence",
       "Developer Tools",
       "Conversational AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Riften",
+    "description": "Earned Intelligence for every company. ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "website": "https://riften.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Reinforcement Learning",
+      "Open Source"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -22685,176 +22719,6 @@
   },
   {
     "source": "500",
-    "name": "Lettuce",
-    "description": "Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user's business to capture, track and process orders anywhere in real time.",
-    "logo": "",
-    "website": "https://lettuceapps.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Content",
-      "Infrastructure"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Frank Jones",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Raad Mobrem",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Yaydoo",
-    "description": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ac40d0a-657b-4c41-820e-18ec93aa6afd.png",
-    "website": "https://yaydoo.com",
-    "location": "Mexico",
-    "region": "Latin America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "Infrastructure"
-    ],
-    "year": 2016,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Roberto Flores Riveroll",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Guillermo Treviño",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sergio Almaguer Ramirez",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Mexico"
-    }
-  },
-  {
-    "source": "500",
-    "name": "CStorePro",
-    "description": "Provider of a cloud-based operations and inventory management software designed to manage back office work. The company's software offers live data to monitor sales, void transactions, void tickets, refunds, no sale and manual ring ups, all in real-time, enabling store owners to protect their data with full safeguards according to industry standards and best practices used by banks and financial institutions and control their stores from anywhere.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c00be0e-3744-46f1-b44e-e425f418162d.png",
-    "website": "https://cstorepro.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics",
-      "Infrastructure"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Arif Momin",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "TableApp",
-    "description": "Provider of an online table booking application designed to make restaurant reservations quicker and easier. The company's online table booking application assists, reviews and manages reservations all-in-one, enablings users to locate, assess and reserve a table instantly with instant confirmation.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f01a1497-2382-476b-838a-7d48f6128d6d.png",
-    "website": "https://tableapp.com",
-    "location": "Malaysia",
-    "region": "South Asia",
-    "subregion": "",
-    "tags": [
-      "Infrastructure"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Benson Chang",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Malaysia"
-    }
-  },
-  {
-    "source": "500",
     "name": "Silk Labs",
     "description": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
     "logo": "",
@@ -22986,6 +22850,55 @@
   },
   {
     "source": "500",
+    "name": "Yaydoo",
+    "description": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ac40d0a-657b-4c41-820e-18ec93aa6afd.png",
+    "website": "https://yaydoo.com",
+    "location": "Mexico",
+    "region": "Latin America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "Infrastructure"
+    ],
+    "year": 2016,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Roberto Flores Riveroll",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Guillermo Treviño",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sergio Almaguer Ramirez",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Mexico"
+    }
+  },
+  {
+    "source": "500",
     "name": "Salido",
     "description": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a33858b2-346a-45e2-bec3-e406b8d74dad.png",
@@ -23036,6 +22949,127 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Lettuce",
+    "description": "Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user's business to capture, track and process orders anywhere in real time.",
+    "logo": "",
+    "website": "https://lettuceapps.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Content",
+      "Infrastructure"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Frank Jones",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Raad Mobrem",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "CStorePro",
+    "description": "Provider of a cloud-based operations and inventory management software designed to manage back office work. The company's software offers live data to monitor sales, void transactions, void tickets, refunds, no sale and manual ring ups, all in real-time, enabling store owners to protect their data with full safeguards according to industry standards and best practices used by banks and financial institutions and control their stores from anywhere.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c00be0e-3744-46f1-b44e-e425f418162d.png",
+    "website": "https://cstorepro.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Infrastructure"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Arif Momin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "TableApp",
+    "description": "Provider of an online table booking application designed to make restaurant reservations quicker and easier. The company's online table booking application assists, reviews and manages reservations all-in-one, enablings users to locate, assess and reserve a table instantly with instant confirmation.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f01a1497-2382-476b-838a-7d48f6128d6d.png",
+    "website": "https://tableapp.com",
+    "location": "Malaysia",
+    "region": "South Asia",
+    "subregion": "",
+    "tags": [
+      "Infrastructure"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Benson Chang",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Malaysia"
     }
   }
 ]
