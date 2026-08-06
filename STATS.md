@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-05._
+_Auto-generated from the dataset on 2026-08-06._
 
 | Metric | Count |
 |---|---|
 | Total companies | **21,040** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2760** |
+| 💰 Exits | **2761** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -102,18 +102,18 @@ _Auto-generated from the dataset on 2026-08-05._
 15. **YC Summer 2023** — 220
 
 ## Top industries
-1. **Fintech** — 2467
+1. **Fintech** — 2468
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1417
 4. **Mobile** — 1141
-5. **Consumer** — 1059
-6. **Artificial Intelligence** — 952
-7. **AI** — 851
+5. **Consumer** — 1058
+6. **Artificial Intelligence** — 954
+7. **AI** — 852
 8. **Healthcare** — 815
 9. **Developer Tools** — 701
-10. **Infrastructure** — 682
+10. **Infrastructure** — 683
 11. **Health** — 663
-12. **Engineering, Product and Design** — 610
+12. **Engineering, Product and Design** — 612
 13. **Industrials** — 604
 14. **Insurtech** — 513
 15. **Deeptech** — 489
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-08-05._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4537
+2. **United States of America** — 4536
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -147,7 +147,7 @@ _Auto-generated from the dataset on 2026-08-05._
 21. **Oceania** — 73
 22. **Brazil** — 68
 23. **Germany** — 63
-24. **Singapore** — 52
+24. **Singapore** — 53
 25. **Nigeria** — 50
 26. **Israel** — 34
 27. **Indonesia** — 30
