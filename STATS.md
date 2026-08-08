@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-07._
+_Auto-generated from the dataset on 2026-08-08._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,072** |
+| Total companies | **21,075** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2763** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-08-07._
 
 | Source | Companies |
 |---|---|
-| yc | 6,129 |
+| yc | 6,132 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-08-07._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1048
-2026  █████████████░░░░░░░░░░░░░░░ 695
+2026  █████████████░░░░░░░░░░░░░░░ 698
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -102,19 +102,19 @@ _Auto-generated from the dataset on 2026-08-07._
 15. **YC Summer 2023** — 220
 
 ## Top industries
-1. **Fintech** — 2468
+1. **Fintech** — 2470
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1417
+3. **SaaS** — 1419
 4. **Mobile** — 1141
 5. **Consumer** — 1060
-6. **Artificial Intelligence** — 952
-7. **AI** — 856
+6. **Artificial Intelligence** — 960
+7. **AI** — 853
 8. **Healthcare** — 816
-9. **Developer Tools** — 703
+9. **Developer Tools** — 704
 10. **Infrastructure** — 683
 11. **Health** — 663
 12. **Engineering, Product and Design** — 613
-13. **Industrials** — 608
+13. **Industrials** — 609
 14. **Insurtech** — 513
 15. **B2B Software** — 491
 16. **Deeptech** — 489
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-08-07._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4540
+2. **United States of America** — 4542
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -166,9 +166,9 @@ _Auto-generated from the dataset on 2026-08-07._
 40. **South Korea** — 11
 41. **Pakistan** — 11
 42. **Kenya** — 9
-43. **Ireland** — 8
-44. **Philippines** — 8
-45. **Norway** — 8
+43. **Norway** — 9
+44. **Ireland** — 8
+45. **Philippines** — 8
 46. **Malaysia** — 8
 47. **Peru** — 8
 48. **Hong Kong** — 7

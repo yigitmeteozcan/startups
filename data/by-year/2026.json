@@ -7563,7 +7563,7 @@
     "source": "yc",
     "name": "Ekpa",
     "description": "Building Autonomous Research Agents for Trading",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6e4cd183ffca48da0b8c0ac22b9a4a380bdecc65.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/06c4988b8eff9db30a66dc2c4f5f513eba67b606.png",
     "website": "https://goekpa.com/",
     "location": "Boston, MA, USA",
     "region": "United States of America",
@@ -11649,13 +11649,18 @@
   {
     "source": "yc",
     "name": "Keyframe Labs",
-    "description": "Turn agents into lifelike video calls with the word's best AI avatars",
+    "description": "Bring AI to life with the world's best interactive avatars",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ca6ef21e7c765ce2b9f612cc2ec833a2654c6bd4.png",
     "website": "https://keyframelabs.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "API"
+    ],
     "year": 2026,
     "program": "YC Spring 2026",
     "programSlugs": [
@@ -14128,7 +14133,7 @@
   {
     "source": "yc",
     "name": "Trident",
-    "description": "Your AI Security Team ",
+    "description": "Agents that find real exploitable vulnerabilities in your company ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/537de46d97dcdac9c07b330a6a1a4b2ab0583b7b.png",
     "website": "https://tridentsecurity.io/",
     "location": "San Francisco, CA, USA",
@@ -14136,8 +14141,8 @@
     "subregion": "",
     "tags": [
       "Security",
-      "Cybersecurity",
-      "AI"
+      "Artificial Intelligence",
+      "Cybersecurity"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -14257,7 +14262,7 @@
     "subregion": "",
     "tags": [
       "Real Estate and Construction",
-      "Housing and Real Estate"
+      "Home Services"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -15974,7 +15979,7 @@
     "source": "yc",
     "name": "Instaplay",
     "description": "AI-Native Social Platform, Starting with Games",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ca6a12b7633d4f00fe3906d5a5037f17c2e991d2.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f33f486af4ab2bd216ae15d9ac94f4d38738b34a.png",
     "website": "https://instaplay.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -15982,7 +15987,7 @@
     "tags": [
       "Consumer",
       "Gaming",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16339,6 +16344,39 @@
   },
   {
     "source": "yc",
+    "name": "Audun",
+    "description": "AI-native debt collection",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d28813053904611d6b5fc0391c683bdbe842a4ad.png",
+    "website": "https://www.getaudun.com/",
+    "location": "Oslo, Oslo, Norway",
+    "region": "Norway",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Artificial Intelligence",
+      "Finance",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Marble",
     "description": "The autonomous back-of-house for restaurants.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd8594643506090563d23eac2d8bee3b9c1e526f.png",
@@ -16502,7 +16540,7 @@
     "source": "yc",
     "name": "Exosat",
     "description": "Building a sovereign Starlink",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4ada0c6c689e415dd6275bd653f7e5171ef2d584.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c71c0447005f2a40e7e7610af283842dbce65e39.png",
     "website": "https://www.exosat.com",
     "location": "Singapore, Singapore",
     "region": "Singapore",
@@ -17308,14 +17346,16 @@
   {
     "source": "yc",
     "name": "Almanac",
-    "description": "Self updating wiki for your coding agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12b18390ac9aff0968a7a1c2e09e151efc7a0913.png",
-    "website": "https://codealmanac.com",
+    "description": "The AI that knows your company",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/04034530613a233afe0d28a52bcfd6e9943b7ea7.png",
+    "website": "https://usealmanac.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Generative AI"
+      "Generative AI",
+      "AI",
+      "AI Assistant"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17582,6 +17622,39 @@
       "Reinforcement Learning",
       "Cybersecurity",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Qlo",
+    "description": "AI that automates underwriting for commercial insurance carriers",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6bdf97a8fbe4a8a51a745ce366d9c6c2bfc6d75c.png",
+    "website": "https://www.getqlo.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Insurance",
+      "SaaS",
+      "Enterprise"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -19125,6 +19198,42 @@
     "tags": [
       "Industrials",
       "Defense"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Hebbian Robotics",
+    "description": "APIs for searching and analyzing Physical AI data at scale",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e7272f21860060f8aa33bb297af6d18fab5ffdc.png",
+    "website": "https://hebbianrobotics.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Robotics",
+      "Data Science",
+      "Data Engineering",
+      "Databases"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
