@@ -56963,7 +56963,7 @@
     "tags": [
       "Consumer",
       "Gaming",
-      "Artificial Intelligence",
+      "AI",
       "AI Assistant"
     ],
     "year": 2020,
@@ -115262,8 +115262,9 @@
     "subregion": "",
     "tags": [
       "Government",
-      "Artificial Intelligence",
-      "GovTech"
+      "GovTech",
+      "LegalTech",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -134432,9 +134433,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -135814,7 +135815,7 @@
   {
     "source": "yc",
     "name": "Moda",
-    "description": "Continual learning for AI agents",
+    "description": "The continual learning layer for AI agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
     "website": "https://moda.dev",
     "location": "San Francisco, CA, USA",
@@ -137230,17 +137231,17 @@
     "description": "24/7 Personal Health & Longevity Companion",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/72dfae7e6f3aa505626a7c902f014e294cc6ab91.png",
     "website": "https://www.illumelabs.ai",
-    "location": "Boston, MA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Healthcare",
       "Consumer Health and Wellness",
+      "Artificial Intelligence",
       "Generative AI",
       "Health Tech",
       "Biotech",
-      "Health & Wellness",
-      "AI"
+      "Health & Wellness"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -142588,9 +142589,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Legal",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -142721,7 +142722,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Machine Learning"
+      "Machine Learning",
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -143863,6 +143865,41 @@
   },
   {
     "source": "yc",
+    "name": "Prodigy Research",
+    "description": "Training the world's best foundation model for quantitative finance.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a2db1ee59cf597cd664444e784ae76e1f753d775.png",
+    "website": "https://prodigy.markets",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Reinforcement Learning",
+      "Finance",
+      "Investing",
+      "Trading",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "screenpipe",
     "description": "AI powered by everything you've seen, said or heard",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
@@ -144172,16 +144209,16 @@
     "source": "yc",
     "name": "Stratum Industries",
     "description": "AI agents that clear the U.S. government backlog.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0cc8b5375c42033d862e128777c8909550381c8d.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cbb396809ed692f744f764e5cd86703142288a07.png",
     "website": "https://stratumindustries.co/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Government",
+      "Artificial Intelligence",
       "GovTech",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -145204,6 +145241,40 @@
   },
   {
     "source": "yc",
+    "name": "Marengo",
+    "description": "Automating engineering design, starting with data centers.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/60eafb41e958f2dbb87a17e5996bba09e7731f2f.png",
+    "website": "https://marengox.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Energy",
+      "Artificial Intelligence",
+      "Design",
+      "Architecture"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Lumeria",
     "description": "Oura Ring for Skin.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8820c77c59ad677aa1a11384b561d8e34ab06e47.png",
@@ -145762,7 +145833,7 @@
   {
     "source": "yc",
     "name": "Chromie",
-    "description": "find, qualify, & win contracts with AI",
+    "description": "find, qualify, & win gov contracts with AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5a2ef01980100f9fd5b3d0aa3fa9559b4b8ae93e.png",
     "website": "https://chromie.dev",
     "location": "San Francisco, CA, USA",
@@ -146487,6 +146558,38 @@
       "Sales",
       "AIOps",
       "Workflow Automation"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Dawn Industries",
+    "description": "Automatic Diagnosis & Fix for Industrial Automation Cells",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/be237324cf82c0125a34763f99ffb0cf35ca384d.png",
+    "website": "https://www.dawnxr.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
