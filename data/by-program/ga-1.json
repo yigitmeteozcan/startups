@@ -237,15 +237,16 @@
   },
   {
     "source": "500",
-    "name": "GraphCast",
-    "description": "Provider of a platform that connects creators of infographic content with audiences and publishers. The company's platform connects designers, journalists, animators and developers with clients, featuring cloud-based collaboration tools to enable content delivery.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/67fe0900-39d4-4029-85ca-ed61f045a8e3.png",
-    "website": "https://visual.ly",
+    "name": "Snapette",
+    "description": "Developer of software applications for mobile phone. The company provides software for mobile phone that helps to discover and share photos of shoes and bags.",
+    "logo": "",
+    "website": "https://snapette.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Social Media"
+      "Fashion",
+      "Social Impact"
     ],
     "year": 2011,
     "program": "GA 1",
@@ -258,17 +259,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Adam Breckler",
+        "name": "Jinhee Ahn Kim",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Stew Langille",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Lee Sherman",
+        "name": "Sarah Paiji",
         "role": "",
         "linkedin": ""
       }
@@ -377,49 +373,6 @@
   },
   {
     "source": "500",
-    "name": "Motion Math",
-    "description": "Developer of engaging educational games designed to help children find delight in intellectual challenge. The company's games use an innovative learning model that playfully teaches the conceptual foundations of math with interactive visuals and provides access to over 900 levels of adaptive content on the web or via iPad applications, enabling students to master the most challenging K-6 standards.",
-    "logo": "",
-    "website": "https://motionmathgames.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Education"
-    ],
-    "year": 2011,
-    "program": "GA 1",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Gabriel Adauto",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jacob Klein",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Amped",
     "description": "Developer of a mobile application designed to offer event updates and ticket booking. The company's mobile application uses data analytics and machine learning to discover and recommend relevant concerts, theater productions, sports games and community events, enabling artists to identify, understand and engage fan base.",
     "logo": "",
@@ -463,16 +416,15 @@
   },
   {
     "source": "500",
-    "name": "Snapette",
-    "description": "Developer of software applications for mobile phone. The company provides software for mobile phone that helps to discover and share photos of shoes and bags.",
+    "name": "Motion Math",
+    "description": "Developer of engaging educational games designed to help children find delight in intellectual challenge. The company's games use an innovative learning model that playfully teaches the conceptual foundations of math with interactive visuals and provides access to over 900 levels of adaptive content on the web or via iPad applications, enabling students to master the most challenging K-6 standards.",
     "logo": "",
-    "website": "https://snapette.com",
+    "website": "https://motionmathgames.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Fashion",
-      "Social Impact"
+      "Education"
     ],
     "year": 2011,
     "program": "GA 1",
@@ -485,12 +437,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jinhee Ahn Kim",
+        "name": "Gabriel Adauto",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Sarah Paiji",
+        "name": "Jacob Klein",
         "role": "",
         "linkedin": ""
       }
@@ -621,6 +573,54 @@
       },
       {
         "name": "Reed Morse",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "GraphCast",
+    "description": "Provider of a platform that connects creators of infographic content with audiences and publishers. The company's platform connects designers, journalists, animators and developers with clients, featuring cloud-based collaboration tools to enable content delivery.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/67fe0900-39d4-4029-85ca-ed61f045a8e3.png",
+    "website": "https://visual.ly",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Social Media"
+    ],
+    "year": 2011,
+    "program": "GA 1",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Adam Breckler",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Stew Langille",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Lee Sherman",
         "role": "",
         "linkedin": ""
       }
