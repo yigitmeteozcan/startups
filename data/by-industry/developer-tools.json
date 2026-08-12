@@ -1949,7 +1949,7 @@
   {
     "source": "yc",
     "name": "RevenueCat",
-    "description": "A simple API for managing in-app subscriptions",
+    "description": "Build and grow your app business",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f8dc20fcc951e007754d6896f9f4c42ee9502a51.png",
     "website": "https://www.revenuecat.com/",
     "location": "San Francisco, CA, USA; Remote",
@@ -5827,10 +5827,10 @@
   },
   {
     "source": "yc",
-    "name": "Glop.dev",
+    "name": "AXAR AI",
     "description": "How great teams ship with AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/52cb3520d9bab156b57aed7f3c76a564ce21c4cb.png",
-    "website": "https://www.glop.dev/",
+    "website": "",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -13897,15 +13897,15 @@
     "description": "The best DOCX MCP for agents to edit microsoft word documents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
     "website": "https://vespper.com/?utm_source=ycombinator.com",
-    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
-    "region": "Israel",
+    "location": "San Francisco, CA, USA; Remote",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Productivity",
       "Documents",
+      "Artificial Intelligence",
       "Developer Tools",
-      "API",
-      "AI"
+      "API"
     ],
     "year": 2024,
     "program": "YC Fall 2024",
@@ -16136,7 +16136,7 @@
   {
     "source": "yc",
     "name": "Omnara",
-    "description": "The Control Plane for Agents",
+    "description": "The Open-Source Alternative to Claude Managed Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
     "website": "https://omnara.com",
     "location": "San Francisco, CA, USA",
@@ -16968,9 +16968,9 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Artificial Intelligence",
       "Developer Tools",
-      "API",
-      "AI"
+      "API"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -17273,6 +17273,39 @@
       "Developer Tools",
       "SaaS",
       "API"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Alchemize",
+    "description": "Code Review Platform that Simplifies PRs to Ship Faster",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f82ae07ea418af65738a5555df328a4907b4da13.png",
+    "website": "https://tryalchemize.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "Productivity",
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -17692,8 +17725,8 @@
   {
     "source": "yc",
     "name": "Inkbox",
-    "description": "Give your AI agents email, phone, iMessage and an internet address",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f2e10120a7184c6f7b716b22ea7167e079fcbd86.png",
+    "description": "Let your agents communicate via email, phone, iMessage, & Agent2Agent",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/59d6214df81a05c739db52287017ae33c8c45f0d.png",
     "website": "https://inkbox.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -22183,49 +22216,6 @@
   },
   {
     "source": "500",
-    "name": "Iconfinder",
-    "description": "Provider of an icon search engine designed to offer customized icon design. The company's icon search engine gives access to a library of icons through subscription, enabling web designers and developers to use graphical computer icons.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7360c3fe-241d-4741-b0ca-76ec08695018.png",
-    "website": "https://iconfinder.com",
-    "location": "Denmark",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2013,
-    "program": "GA 5",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Martin LeBlanc",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Steffen Thilsted",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Denmark"
-    }
-  },
-  {
-    "source": "500",
     "name": "Unbounce",
     "description": "Provider of an online platform designed to increase website and campaign conversions. The company's platform provides tools to build custom landing pages, which increase website and campaign conversions and helps marketers to quickly create, launch and test high-converting landing pages, popups, and sticky bars without developers, enabling them to create better marketing experiences.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ee27fbe6-3800-4fb3-8d90-fb388160f63e.png",
@@ -22286,6 +22276,49 @@
     },
     "extra": {
       "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Iconfinder",
+    "description": "Provider of an icon search engine designed to offer customized icon design. The company's icon search engine gives access to a library of icons through subscription, enabling web designers and developers to use graphical computer icons.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7360c3fe-241d-4741-b0ca-76ec08695018.png",
+    "website": "https://iconfinder.com",
+    "location": "Denmark",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2013,
+    "program": "GA 5",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Martin LeBlanc",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Steffen Thilsted",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
     }
   },
   {
@@ -23876,44 +23909,6 @@
   },
   {
     "source": "500",
-    "name": "API Fortress",
-    "description": "Provider of a visual API testing and monitoring platform. The company provides a platform that tests and monitors API, notifying users of moment flaws, and facilitates corrective action processes when vulnerabilities are found.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/43414282-fe3d-417b-86a5-531e82afd21d.png",
-    "website": "https://apifortress.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Patrick Poulin",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Apsalar",
     "description": "Developer of a mobile application attribution and audience management platform designed to drive engagement and monetization through data-driven marketing. The company's Apsalar Mobile Marketing Cloud provides the critical data layer for customized marketing based on the actions and needs of each individual app user, providing both essential business and user insights along with audience tools to power customized, data-driven marketing.",
     "logo": "",
@@ -23952,6 +23947,44 @@
       },
       {
         "name": "Fazal Majid",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "API Fortress",
+    "description": "Provider of a visual API testing and monitoring platform. The company provides a platform that tests and monitors API, notifying users of moment flaws, and facilitates corrective action processes when vulnerabilities are found.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/43414282-fe3d-417b-86a5-531e82afd21d.png",
+    "website": "https://apifortress.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Patrick Poulin",
         "role": "",
         "linkedin": ""
       }

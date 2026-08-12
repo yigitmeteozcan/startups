@@ -11068,7 +11068,7 @@
     "source": "yc",
     "name": "Airhart Aeronautics",
     "description": "Airplanes anyone can fly",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6d2c3077b0a260101b4efa34338d48f2bcb7a825.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8754b2c358df7ab9263e0a74ddf008cb7c8cee4d.png",
     "website": "https://www.airhartaero.com/",
     "location": "Los Angeles, CA, USA",
     "region": "United States of America",
@@ -11446,8 +11446,8 @@
   {
     "source": "yc",
     "name": "HyLight",
-    "description": "Small unmanned hydrogen airships for long range monitoring",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/17e115f6387d31c268302079d59ab1981c37d8ca.png",
+    "description": "Unmanned airships for inspecting our critical assets",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5bcbb9e93eb3ebbc3a622b3826ec8c2df9b276d7.png",
     "website": "https://www.hylight.aero/",
     "location": "Paris, Île-de-France, France",
     "region": "France",
@@ -15873,18 +15873,20 @@
   {
     "source": "yc",
     "name": "Libra Robotics",
-    "description": "Autonomous robots for solar farm construction",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/38569e8c7f99407654cda03fc6daff633822e414.png",
+    "description": "Multi-robot collaboration for harsh environments on Earth.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
     "website": "https://www.librabots.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
-      "Energy",
-      "Robotic Process Automation",
-      "Solar Power",
-      "Sustainability"
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Robotics",
+      "Construction",
+      "Sustainability",
+      "Energy"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16070,8 +16072,8 @@
     "description": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/81520915f1b23922d076f3d69ef70548eb14face.png",
     "website": "https://www.daivin.tech/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "Helsinki, Finland",
+    "region": "Finland",
     "subregion": "",
     "tags": [
       "Industrials",
@@ -17653,6 +17655,40 @@
   },
   {
     "source": "yc",
+    "name": "Moving Atoms",
+    "description": "Virtual Reality for Robots (World Models)",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ef35741f33adf69268f7b972bd18d2a9b60f0fc8.png",
+    "website": "https://movingatoms.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Robotics",
+      "Virtual Reality"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Isengard Industries Inc",
     "description": "Mass-produced AI strike systems and Counter-UAS",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/17f019cfd01fa25a85e88f6a43f39d133e5ecaff.png",
@@ -17688,7 +17724,7 @@
   {
     "source": "yc",
     "name": "Pacific",
-    "description": "Micro data centers for the harshest places on Earth and in space.",
+    "description": "Mass-producing and deploying micro data centers for Earth and Space",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/196624bfab919b6dd989cb601af1771954cb562e.png",
     "website": "https://gopacific.ai/",
     "location": "London, England, United Kingdom",
@@ -17696,11 +17732,11 @@
     "subregion": "",
     "tags": [
       "Industrials",
+      "Artificial Intelligence",
       "Fintech",
       "Robotics",
       "Space Exploration",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17927,8 +17963,8 @@
     "description": "Autopilot for Flight Operations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dcac201e21fa70f9b3a8a1b827c8fd7759c25920.png",
     "website": "https://skymerse.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "Warsaw, Masovian Voivodeship, Poland",
+    "region": "Poland",
     "subregion": "",
     "tags": [
       "Industrials",
@@ -17993,7 +18029,7 @@
     "name": "Hop Aero",
     "description": "Rocket cargo delivery to contested environments",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a5cab9ede70e23b0ea3f8e3b64b7a19735939c17.png",
-    "website": "https://hop-aero.com",
+    "website": "https://hopaero.com",
     "location": "Los Angeles, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -18261,18 +18297,52 @@
   },
   {
     "source": "yc",
-    "name": "Antropi Robotics",
-    "description": "Autonomous CNC factories for faster hardware",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8c101f20a3b29a6ae368d81297168e49391e75a.png",
-    "website": "https://www.antropi.world/",
-    "location": "Bengaluru, KA, India",
-    "region": "India",
+    "name": "Hemlock",
+    "description": "Force-sensing wristband for training robotic AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
+    "website": "https://hemlock.info",
+    "location": "Los Angeles, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Hard Tech",
+      "Hardware"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "twentyfour26",
+    "description": "On Demand CNC Prototyping ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ceb91f5325b460f109e85bc25abd1618a24863cb.png",
+    "website": "https://twentyfour26.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
       "Robotics",
-      "Manufacturing"
+      "Manufacturing",
+      "Industrial"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

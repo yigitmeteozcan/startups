@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-11._
+_Auto-generated from the dataset on 2026-08-12._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,080** |
+| Total companies | **21,087** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2763** |
+| 💰 Exits | **2764** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-08-11._
 
 | Source | Companies |
 |---|---|
-| yc | 6,144 |
+| yc | 6,151 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
@@ -45,8 +45,8 @@ _Auto-generated from the dataset on 2026-08-11._
 2022  ███████████████████████████░ 1457
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
-2025  ████████████████████░░░░░░░░ 1047
-2026  █████████████░░░░░░░░░░░░░░░ 710
+2025  ████████████████████░░░░░░░░ 1046
+2026  █████████████░░░░░░░░░░░░░░░ 718
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -102,19 +102,19 @@ _Auto-generated from the dataset on 2026-08-11._
 15. **YC Summer 2023** — 220
 
 ## Top industries
-1. **Fintech** — 2472
+1. **Fintech** — 2473
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1419
 4. **Mobile** — 1141
 5. **Consumer** — 1060
-6. **Artificial Intelligence** — 963
-7. **AI** — 862
+6. **Artificial Intelligence** — 966
+7. **AI** — 864
 8. **Healthcare** — 816
-9. **Developer Tools** — 706
+9. **Developer Tools** — 707
 10. **Infrastructure** — 685
 11. **Health** — 663
-12. **Industrials** — 614
-13. **Engineering, Product and Design** — 613
+12. **Industrials** — 616
+13. **Engineering, Product and Design** — 615
 14. **Insurtech** — 513
 15. **Deeptech** — 489
 16. **B2B Software** — 487
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-08-11._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4544
+2. **United States of America** — 4551
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -134,7 +134,7 @@ _Auto-generated from the dataset on 2026-08-11._
 8. **South Asia** — 264
 9. **Canada** — 214
 10. **United Kingdom** — 213
-11. **India** — 210
+11. **India** — 209
 12. **Latin America** — 163
 13. **Middle East** — 159
 14. **Unspecified** — 118
@@ -149,7 +149,7 @@ _Auto-generated from the dataset on 2026-08-11._
 23. **Germany** — 63
 24. **Singapore** — 54
 25. **Nigeria** — 49
-26. **Israel** — 35
+26. **Israel** — 34
 27. **Indonesia** — 30
 28. **Colombia** — 28
 29. **Spain** — 21
@@ -172,21 +172,21 @@ _Auto-generated from the dataset on 2026-08-11._
 46. **Malaysia** — 8
 47. **Peru** — 8
 48. **Hong Kong** — 7
-49. **Vietnam** — 7
-50. **China** — 6
-51. **Poland** — 6
+49. **Poland** — 7
+50. **Vietnam** — 7
+51. **China** — 6
 52. **Slovenia** — 6
 53. **Austria** — 5
 54. **Panama** — 5
 55. **Belgium** — 5
 56. **Ghana** — 4
 57. **Turkey** — 4
-58. **Saudi Arabia** — 4
-59. **Morocco** — 3
-60. **South Africa** — 3
-61. **New Zealand** — 3
-62. **Estonia** — 3
-63. **Finland** — 3
+58. **Finland** — 4
+59. **Saudi Arabia** — 4
+60. **Morocco** — 3
+61. **South Africa** — 3
+62. **New Zealand** — 3
+63. **Estonia** — 3
 64. **East Asia** — 3
 65. **Japan** — 2
 66. **Portugal** — 2
