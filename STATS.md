@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-12._
+_Auto-generated from the dataset on 2026-08-13._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,087** |
+| Total companies | **21,092** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2764** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-08-12._
 
 | Source | Companies |
 |---|---|
-| yc | 6,151 |
+| yc | 6,156 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
@@ -39,14 +39,14 @@ _Auto-generated from the dataset on 2026-08-12._
 2016  ██████████████░░░░░░░░░░░░░░ 724
 2017  ███████████████░░░░░░░░░░░░░ 817
 2018  ████████████████░░░░░░░░░░░░ 864
-2019  ███████████████████░░░░░░░░░ 1031
-2020  ████████████████████░░░░░░░░ 1054
+2019  ███████████████████░░░░░░░░░ 1030
+2020  ████████████████████░░░░░░░░ 1053
 2021  ██████████████████████████░░ 1383
 2022  ███████████████████████████░ 1457
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1046
-2026  █████████████░░░░░░░░░░░░░░░ 718
+2026  ██████████████░░░░░░░░░░░░░░ 724
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -102,18 +102,18 @@ _Auto-generated from the dataset on 2026-08-12._
 15. **YC Summer 2023** — 220
 
 ## Top industries
-1. **Fintech** — 2473
+1. **Fintech** — 2474
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1419
 4. **Mobile** — 1141
 5. **Consumer** — 1060
-6. **Artificial Intelligence** — 966
-7. **AI** — 864
+6. **Artificial Intelligence** — 964
+7. **AI** — 870
 8. **Healthcare** — 816
 9. **Developer Tools** — 707
-10. **Infrastructure** — 685
+10. **Infrastructure** — 684
 11. **Health** — 663
-12. **Industrials** — 616
+12. **Industrials** — 619
 13. **Engineering, Product and Design** — 615
 14. **Insurtech** — 513
 15. **Deeptech** — 489
@@ -125,16 +125,16 @@ _Auto-generated from the dataset on 2026-08-12._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4551
+2. **United States of America** — 4558
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **Canada** — 214
-10. **United Kingdom** — 213
-11. **India** — 209
+9. **United Kingdom** — 213
+10. **Canada** — 213
+11. **India** — 208
 12. **Latin America** — 163
 13. **Middle East** — 159
 14. **Unspecified** — 118
