@@ -9870,9 +9870,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Hardware",
-      "Design",
-      "AI"
+      "Design"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -16232,19 +16232,19 @@
   },
   {
     "source": "yc",
-    "name": "PowerMatrix",
-    "description": "Efficient and compact power supply for AI hardware",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3151e6fee623bc4e7d2fd788b61365adf887f421.png",
-    "website": "https://pwrmatrix.com",
+    "name": "NODI Energy",
+    "description": "Distributed energy infrastructure unlocking grid power to data centers",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a4a4e15d9d456412939a83c9d998aaeedade968a.png",
+    "website": "https://www.nodienergy.com",
     "location": "London, England, United Kingdom",
     "region": "United Kingdom",
     "subregion": "",
     "tags": [
       "Industrials",
       "Energy",
+      "Energy Storage",
       "Hard Tech",
       "Hardware",
-      "Semiconductors",
       "Electronics"
     ],
     "year": 2025,
@@ -16455,8 +16455,8 @@
   },
   {
     "source": "yc",
-    "name": "Cactus",
-    "description": "Low-latency AI engine for mobile devices & wearables",
+    "name": "Cactus Compute",
+    "description": "Tiny Edge AI For Tiny Devices",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "location": "San Francisco, CA, USA",
@@ -19352,17 +19352,17 @@
   {
     "source": "yc",
     "name": "Lilac",
-    "description": "We automatically monetize idle GPUs",
+    "description": "We sell GPUs.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/18234851431f8da18d1f087abc867a57412f1a97.png",
     "website": "https://getlilac.com",
     "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -20939,7 +20939,7 @@
     "name": "Novaflow",
     "description": "The AI data analyst for biology labs",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/284bcf8fd014c43e486fa3243ceddc4a1b5a8484.png",
-    "website": "https://www.novaflowapp.com/",
+    "website": "https://www.novaflow.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -34853,6 +34853,36 @@
   },
   {
     "source": "alchemist",
+    "name": "Armeta",
+    "description": "Armeta builds AI systems for construction and heavy industries, helping projects move faster from planning to execution.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Slideflow Labs",
     "description": "Empowering next-gen precision oncology with scalable, in-house AI biomarkers from routine pathology slides.",
     "logo": "",
@@ -34892,36 +34922,6 @@
         "linkedin": ""
       }
     ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Armeta",
-    "description": "Armeta builds AI systems for construction and heavy industries, helping projects move faster from planning to execution.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -35405,8 +35405,49 @@
   },
   {
     "source": "alchemist",
-    "name": "Divergent Physics",
-    "description": " Claude Code for Hardware design",
+    "name": "Industrial Dynamics",
+    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "logo": "",
+    "website": "",
+    "location": "Reno, NV, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Konstantin Sarichev**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Michael Lawrie**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "AISI X",
+    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -35424,17 +35465,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Gustavo Navarro",
+        "name": "**Denis Chegodaev**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Volodymyr Shyianov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Bamelak Tadele",
+        "name": "**Alexander Gromov**",
         "role": "",
         "linkedin": ""
       }
@@ -35451,11 +35487,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Etat'H Solide",
-    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
+    "name": "Planeo",
+    "description": "AI copilot that bridges code and runtime",
     "logo": "",
     "website": "",
-    "location": "Grand Rapids, MI, USA",
+    "location": "Dover, DE, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35470,7 +35506,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jhea-Uhg \"Damian\" Kang",
+        "name": "**Santosh Sadasivuni**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Marcello DeSales**",
         "role": "",
         "linkedin": ""
       }
@@ -35533,11 +35574,11 @@
   },
   {
     "source": "alchemist",
-    "name": "AISI X",
-    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
+    "name": "Etat'H Solide",
+    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Grand Rapids, MI, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35552,12 +35593,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Denis Chegodaev**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Alexander Gromov**",
+        "name": "Jhea-Uhg \"Damian\" Kang",
         "role": "",
         "linkedin": ""
       }
@@ -35661,11 +35697,11 @@
   },
   {
     "source": "alchemist",
-    "name": "DevPlaza",
-    "description": "Automated production-readiness platform for the AI coding era",
+    "name": "Divergent Physics",
+    "description": " Claude Code for Hardware design",
     "logo": "",
     "website": "",
-    "location": "Pleasanton, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35680,22 +35716,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Sahana Nagabhushan**",
+        "name": "Gustavo Navarro",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Arjun G N**",
+        "name": "Volodymyr Shyianov",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Stephen Service**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Advisors:** Adam Frankl",
+        "name": "Bamelak Tadele",
         "role": "",
         "linkedin": ""
       }
@@ -35753,16 +35784,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Industrial Dynamics",
-    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "name": "DevPlaza",
+    "description": "Automated production-readiness platform for the AI coding era",
     "logo": "",
     "website": "",
-    "location": "Reno, NV, USA",
+    "location": "Pleasanton, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2025,
-    "program": "Alchemist Class 40",
+    "program": "Alchemist Class 41",
     "programSlugs": [
       "alchemist"
     ],
@@ -35772,12 +35803,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Konstantin Sarichev**",
+        "name": "**Sahana Nagabhushan**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Michael Lawrie**",
+        "name": "**Arjun G N**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Stephen Service**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Advisors:** Adam Frankl",
         "role": "",
         "linkedin": ""
       }
@@ -35844,47 +35885,6 @@
       },
       {
         "name": "Together",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Planeo",
-    "description": "AI copilot that bridges code and runtime",
-    "logo": "",
-    "website": "",
-    "location": "Dover, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Santosh Sadasivuni**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Marcello DeSales**",
         "role": "",
         "linkedin": ""
       }
