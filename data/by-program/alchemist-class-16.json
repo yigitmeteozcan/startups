@@ -355,11 +355,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Sparkflows Inc.",
-    "description": "Self-Serve Agentic AI & Automations",
+    "name": "Mycrophone",
+    "description": " ",
     "logo": "",
     "website": "",
-    "location": "Santa Clara, CA, USA",
+    "location": "",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -372,7 +372,13 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Livingston",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -380,7 +386,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "USA"
+      "country": ""
     }
   },
   {
@@ -422,47 +428,6 @@
     },
     "extra": {
       "country": ""
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Blitzz",
-    "description": "App-Free Live Video, AR & AI for Customer & Field Support Teams",
-    "logo": "",
-    "website": "",
-    "location": "San Jose, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2017,
-    "program": "Alchemist Class 16",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Rama Sreenivasan",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Keyur Patel",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
     }
   },
   {
@@ -513,11 +478,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Mycrophone",
-    "description": " ",
+    "name": "Blitzz",
+    "description": "App-Free Live Video, AR & AI for Customer & Field Support Teams",
     "logo": "",
     "website": "",
-    "location": "",
+    "location": "San Jose, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -532,7 +497,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Andrew Livingston",
+        "name": "Rama Sreenivasan",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Keyur Patel",
         "role": "",
         "linkedin": ""
       }
@@ -544,7 +514,37 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": ""
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Sparkflows Inc.",
+    "description": "Self-Serve Agentic AI & Automations",
+    "logo": "",
+    "website": "",
+    "location": "Santa Clara, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2017,
+    "program": "Alchemist Class 16",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
     }
   }
 ]

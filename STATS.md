@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-15._
+_Auto-generated from the dataset on 2026-08-16._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,110** |
+| Total companies | **21,114** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2764** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-08-15._
 
 | Source | Companies |
 |---|---|
-| yc | 6,175 |
+| yc | 6,179 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-08-15._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1046
-2026  ██████████████░░░░░░░░░░░░░░ 743
+2026  ██████████████░░░░░░░░░░░░░░ 747
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -99,22 +99,22 @@ _Auto-generated from the dataset on 2026-08-15._
 12. **Techstars Boston Accelerator** — 239
 13. **YC Summer 2022** — 234
 14. **YC Winter 2020** — 229
-15. **YC Summer 2026** — 226
+15. **YC Summer 2026** — 229
 
 ## Top industries
-1. **Fintech** — 2478
+1. **Fintech** — 2479
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1421
+3. **SaaS** — 1422
 4. **Mobile** — 1141
 5. **Consumer** — 1063
-6. **Artificial Intelligence** — 969
-7. **AI** — 875
-8. **Healthcare** — 817
+6. **Artificial Intelligence** — 968
+7. **AI** — 878
+8. **Healthcare** — 819
 9. **Developer Tools** — 708
-10. **Infrastructure** — 686
+10. **Infrastructure** — 687
 11. **Health** — 663
-12. **Industrials** — 622
-13. **Engineering, Product and Design** — 616
+12. **Industrials** — 623
+13. **Engineering, Product and Design** — 615
 14. **Insurtech** — 513
 15. **Deeptech** — 489
 16. **B2B Software** — 486
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-08-15._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4576
+2. **United States of America** — 4580
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
