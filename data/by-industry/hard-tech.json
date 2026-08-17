@@ -921,7 +921,7 @@
     "description": "Software orchestrated mass production of plastics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ad99a50e946cb78af9f253ab66655f1d1e1b158c.png",
     "website": "http://atomic.industries",
-    "location": "Detroit, MI, USA",
+    "location": "Cleveland, OH, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -1744,10 +1744,10 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "year": 2022,
     "program": "YC Winter 2022",
@@ -3840,6 +3840,39 @@
   },
   {
     "source": "yc",
+    "name": "Aerogen Systems",
+    "description": "Building the future of advanced chip manufacturing.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/235b4dc8ef4a94e38d79ce892c9d55184a2b0224.png",
+    "website": "https://www.aerogensystems.com/",
+    "location": "Ann Arbor, MI, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Hard Tech",
+      "Manufacturing",
+      "Semiconductors"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Daqstra",
     "description": "AI-native orchestration for physical R&D testing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dad9cd6f305ec9c8a219f22ee7d83e68f227d245.png",
@@ -3942,7 +3975,7 @@
   {
     "source": "yc",
     "name": "Moving Atoms",
-    "description": "Solving Robotics with World Models trained on Internet-Scale Video",
+    "description": "World Model Lab for Evaluating and Training Robots.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
     "website": "https://movingatoms.ai/",
     "location": "San Francisco, CA, USA",
@@ -3951,10 +3984,10 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Virtual Reality"
+      "Virtual Reality",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",

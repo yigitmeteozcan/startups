@@ -1,6 +1,6 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-16._
+_Auto-generated from the dataset on 2026-08-17._
 
 | Metric | Count |
 |---|---|
@@ -102,14 +102,14 @@ _Auto-generated from the dataset on 2026-08-16._
 15. **YC Summer 2026** — 229
 
 ## Top industries
-1. **Fintech** — 2479
+1. **Fintech** — 2478
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1422
+3. **SaaS** — 1421
 4. **Mobile** — 1141
-5. **Consumer** — 1063
-6. **Artificial Intelligence** — 968
-7. **AI** — 878
-8. **Healthcare** — 819
+5. **Consumer** — 1065
+6. **Artificial Intelligence** — 966
+7. **AI** — 881
+8. **Healthcare** — 818
 9. **Developer Tools** — 708
 10. **Infrastructure** — 687
 11. **Health** — 663
@@ -125,19 +125,19 @@ _Auto-generated from the dataset on 2026-08-16._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4580
+2. **United States of America** — 4576
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 214
+9. **United Kingdom** — 216
 10. **Canada** — 213
 11. **India** — 209
 12. **Latin America** — 163
 13. **Middle East** — 159
-14. **Unspecified** — 118
+14. **Unspecified** — 119
 15. **North Asia** — 110
 16. **Africa** — 107
 17. **Southeast Asia** — 95
@@ -187,14 +187,14 @@ _Auto-generated from the dataset on 2026-08-16._
 61. **South Africa** — 3
 62. **New Zealand** — 3
 63. **Estonia** — 3
-64. **East Asia** — 3
-65. **Japan** — 2
-66. **Portugal** — 2
-67. **Senegal** — 2
-68. **Greece** — 2
-69. **Ukraine** — 2
-70. **Croatia** — 2
-71. **Romania** — 2
+64. **Romania** — 3
+65. **East Asia** — 3
+66. **Japan** — 2
+67. **Portugal** — 2
+68. **Senegal** — 2
+69. **Greece** — 2
+70. **Ukraine** — 2
+71. **Croatia** — 2
 72. **Bulgaria** — 2
 73. **Georgia** — 2
 74. **Costa Rica** — 2

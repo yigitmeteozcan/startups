@@ -35,14 +35,14 @@
   {
     "source": "yc",
     "name": "Async",
-    "description": "Transforming small businesses with AI agents",
+    "description": "AI agents that run small businesses",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
     "website": "https://withasync.com",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -1349,7 +1349,7 @@
   {
     "source": "yc",
     "name": "Kebra",
-    "description": "Make your field service company AI-native",
+    "description": "Field Service Companies that run themselves",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2e21f70e5b9032365254edae847e8dcbc9ffddb3.png",
     "website": "https://kebra.com",
     "location": "San Francisco, CA, USA",
@@ -1357,8 +1357,8 @@
     "subregion": "",
     "tags": [
       "Operations",
-      "Artificial Intelligence",
-      "Home Services"
+      "Home Services",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -1585,7 +1585,7 @@
     "description": "Hera catches thousand dollar errors before they hit the shop floor.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/caa902826145e78311e27007937976e8663a9265.png",
     "website": "https://www.manufacturingintelligence.org",
-    "location": "Seattle, WA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -1751,10 +1751,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "Gaming",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -2119,38 +2119,6 @@
       "Artificial Intelligence",
       "Big Data",
       "AI"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Kandor",
-    "description": "Making health insurance invisible",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e3c84e687ef66f3a25dabe4c8ed464f0c19e8040.png",
-    "website": "https://kandorlabs.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Healthcare",
-      "Artificial Intelligence",
-      "Fintech"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -2640,7 +2608,7 @@
   {
     "source": "yc",
     "name": "Floracene",
-    "description": "Optimized medical device purchasing for independent providers",
+    "description": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c309f42cb161ba287e4c1f2d4a89dc2a2ab1e03b.png",
     "website": "https://www.floracene.com/",
     "location": "New York City, NY, USA",
@@ -2651,7 +2619,7 @@
       "Health Tech",
       "Medical Devices",
       "Digital Health",
-      "Procurement",
+      "Enterprise Software",
       "Healthcare IT"
     ],
     "year": 2026,
@@ -3374,7 +3342,7 @@
     "subregion": "",
     "tags": [
       "Operations",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -3940,7 +3908,7 @@
     "tags": [
       "Consumer",
       "Job and Career Services",
-      "AI",
+      "Artificial Intelligence",
       "Careers",
       "Conversational AI"
     ],
@@ -4141,6 +4109,39 @@
       "Developer Tools",
       "Reinforcement Learning",
       "Open Source"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Aerogen Systems",
+    "description": "Building the future of advanced chip manufacturing.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/235b4dc8ef4a94e38d79ce892c9d55184a2b0224.png",
+    "website": "https://www.aerogensystems.com/",
+    "location": "Ann Arbor, MI, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Hard Tech",
+      "Manufacturing",
+      "Semiconductors"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -4930,7 +4931,7 @@
   {
     "source": "yc",
     "name": "Moving Atoms",
-    "description": "Solving Robotics with World Models trained on Internet-Scale Video",
+    "description": "World Model Lab for Evaluating and Training Robots.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
     "website": "https://movingatoms.ai/",
     "location": "San Francisco, CA, USA",
@@ -4939,10 +4940,10 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Virtual Reality"
+      "Virtual Reality",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -6800,7 +6801,7 @@
   {
     "source": "yc",
     "name": "SubVysion",
-    "description": "We help contractors dig safer with 3D maps of underground…",
+    "description": "3D Maps of Underground Utilities",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0df819d609df4c8e15ebdc21bbc1f518d56e52d8.png",
     "website": "https://subvysion.com",
     "location": "San Francisco, CA, USA",
@@ -7432,7 +7433,7 @@
   {
     "source": "yc",
     "name": "Coasty",
-    "description": "The computer-use agent that doesn't break on real software. We will…",
+    "description": "Real World Evals and RL Environments for Computer-Use",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/49c533e34b6c887207ac5683dd8dfab22709a458.png",
     "website": "http://coasty.ai/",
     "location": "San Francisco, CA, USA",
@@ -7441,7 +7442,9 @@
     "tags": [
       "AIOps",
       "Developer Tools",
-      "Workflow Automation"
+      "Reinforcement Learning",
+      "Workflow Automation",
+      "Data Labeling"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
