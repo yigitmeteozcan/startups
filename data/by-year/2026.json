@@ -2487,8 +2487,8 @@
   {
     "source": "yc",
     "name": "Travo",
-    "description": "The data infrastructure for real estate",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba87f08924e71cb7f0f2cc408c3db98e48349bb9.png",
+    "description": "The brokerage that never sleeps",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aecc588fa69715d41e766cd5d4ea9ad32f10adff.png",
     "website": "https://www.travoai.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -2962,10 +2962,10 @@
     "subregion": "",
     "tags": [
       "Supply Chain and Logistics",
+      "Artificial Intelligence",
       "Logistics",
       "Supply Chain",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -4868,13 +4868,16 @@
   {
     "source": "yc",
     "name": "MouseCat",
-    "description": "AI-powered fraud investigations",
+    "description": "AI to fight financial crime",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/71e74a47767755403f90f1778ab3ab410649c82e.png",
     "website": "https://www.mousecat.ai",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Compliance",
+      "Fraud Detection"
+    ],
     "year": 2026,
     "program": "YC Winter 2026",
     "programSlugs": [
@@ -7344,7 +7347,7 @@
   {
     "source": "yc",
     "name": "Superset",
-    "description": "Building the platform for software factories",
+    "description": "Building self-improving software",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
     "website": "https://www.superset.sh/",
     "location": "San Francisco, CA, USA",
@@ -7352,10 +7355,10 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -7476,7 +7479,7 @@
   {
     "source": "yc",
     "name": "Libra Robotics",
-    "description": "Multi-robot collaboration for harsh environments on Earth.",
+    "description": "Robot squads for solar farm construction",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
     "website": "https://www.librabots.com/",
     "location": "San Francisco, CA, USA",
@@ -7485,11 +7488,11 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Hard Tech",
       "Robotics",
       "Construction",
-      "Sustainability",
-      "Energy",
-      "AI"
+      "Energy"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -7615,6 +7618,39 @@
       "Industrials",
       "Manufacturing and Robotics",
       "Industrial"
+    ],
+    "year": 2026,
+    "program": "YC Winter 2026",
+    "programSlugs": [
+      "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Remy AI",
+    "description": "Automating dexterous tasks in warehouses with AI-powered robots",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94f9d60cdf58d3c7fc724152a315ad834ec78eec.png",
+    "website": "https://www.tryremy.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Robotics",
+      "Logistics"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -8322,8 +8358,8 @@
   {
     "source": "yc",
     "name": "Tsenta",
-    "description": "We match you with jobs and apply automatically",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "description": "AI career agent that finds matching jobs and applies for you",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c0363e9662e7db43e0292d57332e9650487ebdbb.png",
     "website": "https://tsenta.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -9315,7 +9351,7 @@
     "source": "yc",
     "name": "Remix",
     "description": "Social media content auto-generated with your existing data",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c24a27022cd7cab3a1c917cac812b16b8f90267e.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bffb9485df98fbe3633ee9c96be404d770384326.png",
     "website": "https://remix.re",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -9867,14 +9903,20 @@
   },
   {
     "source": "yc",
-    "name": "WithAI",
+    "name": "Multiplier",
     "description": "Agent harnesses for asset managers",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/50c65da10294fd5bf94572379e6cd2c7b0a8302f.png",
-    "website": "https://withai.co",
-    "location": "San Francisco, CA, USA",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f7c1a5b7f1d0f6a85da016ccad1a5a0cec81c513.png",
+    "website": "https://multiplier.ai",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Productivity",
+      "Investing",
+      "Stocks"
+    ],
     "year": 2026,
     "program": "YC Spring 2026",
     "programSlugs": [
@@ -16219,7 +16261,7 @@
   {
     "source": "yc",
     "name": "Speko",
-    "description": "OpenRouter for voice AI",
+    "description": "A router for voice models. One key, every model.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
     "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
     "location": "San Francisco, CA, USA",
@@ -16393,10 +16435,10 @@
     "tags": [
       "Industrials",
       "Defense",
-      "Artificial Intelligence",
       "Hardware",
       "Drones",
-      "Swarm Robotics"
+      "Swarm Robotics",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17610,15 +17652,15 @@
   {
     "source": "yc",
     "name": "Standard Machines",
-    "description": "RL Environments For Chip Design",
+    "description": "Teaching AI to Design Chips",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20aa62fc0a930e7bfdba7047f185bab421afd2b2.png",
     "website": "https://standardmachines.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17850,9 +17892,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Consumer",
-      "Job and Career Services",
-      "Artificial Intelligence",
+      "Recruiting and Talent",
+      "AI",
       "Careers",
       "Conversational AI"
     ],
@@ -18108,7 +18149,7 @@
   {
     "source": "yc",
     "name": "Greypoint Industries",
-    "description": "Manufacturing the future of autonomous swarm warfare.",
+    "description": "Building drone swarms that hunt drone operators",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b0d5898f7b8fc2ee6fc19f6de3dae045123c7608.png",
     "website": "https://greypointindustries.com/",
     "location": "San Francisco, CA, USA",
@@ -18119,8 +18160,7 @@
       "Defense",
       "Hardware",
       "Robotics",
-      "Drones",
-      "Manufacturing"
+      "Drones"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18977,7 +19017,7 @@
     "name": "Denta",
     "description": "Full Stack Dental Insurance",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
-    "website": "https://trydenta.com",
+    "website": "https://denta.insure",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -20649,15 +20689,15 @@
   {
     "source": "yc",
     "name": "Locke",
-    "description": "Builders of the first AI-native government affairs firm.",
+    "description": "Locke is changing the way companies and governments work together.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ef45315b5a753af3ca5decc639d785a08eb897be.png",
     "website": "https://locke.inc",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "GovTech"
+      "GovTech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -20977,7 +21017,7 @@
   {
     "source": "yc",
     "name": "Nex",
-    "description": "Claude Cowork using any AI model, starting with GTM agents",
+    "description": "Claude Cowork for high-volume workflows, starting with GTM",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8f563ce5c802b34a01e9ad0f5641eb4bb092c6c.png",
     "website": "https://nex.ai",
     "location": "San Francisco, CA, USA",
@@ -21143,7 +21183,7 @@
     "source": "yc",
     "name": "Salem Robotics Inc",
     "description": "Deploying robots for inspections in hazardous spaces, like nuclear.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5e1ebb1f65dc65dbec9a58c2d2d505adc9e79d36.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fbf386dc8fa91340ed1cce1b80613f66e88ee12d.png",
     "website": "https://salemroboticsinc.com",
     "location": "Austin, TX, USA",
     "region": "United States of America",
@@ -21671,7 +21711,7 @@
   {
     "source": "yc",
     "name": "Qokedas",
-    "description": "Teaching models to decode the physical world",
+    "description": "Data for AI Science",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/db2b316be3ecf24cfbcfc09074b3e2b8a1f3bb05.png",
     "website": "https://qokedas.com/",
     "location": "San Francisco, CA, USA",
@@ -24515,42 +24555,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Mutaz Musa**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Luce Labs",
     "description": "Programmable expression of high-value plant compounds\n",
     "logo": "",
@@ -24576,6 +24580,42 @@
       },
       {
         "name": "**James Russell**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Mutaz Musa**",
         "role": "",
         "linkedin": ""
       }

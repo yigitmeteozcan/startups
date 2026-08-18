@@ -31531,17 +31531,18 @@
   },
   {
     "source": "yc",
-    "name": "CodeCanary",
-    "description": "Find and fix bugs with AI",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/936fc756bb90a52a74ebf1328770458b263316df.png",
-    "website": "https://www.codecanary.ai",
+    "name": "Bunting Labs",
+    "description": "AI Models for GIS",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/56779177435211428fc3b60658c5b05d7288f710.png",
+    "website": "https://buntinglabs.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Web Development",
-      "AI"
+      "Geographic Information System",
+      "Web Development"
     ],
     "year": 2022,
     "program": "YC Summer 2022",
@@ -38920,7 +38921,7 @@
   {
     "source": "yc",
     "name": "Gauge",
-    "description": "Your marketing agent for organic, paid, and AI search.",
+    "description": "Gauge helps you get recommended and implemented by agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8a1b74adcd6bfd4193d3eb1b786fb19988505e78.png",
     "website": "https://withgauge.com",
     "location": "San Francisco, CA, USA",
@@ -38928,9 +38929,9 @@
     "subregion": "",
     "tags": [
       "Marketing",
-      "Artificial Intelligence",
       "SaaS",
-      "Analytics"
+      "Analytics",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -48111,100 +48112,6 @@
   },
   {
     "source": "500",
-    "name": "Fatora",
-    "description": "All-in-one tool to go eCommerce and start selling",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
-    "website": "https://maktapp.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "SaaS"
-    ],
-    "year": 2020,
-    "program": "Dojo III",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Waleed Fatora",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saleh Al-Mansouri",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Plerk",
-    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
-    "website": "https://plerk.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "Marketplace",
-      "SaaS"
-    ],
-    "year": 2021,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Miguel Medina",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "José Antonio Martínez Quintero",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Angel Arias",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/company/plerk/",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "WhoAPI",
     "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
     "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
@@ -48304,6 +48211,56 @@
   },
   {
     "source": "500",
+    "name": "Plerk",
+    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
+    "website": "https://plerk.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "Marketplace",
+      "SaaS"
+    ],
+    "year": 2021,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Miguel Medina",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "José Antonio Martínez Quintero",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Angel Arias",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/plerk/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "Avocode",
     "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
     "logo": "",
@@ -48343,6 +48300,50 @@
       },
       {
         "name": "Hoang Anh Vu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Fatora",
+    "description": "All-in-one tool to go eCommerce and start selling",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
+    "website": "https://maktapp.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "SaaS"
+    ],
+    "year": 2020,
+    "program": "Dojo III",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Waleed Fatora",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saleh Al-Mansouri",
         "role": "",
         "linkedin": ""
       }

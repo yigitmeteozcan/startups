@@ -6049,10 +6049,10 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Generative AI",
       "Productivity",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "year": 2022,
     "program": "YC Summer 2022",
@@ -10051,6 +10051,40 @@
   },
   {
     "source": "yc",
+    "name": "Multiplier",
+    "description": "Agent harnesses for asset managers",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f7c1a5b7f1d0f6a85da016ccad1a5a0cec81c513.png",
+    "website": "https://multiplier.ai",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Productivity",
+      "Investing",
+      "Stocks"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Userlens",
     "description": "Agents that renew and expand six and seven-figure enterprise software",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/044f868ff4fda0ae90471c98a5ffee29018c984b.png",
@@ -12733,15 +12767,16 @@
   },
   {
     "source": "500",
-    "name": "TaskDock",
-    "description": "Developer of a solution that helps integrate applications such as Word, Excel, PowerPoint, and the web with mobile devices.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cdc7d061-d66c-4970-9259-01e7aadad4c2.png",
-    "website": "https://versly.com",
+    "name": "Gantto",
+    "description": "Provider of project management tool which uses gantt chart for visual representation. The company's platform enables users to create their own charts and presentations to show project progress and management.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7c0775fd-753e-451a-8e43-298f6732a114.png",
+    "website": "https://gantto.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Productivity"
+      "Productivity",
+      "HR Tech"
     ],
     "year": 2010,
     "program": "500 Global",
@@ -12754,7 +12789,60 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Erik Eccles",
+        "name": "Federico Barbagli",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Don.na",
+    "description": "Developer of an artificial intelligence software. The company is the creator of Donna, a mobile personal assistant that anticipates individual needs.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9f1a3ec7-bb48-4345-8105-1516e64269d4.png",
+    "website": "https://incredible.io",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Arshad Tayyeb",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Scott San Filippo",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Spence Murray",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kevin Cheng",
         "role": "",
         "linkedin": ""
       }
@@ -12849,54 +12937,6 @@
   },
   {
     "source": "500",
-    "name": "WorkLife",
-    "description": "Provider of a Web application to conduct meetings. The company provides a virtual meeting platform that lets co-workers collaborate in real time on things like documents, notes, agendas, and tasks.",
-    "logo": "",
-    "website": "https://worklife.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Productivity"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dave Bryand",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dave Kashen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Val Agostino",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "CE 140",
     "description": "Provider of database intended to help businesses discover, buy and use software. The company's database provides a platform for people to share information on productivity products and find what others are using, enabling companies to better discover software they should buy, with recommendations based on their current stack and what similar companies are using.",
     "logo": "",
@@ -12979,62 +13019,19 @@
   },
   {
     "source": "500",
-    "name": "Prodsmart",
-    "description": "Provider of a real-time tracking application designed to keep a track of the factory operations. The company's application offers a tracking system that eliminates paperwork, collect real-time data by using smartphones on the shop floor and keeps a track of the production flow, enabling factories to have a visibility over production and make decisions based on real-time data.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a233b2a3-8652-48c7-a076-6603f9487e8c.png",
-    "website": "https://prodsmart.com",
-    "location": "Portugal",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics",
-      "Productivity"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Samuel Martins",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Gonçalo Fortes",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Portugal"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Gantto",
-    "description": "Provider of project management tool which uses gantt chart for visual representation. The company's platform enables users to create their own charts and presentations to show project progress and management.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7c0775fd-753e-451a-8e43-298f6732a114.png",
-    "website": "https://gantto.com",
+    "name": "Avocode",
+    "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
+    "logo": "",
+    "website": "https://www.avocode.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
+      "Enterprise",
       "Productivity",
-      "HR Tech"
+      "SaaS"
     ],
-    "year": 2010,
+    "year": 2016,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -13045,7 +13042,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Federico Barbagli",
+        "name": "Anh Vu Hoang",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Martin Duris",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Petr Brzek",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Hoang Anh Vu",
         "role": "",
         "linkedin": ""
       }
@@ -13058,60 +13070,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Peoplise",
-    "description": "Provider of a cloud-based recruitment platform designed to help HR practitioners to utilize digital and analytical technologies. The company's platform to help in talent acquisition process and create the better teams for business with lower turn-over, higher performance, enabling users to target the candidates via employer-branded advertisements and video-enabled digital screening.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/54d61cd1-3439-4113-a7fd-c7ab41db5f89.png",
-    "website": "https://www.peoplise.com",
-    "location": "Turkey",
-    "region": "Middle East & Africa",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics",
-      "Productivity"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Cagatay Guney",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Guclu Ozenci",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mehmet Ali Ozenci",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Alexandra Bilici",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Turkey"
     }
   },
   {
@@ -13155,6 +13113,50 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Prodsmart",
+    "description": "Provider of a real-time tracking application designed to keep a track of the factory operations. The company's application offers a tracking system that eliminates paperwork, collect real-time data by using smartphones on the shop floor and keeps a track of the production flow, enabling factories to have a visibility over production and make decisions based on real-time data.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a233b2a3-8652-48c7-a076-6603f9487e8c.png",
+    "website": "https://prodsmart.com",
+    "location": "Portugal",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Productivity"
+    ],
+    "year": 2017,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Samuel Martins",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Gonçalo Fortes",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Portugal"
     }
   },
   {
@@ -13250,19 +13252,17 @@
   },
   {
     "source": "500",
-    "name": "Avocode",
-    "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
-    "logo": "",
-    "website": "https://www.avocode.com",
+    "name": "TaskDock",
+    "description": "Developer of a solution that helps integrate applications such as Word, Excel, PowerPoint, and the web with mobile devices.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cdc7d061-d66c-4970-9259-01e7aadad4c2.png",
+    "website": "https://versly.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Enterprise",
-      "Productivity",
-      "SaaS"
+      "Productivity"
     ],
-    "year": 2016,
+    "year": 2010,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -13273,22 +13273,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Anh Vu Hoang",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Martin Duris",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Petr Brzek",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Hoang Anh Vu",
+        "name": "Erik Eccles",
         "role": "",
         "linkedin": ""
       }
@@ -13305,17 +13290,18 @@
   },
   {
     "source": "500",
-    "name": "Don.na",
-    "description": "Developer of an artificial intelligence software. The company is the creator of Donna, a mobile personal assistant that anticipates individual needs.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9f1a3ec7-bb48-4345-8105-1516e64269d4.png",
-    "website": "https://incredible.io",
-    "location": "United States",
-    "region": "North America",
+    "name": "Peoplise",
+    "description": "Provider of a cloud-based recruitment platform designed to help HR practitioners to utilize digital and analytical technologies. The company's platform to help in talent acquisition process and create the better teams for business with lower turn-over, higher performance, enabling users to target the candidates via employer-branded advertisements and video-enabled digital screening.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/54d61cd1-3439-4113-a7fd-c7ab41db5f89.png",
+    "website": "https://www.peoplise.com",
+    "location": "Turkey",
+    "region": "Middle East & Africa",
     "subregion": "",
     "tags": [
+      "Data & Analytics",
       "Productivity"
     ],
-    "year": 2011,
+    "year": 2017,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -13326,22 +13312,70 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Arshad Tayyeb",
+        "name": "Cagatay Guney",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Scott San Filippo",
+        "name": "Guclu Ozenci",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Spence Murray",
+        "name": "Mehmet Ali Ozenci",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Kevin Cheng",
+        "name": "Alexandra Bilici",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Turkey"
+    }
+  },
+  {
+    "source": "500",
+    "name": "WorkLife",
+    "description": "Provider of a Web application to conduct meetings. The company provides a virtual meeting platform that lets co-workers collaborate in real time on things like documents, notes, agendas, and tasks.",
+    "logo": "",
+    "website": "https://worklife.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dave Bryand",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dave Kashen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Val Agostino",
         "role": "",
         "linkedin": ""
       }

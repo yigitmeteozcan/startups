@@ -18662,9 +18662,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -19340,9 +19340,9 @@
     "tags": [
       "Infrastructure",
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing",
-      "AI"
+      "Cloud Computing"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -21317,7 +21317,7 @@
   {
     "source": "yc",
     "name": "Speko",
-    "description": "OpenRouter for voice AI",
+    "description": "A router for voice models. One key, every model.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
     "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
     "location": "San Francisco, CA, USA",
@@ -22882,67 +22882,18 @@
   },
   {
     "source": "500",
-    "name": "Yaydoo",
-    "description": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ac40d0a-657b-4c41-820e-18ec93aa6afd.png",
-    "website": "https://yaydoo.com",
-    "location": "Mexico",
-    "region": "Latin America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "Infrastructure"
-    ],
-    "year": 2016,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Roberto Flores Riveroll",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Guillermo Treviño",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sergio Almaguer Ramirez",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Mexico"
-    }
-  },
-  {
-    "source": "500",
-    "name": "CStorePro",
-    "description": "Provider of a cloud-based operations and inventory management software designed to manage back office work. The company's software offers live data to monitor sales, void transactions, void tickets, refunds, no sale and manual ring ups, all in real-time, enabling store owners to protect their data with full safeguards according to industry standards and best practices used by banks and financial institutions and control their stores from anywhere.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c00be0e-3744-46f1-b44e-e425f418162d.png",
-    "website": "https://cstorepro.com",
+    "name": "Lettuce",
+    "description": "Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user's business to capture, track and process orders anywhere in real time.",
+    "logo": "",
+    "website": "https://lettuceapps.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Data & Analytics",
+      "Content",
       "Infrastructure"
     ],
-    "year": 2015,
+    "year": 2012,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -22953,7 +22904,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Arif Momin",
+        "name": "Frank Jones",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Raad Mobrem",
         "role": "",
         "linkedin": ""
       }
@@ -22970,17 +22926,18 @@
   },
   {
     "source": "500",
-    "name": "TableApp",
-    "description": "Provider of an online table booking application designed to make restaurant reservations quicker and easier. The company's online table booking application assists, reviews and manages reservations all-in-one, enablings users to locate, assess and reserve a table instantly with instant confirmation.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f01a1497-2382-476b-838a-7d48f6128d6d.png",
-    "website": "https://tableapp.com",
-    "location": "Malaysia",
-    "region": "South Asia",
+    "name": "Salido",
+    "description": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a33858b2-346a-45e2-bec3-e406b8d74dad.png",
+    "website": "https://salido.com",
+    "location": "United States",
+    "region": "North America",
     "subregion": "",
     "tags": [
+      "Data & Analytics",
       "Infrastructure"
     ],
-    "year": 2015,
+    "year": 2014,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -22991,7 +22948,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Benson Chang",
+        "name": "Casey Cohen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "David Guilfoyle",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matthew Gaines",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Shu Chowdhury",
         "role": "",
         "linkedin": ""
       }
@@ -23003,7 +22975,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Malaysia"
+      "country": "United States"
     }
   },
   {
@@ -23101,6 +23073,94 @@
   },
   {
     "source": "500",
+    "name": "CStorePro",
+    "description": "Provider of a cloud-based operations and inventory management software designed to manage back office work. The company's software offers live data to monitor sales, void transactions, void tickets, refunds, no sale and manual ring ups, all in real-time, enabling store owners to protect their data with full safeguards according to industry standards and best practices used by banks and financial institutions and control their stores from anywhere.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c00be0e-3744-46f1-b44e-e425f418162d.png",
+    "website": "https://cstorepro.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Infrastructure"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Arif Momin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Yaydoo",
+    "description": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ac40d0a-657b-4c41-820e-18ec93aa6afd.png",
+    "website": "https://yaydoo.com",
+    "location": "Mexico",
+    "region": "Latin America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "Infrastructure"
+    ],
+    "year": 2016,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Roberto Flores Riveroll",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Guillermo Treviño",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sergio Almaguer Ramirez",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Mexico"
+    }
+  },
+  {
+    "source": "500",
     "name": "Shortcut",
     "description": "Developer of an online platform for wholesalers to manage online orders. The company provides a platform that enables any wholesaler to manage B2B transactions, inventory and create digital catalogs.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bc4e169-72c8-4ab6-a471-e24524302770.png",
@@ -23139,18 +23199,17 @@
   },
   {
     "source": "500",
-    "name": "Salido",
-    "description": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a33858b2-346a-45e2-bec3-e406b8d74dad.png",
-    "website": "https://salido.com",
-    "location": "United States",
-    "region": "North America",
+    "name": "TableApp",
+    "description": "Provider of an online table booking application designed to make restaurant reservations quicker and easier. The company's online table booking application assists, reviews and manages reservations all-in-one, enablings users to locate, assess and reserve a table instantly with instant confirmation.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f01a1497-2382-476b-838a-7d48f6128d6d.png",
+    "website": "https://tableapp.com",
+    "location": "Malaysia",
+    "region": "South Asia",
     "subregion": "",
     "tags": [
-      "Data & Analytics",
       "Infrastructure"
     ],
-    "year": 2014,
+    "year": 2015,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -23161,22 +23220,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Casey Cohen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "David Guilfoyle",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Matthew Gaines",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Shu Chowdhury",
+        "name": "Benson Chang",
         "role": "",
         "linkedin": ""
       }
@@ -23188,51 +23232,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Lettuce",
-    "description": "Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user's business to capture, track and process orders anywhere in real time.",
-    "logo": "",
-    "website": "https://lettuceapps.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Content",
-      "Infrastructure"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Frank Jones",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Raad Mobrem",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
+      "country": "Malaysia"
     }
   }
 ]
