@@ -9021,10 +9021,10 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Artificial Intelligence",
       "Machine Learning",
       "Marketplace",
-      "Social"
+      "Social",
+      "AI"
     ],
     "year": 2023,
     "program": "YC Winter 2023",
@@ -9888,6 +9888,38 @@
     "program": "YC Fall 2025",
     "programSlugs": [
       "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Amorphic Labs",
+    "description": "Software Commerce Infrastructure for Agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d15b721a8d0e299e74b3561f196bb056b93f1fd9.png",
+    "website": "https://www.amorphiclabs.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Marketplace"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -12107,50 +12139,6 @@
   },
   {
     "source": "500",
-    "name": "Seekster",
-    "description": "Seekster is Bangkok's trusted marketplace for services ranging from Cleaning services, air-conditioning technician services, Big Cleaning, etc.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7a5e4c40-a5ce-4e59-97d9-d0e04127a9f7.png",
-    "website": "https://seekster.co",
-    "location": "Thailand",
-    "region": "South Asia",
-    "subregion": "",
-    "tags": [
-      "Marketplace",
-      "B2B Marketplaces"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Sahib Anandsongvit",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Chatchanart Jiratornsirikul",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Thailand"
-    }
-  },
-  {
-    "source": "500",
     "name": "Alba",
     "description": "Alba connects families with caregivers in Latin America and provides peace of mind in every step of the caring process. Through its platforms, Alba connects families with caregivers of their social networks, allowing parents to book caregivers just as if their best friend would have recommended it. After booking, parents receive live updates of what’s happening at home and caregivers receive 24/7 support, ensuring peace of mind in every step of the process",
     "logo": "",
@@ -12206,6 +12194,50 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Seekster",
+    "description": "Seekster is Bangkok's trusted marketplace for services ranging from Cleaning services, air-conditioning technician services, Big Cleaning, etc.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7a5e4c40-a5ce-4e59-97d9-d0e04127a9f7.png",
+    "website": "https://seekster.co",
+    "location": "Thailand",
+    "region": "South Asia",
+    "subregion": "",
+    "tags": [
+      "Marketplace",
+      "B2B Marketplaces"
+    ],
+    "year": 2017,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sahib Anandsongvit",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Chatchanart Jiratornsirikul",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Thailand"
     }
   }
 ]

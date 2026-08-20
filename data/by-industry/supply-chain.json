@@ -2677,40 +2677,6 @@
   },
   {
     "source": "yc",
-    "name": "MarkIt",
-    "description": "AI Agents for Trade Compliance - Saving Companies from Tariffs",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7e5614f0ff0430254c23e0743e5e0490fb5f826c.png",
-    "website": "https://markittrade.com",
-    "location": "Atlanta, GA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Supply Chain and Logistics",
-      "Workflow Automation",
-      "Logistics",
-      "Supply Chain",
-      "AI"
-    ],
-    "year": 2025,
-    "program": "YC Fall 2025",
-    "programSlugs": [
-      "yc-fall-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Haladir",
     "description": "Operational Superintelligence for Global Logistics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
@@ -2887,7 +2853,7 @@
     "source": "yc",
     "name": "Tarifflo Inc.",
     "description": "Supply chain compliance and cost savings",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/baaf31859f77b68dff4e403722868aa21a91a23d.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5f3acf13919479f5ac3643cb85da39ab63c49903.png",
     "website": "https://www.tarifflo.com",
     "location": "Salt Lake City, UT, USA",
     "region": "United States of America",
@@ -2951,7 +2917,7 @@
   {
     "source": "yc",
     "name": "Derya",
-    "description": "AI-Native Logistics Office",
+    "description": "Agentic Supply Chain Automations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e0512b453e994207fdf56052eb221e687d29dc51.png",
     "website": "http://usederya.com",
     "location": "San Francisco, CA, USA",
@@ -2960,10 +2926,10 @@
     "tags": [
       "Supply Chain and Logistics",
       "AIOps",
-      "Digital Freight Brokerage",
-      "Finance",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "Procurement",
+      "Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -5605,6 +5571,44 @@
   },
   {
     "source": "500",
+    "name": "Whiplash Merchandising",
+    "description": "Developer of an e-commerce software designed to offer order management and warehouse management services. The company's e-commerce software offers integration, order management system (OMS) as well as warehouse management system (WMS) capabilities to emerging brands along with real-time visibility and OMS capabilities, labor management and order fulfillment services, enabling companies to enhance their operations with expanded customer offerings and responsiveness.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bdd3580e-33eb-415a-ac50-8c7f0f9ad0d0.png",
+    "website": "https://whiplashmerch.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Supply Chain"
+    ],
+    "year": 2015,
+    "program": "GA 15",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "James Marks",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "Deal Connect",
     "description": "Developing a logistics optimization service for scrap metal industry",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e8bc9ef3-000b-49fb-8c63-be574e579258.png",
@@ -5697,44 +5701,6 @@
   },
   {
     "source": "500",
-    "name": "TaskRabbit",
-    "description": "Provider of an online mobile marketplace designed to help individuals and small businesses outsource their tasks and deliveries. The company's online mobile marketplace matches freelance labor with local demand, enabling users to find immediate help with everyday tasks, including cleaning, moving, delivery and handyman work.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cc9216ee-dcda-4c1c-bfb2-88900c47c9c7.png",
-    "website": "https://taskrabbit.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Supply Chain"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Leah Busque",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Tradegecko",
     "description": "Provider of a cloud-based inventory management software-as-a-service (SaaS) platform intended to automate and reduce workflow inefficiencies. The company's platform integrates front-end e-commerce and POS software with back-end accounting and shipping software, enabling SMBs to manage their inventory efficiently, process orders quickly and change the pricing of their products dynamically.",
     "logo": "",
@@ -5779,49 +5745,6 @@
     },
     "extra": {
       "country": "Singapore"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Kinnek",
-    "description": "Operator of an online marketplace for high-cost purchases designed to find suppliers and manage purchasing. The company's online marketplace for high-cost purchases offers a curated way to research equipment or supplies, enabling businesses to seamlessly connect with suppliers.",
-    "logo": "",
-    "website": "https://kinnek.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Supply Chain"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Rui Ma",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Karthik Sridharan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
     }
   },
   {
@@ -5879,6 +5802,44 @@
   },
   {
     "source": "500",
+    "name": "TaskRabbit",
+    "description": "Provider of an online mobile marketplace designed to help individuals and small businesses outsource their tasks and deliveries. The company's online mobile marketplace matches freelance labor with local demand, enabling users to find immediate help with everyday tasks, including cleaning, moving, delivery and handyman work.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cc9216ee-dcda-4c1c-bfb2-88900c47c9c7.png",
+    "website": "https://taskrabbit.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Supply Chain"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Leah Busque",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "Dsco",
     "description": "Provider of a cloud-based drop-shipping platform designed to provide product push and predictive supply chain, models. The company's online platform integrates and manages drop ship partners, inventory, data, and orders by handling the exchange of data through a single connection and integration point, helping trading partners streamline operations, generate more sales, and fulfill more orders using the virtual supply chain.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fb8ecd28-9afa-4f9a-b4de-48ad53bd2cac.png",
@@ -5917,18 +5878,18 @@
   },
   {
     "source": "500",
-    "name": "Whiplash Merchandising",
-    "description": "Developer of an e-commerce software designed to offer order management and warehouse management services. The company's e-commerce software offers integration, order management system (OMS) as well as warehouse management system (WMS) capabilities to emerging brands along with real-time visibility and OMS capabilities, labor management and order fulfillment services, enabling companies to enhance their operations with expanded customer offerings and responsiveness.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bdd3580e-33eb-415a-ac50-8c7f0f9ad0d0.png",
-    "website": "https://whiplashmerch.com",
+    "name": "Kinnek",
+    "description": "Operator of an online marketplace for high-cost purchases designed to find suppliers and manage purchasing. The company's online marketplace for high-cost purchases offers a curated way to research equipment or supplies, enabling businesses to seamlessly connect with suppliers.",
+    "logo": "",
+    "website": "https://kinnek.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Supply Chain"
     ],
-    "year": 2015,
-    "program": "GA 15",
+    "year": 2013,
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -5938,7 +5899,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "James Marks",
+        "name": "Rui Ma",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Karthik Sridharan",
         "role": "",
         "linkedin": ""
       }
@@ -5951,59 +5917,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Erply",
-    "description": "Provider of cloud-based point of sale and inventory management software designed to help retailers to focus more on business and less on IT. The company's point of sale and inventory management software handles data across physical shops, online stores and offices along with real-time dashboards with relevant data, enabling clients to use a cost effective and technologically superior way for handing centralized management experience.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7225904b-18c3-471f-9499-8749cf82e26d.png",
-    "website": "https://erply.com",
-    "location": "United Kingdom",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Supply Chain"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alari Koppelmaa",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kris Hiiemaa",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kristian Hiiemaa",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kristjan Randma",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United Kingdom"
     }
   },
   {
@@ -6085,6 +5998,59 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Erply",
+    "description": "Provider of cloud-based point of sale and inventory management software designed to help retailers to focus more on business and less on IT. The company's point of sale and inventory management software handles data across physical shops, online stores and offices along with real-time dashboards with relevant data, enabling clients to use a cost effective and technologically superior way for handing centralized management experience.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7225904b-18c3-471f-9499-8749cf82e26d.png",
+    "website": "https://erply.com",
+    "location": "United Kingdom",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Supply Chain"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alari Koppelmaa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kris Hiiemaa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kristian Hiiemaa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kristjan Randma",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom"
     }
   },
   {
