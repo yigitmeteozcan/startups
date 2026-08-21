@@ -98,7 +98,7 @@
   {
     "source": "yc",
     "name": "OS3",
-    "description": "Intelligence and Machines for Physical Labor",
+    "description": "Full Stack Robotics: US-Built Commercial Robots & Video Action Models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
     "website": "https://os3robotics.com/",
     "location": "San Francisco, CA, USA",
@@ -107,9 +107,9 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
       "Hardware",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -163,7 +163,7 @@
   {
     "source": "yc",
     "name": "Tensr",
-    "description": "Fully autonomous robotic factories",
+    "description": "Robotic factories that build robots.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7f3743327b1fc85ded6caddbd532e0c600eb2cb0.png",
     "website": "https://tensr.com/",
     "location": "San Francisco, CA, USA",
@@ -264,16 +264,17 @@
   {
     "source": "yc",
     "name": "TrustAI",
-    "description": "Continuous compliance and governance for agents on sensitive systems",
+    "description": "The cheapest, fastest lightweight inference. ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
     "website": "https://trytrust.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Security",
-      "Compliance",
-      "AI"
+      "Infrastructure",
+      "Artificial Intelligence",
+      "Smart Packaging",
+      "Open Source"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -394,7 +395,7 @@
   {
     "source": "yc",
     "name": "Archal",
-    "description": "The improvement loop for AI agents",
+    "description": "API sandboxes, built for AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d5457b412312bd26ecc72ccead99d16248cd087a.png",
     "website": "https://www.archal.ai/",
     "location": "San Francisco, CA, USA",
@@ -402,9 +403,9 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Developer Tools",
-      "API"
+      "API",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -527,7 +528,7 @@
   {
     "source": "yc",
     "name": "Meteoric",
-    "description": "Drones that clear clouds over solar farms",
+    "description": "Drones that clear clouds over solar farms and weaken hurricanes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d2429e5b744af3176c949e0f696004529640d5c5.png",
     "website": "https://meteoric.earth/",
     "location": "San Francisco, CA, USA",
@@ -1022,7 +1023,7 @@
   {
     "source": "yc",
     "name": "Marker",
-    "description": "AI-native consultancy rebuilding businesses with agents",
+    "description": "Platform and FDEs for rebuilding businesses agent-first",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/93931f5e81e962ad8d0a22dae5ec988c5226fb07.png",
     "website": "https://onmarker.com",
     "location": "San Francisco, CA, USA; Remote",
@@ -1812,7 +1813,7 @@
   {
     "source": "yc",
     "name": "Shielded",
-    "description": "We automate supply chain and financial risk management ",
+    "description": "Decision intelligence for the world’s largest supply chains",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eec883dcf84a87963c1d7874cef470c16c9dad19.png",
     "website": "https://www.shieldedglobal.com/",
     "location": "San Francisco, CA, USA",
@@ -2012,14 +2013,14 @@
     "description": "Building Mythos for everyone",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c60d9cd12e8c1b315e07ee45555c24b5f74d5654.png",
     "website": "https://nebusec.ai",
-    "location": "Vancouver, WA, USA; Remote",
+    "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Security",
-      "Artificial Intelligence",
       "Cybersecurity",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -2307,7 +2308,7 @@
   {
     "source": "yc",
     "name": "Synapse Semiconductor",
-    "description": "Frontier semiconductor research lab reimagining compute and vision…",
+    "description": "New semiconductors that merge compute and vision",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/37650fbbc73ea1ea0b895fd819e93836825d1520.png",
     "website": "https://synapsesemi.org",
     "location": "Durham, NC, USA",
@@ -2315,11 +2316,11 @@
     "subregion": "",
     "tags": [
       "Industrials",
+      "Artificial Intelligence",
       "Edge Computing Semiconductors",
       "Hard Tech",
       "Robotics",
-      "Defense",
-      "AI"
+      "Defense"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -2482,10 +2483,10 @@
     "subregion": "",
     "tags": [
       "Healthcare",
-      "Artificial Intelligence",
       "Health Tech",
       "Insurance",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -2982,7 +2983,7 @@
     "tags": [
       "Consumer",
       "Content",
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -3268,40 +3269,6 @@
   },
   {
     "source": "yc",
-    "name": "Standard Medical",
-    "description": "A primary care clinic where AI earns clinical autonomy",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/390777dec2649a1274798e8d8b3900081aeaadad.png",
-    "website": "https://standardmedical.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Healthcare",
-      "Health Tech",
-      "Telehealth",
-      "Digital Health",
-      "Primary Care"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Codag",
     "description": "Log compression for agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0a9882f0ac224b2b32ff0636a2c28986acf45c0d.png",
@@ -3475,10 +3442,10 @@
     "subregion": "",
     "tags": [
       "Productivity",
-      "Artificial Intelligence",
       "SaaS",
       "Enterprise",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -4421,41 +4388,6 @@
   },
   {
     "source": "yc",
-    "name": "Orvixo",
-    "description": "AI advanced planning and optimisation for manufacturers.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ddba7253c3011655d54f0092475cf8b1618333c9.png",
-    "website": "https://www.orvixo.ai/",
-    "location": "London, England, United Kingdom",
-    "region": "United Kingdom",
-    "subregion": "",
-    "tags": [
-      "Industrials",
-      "Manufacturing and Robotics",
-      "Artificial Intelligence",
-      "Robotics",
-      "Manufacturing",
-      "Operations"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Whitespace",
     "description": "AI Operating System for Wholesale Distributors",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d7ab9b902afa3fe0a37b3622022557a9cd82d082.png",
@@ -4720,7 +4652,7 @@
   {
     "source": "yc",
     "name": "Qlo",
-    "description": "AI that automates underwriting for commercial insurance carriers",
+    "description": "AI agents that run commercial underwriting",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6bdf97a8fbe4a8a51a745ce366d9c6c2bfc6d75c.png",
     "website": "https://www.getqlo.com/",
     "location": "San Francisco, CA, USA",
@@ -4729,8 +4661,8 @@
     "tags": [
       "Fintech",
       "Insurance",
-      "SaaS",
-      "Enterprise"
+      "Enterprise Software",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -4784,15 +4716,15 @@
   {
     "source": "yc",
     "name": "Daqstra",
-    "description": "AI-native orchestration for physical R&D testing",
+    "description": "AI-native test infrastructure for hardware companies",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dad9cd6f305ec9c8a219f22ee7d83e68f227d245.png",
     "website": "https://www.daqstra.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Hard Tech",
-      "AI"
+      "Artificial Intelligence",
+      "Hard Tech"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -5197,6 +5129,8 @@
     "tags": [
       "Fintech",
       "Insurance",
+      "Artificial Intelligence",
+      "Healthcare",
       "Health Insurance"
     ],
     "year": 2026,
@@ -5353,7 +5287,7 @@
   {
     "source": "yc",
     "name": "Pacific",
-    "description": "Mass-producing and deploying micro data centers for Earth and Space",
+    "description": "Mass-producing and financing micro data center incredibly quickly.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/196624bfab919b6dd989cb601af1771954cb562e.png",
     "website": "https://gopacific.ai/",
     "location": "London, England, United Kingdom",
@@ -5854,7 +5788,7 @@
   {
     "source": "yc",
     "name": "Agnost AI",
-    "description": "Product analytics for AI Agents",
+    "description": "Product Analytics for Conversational Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dbe9d7776c9e4cb65614fb4e463059ba0e869b12.png",
     "website": "https://agnost.ai",
     "location": "San Francisco, CA, USA",
@@ -5862,9 +5796,9 @@
     "subregion": "",
     "tags": [
       "Analytics",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -5982,7 +5916,7 @@
   {
     "source": "yc",
     "name": "Levocred AI",
-    "description": "AI for credit funds, fintechs and banks",
+    "description": "The AI analysts for lenders",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4211252c17df7b0a89dc9c36ce49996bef59474d.png",
     "website": "https://levocred.com/",
     "location": "San Francisco, CA, USA",
@@ -6276,7 +6210,7 @@
   {
     "source": "yc",
     "name": "Lamb Labs",
-    "description": "World's fastest AI models",
+    "description": "Lightning fast chips with hardcoded AI models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c5ba47505a760393e85b91acdb4b3933cf8df0a7.png",
     "website": "http://lamb-labs.com",
     "location": "London, England, United Kingdom",
@@ -6760,7 +6694,7 @@
   {
     "source": "yc",
     "name": "Hebbian Robotics",
-    "description": "APIs for searching and analyzing Physical AI data at scale",
+    "description": "Open source SDK for building quality control pipelines for Physical AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e7272f21860060f8aa33bb297af6d18fab5ffdc.png",
     "website": "https://hebbianrobotics.com/",
     "location": "San Francisco, CA, USA",
@@ -7160,7 +7094,7 @@
   {
     "source": "yc",
     "name": "OneCLI",
-    "description": "The Identity Gateway for AI Agents",
+    "description": "Give every employee a secured, sandboxed pro assistant agent",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
     "website": "https://onecli.sh",
     "location": "San Francisco, CA, USA",
@@ -7168,9 +7102,9 @@
     "subregion": "",
     "tags": [
       "Security",
-      "Artificial Intelligence",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -7405,8 +7339,8 @@
     "tags": [
       "Healthcare",
       "Healthcare Services",
-      "Mental Health",
-      "AI"
+      "Artificial Intelligence",
+      "Mental Health"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -7627,18 +7561,19 @@
   },
   {
     "source": "yc",
-    "name": "Coasty",
+    "name": "CoArena",
     "description": "Real World Evals and RL Environments for Computer-Use",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/49c533e34b6c887207ac5683dd8dfab22709a458.png",
-    "website": "http://coasty.ai/",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1543623e6506eaf893b1c43e614688a6b2a32bda.png",
+    "website": "http://coarena.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Engineering, Product and Design",
       "AIOps",
-      "Developer Tools",
+      "Artificial Intelligence",
+      "Machine Learning",
       "Reinforcement Learning",
-      "Workflow Automation",
       "Data Labeling"
     ],
     "year": 2026,

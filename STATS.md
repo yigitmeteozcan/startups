@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-20._
+_Auto-generated from the dataset on 2026-08-21._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,128** |
+| Total companies | **21,127** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2766** |
 | 🌱 B Corps | **29** |
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-08-20._
 
 | Source | Companies |
 |---|---|
-| yc | 6,189 |
+| yc | 6,187 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
-| antler | 1,068 |
+| antler | 1,069 |
 | alchemist | 517 |
 | ef | 499 |
 
@@ -45,8 +45,8 @@ _Auto-generated from the dataset on 2026-08-20._
 2022  ███████████████████████████░ 1457
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
-2025  ████████████████████░░░░░░░░ 1046
-2026  ██████████████░░░░░░░░░░░░░░ 757
+2025  ████████████████████░░░░░░░░ 1045
+2026  ██████████████░░░░░░░░░░░░░░ 756
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-08-20._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1401
-3. **Antler** — 1068
+3. **Antler** — 1069
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -97,26 +97,26 @@ _Auto-generated from the dataset on 2026-08-20._
 10. **YC Winter 2024** — 248
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
-13. **YC Summer 2026** — 236
-14. **YC Summer 2022** — 234
+13. **YC Summer 2022** — 234
+14. **YC Summer 2026** — 234
 15. **YC Winter 2020** — 229
 
 ## Top industries
 1. **Fintech** — 2479
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1423
+3. **SaaS** — 1422
 4. **Mobile** — 1141
 5. **Consumer** — 1066
-6. **Artificial Intelligence** — 974
-7. **AI** — 881
-8. **Healthcare** — 818
-9. **Developer Tools** — 709
-10. **Infrastructure** — 689
+6. **Artificial Intelligence** — 976
+7. **AI** — 883
+8. **Healthcare** — 816
+9. **Developer Tools** — 708
+10. **Infrastructure** — 690
 11. **Health** — 663
 12. **Industrials** — 625
-13. **Engineering, Product and Design** — 615
+13. **Engineering, Product and Design** — 617
 14. **Insurtech** — 513
-15. **B2B Software** — 489
+15. **B2B Software** — 490
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
 18. **Healthtech** — 440
@@ -132,9 +132,9 @@ _Auto-generated from the dataset on 2026-08-20._
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 216
+9. **United Kingdom** — 215
 10. **Canada** — 213
-11. **India** — 209
+11. **India** — 210
 12. **Latin America** — 163
 13. **Middle East** — 159
 14. **Unspecified** — 119
@@ -187,27 +187,27 @@ _Auto-generated from the dataset on 2026-08-20._
 61. **South Africa** — 3
 62. **New Zealand** — 3
 63. **Estonia** — 3
-64. **Romania** — 3
-65. **East Asia** — 3
-66. **Japan** — 2
-67. **Portugal** — 2
-68. **Senegal** — 2
-69. **Greece** — 2
-70. **Ukraine** — 2
-71. **Croatia** — 2
-72. **Bulgaria** — 2
-73. **Georgia** — 2
-74. **Costa Rica** — 2
-75. **Thailand** — 1
-76. **Nepal** — 1
-77. **Bangladesh** — 1
-78. **Bermuda** — 1
-79. **Russia** — 1
-80. **Hungary** — 1
-81. **Latvia** — 1
-82. **Puerto Rico** — 1
-83. **Iceland** — 1
-84. **Czechia** — 1
+64. **East Asia** — 3
+65. **Japan** — 2
+66. **Portugal** — 2
+67. **Senegal** — 2
+68. **Ukraine** — 2
+69. **Croatia** — 2
+70. **Romania** — 2
+71. **Bulgaria** — 2
+72. **Georgia** — 2
+73. **Costa Rica** — 2
+74. **Thailand** — 1
+75. **Nepal** — 1
+76. **Bangladesh** — 1
+77. **Bermuda** — 1
+78. **Russia** — 1
+79. **Hungary** — 1
+80. **Latvia** — 1
+81. **Puerto Rico** — 1
+82. **Iceland** — 1
+83. **Czechia** — 1
+84. **Greece** — 1
 85. **Iraq** — 1
 86. **Kyrgyzstan** — 1
 87. **Tanzania** — 1
