@@ -7230,9 +7230,9 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Artificial Intelligence",
       "Developer Tools",
-      "API",
-      "AI"
+      "API"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -7382,15 +7382,15 @@
   {
     "source": "yc",
     "name": "Datoric",
-    "description": "Security-first training data",
+    "description": "Security-first training data your next model needs",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
     "website": "https://www.datoric.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Data Labeling",
+      "AI",
       "ML"
     ],
     "year": 2026,
@@ -7480,7 +7480,7 @@
   {
     "source": "yc",
     "name": "Libra Robotics",
-    "description": "Robot squads for solar farm construction",
+    "description": "Robotic crews for large-scale infrastructure construction",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
     "website": "https://www.librabots.com/",
     "location": "San Francisco, CA, USA",
@@ -7489,11 +7489,11 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
       "Construction",
-      "Energy"
+      "Energy",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -8292,7 +8292,7 @@
   {
     "source": "yc",
     "name": "Atlia",
-    "description": "The first AI-native property management company",
+    "description": "The AI-native property management company",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7a4b2fb5aaa99f5f795d2aa898508681eae26222.png",
     "website": "https://www.atlia.com",
     "location": "San Francisco, CA, USA",
@@ -8301,9 +8301,9 @@
     "tags": [
       "Real Estate and Construction",
       "Housing and Real Estate",
+      "Artificial Intelligence",
       "Real Estate",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -9412,16 +9412,16 @@
   {
     "source": "yc",
     "name": "Litmus",
-    "description": "Run an async work trial on every engineer you interview.",
+    "description": "Evals for humans",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4a9f14022a002a449869ff376c950e1a9966d580.png",
     "website": "https://litmushiring.com/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Recruiting and Talent",
       "Recruiting",
-      "Talent Acquisition"
+      "Data Engineering",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -11442,7 +11442,7 @@
   {
     "source": "yc",
     "name": "Arga Labs",
-    "description": "Real-world sandboxes to test agents and agent-facing software",
+    "description": "Real-world sandboxes to test and train AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
     "website": "https://www.argalabs.com/",
     "location": "San Francisco, CA, USA",
@@ -12338,7 +12338,7 @@
   {
     "source": "yc",
     "name": "Alchemize",
-    "description": "Code Review Platform that Simplifies PRs to Ship Faster",
+    "description": "Ship more code with confidence",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f82ae07ea418af65738a5555df328a4907b4da13.png",
     "website": "https://tryalchemize.com",
     "location": "San Francisco, CA, USA",
@@ -13957,7 +13957,7 @@
     "source": "yc",
     "name": "Expanse",
     "description": "Unlock wasted GPU capacity.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/26ca5cac6157441dd12d0352f7d3fd4a77c4c39a.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/af6cfe1f95da6fb2bfc1789fb605ed70b77da3b4.png",
     "website": "https://expanse.sh",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -15308,6 +15308,38 @@
   },
   {
     "source": "yc",
+    "name": "Edgerun",
+    "description": "Military exoskeletons",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8fb84bc8b7f8d02b776dec7685bbaf102fdadf1c.png",
+    "website": "https://edgerun.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Defense",
+      "Robotics"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "RightNow",
     "description": "Enabling Model-Hardware Co-Design at Scale",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/59b2e02a314037738d9f32192f83e8bd442be246.png",
@@ -15371,7 +15403,7 @@
   {
     "source": "yc",
     "name": "Kebra",
-    "description": "Making the field queryable.",
+    "description": "Making the field queryable",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2e21f70e5b9032365254edae847e8dcbc9ffddb3.png",
     "website": "https://kebra.com",
     "location": "San Francisco, CA, USA",
@@ -15379,8 +15411,8 @@
     "subregion": "",
     "tags": [
       "Operations",
-      "Home Services",
-      "AI"
+      "Artificial Intelligence",
+      "Home Services"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16070,9 +16102,9 @@
     "subregion": "",
     "tags": [
       "Finance and Accounting",
+      "Artificial Intelligence",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16429,7 +16461,7 @@
   {
     "source": "yc",
     "name": "Jcode",
-    "description": "20x more coding agents, 20x more productivity",
+    "description": "The harness company",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0d863d3cf6091c132bb3f8d22d57b3597bc971de.png",
     "website": "https://jcode.sh/",
     "location": "San Francisco, CA, USA",
@@ -16437,8 +16469,8 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16469,10 +16501,10 @@
     "subregion": "",
     "tags": [
       "Healthcare",
+      "Artificial Intelligence",
       "Health Tech",
       "Insurance",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16664,7 +16696,7 @@
     "source": "yc",
     "name": "Floracene",
     "description": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c309f42cb161ba287e4c1f2d4a89dc2a2ab1e03b.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4083ec47b697a352249164c76574e273a5fa75d7.png",
     "website": "https://www.floracene.com/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
@@ -16873,8 +16905,7 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Service Mesh",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17094,8 +17125,8 @@
     "source": "yc",
     "name": "Audun",
     "description": "AI-native debt collection",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d28813053904611d6b5fc0391c683bdbe842a4ad.png",
-    "website": "https://www.getaudun.com/",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e7da249d05c3b78e6493d6546cc70a78c450280f.png",
+    "website": "https://audun.co",
     "location": "Oslo, Oslo, Norway",
     "region": "Norway",
     "subregion": "",
@@ -18647,8 +18678,8 @@
     "tags": [
       "Fintech",
       "Insurance",
-      "Enterprise Software",
-      "AI"
+      "Artificial Intelligence",
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18702,15 +18733,15 @@
   {
     "source": "yc",
     "name": "Daqstra",
-    "description": "AI-native test infrastructure for hardware companies",
+    "description": "AI-native test infrastructure to accelerate hardware companies.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dad9cd6f305ec9c8a219f22ee7d83e68f227d245.png",
     "website": "https://www.daqstra.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "Hard Tech"
+      "Hard Tech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18799,7 +18830,7 @@
   {
     "source": "yc",
     "name": "Neuromorphic",
-    "description": "Building embodiment agnostic robot brains.",
+    "description": "Building robots to automate wetlabs",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/470f3b57cd018aad9c127e64e5b952d32a64d435.png",
     "website": "https://www.neuromorphic.vision/",
     "location": "San Francisco, CA, USA",
@@ -19281,11 +19312,11 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Artificial Intelligence",
       "Fintech",
       "Robotics",
       "Space Exploration",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -19510,17 +19541,17 @@
   {
     "source": "yc",
     "name": "Familiar",
-    "description": "World Models for Accurate Humans.",
+    "description": "World Models for Accurate Humans. Real-Time Dubbing First.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c65a4389d81076a7a08b8c3d3c22a2bf1c54e49b.png",
     "website": "https://thefamiliarlab.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "Toronto, ON, Canada",
+    "region": "Canada",
     "subregion": "",
     "tags": [
-      "Education",
-      "Entertainment",
-      "Marketing",
-      "AI"
+      "Infrastructure",
+      "Artificial Intelligence",
+      "Generative AI",
+      "Entertainment"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -19807,7 +19838,7 @@
   {
     "source": "yc",
     "name": "Radley",
-    "description": "AI-native, full-stack radiology practice",
+    "description": "The first AI-native radiology practice",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eaa9729cc14d1a256b46037b05b50ac5b7f7c291.png",
     "website": "https://radley.health/",
     "location": "San Francisco, CA, USA; Remote",
@@ -19902,7 +19933,7 @@
   {
     "source": "yc",
     "name": "Levocred AI",
-    "description": "The AI analysts for lenders",
+    "description": "The AI analyst for lenders",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4211252c17df7b0a89dc9c36ce49996bef59474d.png",
     "website": "https://levocred.com/",
     "location": "San Francisco, CA, USA",
@@ -19910,8 +19941,7 @@
     "subregion": "",
     "tags": [
       "Fintech",
-      "Lending",
-      "Investments"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -20326,7 +20356,7 @@
   {
     "source": "yc",
     "name": "Hubble",
-    "description": "The intelligence layer for patient information",
+    "description": "Retrieve records other APIs can't",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8d58ef930283a4163ee9544b3936abd1327a463a.png",
     "website": "https://hubble.ai/",
     "location": "Seattle, WA, USA",
@@ -20360,15 +20390,15 @@
     "description": "Autopilot for Flight Operations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dcac201e21fa70f9b3a8a1b827c8fd7759c25920.png",
     "website": "https://skymerse.com",
-    "location": "Warsaw, Masovian Voivodeship, Poland",
-    "region": "Poland",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
       "Aviation and Space",
+      "Artificial Intelligence",
       "Airlines",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -21516,7 +21546,7 @@
   {
     "source": "yc",
     "name": "Caution",
-    "description": "Hosting platform for software you don't want to get hacked",
+    "description": "Hosting platform for software you don't want to have hacked",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a0571039e7dc6cc20c7a181c0b7ffa967bc5c6d3.png",
     "website": "https://caution.co",
     "location": "George Town, George Town, Cayman Islands",
@@ -21548,7 +21578,7 @@
   {
     "source": "yc",
     "name": "CoArena",
-    "description": "Real World Evals and RL Environments for Computer-Use",
+    "description": "The biggest crowdsourced benchmark for Computer-Use",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1543623e6506eaf893b1c43e614688a6b2a32bda.png",
     "website": "http://coarena.ai",
     "location": "San Francisco, CA, USA",
@@ -21688,8 +21718,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "Security"
+      "Security",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -22076,6 +22106,38 @@
     "tags": [
       "Artificial Intelligence",
       "Hard Tech"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Covera",
+    "description": "AI-native OS for insurance brokers",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e711e58f600a9ea3c53a45d934c825989e9b5b57.png",
+    "website": "https://www.covera-agents.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Insurance",
+      "AIOps"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -24780,42 +24842,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Mutaz Musa**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Asterquanta Systems Inc.",
     "description": "Semiconductor Design Automation enabled by AI",
     "logo": "",
@@ -24882,6 +24908,42 @@
       },
       {
         "name": "**James Russell**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Mutaz Musa**",
         "role": "",
         "linkedin": ""
       }
