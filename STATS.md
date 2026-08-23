@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-22._
+_Auto-generated from the dataset on 2026-08-23._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,129** |
+| Total companies | **21,130** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2766** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-08-22._
 
 | Source | Companies |
 |---|---|
-| yc | 6,189 |
+| yc | 6,190 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,242 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-08-22._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1045
-2026  ██████████████░░░░░░░░░░░░░░ 758
+2026  ██████████████░░░░░░░░░░░░░░ 759
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -97,12 +97,12 @@ _Auto-generated from the dataset on 2026-08-22._
 10. **YC Winter 2024** — 248
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
-13. **YC Summer 2026** — 235
+13. **YC Summer 2026** — 236
 14. **YC Summer 2022** — 234
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 2480
+1. **Fintech** — 2481
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1422
 4. **Mobile** — 1141
@@ -110,7 +110,7 @@ _Auto-generated from the dataset on 2026-08-22._
 6. **Artificial Intelligence** — 980
 7. **AI** — 880
 8. **Healthcare** — 816
-9. **Developer Tools** — 708
+9. **Developer Tools** — 707
 10. **Infrastructure** — 691
 11. **Health** — 663
 12. **Industrials** — 626
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-08-22._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4589
+2. **United States of America** — 4590
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
