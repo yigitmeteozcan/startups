@@ -17755,7 +17755,7 @@
   {
     "source": "yc",
     "name": "Inkbox",
-    "description": "Let your agents communicate via email, phone, iMessage, & Agent2Agent",
+    "description": "The identity and communication layer for AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/59d6214df81a05c739db52287017ae33c8c45f0d.png",
     "website": "https://inkbox.ai",
     "location": "San Francisco, CA, USA",
@@ -17763,8 +17763,8 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17820,17 +17820,19 @@
   {
     "source": "yc",
     "name": "HyperProbe",
-    "description": "Your coding agent writes code. Now let it fix prod too.",
+    "description": "The runtime data layer for agents to monitor and debug apps",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b4b91e0b78bbed1c83add57d22b06ab632567450.png",
-    "website": "http://hyperprobe.co",
+    "website": "https://hyperprobe.co",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "DevSecOps",
-      "SaaS"
+      "SaaS",
+      "DevOps"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18007,6 +18009,38 @@
     "program": "YC Fall 2026",
     "programSlugs": [
       "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Conifer",
+    "description": "Least cost routing system to reduce 80%+ token spend",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1cd2adb8270db80170ab62b4140817892372538a.png",
+    "website": "https://www.conifer.build",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Security"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
