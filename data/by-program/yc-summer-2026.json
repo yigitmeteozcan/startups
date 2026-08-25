@@ -263,18 +263,18 @@
   },
   {
     "source": "yc",
-    "name": "TrustAI",
+    "name": "OneTriangle",
     "description": "The cheapest, fastest lightweight inference. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
-    "website": "https://trytrust.ai",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/107ba922031da90f3c856fadf8e7d472f94bfa62.png",
+    "website": "https://onetriangle.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Smart Packaging",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -1256,9 +1256,9 @@
   {
     "source": "yc",
     "name": "Amorphic Labs",
-    "description": "Software Commerce Infrastructure for Agents",
+    "description": "OpenRouter for Agent Capabilities",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d15b721a8d0e299e74b3561f196bb056b93f1fd9.png",
-    "website": "https://www.amorphiclabs.com",
+    "website": "https://www.agentmuxer.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -1650,7 +1650,7 @@
   {
     "source": "yc",
     "name": "HERA",
-    "description": "Hera catches thousand dollar errors before they hit the shop floor.",
+    "description": "Hera is the design verification layer for heavy industry.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/caa902826145e78311e27007937976e8663a9265.png",
     "website": "https://www.manufacturingintelligence.org",
     "location": "San Francisco, CA, USA",
@@ -1658,7 +1658,10 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Manufacturing"
+      "Design",
+      "3D Printing",
+      "Manufacturing",
+      "Industrial"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -1755,6 +1758,7 @@
       "Industrials",
       "Defense",
       "Hard Tech",
+      "Robotics",
       "Drones",
       "Manufacturing"
     ],
@@ -2009,7 +2013,7 @@
   {
     "source": "yc",
     "name": "Kara",
-    "description": "Making diamond an engineering material",
+    "description": "Making Diamond Engineerable",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1db7948d6861e68f3fa79c81509a04c4aea01614.png",
     "website": "https://karalabs.ai/",
     "location": "San Francisco, CA, USA",
@@ -2576,7 +2580,7 @@
   {
     "source": "yc",
     "name": "Verdant",
-    "description": "AI-native land-use permit management for local gov",
+    "description": "AI-native planning & permitting software for local gov",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4de79d62c0767417bcc285f4339875d51c92131b.png",
     "website": "https://www.verdantapp.com/",
     "location": "Washington, DC, USA",
@@ -3245,8 +3249,8 @@
     "subregion": "",
     "tags": [
       "Productivity",
-      "Artificial Intelligence",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -4095,7 +4099,7 @@
     "source": "yc",
     "name": "machine0",
     "description": "Cloud computers for AI agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c00ce2cbd95a0e0d81ff55b96ce241fb3462c28b.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0eb24a85015d2fd30115c143876496fed0a17210.png",
     "website": "https://machine0.io",
     "location": "Paris, Île-de-France, France",
     "region": "France",
@@ -5121,7 +5125,7 @@
   {
     "source": "yc",
     "name": "Ekho Labs",
-    "description": "Decisions for disrupted freight",
+    "description": "World Model for Freight",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8de6c5bf64155f5dfde0293d76560b38b3e3b46f.png",
     "website": "https://ekholabs.com/",
     "location": "New York City, NY, USA",
@@ -5188,15 +5192,13 @@
     "name": "Denta",
     "description": "Dental Insurance",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
-    "website": "https://denta.insure",
+    "website": "https://denta.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Fintech",
       "Insurance",
-      "Artificial Intelligence",
-      "Healthcare",
       "Health Insurance"
     ],
     "year": 2026,
@@ -5623,8 +5625,8 @@
   {
     "source": "yc",
     "name": "Markov",
-    "description": "Data for computer-use ai",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/455a1b80a115b180bc211a79ff00bc48bf9cb451.png",
+    "description": "Data for computer-use AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/046776ac55f648d0cff146a0a5a1b1b37ad1d681.png",
     "website": "https://www.markovstudios.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -5668,39 +5670,6 @@
       "Robotics",
       "Construction",
       "Aerospace"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Operon",
-    "description": "Agentic data layer for manufacturing & process industries. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
-    "website": "https://operonsolutions.com/en",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Industrials",
-      "Computer Vision",
-      "Manufacturing",
-      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -6183,8 +6152,8 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Artificial Intelligence",
       "Productivity",
+      "AI",
       "AI Assistant"
     ],
     "year": 2026,
@@ -6547,8 +6516,9 @@
     "tags": [
       "Fintech",
       "Banking and Exchange",
-      "Regtech",
-      "AI"
+      "Artificial Intelligence",
+      "Compliance",
+      "Regtech"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -6604,7 +6574,7 @@
     "source": "yc",
     "name": "Dock",
     "description": "Multiplayer agent workspace to run your company ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0cba332f90be97dc4bf4f1ed2941969d74936204.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94f67a762d3f3ae2966b1300c5b2c0c8e7e007de.png",
     "website": "https://trydock.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -6737,8 +6707,8 @@
     "tags": [
       "Fintech",
       "Insurance",
-      "Machine Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Machine Learning"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -6925,7 +6895,7 @@
   {
     "source": "yc",
     "name": "SpaceFlow Technologies, Inc.",
-    "description": "The managed runtime for enterprise AI agents",
+    "description": "AI-native procurement services for the physical economy",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/161339dc99cea591f4bd07fbb627aaa0b7771a88.png",
     "website": "https://spaceflow.tech",
     "location": "San Francisco, CA, USA",
@@ -7795,18 +7765,18 @@
   },
   {
     "source": "yc",
-    "name": "Gini",
-    "description": "AI coworker in Slack and Teams",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ae411b562c938cf0981eae247f0453d472e6dfe5.png",
-    "website": "https://ginicomputer.com/",
+    "name": "OpenTag",
+    "description": "Model Agnostic Claude Tag",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3523399de943bf46e546a3bb703261d27fd2fa69.png",
+    "website": "https://tryopentag.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Workflow Automation",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",

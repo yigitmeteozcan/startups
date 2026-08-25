@@ -322,13 +322,17 @@
   {
     "source": "yc",
     "name": "Relari",
-    "description": "AI Agent Builder for Software 3.0",
+    "description": "Building dexterous robots that learn from humans",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d8724ca6da40d81a8aadbd3cf9cf5fbaa58ac997.png",
     "website": "https://www.relari.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Robotics"
+    ],
     "year": 2024,
     "program": "YC Winter 2024",
     "programSlugs": [
@@ -4551,7 +4555,7 @@
     "programSlugs": [
       "yc-winter-2024"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,

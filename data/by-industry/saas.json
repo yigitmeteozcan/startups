@@ -14197,7 +14197,7 @@
     "description": "Connecting Survivors to Careers in Tech",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/324bfa1e5d16ce99b583a7336b9027c846e41503.png",
     "website": "https://www.anniecannons.com",
-    "location": "New York City, NY, USA; Oakland, CA, USA",
+    "location": "New York City, NY, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -36254,9 +36254,9 @@
     "tags": [
       "Healthcare",
       "Healthcare IT",
+      "Artificial Intelligence",
       "SaaS",
-      "Health Tech",
-      "AI"
+      "Health Tech"
     ],
     "year": 2023,
     "program": "YC Summer 2023",
@@ -42195,7 +42195,7 @@
   {
     "source": "yc",
     "name": "Floot",
-    "description": "The easiest way for non-coders to build apps with AI.",
+    "description": "The app platform inside Claude and ChatGPT.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
     "website": "https://floot.com",
     "location": "San Francisco, CA, USA",
@@ -42203,10 +42203,10 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "SaaS",
       "No-code",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -43616,7 +43616,7 @@
   {
     "source": "yc",
     "name": "Ekho Labs",
-    "description": "Decisions for disrupted freight",
+    "description": "World Model for Freight",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8de6c5bf64155f5dfde0293d76560b38b3e3b46f.png",
     "website": "https://ekholabs.com/",
     "location": "New York City, NY, USA",
@@ -48148,18 +48148,19 @@
   },
   {
     "source": "500",
-    "name": "GoSpotCheck",
-    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
-    "website": "https://gospotcheck.com",
+    "name": "Avocode",
+    "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
+    "logo": "",
+    "website": "https://www.avocode.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "No Code",
+      "Enterprise",
+      "Productivity",
       "SaaS"
     ],
-    "year": 2011,
+    "year": 2016,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -48170,22 +48171,66 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Bart Ciak",
+        "name": "Anh Vu Hoang",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Joseph Alfano",
+        "name": "Martin Duris",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Matt Talbot",
+        "name": "Petr Brzek",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Samantha Holloway",
+        "name": "Hoang Anh Vu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Fatora",
+    "description": "All-in-one tool to go eCommerce and start selling",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
+    "website": "https://maktapp.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "SaaS"
+    ],
+    "year": 2020,
+    "program": "Dojo III",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Waleed Fatora",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saleh Al-Mansouri",
         "role": "",
         "linkedin": ""
       }
@@ -48252,61 +48297,6 @@
   },
   {
     "source": "500",
-    "name": "Avocode",
-    "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
-    "logo": "",
-    "website": "https://www.avocode.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Enterprise",
-      "Productivity",
-      "SaaS"
-    ],
-    "year": 2016,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Anh Vu Hoang",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Martin Duris",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Petr Brzek",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Hoang Anh Vu",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "WhoAPI",
     "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
     "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
@@ -48352,19 +48342,19 @@
   },
   {
     "source": "500",
-    "name": "Fatora",
-    "description": "All-in-one tool to go eCommerce and start selling",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
-    "website": "https://maktapp.com",
+    "name": "GoSpotCheck",
+    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
+    "website": "https://gospotcheck.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "No Code",
       "SaaS"
     ],
-    "year": 2020,
-    "program": "Dojo III",
+    "year": 2011,
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -48374,12 +48364,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Waleed Fatora",
+        "name": "Bart Ciak",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Saleh Al-Mansouri",
+        "name": "Joseph Alfano",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt Talbot",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Samantha Holloway",
         "role": "",
         "linkedin": ""
       }
