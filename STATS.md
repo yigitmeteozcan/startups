@@ -1,6 +1,6 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-25._
+_Auto-generated from the dataset on 2026-08-26._
 
 | Metric | Count |
 |---|---|
@@ -102,18 +102,18 @@ _Auto-generated from the dataset on 2026-08-25._
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 2481
+1. **Fintech** — 2482
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1422
+3. **SaaS** — 1423
 4. **Mobile** — 1141
 5. **Consumer** — 1066
-6. **Artificial Intelligence** — 980
-7. **AI** — 883
+6. **Artificial Intelligence** — 981
+7. **AI** — 884
 8. **Healthcare** — 814
-9. **Developer Tools** — 708
+9. **Developer Tools** — 709
 10. **Infrastructure** — 689
 11. **Health** — 663
-12. **Industrials** — 627
+12. **Industrials** — 626
 13. **Engineering, Product and Design** — 617
 14. **Insurtech** — 513
 15. **B2B Software** — 490
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-08-25._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4594
+2. **United States of America** — 4596
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -146,13 +146,13 @@ _Auto-generated from the dataset on 2026-08-25._
 20. **France** — 75
 21. **Oceania** — 73
 22. **Brazil** — 69
-23. **Germany** — 64
+23. **Germany** — 63
 24. **Singapore** — 54
 25. **Nigeria** — 48
 26. **Israel** — 34
 27. **Indonesia** — 30
 28. **Colombia** — 27
-29. **Spain** — 21
+29. **Spain** — 20
 30. **Australia** — 19
 31. **Sweden** — 19
 32. **Argentina** — 19

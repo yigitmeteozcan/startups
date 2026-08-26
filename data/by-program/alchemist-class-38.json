@@ -98,8 +98,8 @@
   },
   {
     "source": "alchemist",
-    "name": "Fuse",
-    "description": "Your AI Data Strategist. ",
+    "name": "FUSE",
+    "description": "FUSE is an AI business intelligence platform - powered by Emet, our anti-hallucination trust infrastructure layer that confirms zero errors in AI data analysis.",
     "logo": "",
     "website": "",
     "location": "New York, NY, USA",
@@ -115,18 +115,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jill Randell: Early Google hire",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tom Counsell: ex-Bumble engineering lead",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -221,90 +210,8 @@
   },
   {
     "source": "alchemist",
-    "name": "Nomadic Drones",
-    "description": "Self-Recharging Drones Autonomously Inspecting Power Grids, Enabling Proactive Maintenance at Scale",
-    "logo": "",
-    "website": "",
-    "location": "Munich, Germany",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 38",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Andreas Moldskred",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Lauritz Weil",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Germany"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "DiffEnder",
-    "description": "Ship 2x faster with AI-Assisted Code Reviews",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 38",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Kyle Smith",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Connor Owen",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Clikr",
-    "description": "Turning UGC into a Revenue Driver for Both Brands and Customers",
+    "name": "InsightBoxAI",
+    "description": "The AI Advantage: Connecting Unseen Dots for Sports and Event Marketers",
     "logo": "",
     "website": "",
     "location": "Los Angeles, CA, USA",
@@ -322,7 +229,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Laura Khoudari",
+        "name": "Flavia Lan",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Killian Marie",
         "role": "",
         "linkedin": ""
       }
@@ -369,8 +281,49 @@
   },
   {
     "source": "alchemist",
-    "name": "InsightBoxAI",
-    "description": "The AI Advantage: Connecting Unseen Dots for Sports and Event Marketers",
+    "name": "Nomadic Drones",
+    "description": "Self-Recharging Drones Autonomously Inspecting Power Grids, Enabling Proactive Maintenance at Scale",
+    "logo": "",
+    "website": "",
+    "location": "Munich, Germany",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 38",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Andreas Moldskred",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Lauritz Weil",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Germany"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Clikr",
+    "description": "Turning UGC into a Revenue Driver for Both Brands and Customers",
     "logo": "",
     "website": "",
     "location": "Los Angeles, CA, USA",
@@ -388,12 +341,48 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Flavia Lan",
+        "name": "Laura Khoudari",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "DiffEnder",
+    "description": "Ship 2x faster with AI-Assisted Code Reviews",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 38",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Kyle Smith",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Killian Marie",
+        "name": "Connor Owen",
         "role": "",
         "linkedin": ""
       }
