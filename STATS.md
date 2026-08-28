@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-27._
+_Auto-generated from the dataset on 2026-08-28._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,132** |
+| Total companies | **21,133** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2768** |
+| 💰 Exits | **2769** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -18,7 +18,7 @@ _Auto-generated from the dataset on 2026-08-27._
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
-| antler | 1,068 |
+| antler | 1,069 |
 | alchemist | 517 |
 | ef | 499 |
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-08-27._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1400
-3. **Antler** — 1068
+3. **Antler** — 1069
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -107,14 +107,14 @@ _Auto-generated from the dataset on 2026-08-27._
 3. **SaaS** — 1423
 4. **Mobile** — 1141
 5. **Consumer** — 1066
-6. **Artificial Intelligence** — 975
-7. **AI** — 892
+6. **Artificial Intelligence** — 977
+7. **AI** — 895
 8. **Healthcare** — 815
-9. **Developer Tools** — 709
-10. **Infrastructure** — 689
+9. **Developer Tools** — 710
+10. **Infrastructure** — 688
 11. **Health** — 663
 12. **Industrials** — 628
-13. **Engineering, Product and Design** — 617
+13. **Engineering, Product and Design** — 618
 14. **Insurtech** — 513
 15. **B2B Software** — 490
 16. **Deeptech** — 489
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-08-27._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4597
+2. **United States of America** — 4596
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -134,7 +134,7 @@ _Auto-generated from the dataset on 2026-08-27._
 8. **South Asia** — 264
 9. **United Kingdom** — 216
 10. **Canada** — 215
-11. **India** — 210
+11. **India** — 211
 12. **Latin America** — 163
 13. **Middle East** — 159
 14. **Unspecified** — 120
