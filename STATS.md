@@ -1,6 +1,6 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-28._
+_Auto-generated from the dataset on 2026-08-29._
 
 | Metric | Count |
 |---|---|
@@ -97,24 +97,24 @@ _Auto-generated from the dataset on 2026-08-28._
 10. **YC Winter 2024** — 248
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
-13. **YC Summer 2026** — 236
+13. **YC Summer 2026** — 235
 14. **YC Summer 2022** — 234
 15. **YC Winter 2020** — 229
 
 ## Top industries
 1. **Fintech** — 2484
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1423
+3. **SaaS** — 1424
 4. **Mobile** — 1141
-5. **Consumer** — 1066
-6. **Artificial Intelligence** — 977
-7. **AI** — 895
+5. **Consumer** — 1065
+6. **Artificial Intelligence** — 981
+7. **AI** — 892
 8. **Healthcare** — 815
 9. **Developer Tools** — 710
 10. **Infrastructure** — 688
 11. **Health** — 663
-12. **Industrials** — 628
-13. **Engineering, Product and Design** — 618
+12. **Industrials** — 627
+13. **Engineering, Product and Design** — 620
 14. **Insurtech** — 513
 15. **B2B Software** — 490
 16. **Deeptech** — 489
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-08-28._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4596
+2. **United States of America** — 4597
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
@@ -212,21 +212,20 @@ _Auto-generated from the dataset on 2026-08-28._
 86. **Kyrgyzstan** — 1
 87. **Tanzania** — 1
 88. **Algeria** — 1
-89. **Kazakhstan** — 1
-90. **Italy** — 1
-91. **Lithuania** — 1
-92. **Ivory Coast** — 1
-93. **Zambia** — 1
-94. **Ecuador** — 1
-95. **Cyprus** — 1
-96. **Uganda** — 1
-97. **Bahrain** — 1
-98. **Venezuela** — 1
-99. **Jordan** — 1
-100. **Ethiopia** — 1
-101. **Taiwan** — 1
-102. **Uruguay** — 1
-103. **Democratic Republic of the Congo** — 1
-104. **Cayman Islands** — 1
-105. **Americas - United States** — 1
-106. **Global** — 1
+89. **Italy** — 1
+90. **Lithuania** — 1
+91. **Ivory Coast** — 1
+92. **Zambia** — 1
+93. **Ecuador** — 1
+94. **Cyprus** — 1
+95. **Uganda** — 1
+96. **Bahrain** — 1
+97. **Venezuela** — 1
+98. **Jordan** — 1
+99. **Ethiopia** — 1
+100. **Taiwan** — 1
+101. **Uruguay** — 1
+102. **Democratic Republic of the Congo** — 1
+103. **Cayman Islands** — 1
+104. **Americas - United States** — 1
+105. **Global** — 1
