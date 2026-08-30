@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-29._
+_Auto-generated from the dataset on 2026-08-30._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,133** |
+| Total companies | **21,134** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2769** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-08-29._
 
 | Source | Companies |
 |---|---|
-| yc | 6,194 |
+| yc | 6,195 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-08-29._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1045
-2026  ██████████████░░░░░░░░░░░░░░ 763
+2026  ██████████████░░░░░░░░░░░░░░ 764
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -106,7 +106,7 @@ _Auto-generated from the dataset on 2026-08-29._
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1424
 4. **Mobile** — 1141
-5. **Consumer** — 1065
+5. **Consumer** — 1066
 6. **Artificial Intelligence** — 981
 7. **AI** — 892
 8. **Healthcare** — 815
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-08-29._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4597
+2. **United States of America** — 4598
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 903
