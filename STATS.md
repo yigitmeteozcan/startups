@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-08-31._
+_Auto-generated from the dataset on 2026-09-01._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,135** |
+| Total companies | **21,138** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2769** |
+| 💰 Exits | **2768** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-08-31._
 
 | Source | Companies |
 |---|---|
-| yc | 6,196 |
+| yc | 6,200 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
-| 500 | 2,241 |
-| antler | 1,069 |
+| 500 | 2,239 |
+| antler | 1,070 |
 | alchemist | 517 |
 | ef | 499 |
 
@@ -33,11 +33,11 @@ _Auto-generated from the dataset on 2026-08-31._
 2010  ███░░░░░░░░░░░░░░░░░░░░░░░░░ 149
 2011  █████░░░░░░░░░░░░░░░░░░░░░░░ 253
 2012  ███████░░░░░░░░░░░░░░░░░░░░░ 361
-2013  ██████░░░░░░░░░░░░░░░░░░░░░░ 341
+2013  ██████░░░░░░░░░░░░░░░░░░░░░░ 340
 2014  █████████░░░░░░░░░░░░░░░░░░░ 470
 2015  █████████████░░░░░░░░░░░░░░░ 684
 2016  ██████████████░░░░░░░░░░░░░░ 724
-2017  ███████████████░░░░░░░░░░░░░ 817
+2017  ███████████████░░░░░░░░░░░░░ 816
 2018  ████████████████░░░░░░░░░░░░ 863
 2019  ███████████████████░░░░░░░░░ 1030
 2020  ████████████████████░░░░░░░░ 1053
@@ -46,12 +46,12 @@ _Auto-generated from the dataset on 2026-08-31._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1045
-2026  ██████████████░░░░░░░░░░░░░░ 765
+2026  ██████████████░░░░░░░░░░░░░░ 769
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
 ## Top countries
-1. **United States** — 5864
+1. **United States** — 5863
 2. **Japan** — 2684
 3. **United Kingdom** — 597
 4. **Canada** — 553
@@ -61,7 +61,7 @@ _Auto-generated from the dataset on 2026-08-31._
 8. **France** — 183
 9. **Singapore** — 176
 10. **Mexico** — 153
-11. **India** — 122
+11. **India** — 121
 12. **South Korea** — 115
 13. **United Arab Emirates** — 111
 14. **Italy** — 107
@@ -86,8 +86,8 @@ _Auto-generated from the dataset on 2026-08-31._
 
 ## Top programs
 1. **Plug and Play** — 5508
-2. **500 Global** — 1400
-3. **Antler** — 1069
+2. **500 Global** — 1399
+3. **Antler** — 1070
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -97,23 +97,23 @@ _Auto-generated from the dataset on 2026-08-31._
 10. **YC Winter 2024** — 248
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
-13. **YC Summer 2026** — 235
+13. **YC Summer 2026** — 236
 14. **YC Summer 2022** — 234
 15. **YC Winter 2020** — 229
 
 ## Top industries
 1. **Fintech** — 2484
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1424
+3. **SaaS** — 1425
 4. **Mobile** — 1141
-5. **Consumer** — 1066
-6. **Artificial Intelligence** — 981
-7. **AI** — 893
+5. **Consumer** — 1067
+6. **Artificial Intelligence** — 990
+7. **AI** — 887
 8. **Healthcare** — 815
-9. **Developer Tools** — 710
-10. **Infrastructure** — 689
+9. **Developer Tools** — 711
+10. **Infrastructure** — 691
 11. **Health** — 663
-12. **Industrials** — 627
+12. **Industrials** — 628
 13. **Engineering, Product and Design** — 620
 14. **Insurtech** — 513
 15. **B2B Software** — 490
@@ -125,14 +125,14 @@ _Auto-generated from the dataset on 2026-08-31._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4598
+2. **United States of America** — 4600
 3. **Asia** — 2990
 4. **Europe** — 1014
-5. **North America** — 903
+5. **North America** — 902
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 216
+9. **United Kingdom** — 217
 10. **Canada** — 215
 11. **India** — 210
 12. **Latin America** — 163
@@ -140,8 +140,8 @@ _Auto-generated from the dataset on 2026-08-31._
 14. **Unspecified** — 120
 15. **North Asia** — 110
 16. **Africa** — 107
-17. **Southeast Asia** — 94
-18. **Remote** — 79
+17. **Southeast Asia** — 93
+18. **Remote** — 80
 19. **Mexico** — 79
 20. **France** — 75
 21. **Oceania** — 73
