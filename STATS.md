@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-01._
+_Auto-generated from the dataset on 2026-09-02._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,138** |
+| Total companies | **21,139** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2768** |
+| 💰 Exits | **2769** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-09-01._
 
 | Source | Companies |
 |---|---|
-| yc | 6,200 |
+| yc | 6,201 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,239 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-09-01._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1045
-2026  ██████████████░░░░░░░░░░░░░░ 769
+2026  ██████████████░░░░░░░░░░░░░░ 770
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -102,18 +102,18 @@ _Auto-generated from the dataset on 2026-09-01._
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 2484
+1. **Fintech** — 2485
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1425
 4. **Mobile** — 1141
 5. **Consumer** — 1067
-6. **Artificial Intelligence** — 990
-7. **AI** — 887
+6. **Artificial Intelligence** — 992
+7. **AI** — 888
 8. **Healthcare** — 815
 9. **Developer Tools** — 711
 10. **Infrastructure** — 691
 11. **Health** — 663
-12. **Industrials** — 628
+12. **Industrials** — 630
 13. **Engineering, Product and Design** — 620
 14. **Insurtech** — 513
 15. **B2B Software** — 490
@@ -125,14 +125,14 @@ _Auto-generated from the dataset on 2026-09-01._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4600
+2. **United States of America** — 4601
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 217
+9. **United Kingdom** — 218
 10. **Canada** — 215
 11. **India** — 210
 12. **Latin America** — 163
@@ -178,9 +178,9 @@ _Auto-generated from the dataset on 2026-09-01._
 52. **Slovenia** — 6
 53. **Austria** — 5
 54. **Panama** — 5
-55. **Belgium** — 5
-56. **Ghana** — 4
-57. **Turkey** — 4
+55. **Ghana** — 4
+56. **Turkey** — 4
+57. **Belgium** — 4
 58. **Finland** — 4
 59. **Saudi Arabia** — 4
 60. **Morocco** — 3

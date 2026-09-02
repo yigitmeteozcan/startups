@@ -4757,7 +4757,7 @@
     "source": "yc",
     "name": "Tepali",
     "description": "AI operating system for modern medspas",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e9e3d92cb3583a206f6e340aeba20e1e827a5374.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fcb5281a1d8fc8c7abd51bfa37f6f9919359ac8a.png",
     "website": "https://tepali.com",
     "location": "New York City, NY, USA",
     "region": "United States of America",
@@ -6037,7 +6037,7 @@
     "source": "yc",
     "name": "Laurence",
     "description": "Quantitative research for autonomous e-commerce growth",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/853a7c6c871be155796217e789ab83fe95978b02.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/68ac6b4c3dd34328cb86f2f81c4d868040f3557d.png",
     "website": "https://laurence.com",
     "location": "New York City, NY, USA",
     "region": "United States of America",
@@ -8236,7 +8236,7 @@
   {
     "source": "yc",
     "name": "Sila",
-    "description": "Agent-Native Messaging Platform",
+    "description": "Instant Messaging With Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cfd59b6ed20dc37d4d8cc17df4227ef9bed3a504.png",
     "website": "https://silahq.com",
     "location": "New York City, NY, USA",
@@ -8396,7 +8396,7 @@
   {
     "source": "yc",
     "name": "Tsenta",
-    "description": "AI career agent that finds matching jobs and applies for you",
+    "description": "AI career agent that turns your professional footprint into offers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c0363e9662e7db43e0292d57332e9650487ebdbb.png",
     "website": "https://tsenta.com",
     "location": "San Francisco, CA, USA",
@@ -8405,10 +8405,10 @@
     "tags": [
       "Consumer",
       "Job and Career Services",
-      "Artificial Intelligence",
       "Marketplace",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -10353,14 +10353,20 @@
   },
   {
     "source": "yc",
-    "name": "Incandor",
-    "description": "Behavioral intelligence infrastructure for anti-fraud",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/897d4bcd4f8d8953ac74712b5cc1711e4eb40c78.png",
-    "website": "https://www.incandor.com",
+    "name": "Nine Fives",
+    "description": "RF test equipment for next-gen spacecraft, drones, and cellphones",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12cace5da5d5e5852e19a386d33613f3f8222281.png",
+    "website": "https://ninefives.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Hard Tech",
+      "Aerospace",
+      "Telecommunications"
+    ],
     "year": 2026,
     "program": "YC Spring 2026",
     "programSlugs": [
@@ -10381,19 +10387,16 @@
   },
   {
     "source": "yc",
-    "name": "Nine Fives",
-    "description": "RF test equipment for next-gen spacecraft, drones, and cellphones",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12cace5da5d5e5852e19a386d33613f3f8222281.png",
-    "website": "https://ninefives.com/",
+    "name": "Andustry",
+    "description": "",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9cad618041deb29b222958392d35d6e8a7e0d845.png",
+    "website": "http://andustry.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Industrials",
-      "Manufacturing and Robotics",
-      "Hard Tech",
-      "Aerospace",
-      "Telecommunications"
+      "Fintech",
+      "Trading"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -11276,14 +11279,17 @@
   {
     "source": "yc",
     "name": "Userlens",
-    "description": "Agents that renew and expand six and seven-figure enterprise software",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/044f868ff4fda0ae90471c98a5ffee29018c984b.png",
+    "description": "Let agents talk to your customers",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/53aa0a91ae4d729ccd50ea3870fa7f1887a5c006.png",
     "website": "https://userlens.io",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Productivity"
+      "Productivity",
+      "Artificial Intelligence",
+      "Enterprise Software",
+      "AI Assistant"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -12824,15 +12830,15 @@
   {
     "source": "yc",
     "name": "Collar",
-    "description": "AI for General Partners",
+    "description": "AI for Investor Relations and Equity Research",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9eb4e7455b35796c4972c68f65a621d21e458003.png",
     "website": "https://usecollarai.com",
     "location": "Singapore, Singapore",
     "region": "Singapore",
     "subregion": "",
     "tags": [
-      "Finance",
-      "AI"
+      "Artificial Intelligence",
+      "Finance"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -15528,9 +15534,9 @@
     "subregion": "",
     "tags": [
       "Retail",
+      "Artificial Intelligence",
       "Logistics",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -18136,7 +18142,7 @@
   {
     "source": "yc",
     "name": "Bloomy",
-    "description": "AI-driven 1-to-1 learning for every student",
+    "description": "AI-native learning for every school",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/209c1fdd9d657cb4fad05300bbb0faf304f4d29c.png",
     "website": "https://bloomylearning.com/",
     "location": "San Francisco, CA, USA",
@@ -18145,9 +18151,9 @@
     "tags": [
       "Education",
       "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "eLearning",
-      "Personalization",
-      "AI"
+      "Personalization"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -19564,7 +19570,7 @@
     "source": "yc",
     "name": "Lumeria",
     "description": "Oura Ring for Skin",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8820c77c59ad677aa1a11384b561d8e34ab06e47.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5911b0640b4a7b63825ae466fa73c1fc1b24c0a3.png",
     "website": "https://lumeria.skin",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -19572,11 +19578,11 @@
     "tags": [
       "Healthcare",
       "Consumer Health and Wellness",
+      "Artificial Intelligence",
       "Consumer Health Services",
       "Health Tech",
       "Health & Wellness",
-      "Skincare",
-      "AI"
+      "Skincare"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -21673,7 +21679,7 @@
   {
     "source": "yc",
     "name": "Edviro",
-    "description": "AI That Operates Energy Infrastructure and Data Centers",
+    "description": "AI That Operates Energy Infrastructure",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c179a28044a3d4a8c3ceaf2a5b8cecbf90f66aa7.png",
     "website": "https://edviroenergy.com",
     "location": "San Francisco, CA, USA",
@@ -22353,16 +22359,50 @@
   },
   {
     "source": "yc",
+    "name": "Orca Aerospace",
+    "description": "AI spacecraft operator that lives onboard the vehicle.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/afa6ce6fe3345bb9e7b6296e9877371ada8e2155.png",
+    "website": "https://orcaaerospace.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Aviation and Space",
+      "AIOps",
+      "Space Exploration",
+      "Satellites"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Vorelios",
     "description": "AI that simulates physics 1000x faster",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b4f39044267f59b55cfe15cd369dcd61b7e645f5.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c02b36f4ca2283601c8f20e89597a38768ae9db9.png",
     "website": "https://vorelios.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "Hard Tech"
+      "Hard Tech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -23949,11 +23989,6 @@
         "linkedin": ""
       },
       {
-        "name": "Sebastian Aranguiz",
-        "role": "",
-        "linkedin": ""
-      },
-      {
         "name": "Javier Hernandez",
         "role": "",
         "linkedin": ""
@@ -24190,6 +24225,16 @@
       },
       {
         "name": "Eduardo A Cordova D",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sebastian Aranguiz",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ricardo Albino",
         "role": "",
         "linkedin": ""
       }
@@ -25253,42 +25298,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Mutaz Musa**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Asterquanta Systems Inc.",
     "description": "Semiconductor Design Automation enabled by AI",
     "logo": "",
@@ -25326,6 +25335,42 @@
     },
     "extra": {
       "country": "Canada"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Mutaz Musa**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
     }
   },
   {

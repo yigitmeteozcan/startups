@@ -18248,10 +18248,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -18398,9 +18398,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -20228,16 +20228,16 @@
   },
   {
     "source": "yc",
-    "name": "Interface",
-    "description": "Building onestop.sh",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/224baaef4a1a05fbac5feaa714e3fc06663923ec.png",
-    "website": "https://www.theinterface.com",
+    "name": "OneStop",
+    "description": "The local internet for NYC.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f9e554a3ff6dc01974ba5721cbfdc8ce21a2a2da.png",
+    "website": "https://www.askonestop.com",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -25784,8 +25784,8 @@
     "subregion": "",
     "tags": [
       "Sales",
-      "Marketing",
-      "AI"
+      "Artificial Intelligence",
+      "Marketing"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -26001,8 +26001,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Robotics",
-      "AI"
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Robotics"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -31271,6 +31273,41 @@
         "name": "Karlis Lapsins",
         "role": "",
         "linkedin": ""
+      },
+      {
+        "name": "George Bukia",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mr Romanlobas",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Aijan Jumabayeva",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yurii Bulakh",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "S Broschak",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Arturs Bernovskis",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Elnar Salpekov",
+        "role": "",
+        "linkedin": ""
       }
     ],
     "social": {
@@ -31461,6 +31498,11 @@
     "founders": [
       {
         "name": "Gunho Kim",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jung Hong Kim",
         "role": "",
         "linkedin": ""
       }
@@ -35450,6 +35492,42 @@
   },
   {
     "source": "alchemist",
+    "name": "Etat'H Solide",
+    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
+    "logo": "",
+    "website": "",
+    "location": "Grand Rapids, MI, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jhea-Uhg \"Damian\" Kang",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Xitester",
     "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
     "logo": "",
@@ -35496,88 +35574,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Etat'H Solide",
-    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
+    "name": "Polyview Health",
+    "description": "Prevent fraud, waste, abuse in healthcare claims",
     "logo": "",
     "website": "",
-    "location": "Grand Rapids, MI, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jhea-Uhg \"Damian\" Kang",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Planeo",
-    "description": "AI copilot that bridges code and runtime",
-    "logo": "",
-    "website": "",
-    "location": "Dover, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Santosh Sadasivuni**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Marcello DeSales**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Industrial Dynamics",
-    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
-    "logo": "",
-    "website": "",
-    "location": "Reno, NV, USA",
+    "location": "Menlo Park, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35592,53 +35593,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Konstantin Sarichev**",
+        "name": "Jason Hwang",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Michael Lawrie**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "AISI X",
-    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Denis Chegodaev**",
+        "name": "Dimitri Arges",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Alexander Gromov**",
+        "name": "Greg Deocampo",
         "role": "",
         "linkedin": ""
       }
@@ -35696,11 +35661,52 @@
   },
   {
     "source": "alchemist",
-    "name": "Polyview Health",
-    "description": "Prevent fraud, waste, abuse in healthcare claims",
+    "name": "AISI X",
+    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
     "logo": "",
     "website": "",
-    "location": "Menlo Park, CA, USA",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Denis Chegodaev**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Alexander Gromov**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Industrial Dynamics",
+    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "logo": "",
+    "website": "",
+    "location": "Reno, NV, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35715,17 +35721,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jason Hwang",
+        "name": "**Konstantin Sarichev**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Dimitri Arges",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Greg Deocampo",
+        "name": "**Michael Lawrie**",
         "role": "",
         "linkedin": ""
       }
@@ -35889,6 +35890,47 @@
       },
       {
         "name": "**Advisors:** Adam Frankl",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Planeo",
+    "description": "AI copilot that bridges code and runtime",
+    "logo": "",
+    "website": "",
+    "location": "Dover, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Santosh Sadasivuni**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Marcello DeSales**",
         "role": "",
         "linkedin": ""
       }
