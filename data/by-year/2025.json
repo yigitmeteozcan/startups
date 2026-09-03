@@ -10033,10 +10033,10 @@
     "subregion": "",
     "tags": [
       "Finance and Accounting",
-      "Artificial Intelligence",
       "Fintech",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -11474,9 +11474,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -12803,17 +12803,17 @@
   {
     "source": "yc",
     "name": "Browser Use",
-    "description": "Leading open-source web agent project with 50k stars in 3 months",
+    "description": "Agents that use the browser.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c098c79c1154d878f59439428e54fe98a83295a2.png",
     "website": "https://browser-use.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Open Source",
       "API",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -19079,10 +19079,10 @@
     "subregion": "",
     "tags": [
       "Analytics",
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -25444,17 +25444,19 @@
   {
     "source": "yc",
     "name": "Thesis",
-    "description": "Autonomous AI research",
+    "description": "Intelligent humanoid robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://thesislabs.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Automation",
-      "AI"
+      "Robotics"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -25548,7 +25550,7 @@
     "description": "The first platform where families can create AI cartoons in minutes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2fed7dace3f2d8cdd9b201c782646c8ba0cc231c.png",
     "website": "https://pixleyai.com",
-    "location": "Los Angeles, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -26219,15 +26221,15 @@
   {
     "source": "yc",
     "name": "Clad Labs",
-    "description": "the brainrot ide",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/520e314c8c296821e00ad659cebecef2f5a3e76a.png",
-    "website": "https://cladlabs.ai",
+    "description": "AI support done right",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6d89c2eb858334a18c6c6eadb2a012e14e7400c4.png",
+    "website": "https://useclad.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Consumer",
-      "Developer Tools"
+      "Customer Success",
+      "Customer Support"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -35492,11 +35494,57 @@
   },
   {
     "source": "alchemist",
-    "name": "Etat'H Solide",
-    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
+    "name": "Polyview Health",
+    "description": "Prevent fraud, waste, abuse in healthcare claims",
     "logo": "",
     "website": "",
-    "location": "Grand Rapids, MI, USA",
+    "location": "Menlo Park, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jason Hwang",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dimitri Arges",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Greg Deocampo",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Divergent Physics",
+    "description": " Claude Code for Hardware design",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35511,7 +35559,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jhea-Uhg \"Damian\" Kang",
+        "name": "Gustavo Navarro",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Volodymyr Shyianov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Bamelak Tadele",
         "role": "",
         "linkedin": ""
       }
@@ -35574,16 +35632,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Polyview Health",
-    "description": "Prevent fraud, waste, abuse in healthcare claims",
+    "name": "Etat'H Solide",
+    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
     "logo": "",
     "website": "",
-    "location": "Menlo Park, CA, USA",
+    "location": "Grand Rapids, MI, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2025,
-    "program": "Alchemist Class 40",
+    "program": "Alchemist Class 41",
     "programSlugs": [
       "alchemist"
     ],
@@ -35593,17 +35651,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jason Hwang",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dimitri Arges",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Greg Deocampo",
+        "name": "Jhea-Uhg \"Damian\" Kang",
         "role": "",
         "linkedin": ""
       }
@@ -35620,11 +35668,52 @@
   },
   {
     "source": "alchemist",
-    "name": "Havilo.ai",
-    "description": "The intelligence layer for the world's most valuable networks.",
+    "name": "Planeo",
+    "description": "AI copilot that bridges code and runtime",
     "logo": "",
     "website": "",
-    "location": "Pleasanton, CA, USA",
+    "location": "Dover, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Santosh Sadasivuni**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Marcello DeSales**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Industrial Dynamics",
+    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "logo": "",
+    "website": "",
+    "location": "Reno, NV, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35639,12 +35728,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Logan Dickey**",
+        "name": "**Konstantin Sarichev**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Taylor Cordoba**",
+        "name": "**Michael Lawrie**",
         "role": "",
         "linkedin": ""
       }
@@ -35702,11 +35791,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Industrial Dynamics",
-    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "name": "Havilo.ai",
+    "description": "The intelligence layer for the world's most valuable networks.",
     "logo": "",
     "website": "",
-    "location": "Reno, NV, USA",
+    "location": "Pleasanton, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35721,12 +35810,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Konstantin Sarichev**",
+        "name": "**Logan Dickey**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Michael Lawrie**",
+        "name": "**Taylor Cordoba**",
         "role": "",
         "linkedin": ""
       }
@@ -35809,52 +35898,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Divergent Physics",
-    "description": " Claude Code for Hardware design",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Gustavo Navarro",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Volodymyr Shyianov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Bamelak Tadele",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "DevPlaza",
     "description": "Automated production-readiness platform for the AI coding era",
     "logo": "",
@@ -35890,47 +35933,6 @@
       },
       {
         "name": "**Advisors:** Adam Frankl",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Planeo",
-    "description": "AI copilot that bridges code and runtime",
-    "logo": "",
-    "website": "",
-    "location": "Dover, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Santosh Sadasivuni**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Marcello DeSales**",
         "role": "",
         "linkedin": ""
       }

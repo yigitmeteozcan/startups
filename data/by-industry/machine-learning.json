@@ -2955,7 +2955,7 @@
     "programSlugs": [
       "yc-summer-2020"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -6806,9 +6806,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -7365,17 +7365,19 @@
   {
     "source": "yc",
     "name": "Thesis",
-    "description": "Autonomous AI research",
+    "description": "Intelligent humanoid robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://thesislabs.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Automation",
-      "AI"
+      "Robotics"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -7726,7 +7728,7 @@
   {
     "source": "yc",
     "name": "Risklytics",
-    "description": "Insurance for Frontier Tech",
+    "description": "AI-Native Insurance for Frontier Tech",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/879622d4fa103941586542ac659eaf9b60d897f0.png",
     "website": "https://www.risklytics.ai/",
     "location": "San Francisco, CA, USA",
@@ -7735,9 +7737,9 @@
     "tags": [
       "Fintech",
       "Insurance",
+      "Artificial Intelligence",
       "Hardware",
-      "Machine Learning",
-      "AI"
+      "Machine Learning"
     ],
     "year": 2026,
     "program": "YC Summer 2026",

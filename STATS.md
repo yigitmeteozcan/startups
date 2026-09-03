@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-02._
+_Auto-generated from the dataset on 2026-09-03._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,139** |
+| Total companies | **21,138** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2769** |
+| 💰 Exits | **2770** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-09-02._
 
 | Source | Companies |
 |---|---|
-| yc | 6,201 |
+| yc | 6,200 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,239 |
@@ -40,7 +40,7 @@ _Auto-generated from the dataset on 2026-09-02._
 2017  ███████████████░░░░░░░░░░░░░ 816
 2018  ████████████████░░░░░░░░░░░░ 863
 2019  ███████████████████░░░░░░░░░ 1030
-2020  ████████████████████░░░░░░░░ 1053
+2020  ████████████████████░░░░░░░░ 1052
 2021  ██████████████████████████░░ 1383
 2022  ███████████████████████████░ 1457
 2023  ████████████████████████████ 1493
@@ -99,24 +99,24 @@ _Auto-generated from the dataset on 2026-09-02._
 12. **Techstars Boston Accelerator** — 239
 13. **YC Summer 2026** — 236
 14. **YC Summer 2022** — 234
-15. **YC Winter 2020** — 229
+15. **YC Winter 2020** — 228
 
 ## Top industries
 1. **Fintech** — 2485
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1425
 4. **Mobile** — 1141
-5. **Consumer** — 1067
-6. **Artificial Intelligence** — 992
-7. **AI** — 888
-8. **Healthcare** — 815
-9. **Developer Tools** — 711
+5. **Consumer** — 1066
+6. **Artificial Intelligence** — 1000
+7. **AI** — 884
+8. **Healthcare** — 816
+9. **Developer Tools** — 710
 10. **Infrastructure** — 691
 11. **Health** — 663
-12. **Industrials** — 630
-13. **Engineering, Product and Design** — 620
+12. **Industrials** — 631
+13. **Engineering, Product and Design** — 619
 14. **Insurtech** — 513
-15. **B2B Software** — 490
+15. **B2B Software** — 492
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
 18. **Healthtech** — 440
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-09-02._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4601
+2. **United States of America** — 4600
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
