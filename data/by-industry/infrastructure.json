@@ -18979,7 +18979,7 @@
   {
     "source": "yc",
     "name": "Magnitude",
-    "description": "Code with local models, zero setup",
+    "description": "Open source inference server for local models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "location": "San Francisco, CA, USA",
@@ -19014,7 +19014,7 @@
   {
     "source": "yc",
     "name": "Pangolin",
-    "description": "Identity-aware VPN and proxy for remote access to anything, anywhere.",
+    "description": "Open networking and security for your workforce, AI agents, and infra",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e255c0b8547eae92642ef5a790e42e33f9bed016.png",
     "website": "https://pangolin.net",
     "location": "New York City, NY, USA",
@@ -19022,6 +19022,7 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Security",
       "Open Source",
       "Enterprise Software",
       "Networks"
@@ -21616,7 +21617,7 @@
   {
     "source": "yc",
     "name": "machine0",
-    "description": "Cloud computers for AI agents",
+    "description": "AWS for Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0eb24a85015d2fd30115c143876496fed0a17210.png",
     "website": "https://machine0.io",
     "location": "Paris, Île-de-France, France",
@@ -21755,9 +21756,9 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Generative AI",
-      "Entertainment"
+      "Entertainment",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -22010,40 +22011,6 @@
   },
   {
     "source": "yc",
-    "name": "Osseus",
-    "description": "The intelligent development platform for robotics",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
-    "website": "https://osseus.ai/",
-    "location": "",
-    "region": "Unspecified",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design",
-      "Artificial Intelligence",
-      "Robotics",
-      "Enterprise Software",
-      "Infrastructure"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Magma",
     "description": "Monetize your agent's traces.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9b261522e21a27147c25d66eb0b126f8b62e5295.png",
@@ -22248,6 +22215,39 @@
     "subregion": "",
     "tags": [
       "Artificial Intelligence",
+      "Infrastructure"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Workers IO",
+    "description": "Deterministic Virtual Machines",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
+    "website": "https://workers.io",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Developer Tools",
       "Infrastructure"
     ],
     "year": 2026,

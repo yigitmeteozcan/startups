@@ -4157,8 +4157,8 @@
     "tags": [
       "Engineering, Product and Design",
       "AIOps",
-      "Artificial Intelligence",
       "SaaS",
+      "AI",
       "ML"
     ],
     "year": 2019,
@@ -7276,7 +7276,7 @@
     "source": "yc",
     "name": "Replo",
     "description": "Sell anything",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6d35b8ea019eb95e63016971bc2bcc28e3bffcaa.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/60f75a909cd4fe5c8368c1b60a2257626955c988.png",
     "website": "https://replo.app/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -17305,7 +17305,7 @@
   {
     "source": "yc",
     "name": "Magnitude",
-    "description": "Code with local models, zero setup",
+    "description": "Open source inference server for local models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "location": "San Francisco, CA, USA",
@@ -19308,7 +19308,7 @@
   {
     "source": "yc",
     "name": "Armature",
-    "description": "We get your product picked by coding agents, then help improve the…",
+    "description": "We get your product picked by coding agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cafd940f7349e6c612893fad752013b10458ce39.png",
     "website": "https://armature.tech",
     "location": "San Francisco, CA, USA",
@@ -19857,7 +19857,7 @@
   {
     "source": "yc",
     "name": "Osseus",
-    "description": "The intelligent development platform for robotics",
+    "description": "",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "location": "",
@@ -19865,10 +19865,10 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Robotics",
-      "Enterprise Software",
-      "Infrastructure"
+      "Biotech",
+      "Healthcare",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -20059,6 +20059,39 @@
   },
   {
     "source": "yc",
+    "name": "OnePatch",
+    "description": "Automate on-call at agent-scale.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7832df887d718a7dbfbcec376ef2b160c31b16da.png",
+    "website": "https://onepatch.dev",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "DevOps",
+      "Automation",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Workers IO",
     "description": "Deterministic Virtual Machines",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
@@ -20068,8 +20101,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI"
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

@@ -11038,37 +11038,6 @@
   },
   {
     "source": "yc",
-    "name": "Talkito",
-    "description": "",
-    "logo": "/company/thumb/missing.png",
-    "website": "http://talkito.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Consumer",
-      "Social"
-    ],
-    "year": 2006,
-    "program": "YC Summer 2006",
-    "programSlugs": [
-      "yc-summer-2006"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Shoutfit",
     "description": "We tried to build a social network around clothing.  Also briefly built a search engine for clothing.",
     "logo": "/company/thumb/missing.png",
@@ -17718,15 +17687,18 @@
     "source": "yc",
     "name": "CareMessage",
     "description": "Patient engagement for low-income populations",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/257d91e86a36909e80fbbf60641fea27a4a61e02.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6873bfb173c962e32b30d736838c71902e93e054.png",
     "website": "http://caremessage.org",
-    "location": "Austin, TX, USA; San Francisco, CA, USA; Remote",
+    "location": "Austin, TX, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Healthcare",
+      "Artificial Intelligence",
+      "Nonprofit",
       "Health Tech",
-      "Digital Health"
+      "Digital Health",
+      "Healthcare IT"
     ],
     "year": 2014,
     "program": "YC Winter 2014",
@@ -34211,14 +34183,14 @@
     "description": "The Smart Market for Institutional Investors",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/95735e616536b1a1cfcca07ddaaa04596244401a.png",
     "website": "https://www.onechronos.com/",
-    "location": "New York City, NY, USA; New York, NY, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Fintech",
       "Banking and Exchange",
-      "Marketplace",
-      "AI"
+      "Artificial Intelligence",
+      "Marketplace"
     ],
     "year": 2016,
     "program": "YC Summer 2016",
@@ -54962,7 +54934,7 @@
     "subregion": "",
     "tags": [
       "Recruiting and Talent",
-      "SaaS",
+      "Recruiting",
       "Compliance",
       "HR Tech"
     ],
@@ -57604,8 +57576,8 @@
     "tags": [
       "Engineering, Product and Design",
       "AIOps",
-      "Artificial Intelligence",
       "SaaS",
+      "AI",
       "ML"
     ],
     "year": 2019,
@@ -92496,7 +92468,7 @@
     "source": "yc",
     "name": "Replo",
     "description": "Sell anything",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6d35b8ea019eb95e63016971bc2bcc28e3bffcaa.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/60f75a909cd4fe5c8368c1b60a2257626955c988.png",
     "website": "https://replo.app/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -148005,7 +147977,7 @@
   {
     "source": "yc",
     "name": "Reform",
-    "description": "Workflow automation. Built for logistics.",
+    "description": "AI Agents for high-stakes work.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d1dc8f5914cad7c44e1fba45da40ae265dd9bfe2.png",
     "website": "https://www.reformhq.com",
     "location": "San Francisco, CA, USA",
@@ -148014,7 +147986,9 @@
     "tags": [
       "Supply Chain and Logistics",
       "Workflow Automation",
+      "Compliance",
       "Logistics",
+      "Supply Chain",
       "AI"
     ],
     "year": 2024,
@@ -172028,7 +172002,7 @@
   {
     "source": "yc",
     "name": "Magnitude",
-    "description": "Code with local models, zero setup",
+    "description": "Open source inference server for local models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "location": "San Francisco, CA, USA",
@@ -172164,15 +172138,16 @@
   {
     "source": "yc",
     "name": "Kestroll",
-    "description": "",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/791faaacaac3270c6ecc1890048190ca2903c6f0.png",
-    "website": "",
+    "description": "AI video editor",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7a2c085f8445d928a1f0f379cb3bc64ffb604707.png",
+    "website": "https://www.kestroll.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Operations",
-      "Artificial Intelligence"
+      "Consumer",
+      "Content",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -172195,7 +172170,7 @@
   {
     "source": "yc",
     "name": "Pangolin",
-    "description": "Identity-aware VPN and proxy for remote access to anything, anywhere.",
+    "description": "Open networking and security for your workforce, AI agents, and infra",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e255c0b8547eae92642ef5a790e42e33f9bed016.png",
     "website": "https://pangolin.net",
     "location": "New York City, NY, USA",
@@ -172203,6 +172178,7 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Security",
       "Open Source",
       "Enterprise Software",
       "Networks"
@@ -176202,9 +176178,9 @@
     "tags": [
       "Real Estate and Construction",
       "Construction",
+      "Artificial Intelligence",
       "Computer Vision",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -178486,7 +178462,7 @@
   {
     "source": "yc",
     "name": "Thesis",
-    "description": "Intelligent humanoid robots",
+    "description": "Humanoid robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://thesislabs.ai",
     "location": "San Francisco, CA, USA",
@@ -178495,10 +178471,10 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -186157,8 +186133,8 @@
   {
     "source": "yc",
     "name": "Sila",
-    "description": "Message Agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cfd59b6ed20dc37d4d8cc17df4227ef9bed3a504.png",
+    "description": "AI Agents Messaging Platform",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/30eef975f26ed420159ac335c08eb8b950705ee2.png",
     "website": "https://silahq.com",
     "location": "New York City, NY, USA",
     "region": "United States of America",
@@ -187844,9 +187820,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "Sales Enablement",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -190785,7 +190761,7 @@
   {
     "source": "yc",
     "name": "Armature",
-    "description": "We get your product picked by coding agents, then help improve the…",
+    "description": "We get your product picked by coding agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cafd940f7349e6c612893fad752013b10458ce39.png",
     "website": "https://armature.tech",
     "location": "San Francisco, CA, USA",
@@ -196071,7 +196047,7 @@
   {
     "source": "yc",
     "name": "machine0",
-    "description": "Cloud computers for AI agents",
+    "description": "AWS for Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0eb24a85015d2fd30115c143876496fed0a17210.png",
     "website": "https://machine0.io",
     "location": "Paris, Île-de-France, France",
@@ -196169,7 +196145,7 @@
   {
     "source": "yc",
     "name": "Nori",
-    "description": "American Humanoid which costs 3% of the competition",
+    "description": "The most capable American-made humanoid robot for $1,688",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
     "website": "http://norirobotics.com",
     "location": "San Francisco, CA, USA",
@@ -197063,7 +197039,7 @@
   {
     "source": "yc",
     "name": "Moving Atoms",
-    "description": "World Models that Train Robots, #1 on Physics-IQ",
+    "description": "Solving the Data Problem in Robotics, #1 on Physics-IQ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
     "website": "https://movingatoms.ai/",
     "location": "San Francisco, CA, USA",
@@ -197072,10 +197048,11 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Virtual Reality"
+      "Virtual Reality",
+      "Data Labeling",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -197576,9 +197553,9 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Generative AI",
-      "Entertainment"
+      "Entertainment",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -199377,7 +199354,7 @@
   {
     "source": "yc",
     "name": "Osseus",
-    "description": "The intelligent development platform for robotics",
+    "description": "",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "location": "",
@@ -199385,10 +199362,10 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Robotics",
-      "Enterprise Software",
-      "Infrastructure"
+      "Biotech",
+      "Healthcare",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -200191,6 +200168,39 @@
   },
   {
     "source": "yc",
+    "name": "OnePatch",
+    "description": "Automate on-call at agent-scale.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7832df887d718a7dbfbcec376ef2b160c31b16da.png",
+    "website": "https://onepatch.dev",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "DevOps",
+      "Automation",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Asakana",
     "description": "AI order entry for food distributors: emails and texts to ERP",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/582ebf9f01453d95f2c02b9bac341aff365af875.png",
@@ -200266,8 +200276,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI"
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -200364,8 +200375,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "Hard Tech"
+      "Hard Tech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

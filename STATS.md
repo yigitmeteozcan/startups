@@ -1,6 +1,6 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-03._
+_Auto-generated from the dataset on 2026-09-04._
 
 | Metric | Count |
 |---|---|
@@ -26,7 +26,7 @@ _Auto-generated from the dataset on 2026-09-03._
 
 ```
 2005  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9
-2006  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 18
+2006  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 17
 2007  █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 42
 2008  █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 53
 2009  █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 63
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-09-03._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1045
-2026  ██████████████░░░░░░░░░░░░░░ 770
+2026  ██████████████░░░░░░░░░░░░░░ 771
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -104,17 +104,17 @@ _Auto-generated from the dataset on 2026-09-03._
 ## Top industries
 1. **Fintech** — 2485
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1425
+3. **SaaS** — 1424
 4. **Mobile** — 1141
 5. **Consumer** — 1066
-6. **Artificial Intelligence** — 1000
-7. **AI** — 884
-8. **Healthcare** — 816
+6. **Artificial Intelligence** — 998
+7. **AI** — 888
+8. **Healthcare** — 817
 9. **Developer Tools** — 710
 10. **Infrastructure** — 691
 11. **Health** — 663
 12. **Industrials** — 631
-13. **Engineering, Product and Design** — 619
+13. **Engineering, Product and Design** — 620
 14. **Insurtech** — 513
 15. **B2B Software** — 492
 16. **Deeptech** — 489
