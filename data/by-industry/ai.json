@@ -3685,38 +3685,6 @@
   },
   {
     "source": "yc",
-    "name": "Heron Data",
-    "description": "We automate document-heavy workflows in financial services and beyond",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a7b4c6ec0a994c7922188d2be45646b8d241734b.png",
-    "website": "https://www.herondata.io",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "AI"
-    ],
-    "year": 2020,
-    "program": "YC Summer 2020",
-    "programSlugs": [
-      "yc-summer-2020"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Degrees of Freedom",
     "description": "DoF provides a high quality, affordable higher education alternative.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png",
@@ -13612,7 +13580,7 @@
     "programSlugs": [
       "yc-winter-2024"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -15492,6 +15460,39 @@
       "yc-winter-2024"
     ],
     "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Hazel",
+    "description": "AI-enabled procurement for government",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/27eb77e66d041fd97b3afe3275e43bfa07c30bf6.png",
+    "website": "https://hazelai.com",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Government",
+      "GovTech",
+      "Procurement",
+      "AI"
+    ],
+    "year": 2024,
+    "program": "YC Winter 2024",
+    "programSlugs": [
+      "yc-winter-2024"
+    ],
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -19990,8 +19991,8 @@
   {
     "source": "yc",
     "name": "Kilvin",
-    "description": "Custom software for non-technical teams.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/32467b13d36c9fed6c944cbb62eed3f24594bf45.png",
+    "description": "Build your own desktop",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa78b8b96db85bb2ce800dc4eae6fc788564af.png",
     "website": "https://www.kilvin.ai",
     "location": "New York City, NY, USA",
     "region": "United States of America",
@@ -21556,38 +21557,6 @@
     "tags": [
       "Finance and Accounting",
       "Fintech",
-      "AI"
-    ],
-    "year": 2025,
-    "program": "YC Winter 2025",
-    "programSlugs": [
-      "yc-winter-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "CopyCat",
-    "description": "AI agents built for insurance brokers",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d0b6fa2626fafdcdd87ec75360df8375ffa48bb3.png",
-    "website": "https://runcopycat.com",
-    "location": "Seattle, WA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Insurance",
       "AI"
     ],
     "year": 2025,
@@ -24075,7 +24044,7 @@
   {
     "source": "yc",
     "name": "Manufact",
-    "description": "Cloud infrastructure for MCP servers and Claude / ChatGPT apps.",
+    "description": "Cloud infrastructure for MCP servers and Claude / ChatGPT plugins.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://manufact.com",
     "location": "San Francisco, CA, USA",
@@ -24158,6 +24127,40 @@
     "program": "YC Summer 2025",
     "programSlugs": [
       "yc-summer-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "OS3",
+    "description": "Deploying US-Built Humanoid Robots & Training Video Action Models",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
+    "website": "https://os3robotics.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Hardware",
+      "Robotics",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -24381,39 +24384,6 @@
       "Artificial Intelligence",
       "SaaS",
       "Restaurant Tech",
-      "AI"
-    ],
-    "year": 2025,
-    "program": "YC Summer 2025",
-    "programSlugs": [
-      "yc-summer-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "KERNEL",
-    "description": "Crazy fast, open source infra for AI agents to use the Internet",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0b651ae4215e55c6eec3b366c18c9dcdd7838a97.png",
-    "website": "https://www.kernel.sh",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Infrastructure",
-      "Developer Tools",
-      "Cloud Computing",
       "AI"
     ],
     "year": 2025,
@@ -25063,6 +25033,40 @@
   },
   {
     "source": "yc",
+    "name": "Norra",
+    "description": "Automating equipment operations for nursing facilities",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e02b3e396920957fb568e6c31817205cde3dbd2a.png",
+    "website": "https://www.norra.io",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Hardware",
+      "Health Tech",
+      "Logistics",
+      "AI"
+    ],
+    "year": 2025,
+    "program": "YC Fall 2025",
+    "programSlugs": [
+      "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Bron",
     "description": "TikTok for Sports Trading",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/322e036fa9ab0e06f47840b20ad078b02e03e79b.png",
@@ -25224,15 +25228,15 @@
   },
   {
     "source": "yc",
-    "name": "Terrain",
-    "description": "AI native GTM platform for the physical economy",
+    "name": "Nivara",
+    "description": "AI agents for the finance back office.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
     "website": "https://getnivara.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Sales",
+      "Finance and Accounting",
       "AI"
     ],
     "year": 2025,
@@ -25630,6 +25634,40 @@
       "Marketing",
       "Sports Tech",
       "Video",
+      "AI"
+    ],
+    "year": 2025,
+    "program": "YC Fall 2025",
+    "programSlugs": [
+      "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Specific",
+    "description": "The cloud platform built for coding agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/32b20b00d4eefb0011495a24b9f27376787da0bc.png",
+    "website": "https://specific.dev",
+    "location": "Stockholm, Stockholm County, Sweden",
+    "region": "Sweden",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "No-code",
+      "DevOps",
       "AI"
     ],
     "year": 2025,
@@ -26051,8 +26089,8 @@
   {
     "source": "yc",
     "name": "Rivet",
-    "description": "Visual editor to design in production code",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/27852a72a2c3864e7f9b2c7273ec39951f3e8d68.png",
+    "description": "Explore dozens of design directions with your agent",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/28bd19a3fc057798d00b7402f78d585553560d40.png",
     "website": "https://rivet.design/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -26818,6 +26856,39 @@
       "Industrials",
       "Manufacturing and Robotics",
       "Robotics",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Osmaura",
+    "description": "AI-native client care for corporate law firms",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9ac7ce1b60bd6ac7d06599970f59c5e8bd6aa53a.png",
+    "website": "https://osmaura.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Sales Enablement",
+      "LegalTech",
+      "Customer Service",
       "AI"
     ],
     "year": 2026,
@@ -28530,41 +28601,6 @@
   },
   {
     "source": "yc",
-    "name": "Neuromorphic",
-    "description": "Building robots to automate wetlabs",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/470f3b57cd018aad9c127e64e5b952d32a64d435.png",
-    "website": "https://www.neuromorphic.vision/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Industrials",
-      "Manufacturing and Robotics",
-      "Hard Tech",
-      "Robotics",
-      "Biotech",
-      "AI"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Moving Atoms",
     "description": "Solving the Data Problem in Robotics, #1 on Physics-IQ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
@@ -29191,7 +29227,7 @@
   {
     "source": "yc",
     "name": "OneCLI",
-    "description": "Give every employee a secured, sandboxed pro assistant agent",
+    "description": "The open source AI teammates for your company.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
     "website": "https://onecli.sh",
     "location": "San Francisco, CA, USA",

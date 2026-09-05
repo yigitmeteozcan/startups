@@ -2205,7 +2205,7 @@
   {
     "source": "yc",
     "name": "OS3",
-    "description": "Deploying US-Built Robots & Training Video Action Models",
+    "description": "Deploying US-Built Humanoid Robots & Training Video Action Models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
     "website": "https://os3robotics.com/",
     "location": "San Francisco, CA, USA",
@@ -2214,9 +2214,9 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
       "Hardware",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -9920,16 +9920,17 @@
   {
     "source": "yc",
     "name": "Osmaura",
-    "description": "AI growth engine for corporate law firms.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f8f5bfc033ae31d6282044fe4ce792725cc090a1.png",
+    "description": "AI-native client care for corporate law firms",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9ac7ce1b60bd6ac7d06599970f59c5e8bd6aa53a.png",
     "website": "https://osmaura.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Sales Enablement",
-      "LegalTech"
+      "LegalTech",
+      "Customer Service",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -9989,7 +9990,7 @@
     "description": "derivative layer for prediction markets",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/511d877345852eb10f307bb1381829f64760f295.png",
     "website": "https://www.totalis.trade",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -16613,7 +16614,10 @@
     "subregion": "",
     "tags": [
       "Government",
-      "GovTech"
+      "GovTech",
+      "Real Estate",
+      "Construction",
+      "Housing"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -17774,9 +17778,9 @@
       "Insurance"
     ],
     "year": 2026,
-    "program": "YC Summer 2026",
+    "program": "YC Fall 2026",
     "programSlugs": [
-      "yc-summer-2026"
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -18916,10 +18920,10 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -19987,6 +19991,7 @@
     "subregion": "",
     "tags": [
       "Fintech",
+      "Finance",
       "Enterprise Software"
     ],
     "year": 2026,
@@ -21162,7 +21167,7 @@
   {
     "source": "yc",
     "name": "OneCLI",
-    "description": "Give every employee a secured, sandboxed pro assistant agent",
+    "description": "The open source AI teammates for your company.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
     "website": "https://onecli.sh",
     "location": "San Francisco, CA, USA",
@@ -22309,6 +22314,36 @@
   },
   {
     "source": "yc",
+    "name": "Hopper",
+    "description": "Fast inference for voice",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
+    "website": "https://withhopper.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Antropi Robotics",
     "description": "Autonomous CNC factories for faster hardware",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8c101f20a3b29a6ae368d81297168e49391e75a.png",
@@ -22517,6 +22552,40 @@
       "Consumer Electronics",
       "Hardware",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Sinter",
+    "description": "Accelerating scaled plastics with additive technologies",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/392a3938deea813eb9351409e9ac2cd528e737d7.png",
+    "website": "https://sinter.systems",
+    "location": "El Segundo, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "3D Printing",
+      "Manufacturing",
+      "Advanced Materials"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -25347,42 +25416,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Mutaz Musa**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Luce Labs",
     "description": "Programmable expression of high-value plant compounds\n",
     "logo": "",
@@ -25461,6 +25494,42 @@
     },
     "extra": {
       "country": "Canada"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Mutaz Musa**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
     }
   }
 ]

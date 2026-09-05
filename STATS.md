@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-04._
+_Auto-generated from the dataset on 2026-09-05._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,138** |
+| Total companies | **21,144** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2770** |
+| 💰 Exits | **2774** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-09-04._
 
 | Source | Companies |
 |---|---|
-| yc | 6,200 |
+| yc | 6,202 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,239 |
-| antler | 1,070 |
+| antler | 1,074 |
 | alchemist | 517 |
 | ef | 499 |
 
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-09-04._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1045
-2026  ██████████████░░░░░░░░░░░░░░ 771
+2026  ██████████████░░░░░░░░░░░░░░ 773
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-09-04._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1399
-3. **Antler** — 1070
+3. **Antler** — 1074
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -97,7 +97,7 @@ _Auto-generated from the dataset on 2026-09-04._
 10. **YC Winter 2024** — 248
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
-13. **YC Summer 2026** — 236
+13. **YC Summer 2026** — 235
 14. **YC Summer 2022** — 234
 15. **YC Winter 2020** — 228
 
@@ -108,15 +108,15 @@ _Auto-generated from the dataset on 2026-09-04._
 4. **Mobile** — 1141
 5. **Consumer** — 1066
 6. **Artificial Intelligence** — 998
-7. **AI** — 888
+7. **AI** — 889
 8. **Healthcare** — 817
 9. **Developer Tools** — 710
 10. **Infrastructure** — 691
 11. **Health** — 663
-12. **Industrials** — 631
+12. **Industrials** — 632
 13. **Engineering, Product and Design** — 620
 14. **Insurtech** — 513
-15. **B2B Software** — 492
+15. **B2B Software** — 494
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
 18. **Healthtech** — 440
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-09-04._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4600
+2. **United States of America** — 4602
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
