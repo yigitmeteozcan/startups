@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-05._
+_Auto-generated from the dataset on 2026-09-06._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,144** |
+| Total companies | **21,145** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2774** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-09-05._
 
 | Source | Companies |
 |---|---|
-| yc | 6,202 |
+| yc | 6,203 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,239 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-09-05._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1045
-2026  ██████████████░░░░░░░░░░░░░░ 773
+2026  ███████████████░░░░░░░░░░░░░ 774
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -108,12 +108,12 @@ _Auto-generated from the dataset on 2026-09-05._
 4. **Mobile** — 1141
 5. **Consumer** — 1066
 6. **Artificial Intelligence** — 998
-7. **AI** — 889
+7. **AI** — 890
 8. **Healthcare** — 817
 9. **Developer Tools** — 710
-10. **Infrastructure** — 691
+10. **Infrastructure** — 693
 11. **Health** — 663
-12. **Industrials** — 632
+12. **Industrials** — 633
 13. **Engineering, Product and Design** — 620
 14. **Insurtech** — 513
 15. **B2B Software** — 494
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-09-05._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4602
+2. **United States of America** — 4603
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902

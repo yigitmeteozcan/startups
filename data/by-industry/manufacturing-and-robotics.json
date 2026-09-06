@@ -3441,7 +3441,7 @@
   {
     "source": "yc",
     "name": "Waddle Labs",
-    "description": "Agents for robotics control. ",
+    "description": "LLMs that control robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f525546cff510b464f7877004fcc10c8f0b97843.png",
     "website": "https://www.waddlelabs.ai/",
     "location": "Boston, MA, USA",
@@ -4116,7 +4116,7 @@
   {
     "source": "yc",
     "name": "Proprio Robotics",
-    "description": "Building autonomous data centers",
+    "description": "Robots to maintain and assemble data centers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3aeac99898de10d679342b3768b7bc6047f56469.png",
     "website": "https://www.propriorobotics.com/",
     "location": "San Francisco, CA, USA",
@@ -4125,8 +4125,8 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -4492,7 +4492,7 @@
   {
     "source": "yc",
     "name": "Moving Atoms",
-    "description": "Solving the Data Problem in Robotics, #1 on Physics-IQ",
+    "description": "World Models for training and evaluating robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
     "website": "https://movingatoms.ai/",
     "location": "San Francisco, CA, USA",
@@ -4629,7 +4629,7 @@
   {
     "source": "yc",
     "name": "Hebbian Robotics",
-    "description": "Open source SDK for building quality control pipelines for Physical AI",
+    "description": "APIs for robotics data teams to verify data quality for model training",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e7272f21860060f8aa33bb297af6d18fab5ffdc.png",
     "website": "https://hebbianrobotics.com/",
     "location": "San Francisco, CA, USA",
@@ -4839,7 +4839,7 @@
     "description": "Force-sensing wristband for training robotic AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
     "website": "https://hemlock.info",
-    "location": "Los Angeles, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -4847,6 +4847,40 @@
       "Manufacturing and Robotics",
       "Hard Tech",
       "Hardware"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Dreamscale Labs",
+    "description": "Running robot brains in the cloud",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1a1d1aaa10413e5d45ca3d2aefe2fb4b682e7fb4.png",
+    "website": "https://dreamscalelabs.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Robotics",
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

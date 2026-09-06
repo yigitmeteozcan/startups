@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:43:56.199Z",
+  "generatedAt": "2026-09-06T11:05:34.502Z",
   "sources": [
     {
       "name": "500",
@@ -9,7 +9,7 @@
     {
       "name": "yc",
       "site": "https://www.ycombinator.com/companies",
-      "count": 6202
+      "count": 6203
     },
     {
       "name": "plugandplay",
@@ -38,10 +38,10 @@
     }
   ],
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data",
-  "total": 21144,
+  "total": 21145,
   "endpoints": {
     "all": {
-      "count": 21144,
+      "count": 21145,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json",
       "csv": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.csv",
       "xlsx": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx"
@@ -71,7 +71,7 @@
       {
         "name": "yc",
         "slug": "yc",
-        "count": 6202,
+        "count": 6203,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/yc.json"
       },
       {
@@ -169,7 +169,7 @@
       {
         "name": "2026",
         "slug": "2026",
-        "count": 773,
+        "count": 774,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2026.json"
       },
       {
@@ -777,7 +777,7 @@
       {
         "name": "YC Fall 2026",
         "slug": "yc-fall-2026",
-        "count": 34,
+        "count": 35,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-fall-2026.json"
       },
       {
@@ -2303,7 +2303,7 @@
       {
         "name": "United States of America",
         "slug": "united-states-of-america",
-        "count": 4602,
+        "count": 4603,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-states-of-america.json"
       },
       {
@@ -2965,7 +2965,7 @@
       {
         "name": "AI",
         "slug": "ai",
-        "count": 889,
+        "count": 890,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ai.json"
       },
       {
@@ -2983,7 +2983,7 @@
       {
         "name": "Infrastructure",
         "slug": "infrastructure",
-        "count": 691,
+        "count": 693,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/infrastructure.json"
       },
       {
@@ -2995,7 +2995,7 @@
       {
         "name": "Industrials",
         "slug": "industrials",
-        "count": 632,
+        "count": 633,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/industrials.json"
       },
       {
@@ -3145,7 +3145,7 @@
       {
         "name": "Content",
         "slug": "content",
-        "count": 275,
+        "count": 276,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/content.json"
       },
       {
@@ -3175,7 +3175,7 @@
       {
         "name": "Edtech",
         "slug": "edtech",
-        "count": 253,
+        "count": 254,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/edtech.json"
       },
       {
@@ -3329,16 +3329,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/climate.json"
       },
       {
+        "name": "Robotics",
+        "slug": "robotics",
+        "count": 153,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/robotics.json"
+      },
+      {
         "name": "Security",
         "slug": "security",
         "count": 153,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/security.json"
-      },
-      {
-        "name": "Robotics",
-        "slug": "robotics",
-        "count": 152,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/robotics.json"
       },
       {
         "name": "Healthcare IT",
@@ -3355,7 +3355,7 @@
       {
         "name": "Manufacturing and Robotics",
         "slug": "manufacturing-and-robotics",
-        "count": 145,
+        "count": 146,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/manufacturing-and-robotics.json"
       },
       {
@@ -3385,7 +3385,7 @@
       {
         "name": "AI/Machine Learning",
         "slug": "ai-machine-learning",
-        "count": 135,
+        "count": 138,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ai-machine-learning.json"
       },
       {
@@ -3415,7 +3415,7 @@
       {
         "name": "Enterprise",
         "slug": "enterprise",
-        "count": 128,
+        "count": 129,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/enterprise.json"
       },
       {
@@ -3511,7 +3511,7 @@
       {
         "name": "Finance",
         "slug": "finance",
-        "count": 98,
+        "count": 99,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finance.json"
       },
       {
@@ -3547,7 +3547,7 @@
       {
         "name": "Social Media",
         "slug": "social-media",
-        "count": 92,
+        "count": 91,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/social-media.json"
       },
       {
