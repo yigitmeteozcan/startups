@@ -2192,9 +2192,9 @@
     "subregion": "",
     "tags": [
       "Industrials",
+      "Artificial Intelligence",
       "Hard Tech",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -2850,8 +2850,8 @@
     "description": "AI performance monitoring for factory workers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d86ffdce2296389239f29bc23023bc7867815208.png",
     "website": "https://www.optifye.ai",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "New Delhi, DL, India",
+    "region": "India",
     "subregion": "",
     "tags": [
       "Hard Tech",
@@ -3879,7 +3879,7 @@
   {
     "source": "yc",
     "name": "Rise Reforming",
-    "description": "We turn waste gases into valuable supply-secure chemicals ",
+    "description": "We turn waste gases into supply-secure chemicals ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b908857ac82ef0d2a3b793f89fa198298587f8a.png",
     "website": "https://rise-reforming.com/home",
     "location": "Chicago, IL, USA",
@@ -3949,7 +3949,7 @@
   {
     "source": "yc",
     "name": "Aerogen Systems",
-    "description": "Building the future of advanced chip manufacturing.",
+    "description": "Modernizing Chip Manufacturing Infrastructure",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/235b4dc8ef4a94e38d79ce892c9d55184a2b0224.png",
     "website": "https://www.aerogensystems.com/",
     "location": "Ann Arbor, MI, USA",
@@ -3982,7 +3982,7 @@
   {
     "source": "yc",
     "name": "Daqstra",
-    "description": "AI-native test infrastructure to accelerate hardware companies.",
+    "description": "AI-native test infrastructure layer for hardware companies",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dad9cd6f305ec9c8a219f22ee7d83e68f227d245.png",
     "website": "https://www.daqstra.com",
     "location": "San Francisco, CA, USA",
@@ -4118,6 +4118,41 @@
   },
   {
     "source": "yc",
+    "name": "Ekho Labs",
+    "description": "World Model for Freight",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8de6c5bf64155f5dfde0293d76560b38b3e3b46f.png",
+    "website": "https://ekholabs.com/",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Supply Chain and Logistics",
+      "Artificial Intelligence",
+      "Hard Tech",
+      "SaaS",
+      "Supply Chain",
+      "Enterprise Software"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Cosmic Robotics",
     "description": "Autonomous construction on Earth and beyond",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/610b3f44c95c65ea346121a48c57b8c81a3788ce.png",
@@ -4153,7 +4188,7 @@
   {
     "source": "yc",
     "name": "Praxis Robotics",
-    "description": "Turns every company into a data vendor ",
+    "description": "Turns real businesses into robotics data vendors",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9bc18b804ad9a5d92ef1db88e90491f98e0204a7.png",
     "website": "https://www.praxisrobotics.io",
     "location": "San Francisco, CA, USA",
@@ -4219,7 +4254,7 @@
   {
     "source": "yc",
     "name": "Ethos Space Resources",
-    "description": "We make Silicon on the Moon.",
+    "description": "We make silicon on the Moon for the terawatt era of space power.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/26c677c7621160c55e8011d6851971173fe4f8e9.png",
     "website": "https://ethos-space.com",
     "location": "Los Angeles, CA, USA",
@@ -4290,7 +4325,7 @@
   {
     "source": "yc",
     "name": "Vernius Systems, Inc.",
-    "description": "Low cost military radar systems",
+    "description": "Distributed radar systems for air defense",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b6b4e6b2f945df4b3400a22fc1d287a788bc4215.png",
     "website": "https://www.vernius.systems",
     "location": "San Francisco, CA, USA",
@@ -4325,7 +4360,7 @@
   {
     "source": "yc",
     "name": "Robocurve",
-    "description": "Real-world evals for robots",
+    "description": "Evals for robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1cfdafb2f71eef92d986496e842d5218b330742b.png",
     "website": "https://robocurve.org",
     "location": "San Francisco, CA, USA",
@@ -4361,7 +4396,7 @@
   {
     "source": "yc",
     "name": "Salem Robotics Inc",
-    "description": "Deploying robots for inspections in hazardous spaces, like nuclear.",
+    "description": "Deploying robots to replace workers in hazardous spaces",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fbf386dc8fa91340ed1cce1b80613f66e88ee12d.png",
     "website": "https://salemroboticsinc.com",
     "location": "Austin, TX, USA",
@@ -4400,7 +4435,7 @@
     "description": "Floating nuclear powered data centers at sea.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6485491a38d727a14e926be75b62003c9f8fccff.png",
     "website": "https://atomarine.co",
-    "location": "Boston, MA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [

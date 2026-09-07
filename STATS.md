@@ -1,6 +1,6 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-06._
+_Auto-generated from the dataset on 2026-09-07._
 
 | Metric | Count |
 |---|---|
@@ -102,19 +102,19 @@ _Auto-generated from the dataset on 2026-09-06._
 15. **YC Winter 2020** — 228
 
 ## Top industries
-1. **Fintech** — 2485
+1. **Fintech** — 2487
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1424
 4. **Mobile** — 1141
 5. **Consumer** — 1066
-6. **Artificial Intelligence** — 998
-7. **AI** — 890
+6. **Artificial Intelligence** — 997
+7. **AI** — 895
 8. **Healthcare** — 817
 9. **Developer Tools** — 710
-10. **Infrastructure** — 693
+10. **Infrastructure** — 692
 11. **Health** — 663
-12. **Industrials** — 633
-13. **Engineering, Product and Design** — 620
+12. **Industrials** — 634
+13. **Engineering, Product and Design** — 619
 14. **Insurtech** — 513
 15. **B2B Software** — 494
 16. **Deeptech** — 489
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-09-06._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4603
+2. **United States of America** — 4602
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -134,7 +134,7 @@ _Auto-generated from the dataset on 2026-09-06._
 8. **South Asia** — 264
 9. **United Kingdom** — 218
 10. **Canada** — 215
-11. **India** — 210
+11. **India** — 211
 12. **Latin America** — 163
 13. **Middle East** — 159
 14. **Unspecified** — 120
@@ -143,7 +143,7 @@ _Auto-generated from the dataset on 2026-09-06._
 17. **Southeast Asia** — 93
 18. **Remote** — 80
 19. **Mexico** — 79
-20. **France** — 75
+20. **France** — 74
 21. **Oceania** — 73
 22. **Brazil** — 69
 23. **Germany** — 64
@@ -183,13 +183,13 @@ _Auto-generated from the dataset on 2026-09-06._
 57. **Belgium** — 4
 58. **Finland** — 4
 59. **Saudi Arabia** — 4
-60. **Morocco** — 3
-61. **South Africa** — 3
-62. **New Zealand** — 3
-63. **Estonia** — 3
-64. **East Asia** — 3
-65. **Japan** — 2
-66. **Portugal** — 2
+60. **Portugal** — 3
+61. **Morocco** — 3
+62. **South Africa** — 3
+63. **New Zealand** — 3
+64. **Estonia** — 3
+65. **East Asia** — 3
+66. **Japan** — 2
 67. **Czechia** — 2
 68. **Senegal** — 2
 69. **Ukraine** — 2
