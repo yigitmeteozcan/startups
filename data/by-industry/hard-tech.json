@@ -3808,6 +3808,40 @@
   },
   {
     "source": "yc",
+    "name": "Edgerun",
+    "description": "Military exoskeletons",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8fb84bc8b7f8d02b776dec7685bbaf102fdadf1c.png",
+    "website": "https://edgerun.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Defense",
+      "Hard Tech",
+      "Hardware",
+      "Robotics"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Mass Magnetics",
     "description": "USA-made magnetics for robotics and defense. ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/26161cef0e683292e39a5da2d6258b38702473a0.png",
@@ -4083,7 +4117,7 @@
   {
     "source": "yc",
     "name": "Moving Atoms",
-    "description": "World Models for training and evaluating robots",
+    "description": "World Models for training robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
     "website": "https://movingatoms.ai/",
     "location": "San Francisco, CA, USA",
@@ -4092,11 +4126,11 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
       "Virtual Reality",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "year": 2026,
     "program": "YC Summer 2026",

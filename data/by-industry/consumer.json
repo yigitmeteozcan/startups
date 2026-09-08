@@ -11525,15 +11525,16 @@
     "source": "yc",
     "name": "The Essential",
     "description": "E-commerce 2.0",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/690fb6b08cd23a5001d2df61c2014c2b652d1650.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/45582b16a5d938bbad091f36c2df3206414b1b7e.png",
     "website": "http://www.theessential.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
+      "Manufacturing",
       "E-commerce",
-      "Food Tech"
+      "Supply Chain"
     ],
     "year": 2017,
     "program": "YC Winter 2017",
@@ -31479,20 +31480,18 @@
   },
   {
     "source": "yc",
-    "name": "OpenTrade",
-    "description": "The new interface for investing.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2b3f64adc26505359934c58cacea3f1c48facac8.png",
-    "website": "https://opentrade.live/",
+    "name": "Moonshot",
+    "description": "agents for the rest of us",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/609d8457269ad1be9496a28a67f4cd8fd8c26af1.png",
+    "website": "https://moonshot.computer/",
     "location": "Seattle, WA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
-      "Finance",
-      "Gaming",
-      "Investing",
-      "Consumer Finance",
-      "Stocks"
+      "Productivity",
+      "AI",
+      "AI Assistant"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -31523,10 +31522,10 @@
     "subregion": "",
     "tags": [
       "Consumer",
+      "Hardware",
       "Personalization",
       "Privacy",
       "Consumer Products",
-      "AI",
       "AI Assistant"
     ],
     "year": 2026,
@@ -31647,8 +31646,8 @@
   },
   {
     "source": "yc",
-    "name": "MOCHI.TV",
-    "description": "Watch and create anime microdramas",
+    "name": "Mochi",
+    "description": "Watch and create anime",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f190f58f8300e2403a89619d8522badbb222ad8f.png",
     "website": "https://www.mochi.tv/",
     "location": "San Francisco, CA, USA",
@@ -31657,7 +31656,7 @@
     "tags": [
       "Consumer",
       "Content",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -35863,49 +35862,6 @@
   },
   {
     "source": "500",
-    "name": "Clarity",
-    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
-    "website": "https://clarity.fm",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Consumer"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dan Martell",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mike Wu",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "500",
     "name": "Rebaja Tus Cuentas",
     "description": "Developer of a mortgage purchase software designed to provide financial advisory services for mortgage debts. The company's software provides a form for basic information about the current mortgage credit, helps in finding good bidders with the financial institution to close the terms of the transfer of the mortgage, enabling users to avail mortgage debt purchase without any hassle.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a433923-6059-4e38-9d1a-1c4710fb1007.png",
@@ -35947,6 +35903,49 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Clarity",
+    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
+    "website": "https://clarity.fm",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Consumer"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dan Martell",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike Wu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
     }
   },
   {

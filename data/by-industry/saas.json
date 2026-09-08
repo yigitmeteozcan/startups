@@ -33712,9 +33712,9 @@
   {
     "source": "yc",
     "name": "Concourse",
-    "description": "AI Agents for corporate finance teams",
+    "description": "The AI Agent platform for finance",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a23ab54dfc7d4f1d332c905fd3e054c452007712.png",
-    "website": "https://concourse.co/",
+    "website": "https://concourse.ai/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
@@ -36990,8 +36990,8 @@
     "subregion": "",
     "tags": [
       "Marketing",
-      "Artificial Intelligence",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "year": 2023,
     "program": "YC Summer 2023",
@@ -42790,7 +42790,7 @@
   {
     "source": "yc",
     "name": "Rapidfolio",
-    "description": "AI for fintechs & banks",
+    "description": "AI-native back-office for banks and fintechs",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/03c9e049e23bc7dcc8df7c9c46fd48f3e74846af.png",
     "website": "https://rapidfolio.com/",
     "location": "San Francisco, CA, USA",
@@ -42824,16 +42824,16 @@
   {
     "source": "yc",
     "name": "Assemble",
-    "description": "AI Coworkers for IT teams",
+    "description": "Autonomous IT Delivery",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fdaeafd72d237eaf328842585365c3b7ce49cb7c.png",
     "website": "https://www.assemble.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -42889,7 +42889,7 @@
   {
     "source": "yc",
     "name": "Poth Labs",
-    "description": "Conversational surveys that replace Qualtrics for large brands",
+    "description": "The customer brain that connects data to explain customer behavior",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ee08f2b3965c952b7b91fda669eab1aace70f2b1.png",
     "website": "https://pothlabs.com",
     "location": "San Francisco, CA, USA",
@@ -43783,7 +43783,7 @@
   {
     "source": "yc",
     "name": "HyperProbe",
-    "description": "Data layer AI Agents call to fix production apps on their own",
+    "description": "Data layer AI Agents call to fix production apps",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b4b91e0b78bbed1c83add57d22b06ab632567450.png",
     "website": "https://hyperprobe.co",
     "location": "San Francisco, CA, USA",
@@ -45634,6 +45634,56 @@
     },
     "extra": {
       "country": "Saudi Arabia"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Karpatia Benefits",
+    "description": "The cross-border employee benefits platform with embedded marketplace that increases engagement.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/1902240d-aa5e-43ab-98bf-7655270692f7.png",
+    "website": "https://www.karpatia.tech",
+    "location": "Ukraine",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "SaaS",
+      "B2B Marketplaces",
+      "HR Tech"
+    ],
+    "year": 2026,
+    "program": "Eurasia 10",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dmytro Stepanenko",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alina Golubieva",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Zelenin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/karpatia-benefits/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Ukraine"
     }
   },
   {
@@ -48273,50 +48323,6 @@
   },
   {
     "source": "500",
-    "name": "Fatora",
-    "description": "All-in-one tool to go eCommerce and start selling",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
-    "website": "https://maktapp.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "SaaS"
-    ],
-    "year": 2020,
-    "program": "Dojo III",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Waleed Fatora",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saleh Al-Mansouri",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Plerk",
     "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
@@ -48450,6 +48456,50 @@
       },
       {
         "name": "Samantha Holloway",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Fatora",
+    "description": "All-in-one tool to go eCommerce and start selling",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
+    "website": "https://maktapp.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "SaaS"
+    ],
+    "year": 2020,
+    "program": "Dojo III",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Waleed Fatora",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saleh Al-Mansouri",
         "role": "",
         "linkedin": ""
       }
