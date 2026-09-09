@@ -1198,10 +1198,10 @@
     "subregion": "",
     "tags": [
       "Supply Chain and Logistics",
-      "Artificial Intelligence",
       "Logistics",
       "Supply Chain",
-      "Transportation"
+      "Transportation",
+      "AI"
     ],
     "year": 2021,
     "program": "YC Summer 2021",
@@ -2821,10 +2821,10 @@
     "subregion": "",
     "tags": [
       "Supply Chain and Logistics",
-      "Artificial Intelligence",
       "Logistics",
       "Manufacturing",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -3052,7 +3052,7 @@
   {
     "source": "yc",
     "name": "Derya",
-    "description": "Agents for Industrial Supply Chains",
+    "description": "AI Brokers for Industrial Trade",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e0512b453e994207fdf56052eb221e687d29dc51.png",
     "website": "http://usederya.com",
     "location": "San Francisco, CA, USA",
@@ -5706,6 +5706,49 @@
   },
   {
     "source": "500",
+    "name": "Mailhaven",
+    "description": "Developer of a mailbox application designed to track packages. The company's mailbox application permits managing of online purchases and automated tracking of shipments, enabling users to simplify package tracking.",
+    "logo": "",
+    "website": "https://mailhaven.co",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Supply Chain"
+    ],
+    "year": 2017,
+    "program": "GA 22",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Kelachukwu Ivonye",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jonathan Frazier",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "Deal Connect",
     "description": "Developing a logistics optimization service for scrap metal industry",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e8bc9ef3-000b-49fb-8c63-be574e579258.png",
@@ -6002,49 +6045,6 @@
       },
       {
         "name": "Karthik Sridharan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Mailhaven",
-    "description": "Developer of a mailbox application designed to track packages. The company's mailbox application permits managing of online purchases and automated tracking of shipments, enabling users to simplify package tracking.",
-    "logo": "",
-    "website": "https://mailhaven.co",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Supply Chain"
-    ],
-    "year": 2017,
-    "program": "GA 22",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Kelachukwu Ivonye",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jonathan Frazier",
         "role": "",
         "linkedin": ""
       }

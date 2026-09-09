@@ -1351,39 +1351,6 @@
   },
   {
     "source": "yc",
-    "name": "Stratum Industries",
-    "description": "Applied AI for Governments.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cbb396809ed692f744f764e5cd86703142288a07.png",
-    "website": "https://stratumindustries.co/",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Government",
-      "Artificial Intelligence",
-      "GovTech",
-      "Automation"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Capveon",
     "description": "Turning infrastructure demand into action ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/55acb7275a696cdf957737bce96b338f2da2d45f.png",
@@ -1738,18 +1705,18 @@
   },
   {
     "source": "500",
-    "name": "Votizen",
-    "description": "Provider of a platform for U.S. political engagement. The company is a provider of media content focused on U.S. federal, state and local processes and citizen engagement in democracy.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c52ad649-0ed6-4837-9964-c6abea45df03.png",
-    "website": "https://www.votizen.com",
+    "name": "CrowdForce",
+    "description": "Provider of an online platform designed to create forms online to collect quality data using any mobile device. The company's platform offers to create, save and publish forms with online form builder and it captures quality data, keep all forms in one place, analyze data and provide insights on that, enabling local & international businesses, NGOs, and Governments crowdsource reliable market about Africa.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7284f602-f721-4fbd-ae0f-806e2a865cc3.png",
+    "website": "https://crowdforce.io",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Government"
     ],
-    "year": 2010,
-    "program": "500 Global",
+    "year": 2017,
+    "program": "GA 22",
     "programSlugs": [
       "500"
     ],
@@ -1759,23 +1726,18 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "David Binetti",
+        "name": "Damilola Ayorinde",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Jason Putorti",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Matt Snider",
+        "name": "Oluwatomi Ayorinde",
         "role": "",
         "linkedin": ""
       }
     ],
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/crowdforce",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -1819,49 +1781,6 @@
     ],
     "social": {
       "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "CrowdForce",
-    "description": "Provider of an online platform designed to create forms online to collect quality data using any mobile device. The company's platform offers to create, save and publish forms with online form builder and it captures quality data, keep all forms in one place, analyze data and provide insights on that, enabling local & international businesses, NGOs, and Governments crowdsource reliable market about Africa.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7284f602-f721-4fbd-ae0f-806e2a865cc3.png",
-    "website": "https://crowdforce.io",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Government"
-    ],
-    "year": 2017,
-    "program": "GA 22",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Damilola Ayorinde",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Oluwatomi Ayorinde",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/company/crowdforce",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -2048,6 +1967,54 @@
       },
       {
         "name": "Elle (Beard) Hempen",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Votizen",
+    "description": "Provider of a platform for U.S. political engagement. The company is a provider of media content focused on U.S. federal, state and local processes and citizen engagement in democracy.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c52ad649-0ed6-4837-9964-c6abea45df03.png",
+    "website": "https://www.votizen.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Government"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "David Binetti",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jason Putorti",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt Snider",
         "role": "",
         "linkedin": ""
       }

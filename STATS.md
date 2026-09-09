@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-08._
+_Auto-generated from the dataset on 2026-09-09._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,147** |
+| Total companies | **21,146** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2774** |
 | 🌱 B Corps | **29** |
@@ -18,7 +18,7 @@ _Auto-generated from the dataset on 2026-09-08._
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,239 |
-| antler | 1,075 |
+| antler | 1,074 |
 | alchemist | 517 |
 | ef | 499 |
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-09-08._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1399
-3. **Antler** — 1075
+3. **Antler** — 1074
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -106,26 +106,26 @@ _Auto-generated from the dataset on 2026-09-08._
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1425
 4. **Mobile** — 1141
-5. **Consumer** — 1066
-6. **Artificial Intelligence** — 1001
-7. **AI** — 894
-8. **Healthcare** — 818
-9. **Developer Tools** — 710
+5. **Consumer** — 1064
+6. **Artificial Intelligence** — 997
+7. **AI** — 900
+8. **Healthcare** — 819
+9. **Developer Tools** — 711
 10. **Infrastructure** — 692
 11. **Health** — 663
-12. **Industrials** — 634
-13. **Engineering, Product and Design** — 619
+12. **Industrials** — 635
+13. **Engineering, Product and Design** — 620
 14. **Insurtech** — 513
-15. **B2B Software** — 495
+15. **B2B Software** — 494
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
 18. **Healthtech** — 440
-19. **Energy** — 430
+19. **Energy** — 431
 20. **Mobility & Physical AI** — 409
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4605
+2. **United States of America** — 4604
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -133,7 +133,7 @@ _Auto-generated from the dataset on 2026-09-08._
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
 9. **United Kingdom** — 217
-10. **Canada** — 215
+10. **Canada** — 216
 11. **India** — 211
 12. **Latin America** — 163
 13. **Middle East** — 159

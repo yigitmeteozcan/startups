@@ -43086,7 +43086,7 @@
   {
     "source": "yc",
     "name": "Sidekick",
-    "description": "AI agent that manages frontline operations over text",
+    "description": "AI agent that manages manufacturing operations over text",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://textsidekick.com/",
     "location": "San Francisco, CA, USA",
@@ -43191,7 +43191,7 @@
     "description": "The IDE for Tokenmaxxers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
     "website": "https://maxxwell.dev",
-    "location": "Boston, MA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -43326,9 +43326,9 @@
     "subregion": "",
     "tags": [
       "Sales",
-      "Artificial Intelligence",
       "SaaS",
-      "Sales Enablement"
+      "Sales Enablement",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -43551,16 +43551,16 @@
   {
     "source": "yc",
     "name": "Akon Labs",
-    "description": "The Github For Coding Agents",
+    "description": "Databricks for Enterprise Codebases",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7195cae7a2ed2e9a5da8741119043c95ba614f7c.png",
     "website": "https://akonlabs.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -43783,7 +43783,7 @@
   {
     "source": "yc",
     "name": "HyperProbe",
-    "description": "Data layer AI Agents call to fix production apps",
+    "description": "AI engineer that debugs and fixes production incidents in realtime",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b4b91e0b78bbed1c83add57d22b06ab632567450.png",
     "website": "https://hyperprobe.co",
     "location": "San Francisco, CA, USA",
@@ -48268,20 +48268,19 @@
   },
   {
     "source": "500",
-    "name": "Avocode",
-    "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
-    "logo": "",
-    "website": "https://www.avocode.com",
+    "name": "Fatora",
+    "description": "All-in-one tool to go eCommerce and start selling",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
+    "website": "https://maktapp.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Enterprise",
-      "Productivity",
+      "FinTech",
       "SaaS"
     ],
-    "year": 2016,
-    "program": "500 Global",
+    "year": 2020,
+    "program": "Dojo III",
     "programSlugs": [
       "500"
     ],
@@ -48291,22 +48290,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Anh Vu Hoang",
+        "name": "Waleed Fatora",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Martin Duris",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Petr Brzek",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Hoang Anh Vu",
+        "name": "Saleh Al-Mansouri",
         "role": "",
         "linkedin": ""
       }
@@ -48472,19 +48461,20 @@
   },
   {
     "source": "500",
-    "name": "Fatora",
-    "description": "All-in-one tool to go eCommerce and start selling",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
-    "website": "https://maktapp.com",
+    "name": "Avocode",
+    "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
+    "logo": "",
+    "website": "https://www.avocode.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Enterprise",
+      "Productivity",
       "SaaS"
     ],
-    "year": 2020,
-    "program": "Dojo III",
+    "year": 2016,
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -48494,12 +48484,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Waleed Fatora",
+        "name": "Anh Vu Hoang",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Saleh Al-Mansouri",
+        "name": "Martin Duris",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Petr Brzek",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Hoang Anh Vu",
         "role": "",
         "linkedin": ""
       }
