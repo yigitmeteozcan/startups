@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-11._
+_Auto-generated from the dataset on 2026-09-12._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,154** |
+| Total companies | **21,156** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2773** |
+| 💰 Exits | **2774** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-09-11._
 
 | Source | Companies |
 |---|---|
-| yc | 6,212 |
+| yc | 6,214 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,239 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-09-11._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1045
-2026  ███████████████░░░░░░░░░░░░░ 783
+2026  ███████████████░░░░░░░░░░░░░ 785
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -107,33 +107,33 @@ _Auto-generated from the dataset on 2026-09-11._
 3. **SaaS** — 1426
 4. **Mobile** — 1141
 5. **Consumer** — 1065
-6. **Artificial Intelligence** — 1000
-7. **AI** — 903
+6. **Artificial Intelligence** — 1003
+7. **AI** — 899
 8. **Healthcare** — 819
-9. **Developer Tools** — 713
+9. **Developer Tools** — 712
 10. **Infrastructure** — 693
 11. **Health** — 663
-12. **Industrials** — 637
+12. **Industrials** — 638
 13. **Engineering, Product and Design** — 620
 14. **Insurtech** — 513
 15. **B2B Software** — 494
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
 18. **Healthtech** — 440
-19. **Energy** — 430
+19. **Energy** — 431
 20. **Mobility & Physical AI** — 409
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4616
+2. **United States of America** — 4619
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 216
-10. **Canada** — 216
+9. **Canada** — 216
+10. **United Kingdom** — 215
 11. **India** — 210
 12. **Latin America** — 163
 13. **Middle East** — 159

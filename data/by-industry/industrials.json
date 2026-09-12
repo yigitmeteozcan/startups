@@ -12961,7 +12961,7 @@
     "programSlugs": [
       "yc-fall-2024"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -16630,7 +16630,7 @@
   {
     "source": "yc",
     "name": "Tenet Industries",
-    "description": "Low-cost, mass-producible defense systems",
+    "description": "AI-automated PCB assembly factories",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
     "website": "https://www.tenetindustries.com",
     "location": "Stockholm, Stockholm County, Sweden",
@@ -16638,7 +16638,12 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Defense"
+      "Manufacturing and Robotics",
+      "Hardware",
+      "Manufacturing",
+      "Automation",
+      "Electronics",
+      "Industrial"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -18786,6 +18791,41 @@
       "Energy",
       "Deep Learning",
       "IoT"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Micora",
+    "description": "Solar farm in a box built anywhere in days",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7fc1316658ceceb944d2c372912cac6b6db9e5ec.png",
+    "website": "https://micora.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Energy",
+      "Energy Storage",
+      "Robotics",
+      "Solar Power",
+      "Construction"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

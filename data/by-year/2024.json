@@ -29389,7 +29389,7 @@
   {
     "source": "yc",
     "name": "Forge",
-    "description": "Getting companies refunds on tariffs & duties",
+    "description": "AI native freight forwarder and customs broker",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9a8698407a8cb5928c428073e83afe6e5668d63c.png",
     "website": "https://www.forgehq.com/",
     "location": "New York City, NY, USA",
@@ -29397,9 +29397,9 @@
     "subregion": "",
     "tags": [
       "Supply Chain and Logistics",
-      "Artificial Intelligence",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -37649,17 +37649,17 @@
   {
     "source": "yc",
     "name": "Arva AI",
-    "description": "AI Agents to scale AML, KYB and KYC operations",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
+    "description": "AI for critical banking operations",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2ae299aabd083b7f6ae2fc0bfa29903e922b33af.png",
     "website": "https://www.arva.ai",
-    "location": "London, England, United Kingdom",
-    "region": "United Kingdom",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -39839,7 +39839,7 @@
     "programSlugs": [
       "yc-fall-2024"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -49048,47 +49048,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Loopid",
-    "description": "Making product data ready for AI",
-    "logo": "",
-    "website": "",
-    "location": "Munich, Germany",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Christian",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Alexis",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Germany"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Kimaru AI",
     "description": "Enterprise Decision Operating System.",
     "logo": "",
@@ -49131,6 +49090,47 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Loopid",
+    "description": "Making product data ready for AI",
+    "logo": "",
+    "website": "",
+    "location": "Munich, Germany",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Christian",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alexis",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Germany"
     }
   },
   {
@@ -49692,11 +49692,139 @@
   },
   {
     "source": "alchemist",
-    "name": "DiffEnder",
-    "description": "Ship 2x faster with AI-Assisted Code Reviews",
+    "name": "Wisary",
+    "description": "Wisary helps product teams define what to build and align early, so AI and engineers build the right things faster.",
+    "logo": "",
+    "website": "",
+    "location": "Boulder, CO, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 37",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ala Stolpnik",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Cosign AI",
+    "description": "Never miss clinical trial candidates & save months recruiting",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Will Xie",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Riya Fukui",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Louie Cai",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Hubtalk AI ",
+    "description": "AI voice agents for enterprise contact centers",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Ivan Belokhvostikov**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Vitaliy Akulov**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Rashid Ismailov**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Clikr",
+    "description": "Turning UGC into a Revenue Driver for Both Brands and Customers",
+    "logo": "",
+    "website": "",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -49711,12 +49839,79 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Kyle Smith",
+        "name": "Laura Khoudari",
         "role": "",
         "linkedin": ""
-      },
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Corbu",
+    "description": "Design AI for Architecture, Engineering & Construction",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 37",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
       {
-        "name": "Connor Owen",
+        "name": "Taylor Schmidt",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "redfly.ai",
+    "description": "Helping Companies Fully Automate their Backend",
+    "logo": "",
+    "website": "",
+    "location": "Nashua, NH, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 37",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vijay Mohan",
         "role": "",
         "linkedin": ""
       }
@@ -49804,52 +49999,6 @@
   },
   {
     "source": "alchemist",
-    "name": "xMap",
-    "description": "Generative AI Platform For Geospatial Data",
-    "logo": "",
-    "website": "",
-    "location": "Delaware City, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mo Batran",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ayman Imam",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dr. Farid",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Pairity",
     "description": "Human-Context Data Infrastructure for High-Stakes Decisions",
     "logo": "",
@@ -49876,82 +50025,6 @@
     },
     "extra": {
       "country": "Canada"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Cosign AI",
-    "description": "Never miss clinical trial candidates & save months recruiting",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Will Xie",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Riya Fukui",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Louie Cai",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Biio",
-    "description": "Redefining Physical Intelligence",
-    "logo": "",
-    "website": "",
-    "location": "Cupertino, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
     }
   },
   {
@@ -50078,42 +50151,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Clikr",
-    "description": "Turning UGC into a Revenue Driver for Both Brands and Customers",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 38",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Laura Khoudari",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Atomistic Insights",
     "description": "Harnessing Protein Dynamics For Breakthrough Medicines",
     "logo": "",
@@ -50160,16 +50197,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Corbu",
-    "description": "Design AI for Architecture, Engineering & Construction",
+    "name": "Biio",
+    "description": "Redefining Physical Intelligence",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Cupertino, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2024,
-    "program": "Alchemist Class 37",
+    "program": "Alchemist Class 39",
     "programSlugs": [
       "alchemist"
     ],
@@ -50177,13 +50214,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Taylor Schmidt",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -50216,6 +50247,52 @@
     "founders": [
       {
         "name": "Luciana",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "xMap",
+    "description": "Generative AI Platform For Geospatial Data",
+    "logo": "",
+    "website": "",
+    "location": "Delaware City, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mo Batran",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ayman Imam",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dr. Farid",
         "role": "",
         "linkedin": ""
       }
@@ -50278,80 +50355,8 @@
   },
   {
     "source": "alchemist",
-    "name": "redfly.ai",
-    "description": "Helping Companies Fully Automate their Backend",
-    "logo": "",
-    "website": "",
-    "location": "Nashua, NH, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 37",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Vijay Mohan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Wisary",
-    "description": "Wisary helps product teams define what to build and align early, so AI and engineers build the right things faster.",
-    "logo": "",
-    "website": "",
-    "location": "Boulder, CO, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 37",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ala Stolpnik",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Hubtalk AI ",
-    "description": "AI voice agents for enterprise contact centers",
+    "name": "DiffEnder",
+    "description": "Ship 2x faster with AI-Assisted Code Reviews",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -50359,7 +50364,7 @@
     "subregion": "",
     "tags": [],
     "year": 2024,
-    "program": "Alchemist Class 40",
+    "program": "Alchemist Class 38",
     "programSlugs": [
       "alchemist"
     ],
@@ -50369,17 +50374,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Ivan Belokhvostikov**",
+        "name": "Kyle Smith",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Vitaliy Akulov**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Rashid Ismailov**",
+        "name": "Connor Owen",
         "role": "",
         "linkedin": ""
       }
