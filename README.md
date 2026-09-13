@@ -2,19 +2,19 @@
 
 The open API for every company across multiple startup portfolios — [Techstars](https://www.techstars.com/portfolio), [Y Combinator](https://www.ycombinator.com/companies), [Antler](https://www.antler.co/portfolio), [500 Global](https://500.co/portfolio), [Entrepreneur First](https://www.joinef.com/portfolio/), [Alchemist](https://www.alchemistaccelerator.com/portfolio), and [Plug and Play](https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups). Every record carries a `source` field, so you can query one combined dataset or filter to a single program. The data is refreshed automatically every day and served as static JSON, CSV, and XLSX over the jsDelivr CDN — no key, no rate limits, no setup.
 
-**Sources:** [yc](https://www.ycombinator.com/companies) (6,214) · [plugandplay](https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups) (5,508) · [techstars](https://www.techstars.com/portfolio) (5,105) · [500](https://500.co/portfolio) (2,239) · [antler](https://www.antler.co/portfolio) (1,074) · [alchemist](https://www.alchemistaccelerator.com/portfolio) (517) · [ef](https://www.joinef.com/portfolio/) (499)
+**Sources:** [yc](https://www.ycombinator.com/companies) (6,216) · [plugandplay](https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups) (5,508) · [techstars](https://www.techstars.com/portfolio) (5,105) · [500](https://500.co/portfolio) (2,239) · [antler](https://www.antler.co/portfolio) (1,074) · [alchemist](https://www.alchemistaccelerator.com/portfolio) (517) · [ef](https://www.joinef.com/portfolio/) (499)
 
 [![companies](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/stats.json&query=$.total&label=companies&color=blue)](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json)
 [![updated](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/stats.json&query=$.generatedAt&label=updated)](STATS.md)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-**[🔎 Live explorer →](https://yigitmeteozcan.github.io/startups/)** · search, filter (by source, region, industry, year range), sort, and export all 21,156 companies in your browser.
+**[🔎 Live explorer →](https://yigitmeteozcan.github.io/startups/)** · search, filter (by source, region, industry, year range), sort, and export all 21,158 companies in your browser.
 
 ## ℹ️ Metadata
 
-> Last updated: **2026-09-12**
+> Last updated: **2026-09-13**
 
-- **21,156** companies across **7** portfolio sources
+- **21,158** companies across **7** portfolio sources
 - **340** accelerator programs / cohorts
 - **477** industry verticals
 - **105** world regions, across **23** cohort years
@@ -88,7 +88,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/
 
 | Source | Companies | API |
 |---|---|---|
-| yc | 6214 | [`by-source/yc.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/yc.json) |
+| yc | 6216 | [`by-source/yc.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/yc.json) |
 | plugandplay | 5508 | [`by-source/plugandplay.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/plugandplay.json) |
 | techstars | 5105 | [`by-source/techstars.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/techstars.json) |
 | 500 | 2239 | [`by-source/500.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/500.json) |
@@ -106,7 +106,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/
 | Year | Companies | API |
 |---|---|---|
 | 2027 | 1 | [`by-year/2027.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2027.json) |
-| 2026 | 785 | [`by-year/2026.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2026.json) |
+| 2026 | 787 | [`by-year/2026.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2026.json) |
 | 2025 | 1045 | [`by-year/2025.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2025.json) |
 | 2024 | 1446 | [`by-year/2024.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2024.json) |
 | 2023 | 1493 | [`by-year/2023.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2023.json) |
@@ -143,11 +143,11 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/
 | SaaS | 1426 | [`by-industry/saas.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/saas.json) |
 | Mobile | 1141 | [`by-industry/mobile.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/mobile.json) |
 | Consumer | 1065 | [`by-industry/consumer.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/consumer.json) |
-| Artificial Intelligence | 1003 | [`by-industry/artificial-intelligence.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/artificial-intelligence.json) |
+| Artificial Intelligence | 1004 | [`by-industry/artificial-intelligence.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/artificial-intelligence.json) |
 | AI | 899 | [`by-industry/ai.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ai.json) |
 | Healthcare | 819 | [`by-industry/healthcare.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/healthcare.json) |
 | Developer Tools | 712 | [`by-industry/developer-tools.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/developer-tools.json) |
-| Infrastructure | 693 | [`by-industry/infrastructure.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/infrastructure.json) |
+| Infrastructure | 694 | [`by-industry/infrastructure.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/infrastructure.json) |
 | Health | 663 | [`by-industry/health.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/health.json) |
 | Industrials | 638 | [`by-industry/industrials.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/industrials.json) |
 | Engineering, Product and Design | 620 | [`by-industry/engineering-product-and-design.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/engineering-product-and-design.json) |
@@ -212,7 +212,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/
 | Biotech | 150 | [`by-industry/biotech.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/biotech.json) |
 | API | 143 | [`by-industry/api.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/api.json) |
 | Mobility tech | 142 | [`by-industry/mobility-tech.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/mobility-tech.json) |
-| Finance and Accounting | 139 | [`by-industry/finance-and-accounting.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finance-and-accounting.json) |
+| Finance and Accounting | 140 | [`by-industry/finance-and-accounting.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finance-and-accounting.json) |
 | AI/Machine Learning | 139 | [`by-industry/ai-machine-learning.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ai-machine-learning.json) |
 | Supply Chain and Logistics | 138 | [`by-industry/supply-chain-and-logistics.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/supply-chain-and-logistics.json) |
 | Hard Tech | 135 | [`by-industry/hard-tech.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/hard-tech.json) |
@@ -235,7 +235,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/
 | Data Engineering | 107 | [`by-industry/data-engineering.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/data-engineering.json) |
 | Foodtech | 105 | [`by-industry/foodtech.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/foodtech.json) |
 | Construction | 103 | [`by-industry/construction.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/construction.json) |
-| Finance | 99 | [`by-industry/finance.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finance.json) |
+| Finance | 100 | [`by-industry/finance.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finance.json) |
 | Automation | 98 | [`by-industry/automation.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/automation.json) |
 | Legal | 95 | [`by-industry/legal.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/legal.json) |
 | Food and Beverage | 94 | [`by-industry/food-and-beverage.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/food-and-beverage.json) |
@@ -626,7 +626,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/
 | Region | Companies | API |
 |---|---|---|
 | Americas | 5593 | [`by-region/americas.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/americas.json) |
-| United States of America | 4619 | [`by-region/united-states-of-america.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-states-of-america.json) |
+| United States of America | 4621 | [`by-region/united-states-of-america.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-states-of-america.json) |
 | Asia | 2990 | [`by-region/asia.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/asia.json) |
 | Europe | 1014 | [`by-region/europe.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/europe.json) |
 | North America | 902 | [`by-region/north-america.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/north-america.json) |
@@ -808,9 +808,9 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/
 | Techstars Detroit Accelerator | 54 | [`by-program/techstars-detroit-accelerator.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/techstars-detroit-accelerator.json) |
 | Techstars Washington DC powered by J.P. Morgan | 53 | [`by-program/techstars-washington-dc-powered-by-j-p-morgan.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/techstars-washington-dc-powered-by-j-p-morgan.json) |
 | YC Summer 2013 | 52 | [`by-program/yc-summer-2013.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-summer-2013.json) |
+| YC Fall 2026 | 51 | [`by-program/yc-fall-2026.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-fall-2026.json) |
 | Techstars Los Angeles powered by J.P. Morgan | 49 | [`by-program/techstars-los-angeles-powered-by-j-p-morgan.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/techstars-los-angeles-powered-by-j-p-morgan.json) |
 | Techstars New York City powered by J.P. Morgan | 49 | [`by-program/techstars-new-york-city-powered-by-j-p-morgan.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/techstars-new-york-city-powered-by-j-p-morgan.json) |
-| YC Fall 2026 | 49 | [`by-program/yc-fall-2026.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-fall-2026.json) |
 | ABN AMRO & Techstars Future of Finance Accelerator | 48 | [`by-program/abn-amro-techstars-future-of-finance-accelerator.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/abn-amro-techstars-future-of-finance-accelerator.json) |
 | Techstars Oakland powered by J.P. Morgan | 47 | [`by-program/techstars-oakland-powered-by-j-p-morgan.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/techstars-oakland-powered-by-j-p-morgan.json) |
 | YC Winter 2013 | 46 | [`by-program/yc-winter-2013.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-winter-2013.json) |

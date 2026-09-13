@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:56:04.331Z",
+  "generatedAt": "2026-09-13T12:01:10.621Z",
   "sources": [
     {
       "name": "500",
@@ -9,7 +9,7 @@
     {
       "name": "yc",
       "site": "https://www.ycombinator.com/companies",
-      "count": 6214
+      "count": 6216
     },
     {
       "name": "plugandplay",
@@ -38,10 +38,10 @@
     }
   ],
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data",
-  "total": 21156,
+  "total": 21158,
   "endpoints": {
     "all": {
-      "count": 21156,
+      "count": 21158,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json",
       "csv": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.csv",
       "xlsx": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx"
@@ -71,7 +71,7 @@
       {
         "name": "yc",
         "slug": "yc",
-        "count": 6214,
+        "count": 6216,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/yc.json"
       },
       {
@@ -169,7 +169,7 @@
       {
         "name": "2026",
         "slug": "2026",
-        "count": 785,
+        "count": 787,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2026.json"
       },
       {
@@ -661,6 +661,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-summer-2013.json"
       },
       {
+        "name": "YC Fall 2026",
+        "slug": "yc-fall-2026",
+        "count": 51,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-fall-2026.json"
+      },
+      {
         "name": "Techstars Los Angeles powered by J.P. Morgan",
         "slug": "techstars-los-angeles-powered-by-j-p-morgan",
         "count": 49,
@@ -671,12 +677,6 @@
         "slug": "techstars-new-york-city-powered-by-j-p-morgan",
         "count": 49,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/techstars-new-york-city-powered-by-j-p-morgan.json"
-      },
-      {
-        "name": "YC Fall 2026",
-        "slug": "yc-fall-2026",
-        "count": 49,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-fall-2026.json"
       },
       {
         "name": "ABN AMRO & Techstars Future of Finance Accelerator",
@@ -2303,7 +2303,7 @@
       {
         "name": "United States of America",
         "slug": "united-states-of-america",
-        "count": 4619,
+        "count": 4621,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-states-of-america.json"
       },
       {
@@ -2959,7 +2959,7 @@
       {
         "name": "Artificial Intelligence",
         "slug": "artificial-intelligence",
-        "count": 1003,
+        "count": 1004,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/artificial-intelligence.json"
       },
       {
@@ -2983,7 +2983,7 @@
       {
         "name": "Infrastructure",
         "slug": "infrastructure",
-        "count": 693,
+        "count": 694,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/infrastructure.json"
       },
       {
@@ -3373,7 +3373,7 @@
       {
         "name": "Finance and Accounting",
         "slug": "finance-and-accounting",
-        "count": 139,
+        "count": 140,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finance-and-accounting.json"
       },
       {
@@ -3511,7 +3511,7 @@
       {
         "name": "Finance",
         "slug": "finance",
-        "count": 99,
+        "count": 100,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/finance.json"
       },
       {
