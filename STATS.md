@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-14._
+_Auto-generated from the dataset on 2026-09-15._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,157** |
+| Total companies | **21,162** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2774** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-09-14._
 
 | Source | Companies |
 |---|---|
-| yc | 6,215 |
+| yc | 6,220 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,239 |
@@ -45,8 +45,8 @@ _Auto-generated from the dataset on 2026-09-14._
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
-2025  ████████████████████░░░░░░░░ 1045
-2026  ███████████████░░░░░░░░░░░░░ 787
+2025  ████████████████████░░░░░░░░ 1044
+2026  ███████████████░░░░░░░░░░░░░ 793
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -102,18 +102,18 @@ _Auto-generated from the dataset on 2026-09-14._
 15. **YC Winter 2020** — 228
 
 ## Top industries
-1. **Fintech** — 2486
+1. **Fintech** — 2487
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1426
+3. **SaaS** — 1427
 4. **Mobile** — 1141
-5. **Consumer** — 1064
-6. **Artificial Intelligence** — 1007
-7. **AI** — 896
+5. **Consumer** — 1065
+6. **Artificial Intelligence** — 1012
+7. **AI** — 894
 8. **Healthcare** — 819
-9. **Developer Tools** — 712
-10. **Infrastructure** — 695
+9. **Developer Tools** — 713
+10. **Infrastructure** — 697
 11. **Health** — 663
-12. **Industrials** — 638
+12. **Industrials** — 639
 13. **Engineering, Product and Design** — 621
 14. **Insurtech** — 513
 15. **B2B Software** — 494
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-09-14._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4618
+2. **United States of America** — 4622
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -137,7 +137,7 @@ _Auto-generated from the dataset on 2026-09-14._
 11. **India** — 212
 12. **Latin America** — 163
 13. **Middle East** — 159
-14. **Unspecified** — 119
+14. **Unspecified** — 120
 15. **North Asia** — 110
 16. **Africa** — 107
 17. **Southeast Asia** — 93

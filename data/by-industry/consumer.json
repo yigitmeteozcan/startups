@@ -29099,7 +29099,7 @@
   {
     "source": "yc",
     "name": "Waffle",
-    "description": "Discover & Build AI Chatbots",
+    "description": "AI generated podcasts",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2861a984e502a76a5886684436e1887e14b08c0f.png",
     "website": "https://www.waffle.ai",
     "location": "London, England, United Kingdom",
@@ -29107,7 +29107,7 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -31367,6 +31367,38 @@
     "program": "YC Summer 2026",
     "programSlugs": [
       "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Roma",
+    "description": "The AI task app that gets to work for you.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d8439855d6cd42db2eae7c90e93a336c3ce8596b.png",
+    "website": "https://roma.app",
+    "location": "",
+    "region": "Unspecified",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Productivity",
+      "AI Assistant"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -35799,17 +35831,19 @@
   },
   {
     "source": "500",
-    "name": "Clarity",
-    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
-    "website": "https://clarity.fm",
-    "location": "Canada",
-    "region": "Canada",
+    "name": "CraftCoffee",
+    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
+    "website": "https://craftcoffee.com",
+    "location": "United States",
+    "region": "North America",
     "subregion": "",
     "tags": [
+      "Direct to Consumer",
+      "Subscription",
       "Consumer"
     ],
-    "year": 2012,
+    "year": 2011,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -35820,12 +35854,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Dan Martell",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mike Wu",
+        "name": "Michael Horn",
         "role": "",
         "linkedin": ""
       }
@@ -35837,7 +35866,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Canada"
+      "country": "United States"
     }
   },
   {
@@ -35887,19 +35916,17 @@
   },
   {
     "source": "500",
-    "name": "CraftCoffee",
-    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
-    "website": "https://craftcoffee.com",
-    "location": "United States",
-    "region": "North America",
+    "name": "Clarity",
+    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
+    "website": "https://clarity.fm",
+    "location": "Canada",
+    "region": "Canada",
     "subregion": "",
     "tags": [
-      "Direct to Consumer",
-      "Subscription",
       "Consumer"
     ],
-    "year": 2011,
+    "year": 2012,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -35910,7 +35937,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Michael Horn",
+        "name": "Dan Martell",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike Wu",
         "role": "",
         "linkedin": ""
       }
@@ -35922,7 +35954,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
+      "country": "Canada"
     }
   }
 ]
