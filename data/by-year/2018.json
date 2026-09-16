@@ -16867,16 +16867,18 @@
   {
     "source": "yc",
     "name": "Veriff",
-    "description": "AI-powered identity verification solution for fraud prevention.",
+    "description": "Veriff is a global AI-native identity platform building trust online",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5fb14cdcb75e548883b7886a7495ab57d679fcb5.png",
     "website": "https://veriff.com/",
-    "location": "Tallinn, Harju County, Estonia; New York, NY, USA; London, England, United Kingdom; Barcelona, CT, Spain",
+    "location": "Tallinn, Harju County, Estonia",
     "region": "Estonia",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Fintech",
-      "SaaS"
+      "Artificial Intelligence",
+      "SaaS",
+      "Compliance",
+      "Fraud Prevention"
     ],
     "year": 2018,
     "program": "YC Winter 2018",
@@ -26249,38 +26251,41 @@
   },
   {
     "source": "500",
-    "name": "Ajar Online",
-    "description": "Provider of a cloud based property management platform intended to offer a quick and secure online rent collection process. The company's platform uses property management tools, enabling tenants to pay their rent online, at any time and anywhere via SMS and email in less than 60 seconds.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c3db08d9-d098-48d8-ac64-c7c2b5d3d395.png",
-    "website": "https://www.ajar.com.kw",
-    "location": "British Virgin Islands",
+    "name": "Payment24",
+    "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
+    "website": "https://payment24.co",
+    "location": "South Africa",
     "region": "Africa",
     "subregion": "",
     "tags": [
-      "Real Estate"
+      "CloudTech",
+      "FinTech",
+      "Payments",
+      "Mobility"
     ],
     "year": 2018,
-    "program": "500 Global",
+    "program": "GA 22",
     "programSlugs": [
       "500"
     ],
-    "isExit": true,
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Shaheen Alkhudhari",
+        "name": "Janko Milunovic",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Talal Alyaseen",
+        "name": "Nolan Daniel",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Ali Taqi",
+        "name": "Shadab Rahil",
         "role": "",
         "linkedin": ""
       }
@@ -26292,7 +26297,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "British Virgin Islands"
+      "country": "South Africa"
     }
   },
   {
@@ -26384,49 +26389,6 @@
   },
   {
     "source": "500",
-    "name": "Magalix",
-    "description": "Developer of a serverless cloud platform designed to helps developers build reliable and efficient cloud neutral application. The company's platform artificial intelligence automatically adjusts developers resource usage to meet demand, thereby removing the usage of infrastructure over provisioning, container micromanaging and removing downtime, enabling them to reducing their infrastructure costs and liberating their team.",
-    "logo": "",
-    "website": "https://www.magalix.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools"
-    ],
-    "year": 2018,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Omar Mehilba",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mohamed Ahmed",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Rebaja Tus Cuentas",
     "description": "Developer of a mortgage purchase software designed to provide financial advisory services for mortgage debts. The company's software provides a form for basic information about the current mortgage credit, helps in finding good bidders with the financial institution to close the terms of the transfer of the mortgage, enabling users to avail mortgage debt purchase without any hassle.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a433923-6059-4e38-9d1a-1c4710fb1007.png",
@@ -26472,6 +26434,49 @@
   },
   {
     "source": "500",
+    "name": "Magalix",
+    "description": "Developer of a serverless cloud platform designed to helps developers build reliable and efficient cloud neutral application. The company's platform artificial intelligence automatically adjusts developers resource usage to meet demand, thereby removing the usage of infrastructure over provisioning, container micromanaging and removing downtime, enabling them to reducing their infrastructure costs and liberating their team.",
+    "logo": "",
+    "website": "https://www.magalix.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools"
+    ],
+    "year": 2018,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Omar Mehilba",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mohamed Ahmed",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "StructionSite",
     "description": "Developer of a construction site management platform designed to simplify the process of inspection, monitoring and quality control analysis of construction projects. The company's platform automatically tag photos with date, time, and user information for filtering and fast search-ability, gives photos location and direction intelligence and facilitates push photos along with tagged information, enabling project teams to communicate in the context of the jobsite anytime, from anywhere.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/382c8e04-c7c8-444f-8c40-1bf8691b510d.png",
@@ -26499,65 +26504,6 @@
       },
       {
         "name": "Philip Lorenzo",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Alba",
-    "description": "Alba connects families with caregivers in Latin America and provides peace of mind in every step of the caring process. Through its platforms, Alba connects families with caregivers of their social networks, allowing parents to book caregivers just as if their best friend would have recommended it. After booking, parents receive live updates of what’s happening at home and caregivers receive 24/7 support, ensuring peace of mind in every step of the process",
-    "logo": "",
-    "website": "https://alba-app.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Marketplace",
-      "Healthcare"
-    ],
-    "year": 2018,
-    "program": "GA 24",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mauricio Giadach",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Maria Teresa Sante Ross",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dan Stern",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Juan Fantoni",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tesi Del Sante",
         "role": "",
         "linkedin": ""
       }
@@ -26650,15 +26596,15 @@
   },
   {
     "source": "500",
-    "name": "Grin",
-    "description": "Provider of electric skates intended to give people mobility along with fun. The company's skates connects people in a simple and ecological way, enabling them to help in reducing pollution.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3e808198-3786-446a-802b-6ddc0c6c2685.png",
-    "website": "https://www.ongrin.com",
-    "location": "United States",
-    "region": "North America",
+    "name": "Ajar Online",
+    "description": "Provider of a cloud based property management platform intended to offer a quick and secure online rent collection process. The company's platform uses property management tools, enabling tenants to pay their rent online, at any time and anywhere via SMS and email in less than 60 seconds.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c3db08d9-d098-48d8-ac64-c7c2b5d3d395.png",
+    "website": "https://www.ajar.com.kw",
+    "location": "British Virgin Islands",
+    "region": "Africa",
     "subregion": "",
     "tags": [
-      "Mobility"
+      "Real Estate"
     ],
     "year": 2018,
     "program": "500 Global",
@@ -26671,12 +26617,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Bryan Zambrano",
+        "name": "Shaheen Alkhudhari",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Karime German",
+        "name": "Talal Alyaseen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ali Taqi",
         "role": "",
         "linkedin": ""
       }
@@ -26688,7 +26639,45 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
+      "country": "British Virgin Islands"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Kuraseru",
+    "description": "Developer of a medical enterprise software designed to connect patients with professional care managers. The company's software provides a tool that can retrieve optimum nursing facility information instantaneously, enabling users to choose their treatment provider smartly.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c3ce90e-6a50-43ad-be16-98c25d6a5f7f.png",
+    "website": "https://www.kuraseru.co.jp",
+    "location": "Japan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2018,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Daiki Kawahara",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Japan"
     }
   },
   {
@@ -26736,53 +26725,15 @@
   },
   {
     "source": "500",
-    "name": "Kuraseru",
-    "description": "Developer of a medical enterprise software designed to connect patients with professional care managers. The company's software provides a tool that can retrieve optimum nursing facility information instantaneously, enabling users to choose their treatment provider smartly.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c3ce90e-6a50-43ad-be16-98c25d6a5f7f.png",
-    "website": "https://www.kuraseru.co.jp",
-    "location": "Japan",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2018,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Daiki Kawahara",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Modus",
-    "description": "Provider of an escrow platform intended to make closure of home less painful for people. The company's platform combines with revolutionary technology to bring seamless experience throughout the process which are offered online to save time, enabling real estate clients to outsource manual data entry associated with home closings in a hassle free way and avoid the delay in proceedings.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ea09b437-98d3-4c18-b146-baaaa4c8f44c.png",
-    "website": "https://www.modusclosing.com",
+    "name": "Grin",
+    "description": "Provider of electric skates intended to give people mobility along with fun. The company's skates connects people in a simple and ecological way, enabling them to help in reducing pollution.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3e808198-3786-446a-802b-6ddc0c6c2685.png",
+    "website": "https://www.ongrin.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech"
+      "Mobility"
     ],
     "year": 2018,
     "program": "500 Global",
@@ -26795,17 +26746,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Alex Day",
+        "name": "Bryan Zambrano",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Abbas Guvenilir",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jai Sim",
+        "name": "Karime German",
         "role": "",
         "linkedin": ""
       }
@@ -26860,41 +26806,49 @@
   },
   {
     "source": "500",
-    "name": "Payment24",
-    "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
-    "website": "https://payment24.co",
-    "location": "South Africa",
-    "region": "Africa",
+    "name": "Alba",
+    "description": "Alba connects families with caregivers in Latin America and provides peace of mind in every step of the caring process. Through its platforms, Alba connects families with caregivers of their social networks, allowing parents to book caregivers just as if their best friend would have recommended it. After booking, parents receive live updates of what’s happening at home and caregivers receive 24/7 support, ensuring peace of mind in every step of the process",
+    "logo": "",
+    "website": "https://alba-app.com",
+    "location": "United States",
+    "region": "North America",
     "subregion": "",
     "tags": [
-      "CloudTech",
-      "FinTech",
-      "Payments",
-      "Mobility"
+      "Marketplace",
+      "Healthcare"
     ],
     "year": 2018,
-    "program": "GA 22",
+    "program": "GA 24",
     "programSlugs": [
       "500"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Janko Milunovic",
+        "name": "Mauricio Giadach",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Nolan Daniel",
+        "name": "Maria Teresa Sante Ross",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Shadab Rahil",
+        "name": "Dan Stern",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Juan Fantoni",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tesi Del Sante",
         "role": "",
         "linkedin": ""
       }
@@ -26906,7 +26860,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "South Africa"
+      "country": "United States"
     }
   },
   {
@@ -26953,6 +26907,54 @@
     },
     "extra": {
       "country": "India"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Modus",
+    "description": "Provider of an escrow platform intended to make closure of home less painful for people. The company's platform combines with revolutionary technology to bring seamless experience throughout the process which are offered online to save time, enabling real estate clients to outsource manual data entry associated with home closings in a hassle free way and avoid the delay in proceedings.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ea09b437-98d3-4c18-b146-baaaa4c8f44c.png",
+    "website": "https://www.modusclosing.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech"
+    ],
+    "year": 2018,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alex Day",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Abbas Guvenilir",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jai Sim",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   },
   {
@@ -29406,168 +29408,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Stories",
-    "description": "Stories automates data analysis using graph traversal AI. It delivers 50x faster analysis and personalized insights worth ~20% of revenue.\n\n",
+    "name": "Hardin Scientific, Inc.",
+    "description": "Hardin Scientific is at the forefront of technological advancement.  \n We provide the highest quality tools and materials for exponential discovery and collaboration of the greatest minds.\n\nOur primary focus is on the design and manufacturing of the only modular and IoT enabled laboratory equipment in the Research, Diagnostics, and Forensics industry.\n\n",
     "logo": "",
     "website": "",
-    "location": "Prague, Czechia",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 19",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Filip Dousek",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Peter Fedorocko",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "UCLA Anderson School of Management",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "headed Business Development at BellaDati",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Vojta Rocek",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Czechia"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "SafeMode",
-    "description": "SafeMode developed the first Driver-Success platform called Driverz, transforming how transportation companies and drivers interact and perform.\n ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 21",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "BrainHi",
-    "description": "Voicemail 2.0 for Local Businesses in LatAm",
-    "logo": "",
-    "website": "",
-    "location": "San Juan, Puerto Rico",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 24",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Emmanuel Oquendo",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Israel Figueroa",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Puerto Rico"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Laava Tech",
-    "description": "AI-powered future of indoor farming",
-    "logo": "",
-    "website": "",
-    "location": "Sunnyvale, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 20",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Tag.bio",
-    "description": "Tag.bio allows you to have a conversation with your data.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Wildomar, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -29582,17 +29427,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Tom Covington",
+        "name": "Aaron Hardin",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Jesse Paquette",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mark Mooney",
+        "name": "Ed Jenks",
         "role": "",
         "linkedin": ""
       }
@@ -29609,52 +29449,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Grafhopper Inc.",
-    "description": "Redefining Data Access in Enterprises to reduce costs of Data Access to a tenth of current.",
+    "name": "QPi Education",
+    "description": "Teaching Tools that Help Non-Technical Educators Teach Computer Science",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 19",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Vivek Agarwal",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Aman Walia",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Wisdom",
-    "description": "Customer Experience Management platform (CXM) that's changing the way product teams explore, find, and fix broken customer experiences online. Wisdom uses ML to flag where users struggle, with a short video clip.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Berkeley, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -29669,17 +29468,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Technical CEO.",
+        "name": "Vivien Macnguyen",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "2 prior data startups.",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Writes about Unicode.",
+        "name": "Ashish Dommety",
         "role": "",
         "linkedin": ""
       }
@@ -29742,16 +29536,16 @@
   },
   {
     "source": "alchemist",
-    "name": "FirstCut Studio",
-    "description": "Ai for video content creation",
+    "name": "BrainHi",
+    "description": "Voicemail 2.0 for Local Businesses in LatAm",
     "logo": "",
     "website": "",
-    "location": "Berkeley, CA, USA",
+    "location": "San Juan, Puerto Rico",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2018,
-    "program": "Alchemist Class 19",
+    "program": "Alchemist Class 24",
     "programSlugs": [
       "alchemist"
     ],
@@ -29761,17 +29555,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Lucy Richards",
+        "name": "Emmanuel Oquendo",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Tomas De Matteis",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jorge Soto",
+        "name": "Israel Figueroa",
         "role": "",
         "linkedin": ""
       }
@@ -29783,112 +29572,16 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "USA"
+      "country": "Puerto Rico"
     }
   },
   {
     "source": "alchemist",
-    "name": "Nunetz, Inc.",
-    "description": "Platform for collecting, visualizing, and analyzing big medical data",
+    "name": "Wisdom",
+    "description": "Customer Experience Management platform (CXM) that's changing the way product teams explore, find, and fix broken customer experiences online. Wisdom uses ML to flag where users struggle, with a short video clip.",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 20",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Tangent.ai",
-    "description": "Enabling Personalization for a Cookie-Less World",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 20",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mayank Kumar",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Aday Technologies, Inc.",
-    "description": " ",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 20",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": ""
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "QPi Education",
-    "description": "Teaching Tools that Help Non-Technical Educators Teach Computer Science",
-    "logo": "",
-    "website": "",
-    "location": "Berkeley, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -29903,12 +29596,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Vivien Macnguyen",
+        "name": "Technical CEO.",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Ashish Dommety",
+        "name": "2 prior data startups.",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Writes about Unicode.",
         "role": "",
         "linkedin": ""
       }
@@ -29925,11 +29623,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Hardin Scientific, Inc.",
-    "description": "Hardin Scientific is at the forefront of technological advancement.  \n We provide the highest quality tools and materials for exponential discovery and collaboration of the greatest minds.\n\nOur primary focus is on the design and manufacturing of the only modular and IoT enabled laboratory equipment in the Research, Diagnostics, and Forensics industry.\n\n",
+    "name": "Tag.bio",
+    "description": "Tag.bio allows you to have a conversation with your data.",
     "logo": "",
     "website": "",
-    "location": "Wildomar, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -29944,12 +29642,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Aaron Hardin",
+        "name": "Tom Covington",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Ed Jenks",
+        "name": "Jesse Paquette",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mark Mooney",
         "role": "",
         "linkedin": ""
       }
@@ -29966,11 +29669,71 @@
   },
   {
     "source": "alchemist",
-    "name": "Twizted Design",
-    "description": "Our vision is to revolutionize how OTT media is created, personalized and consumed.\n\nMany broadcasters and content providers today, shift from traditional broadcast to streaming video. In this shift from broadcast to streaming video, our product Videoflow aims to be the leading SaaS platform that enables them to deliver personalized and targeted content over live streams and VOD. And enables the viewers to interact with the content while watching. Our product has launched and our customers are the industry leading broadcasters.\n\n",
+    "name": "Laava Tech",
+    "description": "AI-powered future of indoor farming",
     "logo": "",
     "website": "",
-    "location": "New York, NY, USA",
+    "location": "Sunnyvale, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "SafeMode",
+    "description": "SafeMode developed the first Driver-Success platform called Driverz, transforming how transportation companies and drivers interact and perform.\n ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 21",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Stories",
+    "description": "Stories automates data analysis using graph traversal AI. It delivers 50x faster analysis and personalized insights worth ~20% of revenue.\n\n",
+    "logo": "",
+    "website": "",
+    "location": "Prague, Czechia",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -29985,22 +29748,27 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jan Umansky",
+        "name": "Filip Dousek",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Practical engineering degree in Design",
+        "name": "Peter Fedorocko",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Danny Umansky",
+        "name": "UCLA Anderson School of Management",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "[B.SC] in Computer Since",
+        "name": "headed Business Development at BellaDati",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Vojta Rocek",
         "role": "",
         "linkedin": ""
       }
@@ -30012,98 +29780,21 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "USA"
+      "country": "Czechia"
     }
   },
   {
     "source": "alchemist",
-    "name": "Gridline AI",
-    "description": "AI-Powered platform to connect energy projects to financing companies, automating the financial due diligence processes. ",
+    "name": "OpComm",
+    "description": "Perioperative Microcollaboration and Workflow App. Team: Jacob Brandon, MD (Indiana University School of Medicine); Corbin Frye, MD (General Surgery Resident, Washington University School of Medicine)",
     "logo": "",
     "website": "",
-    "location": "Palo Alto, CA, USA",
+    "location": "St. Louis, MO, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2018,
-    "program": "Alchemist Class 20",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Team: Michele  Lunati",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Insera Health",
-    "description": " ",
-    "logo": "",
-    "website": "",
-    "location": "Durham, NC, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 20",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ranjith Babu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "David Parker",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Ejenta",
-    "description": "Applying NASA-licensed AI to remote health monitoring",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 20",
+    "program": "Alchemist Class 21",
     "programSlugs": [
       "alchemist"
     ],
@@ -30144,123 +29835,6 @@
     "founders": [
       {
         "name": "Enlai Chu",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Aero Systems West",
-    "description": "Builds Hardware and Software to Make Drone Operations — Not Just Drone Flight — Truly Autonomous",
-    "logo": "",
-    "website": "",
-    "location": "Morgan Hill, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 21",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Bayware",
-    "description": "Application-Centric Software for Secure, Agile, Multi-Cloud Networking",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 21",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Co-CEO Charles Stucki",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Co-CEO and Co-Founder Grigori Dzekon",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Co-Founder and CTO Igor Tarasenko",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Green Light Labs",
-    "description": "Data science company launching a marketplace for Electric Mobility-as-a-Service",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 22",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Adrian Gomez",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sam Saxena",
         "role": "",
         "linkedin": ""
       }
@@ -30364,6 +29938,47 @@
   },
   {
     "source": "alchemist",
+    "name": "Grafhopper Inc.",
+    "description": "Redefining Data Access in Enterprises to reduce costs of Data Access to a tenth of current.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 19",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vivek Agarwal",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Aman Walia",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Mechanica AI",
     "description": "Real-Time AI for Industrial Production",
     "logo": "",
@@ -30430,16 +30045,403 @@
   },
   {
     "source": "alchemist",
-    "name": "OpComm",
-    "description": "Perioperative Microcollaboration and Workflow App. Team: Jacob Brandon, MD (Indiana University School of Medicine); Corbin Frye, MD (General Surgery Resident, Washington University School of Medicine)",
+    "name": "Gridline AI",
+    "description": "AI-Powered platform to connect energy projects to financing companies, automating the financial due diligence processes. ",
     "logo": "",
     "website": "",
-    "location": "St. Louis, MO, USA",
+    "location": "Palo Alto, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Team: Michele  Lunati",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "FirstCut Studio",
+    "description": "Ai for video content creation",
+    "logo": "",
+    "website": "",
+    "location": "Berkeley, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 19",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Lucy Richards",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tomas De Matteis",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jorge Soto",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Insera Health",
+    "description": " ",
+    "logo": "",
+    "website": "",
+    "location": "Durham, NC, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ranjith Babu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "David Parker",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Nunetz, Inc.",
+    "description": "Platform for collecting, visualizing, and analyzing big medical data",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Aero Systems West",
+    "description": "Builds Hardware and Software to Make Drone Operations — Not Just Drone Flight — Truly Autonomous",
+    "logo": "",
+    "website": "",
+    "location": "Morgan Hill, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2018,
     "program": "Alchemist Class 21",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Tangent.ai",
+    "description": "Enabling Personalization for a Cookie-Less World",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mayank Kumar",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Aday Technologies, Inc.",
+    "description": " ",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": ""
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Twizted Design",
+    "description": "Our vision is to revolutionize how OTT media is created, personalized and consumed.\n\nMany broadcasters and content providers today, shift from traditional broadcast to streaming video. In this shift from broadcast to streaming video, our product Videoflow aims to be the leading SaaS platform that enables them to deliver personalized and targeted content over live streams and VOD. And enables the viewers to interact with the content while watching. Our product has launched and our customers are the industry leading broadcasters.\n\n",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 19",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jan Umansky",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Practical engineering degree in Design",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Danny Umansky",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "[B.SC] in Computer Since",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Bayware",
+    "description": "Application-Centric Software for Secure, Agile, Multi-Cloud Networking",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 21",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Co-CEO Charles Stucki",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Co-CEO and Co-Founder Grigori Dzekon",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Co-Founder and CTO Igor Tarasenko",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Green Light Labs",
+    "description": "Data science company launching a marketplace for Electric Mobility-as-a-Service",
+    "logo": "",
+    "website": "",
+    "location": "Los Angeles, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 22",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Adrian Gomez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sam Saxena",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Ejenta",
+    "description": "Applying NASA-licensed AI to remote health monitoring",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 20",
     "programSlugs": [
       "alchemist"
     ],

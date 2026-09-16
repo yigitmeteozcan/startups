@@ -8339,7 +8339,7 @@
   {
     "source": "yc",
     "name": "Canary",
-    "description": "The first AI QA engineer that understands your code",
+    "description": "Adversarial AI that breaks your AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6d55fa276b2612d52a9f09c0de3bc498d001bf08.png",
     "website": "https://www.runcanary.ai",
     "location": "San Francisco, CA, USA",
@@ -9865,15 +9865,13 @@
   {
     "source": "yc",
     "name": "Memoir",
-    "description": "Marketing campaigns from everything your team ships",
+    "description": "Everything your team ships, explained to everyone it affects.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/db5e3e6f38c3e09bc340d492006001bcc103b8d3.png",
     "website": "https://www.trymemoir.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [
-      "Marketing"
-    ],
+    "tags": [],
     "year": 2026,
     "program": "YC Spring 2026",
     "programSlugs": [
@@ -12146,7 +12144,7 @@
     "programSlugs": [
       "yc-spring-2026"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -12728,7 +12726,7 @@
     "name": "Reason Machines",
     "description": "The coding agent that can access and reason across any machine. ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1f536d08b73147eb71c0665fe5c2d6c6ffed0663.png",
-    "website": "https://reasonmachines.ai",
+    "website": "https://reasonmachines.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -14535,8 +14533,8 @@
     "subregion": "",
     "tags": [
       "Security",
-      "Artificial Intelligence",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -15236,6 +15234,39 @@
   },
   {
     "source": "yc",
+    "name": "gbrain.io",
+    "description": "A personal or team assistant that works while you sleep",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ff8cf14993c5561f746df91370537e12f858f957.png",
+    "website": "https://gbrain.io",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Productivity",
+      "Workflow Automation",
+      "Automation",
+      "AI Assistant"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "HeyClicky",
     "description": "The simplest interface in the world to talk AI models + spawn agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/64ec16230f1dd8e0dac5872dd520347d50014996.png",
@@ -15400,8 +15431,8 @@
     "subregion": "",
     "tags": [
       "Operations",
-      "Home Services",
-      "AI"
+      "Artificial Intelligence",
+      "Home Services"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -16665,9 +16696,9 @@
       "Big Data"
     ],
     "year": 2026,
-    "program": "YC Summer 2026",
+    "program": "YC Fall 2026",
     "programSlugs": [
-      "yc-summer-2026"
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -22377,10 +22408,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -22837,7 +22868,7 @@
     "source": "yc",
     "name": "Dreamscale Labs",
     "description": "Running robot brains in the cloud",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1a1d1aaa10413e5d45ca3d2aefe2fb4b682e7fb4.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5a0eb88901e7f46ec71cc8739e8069f4815b0a52.png",
     "website": "https://dreamscalelabs.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -25047,6 +25078,16 @@
         "name": "Alberto Gutiérrez",
         "role": "",
         "linkedin": ""
+      },
+      {
+        "name": "Regina Amezquita G",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Guido Kuznicki",
+        "role": "",
+        "linkedin": ""
       }
     ],
     "social": {
@@ -26108,6 +26149,42 @@
   },
   {
     "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Mutaz Musa**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Asterquanta Systems Inc.",
     "description": "Semiconductor Design Automation enabled by AI",
     "logo": "",
@@ -26174,42 +26251,6 @@
       },
       {
         "name": "**James Russell**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Mutaz Musa**",
         "role": "",
         "linkedin": ""
       }

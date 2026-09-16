@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-15._
+_Auto-generated from the dataset on 2026-09-16._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,162** |
+| Total companies | **21,163** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2774** |
+| 💰 Exits | **2776** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-09-15._
 
 | Source | Companies |
 |---|---|
-| yc | 6,220 |
+| yc | 6,221 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,239 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-09-15._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1044
-2026  ███████████████░░░░░░░░░░░░░ 793
+2026  ███████████████░░░░░░░░░░░░░ 794
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
@@ -97,23 +97,23 @@ _Auto-generated from the dataset on 2026-09-15._
 10. **YC Winter 2024** — 248
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
-13. **YC Summer 2026** — 234
-14. **YC Summer 2022** — 233
+13. **YC Summer 2022** — 233
+14. **YC Summer 2026** — 233
 15. **YC Winter 2020** — 228
 
 ## Top industries
-1. **Fintech** — 2487
+1. **Fintech** — 2486
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1427
 4. **Mobile** — 1141
-5. **Consumer** — 1065
-6. **Artificial Intelligence** — 1012
-7. **AI** — 894
-8. **Healthcare** — 819
-9. **Developer Tools** — 713
-10. **Infrastructure** — 697
+5. **Consumer** — 1064
+6. **Artificial Intelligence** — 1013
+7. **AI** — 895
+8. **Healthcare** — 818
+9. **Developer Tools** — 711
+10. **Infrastructure** — 696
 11. **Health** — 663
-12. **Industrials** — 639
+12. **Industrials** — 640
 13. **Engineering, Product and Design** — 621
 14. **Insurtech** — 513
 15. **B2B Software** — 494
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-09-15._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4622
+2. **United States of America** — 4623
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902

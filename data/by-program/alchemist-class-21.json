@@ -203,11 +203,11 @@
   },
   {
     "source": "alchemist",
-    "name": "SafeMode",
-    "description": "SafeMode developed the first Driver-Success platform called Driverz, transforming how transportation companies and drivers interact and perform.\n ",
+    "name": "QPi Education",
+    "description": "Teaching Tools that Help Non-Technical Educators Teach Computer Science",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Berkeley, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -220,7 +220,18 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vivien Macnguyen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ashish Dommety",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -279,11 +290,11 @@
   },
   {
     "source": "alchemist",
-    "name": "QPi Education",
-    "description": "Teaching Tools that Help Non-Technical Educators Teach Computer Science",
+    "name": "SafeMode",
+    "description": "SafeMode developed the first Driver-Success platform called Driverz, transforming how transportation companies and drivers interact and perform.\n ",
     "logo": "",
     "website": "",
-    "location": "Berkeley, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -293,47 +304,6 @@
       "alchemist"
     ],
     "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Vivien Macnguyen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ashish Dommety",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Aero Systems West",
-    "description": "Builds Hardware and Software to Make Drone Operations — Not Just Drone Flight — Truly Autonomous",
-    "logo": "",
-    "website": "",
-    "location": "Morgan Hill, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 21",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -350,11 +320,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Bayware",
-    "description": "Application-Centric Software for Secure, Agile, Multi-Cloud Networking",
+    "name": "OpComm",
+    "description": "Perioperative Microcollaboration and Workflow App. Team: Jacob Brandon, MD (Indiana University School of Medicine); Corbin Frye, MD (General Surgery Resident, Washington University School of Medicine)",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "St. Louis, MO, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -367,23 +337,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Co-CEO Charles Stucki",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Co-CEO and Co-Founder Grigori Dzekon",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Co-Founder and CTO Igor Tarasenko",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -472,11 +426,41 @@
   },
   {
     "source": "alchemist",
-    "name": "OpComm",
-    "description": "Perioperative Microcollaboration and Workflow App. Team: Jacob Brandon, MD (Indiana University School of Medicine); Corbin Frye, MD (General Surgery Resident, Washington University School of Medicine)",
+    "name": "Aero Systems West",
+    "description": "Builds Hardware and Software to Make Drone Operations — Not Just Drone Flight — Truly Autonomous",
     "logo": "",
     "website": "",
-    "location": "St. Louis, MO, USA",
+    "location": "Morgan Hill, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 21",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Bayware",
+    "description": "Application-Centric Software for Secure, Agile, Multi-Cloud Networking",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -489,7 +473,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Co-CEO Charles Stucki",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Co-CEO and Co-Founder Grigori Dzekon",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Co-Founder and CTO Igor Tarasenko",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
