@@ -8860,7 +8860,7 @@
   },
   {
     "source": "yc",
-    "name": "Airshared",
+    "name": "SnapBite",
     "description": "TBD",
     "logo": "/company/thumb/missing.png",
     "website": "http://getcycle.com",
@@ -37283,10 +37283,10 @@
   {
     "source": "yc",
     "name": "AiSDR",
-    "description": "AI sales prospecting. Replace your SDR with AiSDR",
+    "description": "AI that finds the right buyers and books sales meetings",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c4ee33b19412517e139da731ca8d250eae8eee8.png",
     "website": "https://aisdr.com/",
-    "location": "San Francisco, CA, USA; Remote",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -42101,7 +42101,7 @@
     "description": "The AI notepad that knows and works for you",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
     "website": "https://char.com",
-    "location": "Seoul, Seoul, South Korea",
+    "location": "Seoul, Seoul, South Korea; Remote",
     "region": "South Korea",
     "subregion": "",
     "tags": [
@@ -43190,6 +43190,39 @@
   },
   {
     "source": "yc",
+    "name": "Hickory & Company",
+    "description": "Hickory offers agentic compliance and BSA for banks and fintechs",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/99defc038609729a80c544eca98af6bec719647d.png",
+    "website": "https://hickory.co",
+    "location": "Salt Lake City, UT, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Operations",
+      "Fintech",
+      "SaaS",
+      "Compliance"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Trope",
     "description": "AI FDE that deploys custom AI agents into ERPs",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1241956aa50c817e1c2feee9934ea253b0d12c38.png",
@@ -43859,10 +43892,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -48384,61 +48417,6 @@
   },
   {
     "source": "500",
-    "name": "Avocode",
-    "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
-    "logo": "",
-    "website": "https://www.avocode.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Enterprise",
-      "Productivity",
-      "SaaS"
-    ],
-    "year": 2016,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Anh Vu Hoang",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Martin Duris",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Petr Brzek",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Hoang Anh Vu",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Plerk",
     "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
@@ -48571,6 +48549,61 @@
       },
       {
         "name": "Saleh Al-Mansouri",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Avocode",
+    "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
+    "logo": "",
+    "website": "https://www.avocode.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Enterprise",
+      "Productivity",
+      "SaaS"
+    ],
+    "year": 2016,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Anh Vu Hoang",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Martin Duris",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Petr Brzek",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Hoang Anh Vu",
         "role": "",
         "linkedin": ""
       }

@@ -5583,7 +5583,7 @@
   {
     "source": "yc",
     "name": "Cogram",
-    "description": "The AI Platform for Architects, Builders, and Engineers",
+    "description": "The AI Platform for Architects and Engineers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9e67ec6dcc40ad110095fd4caf4f77334ee70a01.png",
     "website": "https://cogram.com",
     "location": "New York City, NY, USA",
@@ -5591,7 +5591,7 @@
     "subregion": "",
     "tags": [
       "Productivity",
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2022,
     "program": "YC Winter 2022",
@@ -6076,8 +6076,8 @@
   {
     "source": "yc",
     "name": "Unify",
-    "description": "AI teammates for everyone else 🤖",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fb15970521caafcd30f313c8eaa1359733d2d2dd.png",
+    "description": "Models that keep learning",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e774ce4075900b79265af766add42f9dcb133d49.png",
     "website": "https://unify.ai",
     "location": "London, England, United Kingdom; Remote",
     "region": "United Kingdom",
@@ -6085,9 +6085,10 @@
     "tags": [
       "Productivity",
       "Artificial Intelligence",
+      "Reinforcement Learning",
       "Open Source",
-      "AI",
-      "AI Assistant"
+      "Infrastructure",
+      "AI"
     ],
     "year": 2023,
     "program": "YC Winter 2023",
@@ -7991,6 +7992,41 @@
   },
   {
     "source": "yc",
+    "name": "Party",
+    "description": "Secure multiplayer software factory for your whole team in minutes",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/338e5b72183a79e0cc2f337341f8e76e89c641a2.png",
+    "website": "https://party.build",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity",
+      "Collaboration",
+      "AI"
+    ],
+    "year": 2024,
+    "program": "YC Summer 2024",
+    "programSlugs": [
+      "yc-summer-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Willow",
     "description": "The voice interface replacing your keyboard",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4d1a38295742d380ffb6bd899dae457066824da5.png",
@@ -9479,7 +9515,7 @@
     "description": "The AI notepad that knows and works for you",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
     "website": "https://char.com",
-    "location": "Seoul, Seoul, South Korea",
+    "location": "Seoul, Seoul, South Korea; Remote",
     "region": "South Korea",
     "subregion": "",
     "tags": [
@@ -9814,7 +9850,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Productivity"
+      "Productivity",
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -9960,8 +9998,8 @@
     "description": "Agent Messaging Platform",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/30eef975f26ed420159ac335c08eb8b950705ee2.png",
     "website": "https://silahq.com",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "",
+    "region": "Unspecified",
     "subregion": "",
     "tags": [
       "Productivity"
@@ -12794,45 +12832,6 @@
   },
   {
     "source": "500",
-    "name": "Gantto",
-    "description": "Provider of project management tool which uses gantt chart for visual representation. The company's platform enables users to create their own charts and presentations to show project progress and management.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7c0775fd-753e-451a-8e43-298f6732a114.png",
-    "website": "https://gantto.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Productivity",
-      "HR Tech"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Federico Barbagli",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "WorkLife",
     "description": "Provider of a Web application to conduct meetings. The company provides a virtual meeting platform that lets co-workers collaborate in real time on things like documents, notes, agendas, and tasks.",
     "logo": "",
@@ -12881,19 +12880,18 @@
   },
   {
     "source": "500",
-    "name": "Avocode",
-    "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
-    "logo": "",
-    "website": "https://www.avocode.com",
+    "name": "Gantto",
+    "description": "Provider of project management tool which uses gantt chart for visual representation. The company's platform enables users to create their own charts and presentations to show project progress and management.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7c0775fd-753e-451a-8e43-298f6732a114.png",
+    "website": "https://gantto.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Enterprise",
       "Productivity",
-      "SaaS"
+      "HR Tech"
     ],
-    "year": 2016,
+    "year": 2010,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -12904,22 +12902,98 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Anh Vu Hoang",
+        "name": "Federico Barbagli",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Otherinbox",
+    "description": "Provider of domain name services to Web users. The company provides email account hosting services to consumers. Additionally, it offers newsletters, social networking updates, and online purchase receipts and coupons organizing services.",
+    "logo": "",
+    "website": "https://otherinbox.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mike Subelsky",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Martin Duris",
+        "name": "Joshua Baer",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Friendly Data",
+    "description": "Developer of a natural language interface designed to integrate human voice and text into queries to simplify sorting through data. The company's interface translates human language into SQL query and then returns data in JSON format, enabling businesses to increase user engagement and employees productivity by providing natural language interface for databases.",
+    "logo": "",
+    "website": "https://friendlydata.io",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2017,
+    "program": "GA 20",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Michael Rumiancau",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Petr Brzek",
+        "name": "Alex Zaytsav",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Hoang Anh Vu",
+        "name": "Alexey Zenovich",
         "role": "",
         "linkedin": ""
       }
@@ -13010,6 +13084,49 @@
     },
     "extra": {
       "country": "Japan"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Y&S",
+    "description": "Developer of a beauty booking mobile application designed to discover and book shifts in beauty centers. The company's beauty booking mobile application helps users to find beauty salons, spa centers and parlours and it offers a database of available services by those salons with prices, enabling users to browse, find and book parlour slots with required services as per their preferable time.",
+    "logo": "",
+    "website": "https://www.reservaturno.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2017,
+    "program": "Lucha 7",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ianir Sonis",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mijal Yelin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   },
   {
@@ -13140,17 +13257,17 @@
   },
   {
     "source": "500",
-    "name": "Don.na",
-    "description": "Developer of an artificial intelligence software. The company is the creator of Donna, a mobile personal assistant that anticipates individual needs.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9f1a3ec7-bb48-4345-8105-1516e64269d4.png",
-    "website": "https://incredible.io",
+    "name": "Sunrise Atelier",
+    "description": "Provider of a free calender application for mobile devices. The company has developed a mobile application that is made for Google Calendar users, providing real-time synchronization, quick-add event tools, time-zone support and Facebook events and birthdays.",
+    "logo": "",
+    "website": "https://sunrise.am",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Productivity"
     ],
-    "year": 2011,
+    "year": 2013,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -13161,22 +13278,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Arshad Tayyeb",
+        "name": "Jeremy Le Van",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Scott San Filippo",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Spence Murray",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kevin Cheng",
+        "name": "Pierre Valade",
         "role": "",
         "linkedin": ""
       }
@@ -13247,17 +13354,17 @@
   },
   {
     "source": "500",
-    "name": "Sunrise Atelier",
-    "description": "Provider of a free calender application for mobile devices. The company has developed a mobile application that is made for Google Calendar users, providing real-time synchronization, quick-add event tools, time-zone support and Facebook events and birthdays.",
-    "logo": "",
-    "website": "https://sunrise.am",
+    "name": "Don.na",
+    "description": "Developer of an artificial intelligence software. The company is the creator of Donna, a mobile personal assistant that anticipates individual needs.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9f1a3ec7-bb48-4345-8105-1516e64269d4.png",
+    "website": "https://incredible.io",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Productivity"
     ],
-    "year": 2013,
+    "year": 2011,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -13268,146 +13375,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jeremy Le Van",
+        "name": "Arshad Tayyeb",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Pierre Valade",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Otherinbox",
-    "description": "Provider of domain name services to Web users. The company provides email account hosting services to consumers. Additionally, it offers newsletters, social networking updates, and online purchase receipts and coupons organizing services.",
-    "logo": "",
-    "website": "https://otherinbox.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Productivity"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mike Subelsky",
+        "name": "Scott San Filippo",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Joshua Baer",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Friendly Data",
-    "description": "Developer of a natural language interface designed to integrate human voice and text into queries to simplify sorting through data. The company's interface translates human language into SQL query and then returns data in JSON format, enabling businesses to increase user engagement and employees productivity by providing natural language interface for databases.",
-    "logo": "",
-    "website": "https://friendlydata.io",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Productivity"
-    ],
-    "year": 2017,
-    "program": "GA 20",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Michael Rumiancau",
+        "name": "Spence Murray",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Alex Zaytsav",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Alexey Zenovich",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Y&S",
-    "description": "Developer of a beauty booking mobile application designed to discover and book shifts in beauty centers. The company's beauty booking mobile application helps users to find beauty salons, spa centers and parlours and it offers a database of available services by those salons with prices, enabling users to browse, find and book parlour slots with required services as per their preferable time.",
-    "logo": "",
-    "website": "https://www.reservaturno.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Productivity"
-    ],
-    "year": 2017,
-    "program": "Lucha 7",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ianir Sonis",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mijal Yelin",
+        "name": "Kevin Cheng",
         "role": "",
         "linkedin": ""
       }
@@ -13446,6 +13429,61 @@
     "founders": [
       {
         "name": "Erik Eccles",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Avocode",
+    "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
+    "logo": "",
+    "website": "https://www.avocode.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Enterprise",
+      "Productivity",
+      "SaaS"
+    ],
+    "year": 2016,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Anh Vu Hoang",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Martin Duris",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Petr Brzek",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Hoang Anh Vu",
         "role": "",
         "linkedin": ""
       }

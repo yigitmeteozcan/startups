@@ -20971,7 +20971,7 @@
   {
     "source": "yc",
     "name": "WeReno",
-    "description": "AI owner's representative for commercial construction and renovations.",
+    "description": "The AI operating layer for property improvement.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c65d6fe451c746d928cfe1511810bc3f77971cb3.png",
     "website": "https://WeReno.com",
     "location": "Toronto, ON, Canada",
@@ -20980,9 +20980,9 @@
     "tags": [
       "Real Estate and Construction",
       "Construction",
-      "Artificial Intelligence",
       "Real Estate",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "year": 2022,
     "program": "YC Winter 2022",
@@ -26082,7 +26082,7 @@
   {
     "source": "yc",
     "name": "Cogram",
-    "description": "The AI Platform for Architects, Builders, and Engineers",
+    "description": "The AI Platform for Architects and Engineers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9e67ec6dcc40ad110095fd4caf4f77334ee70a01.png",
     "website": "https://cogram.com",
     "location": "New York City, NY, USA",
@@ -26090,7 +26090,7 @@
     "subregion": "",
     "tags": [
       "Productivity",
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2022,
     "program": "YC Winter 2022",
@@ -28874,7 +28874,7 @@
     "programSlugs": [
       "yc-winter-2022"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -34255,18 +34255,18 @@
   {
     "source": "yc",
     "name": "CODEXA",
-    "description": "AI Agent runs the entire international trade operation",
+    "description": "The AI-native financial platform for enterprises",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/315e211ddda1814fa9db4077702d9dd3f91a8723.png",
-    "website": "https://codexa.com.br/desembaraco-aduaneiro",
+    "website": "https://codexa.com.br",
     "location": "Manaus, AM, Brazil",
     "region": "Brazil",
     "subregion": "",
     "tags": [
       "Fintech",
       "Payments",
+      "Artificial Intelligence",
       "Crypto / Web3",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "year": 2022,
     "program": "YC Summer 2022",
@@ -50515,16 +50515,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Piklema",
-    "description": "Driver Assistant for Truck Operators Based on AI, that Decreases Fuel Consumption and CO2 Emissions, Optimizing Driving Behavior and Saving Up to 15% of Fuel",
+    "name": "Diagnio",
+    "description": "Express In-Home Diagnostics to Track Reproductive Health & Fertility for Women",
     "logo": "",
     "website": "",
-    "location": "Delaware City, DE, USA",
+    "location": "Wilmington, DE, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2022,
-    "program": "Alchemist Class 32",
+    "program": "Alchemist Class 33",
     "programSlugs": [
       "alchemist"
     ],
@@ -50534,53 +50534,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Dima Klebanov",
+        "name": "Marina Sol",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Sergey Abasov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mike Makeev",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "QI",
-    "description": "Predictive Insights to Test Content Before Going Live",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "JD Rico",
+        "name": "Vladimir Unanyan",
         "role": "",
         "linkedin": ""
       }
@@ -50627,93 +50586,6 @@
       },
       {
         "name": "CPO",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Bonfire Analytics",
-    "description": "AI-Driven Lead Scoring for Digital Health Companies: Faster High-Quality Lead Generation Leads to Cheaper Customer Acquisition\n\n",
-    "logo": "",
-    "website": "",
-    "location": "Philadelphia, PA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 33",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Vinay Nagaraj",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jaya Pokuri",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "docbotic",
-    "description": "The World's Most Accessible Form of Mental Health Care",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 33",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jenna Xu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dr. Victoria Bangieva",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Anthony Bui",
         "role": "",
         "linkedin": ""
       }
@@ -50781,16 +50653,16 @@
   },
   {
     "source": "alchemist",
-    "name": "FreeFuse",
-    "description": "A video communication platform that simplifies how information is shared and processed.",
+    "name": "synthavo",
+    "description": "Visual Search for Spare Parts for Mechanical Engineering",
     "logo": "",
     "website": "",
-    "location": "Los Angeles, CA, USA",
+    "location": "Stuttgart, Germany",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2022,
-    "program": "Alchemist Class 31",
+    "program": "Alchemist Class 32",
     "programSlugs": [
       "alchemist"
     ],
@@ -50800,17 +50672,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Mike Liu",
+        "name": "Sebastian Stöcklmeier",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Wendy Chen",
+        "name": "Benedict Lindner",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Marcus Jeffrey",
+        "name": "Alexander Illg",
         "role": "",
         "linkedin": ""
       }
@@ -50822,16 +50694,16 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "USA"
+      "country": "Germany"
     }
   },
   {
     "source": "alchemist",
-    "name": "Diagnio",
-    "description": "Express In-Home Diagnostics to Track Reproductive Health & Fertility for Women",
+    "name": "Bonfire Analytics",
+    "description": "AI-Driven Lead Scoring for Digital Health Companies: Faster High-Quality Lead Generation Leads to Cheaper Customer Acquisition\n\n",
     "logo": "",
     "website": "",
-    "location": "Wilmington, DE, USA",
+    "location": "Philadelphia, PA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -50846,12 +50718,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Marina Sol",
+        "name": "Vinay Nagaraj",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Vladimir Unanyan",
+        "name": "Jaya Pokuri",
         "role": "",
         "linkedin": ""
       }
@@ -50868,16 +50740,16 @@
   },
   {
     "source": "alchemist",
-    "name": "mechlabs.ai",
-    "description": "Web3 Mechatronic Engineering education alternative to a 4-year University degree. Learn-to-Earn. No instructors, no textbooks and no lectures. ",
+    "name": "QI",
+    "description": "Predictive Insights to Test Content Before Going Live",
     "logo": "",
     "website": "",
-    "location": "Oakland, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2022,
-    "program": "Alchemist Class 31",
+    "program": "Alchemist Class 34",
     "programSlugs": [
       "alchemist"
     ],
@@ -50887,12 +50759,53 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Alex Dantas",
+        "name": "JD Rico",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "docbotic",
+    "description": "The World's Most Accessible Form of Mental Health Care",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 33",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jenna Xu",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Dan O'Mara",
+        "name": "Dr. Victoria Bangieva",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Anthony Bui",
         "role": "",
         "linkedin": ""
       }
@@ -50950,11 +50863,98 @@
   },
   {
     "source": "alchemist",
-    "name": "synthavo",
-    "description": "Visual Search for Spare Parts for Mechanical Engineering",
+    "name": "FreeFuse",
+    "description": "A video communication platform that simplifies how information is shared and processed.",
     "logo": "",
     "website": "",
-    "location": "Stuttgart, Germany",
+    "location": "Los Angeles, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mike Liu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Wendy Chen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Marcus Jeffrey",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "mechlabs.ai",
+    "description": "Web3 Mechatronic Engineering education alternative to a 4-year University degree. Learn-to-Earn. No instructors, no textbooks and no lectures. ",
+    "logo": "",
+    "website": "",
+    "location": "Oakland, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alex Dantas",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dan O'Mara",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Piklema",
+    "description": "Driver Assistant for Truck Operators Based on AI, that Decreases Fuel Consumption and CO2 Emissions, Optimizing Driving Behavior and Saving Up to 15% of Fuel",
+    "logo": "",
+    "website": "",
+    "location": "Delaware City, DE, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -50969,17 +50969,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Sebastian Stöcklmeier",
+        "name": "Dima Klebanov",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Benedict Lindner",
+        "name": "Sergey Abasov",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Alexander Illg",
+        "name": "Mike Makeev",
         "role": "",
         "linkedin": ""
       }
@@ -50991,7 +50991,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Germany"
+      "country": "USA"
     }
   }
 ]

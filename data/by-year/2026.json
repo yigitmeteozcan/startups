@@ -3562,9 +3562,9 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Artificial Intelligence",
       "Digital Health",
       "Health & Wellness",
+      "AI",
       "AI Assistant"
     ],
     "year": 2026,
@@ -3687,7 +3687,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Productivity"
+      "Productivity",
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -4790,7 +4792,7 @@
   {
     "source": "yc",
     "name": "Tepali",
-    "description": "AI operating system for modern medspas",
+    "description": "AI EMR for medspas & wellness clinics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fcb5281a1d8fc8c7abd51bfa37f6f9919359ac8a.png",
     "website": "https://tepali.com",
     "location": "New York City, NY, USA",
@@ -8279,8 +8281,8 @@
     "description": "Agent Messaging Platform",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/30eef975f26ed420159ac335c08eb8b950705ee2.png",
     "website": "https://silahq.com",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "",
+    "region": "Unspecified",
     "subregion": "",
     "tags": [
       "Productivity"
@@ -8567,16 +8569,16 @@
   {
     "source": "yc",
     "name": "Veriad",
-    "description": "Enterprise marketing agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0a84742c8558c6378997c9b19b54dd6ad334ce0c.png",
+    "description": "AI operating system for marketing",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eaa1f350e1d2268092bb11e534ea52120e4c5b0f.png",
     "website": "https://veriad.com",
     "location": "London, England, United Kingdom",
     "region": "United Kingdom",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Marketing",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -10034,7 +10036,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design"
+      "Engineering, Product and Design",
+      "Developer Tools"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -10535,9 +10538,9 @@
     "subregion": "",
     "tags": [],
     "year": 2026,
-    "program": "YC Spring 2026",
+    "program": "YC Fall 2026",
     "programSlugs": [
-      "yc-spring-2026"
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -15422,6 +15425,39 @@
   },
   {
     "source": "yc",
+    "name": "Hickory & Company",
+    "description": "Hickory offers agentic compliance and BSA for banks and fintechs",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/99defc038609729a80c544eca98af6bec719647d.png",
+    "website": "https://hickory.co",
+    "location": "Salt Lake City, UT, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Operations",
+      "Fintech",
+      "SaaS",
+      "Compliance"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Kebra",
     "description": "AI For The Skilled Workforce",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2e21f70e5b9032365254edae847e8dcbc9ffddb3.png",
@@ -16867,9 +16903,9 @@
       "AI"
     ],
     "year": 2026,
-    "program": "YC Summer 2026",
+    "program": "YC Fall 2026",
     "programSlugs": [
-      "yc-summer-2026"
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -17319,7 +17355,7 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "AI",
+      "Artificial Intelligence",
       "APIs"
     ],
     "year": 2026,
@@ -19403,7 +19439,7 @@
     "name": "Pacific",
     "description": "Mass-producing and financing micro data center incredibly quickly.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/196624bfab919b6dd989cb601af1771954cb562e.png",
-    "website": "https://gopacific.ai/",
+    "website": "https://pacific.space",
     "location": "London, England, United Kingdom",
     "region": "United Kingdom",
     "subregion": "",
@@ -22137,10 +22173,10 @@
   },
   {
     "source": "yc",
-    "name": "Ascii",
+    "name": "Boat",
     "description": "The best cloud VMs for billions of agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7ab4963f9bacc76a0a31b94f8773cad5138d2dc3.png",
-    "website": "https://box.ascii.dev",
+    "website": "https://boat.dev",
     "location": "Paris, Île-de-France, France; Remote",
     "region": "France",
     "subregion": "",
@@ -22369,7 +22405,7 @@
   {
     "source": "yc",
     "name": "Nodus Compute",
-    "description": "Intelligent execution layer for AI workloads",
+    "description": "Intelligent Cloud for AI workloads",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cf5d37476e8f7b170957ddb85fd0254d52fa2634.png",
     "website": "https://www.nodus-compute.ai/",
     "location": "San Francisco, CA, USA",
@@ -22408,10 +22444,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -23166,6 +23202,36 @@
   },
   {
     "source": "yc",
+    "name": "Perit.AI",
+    "description": "Expert-led data and RL platform for AI labs",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a35e9e2f6026717a2640d1e01b9215eaff2d4310.png",
+    "website": "https://www.perit.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Data Labeling"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Sona8",
     "description": "Voice agents that talk to employees enabling transformations ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7f2bc6b3848168f970a704b24b37c2b125f25.png",
@@ -23369,6 +23435,38 @@
       "Fintech",
       "Insurance",
       "Artificial Intelligence"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Lark",
+    "description": "Lark - Specialized agents for wholesale distributors",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1fa063810ecce7347eb451a813a33fc49dd7242c.png",
+    "website": "https://trylark.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Supply Chain",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -26149,6 +26247,47 @@
   },
   {
     "source": "alchemist",
+    "name": "Luce Labs",
+    "description": "Programmable expression of high-value plant compounds\n",
+    "logo": "",
+    "website": "",
+    "location": "Chicago, IL, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Luigi Guadagno**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**James Russell**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Renna Health",
     "description": "The AI for ER workflows. ",
     "logo": "",
@@ -26222,47 +26361,6 @@
     },
     "extra": {
       "country": "Canada"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Luce Labs",
-    "description": "Programmable expression of high-value plant compounds\n",
-    "logo": "",
-    "website": "",
-    "location": "Chicago, IL, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Luigi Guadagno**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**James Russell**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
     }
   }
 ]

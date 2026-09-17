@@ -1524,18 +1524,18 @@
   {
     "source": "yc",
     "name": "CODEXA",
-    "description": "AI Agent runs the entire international trade operation",
+    "description": "The AI-native financial platform for enterprises",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/315e211ddda1814fa9db4077702d9dd3f91a8723.png",
-    "website": "https://codexa.com.br/desembaraco-aduaneiro",
+    "website": "https://codexa.com.br",
     "location": "Manaus, AM, Brazil",
     "region": "Brazil",
     "subregion": "",
     "tags": [
       "Fintech",
       "Payments",
+      "Artificial Intelligence",
       "Crypto / Web3",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "year": 2022,
     "program": "YC Summer 2022",
@@ -2338,7 +2338,7 @@
   {
     "source": "yc",
     "name": "Oway",
-    "description": "Turning America’s supply chain inefficiency into infrastructure.",
+    "description": "The coordination OS for the physical economy. ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
     "website": "https://www.shipoway.com",
     "location": "San Francisco, CA, USA",
@@ -2346,9 +2346,9 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "Artificial Intelligence",
       "API",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -2677,7 +2677,7 @@
   {
     "source": "yc",
     "name": "Rebulk",
-    "description": "Accurately measure and monitor bulk inventory",
+    "description": "AI-native software for managing rail and bulk operations.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/37f1f3fac3b53d55834007e8aa34e2f8bb7a1198.png",
     "website": "https://www.rebulk.com",
     "location": "Olathe, KS, USA",
@@ -2685,10 +2685,9 @@
     "subregion": "",
     "tags": [
       "Supply Chain and Logistics",
-      "Computer Vision",
+      "Artificial Intelligence",
+      "Logistics",
       "Supply Chain",
-      "Agriculture",
-      "AI",
       "Industrial"
     ],
     "year": 2025,
@@ -3104,6 +3103,38 @@
     "program": "YC Summer 2026",
     "programSlugs": [
       "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Lark",
+    "description": "Lark - Specialized agents for wholesale distributors",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1fa063810ecce7347eb451a813a33fc49dd7242c.png",
+    "website": "https://trylark.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Supply Chain",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -5706,6 +5737,97 @@
   },
   {
     "source": "500",
+    "name": "Erply",
+    "description": "Provider of cloud-based point of sale and inventory management software designed to help retailers to focus more on business and less on IT. The company's point of sale and inventory management software handles data across physical shops, online stores and offices along with real-time dashboards with relevant data, enabling clients to use a cost effective and technologically superior way for handing centralized management experience.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7225904b-18c3-471f-9499-8749cf82e26d.png",
+    "website": "https://erply.com",
+    "location": "United Kingdom",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Supply Chain"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alari Koppelmaa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kris Hiiemaa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kristian Hiiemaa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kristjan Randma",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Whiplash Merchandising",
+    "description": "Developer of an e-commerce software designed to offer order management and warehouse management services. The company's e-commerce software offers integration, order management system (OMS) as well as warehouse management system (WMS) capabilities to emerging brands along with real-time visibility and OMS capabilities, labor management and order fulfillment services, enabling companies to enhance their operations with expanded customer offerings and responsiveness.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bdd3580e-33eb-415a-ac50-8c7f0f9ad0d0.png",
+    "website": "https://whiplashmerch.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Supply Chain"
+    ],
+    "year": 2015,
+    "program": "GA 15",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "James Marks",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "Deal Connect",
     "description": "Developing a logistics optimization service for scrap metal industry",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e8bc9ef3-000b-49fb-8c63-be574e579258.png",
@@ -5741,6 +5863,44 @@
     },
     "extra": {
       "country": "Japan"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Dsco",
+    "description": "Provider of a cloud-based drop-shipping platform designed to provide product push and predictive supply chain, models. The company's online platform integrates and manages drop ship partners, inventory, data, and orders by handling the exchange of data through a single connection and integration point, helping trading partners streamline operations, generate more sales, and fulfill more orders using the virtual supply chain.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fb8ecd28-9afa-4f9a-b4de-48ad53bd2cac.png",
+    "website": "https://www.dsco.io",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Supply Chain"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jeremy Hanks",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/dropship-commerce",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   },
   {
@@ -5937,101 +6097,10 @@
   },
   {
     "source": "500",
-    "name": "Erply",
-    "description": "Provider of cloud-based point of sale and inventory management software designed to help retailers to focus more on business and less on IT. The company's point of sale and inventory management software handles data across physical shops, online stores and offices along with real-time dashboards with relevant data, enabling clients to use a cost effective and technologically superior way for handing centralized management experience.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7225904b-18c3-471f-9499-8749cf82e26d.png",
-    "website": "https://erply.com",
-    "location": "United Kingdom",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Supply Chain"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alari Koppelmaa",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kris Hiiemaa",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kristian Hiiemaa",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kristjan Randma",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United Kingdom"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Whiplash Merchandising",
-    "description": "Developer of an e-commerce software designed to offer order management and warehouse management services. The company's e-commerce software offers integration, order management system (OMS) as well as warehouse management system (WMS) capabilities to emerging brands along with real-time visibility and OMS capabilities, labor management and order fulfillment services, enabling companies to enhance their operations with expanded customer offerings and responsiveness.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bdd3580e-33eb-415a-ac50-8c7f0f9ad0d0.png",
-    "website": "https://whiplashmerch.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Supply Chain"
-    ],
-    "year": 2015,
-    "program": "GA 15",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "James Marks",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Dsco",
-    "description": "Provider of a cloud-based drop-shipping platform designed to provide product push and predictive supply chain, models. The company's online platform integrates and manages drop ship partners, inventory, data, and orders by handling the exchange of data through a single connection and integration point, helping trading partners streamline operations, generate more sales, and fulfill more orders using the virtual supply chain.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fb8ecd28-9afa-4f9a-b4de-48ad53bd2cac.png",
-    "website": "https://www.dsco.io",
+    "name": "Kinnek",
+    "description": "Operator of an online marketplace for high-cost purchases designed to find suppliers and manage purchasing. The company's online marketplace for high-cost purchases offers a curated way to research equipment or supplies, enabling businesses to seamlessly connect with suppliers.",
+    "logo": "",
+    "website": "https://kinnek.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
@@ -6049,13 +6118,18 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jeremy Hanks",
+        "name": "Rui Ma",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Karthik Sridharan",
         "role": "",
         "linkedin": ""
       }
     ],
     "social": {
-      "linkedin": "https://www.linkedin.com/company/dropship-commerce",
+      "linkedin": "",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -6093,49 +6167,6 @@
       },
       {
         "name": "Jonathan Frazier",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Kinnek",
-    "description": "Operator of an online marketplace for high-cost purchases designed to find suppliers and manage purchasing. The company's online marketplace for high-cost purchases offers a curated way to research equipment or supplies, enabling businesses to seamlessly connect with suppliers.",
-    "logo": "",
-    "website": "https://kinnek.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Supply Chain"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Rui Ma",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Karthik Sridharan",
         "role": "",
         "linkedin": ""
       }
