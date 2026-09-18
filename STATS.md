@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-17._
+_Auto-generated from the dataset on 2026-09-18._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,166** |
+| Total companies | **21,174** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2777** |
 | 🌱 B Corps | **29** |
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-09-17._
 
 | Source | Companies |
 |---|---|
-| yc | 6,225 |
+| yc | 6,232 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,238 |
-| antler | 1,074 |
+| antler | 1,075 |
 | alchemist | 517 |
 | ef | 499 |
 
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-09-17._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1044
-2026  ███████████████░░░░░░░░░░░░░ 797
+2026  ███████████████░░░░░░░░░░░░░ 804
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2
 ```
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-09-17._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1398
-3. **Antler** — 1074
+3. **Antler** — 1075
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -102,30 +102,30 @@ _Auto-generated from the dataset on 2026-09-17._
 15. **YC Winter 2020** — 228
 
 ## Top industries
-1. **Fintech** — 2487
+1. **Fintech** — 2489
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1428
 4. **Mobile** — 1141
-5. **Consumer** — 1064
-6. **Artificial Intelligence** — 1012
-7. **AI** — 898
+5. **Consumer** — 1063
+6. **Artificial Intelligence** — 1021
+7. **AI** — 894
 8. **Healthcare** — 818
 9. **Developer Tools** — 714
 10. **Infrastructure** — 698
 11. **Health** — 663
-12. **Industrials** — 641
+12. **Industrials** — 643
 13. **Engineering, Product and Design** — 621
 14. **Insurtech** — 513
-15. **B2B Software** — 494
+15. **B2B Software** — 495
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
 18. **Healthtech** — 440
-19. **Energy** — 431
+19. **Energy** — 432
 20. **Mobility & Physical AI** — 409
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4627
+2. **United States of America** — 4635
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 901
@@ -134,7 +134,7 @@ _Auto-generated from the dataset on 2026-09-17._
 8. **South Asia** — 264
 9. **United Kingdom** — 217
 10. **Canada** — 215
-11. **India** — 212
+11. **India** — 211
 12. **Latin America** — 163
 13. **Middle East** — 159
 14. **Unspecified** — 120
@@ -152,12 +152,12 @@ _Auto-generated from the dataset on 2026-09-17._
 26. **Israel** — 34
 27. **Indonesia** — 30
 28. **Colombia** — 27
-29. **Sweden** — 21
-30. **Spain** — 20
+29. **Spain** — 20
+30. **Sweden** — 20
 31. **Argentina** — 19
 32. **Australia** — 17
-33. **United Arab Emirates** — 16
-34. **Chile** — 16
+33. **Chile** — 17
+34. **United Arab Emirates** — 16
 35. **Netherlands** — 15
 36. **Denmark** — 14
 37. **Australia & NZ** — 13
