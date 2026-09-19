@@ -2739,10 +2739,11 @@
     "subregion": "",
     "tags": [
       "Security",
+      "Artificial Intelligence",
       "Open Source",
+      "Cybersecurity",
       "Enterprise",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -3339,10 +3340,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "Enterprise",
       "Enterprise Software",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -3540,9 +3541,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -4892,55 +4893,6 @@
   },
   {
     "source": "500",
-    "name": "Obie",
-    "description": "Provider of a Slackbot platform created for team collaboration and on boarding. The company's platform provides a web virtual assistant to help teams collaborate and make faster decisions, enabling them to be informed of team members and save time and effort in decision making.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/1e4034e2-6150-42eb-bf49-e371094be922.png",
-    "website": "https://obie.ai",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "AI/Machine Learning",
-      "Enterprise"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alexander Sopinka",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Chris Buttenham",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ravinda Seunath",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "500",
     "name": "Avocode",
     "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
     "logo": "",
@@ -4992,6 +4944,55 @@
     },
     "extra": {
       "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Obie",
+    "description": "Provider of a Slackbot platform created for team collaboration and on boarding. The company's platform provides a web virtual assistant to help teams collaborate and make faster decisions, enabling them to be informed of team members and save time and effort in decision making.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/1e4034e2-6150-42eb-bf49-e371094be922.png",
+    "website": "https://obie.ai",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "AI/Machine Learning",
+      "Enterprise"
+    ],
+    "year": 2017,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alexander Sopinka",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Chris Buttenham",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ravinda Seunath",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
     }
   }
 ]

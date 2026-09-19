@@ -60559,9 +60559,9 @@
     "subregion": "",
     "tags": [
       "Retail",
-      "Artificial Intelligence",
       "E-commerce",
-      "Food & Beverage"
+      "Food & Beverage",
+      "AI"
     ],
     "year": 2020,
     "program": "YC Summer 2020",
@@ -61006,16 +61006,16 @@
   {
     "source": "yc",
     "name": "Heron",
-    "description": "Underwriting automation for SMB finance",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6ed4f65fcafeff8654b29d189aa9b82b0bddfd6f.png",
+    "description": "Underwriting automation for small business finance",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f86f1836e1bd65adb93aa3f9f5e5db9c12222c15.png",
     "website": "https://www.herondata.io",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Fintech",
-      "Artificial Intelligence",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "year": 2020,
     "program": "YC Summer 2020",
@@ -83658,7 +83658,7 @@
   {
     "source": "yc",
     "name": "Juicebox",
-    "description": "AI-powered talent sourcing for recruiters",
+    "description": "AI Agents for Recruiting",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
     "website": "https://juicebox.ai/",
     "location": "San Francisco, CA, USA",
@@ -98442,10 +98442,11 @@
     "subregion": "",
     "tags": [
       "Security",
+      "Artificial Intelligence",
       "Open Source",
+      "Cybersecurity",
       "Enterprise",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -100688,7 +100689,7 @@
     "programSlugs": [
       "yc-winter-2024"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -124687,7 +124688,10 @@
     "subregion": "",
     "tags": [
       "Fintech",
-      "Consumer Finance"
+      "Artificial Intelligence",
+      "Crypto / Web3",
+      "Consumer Finance",
+      "Stocks"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -125326,7 +125330,7 @@
   {
     "source": "yc",
     "name": "Solva",
-    "description": "Automates insurance claims and stops incorrect payouts",
+    "description": "Building the new superintelligence for insurance",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b15b9a0a3aeadaf4902e3ef1a27712b5677c90d6.png",
     "website": "https://solvatechnology.com",
     "location": "New York City, NY, USA",
@@ -128310,10 +128314,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "Enterprise",
       "Enterprise Software",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -129559,6 +129563,39 @@
   },
   {
     "source": "yc",
+    "name": "Bravi",
+    "description": "AI operating system for home improvement manufacturers",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/293f67239064e77044472c7d1555aed47f6899c7.png",
+    "website": "https://www.bravi.app/",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Manufacturing",
+      "Automation",
+      "Home Services",
+      "AI Assistant"
+    ],
+    "year": 2025,
+    "program": "YC Fall 2025",
+    "programSlugs": [
+      "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Lexi",
     "description": "AI Operating System for Legal Teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eb8c922483150b7ebb7320f8160a0722809b666c.png",
@@ -129755,7 +129792,7 @@
     "name": "Darwin",
     "description": "Humanoid robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
-    "website": "https://thesislabs.ai",
+    "website": "https://darwinrobotics.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -132368,7 +132405,8 @@
     "tags": [
       "Productivity",
       "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "SaaS"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -132391,7 +132429,7 @@
   {
     "source": "yc",
     "name": "Kita",
-    "description": "Automate credit assessment for lenders in emerging markets",
+    "description": "Underwrite borrowers around the world in minutes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0e2c404c5bbc49c9c8e25d9c60779b50f507ba65.png",
     "website": "https://www.kita.ai/",
     "location": "San Francisco, CA, USA",
@@ -133273,6 +133311,34 @@
       "Industrials",
       "Manufacturing and Robotics"
     ],
+    "year": 2026,
+    "program": "YC Winter 2026",
+    "programSlugs": [
+      "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Avoice",
+    "description": "AI-native workspace for AEC",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/09b00897bad7b286c988185a245a471be3726665.png",
+    "website": "https://avoice.co/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [],
     "year": 2026,
     "program": "YC Winter 2026",
     "programSlugs": [
@@ -135828,7 +135894,7 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -137216,7 +137282,7 @@
   {
     "source": "yc",
     "name": "Korso",
-    "description": "The AI-native agency",
+    "description": "The last assistant you'll need",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd03c9be7cf358b8834377c00d3855af56d7f064.png",
     "website": "https://korsoai.com/",
     "location": "Irvine, CA, USA",
@@ -137224,8 +137290,7 @@
     "subregion": "",
     "tags": [
       "SaaS",
-      "Consumer",
-      "Social"
+      "AI Assistant"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -139117,9 +139182,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -143670,10 +143735,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Sales",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -148525,7 +148590,7 @@
     "source": "yc",
     "name": "Sentient OS",
     "description": "On-device AI that knows your entire life and does your work overnight.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/108c3aadc4e00e665b12a9b3e77b6f0a5caa7d7b.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/39c30a4d604edd955f2c2b37f1f7281571ae18fb.png",
     "website": "https://sentient-os.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -148651,7 +148716,7 @@
   {
     "source": "yc",
     "name": "Sigma",
-    "description": "AI Operating System for Mergers & Acquisitions",
+    "description": "Lakehouse-as-a-Service (LaaS) for pre and post-acquisition",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0281f5236edcd7fb1960cb57da29592acd65e490.png",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -148659,8 +148724,8 @@
     "subregion": "",
     "tags": [
       "Finance and Accounting",
-      "Artificial Intelligence",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -149177,6 +149242,38 @@
   },
   {
     "source": "yc",
+    "name": "Agent Relay",
+    "description": "The infrastructure to run coding agents for your team",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
+    "website": "https://agentrelay.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "Swarm AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Workers IO",
     "description": "Simulation Environments for Verifying Mission Critical Software",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
@@ -149313,7 +149410,7 @@
     "source": "yc",
     "name": "Hemlock",
     "description": "Force-sensing wristband for training robotic AI",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f772c44a8588e4bf3012c9f219bcb8503834bddb.png",
     "website": "https://hemlock.inc",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -149449,15 +149546,15 @@
   {
     "source": "yc",
     "name": "Vorelios",
-    "description": "A foundation model for engineering physics",
+    "description": "A Foundation Model for Industrial Physics Simulation",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c02b36f4ca2283601c8f20e89597a38768ae9db9.png",
     "website": "https://vorelios.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "Hard Tech"
+      "Hard Tech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -149902,6 +149999,41 @@
   },
   {
     "source": "yc",
+    "name": "Volaren Inc.",
+    "description": "Democratizing investing. Volaren collapses the hedge fund model and…",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
+    "website": "https://www.volaren.ai",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Asset Management",
+      "Marketplace",
+      "Finance",
+      "Creator Economy",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "The Subvocal Company",
     "description": "Talk to your computer without talking",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cacc4ab40596ece6b5c77c3f350ee25ddf5cb079.png",
@@ -150096,7 +150228,7 @@
     "source": "yc",
     "name": "DeepMark",
     "description": "A live watermark inside AI voice that survives phone calls",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1bd6059d7d9d25b086256c7ab3a4a2b53f609362.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4dfcb45ad1cf6b4da58c1a44a770eb98ac4ec79b.png",
     "website": "https://www.deepmark.me",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",

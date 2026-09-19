@@ -9520,9 +9520,9 @@
     "subregion": "",
     "tags": [
       "Productivity",
-      "Artificial Intelligence",
       "SaaS",
       "Open Source",
+      "AI",
       "AI Assistant"
     ],
     "year": 2025,
@@ -9852,7 +9852,8 @@
     "tags": [
       "Productivity",
       "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "SaaS"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -10669,7 +10670,7 @@
     "source": "yc",
     "name": "Sentient OS",
     "description": "On-device AI that knows your entire life and does your work overnight.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/108c3aadc4e00e665b12a9b3e77b6f0a5caa7d7b.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/39c30a4d604edd955f2c2b37f1f7281571ae18fb.png",
     "website": "https://sentient-os.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -12863,54 +12864,6 @@
   },
   {
     "source": "500",
-    "name": "WorkLife",
-    "description": "Provider of a Web application to conduct meetings. The company provides a virtual meeting platform that lets co-workers collaborate in real time on things like documents, notes, agendas, and tasks.",
-    "logo": "",
-    "website": "https://worklife.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Productivity"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dave Bryand",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dave Kashen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Val Agostino",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Gantto",
     "description": "Provider of project management tool which uses gantt chart for visual representation. The company's platform enables users to create their own charts and presentations to show project progress and management.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7c0775fd-753e-451a-8e43-298f6732a114.png",
@@ -13288,49 +13241,6 @@
   },
   {
     "source": "500",
-    "name": "Sunrise Atelier",
-    "description": "Provider of a free calender application for mobile devices. The company has developed a mobile application that is made for Google Calendar users, providing real-time synchronization, quick-add event tools, time-zone support and Facebook events and birthdays.",
-    "logo": "",
-    "website": "https://sunrise.am",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Productivity"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jeremy Le Van",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Pierre Valade",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Peoplise",
     "description": "Provider of a cloud-based recruitment platform designed to help HR practitioners to utilize digital and analytical technologies. The company's platform to help in talent acquisition process and create the better teams for business with lower turn-over, higher performance, enabling users to target the candidates via employer-branded advertisements and video-enabled digital screening.",
     "logo": "https://founder-hub-public.s3.amazonaws.com/54d61cd1-3439-4113-a7fd-c7ab41db5f89.png",
@@ -13381,6 +13291,49 @@
     },
     "extra": {
       "country": "Turkey"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Sunrise Atelier",
+    "description": "Provider of a free calender application for mobile devices. The company has developed a mobile application that is made for Google Calendar users, providing real-time synchronization, quick-add event tools, time-zone support and Facebook events and birthdays.",
+    "logo": "",
+    "website": "https://sunrise.am",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jeremy Le Van",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Pierre Valade",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   },
   {
@@ -13515,6 +13468,54 @@
       },
       {
         "name": "Hoang Anh Vu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "WorkLife",
+    "description": "Provider of a Web application to conduct meetings. The company provides a virtual meeting platform that lets co-workers collaborate in real time on things like documents, notes, agendas, and tasks.",
+    "logo": "",
+    "website": "https://worklife.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dave Bryand",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dave Kashen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Val Agostino",
         "role": "",
         "linkedin": ""
       }

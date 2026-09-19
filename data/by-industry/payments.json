@@ -6008,7 +6008,7 @@
     "programSlugs": [
       "yc-winter-2024"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -6436,39 +6436,6 @@
     "program": "YC Summer 2025",
     "programSlugs": [
       "yc-summer-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Zavo",
-    "description": "AI Operating System for Restaurants ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
-    "website": "https://zavopay.com",
-    "location": "London, England, United Kingdom",
-    "region": "United Kingdom",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Payments",
-      "Artificial Intelligence",
-      "Restaurant Tech"
-    ],
-    "year": 2025,
-    "program": "YC Fall 2025",
-    "programSlugs": [
-      "yc-fall-2025"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -8433,49 +8400,6 @@
   },
   {
     "source": "500",
-    "name": "WePay",
-    "description": "Provider of an online payment platform designed to accept and process instant payments. The company's online payment platform delivers payments-as-a-service APIs for simple onboarding and activation of payments, without impacting the user experience, enabling enterprises to process instant onboarding and payments without friction or fraud.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b2bd88e-0976-43bc-b6db-dfc3695950a8.png",
-    "website": "https://wepay.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Payments"
-    ],
-    "year": 2009,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Bill Clerico",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Richard Aberman",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "TransFS",
     "description": "Provider of an online marketplace for credit-card processors. The company provides a platform for merchants to shop and compare bids from multiple providers of credit-card processing services.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ed846358-58ee-4cb7-9905-84101aae56fe.png",
@@ -8503,6 +8427,49 @@
       },
       {
         "name": "Steve Harper",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "WePay",
+    "description": "Provider of an online payment platform designed to accept and process instant payments. The company's online payment platform delivers payments-as-a-service APIs for simple onboarding and activation of payments, without impacting the user experience, enabling enterprises to process instant onboarding and payments without friction or fraud.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b2bd88e-0976-43bc-b6db-dfc3695950a8.png",
+    "website": "https://wepay.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Payments"
+    ],
+    "year": 2009,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Bill Clerico",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Richard Aberman",
         "role": "",
         "linkedin": ""
       }
@@ -8731,44 +8698,6 @@
   },
   {
     "source": "500",
-    "name": "ShopGo",
-    "description": "Provider of software platform designed to create e-commerce Websites. The company's software platform provides local support to its merchants and their changing needs at every stage, enabling merchants to succeed in their online business.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/017c6531-a0a4-4b90-a3b6-81832b6c42e1.png",
-    "website": "https://shopgo.me",
-    "location": "British Virgin Islands",
-    "region": "Africa",
-    "subregion": "",
-    "tags": [
-      "Payments"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mohanad Ghashim",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "British Virgin Islands"
-    }
-  },
-  {
-    "source": "500",
     "name": "Pokkt",
     "description": "Provider of a mobile video advertising platform intended to serve the application developers and publishers. The company's platform offers to make free purchases through multiple alternative monetization tools such as watching videos, subscribing to services, installing applications and participation in surveys, enabling clients to get connected with the right audiences.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/75119f88-6e1f-4a2f-baa9-101bf02e4793.png",
@@ -8818,6 +8747,44 @@
     },
     "extra": {
       "country": "Singapore"
+    }
+  },
+  {
+    "source": "500",
+    "name": "ShopGo",
+    "description": "Provider of software platform designed to create e-commerce Websites. The company's software platform provides local support to its merchants and their changing needs at every stage, enabling merchants to succeed in their online business.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/017c6531-a0a4-4b90-a3b6-81832b6c42e1.png",
+    "website": "https://shopgo.me",
+    "location": "British Virgin Islands",
+    "region": "Africa",
+    "subregion": "",
+    "tags": [
+      "Payments"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mohanad Ghashim",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "British Virgin Islands"
     }
   },
   {
