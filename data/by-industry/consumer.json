@@ -5533,7 +5533,7 @@
     "programSlugs": [
       "yc-summer-2012"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -26462,11 +26462,11 @@
     "tags": [
       "Consumer",
       "Travel, Leisure and Tourism",
-      "Artificial Intelligence",
       "SaaS",
       "Travel",
       "Airlines",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "year": 2023,
     "program": "YC Summer 2023",
@@ -30560,18 +30560,18 @@
   {
     "source": "yc",
     "name": "Corvera",
-    "description": "The context layer for AI-native CPG brands",
+    "description": "The AI sales engine for CPG brands",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
     "website": "https://corvera.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Operations",
+      "Sales",
+      "Artificial Intelligence",
       "SaaS",
       "Consumer",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -35767,46 +35767,6 @@
   },
   {
     "source": "500",
-    "name": "CraftCoffee",
-    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
-    "website": "https://craftcoffee.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Direct to Consumer",
-      "Subscription",
-      "Consumer"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Michael Horn",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Rebaja Tus Cuentas",
     "description": "Developer of a mortgage purchase software designed to provide financial advisory services for mortgage debts. The company's software provides a form for basic information about the current mortgage credit, helps in finding good bidders with the financial institution to close the terms of the transfer of the mortgage, enabling users to avail mortgage debt purchase without any hassle.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a433923-6059-4e38-9d1a-1c4710fb1007.png",
@@ -35891,6 +35851,46 @@
     },
     "extra": {
       "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
+    "name": "CraftCoffee",
+    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
+    "website": "https://craftcoffee.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Direct to Consumer",
+      "Subscription",
+      "Consumer"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Michael Horn",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   }
 ]

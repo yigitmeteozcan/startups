@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-21._
+_Auto-generated from the dataset on 2026-09-22._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,185** |
+| Total companies | **21,190** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2778** |
+| 💰 Exits | **2780** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,10 +14,10 @@ _Auto-generated from the dataset on 2026-09-21._
 
 | Source | Companies |
 |---|---|
-| yc | 6,241 |
+| yc | 6,245 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
-| 500 | 2,240 |
+| 500 | 2,241 |
 | antler | 1,075 |
 | alchemist | 517 |
 | ef | 499 |
@@ -41,17 +41,17 @@ _Auto-generated from the dataset on 2026-09-21._
 2018  ████████████████░░░░░░░░░░░░ 863
 2019  ███████████████████░░░░░░░░░ 1030
 2020  ████████████████████░░░░░░░░ 1052
-2021  ██████████████████████████░░ 1382
+2021  ██████████████████████████░░ 1383
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1044
-2026  ███████████████░░░░░░░░░░░░░ 813
+2026  ███████████████░░░░░░░░░░░░░ 817
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2
 ```
 
 ## Top countries
-1. **United States** — 5862
+1. **United States** — 5863
 2. **Japan** — 2684
 3. **United Kingdom** — 597
 4. **Canada** — 553
@@ -86,7 +86,7 @@ _Auto-generated from the dataset on 2026-09-21._
 
 ## Top programs
 1. **Plug and Play** — 5508
-2. **500 Global** — 1400
+2. **500 Global** — 1401
 3. **Antler** — 1075
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
@@ -102,16 +102,16 @@ _Auto-generated from the dataset on 2026-09-21._
 15. **YC Winter 2020** — 228
 
 ## Top industries
-1. **Fintech** — 2489
+1. **Fintech** — 2491
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1429
 4. **Mobile** — 1141
 5. **Consumer** — 1063
-6. **Artificial Intelligence** — 1025
-7. **AI** — 896
+6. **Artificial Intelligence** — 1030
+7. **AI** — 894
 8. **Healthcare** — 818
-9. **Developer Tools** — 716
-10. **Infrastructure** — 700
+9. **Developer Tools** — 717
+10. **Infrastructure** — 701
 11. **Health** — 663
 12. **Industrials** — 647
 13. **Engineering, Product and Design** — 622
@@ -125,14 +125,14 @@ _Auto-generated from the dataset on 2026-09-21._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4637
+2. **United States of America** — 4641
 3. **Asia** — 2990
 4. **Europe** — 1014
-5. **North America** — 901
+5. **North America** — 902
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 217
+9. **United Kingdom** — 218
 10. **Canada** — 216
 11. **India** — 212
 12. **Latin America** — 163
@@ -202,30 +202,29 @@ _Auto-generated from the dataset on 2026-09-21._
 76. **Thailand** — 1
 77. **Nepal** — 1
 78. **Bangladesh** — 1
-79. **Bermuda** — 1
-80. **Russia** — 1
-81. **Hungary** — 1
-82. **Latvia** — 1
-83. **Puerto Rico** — 1
-84. **Iceland** — 1
-85. **Greece** — 1
-86. **Iraq** — 1
-87. **Kyrgyzstan** — 1
-88. **Tanzania** — 1
-89. **Algeria** — 1
-90. **Italy** — 1
-91. **Lithuania** — 1
-92. **Ivory Coast** — 1
-93. **Zambia** — 1
-94. **Ecuador** — 1
-95. **Cyprus** — 1
-96. **Uganda** — 1
-97. **Bahrain** — 1
-98. **Venezuela** — 1
-99. **Ethiopia** — 1
-100. **Taiwan** — 1
-101. **Uruguay** — 1
-102. **Democratic Republic of the Congo** — 1
-103. **Cayman Islands** — 1
-104. **Americas - United States** — 1
-105. **Global** — 1
+79. **Russia** — 1
+80. **Hungary** — 1
+81. **Latvia** — 1
+82. **Puerto Rico** — 1
+83. **Iceland** — 1
+84. **Greece** — 1
+85. **Iraq** — 1
+86. **Kyrgyzstan** — 1
+87. **Tanzania** — 1
+88. **Algeria** — 1
+89. **Italy** — 1
+90. **Lithuania** — 1
+91. **Ivory Coast** — 1
+92. **Zambia** — 1
+93. **Ecuador** — 1
+94. **Cyprus** — 1
+95. **Uganda** — 1
+96. **Bahrain** — 1
+97. **Venezuela** — 1
+98. **Ethiopia** — 1
+99. **Taiwan** — 1
+100. **Uruguay** — 1
+101. **Democratic Republic of the Congo** — 1
+102. **Cayman Islands** — 1
+103. **Americas - United States** — 1
+104. **Global** — 1
