@@ -113649,11 +113649,11 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
       "Productivity",
       "Data Engineering",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Fall 2024",
@@ -113806,7 +113806,7 @@
   {
     "source": "yc",
     "name": "Struct",
-    "description": "Agents that keep prod running",
+    "description": "Struct keeps prod running",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f292fd64c9e2943d040e390cd2700e19b243bb8c.png",
     "website": "https://struct.ai",
     "location": "San Francisco, CA, USA",
@@ -113814,10 +113814,10 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
       "DevOps",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Fall 2024",
@@ -116089,15 +116089,15 @@
     "source": "yc",
     "name": "Swerve",
     "description": "Chat with AI Characters",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/756ce7de62795d0a5985463eaff07dec98a3a6d4.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4cd4e09aaeb1f46dcf793d0eae3575ece7ac1c84.png",
     "website": "https://www.getswerve.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
-      "Artificial Intelligence",
-      "Entertainment"
+      "Entertainment",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -119886,7 +119886,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "AI"
+      "Artificial Intelligence",
+      "Conversational AI"
     ],
     "year": 2025,
     "program": "YC Spring 2025",
@@ -121113,7 +121114,7 @@
     "source": "yc",
     "name": "Cashew Labs",
     "description": "Recursive self improving harnesses and models",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/75b5481cd9f0b4c66c6e8e42e15816b3489d5c81.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/adbf4af78cd2152aba5757fd512d22adb6606a12.png",
     "website": "https://cashew-labs.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -124323,7 +124324,7 @@
   {
     "source": "yc",
     "name": "Wedge",
-    "description": "Palantir for Healthcare AI Agents",
+    "description": "AI Employees for Healthcare",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f77131cbecf4a204722622db553ac42245dbff78.png",
     "website": "https://www.wedge.health",
     "location": "San Francisco, CA, USA",
@@ -128912,16 +128913,16 @@
   },
   {
     "source": "yc",
-    "name": "Nivara",
-    "description": "AI agents for the finance back office.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
-    "website": "https://getnivara.com/",
+    "name": "Alder",
+    "description": "AI employees for finance, starting with accounts receivable. ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f394904d91685ab676105f88e9090848b7a6f1b2.png",
+    "website": "https://meetalder.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Finance and Accounting",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -132480,14 +132481,18 @@
   {
     "source": "yc",
     "name": "RunAnywhere",
-    "description": "The default way of running on-device AI at Scale",
+    "description": "Fastest inference anywhere: open models on-prem, hosted or on-device",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
     "website": "https://www.runanywhere.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure"
+      "Infrastructure",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -138151,41 +138156,6 @@
   },
   {
     "source": "yc",
-    "name": "Superlog",
-    "description": "Make software self-healing",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
-    "website": "https://superlog.sh/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Kubernetes",
-      "Enterprise Software"
-    ],
-    "year": 2026,
-    "program": "YC Spring 2026",
-    "programSlugs": [
-      "yc-spring-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "GovGuard",
     "description": "Automating Government Workflows, starting with FOIA",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/088748b86012913f3794408762cedda4f06a4bbf.png",
@@ -139107,36 +139077,6 @@
   },
   {
     "source": "yc",
-    "name": "Gojiberry AI",
-    "description": "AI Go-To-Market agents for B2B teams",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4a81291bc11ae471a475ddf6ccf1d67360474a8c.png",
-    "website": "https://www.gojiberry.ai",
-    "location": "San Francisco, CA, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Sales"
-    ],
-    "year": 2026,
-    "program": "YC Spring 2026",
-    "programSlugs": [
-      "yc-spring-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Napkin Math",
     "description": "AI nutrition coach in your pocket",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/43a02b84a6b28b5fb26796fe822a596c638d433c.png",
@@ -139146,39 +139086,6 @@
     "subregion": "",
     "tags": [
       "Consumer"
-    ],
-    "year": 2026,
-    "program": "YC Spring 2026",
-    "programSlugs": [
-      "yc-spring-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Ontora",
-    "description": "AI agents that interviews every employee to hand context to AI tools. ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
-    "website": "https://ontora.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Operations",
-      "Robotic Process Automation",
-      "Enterprise",
-      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -139696,18 +139603,18 @@
   },
   {
     "source": "yc",
-    "name": "Archer",
-    "description": "Global payouts for the workforce powering AI",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
-    "website": "https://archermoney.com/",
+    "name": "Masterpiece",
+    "description": "Working capital for data companies training frontier AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ed4420b560c26926fdea2bf9ca3f82e062da887b.png",
+    "website": "https://masterpiecelabs.xyz/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Fintech",
-      "Payments",
+      "Credit and Lending",
       "Crypto / Web3",
-      "Neobank",
+      "Lending",
       "AI"
     ],
     "year": 2026,
@@ -141630,7 +141537,7 @@
   {
     "source": "yc",
     "name": "flowscope",
-    "description": "AI-native consulting to map and automate business processes",
+    "description": "AI implementation firm that maps and automates business processes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8294685f458783c2fab7247c8fd749f25be5691c.png",
     "website": "https://flowscope.com",
     "location": "San Francisco, CA, USA",
@@ -142247,7 +142154,7 @@
     "description": "The IDE for Tokenmaxxers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
     "website": "https://maxxwell.dev",
-    "location": "San Francisco, CA, USA",
+    "location": "Boston, MA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -146383,9 +146290,9 @@
     "tags": [
       "Industrials",
       "Energy",
-      "Design",
-      "Architecture",
-      "AI"
+      "Artificial Intelligence",
+      "Construction",
+      "Design"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -147332,12 +147239,12 @@
     "description": "Distributed, hardware-agnostic AI inference",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9c5dcebff59e38045b8e976d964cbe43ec732a9e.png",
     "website": "https://www.openrelay.inc",
-    "location": "Seattle, WA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -147359,23 +147266,20 @@
   },
   {
     "source": "yc",
-    "name": "Agent FM",
-    "description": "One group chat to hear and steer your coding agents.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1cc0ea423493737ae6717d834b6bdb19aaf41f58.png",
-    "website": "https://www.agentfm.ai/",
+    "name": "isoquant",
+    "description": "Self-optimizing inference cloud for faster, cheaper AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2393ff6f2bb8fa724b4d08301f7b560ba116be78.png",
+    "website": "https://isoquant.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity"
+      "AI"
     ],
     "year": 2026,
-    "program": "YC Summer 2026",
+    "program": "YC Fall 2026",
     "programSlugs": [
-      "yc-summer-2026"
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -148979,7 +148883,7 @@
   {
     "source": "yc",
     "name": "Mirrors",
-    "description": "Catch and fix AI agent regressions before they reach production",
+    "description": "Fix your AI agent's errors at runtime, so they never happen twice",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.runmirrors.com",
     "location": "San Francisco, CA, USA",
@@ -148987,10 +148891,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
+      "AIOps",
       "Artificial Intelligence",
       "Developer Tools",
-      "SaaS",
-      "DevOps"
+      "SaaS"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -149348,11 +149252,11 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
+      "Artificial Intelligence",
       "Hardware",
       "Robotics",
       "Manufacturing",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -150142,6 +150046,39 @@
       "AIOps",
       "Health Tech",
       "Health Insurance"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Cyclon",
+    "description": "a phone where AI is the interface",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6d4a1648c00832ca1c9d1a963380c29de9ec30af.png",
+    "website": "https://cyclon.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Consumer Electronics",
+      "Hardware",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
