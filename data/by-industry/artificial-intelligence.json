@@ -4502,7 +4502,7 @@
     "programSlugs": [
       "yc-winter-2020"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -6294,39 +6294,6 @@
     "program": "YC Summer 2021",
     "programSlugs": [
       "yc-summer-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Routine",
-    "description": "AI-native all-in-one workspace for startups",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a83287c586a112549fd07af3737d8b67becbeeaf.png",
-    "website": "http://routine.co",
-    "location": "Paris, Île-de-France, France",
-    "region": "France",
-    "subregion": "",
-    "tags": [
-      "Productivity",
-      "Artificial Intelligence",
-      "Collaboration",
-      "Automation"
-    ],
-    "year": 2021,
-    "program": "YC Winter 2021",
-    "programSlugs": [
-      "yc-winter-2021"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -16370,6 +16337,40 @@
   },
   {
     "source": "yc",
+    "name": "Alex",
+    "description": "Alex is the AI recruiter for hiring great people.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/98b76c25c75fac04ce234cc570b0dd988698507a.png",
+    "website": "https://alex.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Recruiting and Talent",
+      "Artificial Intelligence",
+      "SaaS",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "year": 2024,
+    "program": "YC Winter 2024",
+    "programSlugs": [
+      "yc-winter-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Pretzel AI",
     "description": "AI tooling",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2c404e22972d59aa653091f4cf9a5eab3fa2894e.png",
@@ -18240,6 +18241,40 @@
       "SaaS",
       "Sales",
       "AI"
+    ],
+    "year": 2024,
+    "program": "YC Winter 2024",
+    "programSlugs": [
+      "yc-winter-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Zep AI",
+    "description": "The unified context layer for enterprise data",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/834036f2803ad1fb4cf8305e1be757592a8588a1.png",
+    "website": "https://www.getzep.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Infrastructure",
+      "Conversational AI",
+      "AI Assistant"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -20870,6 +20905,38 @@
   },
   {
     "source": "yc",
+    "name": "Praxos",
+    "description": "Team messaging with built-in memory",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/133daa5976316fea8822213f5f71c6bc57c7cc88.png",
+    "website": "https://praxos.ai",
+    "location": "",
+    "region": "Remote",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Messaging",
+      "Conversational AI"
+    ],
+    "year": 2024,
+    "program": "YC Summer 2024",
+    "programSlugs": [
+      "yc-summer-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "The Forecasting Company",
     "description": "Foundation models for time series",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/53275d8cc1a5e29fff729e2218b324e461af730f.png",
@@ -22168,17 +22235,17 @@
   {
     "source": "yc",
     "name": "Raycaster",
-    "description": "AI for life sciences documents",
+    "description": "Agentic AI for knowledge work",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8e3854e63389e5cabd44e4b6563fefc3bd539147.png",
-    "website": "https://raycaster.ai",
+    "website": "https://eval.raycaster.ai",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Productivity",
+      "Healthcare",
       "Artificial Intelligence",
-      "SaaS",
       "Biotech",
+      "Data Labeling",
       "Enterprise Software"
     ],
     "year": 2024,
@@ -23660,39 +23727,6 @@
   },
   {
     "source": "yc",
-    "name": "Gale",
-    "description": "Fast and Data-Driven Immigration Platform",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b4d879e54fc4f7ad192906cf1b7d462aa4f207b9.png",
-    "website": "https://galevisa.com",
-    "location": "Vancouver, BC, Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Legal",
-      "Artificial Intelligence",
-      "HR Tech",
-      "Immigration"
-    ],
-    "year": 2025,
-    "program": "YC Winter 2025",
-    "programSlugs": [
-      "yc-winter-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Asteroid",
     "description": "The integration layer for healthcare: EHRs, payer portals & more ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4598dd293d773fa0a9a1c72940f2f2e3153dda35.png",
@@ -24058,7 +24092,7 @@
     "source": "yc",
     "name": "Outlit",
     "description": "Protect and Grow Long-tail Revenue ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/16a8c8e06204be0874b7eb6c471380893195adbb.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/973d0a8062099dffcc4d6355a5ee07462b41be8b.png",
     "website": "https://outlit.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -26428,6 +26462,39 @@
   },
   {
     "source": "yc",
+    "name": "Lilac",
+    "description": "We sell GPUs.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/18234851431f8da18d1f087abc867a57412f1a97.png",
+    "website": "https://getlilac.com",
+    "location": "San Francisco, CA, USA; Remote",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "year": 2025,
+    "program": "YC Summer 2025",
+    "programSlugs": [
+      "yc-summer-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Frizzle",
     "description": "AI Grading for Teachers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3daf2d29bc3da3d9f526ade87b3daa93b0d6a6cd.png",
@@ -26930,6 +26997,39 @@
   },
   {
     "source": "yc",
+    "name": "Physical Turing",
+    "description": "Next generation robot deployer",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c87367cd52d809c0b9a6f05ef79f3c162b4dd082.png",
+    "website": "https://physicalturing.ai/",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Robotics"
+    ],
+    "year": 2025,
+    "program": "YC Summer 2025",
+    "programSlugs": [
+      "yc-summer-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Relling",
     "description": "deploying the first billion robots for manufacturing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e003594279b3a4474845b643ff2ee16c26f34a1a.png",
@@ -27371,6 +27471,39 @@
       "Artificial Intelligence",
       "Consumer",
       "Search"
+    ],
+    "year": 2025,
+    "program": "YC Summer 2025",
+    "programSlugs": [
+      "yc-summer-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Notte",
+    "description": "Browser infra for AI agents: sessions, auth, proxies, payments",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/63003c4a4bcce138151403c1e186fcebf3dfa34a.png",
+    "website": "https://www.notte.cc/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API",
+      "Automation"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -27896,6 +28029,40 @@
       "Machine Learning",
       "Construction",
       "AI Assistant"
+    ],
+    "year": 2025,
+    "program": "YC Fall 2025",
+    "programSlugs": [
+      "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Uplane",
+    "description": "Replace marketing agencies with AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6f996a4ae5a6f6c50880fc529dd16c13be2500bd.png",
+    "website": "https://uplane.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Marketing",
+      "Artificial Intelligence",
+      "SaaS",
+      "Analytics",
+      "Advertising"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -28470,40 +28637,6 @@
   },
   {
     "source": "yc",
-    "name": "Helonic",
-    "description": "Automatic Construction Drawing Clash Detection ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
-    "website": "https://helonic.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Real Estate and Construction",
-      "Construction",
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Architecture"
-    ],
-    "year": 2025,
-    "program": "YC Fall 2025",
-    "programSlugs": [
-      "yc-fall-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "FinalDose",
     "description": "Programmable DNA drug destroying all cancers, unlocking 80% of targets",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5910d81ebbfb17b7489c9613332140c02f40b7f4.png",
@@ -28587,39 +28720,6 @@
     "program": "YC Fall 2025",
     "programSlugs": [
       "yc-fall-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Frontier Computing",
-    "description": "Frontier grows scalable biological brains as an ML training substrate",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a10237e5548f0937c67885cb916abadcaa74cc08.png",
-    "website": "https://frontier.site",
-    "location": "London, England, United Kingdom",
-    "region": "United Kingdom",
-    "subregion": "",
-    "tags": [
-      "Industrials",
-      "Artificial Intelligence",
-      "Hard Tech",
-      "Hardware"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -30103,40 +30203,6 @@
   },
   {
     "source": "yc",
-    "name": "Superset",
-    "description": "Building self-improving software",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
-    "website": "https://www.superset.sh/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Consumer",
-      "Enterprise Software"
-    ],
-    "year": 2026,
-    "program": "YC Spring 2026",
-    "programSlugs": [
-      "yc-spring-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Datoric",
     "description": "The secure training data R&D engine for physical AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
@@ -30747,6 +30813,39 @@
       "Artificial Intelligence",
       "Investments",
       "Trading"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Ontora",
+    "description": "AI agents that interviews every employee to hand context to AI tools. ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
+    "website": "https://ontora.com",
+    "location": "Berlin, Berlin, Germany",
+    "region": "Germany",
+    "subregion": "",
+    "tags": [
+      "Operations",
+      "Artificial Intelligence",
+      "Robotic Process Automation",
+      "Enterprise"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -32102,9 +32201,9 @@
       "Finance"
     ],
     "year": 2026,
-    "program": "YC Summer 2026",
+    "program": "YC Fall 2026",
     "programSlugs": [
-      "yc-summer-2026"
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -32738,6 +32837,39 @@
       "Finance",
       "Cloud Computing",
       "Trading"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Luca IQ",
+    "description": "API-first tax engine for CPA firms and developers",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05718bc482e46fde4208c29e7eef28f2f4b686e7.png",
+    "website": "https://lucaiq.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Finance and Accounting",
+      "Artificial Intelligence",
+      "API",
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -34087,6 +34219,37 @@
   },
   {
     "source": "yc",
+    "name": "Vorelios",
+    "description": "A foundation model for engineering physics",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c02b36f4ca2283601c8f20e89597a38768ae9db9.png",
+    "website": "https://vorelios.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Dreamscale Labs",
     "description": "Running robot brains in the cloud",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5a0eb88901e7f46ec71cc8739e8069f4815b0a52.png",
@@ -34167,6 +34330,39 @@
       "Sales",
       "Artificial Intelligence",
       "Marketing"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Ageospatial",
+    "description": "Helping insurance companies value risk on properties remotely.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74f6c9e933a7a4a3c86d3c81c6964ca26989ba26.png",
+    "website": "https://ageospatial.com/",
+    "location": "San Francisco, CA, USA; Remote",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Insurance",
+      "Artificial Intelligence",
+      "Computer Vision"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -34295,6 +34491,41 @@
       "Finance and Accounting",
       "Artificial Intelligence",
       "Fintech"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Mantle",
+    "description": "The pit crew for deployed machines and robots.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7073e1cf7c2495368d081bd479283a8c160179f2.png",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Industrial"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

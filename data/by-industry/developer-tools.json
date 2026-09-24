@@ -3895,7 +3895,7 @@
     "programSlugs": [
       "yc-winter-2020"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -12423,16 +12423,16 @@
   {
     "source": "yc",
     "name": "Zep AI",
-    "description": "Agent Context Is Hard. We Fixed It.",
+    "description": "The unified context layer for enterprise data",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/834036f2803ad1fb4cf8305e1be757592a8588a1.png",
     "website": "https://www.getzep.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure",
-      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
@@ -15871,7 +15871,7 @@
   {
     "source": "yc",
     "name": "Alter",
-    "description": "Secure access control and authorization platform for agent workflows",
+    "description": "Privileged Access Management for AI Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3a30946452aaca1a7c8b4b8fefafd9807f194243.png",
     "website": "https://alterauth.com",
     "location": "New York City, NY, USA",
@@ -16169,16 +16169,17 @@
   {
     "source": "yc",
     "name": "Notte",
-    "description": "Reliable Web Agents for Enterprise",
+    "description": "Browser infra for AI agents: sessions, auth, proxies, payments",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/63003c4a4bcce138151403c1e186fcebf3dfa34a.png",
     "website": "https://www.notte.cc/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Automation",
-      "AI"
+      "API",
+      "Automation"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -17167,10 +17168,10 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -17441,6 +17442,40 @@
     "program": "YC Summer 2026",
     "programSlugs": [
       "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "InsForge (InstaCloud)",
+    "description": "The agent-native serverless cloud",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
+    "website": "https://insforge.dev/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "DevSecOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
