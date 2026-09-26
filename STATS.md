@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-25._
+_Auto-generated from the dataset on 2026-09-26._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,192** |
+| Total companies | **21,197** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2783** |
+| 💰 Exits | **2784** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-09-25._
 
 | Source | Companies |
 |---|---|
-| yc | 6,248 |
+| yc | 6,253 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-09-25._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1044
-2026  ███████████████░░░░░░░░░░░░░ 823
+2026  ████████████████░░░░░░░░░░░░ 828
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2
 ```
 
@@ -98,7 +98,7 @@ _Auto-generated from the dataset on 2026-09-25._
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
 13. **YC Summer 2022** — 233
-14. **YC Summer 2026** — 230
+14. **YC Summer 2026** — 231
 15. **YC Winter 2020** — 228
 
 ## Top industries
@@ -106,15 +106,15 @@ _Auto-generated from the dataset on 2026-09-25._
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1427
 4. **Mobile** — 1141
-5. **Consumer** — 1064
-6. **Artificial Intelligence** — 1037
-7. **AI** — 888
+5. **Consumer** — 1065
+6. **Artificial Intelligence** — 1036
+7. **AI** — 893
 8. **Healthcare** — 820
 9. **Developer Tools** — 718
 10. **Infrastructure** — 703
 11. **Health** — 663
 12. **Industrials** — 649
-13. **Engineering, Product and Design** — 621
+13. **Engineering, Product and Design** — 623
 14. **Insurtech** — 513
 15. **B2B Software** — 494
 16. **Deeptech** — 489
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-09-25._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4636
+2. **United States of America** — 4641
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
