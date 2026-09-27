@@ -1,6 +1,6 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-26._
+_Auto-generated from the dataset on 2026-09-27._
 
 | Metric | Count |
 |---|---|
@@ -107,14 +107,14 @@ _Auto-generated from the dataset on 2026-09-26._
 3. **SaaS** — 1427
 4. **Mobile** — 1141
 5. **Consumer** — 1065
-6. **Artificial Intelligence** — 1036
+6. **Artificial Intelligence** — 1037
 7. **AI** — 893
 8. **Healthcare** — 820
 9. **Developer Tools** — 718
 10. **Infrastructure** — 703
 11. **Health** — 663
 12. **Industrials** — 649
-13. **Engineering, Product and Design** — 623
+13. **Engineering, Product and Design** — 622
 14. **Insurtech** — 513
 15. **B2B Software** — 494
 16. **Deeptech** — 489

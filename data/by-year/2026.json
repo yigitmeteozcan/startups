@@ -8283,7 +8283,7 @@
   {
     "source": "yc",
     "name": "Sila",
-    "description": "Messaging built for agents and teams",
+    "description": "Agentic Whatsapp",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/30eef975f26ed420159ac335c08eb8b950705ee2.png",
     "website": "https://silahq.com",
     "location": "",
@@ -10159,7 +10159,7 @@
     "name": "Scope",
     "description": "We help software companies get discovered and used by AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6d0e13bdfef2fd20cec6977b8134ca84d57ab225.png",
-    "website": "https://tryscope.app",
+    "website": "https://tryscope.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -14533,15 +14533,15 @@
   },
   {
     "source": "yc",
-    "name": "Gigacatalyst",
-    "description": "AI-first embedded analytics and reports for customer success",
+    "name": "PumpGTM",
+    "description": "Find and engage with desperate buyers across LinkedIn, Email, and X",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f036b6b16ede0b0a7e4c426862254c490d653c42.png",
-    "website": "https://gigacatalyst.com/",
+    "website": "https://pumpgtm.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design"
+      "Marketing"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -20991,7 +20991,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Marketplace",
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Privacy",
       "Data Engineering"
     ],
     "year": 2026,
@@ -23737,15 +23739,15 @@
     "name": "antimattr",
     "description": "voice-first hardware interface for human-agent interaction",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3266646a9815f7e3ed31c088c4008df6e8fb0101.png",
-    "website": "https://antimattr.one/",
+    "website": "https://www.antimattr.one/project-mnemosyne",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
       "Consumer Electronics",
-      "Hardware",
-      "AI"
+      "Artificial Intelligence",
+      "Hardware"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -24294,7 +24296,7 @@
   {
     "source": "yc",
     "name": "Ageospatial",
-    "description": "Helping insurance companies value risk on properties remotely.",
+    "description": "Physical intelligence for every decision with Geospatial AI.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74f6c9e933a7a4a3c86d3c81c6964ca26989ba26.png",
     "website": "https://ageospatial.com/",
     "location": "San Francisco, CA, USA; Remote",
@@ -27286,47 +27288,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Asterquanta Systems Inc.",
-    "description": "Semiconductor Design Automation enabled by AI",
-    "logo": "",
-    "website": "",
-    "location": "Toronto, ON, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Pradeep V Pydah**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Matthew Taylor**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Luce Labs",
     "description": "Programmable expression of high-value plant compounds\n",
     "logo": "",
@@ -27400,6 +27361,47 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Asterquanta Systems Inc.",
+    "description": "Semiconductor Design Automation enabled by AI",
+    "logo": "",
+    "website": "",
+    "location": "Toronto, ON, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Pradeep V Pydah**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Matthew Taylor**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
     }
   }
 ]
