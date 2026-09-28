@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-09-27._
+_Auto-generated from the dataset on 2026-09-28._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,197** |
+| Total companies | **21,200** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2784** |
 | 🌱 B Corps | **29** |
@@ -18,7 +18,7 @@ _Auto-generated from the dataset on 2026-09-27._
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
-| antler | 1,074 |
+| antler | 1,077 |
 | alchemist | 517 |
 | ef | 499 |
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-09-27._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1401
-3. **Antler** — 1074
+3. **Antler** — 1077
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -106,9 +106,9 @@ _Auto-generated from the dataset on 2026-09-27._
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1427
 4. **Mobile** — 1141
-5. **Consumer** — 1065
-6. **Artificial Intelligence** — 1037
-7. **AI** — 893
+5. **Consumer** — 1064
+6. **Artificial Intelligence** — 1036
+7. **AI** — 895
 8. **Healthcare** — 820
 9. **Developer Tools** — 718
 10. **Infrastructure** — 703
@@ -137,7 +137,7 @@ _Auto-generated from the dataset on 2026-09-27._
 11. **India** — 214
 12. **Latin America** — 163
 13. **Middle East** — 159
-14. **Unspecified** — 121
+14. **Unspecified** — 120
 15. **North Asia** — 110
 16. **Africa** — 107
 17. **Southeast Asia** — 93
@@ -173,8 +173,8 @@ _Auto-generated from the dataset on 2026-09-27._
 47. **Peru** — 8
 48. **Vietnam** — 8
 49. **Hong Kong** — 7
-50. **China** — 6
-51. **Poland** — 6
+50. **Poland** — 7
+51. **China** — 6
 52. **Slovenia** — 6
 53. **Austria** — 5
 54. **Turkey** — 5

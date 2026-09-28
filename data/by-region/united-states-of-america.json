@@ -98571,7 +98571,7 @@
   {
     "source": "yc",
     "name": "Momentic",
-    "description": "The agentic quality platform for web and mobile",
+    "description": "Mo, the AI QA engineer that bug-bashes your app before every release",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d6de9c09ef38f242ca0f06fc3c76a1616228e790.png",
     "website": "https://momentic.ai",
     "location": "San Francisco, CA, USA",
@@ -98579,9 +98579,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -111943,7 +111943,7 @@
     "description": "Candle helps friends and couples grow closer daily in just 5 minutes.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c680b57e2e4b0d17f51d2d49aeccea3dd96748e0.png",
     "website": "https://www.trycandle.app/",
-    "location": "New York City, NY, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -112674,8 +112674,8 @@
     "tags": [
       "Fintech",
       "Insurance",
-      "Artificial Intelligence",
-      "Defense"
+      "Defense",
+      "AI"
     ],
     "year": 2024,
     "program": "YC Fall 2024",
@@ -128179,7 +128179,7 @@
   {
     "source": "yc",
     "name": "Norra",
-    "description": "Automating equipment operations for nursing facilities",
+    "description": "The AI equipment manager for post-acute care",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e02b3e396920957fb568e6c31817205cde3dbd2a.png",
     "website": "https://www.norra.io",
     "location": "New York City, NY, USA",
@@ -128187,10 +128187,10 @@
     "subregion": "",
     "tags": [
       "Healthcare",
+      "Artificial Intelligence",
       "Hardware",
       "Health Tech",
-      "Logistics",
-      "AI"
+      "Logistics"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -131994,7 +131994,10 @@
     "subregion": "",
     "tags": [
       "Healthcare",
-      "Drug Discovery and Delivery"
+      "Drug Discovery and Delivery",
+      "AI-powered Drug Discovery",
+      "Artificial Intelligence",
+      "Biotech"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -140285,36 +140288,6 @@
   },
   {
     "source": "yc",
-    "name": "TesterArmy",
-    "description": "Test your app with AI, catch bugs before users do",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c2383517bbad408b44b80d2d5f5912ef81073ff0.png",
-    "website": "https://tester.army",
-    "location": "San Francisco, CA, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design"
-    ],
-    "year": 2026,
-    "program": "YC Spring 2026",
-    "programSlugs": [
-      "yc-spring-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Plena Health",
     "description": "Plena is the AI operating system for specialty medical practices",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3904753c66e12d522cb76c36f26a8325b7a90c7e.png",
@@ -145537,10 +145510,10 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -148818,8 +148791,7 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Consumer",
-      "Food and Beverage",
+      "Supply Chain and Logistics",
       "SaaS",
       "Food & Beverage"
     ],
@@ -149751,6 +149723,40 @@
     "subregion": "",
     "tags": [
       "Data Labeling"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Asim",
+    "description": "Enable robots to operate safely in the real world.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a3d66de7c8d8809683c96657196dfeabd35eb9bc.png",
+    "website": "https://www.asim-group.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Deep Learning",
+      "Robotic Process Automation",
+      "Robotics"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
