@@ -12782,7 +12782,7 @@
     "programSlugs": [
       "yc-summer-2017"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -42831,10 +42831,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Workflow Automation",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -43784,6 +43784,38 @@
   },
   {
     "source": "yc",
+    "name": "UFO.ai",
+    "description": "Next-generation agent operating system",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5f7933f1917a47bf844572cf253da02eeececc9f.png",
+    "website": "https://ufo.ai",
+    "location": "San Francisco, CA, USA; Remote",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "SaaS",
+      "Automation",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Lightfield",
     "description": "AI that works for in-house legal teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a5892847938d97ba24dce5c43342e5a6f22a2f34.png",
@@ -43928,6 +43960,37 @@
       "SaaS",
       "Enterprise Software",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Clean",
+    "description": "Origination engine for deal transactional flow.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e4d496ee0d1967a7b7483c4981a450e6b1130e7.png",
+    "website": "http://tryclean.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Deep Learning",
+      "SaaS"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -48336,51 +48399,6 @@
   },
   {
     "source": "500",
-    "name": "WhoAPI",
-    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
-    "website": "https://whoapi.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Cybersecurity",
-      "DevOps",
-      "SaaS"
-    ],
-    "year": 2012,
-    "program": "GA 5",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Edi Budimilic",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Goran Duskic",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Plerk",
     "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
@@ -48421,6 +48439,50 @@
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/plerk/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Fatora",
+    "description": "All-in-one tool to go eCommerce and start selling",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
+    "website": "https://maktapp.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "SaaS"
+    ],
+    "year": 2020,
+    "program": "Dojo III",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Waleed Fatora",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saleh Al-Mansouri",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -48540,19 +48602,20 @@
   },
   {
     "source": "500",
-    "name": "Fatora",
-    "description": "All-in-one tool to go eCommerce and start selling",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
-    "website": "https://maktapp.com",
+    "name": "WhoAPI",
+    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
+    "website": "https://whoapi.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Cybersecurity",
+      "DevOps",
       "SaaS"
     ],
-    "year": 2020,
-    "program": "Dojo III",
+    "year": 2012,
+    "program": "GA 5",
     "programSlugs": [
       "500"
     ],
@@ -48562,12 +48625,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Waleed Fatora",
+        "name": "Edi Budimilic",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Saleh Al-Mansouri",
+        "name": "Goran Duskic",
         "role": "",
         "linkedin": ""
       }

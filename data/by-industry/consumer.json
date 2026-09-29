@@ -27219,7 +27219,11 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Content"
+      "Content",
+      "Artificial Intelligence",
+      "Generative AI",
+      "Social Media",
+      "Music"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -30178,15 +30182,15 @@
     "name": "Bron",
     "description": "TikTok for Sports Trading",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/322e036fa9ab0e06f47840b20ad078b02e03e79b.png",
-    "website": "https://askbron.ai/",
+    "website": "https://apps.apple.com/app/apple-store/id6761323087?pt=128695024&ct=anish&mt=",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
+      "Artificial Intelligence",
       "Sports Tech",
       "Analytics",
-      "AI",
       "AI Assistant"
     ],
     "year": 2025,
@@ -31324,8 +31328,8 @@
   {
     "source": "yc",
     "name": "Roma",
-    "description": "The AI task app that gets to work for you.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d8439855d6cd42db2eae7c90e93a336c3ce8596b.png",
+    "description": "Roma is the to-do list that does itself",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0acebf173c06922baca9b12940df90492d951704.png",
     "website": "https://roma.app",
     "location": "",
     "region": "Unspecified",
@@ -31700,6 +31704,42 @@
       "Travel, Leisure and Tourism",
       "AIOps",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Vexo",
+    "description": "An AI bracelet that remembers your day and acts before you ask.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f84f5f591774f936621b20e46974eb630302aa68.png",
+    "website": "https://www.vexoai.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Consumer Electronics",
+      "AI-Enhanced Learning",
+      "Hardware",
+      "Productivity",
+      "Conversational AI",
+      "AI Assistant"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -35804,46 +35844,6 @@
   },
   {
     "source": "500",
-    "name": "CraftCoffee",
-    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
-    "website": "https://craftcoffee.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Direct to Consumer",
-      "Subscription",
-      "Consumer"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Michael Horn",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Rebaja Tus Cuentas",
     "description": "Developer of a mortgage purchase software designed to provide financial advisory services for mortgage debts. The company's software provides a form for basic information about the current mortgage credit, helps in finding good bidders with the financial institution to close the terms of the transfer of the mortgage, enabling users to avail mortgage debt purchase without any hassle.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a433923-6059-4e38-9d1a-1c4710fb1007.png",
@@ -35873,6 +35873,46 @@
       },
       {
         "name": "Nicolas del Solar",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "CraftCoffee",
+    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
+    "website": "https://craftcoffee.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Direct to Consumer",
+      "Subscription",
+      "Consumer"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Michael Horn",
         "role": "",
         "linkedin": ""
       }
