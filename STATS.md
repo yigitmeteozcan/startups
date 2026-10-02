@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-01._
+_Auto-generated from the dataset on 2026-10-02._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,218** |
+| Total companies | **21,217** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2787** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-10-01._
 
 | Source | Companies |
 |---|---|
-| yc | 6,268 |
+| yc | 6,267 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-10-01._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1045
-2026  ████████████████░░░░░░░░░░░░ 841
+2026  ████████████████░░░░░░░░░░░░ 840
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2
 ```
 
@@ -106,12 +106,12 @@ _Auto-generated from the dataset on 2026-10-01._
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1429
 4. **Mobile** — 1141
-5. **Consumer** — 1065
-6. **Artificial Intelligence** — 1036
-7. **AI** — 907
+5. **Consumer** — 1064
+6. **Artificial Intelligence** — 1041
+7. **AI** — 902
 8. **Healthcare** — 822
-9. **Developer Tools** — 718
-10. **Infrastructure** — 702
+9. **Developer Tools** — 719
+10. **Infrastructure** — 703
 11. **Health** — 663
 12. **Industrials** — 651
 13. **Engineering, Product and Design** — 624
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-10-01._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4651
+2. **United States of America** — 4650
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -134,7 +134,7 @@ _Auto-generated from the dataset on 2026-10-01._
 8. **South Asia** — 264
 9. **United Kingdom** — 218
 10. **Canada** — 216
-11. **India** — 213
+11. **India** — 212
 12. **Latin America** — 163
 13. **Middle East** — 159
 14. **Unspecified** — 120
@@ -145,7 +145,7 @@ _Auto-generated from the dataset on 2026-10-01._
 19. **Mexico** — 79
 20. **Remote** — 77
 21. **Oceania** — 73
-22. **Germany** — 70
+22. **Germany** — 71
 23. **Brazil** — 69
 24. **Singapore** — 52
 25. **Nigeria** — 46

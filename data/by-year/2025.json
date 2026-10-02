@@ -10469,7 +10469,7 @@
   {
     "source": "yc",
     "name": "HUD",
-    "description": "Platform for building RL environments and evals ",
+    "description": "Platform and marketplace for RL environments and AI data",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
     "website": "https://www.hud.ai",
     "location": "San Francisco, CA, USA",
@@ -10478,6 +10478,7 @@
     "tags": [
       "Engineering, Product and Design",
       "Artificial Intelligence",
+      "Marketplace",
       "Reinforcement Learning"
     ],
     "year": 2025,
@@ -12700,8 +12701,8 @@
   {
     "source": "yc",
     "name": "Ergo",
-    "description": "AI agents and unified data layer for revenue teams",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6d306e43299c0c7361faa4ee78066a9912cf4151.png",
+    "description": "Ergo is the context layer that helps revenue teams close more deals.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a2d5f1e26b979ee4eabfed131c5f771fc09a4639.png",
     "website": "https://joinergo.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -15223,7 +15224,7 @@
   {
     "source": "yc",
     "name": "Combinely",
-    "description": "AI coworker for Accountants",
+    "description": "AI Coworker for Accountants",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d60074c98f74b46443d4cb4aaad793b532b48401.png",
     "website": "https://combinely.ai",
     "location": "London, England, United Kingdom",
@@ -18364,7 +18365,7 @@
     "source": "yc",
     "name": "Halluminate",
     "description": "Data and RL environments to automate knowledge work",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cfaedb4fd05adec967fa47a152e7df6f7765ef6c.png",
     "website": "https://halluminate.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -27002,16 +27003,16 @@
   {
     "source": "yc",
     "name": "Velvet",
-    "description": "World model datasets and research",
+    "description": "Conversational datasets and models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "website": "https://velvetlab.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Data Engineering",
+      "AI",
       "Conversational AI"
     ],
     "year": 2025,
@@ -35601,8 +35602,8 @@
   },
   {
     "source": "alchemist",
-    "name": "AISI X",
-    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
+    "name": "Divergent Physics",
+    "description": " Claude Code for Hardware design",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -35620,12 +35621,63 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Denis Chegodaev**",
+        "name": "Gustavo Navarro",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Alexander Gromov**",
+        "name": "Volodymyr Shyianov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Bamelak Tadele",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Xitester",
+    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**CEO:** Shine Oovattil .",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**CTO:** Dharwish Raj",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**COO:** Harikumar S",
         "role": "",
         "linkedin": ""
       }
@@ -35708,144 +35760,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Divergent Physics",
-    "description": " Claude Code for Hardware design",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Gustavo Navarro",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Volodymyr Shyianov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Bamelak Tadele",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "DevPlaza",
-    "description": "Automated production-readiness platform for the AI coding era",
-    "logo": "",
-    "website": "",
-    "location": "Pleasanton, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Sahana Nagabhushan**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Arjun G N**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Stephen Service**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Advisors:** Adam Frankl",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Adrich",
-    "description": "Smart packaging that tracks consumer product usage",
-    "logo": "",
-    "website": "",
-    "location": "Pittsburgh, PA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Adhithi Aji**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Dale Harber**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Planeo",
     "description": "AI copilot that bridges code and runtime",
     "logo": "",
@@ -35887,88 +35801,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Etat'H Solide",
-    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
-    "logo": "",
-    "website": "",
-    "location": "Grand Rapids, MI, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jhea-Uhg \"Damian\" Kang",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Xitester",
-    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**CEO:** Shine Oovattil .",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**CTO:** Dharwish Raj",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**COO:** Harikumar S",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Industrial Dynamics",
     "description": "The intelligence layer for simulating and scaling industrial vision systems.",
     "logo": "",
@@ -35994,6 +35826,47 @@
       },
       {
         "name": "**Michael Lawrie**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "AISI X",
+    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Denis Chegodaev**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Alexander Gromov**",
         "role": "",
         "linkedin": ""
       }
@@ -36081,6 +35954,134 @@
       },
       {
         "name": "Greg Deocampo",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Adrich",
+    "description": "Smart packaging that tracks consumer product usage",
+    "logo": "",
+    "website": "",
+    "location": "Pittsburgh, PA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Adhithi Aji**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Dale Harber**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Etat'H Solide",
+    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
+    "logo": "",
+    "website": "",
+    "location": "Grand Rapids, MI, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jhea-Uhg \"Damian\" Kang",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "DevPlaza",
+    "description": "Automated production-readiness platform for the AI coding era",
+    "logo": "",
+    "website": "",
+    "location": "Pleasanton, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Sahana Nagabhushan**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Arjun G N**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Stephen Service**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Advisors:** Adam Frankl",
         "role": "",
         "linkedin": ""
       }
