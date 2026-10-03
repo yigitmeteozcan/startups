@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-02._
+_Auto-generated from the dataset on 2026-10-03._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,217** |
+| Total companies | **21,219** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2787** |
+| 💰 Exits | **2788** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-10-02._
 
 | Source | Companies |
 |---|---|
-| yc | 6,267 |
+| yc | 6,269 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-10-02._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1045
-2026  ████████████████░░░░░░░░░░░░ 840
+2026  ████████████████░░░░░░░░░░░░ 842
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2
 ```
 
@@ -107,14 +107,14 @@ _Auto-generated from the dataset on 2026-10-02._
 3. **SaaS** — 1429
 4. **Mobile** — 1141
 5. **Consumer** — 1064
-6. **Artificial Intelligence** — 1041
-7. **AI** — 902
+6. **Artificial Intelligence** — 1046
+7. **AI** — 901
 8. **Healthcare** — 822
-9. **Developer Tools** — 719
-10. **Infrastructure** — 703
+9. **Developer Tools** — 721
+10. **Infrastructure** — 704
 11. **Health** — 663
-12. **Industrials** — 651
-13. **Engineering, Product and Design** — 624
+12. **Industrials** — 652
+13. **Engineering, Product and Design** — 625
 14. **Insurtech** — 513
 15. **B2B Software** — 497
 16. **Deeptech** — 489
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-10-02._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4650
+2. **United States of America** — 4654
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -134,7 +134,7 @@ _Auto-generated from the dataset on 2026-10-02._
 8. **South Asia** — 264
 9. **United Kingdom** — 218
 10. **Canada** — 216
-11. **India** — 212
+11. **India** — 211
 12. **Latin America** — 163
 13. **Middle East** — 159
 14. **Unspecified** — 120
@@ -147,7 +147,7 @@ _Auto-generated from the dataset on 2026-10-02._
 21. **Oceania** — 73
 22. **Germany** — 71
 23. **Brazil** — 69
-24. **Singapore** — 52
+24. **Singapore** — 51
 25. **Nigeria** — 46
 26. **Israel** — 34
 27. **Indonesia** — 30

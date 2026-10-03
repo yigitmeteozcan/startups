@@ -64,9 +64,9 @@
   {
     "source": "yc",
     "name": "GodHands",
-    "description": "We reconstruct how employees actually work, so nothing breaks when…",
+    "description": "Your company’s operating model, learned from the work.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
-    "website": "https://godhands.dev",
+    "website": "https://godhands.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -131,14 +131,14 @@
     "source": "yc",
     "name": "Collar",
     "description": "AI for Investor Relations",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9eb4e7455b35796c4972c68f65a621d21e458003.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/35110e6bdfbfbf5706627685cbb370e170ff4a03.png",
     "website": "https://usecollarai.com",
-    "location": "Singapore, Singapore",
-    "region": "Singapore",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -224,7 +224,7 @@
   {
     "source": "yc",
     "name": "RightNow",
-    "description": "Enabling Model-Hardware Co-Design at Scale",
+    "description": "Co-designing the fastest intelligence",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/59b2e02a314037738d9f32192f83e8bd442be246.png",
     "website": "https://runinfra.ai/",
     "location": "San Francisco, CA, USA",
@@ -805,10 +805,10 @@
   },
   {
     "source": "yc",
-    "name": "Qokedas",
-    "description": "Data for AI Science",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/db2b316be3ecf24cfbcfc09074b3e2b8a1f3bb05.png",
-    "website": "https://qokedas.com/",
+    "name": "Petrichor Bio",
+    "description": "Wet labs for AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fdb7aea2b5558307f53190af023d8e6a2c7ac3be.png",
+    "website": "https://petrichorbio.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -1630,8 +1630,8 @@
     "description": "Autonomous CNC factories for faster hardware",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8c101f20a3b29a6ae368d81297168e49391e75a.png",
     "website": "https://www.antropi.world/",
-    "location": "Bengaluru, KA, India",
-    "region": "India",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
@@ -2164,6 +2164,39 @@
   },
   {
     "source": "yc",
+    "name": "Rystic",
+    "description": "API simulators for testing and training agents locally",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1259ed8e91fea5ce7bb3da813020323417f96fae.png",
+    "website": "https://rystic.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Enterprise Software"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Vorelios",
     "description": "A foundation model for engineering physics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c02b36f4ca2283601c8f20e89597a38768ae9db9.png",
@@ -2493,6 +2526,40 @@
   },
   {
     "source": "yc",
+    "name": "Silica",
+    "description": "Actuators for Physical AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2b8e6b4aadfde14366461b6e47d3f4d14e736df5.png",
+    "website": "https://silicamachines.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Hardware",
+      "Robotics",
+      "Manufacturing"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "antimattr",
     "description": "voice-first hardware interface for human-agent interaction",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3266646a9815f7e3ed31c088c4008df6e8fb0101.png",
@@ -2728,7 +2795,7 @@
   {
     "source": "yc",
     "name": "Sona8",
-    "description": "Voice agents that talk to employees enabling transformations ",
+    "description": "Context layer for enterprise AI surveying employees with voice agents ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7f2bc6b3848168f970a704b24b37c2b125f25.png",
     "website": "https://sona8.com",
     "location": "San Francisco, CA, USA",
@@ -2736,8 +2803,9 @@
     "subregion": "",
     "tags": [
       "Operations",
+      "Artificial Intelligence",
       "HR Tech",
-      "AI",
+      "Infrastructure",
       "Conversational AI"
     ],
     "year": 2026,
@@ -3018,7 +3086,7 @@
   {
     "source": "yc",
     "name": "Decent",
-    "description": "Continuous optimization for employer health plans.",
+    "description": "Your health plan should get better year-round. Not just once a year.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/786d073f3a76012e5179c5021d6a0d82644d8d1f.png",
     "website": "https://decent.com",
     "location": "San Francisco, CA, USA",
@@ -3027,7 +3095,7 @@
     "tags": [
       "Fintech",
       "Insurance",
-      "AIOps",
+      "Artificial Intelligence",
       "Health Tech",
       "Health Insurance"
     ],
