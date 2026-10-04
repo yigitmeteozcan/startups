@@ -1,6 +1,6 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-03._
+_Auto-generated from the dataset on 2026-10-04._
 
 | Metric | Count |
 |---|---|
@@ -45,9 +45,9 @@ _Auto-generated from the dataset on 2026-10-03._
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
-2025  ████████████████████░░░░░░░░ 1045
+2025  ████████████████████░░░░░░░░ 1044
 2026  ████████████████░░░░░░░░░░░░ 842
-2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2
+2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 3
 ```
 
 ## Top countries
@@ -102,12 +102,12 @@ _Auto-generated from the dataset on 2026-10-03._
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 2492
+1. **Fintech** — 2493
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1429
+3. **SaaS** — 1428
 4. **Mobile** — 1141
-5. **Consumer** — 1064
-6. **Artificial Intelligence** — 1046
+5. **Consumer** — 1063
+6. **Artificial Intelligence** — 1047
 7. **AI** — 901
 8. **Healthcare** — 822
 9. **Developer Tools** — 721
