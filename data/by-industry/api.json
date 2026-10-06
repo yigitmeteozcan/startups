@@ -4570,7 +4570,7 @@
   {
     "source": "yc",
     "name": "Captain",
-    "description": "Self-tuning file search for AI agents",
+    "description": "Self-tuning search for products and files",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
     "website": "https://captain.dev",
     "location": "San Francisco, CA, USA",
@@ -4579,7 +4579,8 @@
     "tags": [
       "Infrastructure",
       "API",
-      "Data Engineering"
+      "Data Engineering",
+      "Search"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -4784,6 +4785,39 @@
     "program": "YC Summer 2026",
     "programSlugs": [
       "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Ploid",
+    "description": "The people data company for the agent era",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bb8cfe58317eeba078abcb4a9b1d2c14affb42f9.png",
+    "website": "https://ploid.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Sales",
+      "Artificial Intelligence",
+      "API",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,

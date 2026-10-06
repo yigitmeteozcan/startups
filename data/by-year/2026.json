@@ -2585,7 +2585,7 @@
   {
     "source": "yc",
     "name": "Captain",
-    "description": "Self-tuning file search for AI agents",
+    "description": "Self-tuning search for products and files",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
     "website": "https://captain.dev",
     "location": "San Francisco, CA, USA",
@@ -2594,7 +2594,8 @@
     "tags": [
       "Infrastructure",
       "API",
-      "Data Engineering"
+      "Data Engineering",
+      "Search"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -2772,12 +2773,12 @@
   },
   {
     "source": "yc",
-    "name": "TakeCareOS",
-    "description": "AI-native operating system for long term care providers",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6ae7dea18b41ec38482c8a5138befb84756ece8b.png",
-    "website": "https://takecareos.com",
-    "location": "Adelaide, SA, Australia",
-    "region": "Australia",
+    "name": "Teaflask",
+    "description": "Make your product AI native by tomorrow.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/60aeb885d926aa8c00319dc0338da8f9a62f3786.png",
+    "website": "https://teaflask.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [],
     "year": 2026,
@@ -3278,7 +3279,7 @@
   {
     "source": "yc",
     "name": "Corvera",
-    "description": "The AI sales engine for CPG brands",
+    "description": "The AI sales agent for CPG brands",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
     "website": "https://corvera.ai/",
     "location": "San Francisco, CA, USA",
@@ -3286,10 +3287,10 @@
     "subregion": "",
     "tags": [
       "Sales",
-      "Artificial Intelligence",
       "SaaS",
       "Consumer",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -7640,9 +7641,9 @@
     "subregion": "",
     "tags": [
       "Sales",
-      "Artificial Intelligence",
       "SaaS",
-      "Customer Success"
+      "Customer Success",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -16962,7 +16963,7 @@
     "source": "yc",
     "name": "Riften",
     "description": "Earned intelligence for every company",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d3c58cea1afce06f81a0352c8f3ecc8554d707c7.png",
     "website": "https://riften.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -16971,7 +16972,6 @@
       "Infrastructure",
       "Developer Tools",
       "Reinforcement Learning",
-      "Open Source",
       "AI"
     ],
     "year": 2026,
@@ -18667,39 +18667,6 @@
   },
   {
     "source": "yc",
-    "name": "Vendo",
-    "description": "Let your users build their own features on top of your product",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/78a3b3436ef4b4e09e82a4c3fcc2733004348735.png",
-    "website": "https://vendo.run/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design",
-      "Artificial Intelligence",
-      "Customer Success",
-      "Open Source"
-    ],
-    "year": 2026,
-    "program": "YC Summer 2026",
-    "programSlugs": [
-      "yc-summer-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Aktoria Robotics",
     "description": "Human as API for robots",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/87a10d62adb927072657a9be3281af92a78ab9c6.png",
@@ -19790,6 +19757,39 @@
       "Robotics",
       "Construction",
       "Aerospace"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Operon",
+    "description": "Agentic data layer for manufacturing & process industries. ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
+    "website": "https://operonsolutions.com/en",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -22997,7 +22997,7 @@
   {
     "source": "yc",
     "name": "TrueMile",
-    "description": "AI agents that run trucking operations.",
+    "description": "An AI-operated logistics company.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94408cc02a79b94fd281d47aabc0056465683df6.png",
     "website": "https://TrueMile.AI/",
     "location": "San Francisco, CA, USA",
@@ -23197,10 +23197,10 @@
   },
   {
     "source": "yc",
-    "name": "Pendulum Robotics",
+    "name": "Open Actuation",
     "description": "Quick-turn, purpose-built motors & actuators for all",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/04bbecc591031b8b78b9a43b4f8c9cd329829f72.png",
-    "website": "https://pendulumrobotics.com",
+    "website": "https://openactuation.com",
     "location": "Los Angeles, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -23567,6 +23567,39 @@
   },
   {
     "source": "yc",
+    "name": "Ploid",
+    "description": "The people data company for the agent era",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bb8cfe58317eeba078abcb4a9b1d2c14affb42f9.png",
+    "website": "https://ploid.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Sales",
+      "Artificial Intelligence",
+      "API",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "SuperRadiant",
     "description": "Embodied Scientific Intelligence",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/15a7e2a5caa04595d7620cd8161f3b2cffd00a51.png",
@@ -23867,7 +23900,7 @@
     "source": "yc",
     "name": "Vexo",
     "description": "An AI bracelet that remembers your day and acts before you ask.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f84f5f591774f936621b20e46974eb630302aa68.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/16f5a22fcf5a6680c6393b3e9a8d4a4c477c2f10.png",
     "website": "https://www.vexoai.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -23978,6 +24011,38 @@
       "Hardware",
       "Robotics",
       "Manufacturing"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Latent",
+    "description": "Catch wrong LLM answers before your customers do",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/21bc57f59a4d430a3377808350ec1df0915386dd.png",
+    "website": "http://runlatent.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Security",
+      "Fraud Detection",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -24267,6 +24332,38 @@
   },
   {
     "source": "yc",
+    "name": "Melty",
+    "description": "Mashup any game",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7f04b686429aece5fee0ca691cbdb211b8619d31.png",
+    "website": "https://www.melty.gg",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Gaming",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Quippy",
     "description": "Helps build social skills through daily practice",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/97c02b937035318f812614d4d9362e5c060a6f72.png",
@@ -24333,7 +24430,7 @@
     "name": "Clean",
     "description": "We tell sellers exactly when a company is ready to buy.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e4d496ee0d1967a7b7483c4981a450e6b1130e7.png",
-    "website": "http://tryclean.ai",
+    "website": "http://www.tryclean.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -25028,6 +25125,39 @@
       "Robotics",
       "AI",
       "Industrial"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Keres",
+    "description": "Kill the drone, keep the jet. Reusable unmanned interceptors.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d410d4ceb3965f8c5b5e653e10007865ff03aaf9.png",
+    "website": "https://www.keresaero.com/",
+    "location": "Denver, CO, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Defense",
+      "Airplanes",
+      "Aerospace"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

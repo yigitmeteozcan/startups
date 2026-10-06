@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-05._
+_Auto-generated from the dataset on 2026-10-06._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,218** |
+| Total companies | **21,223** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2788** |
 | 🌱 B Corps | **29** |
@@ -14,20 +14,20 @@ _Auto-generated from the dataset on 2026-10-05._
 
 | Source | Companies |
 |---|---|
-| yc | 6,269 |
+| yc | 6,273 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
-| 500 | 2,240 |
-| antler | 1,081 |
-| alchemist | 516 |
+| 500 | 2,241 |
+| antler | 1,084 |
+| alchemist | 513 |
 | ef | 499 |
 
 ## Companies by first session year
 
 ```
-2005  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9
+2005  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8
 2006  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 17
-2007  █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 42
+2007  █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 43
 2008  █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 53
 2009  █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 63
 2010  ███░░░░░░░░░░░░░░░░░░░░░░░░░ 149
@@ -37,16 +37,16 @@ _Auto-generated from the dataset on 2026-10-05._
 2014  █████████░░░░░░░░░░░░░░░░░░░ 470
 2015  █████████████░░░░░░░░░░░░░░░ 683
 2016  ██████████████░░░░░░░░░░░░░░ 724
-2017  ███████████████░░░░░░░░░░░░░ 816
+2017  ███████████████░░░░░░░░░░░░░ 815
 2018  ████████████████░░░░░░░░░░░░ 862
 2019  ███████████████████░░░░░░░░░ 1028
-2020  ████████████████████░░░░░░░░ 1053
+2020  ████████████████████░░░░░░░░ 1052
 2021  ██████████████████████████░░ 1382
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1446
 2025  ████████████████████░░░░░░░░ 1044
-2026  ████████████████░░░░░░░░░░░░ 842
+2026  ████████████████░░░░░░░░░░░░ 846
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 3
 ```
 
@@ -55,7 +55,7 @@ _Auto-generated from the dataset on 2026-10-05._
 2. **Japan** — 2684
 3. **United Kingdom** — 597
 4. **Canada** — 553
-5. **USA** — 395
+5. **USA** — 392
 6. **Germany** — 258
 7. **Israel** — 189
 8. **France** — 183
@@ -86,8 +86,8 @@ _Auto-generated from the dataset on 2026-10-05._
 
 ## Top programs
 1. **Plug and Play** — 5508
-2. **500 Global** — 1400
-3. **Antler** — 1081
+2. **500 Global** — 1401
+3. **Antler** — 1084
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -106,15 +106,15 @@ _Auto-generated from the dataset on 2026-10-05._
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1428
 4. **Mobile** — 1141
-5. **Consumer** — 1063
-6. **Artificial Intelligence** — 1049
-7. **AI** — 898
+5. **Consumer** — 1064
+6. **Artificial Intelligence** — 1044
+7. **AI** — 906
 8. **Healthcare** — 822
 9. **Developer Tools** — 721
-10. **Infrastructure** — 703
+10. **Infrastructure** — 704
 11. **Health** — 663
-12. **Industrials** — 652
-13. **Engineering, Product and Design** — 626
+12. **Industrials** — 654
+13. **Engineering, Product and Design** — 625
 14. **Insurtech** — 513
 15. **B2B Software** — 497
 16. **Deeptech** — 489
@@ -125,13 +125,13 @@ _Auto-generated from the dataset on 2026-10-05._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4653
+2. **United States of America** — 4658
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
-8. **South Asia** — 263
+8. **South Asia** — 264
 9. **United Kingdom** — 218
 10. **Canada** — 216
 11. **India** — 212
@@ -143,7 +143,7 @@ _Auto-generated from the dataset on 2026-10-05._
 17. **Southeast Asia** — 93
 18. **France** — 80
 19. **Mexico** — 78
-20. **Remote** — 77
+20. **Remote** — 76
 21. **Oceania** — 73
 22. **Germany** — 72
 23. **Brazil** — 69
@@ -154,16 +154,16 @@ _Auto-generated from the dataset on 2026-10-05._
 28. **Colombia** — 28
 29. **Spain** — 20
 30. **Sweden** — 20
-31. **Australia** — 19
-32. **Argentina** — 19
+31. **Argentina** — 19
+32. **Australia** — 18
 33. **Chile** — 17
 34. **United Arab Emirates** — 16
 35. **Netherlands** — 15
 36. **Denmark** — 14
-37. **Egypt** — 13
-38. **Switzerland** — 13
-39. **Australia & NZ** — 13
-40. **South Korea** — 12
+37. **South Korea** — 13
+38. **Egypt** — 13
+39. **Switzerland** — 13
+40. **Australia & NZ** — 13
 41. **Pakistan** — 11
 42. **Kenya** — 9
 43. **Norway** — 9

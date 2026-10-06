@@ -10262,10 +10262,10 @@
     "tags": [
       "Infrastructure"
     ],
-    "year": 2005,
-    "program": "YC Summer 2005",
+    "year": 2007,
+    "program": "YC Winter 2007",
     "programSlugs": [
-      "yc-summer-2005"
+      "yc-winter-2007"
     ],
     "isExit": true,
     "isUnicorn": false,
@@ -19626,7 +19626,7 @@
   {
     "source": "yc",
     "name": "Captain",
-    "description": "Self-tuning file search for AI agents",
+    "description": "Self-tuning search for products and files",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
     "website": "https://captain.dev",
     "location": "San Francisco, CA, USA",
@@ -19635,7 +19635,8 @@
     "tags": [
       "Infrastructure",
       "API",
-      "Data Engineering"
+      "Data Engineering",
+      "Search"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -21363,7 +21364,7 @@
     "source": "yc",
     "name": "Riften",
     "description": "Earned intelligence for every company",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d3c58cea1afce06f81a0352c8f3ecc8554d707c7.png",
     "website": "https://riften.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -21372,7 +21373,6 @@
       "Infrastructure",
       "Developer Tools",
       "Reinforcement Learning",
-      "Open Source",
       "AI"
     ],
     "year": 2026,
@@ -21766,6 +21766,39 @@
       "Reinforcement Learning",
       "Data Labeling",
       "Data Engineering"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Operon",
+    "description": "Agentic data layer for manufacturing & process industries. ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
+    "website": "https://operonsolutions.com/en",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -23421,181 +23454,6 @@
   },
   {
     "source": "500",
-    "name": "Lettuce",
-    "description": "Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user's business to capture, track and process orders anywhere in real time.",
-    "logo": "",
-    "website": "https://lettuceapps.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Content",
-      "Infrastructure"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Frank Jones",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Raad Mobrem",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Salido",
-    "description": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a33858b2-346a-45e2-bec3-e406b8d74dad.png",
-    "website": "https://salido.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics",
-      "Infrastructure"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Casey Cohen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "David Guilfoyle",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Matthew Gaines",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Shu Chowdhury",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Shortcut",
-    "description": "Developer of an online platform for wholesalers to manage online orders. The company provides a platform that enables any wholesaler to manage B2B transactions, inventory and create digital catalogs.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bc4e169-72c8-4ab6-a471-e24524302770.png",
-    "website": "https://www.autonomous.ai",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Infrastructure"
-    ],
-    "year": 2013,
-    "program": "GA 7",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Duy Huynh",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "CStorePro",
-    "description": "Provider of a cloud-based operations and inventory management software designed to manage back office work. The company's software offers live data to monitor sales, void transactions, void tickets, refunds, no sale and manual ring ups, all in real-time, enabling store owners to protect their data with full safeguards according to industry standards and best practices used by banks and financial institutions and control their stores from anywhere.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c00be0e-3744-46f1-b44e-e425f418162d.png",
-    "website": "https://cstorepro.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics",
-      "Infrastructure"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Arif Momin",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "OneKitchen",
     "description": "Provider of shared kitchen solutions. The company provides tailored spaces for dark kitchens to operate and allows chefs to launch and sell on delivery platforms within days, allowing chefs and restaurant owners to launch their new restaurant from scratch, fine-tune their menu, optimize their operations and maximize their sales.",
     "logo": "",
@@ -23635,19 +23493,18 @@
   },
   {
     "source": "500",
-    "name": "Silk Labs",
-    "description": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
-    "logo": "",
-    "website": "https://silklabs.com",
+    "name": "Shortcut",
+    "description": "Developer of an online platform for wholesalers to manage online orders. The company provides a platform that enables any wholesaler to manage B2B transactions, inventory and create digital catalogs.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bc4e169-72c8-4ab6-a471-e24524302770.png",
+    "website": "https://www.autonomous.ai",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Developer Tools",
       "Infrastructure"
     ],
-    "year": 2015,
-    "program": "500 Global",
+    "year": 2013,
+    "program": "GA 7",
     "programSlugs": [
       "500"
     ],
@@ -23657,22 +23514,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Moran Altarac",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andreas Gal",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Michael Vines",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sean Gallavan",
+        "name": "Duy Huynh",
         "role": "",
         "linkedin": ""
       }
@@ -23738,6 +23580,143 @@
   },
   {
     "source": "500",
+    "name": "Salido",
+    "description": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a33858b2-346a-45e2-bec3-e406b8d74dad.png",
+    "website": "https://salido.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Infrastructure"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Casey Cohen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "David Guilfoyle",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matthew Gaines",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Shu Chowdhury",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Lettuce",
+    "description": "Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user's business to capture, track and process orders anywhere in real time.",
+    "logo": "",
+    "website": "https://lettuceapps.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Content",
+      "Infrastructure"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Frank Jones",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Raad Mobrem",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "CStorePro",
+    "description": "Provider of a cloud-based operations and inventory management software designed to manage back office work. The company's software offers live data to monitor sales, void transactions, void tickets, refunds, no sale and manual ring ups, all in real-time, enabling store owners to protect their data with full safeguards according to industry standards and best practices used by banks and financial institutions and control their stores from anywhere.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c00be0e-3744-46f1-b44e-e425f418162d.png",
+    "website": "https://cstorepro.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Infrastructure"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Arif Momin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "TableApp",
     "description": "Provider of an online table booking application designed to make restaurant reservations quicker and easier. The company's online table booking application assists, reviews and manages reservations all-in-one, enablings users to locate, assess and reserve a table instantly with instant confirmation.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f01a1497-2382-476b-838a-7d48f6128d6d.png",
@@ -23772,6 +23751,60 @@
     },
     "extra": {
       "country": "Malaysia"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Silk Labs",
+    "description": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
+    "logo": "",
+    "website": "https://silklabs.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Moran Altarac",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andreas Gal",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Vines",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sean Gallavan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   }
 ]
