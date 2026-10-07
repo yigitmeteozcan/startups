@@ -7600,15 +7600,16 @@
   {
     "source": "yc",
     "name": "Belvedir",
-    "description": "Your custom AI model factory",
+    "description": "The custom AI model factory",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/823732d3a67703ee105bf266f45c3e43c175ef96.png",
     "website": "https://belvedir.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Machine Learning",
+      "Reinforcement Learning",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -7951,6 +7952,40 @@
     "program": "YC Summer 2026",
     "programSlugs": [
       "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Saccade",
+    "description": "World's Earliest Test for Alzheimer's Biomarkers",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/751432518cccc3177c9fa321a442fcfaf7e00fdd.png",
+    "website": "https://saccade.health",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Consumer Health and Wellness",
+      "Hard Tech",
+      "Hardware",
+      "Machine Learning"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,

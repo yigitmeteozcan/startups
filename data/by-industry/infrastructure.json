@@ -22315,15 +22315,15 @@
   {
     "source": "yc",
     "name": "Bryel",
-    "description": "Devin for AI Research Engineering",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1d6a77d9b2b1e807ae20d6e37b65cac4cbdcc89c.png",
+    "description": "Building in-house, frontier AI labs for companies",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e4fc1c46193139a87be8a9d372f3ac8ccd413c42.png",
     "website": "https://www.bryel.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -22559,6 +22559,38 @@
     "program": "YC Summer 2027",
     "programSlugs": [
       "yc-summer-2027"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Acyclic Labs",
+    "description": "building infra for scaling agent swarms efficiently",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/28f8a7a30ed4c8ddd3df528c98ebc77233935fc2.png",
+    "website": "https://acyclic.dev",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Swarm AI",
+      "Open Source"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -23454,83 +23486,6 @@
   },
   {
     "source": "500",
-    "name": "OneKitchen",
-    "description": "Provider of shared kitchen solutions. The company provides tailored spaces for dark kitchens to operate and allows chefs to launch and sell on delivery platforms within days, allowing chefs and restaurant owners to launch their new restaurant from scratch, fine-tune their menu, optimize their operations and maximize their sales.",
-    "logo": "",
-    "website": "https://joinonekitchen.com",
-    "location": "British Virgin Islands",
-    "region": "Africa",
-    "subregion": "",
-    "tags": [
-      "Content",
-      "Infrastructure"
-    ],
-    "year": 2019,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Majed Abukhater",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "British Virgin Islands"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Shortcut",
-    "description": "Developer of an online platform for wholesalers to manage online orders. The company provides a platform that enables any wholesaler to manage B2B transactions, inventory and create digital catalogs.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bc4e169-72c8-4ab6-a471-e24524302770.png",
-    "website": "https://www.autonomous.ai",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Infrastructure"
-    ],
-    "year": 2013,
-    "program": "GA 7",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Duy Huynh",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Yaydoo",
     "description": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ac40d0a-657b-4c41-820e-18ec93aa6afd.png",
@@ -23576,6 +23531,214 @@
     },
     "extra": {
       "country": "Mexico"
+    }
+  },
+  {
+    "source": "500",
+    "name": "CStorePro",
+    "description": "Provider of a cloud-based operations and inventory management software designed to manage back office work. The company's software offers live data to monitor sales, void transactions, void tickets, refunds, no sale and manual ring ups, all in real-time, enabling store owners to protect their data with full safeguards according to industry standards and best practices used by banks and financial institutions and control their stores from anywhere.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c00be0e-3744-46f1-b44e-e425f418162d.png",
+    "website": "https://cstorepro.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Infrastructure"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Arif Momin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "TableApp",
+    "description": "Provider of an online table booking application designed to make restaurant reservations quicker and easier. The company's online table booking application assists, reviews and manages reservations all-in-one, enablings users to locate, assess and reserve a table instantly with instant confirmation.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f01a1497-2382-476b-838a-7d48f6128d6d.png",
+    "website": "https://tableapp.com",
+    "location": "Malaysia",
+    "region": "South Asia",
+    "subregion": "",
+    "tags": [
+      "Infrastructure"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Benson Chang",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Malaysia"
+    }
+  },
+  {
+    "source": "500",
+    "name": "OneKitchen",
+    "description": "Provider of shared kitchen solutions. The company provides tailored spaces for dark kitchens to operate and allows chefs to launch and sell on delivery platforms within days, allowing chefs and restaurant owners to launch their new restaurant from scratch, fine-tune their menu, optimize their operations and maximize their sales.",
+    "logo": "",
+    "website": "https://joinonekitchen.com",
+    "location": "British Virgin Islands",
+    "region": "Africa",
+    "subregion": "",
+    "tags": [
+      "Content",
+      "Infrastructure"
+    ],
+    "year": 2019,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Majed Abukhater",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "British Virgin Islands"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Silk Labs",
+    "description": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
+    "logo": "",
+    "website": "https://silklabs.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Moran Altarac",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andreas Gal",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Vines",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sean Gallavan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Shortcut",
+    "description": "Developer of an online platform for wholesalers to manage online orders. The company provides a platform that enables any wholesaler to manage B2B transactions, inventory and create digital catalogs.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bc4e169-72c8-4ab6-a471-e24524302770.png",
+    "website": "https://www.autonomous.ai",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure"
+    ],
+    "year": 2013,
+    "program": "GA 7",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Duy Huynh",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   },
   {
@@ -23662,137 +23825,6 @@
       },
       {
         "name": "Raad Mobrem",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "CStorePro",
-    "description": "Provider of a cloud-based operations and inventory management software designed to manage back office work. The company's software offers live data to monitor sales, void transactions, void tickets, refunds, no sale and manual ring ups, all in real-time, enabling store owners to protect their data with full safeguards according to industry standards and best practices used by banks and financial institutions and control their stores from anywhere.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c00be0e-3744-46f1-b44e-e425f418162d.png",
-    "website": "https://cstorepro.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics",
-      "Infrastructure"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Arif Momin",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "TableApp",
-    "description": "Provider of an online table booking application designed to make restaurant reservations quicker and easier. The company's online table booking application assists, reviews and manages reservations all-in-one, enablings users to locate, assess and reserve a table instantly with instant confirmation.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f01a1497-2382-476b-838a-7d48f6128d6d.png",
-    "website": "https://tableapp.com",
-    "location": "Malaysia",
-    "region": "South Asia",
-    "subregion": "",
-    "tags": [
-      "Infrastructure"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Benson Chang",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Malaysia"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Silk Labs",
-    "description": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
-    "logo": "",
-    "website": "https://silklabs.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools",
-      "Infrastructure"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Moran Altarac",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andreas Gal",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Michael Vines",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sean Gallavan",
         "role": "",
         "linkedin": ""
       }

@@ -9146,7 +9146,7 @@
   {
     "source": "yc",
     "name": "Conntour",
-    "description": "AI to monitor thousands of security cameras.",
+    "description": "Query mission-critical video",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c972b0925a72b8923c709c1b48733059aafb73d3.png",
     "website": "https://www.conntour.com/",
     "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -9154,7 +9154,9 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Defense"
+      "Defense",
+      "Artificial Intelligence",
+      "Computer Vision"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -10130,8 +10132,8 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Artificial Intelligence",
-      "Hardware"
+      "Hardware",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -13060,7 +13062,7 @@
   {
     "source": "yc",
     "name": "Axal",
-    "description": "We design, assemble, and test custom PCBs fast.",
+    "description": "We assemble PCBs in under 48 hours for quantities under 10",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
     "website": "https://www.axal.ai/",
     "location": "San Francisco, CA, USA",
@@ -20367,7 +20369,7 @@
     "source": "yc",
     "name": "Flai",
     "description": "We Bring Customers to Your Dealership",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6b90c0f9fa101c9a96455820ea0a553837b94f49.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6dac83b2368a92474bd578939ebe5277cac40f91.png",
     "website": "https://www.useflai.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -25232,10 +25234,10 @@
     "subregion": "",
     "tags": [
       "Legal",
+      "Artificial Intelligence",
       "Compliance",
       "LegalTech",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -29181,11 +29183,6 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Karim Hamdi",
-        "role": "",
-        "linkedin": ""
-      },
-      {
         "name": "Djamel Mohand",
         "role": "",
         "linkedin": ""
@@ -29197,6 +29194,11 @@
       },
       {
         "name": "Jehad Senan",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Karim Hamdi",
         "role": "",
         "linkedin": ""
       }
@@ -35575,6 +35577,47 @@
   },
   {
     "source": "alchemist",
+    "name": "Havilo.ai",
+    "description": "The intelligence layer for the world's most valuable networks.",
+    "logo": "",
+    "website": "",
+    "location": "Pleasanton, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Logan Dickey**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Taylor Cordoba**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Polyview Health",
     "description": "Prevent fraud, waste, abuse in healthcare claims",
     "logo": "",
@@ -35605,47 +35648,6 @@
       },
       {
         "name": "Greg Deocampo",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "AISI X",
-    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Denis Chegodaev**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Alexander Gromov**",
         "role": "",
         "linkedin": ""
       }
@@ -35703,11 +35705,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Etat'H Solide",
-    "description": "Less plastic. Lower cost. Bigger manufacturing scale.",
+    "name": "AISI X",
+    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
     "logo": "",
     "website": "",
-    "location": "Grand Rapids, MI, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -35722,7 +35724,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jhea-Uhg \"Damian\" Kang",
+        "name": "**Denis Chegodaev**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Alexander Gromov**",
         "role": "",
         "linkedin": ""
       }
@@ -35872,6 +35879,36 @@
   },
   {
     "source": "alchemist",
+    "name": "Etat'H Solide",
+    "description": "We retrofit injection molding lines to produce lighter, paint-free plastic parts at lower cost.",
+    "logo": "",
+    "website": "",
+    "location": "Grand Rapids, MI, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Adrich",
     "description": "Smart packaging that tracks consumer product usage",
     "logo": "",
@@ -35897,6 +35934,57 @@
       },
       {
         "name": "**Dale Harber**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "DevPlaza",
+    "description": "Automated production-readiness platform for the AI coding era",
+    "logo": "",
+    "website": "",
+    "location": "Pleasanton, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Sahana Nagabhushan**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Arjun G N**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Stephen Service**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Advisors:** Adam Frankl",
         "role": "",
         "linkedin": ""
       }
@@ -35963,98 +36051,6 @@
       },
       {
         "name": "Together",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Havilo.ai",
-    "description": "The intelligence layer for the world's most valuable networks.",
-    "logo": "",
-    "website": "",
-    "location": "Pleasanton, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Logan Dickey**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Taylor Cordoba**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "DevPlaza",
-    "description": "Automated production-readiness platform for the AI coding era",
-    "logo": "",
-    "website": "",
-    "location": "Pleasanton, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Sahana Nagabhushan**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Arjun G N**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Stephen Service**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Advisors:** Adam Frankl",
         "role": "",
         "linkedin": ""
       }
