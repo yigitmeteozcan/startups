@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-07._
+_Auto-generated from the dataset on 2026-10-08._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,229** |
+| Total companies | **21,232** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2788** |
 | 🌱 B Corps | **29** |
@@ -14,12 +14,12 @@ _Auto-generated from the dataset on 2026-10-07._
 
 | Source | Companies |
 |---|---|
-| yc | 6,277 |
+| yc | 6,279 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
-| antler | 1,086 |
-| alchemist | 513 |
+| antler | 1,088 |
+| alchemist | 512 |
 | ef | 499 |
 
 ## Companies by first session year
@@ -37,16 +37,16 @@ _Auto-generated from the dataset on 2026-10-07._
 2014  █████████░░░░░░░░░░░░░░░░░░░ 470
 2015  █████████████░░░░░░░░░░░░░░░ 683
 2016  ██████████████░░░░░░░░░░░░░░ 724
-2017  ███████████████░░░░░░░░░░░░░ 815
+2017  ███████████████░░░░░░░░░░░░░ 814
 2018  ████████████████░░░░░░░░░░░░ 862
-2019  ███████████████████░░░░░░░░░ 1028
+2019  ███████████████████░░░░░░░░░ 1029
 2020  ████████████████████░░░░░░░░ 1052
 2021  ██████████████████████████░░ 1382
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1493
-2024  ███████████████████████████░ 1446
+2024  ███████████████████████████░ 1445
 2025  ████████████████████░░░░░░░░ 1044
-2026  ████████████████░░░░░░░░░░░░ 850
+2026  ████████████████░░░░░░░░░░░░ 852
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 3
 ```
 
@@ -55,7 +55,7 @@ _Auto-generated from the dataset on 2026-10-07._
 2. **Japan** — 2684
 3. **United Kingdom** — 597
 4. **Canada** — 553
-5. **USA** — 392
+5. **USA** — 391
 6. **Germany** — 258
 7. **Israel** — 189
 8. **France** — 183
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-10-07._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1401
-3. **Antler** — 1086
+3. **Antler** — 1088
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -104,19 +104,19 @@ _Auto-generated from the dataset on 2026-10-07._
 ## Top industries
 1. **Fintech** — 2493
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1428
+3. **SaaS** — 1430
 4. **Mobile** — 1141
-5. **Consumer** — 1064
-6. **Artificial Intelligence** — 1045
-7. **AI** — 910
+5. **Consumer** — 1063
+6. **Artificial Intelligence** — 1046
+7. **AI** — 912
 8. **Healthcare** — 823
-9. **Developer Tools** — 721
-10. **Infrastructure** — 705
+9. **Developer Tools** — 723
+10. **Infrastructure** — 706
 11. **Health** — 663
-12. **Industrials** — 654
-13. **Engineering, Product and Design** — 626
+12. **Industrials** — 655
+13. **Engineering, Product and Design** — 625
 14. **Insurtech** — 513
-15. **B2B Software** — 497
+15. **B2B Software** — 499
 16. **Deeptech** — 489
 17. **Brand & Retail** — 474
 18. **Healthtech** — 440
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-10-07._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4661
+2. **United States of America** — 4665
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -143,9 +143,9 @@ _Auto-generated from the dataset on 2026-10-07._
 17. **Southeast Asia** — 93
 18. **France** — 80
 19. **Mexico** — 78
-20. **Remote** — 76
+20. **Remote** — 75
 21. **Oceania** — 73
-22. **Germany** — 72
+22. **Germany** — 71
 23. **Brazil** — 69
 24. **Singapore** — 51
 25. **Nigeria** — 46
