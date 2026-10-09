@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-08._
+_Auto-generated from the dataset on 2026-10-09._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,232** |
+| Total companies | **21,237** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2788** |
+| 💰 Exits | **2789** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-10-08._
 
 | Source | Companies |
 |---|---|
-| yc | 6,279 |
+| yc | 6,283 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
-| antler | 1,088 |
+| antler | 1,089 |
 | alchemist | 512 |
 | ef | 499 |
 
@@ -37,17 +37,17 @@ _Auto-generated from the dataset on 2026-10-08._
 2014  █████████░░░░░░░░░░░░░░░░░░░ 470
 2015  █████████████░░░░░░░░░░░░░░░ 683
 2016  ██████████████░░░░░░░░░░░░░░ 724
-2017  ███████████████░░░░░░░░░░░░░ 814
+2017  ███████████████░░░░░░░░░░░░░ 815
 2018  ████████████████░░░░░░░░░░░░ 862
 2019  ███████████████████░░░░░░░░░ 1029
 2020  ████████████████████░░░░░░░░ 1052
 2021  ██████████████████████████░░ 1382
-2022  ███████████████████████████░ 1456
+2022  ███████████████████████████░ 1455
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1445
 2025  ████████████████████░░░░░░░░ 1044
-2026  ████████████████░░░░░░░░░░░░ 852
-2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 3
+2026  ████████████████░░░░░░░░░░░░ 855
+2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4
 ```
 
 ## Top countries
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-10-08._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1401
-3. **Antler** — 1088
+3. **Antler** — 1089
 4. **Entrepreneur First** — 499
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
@@ -104,13 +104,13 @@ _Auto-generated from the dataset on 2026-10-08._
 ## Top industries
 1. **Fintech** — 2493
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1430
+3. **SaaS** — 1431
 4. **Mobile** — 1141
-5. **Consumer** — 1063
-6. **Artificial Intelligence** — 1046
-7. **AI** — 912
+5. **Consumer** — 1065
+6. **Artificial Intelligence** — 1044
+7. **AI** — 916
 8. **Healthcare** — 823
-9. **Developer Tools** — 723
+9. **Developer Tools** — 724
 10. **Infrastructure** — 706
 11. **Health** — 663
 12. **Industrials** — 655
@@ -125,14 +125,14 @@ _Auto-generated from the dataset on 2026-10-08._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4665
+2. **United States of America** — 4667
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 219
+9. **United Kingdom** — 220
 10. **Canada** — 216
 11. **India** — 212
 12. **Latin America** — 163
@@ -195,24 +195,24 @@ _Auto-generated from the dataset on 2026-10-08._
 69. **Greece** — 2
 70. **Ukraine** — 2
 71. **Croatia** — 2
-72. **Romania** — 2
-73. **Bulgaria** — 2
-74. **Georgia** — 2
-75. **Costa Rica** — 2
-76. **Jordan** — 2
-77. **Thailand** — 1
-78. **Nepal** — 1
-79. **Bangladesh** — 1
-80. **Russia** — 1
-81. **Hungary** — 1
-82. **Latvia** — 1
-83. **Puerto Rico** — 1
-84. **Iceland** — 1
-85. **Iraq** — 1
-86. **Kyrgyzstan** — 1
-87. **Tanzania** — 1
-88. **Algeria** — 1
-89. **Italy** — 1
+72. **Italy** — 2
+73. **Romania** — 2
+74. **Bulgaria** — 2
+75. **Georgia** — 2
+76. **Costa Rica** — 2
+77. **Jordan** — 2
+78. **Thailand** — 1
+79. **Nepal** — 1
+80. **Bangladesh** — 1
+81. **Russia** — 1
+82. **Hungary** — 1
+83. **Latvia** — 1
+84. **Puerto Rico** — 1
+85. **Iceland** — 1
+86. **Iraq** — 1
+87. **Kyrgyzstan** — 1
+88. **Tanzania** — 1
+89. **Algeria** — 1
 90. **Lithuania** — 1
 91. **Ivory Coast** — 1
 92. **Zambia** — 1

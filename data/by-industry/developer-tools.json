@@ -11414,7 +11414,7 @@
   {
     "source": "yc",
     "name": "ParadeDB",
-    "description": "Unify application data, vectors, and full-text search in one Postgres",
+    "description": "You should just use Postgres.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "location": "San Francisco, CA, USA",
@@ -18086,10 +18086,10 @@
   },
   {
     "source": "yc",
-    "name": "hiloop",
+    "name": "Autoresearch, Inc.",
     "description": "Autoresearch as a service: we solve your hardest measurable problems",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3757083c195e320f3b98de96aa489419197b9463.png",
-    "website": "https://hiloop.ai",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b91efea37962386a163af58e2f2920b1e9d0aa7.png",
+    "website": "https://autoresearch.inc",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -18536,6 +18536,39 @@
     "program": "YC Summer 2027",
     "programSlugs": [
       "yc-summer-2027"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Composal",
+    "description": "Swarms of agents acting like users to find bugs before release",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5e1f6f0a97f11c72c78bdc6875df0e065a154770.png",
+    "website": "https://composal.ai",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "DevSecOps",
+      "Cloud Computing"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
