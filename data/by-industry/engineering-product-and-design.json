@@ -5377,7 +5377,7 @@
   {
     "source": "yc",
     "name": "Reframe",
-    "description": "Zoomable generative UI for codebase architecture",
+    "description": "Model and visualize codebase architecture",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/880705b835d5a12c59be031e53d0493e21e5b49c.png",
     "website": "https://reframe.dev/",
     "location": "",
@@ -13826,10 +13826,8 @@
     "tags": [
       "Engineering, Product and Design",
       "Artificial Intelligence",
-      "Aerospace",
       "Enterprise Software",
-      "Automation",
-      "Automotive"
+      "Infrastructure"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -19102,7 +19100,7 @@
     "description": "Code review platform for humans and agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
     "website": "https://www.tryluke.dev/",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -20004,8 +20002,41 @@
   },
   {
     "source": "yc",
+    "name": "Munito AI",
+    "description": "Open-model inference provider for Europe, private by default.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/287fb0bcb8cbc376d57a3e34f3cd0cdda9966268.png",
+    "website": "https://munito.ai",
+    "location": "Paris, Île-de-France, France; Remote",
+    "region": "France",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Enterprise",
+      "Infrastructure"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Mirrors",
-    "description": "Steer AI agents in real time using lessons from production runs",
+    "description": "Give AI agents the right instructions at the right moment",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "location": "San Francisco, CA, USA",
@@ -20014,9 +20045,9 @@
     "tags": [
       "Engineering, Product and Design",
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
