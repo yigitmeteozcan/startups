@@ -6457,19 +6457,19 @@
   {
     "source": "yc",
     "name": "Orangewood Labs",
-    "description": "Orangewood Labs makes worlds most affordable and easiest AI robot arms",
+    "description": "Orangewood democratises robotics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3b36a43190da640752bb01710dff43f2c6e5ff91.png",
     "website": "http://www.orangewood.co",
-    "location": "San Francisco, CA, USA; Noida, UP, India",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
-      "Artificial Intelligence",
       "Generative AI",
       "Hardware",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "year": 2018,
     "program": "YC Winter 2018",
@@ -18818,7 +18818,7 @@
   {
     "source": "yc",
     "name": "Faraday",
-    "description": "Industrial aOS between humans, agents, and robots",
+    "description": "Agents running industrial enterprises from back office to shop floor",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
     "website": "https://faradaycompute.com",
     "location": "San Francisco, CA, USA",
@@ -18826,7 +18826,6 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Manufacturing and Robotics",
       "Artificial Intelligence",
       "Robotics",
       "Manufacturing",
@@ -18856,16 +18855,15 @@
     "description": "Next generation gas turbines for data centers & aviation",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d151d30449f8a414c0594312df47a98193fd069b.png",
     "website": "https://www.viraj-aero.com/",
-    "location": "Toulouse, Occitanie, France",
-    "region": "France",
+    "location": "",
+    "region": "Unspecified",
     "subregion": "",
     "tags": [
       "Industrials",
       "Energy",
       "Artificial Intelligence",
       "Hard Tech",
-      "Aerospace",
-      "ClimateTech"
+      "Aerospace"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -19366,7 +19364,7 @@
   {
     "source": "yc",
     "name": "Dreamscale Labs",
-    "description": "Running robot brains in the cloud",
+    "description": "Real-time cloud inference for robotics.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5a0eb88901e7f46ec71cc8739e8069f4815b0a52.png",
     "website": "https://dreamscalelabs.com",
     "location": "San Francisco, CA, USA",
@@ -19570,7 +19568,7 @@
   {
     "source": "yc",
     "name": "Lark",
-    "description": "Lark - Specialized agents for wholesale distributors",
+    "description": "Lark - AI agents that automate workflows for wholesale distributors",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/658417946c5809d1681eb90f9636442c2526cc5c.png",
     "website": "https://larkagents.com",
     "location": "San Francisco, CA, USA",
@@ -19578,8 +19576,8 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Supply Chain",
-      "AI"
+      "Artificial Intelligence",
+      "Supply Chain"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -19616,6 +19614,38 @@
       "Machine Learning",
       "Computer Vision",
       "Industrial"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "RATLOG",
+    "description": "Reusable heavy-lift rockets",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c91e646aa134e7ed3da1082d56c2a3cdd68f8337.png",
+    "website": "",
+    "location": "Dresden, SN, Germany",
+    "region": "Germany",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Aviation and Space",
+      "Commercial Space Launch"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
