@@ -43884,7 +43884,7 @@
   {
     "source": "yc",
     "name": "Mirrors",
-    "description": "Give AI agents the right instructions at the right moment",
+    "description": "Give AI agents the right context at the right moment",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "location": "San Francisco, CA, USA",
@@ -43893,9 +43893,9 @@
     "tags": [
       "Engineering, Product and Design",
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -43918,8 +43918,8 @@
   {
     "source": "yc",
     "name": "Asakana",
-    "description": "AI order entry for food distributors: emails and texts to ERP",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/582ebf9f01453d95f2c02b9bac341aff365af875.png",
+    "description": "Automating away manual admin for food distributors: texts to ERP",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b17bfb784fbfd8ce18bf9fc551a8a6c2a2c68f02.png",
     "website": "https://www.asakana.co/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -48468,20 +48468,19 @@
   },
   {
     "source": "500",
-    "name": "Plerk",
-    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
-    "website": "https://plerk.com",
+    "name": "Fatora",
+    "description": "All-in-one tool to go eCommerce and start selling",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
+    "website": "https://maktapp.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "FinTech",
-      "Marketplace",
       "SaaS"
     ],
-    "year": 2021,
-    "program": "500 Global",
+    "year": 2020,
+    "program": "Dojo III",
     "programSlugs": [
       "500"
     ],
@@ -48491,23 +48490,18 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Miguel Medina",
+        "name": "Waleed Fatora",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "José Antonio Martínez Quintero",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Angel Arias",
+        "name": "Saleh Al-Mansouri",
         "role": "",
         "linkedin": ""
       }
     ],
     "social": {
-      "linkedin": "https://www.linkedin.com/company/plerk/",
+      "linkedin": "",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -48572,20 +48566,20 @@
   },
   {
     "source": "500",
-    "name": "WhoAPI",
-    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
-    "website": "https://whoapi.com",
+    "name": "Plerk",
+    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
+    "website": "https://plerk.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Cybersecurity",
-      "DevOps",
+      "FinTech",
+      "Marketplace",
       "SaaS"
     ],
-    "year": 2012,
-    "program": "GA 5",
+    "year": 2021,
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -48595,18 +48589,23 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Edi Budimilic",
+        "name": "Miguel Medina",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Goran Duskic",
+        "name": "José Antonio Martínez Quintero",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Angel Arias",
         "role": "",
         "linkedin": ""
       }
     ],
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/plerk/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -48672,19 +48671,20 @@
   },
   {
     "source": "500",
-    "name": "Fatora",
-    "description": "All-in-one tool to go eCommerce and start selling",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
-    "website": "https://maktapp.com",
+    "name": "WhoAPI",
+    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
+    "website": "https://whoapi.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Cybersecurity",
+      "DevOps",
       "SaaS"
     ],
-    "year": 2020,
-    "program": "Dojo III",
+    "year": 2012,
+    "program": "GA 5",
     "programSlugs": [
       "500"
     ],
@@ -48694,12 +48694,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Waleed Fatora",
+        "name": "Edi Budimilic",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Saleh Al-Mansouri",
+        "name": "Goran Duskic",
         "role": "",
         "linkedin": ""
       }

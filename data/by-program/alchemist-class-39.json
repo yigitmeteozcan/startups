@@ -568,36 +568,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Pairity",
-    "description": "Human-Context Data Infrastructure for High-Stakes Decisions",
-    "logo": "",
-    "website": "",
-    "location": "Toronto, ON, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Arithmedics",
     "description": "AI that Reclaims Physician Time for Patients",
     "logo": "",
@@ -817,6 +787,42 @@
   },
   {
     "source": "alchemist",
+    "name": "Fluence",
+    "description": "Plugging Deep Human Understanding Into Commercial Platforms",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Luciana",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Atomistic Insights",
     "description": "Harnessing Protein Dynamics For Breakthrough Medicines",
     "logo": "",
@@ -863,11 +869,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Fluence",
-    "description": "Plugging Deep Human Understanding Into Commercial Platforms",
+    "name": "Pairity",
+    "description": "Human-Context Data Infrastructure for High-Stakes Decisions",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Toronto, ON, Canada",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -880,13 +886,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Luciana",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -894,7 +894,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "USA"
+      "country": "Canada"
     }
   }
 ]

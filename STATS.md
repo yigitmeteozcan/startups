@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-11._
+_Auto-generated from the dataset on 2026-10-12._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,240** |
+| Total companies | **21,242** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2791** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-10-11._
 
 | Source | Companies |
 |---|---|
-| yc | 6,286 |
+| yc | 6,288 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -37,16 +37,16 @@ _Auto-generated from the dataset on 2026-10-11._
 2014  █████████░░░░░░░░░░░░░░░░░░░ 470
 2015  █████████████░░░░░░░░░░░░░░░ 683
 2016  ██████████████░░░░░░░░░░░░░░ 724
-2017  ███████████████░░░░░░░░░░░░░ 816
+2017  ███████████████░░░░░░░░░░░░░ 814
 2018  ████████████████░░░░░░░░░░░░ 862
-2019  ███████████████████░░░░░░░░░ 1028
+2019  ███████████████████░░░░░░░░░ 1029
 2020  ████████████████████░░░░░░░░ 1052
 2021  ██████████████████████████░░ 1382
-2022  ███████████████████████████░ 1455
+2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1445
 2025  ████████████████████░░░░░░░░ 1044
-2026  ████████████████░░░░░░░░░░░░ 858
+2026  ████████████████░░░░░░░░░░░░ 860
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4
 ```
 
@@ -107,13 +107,13 @@ _Auto-generated from the dataset on 2026-10-11._
 3. **SaaS** — 1431
 4. **Mobile** — 1141
 5. **Consumer** — 1065
-6. **Artificial Intelligence** — 1045
-7. **AI** — 916
+6. **Artificial Intelligence** — 1046
+7. **AI** — 914
 8. **Healthcare** — 823
 9. **Developer Tools** — 724
 10. **Infrastructure** — 708
 11. **Health** — 663
-12. **Industrials** — 657
+12. **Industrials** — 659
 13. **Engineering, Product and Design** — 626
 14. **Insurtech** — 513
 15. **B2B Software** — 499
@@ -132,12 +132,12 @@ _Auto-generated from the dataset on 2026-10-11._
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 220
+9. **United Kingdom** — 221
 10. **Canada** — 215
-11. **India** — 212
+11. **India** — 213
 12. **Latin America** — 163
 13. **Middle East** — 159
-14. **Unspecified** — 120
+14. **Unspecified** — 119
 15. **North Asia** — 110
 16. **Africa** — 107
 17. **Southeast Asia** — 93
@@ -149,7 +149,7 @@ _Auto-generated from the dataset on 2026-10-11._
 23. **Brazil** — 69
 24. **Singapore** — 51
 25. **Nigeria** — 46
-26. **Israel** — 34
+26. **Israel** — 35
 27. **Indonesia** — 30
 28. **Colombia** — 28
 29. **Spain** — 20
