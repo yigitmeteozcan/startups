@@ -163,18 +163,18 @@
   {
     "source": "yc",
     "name": "Collar",
-    "description": "AI for Investor Relations",
+    "description": "AI-Native Investor Relations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/35110e6bdfbfbf5706627685cbb370e170ff4a03.png",
     "website": "https://usecollarai.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Finance",
       "Enterprise",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -488,6 +488,38 @@
   },
   {
     "source": "yc",
+    "name": "Gradon",
+    "description": "Legora for AEC (Architecture, Engineering, & Construction) firms",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7505a6a55a850d54a7b75a5750c0282f58f9001f.png",
+    "website": "https://heygradon.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Construction"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "isoquant",
     "description": "Self-optimizing inference cloud for faster, cheaper AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2393ff6f2bb8fa724b4d08301f7b560ba116be78.png",
@@ -527,8 +559,8 @@
     "subregion": "",
     "tags": [
       "Productivity",
-      "Artificial Intelligence",
-      "Fintech"
+      "Fintech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -680,19 +712,19 @@
   },
   {
     "source": "yc",
-    "name": "Lambda Robotics",
-    "description": "Robotics for AI Infrastructure",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/751b6f5898f8cb0549b80d5a13c551d0c7c0e12f.png",
-    "website": "https://lambdarobotics.ai",
+    "name": "Runtime.si",
+    "description": "Evaluation Infrastructure for Robotics (YC F26)",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
+    "website": "https://runtime.si/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
+      "Artificial Intelligence",
       "Robotics",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -723,7 +755,7 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -819,7 +851,7 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -1341,9 +1373,9 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "DevSecOps",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -1672,7 +1704,7 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -1734,7 +1766,7 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "AI"
+      "Artificial Intelligence"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -1799,11 +1831,11 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -1957,8 +1989,8 @@
   },
   {
     "source": "yc",
-    "name": "Sintem",
-    "description": "Agentic phones for teams",
+    "name": "sintem",
+    "description": "An agentic phone that does your busywork",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/754de4c0d947ee0ffec143a04381c7d7cdcc0667.png",
     "website": "https://sintem.co",
     "location": "BY, Germany",
@@ -2027,7 +2059,7 @@
     "source": "yc",
     "name": "Dydema",
     "description": "The model company for neurotech.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2f88326f16a3245ab42f5cb8218948d206913239.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/85eacc9eef1101a2060cf6b9873797fd43445325.png",
     "website": "https://dydema.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -2066,9 +2098,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -2165,11 +2197,11 @@
     "tags": [
       "Industrials",
       "Manufacturing and Robotics",
+      "Artificial Intelligence",
       "Hardware",
       "Robotics",
       "Manufacturing",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -2424,7 +2456,7 @@
   },
   {
     "source": "yc",
-    "name": "Primordiant (Formerly SuperRadiant)",
+    "name": "Primordiant",
     "description": "Embodied Scientific Intelligence",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/15a7e2a5caa04595d7620cd8161f3b2cffd00a51.png",
     "website": "https://primordiant.com",
@@ -2469,9 +2501,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -2667,10 +2699,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "API"
+      "API",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -3157,14 +3189,15 @@
   {
     "source": "yc",
     "name": "Sutrix",
-    "description": "AI-native statistical analysis for patient outcomes",
+    "description": "Turns EHR data into study-ready datasets for hospital research teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/10aa0357ff173a9e31708ec1fdba33b53c40c20f.png",
     "website": "https://www.sutrix.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Healthcare"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -3195,11 +3228,11 @@
     "subregion": "",
     "tags": [
       "Supply Chain and Logistics",
+      "Artificial Intelligence",
       "Logistics",
       "Manufacturing",
       "Supply Chain",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -3388,7 +3421,7 @@
     "source": "yc",
     "name": "Sona8",
     "description": "Context layer for enterprise AI surveying employees with voice agents ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7f2bc6b3848168f970a704b24b37c2b125f25.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/68fe01dae2c3bf0906f880c9a0f3fca2b2a16863.png",
     "website": "https://sona8.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -3497,6 +3530,39 @@
       "Developer Tools",
       "DevSecOps",
       "Cloud Computing"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Caveman",
+    "description": "Caveman cuts what AI agents cost without making them dumber.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/255bbf73f87bb02fde740dd7da4814d8d2b5f4e1.png",
+    "website": "https://caveman.so",
+    "location": "Amsterdam, NH, Netherlands",
+    "region": "Netherlands",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -3784,9 +3850,9 @@
     "tags": [
       "Fintech",
       "Insurance",
-      "Artificial Intelligence",
       "Health Tech",
-      "Health Insurance"
+      "Health Insurance",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -4307,8 +4373,8 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

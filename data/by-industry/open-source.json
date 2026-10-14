@@ -1266,7 +1266,7 @@
   {
     "source": "yc",
     "name": "QuestDB",
-    "description": "High-performance time series database",
+    "description": "Data platform for mission-critical real-time workloads",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3aef5c655cdc851ccad387554c204466a87669e7.png",
     "website": "https://questdb.com/",
     "location": "London, England, United Kingdom",
@@ -5299,9 +5299,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -5687,7 +5687,7 @@
   {
     "source": "yc",
     "name": "OneCLI",
-    "description": "The open source AI teammates for your company.",
+    "description": "AI teammates for your business-critical work.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
     "website": "https://onecli.sh",
     "location": "San Francisco, CA, USA",
@@ -5696,9 +5696,9 @@
     "tags": [
       "Productivity",
       "AIOps",
-      "Artificial Intelligence",
       "Workflow Automation",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -5800,6 +5800,39 @@
       "Marketing",
       "Open Source",
       "SEO"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Caveman",
+    "description": "Caveman cuts what AI agents cost without making them dumber.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/255bbf73f87bb02fde740dd7da4814d8d2b5f4e1.png",
+    "website": "https://caveman.so",
+    "location": "Amsterdam, NH, Netherlands",
+    "region": "Netherlands",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

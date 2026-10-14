@@ -4302,7 +4302,7 @@
   {
     "source": "yc",
     "name": "QuestDB",
-    "description": "High-performance time series database",
+    "description": "Data platform for mission-critical real-time workloads",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3aef5c655cdc851ccad387554c204466a87669e7.png",
     "website": "https://questdb.com/",
     "location": "London, England, United Kingdom",
@@ -16271,9 +16271,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -18363,11 +18363,11 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -18430,9 +18430,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -18463,9 +18463,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -18496,10 +18496,10 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "API"
+      "API",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -18619,6 +18619,39 @@
   },
   {
     "source": "yc",
+    "name": "Caveman",
+    "description": "Caveman cuts what AI agents cost without making them dumber.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/255bbf73f87bb02fde740dd7da4814d8d2b5f4e1.png",
+    "website": "https://caveman.so",
+    "location": "Amsterdam, NH, Netherlands",
+    "region": "Netherlands",
+    "subregion": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Maritime",
     "description": "The managed cloud for AI agents.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d8ff801ef7e9094077a292c8bed3e86ce7e01f00.png",
@@ -18660,8 +18693,8 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
