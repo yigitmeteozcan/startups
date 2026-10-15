@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-14._
+_Auto-generated from the dataset on 2026-10-15._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,254** |
+| Total companies | **21,257** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2792** |
+| 💰 Exits | **2797** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-10-14._
 
 | Source | Companies |
 |---|---|
-| yc | 6,297 |
+| yc | 6,300 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -37,16 +37,16 @@ _Auto-generated from the dataset on 2026-10-14._
 2014  █████████░░░░░░░░░░░░░░░░░░░ 470
 2015  █████████████░░░░░░░░░░░░░░░ 683
 2016  ██████████████░░░░░░░░░░░░░░ 724
-2017  ███████████████░░░░░░░░░░░░░ 816
+2017  ███████████████░░░░░░░░░░░░░ 815
 2018  ████████████████░░░░░░░░░░░░ 862
-2019  ███████████████████░░░░░░░░░ 1028
+2019  ███████████████████░░░░░░░░░ 1027
 2020  ████████████████████░░░░░░░░ 1052
 2021  ██████████████████████████░░ 1382
-2022  ███████████████████████████░ 1455
+2022  ███████████████████████████░ 1457
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1445
 2025  ████████████████████░░░░░░░░ 1045
-2026  ████████████████░░░░░░░░░░░░ 867
+2026  ████████████████░░░░░░░░░░░░ 870
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5
 ```
 
@@ -106,15 +106,15 @@ _Auto-generated from the dataset on 2026-10-14._
 2. **Artificial intelligence and machine learning** — 1510
 3. **SaaS** — 1432
 4. **Mobile** — 1141
-5. **Consumer** — 1067
-6. **Artificial Intelligence** — 1045
-7. **AI** — 919
-8. **Healthcare** — 824
-9. **Developer Tools** — 726
-10. **Infrastructure** — 711
+5. **Consumer** — 1068
+6. **Artificial Intelligence** — 1050
+7. **AI** — 920
+8. **Healthcare** — 825
+9. **Developer Tools** — 727
+10. **Infrastructure** — 712
 11. **Health** — 663
 12. **Industrials** — 660
-13. **Engineering, Product and Design** — 627
+13. **Engineering, Product and Design** — 629
 14. **Insurtech** — 513
 15. **B2B Software** — 501
 16. **Deeptech** — 489
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-10-14._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4676
+2. **United States of America** — 4682
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -143,11 +143,11 @@ _Auto-generated from the dataset on 2026-10-14._
 17. **Southeast Asia** — 93
 18. **France** — 80
 19. **Mexico** — 78
-20. **Remote** — 75
-21. **Oceania** — 73
+20. **Oceania** — 73
+21. **Remote** — 73
 22. **Germany** — 73
 23. **Brazil** — 69
-24. **Singapore** — 50
+24. **Singapore** — 49
 25. **Nigeria** — 46
 26. **Israel** — 35
 27. **Indonesia** — 30

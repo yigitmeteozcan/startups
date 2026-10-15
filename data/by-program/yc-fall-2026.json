@@ -69,13 +69,15 @@
   {
     "source": "yc",
     "name": "The Company Company",
-    "description": "The last agent your company will ever need.",
+    "description": "The operating system for tech startups.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c2e02b231781598e474507da2cdfd670adae06e9.png",
     "website": "https://www.thecompany.company",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Engineering, Product and Design"
+    ],
     "year": 2026,
     "program": "YC Fall 2026",
     "programSlugs": [
@@ -97,7 +99,7 @@
   {
     "source": "yc",
     "name": "GodHands",
-    "description": "Your company’s operating model, learned from the work.",
+    "description": "Turn how your team works into playbooks and agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
     "website": "https://godhands.ai",
     "location": "San Francisco, CA, USA",
@@ -105,7 +107,9 @@
     "subregion": "",
     "tags": [
       "Operations",
-      "Enterprise"
+      "Workflow Automation",
+      "Enterprise",
+      "Automation"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -843,7 +847,7 @@
   {
     "source": "yc",
     "name": "Simulithic",
-    "description": "User simulations for production monitoring.",
+    "description": "AI users that test your app on every device and browser",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
     "website": "https://simulithic.com",
     "location": "San Francisco, CA, USA",
@@ -1376,6 +1380,39 @@
       "DevSecOps",
       "Cybersecurity",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Altair Health",
+    "description": "Stripe for medical billing",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/54aa8da5f81192f8484dda70b284e56e5b9cb6a6.png",
+    "website": "https://www.altair-health.com",
+    "location": "Austin, TX, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Healthcare Services",
+      "Artificial Intelligence",
+      "Health Tech"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -1932,8 +1969,11 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Swarm AI"
+      "Swarm AI",
+      "Open Source",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -2058,15 +2098,17 @@
   {
     "source": "yc",
     "name": "Dydema",
-    "description": "The model company for neurotech.",
+    "description": "A consumer brain-computer interface you can map to anything.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/85eacc9eef1101a2060cf6b9873797fd43445325.png",
     "website": "https://dydema.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Consumer",
+      "Hardware",
       "Neurotechnology",
-      "Neuroinformatics",
+      "Big Data",
       "AI"
     ],
     "year": 2026,
@@ -2166,6 +2208,38 @@
       "SaaS",
       "Enterprise Software",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Praxis",
+    "description": "AI agents that run law firm operations.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aac3b9688bfcfe828ca1449c50d9d85d7e55ad89.png",
+    "website": "https://runpraxis.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Legal",
+      "Artificial Intelligence",
+      "LegalTech"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -2501,9 +2575,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -3188,6 +3262,38 @@
   },
   {
     "source": "yc",
+    "name": "Graphide",
+    "description": "A graph based IDE for when agents program faster than you can read",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6a8a1620a1957b907f1e344c44b332ea9f5af430.png",
+    "website": "https://Graphide.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Generative AI",
+      "DevOps",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Sutrix",
     "description": "Turns EHR data into study-ready datasets for hospital research teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/10aa0357ff173a9e31708ec1fdba33b53c40c20f.png",
@@ -3263,9 +3369,9 @@
     "subregion": "",
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Enterprise Software",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -3850,9 +3956,9 @@
     "tags": [
       "Fintech",
       "Insurance",
+      "Artificial Intelligence",
       "Health Tech",
-      "Health Insurance",
-      "AI"
+      "Health Insurance"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

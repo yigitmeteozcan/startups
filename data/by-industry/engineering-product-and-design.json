@@ -4168,7 +4168,7 @@
     "programSlugs": [
       "yc-winter-2019"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4428,7 +4428,7 @@
     "programSlugs": [
       "yc-summer-2019"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -13360,7 +13360,7 @@
   {
     "source": "yc",
     "name": "Spur",
-    "description": "Spur is your AI QA Engineer. Test your websites with natural language.",
+    "description": "Spur is the validation infrastructure enterprises use to ship at the…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b63801706e3874e4f1017433f3c6a3ce0dddbca.png",
     "website": "https://www.spurtest.com/",
     "location": "New York City, NY, USA",
@@ -13368,8 +13368,8 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "year": 2024,
     "program": "YC Summer 2024",
@@ -18788,7 +18788,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design"
+      "Engineering, Product and Design",
+      "Reinforcement Learning"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -19204,6 +19205,36 @@
     "program": "YC Spring 2026",
     "programSlugs": [
       "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "The Company Company",
+    "description": "The operating system for tech startups.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c2e02b231781598e474507da2cdfd670adae06e9.png",
+    "website": "https://www.thecompany.company",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -19736,6 +19767,39 @@
   },
   {
     "source": "yc",
+    "name": "Click",
+    "description": "Managed Agents API",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
+    "website": "https://www.useclick.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Gradon",
     "description": "Legora for AEC (Architecture, Engineering, & Construction) firms",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7505a6a55a850d54a7b75a5750c0282f58f9001f.png",
@@ -20004,7 +20068,7 @@
   {
     "source": "yc",
     "name": "Simulithic",
-    "description": "User simulations for production monitoring.",
+    "description": "AI users that test your app on every device and browser",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
     "website": "https://simulithic.com",
     "location": "San Francisco, CA, USA",
@@ -20178,8 +20242,11 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Swarm AI"
+      "Swarm AI",
+      "Open Source",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -20276,9 +20343,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

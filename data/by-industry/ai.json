@@ -5943,7 +5943,7 @@
     "programSlugs": [
       "yc-summer-2021"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -7198,6 +7198,38 @@
       "Marketing",
       "SaaS",
       "SMB",
+      "AI"
+    ],
+    "year": 2022,
+    "program": "YC Winter 2022",
+    "programSlugs": [
+      "yc-winter-2022"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Sprites",
+    "description": "The proactive agent that achieves growth goals for businesses, fully…",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f89411c2e9172cac0eae74bed5485e42a289ab94.png",
+    "website": "https://sprites.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Marketing",
+      "Advertising",
       "AI"
     ],
     "year": 2022,
@@ -9486,37 +9518,6 @@
       "Generative AI",
       "Sales Enablement",
       "Automation",
-      "AI"
-    ],
-    "year": 2023,
-    "program": "YC Winter 2023",
-    "programSlugs": [
-      "yc-winter-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "zudo.work",
-    "description": "AI Workers for Warranty",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9b55d5948e24e4f011a2289892580ecd680e947a.png",
-    "website": "https://zudo.work/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Operations",
       "AI"
     ],
     "year": 2023,
@@ -13835,6 +13836,39 @@
   },
   {
     "source": "yc",
+    "name": "Legora",
+    "description": "The agentic operating system for legal work",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8ab1e73f4b43c259e677e877d53fe26dfac90b65.png",
+    "website": "https://www.legora.com/",
+    "location": "Stockholm, Stockholm County, Sweden",
+    "region": "Sweden",
+    "subregion": "",
+    "tags": [
+      "Legal",
+      "Generative AI",
+      "LegalTech",
+      "AI"
+    ],
+    "year": 2024,
+    "program": "YC Winter 2024",
+    "programSlugs": [
+      "yc-winter-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "ego",
     "description": "AI applied research lab building synthetic sapience; human-like AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8c5177c13126141e3271facbae25104898deb0f7.png",
@@ -16158,38 +16192,6 @@
       "yc-winter-2024"
     ],
     "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Spur",
-    "description": "Spur is your AI QA Engineer. Test your websites with natural language.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b63801706e3874e4f1017433f3c6a3ce0dddbca.png",
-    "website": "https://www.spurtest.com/",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design",
-      "Developer Tools",
-      "AI"
-    ],
-    "year": 2024,
-    "program": "YC Summer 2024",
-    "programSlugs": [
-      "yc-summer-2024"
-    ],
-    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -28486,6 +28488,37 @@
   },
   {
     "source": "yc",
+    "name": "Zaplar",
+    "description": "Agentic Hotel Operating System",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccfe3188152229b75f7e38241a91f40b4c9edd.png",
+    "website": "https://zaplar.com",
+    "location": "Stockholm, Stockholm County, Sweden",
+    "region": "Sweden",
+    "subregion": "",
+    "tags": [
+      "Operations",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Rasyn",
     "description": "Making chemicals 100,000x faster",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ffda7ce34aee49cfec95fa8aef9ed1a70e4c3e28.png",
@@ -28624,6 +28657,39 @@
       "Supply Chain and Logistics",
       "SaaS",
       "Supply Chain",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Click",
+    "description": "Managed Agents API",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
+    "website": "https://www.useclick.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "API",
+      "Infrastructure",
       "AI"
     ],
     "year": 2026,
@@ -29962,16 +30028,53 @@
   },
   {
     "source": "yc",
+    "name": "Agent Relay",
+    "description": "The infrastructure to run coding agents for your team",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
+    "website": "https://agentrelay.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Swarm AI",
+      "Open Source",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Dydema",
-    "description": "The model company for neurotech.",
+    "description": "A consumer brain-computer interface you can map to anything.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/85eacc9eef1101a2060cf6b9873797fd43445325.png",
     "website": "https://dydema.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Consumer",
+      "Hardware",
       "Neurotechnology",
-      "Neuroinformatics",
+      "Big Data",
       "AI"
     ],
     "year": 2026,
@@ -30070,39 +30173,6 @@
       "Sales",
       "Artificial Intelligence",
       "API",
-      "AI"
-    ],
-    "year": 2026,
-    "program": "YC Fall 2026",
-    "programSlugs": [
-      "yc-fall-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Rystic",
-    "description": "API simulators for testing and training agents locally",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1259ed8e91fea5ce7bb3da813020323417f96fae.png",
-    "website": "https://rystic.ai",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design",
-      "Developer Tools",
-      "Enterprise Software",
       "AI"
     ],
     "year": 2026,
@@ -30389,17 +30459,16 @@
   },
   {
     "source": "yc",
-    "name": "Papaya",
-    "description": "Continuous optimization for AI agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/90437a276bb22b842ea04cd42e19389e216c984c.png",
-    "website": "https://papaya.fyi/",
+    "name": "Graphide",
+    "description": "A graph based IDE for when agents program faster than you can read",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6a8a1620a1957b907f1e344c44b332ea9f5af430.png",
+    "website": "https://Graphide.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "AIOps",
-      "Enterprise Software",
-      "Infrastructure",
+      "Generative AI",
+      "DevOps",
       "AI"
     ],
     "year": 2026,
@@ -30499,40 +30568,6 @@
     "tags": [
       "Infrastructure",
       "API",
-      "AI"
-    ],
-    "year": 2026,
-    "program": "YC Fall 2026",
-    "programSlugs": [
-      "yc-fall-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Decent",
-    "description": "Your health plan should get better year-round. Not just once a year.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/786d073f3a76012e5179c5021d6a0d82644d8d1f.png",
-    "website": "https://decent.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "Insurance",
-      "Health Tech",
-      "Health Insurance",
       "AI"
     ],
     "year": 2026,
