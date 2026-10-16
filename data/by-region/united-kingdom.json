@@ -4310,19 +4310,16 @@
   },
   {
     "source": "yc",
-    "name": "Metoro",
-    "description": "AI SRE For Teams on Kubernetes",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6fa41154d43a3a3e4861f884623a00efb64e06f5.png",
-    "website": "https://metoro.io",
+    "name": "withHuman",
+    "description": "The Approval Layer for AI Agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/39484d89d4533e876c43bf392647fed770ecf14d.png",
+    "website": "https://withhuman.ai",
     "location": "London, England, United Kingdom",
     "region": "United Kingdom",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Developer Tools",
-      "Kubernetes",
-      "DevOps",
-      "AI"
+      "Open Source"
     ],
     "year": 2023,
     "program": "YC Summer 2023",
@@ -5658,7 +5655,7 @@
     "source": "yc",
     "name": "Smooth",
     "description": "Fast, simple, reliable AI browser agent",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f6e3f2bcd9ca9ba0984a5ab69a69597d088c3b3e.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bcfa8b54cf4b1b39fd0cb9dbb6a8d775676107b8.png",
     "website": "https://smooth.sh",
     "location": "London, England, United Kingdom",
     "region": "United Kingdom",
@@ -5846,7 +5843,7 @@
   {
     "source": "yc",
     "name": "Waffle",
-    "description": "AI generated podcasts",
+    "description": "AI Video Editor",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2861a984e502a76a5886684436e1887e14b08c0f.png",
     "website": "https://www.waffle.ai",
     "location": "London, England, United Kingdom",
@@ -5938,7 +5935,7 @@
   {
     "source": "yc",
     "name": "Artil",
-    "description": "Persistent email inbox, phone number and secret storage for agents",
+    "description": "Agent identity and communication infrastructure",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e50d8dfa254f692b3d51a22620ca8519141e9ed2.png",
     "website": "https://artil.dev/",
     "location": "London, England, United Kingdom",
@@ -5946,9 +5943,9 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Email"
+      "Email",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -6853,6 +6850,36 @@
     "program": "YC Winter 2026",
     "programSlugs": [
       "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Hexa",
+    "description": "Autonomous operations for industrial distributors",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/18de5d109d1472eebb05fe3ee80832938d3c1cef.png",
+    "website": "https://www.hexaagents.com",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
+    "subregion": "",
+    "tags": [
+      "Supply Chain and Logistics"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
