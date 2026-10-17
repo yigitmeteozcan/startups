@@ -1,6 +1,6 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-16._
+_Auto-generated from the dataset on 2026-10-17._
 
 | Metric | Count |
 |---|---|
@@ -102,16 +102,16 @@ _Auto-generated from the dataset on 2026-10-16._
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 2495
+1. **Fintech** — 2494
 2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1432
+3. **SaaS** — 1431
 4. **Mobile** — 1141
 5. **Consumer** — 1068
-6. **Artificial Intelligence** — 1044
-7. **AI** — 928
+6. **Artificial Intelligence** — 1051
+7. **AI** — 925
 8. **Healthcare** — 825
-9. **Developer Tools** — 726
-10. **Infrastructure** — 714
+9. **Developer Tools** — 727
+10. **Infrastructure** — 716
 11. **Health** — 663
 12. **Industrials** — 660
 13. **Engineering, Product and Design** — 629
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-10-16._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4688
+2. **United States of America** — 4689
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -134,7 +134,7 @@ _Auto-generated from the dataset on 2026-10-16._
 8. **South Asia** — 264
 9. **United Kingdom** — 222
 10. **Canada** — 215
-11. **India** — 213
+11. **India** — 212
 12. **Latin America** — 163
 13. **Middle East** — 159
 14. **Unspecified** — 120

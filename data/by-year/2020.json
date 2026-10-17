@@ -18114,7 +18114,7 @@
     "source": "yc",
     "name": "PostHog",
     "description": "The single platform to analyze, test, observe, and deploy new features",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7f1b6d1787ae32a7ebc0d417ec6fb8a204a3bbe9.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ccbd4a516fad6b8adc9892a766f23308db7a6cda.png",
     "website": "https://www.posthog.com",
     "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
@@ -26045,16 +26045,18 @@
   {
     "source": "yc",
     "name": "Ready",
-    "description": "Collaborative platform for optimizing regulated utilities such as…",
+    "description": "Ensuring AI delivers what people need, when and where they need it,…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1ac7d4d42d82d2423bb634e41e990a6d65348212.png",
     "website": "https://ready.net",
     "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Fintech",
-      "SaaS",
-      "Telecommunications"
+      "Government",
+      "Hardware",
+      "Telecommunications",
+      "Infrastructure",
+      "AI"
     ],
     "year": 2020,
     "program": "YC Summer 2020",
@@ -34634,47 +34636,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Besty AI",
-    "description": "AI property manager for short-term rentals",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 37",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Sam Dundas",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Aarlo Stone Fish",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Tazi AI Systems",
     "description": "AI & Gen AI Platform Driven by Business Users, Allowing Easy & Rapid Updates. Patented.",
     "logo": "",
@@ -34705,6 +34666,47 @@
       },
       {
         "name": "G Vuckovic",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Besty AI",
+    "description": "AI property manager for short-term rentals",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 37",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sam Dundas",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Aarlo Stone Fish",
         "role": "",
         "linkedin": ""
       }
@@ -35396,6 +35398,42 @@
   },
   {
     "source": "alchemist",
+    "name": "Growfitter",
+    "description": "Gamified Digital Health Platform Offering Lifestyle Rewards to Stay Healthy. ",
+    "logo": "",
+    "website": "",
+    "location": "Mumbai, Maharashtra, India",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 27",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sanmati Pande",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "India"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Neuronix AI Labs",
     "description": "Performance Accelerators for Edge AI Transformation",
     "logo": "",
@@ -35433,42 +35471,6 @@
     },
     "extra": {
       "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Growfitter",
-    "description": "Gamified Digital Health Platform Offering Lifestyle Rewards to Stay Healthy. ",
-    "logo": "",
-    "website": "",
-    "location": "Mumbai, Maharashtra, India",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 27",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Sanmati Pande",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "India"
     }
   },
   {
@@ -35932,16 +35934,16 @@
   },
   {
     "source": "alchemist",
-    "name": "EVAGo Medtech",
-    "description": "Delivering Rehabilitation to People at Home Remotely Using AI-Powered Technology",
+    "name": "RubiLabs Logistics",
+    "description": "Technology Platform that Brings Essential Medical Products Directly from Manufacturers to the Doorstep of Hospitals and Pharmacies Across Africa",
     "logo": "",
     "website": "",
-    "location": "Taipei, Taiwan",
+    "location": "Abeokuta, Nigeria",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2020,
-    "program": "Alchemist Class 29",
+    "program": "Alchemist Class 25",
     "programSlugs": [
       "alchemist"
     ],
@@ -35951,12 +35953,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Ray Chen",
+        "name": "Gideon Olanrewaju",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Frank Liu",
+        "name": "Uche Obioha",
         "role": "",
         "linkedin": ""
       }
@@ -35968,7 +35970,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Taiwan"
+      "country": "Nigeria"
     }
   },
   {
@@ -36019,47 +36021,6 @@
   },
   {
     "source": "alchemist",
-    "name": "RubiLabs Logistics",
-    "description": "Technology Platform that Brings Essential Medical Products Directly from Manufacturers to the Doorstep of Hospitals and Pharmacies Across Africa",
-    "logo": "",
-    "website": "",
-    "location": "Abeokuta, Nigeria",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 25",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Gideon Olanrewaju",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Uche Obioha",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Nigeria"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Rectify",
     "description": "Automating Privacy with Secure Redaction. Rectify Offers an Automated, Secure Redaction Platform Organizations Can Use when Sharing Data Outside of their Organization",
     "logo": "",
@@ -36080,149 +36041,6 @@
     "founders": [
       {
         "name": "Melissa Unsell-Smith",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "NDB",
-    "description": "Universal lifelong self-charging green battery",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 25",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dr. Nima Golsharifi",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Prof. Sir Michael Pepper",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mr. Qasim Gulamhusein",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mr. Giorgi Gogokhia",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mr. Roberto Luca Saldi",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Ant Media",
-    "description": "Video Streaming Platform Provider having 700+ Active Customers, 3,150+ Servers Running in 120+ Countries. ",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 27",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "A.Oguz Mermerkaya",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Yalim Eristiren",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Alper Kiziltoprak",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Apis Cor",
-    "description": "3D Concrete Printers for House Construction",
-    "logo": "",
-    "website": "",
-    "location": "Melbourne, FL, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 26",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Nick Cheniuntai is an engineer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Since day one",
         "role": "",
         "linkedin": ""
       }
@@ -36300,26 +36118,36 @@
   },
   {
     "source": "alchemist",
-    "name": "Utrust",
-    "description": "Blockchain-Powered Borderless Payments Technology that Enables Cryptocurrencies as a Payment Method. ",
+    "name": "G-71 Inc.",
+    "description": "Document leaks deterrence",
     "logo": "",
     "website": "",
-    "location": "Braga, Portugal",
+    "location": "Mountain View, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2020,
-    "program": "Alchemist Class 27",
+    "program": "Alchemist Class 26",
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": true,
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Sanja Kon",
+        "name": "Sergey Voynov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Igor Zuykov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Julia Demyanchuk",
         "role": "",
         "linkedin": ""
       }
@@ -36331,7 +36159,53 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Portugal"
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Ant Media",
+    "description": "Video Streaming Platform Provider having 700+ Active Customers, 3,150+ Servers Running in 120+ Countries. ",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 27",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "A.Oguz Mermerkaya",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yalim Eristiren",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alper Kiziltoprak",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
     }
   },
   {
@@ -36382,11 +36256,52 @@
   },
   {
     "source": "alchemist",
-    "name": "G-71 Inc.",
-    "description": "Document leaks deterrence",
+    "name": "EVAGo Medtech",
+    "description": "Delivering Rehabilitation to People at Home Remotely Using AI-Powered Technology",
     "logo": "",
     "website": "",
-    "location": "Mountain View, CA, USA",
+    "location": "Taipei, Taiwan",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 29",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ray Chen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Frank Liu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Taiwan"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Apis Cor",
+    "description": "3D Concrete Printers for House Construction",
+    "logo": "",
+    "website": "",
+    "location": "Melbourne, FL, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -36401,17 +36316,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Sergey Voynov",
+        "name": "Nick Cheniuntai is an engineer",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Igor Zuykov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Julia Demyanchuk",
+        "name": "Since day one",
         "role": "",
         "linkedin": ""
       }
@@ -36424,6 +36334,98 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "NDB",
+    "description": "Universal lifelong self-charging green battery",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 25",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dr. Nima Golsharifi",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Prof. Sir Michael Pepper",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mr. Qasim Gulamhusein",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mr. Giorgi Gogokhia",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mr. Roberto Luca Saldi",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Utrust",
+    "description": "Blockchain-Powered Borderless Payments Technology that Enables Cryptocurrencies as a Payment Method. ",
+    "logo": "",
+    "website": "",
+    "location": "Braga, Portugal",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 27",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sanja Kon",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Portugal"
     }
   },
   {
