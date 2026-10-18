@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-17._
+_Auto-generated from the dataset on 2026-10-18._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,262** |
+| Total companies | **21,261** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2798** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-10-17._
 
 | Source | Companies |
 |---|---|
-| yc | 6,307 |
+| yc | 6,306 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -37,16 +37,16 @@ _Auto-generated from the dataset on 2026-10-17._
 2014  █████████░░░░░░░░░░░░░░░░░░░ 470
 2015  █████████████░░░░░░░░░░░░░░░ 683
 2016  ██████████████░░░░░░░░░░░░░░ 724
-2017  ███████████████░░░░░░░░░░░░░ 816
+2017  ███████████████░░░░░░░░░░░░░ 815
 2018  ████████████████░░░░░░░░░░░░ 861
-2019  ███████████████████░░░░░░░░░ 1027
+2019  ███████████████████░░░░░░░░░ 1028
 2020  ████████████████████░░░░░░░░ 1052
 2021  ██████████████████████████░░ 1381
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1445
 2025  ████████████████████░░░░░░░░ 1045
-2026  ████████████████░░░░░░░░░░░░ 876
+2026  ████████████████░░░░░░░░░░░░ 875
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6
 ```
 
@@ -107,13 +107,13 @@ _Auto-generated from the dataset on 2026-10-17._
 3. **SaaS** — 1431
 4. **Mobile** — 1141
 5. **Consumer** — 1068
-6. **Artificial Intelligence** — 1051
-7. **AI** — 925
+6. **Artificial Intelligence** — 1054
+7. **AI** — 923
 8. **Healthcare** — 825
-9. **Developer Tools** — 727
+9. **Developer Tools** — 728
 10. **Infrastructure** — 716
 11. **Health** — 663
-12. **Industrials** — 660
+12. **Industrials** — 659
 13. **Engineering, Product and Design** — 629
 14. **Insurtech** — 513
 15. **B2B Software** — 501
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-10-17._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4689
+2. **United States of America** — 4688
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
