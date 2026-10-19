@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-18._
+_Auto-generated from the dataset on 2026-10-19._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,261** |
+| Total companies | **21,262** |
 | 🦄 Unicorns ($1B+) | **158** |
 | 💰 Exits | **2798** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-10-18._
 
 | Source | Companies |
 |---|---|
-| yc | 6,306 |
+| yc | 6,307 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-10-18._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1445
 2025  ████████████████████░░░░░░░░ 1045
-2026  ████████████████░░░░░░░░░░░░ 875
+2026  ████████████████░░░░░░░░░░░░ 876
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6
 ```
 
@@ -102,30 +102,30 @@ _Auto-generated from the dataset on 2026-10-18._
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 2494
-2. **Artificial intelligence and machine learning** — 1510
-3. **SaaS** — 1431
-4. **Mobile** — 1141
-5. **Consumer** — 1068
-6. **Artificial Intelligence** — 1054
-7. **AI** — 923
-8. **Healthcare** — 825
-9. **Developer Tools** — 728
-10. **Infrastructure** — 716
-11. **Health** — 663
-12. **Industrials** — 659
-13. **Engineering, Product and Design** — 629
-14. **Insurtech** — 513
-15. **B2B Software** — 501
-16. **Deeptech** — 489
-17. **Brand & Retail** — 474
-18. **Healthtech** — 440
-19. **Energy** — 433
-20. **Mobility & Physical AI** — 409
+1. **Fintech** — 2495
+2. **AI** — 1818
+3. **Artificial intelligence and machine learning** — 1510
+4. **SaaS** — 1430
+5. **Mobile** — 1141
+6. **Consumer** — 1068
+7. **Healthcare** — 825
+8. **Developer Tools** — 729
+9. **Infrastructure** — 717
+10. **Health** — 663
+11. **Industrials** — 659
+12. **Engineering, Product and Design** — 629
+13. **Insurtech** — 513
+14. **B2B Software** — 502
+15. **Deeptech** — 489
+16. **Brand & Retail** — 474
+17. **Healthtech** — 440
+18. **Energy** — 433
+19. **Mobility & Physical AI** — 409
+20. **Supply Chain** — 406
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4688
+2. **United States of America** — 4687
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -133,32 +133,32 @@ _Auto-generated from the dataset on 2026-10-18._
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
 9. **United Kingdom** — 222
-10. **Canada** — 215
-11. **India** — 212
+10. **Canada** — 217
+11. **India** — 213
 12. **Latin America** — 163
 13. **Middle East** — 159
-14. **Unspecified** — 120
+14. **Unspecified** — 119
 15. **North Asia** — 110
 16. **Africa** — 107
 17. **Southeast Asia** — 93
-18. **France** — 79
+18. **France** — 78
 19. **Mexico** — 78
 20. **Oceania** — 73
-21. **Remote** — 73
-22. **Germany** — 73
+21. **Germany** — 73
+22. **Remote** — 72
 23. **Brazil** — 69
 24. **Singapore** — 49
 25. **Nigeria** — 46
 26. **Israel** — 35
 27. **Indonesia** — 30
-28. **Colombia** — 28
-29. **Spain** — 20
+28. **Colombia** — 29
+29. **Spain** — 21
 30. **Sweden** — 20
 31. **Argentina** — 19
-32. **Australia** — 18
-33. **Chile** — 17
-34. **Netherlands** — 16
-35. **United Arab Emirates** — 16
+32. **Australia** — 17
+33. **United Arab Emirates** — 17
+34. **Chile** — 17
+35. **Netherlands** — 16
 36. **Denmark** — 14
 37. **Switzerland** — 14
 38. **South Korea** — 13

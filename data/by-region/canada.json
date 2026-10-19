@@ -687,9 +687,9 @@
     "subregion": "",
     "tags": [
       "Marketing",
-      "Artificial Intelligence",
       "Augmented Reality",
-      "Computer Vision"
+      "Computer Vision",
+      "AI"
     ],
     "year": 2015,
     "program": "YC Winter 2015",
@@ -1328,7 +1328,7 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2017,
     "program": "YC Summer 2017",
@@ -1493,9 +1493,9 @@
     "tags": [
       "Real Estate and Construction",
       "Housing and Real Estate",
-      "Artificial Intelligence",
       "Fintech",
-      "Real Estate"
+      "Real Estate",
+      "AI"
     ],
     "year": 2018,
     "program": "YC Winter 2018",
@@ -1526,9 +1526,9 @@
     "subregion": "",
     "tags": [
       "Recruiting and Talent",
-      "Artificial Intelligence",
       "Education",
-      "Income Share Agreements"
+      "Income Share Agreements",
+      "AI"
     ],
     "year": 2018,
     "program": "YC Winter 2018",
@@ -2244,8 +2244,8 @@
     "tags": [
       "Industrials",
       "Climate",
-      "Artificial Intelligence",
-      "Mining"
+      "Mining",
+      "AI"
     ],
     "year": 2020,
     "program": "YC Winter 2020",
@@ -2276,10 +2276,10 @@
     "subregion": "",
     "tags": [
       "Marketing",
-      "Artificial Intelligence",
       "Marketplace",
       "Computer Vision",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "year": 2020,
     "program": "YC Winter 2020",
@@ -2791,11 +2791,11 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
       "Computer Vision",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "year": 2021,
     "program": "YC Winter 2021",
@@ -2861,7 +2861,7 @@
     "tags": [
       "Fintech",
       "Credit and Lending",
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2021,
     "program": "YC Winter 2021",
@@ -3119,9 +3119,9 @@
     "region": "Canada",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "year": 2021,
     "program": "YC Summer 2021",
@@ -3152,9 +3152,9 @@
     "subregion": "",
     "tags": [
       "Analytics",
-      "Artificial Intelligence",
       "SaaS",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "year": 2021,
     "program": "YC Summer 2021",
@@ -3374,9 +3374,9 @@
     "subregion": "",
     "tags": [
       "Finance and Accounting",
-      "Artificial Intelligence",
       "Fintech",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "year": 2021,
     "program": "YC Summer 2021",
@@ -3540,9 +3540,9 @@
     "tags": [
       "Real Estate and Construction",
       "Construction",
-      "Artificial Intelligence",
       "Real Estate",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "year": 2022,
     "program": "YC Winter 2022",
@@ -3736,8 +3736,8 @@
     "tags": [
       "Fintech",
       "Insurance",
-      "Artificial Intelligence",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "year": 2022,
     "program": "YC Winter 2022",
@@ -4066,8 +4066,8 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "SaaS",
+      "AI",
       "Automotive"
     ],
     "year": 2022,
@@ -4396,7 +4396,6 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
       "Design Tools",
       "AI"
@@ -4464,8 +4463,8 @@
     "region": "Canada",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
+      "AI",
       "AI Assistant"
     ],
     "year": 2024,
@@ -4497,9 +4496,9 @@
     "subregion": "",
     "tags": [
       "Legal",
-      "Artificial Intelligence",
       "Workflow Automation",
       "LegalTech",
+      "AI",
       "AI Assistant"
     ],
     "year": 2024,
@@ -4661,7 +4660,6 @@
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Artificial Intelligence",
       "Machine Learning",
       "AI"
     ],
@@ -4857,12 +4855,71 @@
     "region": "Canada",
     "subregion": "",
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
     "programSlugs": [
       "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Klarify",
+    "description": "AI Agent for Therapists",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b1e276eff7f94fc1f97bb94df15769f7ec1b4fef.png",
+    "website": "https://www.klarify.ca/",
+    "location": "Toronto, ON, Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Arga Labs",
+    "description": "Real-world sandboxes to test and train AI agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
+    "website": "https://www.argalabs.com/",
+    "location": "Vancouver, BC, Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -4923,11 +4980,11 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Semiconductors",
-      "Electronics"
+      "Electronics",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -4958,9 +5015,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Artificial Intelligence",
       "Crypto / Web3",
-      "Consumer Products"
+      "Consumer Products",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
