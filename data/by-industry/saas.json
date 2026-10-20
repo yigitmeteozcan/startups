@@ -28474,7 +28474,7 @@
   {
     "source": "yc",
     "name": "Complif",
-    "description": "Compliance tools & AI agents for financial companies",
+    "description": "Compliance tools & AI agents for financial entities",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b058ab2c92aef24a0255569d8cf05427ba59231c.png",
     "website": "https://complif.com",
     "location": "Buenos Aires, CABA, Argentina",
@@ -28482,7 +28482,6 @@
     "subregion": "",
     "tags": [
       "Operations",
-      "Fintech",
       "SaaS",
       "Compliance",
       "Regtech"
@@ -42736,16 +42735,16 @@
   {
     "source": "yc",
     "name": "o11",
-    "description": "AI account managers for consumer/self-serve apps",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
+    "description": "OpenRouter wallet for paid goods and services",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/34cf69944142b4ae981a790f75fe9293d52369a2.png",
     "website": "https://o11.ai",
-    "location": "New York City, NY, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Sales",
+      "Developer Tools",
+      "Fintech",
       "SaaS",
-      "Customer Success",
       "AI"
     ],
     "year": 2026,
@@ -44002,6 +44001,40 @@
     "tags": [
       "Deep Learning",
       "SaaS"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Kairos Health",
+    "description": "AI front desk that fills every chair for dental practices",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2d10a5b9186b6b90521d447c81f5fffdf97d2c25.png",
+    "website": "https://kairoshealthai.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Healthcare IT",
+      "SaaS",
+      "Health Tech",
+      "Conversational AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -48509,19 +48542,18 @@
   },
   {
     "source": "500",
-    "name": "Plerk",
-    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
-    "website": "https://plerk.com",
+    "name": "GoSpotCheck",
+    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
+    "website": "https://gospotcheck.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech",
-      "Marketplace",
+      "No Code",
       "SaaS"
     ],
-    "year": 2021,
+    "year": 2011,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -48532,23 +48564,28 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Miguel Medina",
+        "name": "Bart Ciak",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "José Antonio Martínez Quintero",
+        "name": "Joseph Alfano",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Angel Arias",
+        "name": "Matt Talbot",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Samantha Holloway",
         "role": "",
         "linkedin": ""
       }
     ],
     "social": {
-      "linkedin": "https://www.linkedin.com/company/plerk/",
+      "linkedin": "",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -48604,18 +48641,19 @@
   },
   {
     "source": "500",
-    "name": "GoSpotCheck",
-    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
-    "website": "https://gospotcheck.com",
+    "name": "Plerk",
+    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
+    "website": "https://plerk.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "No Code",
+      "FinTech",
+      "Marketplace",
       "SaaS"
     ],
-    "year": 2011,
+    "year": 2021,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -48626,28 +48664,23 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Bart Ciak",
+        "name": "Miguel Medina",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Joseph Alfano",
+        "name": "José Antonio Martínez Quintero",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Matt Talbot",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Samantha Holloway",
+        "name": "Angel Arias",
         "role": "",
         "linkedin": ""
       }
     ],
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/plerk/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
