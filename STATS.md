@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-20._
+_Auto-generated from the dataset on 2026-10-21._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,266** |
+| Total companies | **21,275** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2797** |
+| 💰 Exits | **2798** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-10-20._
 
 | Source | Companies |
 |---|---|
-| yc | 6,311 |
+| yc | 6,320 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -45,8 +45,8 @@ _Auto-generated from the dataset on 2026-10-20._
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1445
-2025  ████████████████████░░░░░░░░ 1045
-2026  █████████████████░░░░░░░░░░░ 880
+2025  ████████████████████░░░░░░░░ 1044
+2026  █████████████████░░░░░░░░░░░ 890
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6
 ```
 
@@ -98,22 +98,22 @@ _Auto-generated from the dataset on 2026-10-20._
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
 13. **YC Summer 2022** — 233
-14. **YC Summer 2026** — 230
+14. **YC Summer 2026** — 231
 15. **YC Winter 2020** — 229
 
 ## Top industries
 1. **Fintech** — 2495
-2. **AI** — 1822
+2. **AI** — 1829
 3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1431
+4. **SaaS** — 1432
 5. **Mobile** — 1141
-6. **Consumer** — 1069
-7. **Healthcare** — 826
-8. **Developer Tools** — 732
-9. **Infrastructure** — 717
+6. **Consumer** — 1070
+7. **Healthcare** — 827
+8. **Developer Tools** — 733
+9. **Infrastructure** — 718
 10. **Health** — 663
 11. **Industrials** — 662
-12. **Engineering, Product and Design** — 630
+12. **Engineering, Product and Design** — 633
 13. **Insurtech** — 513
 14. **B2B Software** — 502
 15. **Deeptech** — 489
@@ -121,11 +121,11 @@ _Auto-generated from the dataset on 2026-10-20._
 17. **Healthtech** — 440
 18. **Energy** — 434
 19. **Mobility & Physical AI** — 409
-20. **Supply Chain** — 405
+20. **Supply Chain** — 404
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4691
+2. **United States of America** — 4699
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -159,8 +159,8 @@ _Auto-generated from the dataset on 2026-10-20._
 33. **United Arab Emirates** — 17
 34. **Chile** — 17
 35. **Netherlands** — 16
-36. **Denmark** — 14
-37. **Switzerland** — 14
+36. **Switzerland** — 15
+37. **Denmark** — 14
 38. **South Korea** — 13
 39. **Egypt** — 13
 40. **Australia & NZ** — 13

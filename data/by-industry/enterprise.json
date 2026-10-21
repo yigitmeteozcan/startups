@@ -2626,6 +2626,40 @@
   },
   {
     "source": "yc",
+    "name": "Nowadays",
+    "description": "AI-native platform for corporate meetings and events",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6a04edfc3d5a9b0bb3ae585010c50f7f39fdc2a1.png",
+    "website": "http://nowadays.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Operations",
+      "Travel",
+      "Logistics",
+      "Enterprise",
+      "AI"
+    ],
+    "year": 2023,
+    "program": "YC Summer 2023",
+    "programSlugs": [
+      "yc-summer-2023"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Autotab",
     "description": "AI agents reliable enough to do real work",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4967676cdc6058f952822347fafe9d59a61218fb.png",
@@ -4477,6 +4511,55 @@
   },
   {
     "source": "500",
+    "name": "Obie",
+    "description": "Provider of a Slackbot platform created for team collaboration and on boarding. The company's platform provides a web virtual assistant to help teams collaborate and make faster decisions, enabling them to be informed of team members and save time and effort in decision making.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/1e4034e2-6150-42eb-bf49-e371094be922.png",
+    "website": "https://obie.ai",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "AI/Machine Learning",
+      "Enterprise"
+    ],
+    "year": 2017,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alexander Sopinka",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Chris Buttenham",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ravinda Seunath",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
     "name": "Avocode",
     "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
     "logo": "",
@@ -4528,55 +4611,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Obie",
-    "description": "Provider of a Slackbot platform created for team collaboration and on boarding. The company's platform provides a web virtual assistant to help teams collaborate and make faster decisions, enabling them to be informed of team members and save time and effort in decision making.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/1e4034e2-6150-42eb-bf49-e371094be922.png",
-    "website": "https://obie.ai",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "AI/Machine Learning",
-      "Enterprise"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alexander Sopinka",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Chris Buttenham",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ravinda Seunath",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
     }
   }
 ]
