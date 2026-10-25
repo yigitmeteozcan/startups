@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-24._
+_Auto-generated from the dataset on 2026-10-25._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,292** |
+| Total companies | **21,293** |
 | 🦄 Unicorns ($1B+) | **160** |
 | 💰 Exits | **2798** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-10-24._
 
 | Source | Companies |
 |---|---|
-| yc | 6,335 |
+| yc | 6,336 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-10-24._
 2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1445
 2025  ████████████████████░░░░░░░░ 1044
-2026  █████████████████░░░░░░░░░░░ 903
+2026  █████████████████░░░░░░░░░░░ 904
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6
 ```
 
@@ -98,17 +98,17 @@ _Auto-generated from the dataset on 2026-10-24._
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
 13. **YC Summer 2022** — 233
-14. **YC Summer 2026** — 230
-15. **YC Winter 2020** — 229
+14. **YC Winter 2020** — 229
+15. **YC Summer 2026** — 229
 
 ## Top industries
 1. **Fintech** — 2498
-2. **AI** — 1839
+2. **AI** — 1840
 3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1431
+4. **SaaS** — 1430
 5. **Mobile** — 1141
-6. **Consumer** — 1070
-7. **Healthcare** — 827
+6. **Consumer** — 1069
+7. **Healthcare** — 829
 8. **Developer Tools** — 736
 9. **Infrastructure** — 722
 10. **Industrials** — 671
@@ -132,12 +132,12 @@ _Auto-generated from the dataset on 2026-10-24._
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 222
+9. **United Kingdom** — 223
 10. **Canada** — 217
 11. **India** — 213
 12. **Latin America** — 163
 13. **Middle East** — 159
-14. **Unspecified** — 119
+14. **Unspecified** — 120
 15. **North Asia** — 110
 16. **Africa** — 107
 17. **Southeast Asia** — 93
@@ -199,25 +199,25 @@ _Auto-generated from the dataset on 2026-10-24._
 73. **Romania** — 2
 74. **Bulgaria** — 2
 75. **Georgia** — 2
-76. **Costa Rica** — 2
-77. **Jordan** — 2
-78. **Thailand** — 1
-79. **Nepal** — 1
-80. **Bangladesh** — 1
-81. **Russia** — 1
-82. **Hungary** — 1
-83. **Latvia** — 1
-84. **Puerto Rico** — 1
-85. **Iceland** — 1
-86. **Iraq** — 1
-87. **Kyrgyzstan** — 1
-88. **Tanzania** — 1
-89. **Algeria** — 1
-90. **Lithuania** — 1
-91. **Ivory Coast** — 1
-92. **Zambia** — 1
-93. **Ecuador** — 1
-94. **Cyprus** — 1
+76. **Jordan** — 2
+77. **Thailand** — 1
+78. **Nepal** — 1
+79. **Bangladesh** — 1
+80. **Russia** — 1
+81. **Hungary** — 1
+82. **Latvia** — 1
+83. **Puerto Rico** — 1
+84. **Iceland** — 1
+85. **Iraq** — 1
+86. **Kyrgyzstan** — 1
+87. **Tanzania** — 1
+88. **Algeria** — 1
+89. **Lithuania** — 1
+90. **Ivory Coast** — 1
+91. **Zambia** — 1
+92. **Ecuador** — 1
+93. **Cyprus** — 1
+94. **Costa Rica** — 1
 95. **Uganda** — 1
 96. **Bahrain** — 1
 97. **Venezuela** — 1
