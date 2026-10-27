@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-26._
+_Auto-generated from the dataset on 2026-10-27._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,281** |
+| Total companies | **21,324** |
 | 🦄 Unicorns ($1B+) | **160** |
 | 💰 Exits | **2798** |
 | 🌱 B Corps | **29** |
@@ -14,13 +14,13 @@ _Auto-generated from the dataset on 2026-10-26._
 
 | Source | Companies |
 |---|---|
-| yc | 6,337 |
+| yc | 6,341 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
-| antler | 1,081 |
+| antler | 1,078 |
+| ef | 541 |
 | alchemist | 510 |
-| ef | 499 |
 
 ## Companies by first session year
 
@@ -34,19 +34,19 @@ _Auto-generated from the dataset on 2026-10-26._
 2011  █████░░░░░░░░░░░░░░░░░░░░░░░ 253
 2012  ███████░░░░░░░░░░░░░░░░░░░░░ 361
 2013  ██████░░░░░░░░░░░░░░░░░░░░░░ 340
-2014  █████████░░░░░░░░░░░░░░░░░░░ 470
-2015  █████████████░░░░░░░░░░░░░░░ 683
+2014  █████████░░░░░░░░░░░░░░░░░░░ 469
+2015  █████████████░░░░░░░░░░░░░░░ 682
 2016  ██████████████░░░░░░░░░░░░░░ 724
-2017  ███████████████░░░░░░░░░░░░░ 815
-2018  ████████████████░░░░░░░░░░░░ 861
-2019  ███████████████████░░░░░░░░░ 1028
-2020  ████████████████████░░░░░░░░ 1052
-2021  ██████████████████████████░░ 1381
+2017  ███████████████░░░░░░░░░░░░░ 816
+2018  ████████████████░░░░░░░░░░░░ 863
+2019  ███████████████████░░░░░░░░░ 1030
+2020  ████████████████████░░░░░░░░ 1059
+2021  ██████████████████████████░░ 1383
 2022  ███████████████████████████░ 1456
-2023  ████████████████████████████ 1493
-2024  ███████████████████████████░ 1445
+2023  ████████████████████████████ 1494
+2024  ███████████████████████████░ 1450
 2025  ████████████████████░░░░░░░░ 1044
-2026  █████████████████░░░░░░░░░░░ 904
+2026  █████████████████░░░░░░░░░░░ 932
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7
 ```
 
@@ -87,8 +87,8 @@ _Auto-generated from the dataset on 2026-10-26._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1401
-3. **Antler** — 1081
-4. **Entrepreneur First** — 499
+3. **Antler** — 1078
+4. **Entrepreneur First** — 541
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 391
 7. **YC Winter 2021** — 335
@@ -102,18 +102,18 @@ _Auto-generated from the dataset on 2026-10-26._
 15. **YC Summer 2026** — 229
 
 ## Top industries
-1. **Fintech** — 2630
-2. **AI** — 1840
+1. **Fintech** — 2631
+2. **AI** — 1843
 3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1430
+4. **SaaS** — 1429
 5. **Mobile** — 1141
-6. **Consumer** — 1070
+6. **Consumer** — 1068
 7. **Healthcare** — 829
-8. **Developer Tools** — 737
-9. **Infrastructure** — 723
+8. **Developer Tools** — 739
+9. **Infrastructure** — 724
 10. **Health** — 663
 11. **Industrials** — 657
-12. **Engineering, Product and Design** — 632
+12. **Engineering, Product and Design** — 631
 13. **Insurtech** — 513
 14. **Deeptech** — 489
 15. **Brand & Retail** — 474
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-10-26._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4712
+2. **United States of America** — 4717
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -159,9 +159,9 @@ _Auto-generated from the dataset on 2026-10-26._
 33. **United Arab Emirates** — 17
 34. **Chile** — 17
 35. **Netherlands** — 16
-36. **Switzerland** — 15
-37. **South Korea** — 14
-38. **Denmark** — 14
+36. **South Korea** — 14
+37. **Denmark** — 14
+38. **Switzerland** — 14
 39. **Egypt** — 13
 40. **Australia & NZ** — 13
 41. **Pakistan** — 11

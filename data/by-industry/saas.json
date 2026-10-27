@@ -32090,39 +32090,6 @@
   },
   {
     "source": "yc",
-    "name": "Latent Space",
-    "description": "Applied AI for The Emerging Economies",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6c0b56165e84e87a8ef9fc8ec4eddc18beadea9d.png",
-    "website": "https://latentspace.sh/",
-    "location": "Jakarta, Jakarta, Indonesia",
-    "region": "Indonesia",
-    "subregion": "",
-    "tags": [
-      "Consumer",
-      "SaaS",
-      "Workflow Automation",
-      "AI"
-    ],
-    "year": 2022,
-    "program": "YC Summer 2022",
-    "programSlugs": [
-      "yc-summer-2022"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Diversion",
     "description": "A scalable, cloud-native Perforce and Git alternative",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3cca9dfc5d45583f86876ecd0b8110e7412ab6cd.png",
@@ -42380,7 +42347,7 @@
     "source": "yc",
     "name": "Aside",
     "description": "The browser built to do real work for you",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/433466322b82d033544acff5354641108752eb11.png",
     "website": "https://aside.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -48414,20 +48381,20 @@
   },
   {
     "source": "500",
-    "name": "WhoAPI",
-    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
-    "website": "https://whoapi.com",
+    "name": "Plerk",
+    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
+    "website": "https://plerk.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Cybersecurity",
-      "DevOps",
+      "FinTech",
+      "Marketplace",
       "SaaS"
     ],
-    "year": 2012,
-    "program": "GA 5",
+    "year": 2021,
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -48437,18 +48404,23 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Edi Budimilic",
+        "name": "Miguel Medina",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Goran Duskic",
+        "name": "José Antonio Martínez Quintero",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Angel Arias",
         "role": "",
         "linkedin": ""
       }
     ],
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/plerk/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -48504,56 +48476,6 @@
     ],
     "social": {
       "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Plerk",
-    "description": "Plerk is the only all-in-one employee benefits platform in Mexico.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28962bff-ac82-401c-b82c-a19e55de6023.png",
-    "website": "https://plerk.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "Marketplace",
-      "SaaS"
-    ],
-    "year": 2021,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Miguel Medina",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "José Antonio Martínez Quintero",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Angel Arias",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/company/plerk/",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -48646,6 +48568,51 @@
       },
       {
         "name": "Samantha Holloway",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "WhoAPI",
+    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
+    "website": "https://whoapi.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Cybersecurity",
+      "DevOps",
+      "SaaS"
+    ],
+    "year": 2012,
+    "program": "GA 5",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Edi Budimilic",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Goran Duskic",
         "role": "",
         "linkedin": ""
       }
