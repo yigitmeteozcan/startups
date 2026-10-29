@@ -28931,7 +28931,9 @@
       "Consumer",
       "Home and Personal",
       "Civic Tech",
-      "GovTech"
+      "GovTech",
+      "Legal",
+      "LegalTech"
     ],
     "year": 2016,
     "program": "YC Summer 2016",
@@ -32981,6 +32983,38 @@
   },
   {
     "source": "yc",
+    "name": "BIOS Health",
+    "description": "Neural interfaces to understand and use nerve data in medicine.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fbf627d263e3eeaa10ca6fef671ae57e191e51f1.png",
+    "website": "https://www.bios.health",
+    "location": "Boston, MA, USA; England, United Kingdom",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Neurotechnology",
+      "AI"
+    ],
+    "year": 2017,
+    "program": "YC Winter 2017",
+    "programSlugs": [
+      "yc-winter-2017"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "ZipX",
     "description": "We allow anyone in South East Asia to instantly order any product…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ac1a9b419c6e0296d9979a3dfcc7b192613d95ea.png",
@@ -34895,7 +34929,7 @@
     "description": "Build better banking",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0c27234ed03e90c2a18c23ce1e2d6616a17be34b.png",
     "website": "https://prelim.com/",
-    "location": "San Francisco, CA, USA; Remote",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -56852,38 +56886,6 @@
   },
   {
     "source": "yc",
-    "name": "Jet Admin",
-    "description": "No-code business app builder",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/36f3d929390edbb2302940824ff50512f48f5516.png",
-    "website": "https://jetadmin.io",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design",
-      "Developer Tools",
-      "SaaS"
-    ],
-    "year": 2020,
-    "program": "YC Winter 2020",
-    "programSlugs": [
-      "yc-winter-2020"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "Algen Biotechnologies",
     "description": "Using CRISPR to find treatments for cancer and inflammation",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/41218b0dee65a988940509b3fe258626c5137590.png",
@@ -69255,40 +69257,6 @@
       "Healthcare",
       "Synthetic Biology",
       "Biotech"
-    ],
-    "year": 2021,
-    "program": "YC Summer 2021",
-    "programSlugs": [
-      "yc-summer-2021"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "REPROSENT",
-    "description": "Activating an overlooked force in medicine - the patient.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70401adb14eed7e643c2ec631d7664fd02af2167.png",
-    "website": "http://www.reprosent.com",
-    "location": "San Francisco, CA, USA; Los Gatos, CA, USA; Remote",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Healthcare",
-      "Biometrics",
-      "Consumer Health Services",
-      "Digital Health",
-      "Oncology"
     ],
     "year": 2021,
     "program": "YC Summer 2021",
@@ -82704,6 +82672,40 @@
   },
   {
     "source": "yc",
+    "name": "Blitz",
+    "description": "Lovable for non-tech users: Build no-code internal and customer apps",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9319d5ef3419cc17f12a1fb2910035be736adcb4.png",
+    "website": "https://www.blitznocode.com/",
+    "location": "San Francisco, CA, USA; Remote",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Operations",
+      "SaaS",
+      "No-code",
+      "AI",
+      "Databases"
+    ],
+    "year": 2022,
+    "program": "YC Summer 2022",
+    "programSlugs": [
+      "yc-summer-2022"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "TrueBiz",
     "description": "Instant Background Checks for Businesses",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/744ba21703836aacf20f93a8ea2eaf05fdb4ad3f.png",
@@ -86364,8 +86366,8 @@
   {
     "source": "yc",
     "name": "Reflex",
-    "description": "The operating system for building mission-critical enterprise apps.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/677513c7f80f22199de3136c5024581799a126f2.png",
+    "description": "Build the software you wish existed.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05461488212f581f60c216b82f80d776deb1a034.png",
     "website": "https://reflex.dev",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -86660,7 +86662,7 @@
   {
     "source": "yc",
     "name": "Magic Patterns",
-    "description": "Go from idea to production with AI.",
+    "description": "The AI-native workspace to design your product.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/102836faf8c777a7201bce15ad9d99bab17c4a16.png",
     "website": "https://www.magicpatterns.com/",
     "location": "San Francisco, CA, USA",
@@ -98374,10 +98376,10 @@
   },
   {
     "source": "yc",
-    "name": "ion design",
-    "description": "AI Website platform that grows revenue automatically",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/19ac79a5dd7e79b8d3e0a7794a401a7673116ee9.png",
-    "website": "https://www.ion.design/",
+    "name": "Dynamite",
+    "description": "Personalize your website for every visitor in <300ms",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1bf2fc6194a1862420df400670318e816fb20b89.png",
+    "website": "https://usedynamite.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -105272,7 +105274,7 @@
   {
     "source": "yc",
     "name": "Cheers",
-    "description": "Win local search on ChatGPT & other LLMs",
+    "description": "Helping AI choose the best local business",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/319852b81dd897865aad034d9eccd66519d3b017.png",
     "website": "https://www.cheers.tech",
     "location": "San Francisco, CA, USA",
@@ -106190,7 +106192,7 @@
   {
     "source": "yc",
     "name": "Decisional AI",
-    "description": "AI Coworkers for Business Automation",
+    "description": "AI Agents for the Trades",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/41aabc8daca51e7697f6edfa19e6601f54841485.png",
     "website": "https://www.decisional.com/",
     "location": "San Francisco, CA, USA",
@@ -107246,7 +107248,7 @@
   {
     "source": "yc",
     "name": "LedgerUp",
-    "description": "AI agents that handles complex billing and revenue",
+    "description": "AI agents for manual Accounts Receivable",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7300af84eef84e88a5fc2a972bbf576cb517a4cb.png",
     "website": "https://ledgerup.ai/",
     "location": "San Francisco, CA, USA",
@@ -121074,7 +121076,7 @@
     "description": "Gearless robot joints for better embodied AI.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/298de1df0e98ea832138177668c9cea22705e3fb.png",
     "website": "https://www.vassarrobotics.com",
-    "location": "Los Angeles, CA, USA",
+    "location": "Boston, MA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -123709,7 +123711,7 @@
     "description": "Turn maps into data",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1ca14064cb81ecebe2c5dd03339d7a44f1e9320f.png",
     "website": "https://monarcha.ai",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -133434,7 +133436,7 @@
   {
     "source": "yc",
     "name": "Zatanna",
-    "description": "Turning all software into agent-first APIs",
+    "description": "Building the infrastructure for AI to interact with software",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d44e6f61cb5ed4a97d1177fa88df6f8b04c87366.png",
     "website": "https://www.zatanna.ai/",
     "location": "San Francisco, CA, USA",
@@ -138474,7 +138476,7 @@
   {
     "source": "yc",
     "name": "BayMachines",
-    "description": "Deployable compute for defense contractors",
+    "description": "Air-gapped compute for defense contractors",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70731d8a2f5b4d190c35770847f519b1ff172965.png",
     "website": "https://baymachines.com",
     "location": "San Francisco, CA, USA",
@@ -138820,6 +138822,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Finance and Accounting",
+      "Finance",
       "AI"
     ],
     "year": 2026,
@@ -139664,7 +139668,7 @@
     "description": "The fully autonomous intelligence layer in the sky.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
     "website": "https://degla.ai",
-    "location": "Boston, MA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -147889,25 +147893,22 @@
   },
   {
     "source": "yc",
-    "name": "Vernius Systems, Inc.",
-    "description": "Mass-deployable radars for air defense",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b6b4e6b2f945df4b3400a22fc1d287a788bc4215.png",
-    "website": "https://www.vernius.systems",
+    "name": "HillStar",
+    "description": "Agents to help utilities make better buying decisions.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b2a3199ea6bce97161125f2d12ceedf9cc1ecd2.png",
+    "website": "https://hillstar.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Industrials",
-      "Defense",
-      "Hard Tech",
-      "Drones",
-      "Radar",
-      "Aerospace"
+      "GovTech",
+      "Big Data",
+      "AI"
     ],
     "year": 2026,
-    "program": "YC Summer 2026",
+    "program": "YC Fall 2026",
     "programSlugs": [
-      "yc-summer-2026"
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -147924,19 +147925,20 @@
   },
   {
     "source": "yc",
-    "name": "OneCLI",
-    "description": "AI teammates for your business-critical work.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
-    "website": "https://onecli.sh",
+    "name": "Vernius Systems, Inc.",
+    "description": "Mass-deployable radars for air defense",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b6b4e6b2f945df4b3400a22fc1d287a788bc4215.png",
+    "website": "https://www.vernius.systems",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Productivity",
-      "AIOps",
-      "Workflow Automation",
-      "Open Source",
-      "AI"
+      "Industrials",
+      "Defense",
+      "Hard Tech",
+      "Drones",
+      "Radar",
+      "Aerospace"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -148812,7 +148814,7 @@
   {
     "source": "yc",
     "name": "Topos",
-    "description": "Agent swarms for formal verification",
+    "description": "Agent swarms",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/07dc8cbe943d3786ff88a0ef85951aa9f324ee98.png",
     "website": "https://www.toposlab.com",
     "location": "San Francisco, CA, USA",
@@ -149006,6 +149008,39 @@
   },
   {
     "source": "yc",
+    "name": "The Letter Company",
+    "description": "The world's first coding agent, harness, & IDE for growth engineering.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/52ab0840253398a6b68d120c27e1324adecaa262.png",
+    "website": "https://letter.dev",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "SaaS",
+      "Web Development"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Orgo",
     "description": "Computers for Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2e545998082b7c19d428d475144fca56ffb388bb.png",
@@ -149118,6 +149153,38 @@
     "tags": [
       "Government",
       "GovTech"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Cardinal Square",
+    "description": "AI-native schools",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/87a9ad77df8ff03bf6998f4f2007f263b31dbba5.png",
+    "website": "https://cardinalsquare.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Education",
+      "Consumer",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -149866,7 +149933,7 @@
     "name": "Helios Intelligence",
     "description": "At-home molecular body test: 1,000+ biomarkers from a drop of blood",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7dc9a239cf834c9434b809e9cda6ac12630153db.png",
-    "website": "https://www.heliosinc.ai/",
+    "website": "https://www.myhelios.com/",
     "location": "Boston, MA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -150635,7 +150702,7 @@
   {
     "source": "yc",
     "name": "Telamont",
-    "description": "Sentry for risks in construction documents",
+    "description": "Sentry for errors in construction documents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/91ca6e13f61dd82bb7d60aab67dcbaec5b7eab25.png",
     "website": "https://telamont.com",
     "location": "San Francisco, CA, USA",
@@ -150645,6 +150712,7 @@
       "Real Estate and Construction",
       "Construction",
       "Documents",
+      "Real Estate",
       "AI"
     ],
     "year": 2026,
