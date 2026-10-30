@@ -6595,8 +6595,7 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "Enterprise Software",
-      "Infrastructure",
+      "Consumer",
       "AI"
     ],
     "year": 2026,
@@ -7136,7 +7135,7 @@
   {
     "source": "yc",
     "name": "Sazabi",
-    "description": "The AI-native observability platform for fast-moving engineering teams",
+    "description": "AI-native observability and security platform",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2fca2808f8b0ea2f65302051164b0360bec51746.png",
     "website": "https://www.sazabi.com/",
     "location": "San Francisco, CA, USA",
@@ -7986,8 +7985,8 @@
   {
     "source": "yc",
     "name": "Turnstone",
-    "description": "Work with agents that already know you",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/83da57a5a7cd9d76b06d6dda92bb99843ca0edf1.png",
+    "description": "The best model-agnostic Grokbot alternative",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/de14bff48baddc020902509267a2e1597b7250ab.png",
     "website": "https://myturnstone.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -12703,7 +12702,7 @@
     "source": "yc",
     "name": "tday.com",
     "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c8df062c9a1b77cc6ec53fabfaa7f2f047434c52.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4a7b817f20e0bd6a303cd048f6bf9a5bbe395773.png",
     "website": "https://tday.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -13772,16 +13771,20 @@
   },
   {
     "source": "yc",
-    "name": "General Aviation",
+    "name": "General Aviation Company",
     "description": "Fixing air traffic control with remote towers",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0ea954602807b3490b23ce9d1c2e1a7490777284.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/db3595db32bc50ed7ead65d6f662bea977b6c455.png",
     "website": "https://generalaviation.com",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
-      "Aviation and Space"
+      "Aviation and Space",
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Aerospace"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -22093,6 +22096,37 @@
   },
   {
     "source": "yc",
+    "name": "ernd",
+    "description": "The credit card for companies that pay for AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0abccc9bf2a6589b531983e558b31a32246f63fb.png",
+    "website": "https://ernd.io/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "CoArena",
     "description": "The biggest crowdsourced benchmark for Computer-Use",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1543623e6506eaf893b1c43e614688a6b2a32bda.png",
@@ -22556,13 +22590,15 @@
     "description": "Discover novel defense related materials/molecules.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4c3f8543148c3a53ebe369d21ece622228018917.png",
     "website": "https://chempilot.ai/",
-    "location": "Haifa, Haifa District, Israel",
-    "region": "Israel",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
       "Defense",
-      "Machine Learning",
+      "Robotics",
+      "Workflow Automation",
+      "Aerospace",
       "Advanced Materials"
     ],
     "year": 2026,
@@ -22788,39 +22824,6 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "AI"
-    ],
-    "year": 2026,
-    "program": "YC Fall 2026",
-    "programSlugs": [
-      "yc-fall-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Faraday",
-    "description": "Agents running manufacturers from the back office to the shop floor",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
-    "website": "https://faradaycompute.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Industrials",
-      "Manufacturing",
-      "Enterprise Software",
       "AI"
     ],
     "year": 2026,
@@ -23573,7 +23576,7 @@
   {
     "source": "yc",
     "name": "Mirrors",
-    "description": "Give AI agents the right context at the right moment",
+    "description": "Fix recurring agent mistakes with real-time guidance",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "location": "San Francisco, CA, USA",
@@ -23583,7 +23586,7 @@
       "Engineering, Product and Design",
       "AIOps",
       "Developer Tools",
-      "SaaS",
+      "Infrastructure",
       "AI"
     ],
     "year": 2026,
@@ -23607,8 +23610,8 @@
   {
     "source": "yc",
     "name": "OpenCrawl",
-    "description": "Search infrastructure, built for your agents.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9596390d36aa4aa0fc71e53dba1dc5db18a89293.png",
+    "description": "High-performant hyper-personalized search indexes.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a4fa8d15d930712db8c5f88de73e777865076822.png",
     "website": "https://getopencrawl.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -23671,8 +23674,8 @@
   },
   {
     "source": "yc",
-    "name": "Bryel",
-    "description": "Building the next generation of visual perceptual intelligence",
+    "name": "Perceptual Labs",
+    "description": "Building the next generation of visual intelligence",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e4fc1c46193139a87be8a9d372f3ac8ccd413c42.png",
     "website": "https://www.bryel.ai/",
     "location": "San Francisco, CA, USA",
@@ -24001,15 +24004,16 @@
   },
   {
     "source": "yc",
-    "name": "sintem",
+    "name": "Raven",
     "description": "An agentic phone that does your busywork",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/754de4c0d947ee0ffec143a04381c7d7cdcc0667.png",
-    "website": "https://sintem.co",
+    "website": "https://ravenphone.com",
     "location": "BY, Germany",
     "region": "Germany",
     "subregion": "",
     "tags": [
-      "Infrastructure",
+      "Consumer",
+      "Consumer Electronics",
       "Telecommunications",
       "AI"
     ],
@@ -24080,7 +24084,7 @@
       "Consumer",
       "Hardware",
       "Neurotechnology",
-      "Big Data",
+      "Neuroinformatics",
       "AI"
     ],
     "year": 2026,
@@ -24535,6 +24539,38 @@
   },
   {
     "source": "yc",
+    "name": "Fleety",
+    "description": "Fleety is an AI dispatcher for plumbing and HVAC companies.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/db07ec09ef8192bbc52f5bc207031df3e5646dac.png",
+    "website": "https://usefleety.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "SaaS",
+      "Home Services",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "0.security",
     "description": "The autonomous cybersecurity team",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
@@ -24835,6 +24871,39 @@
   },
   {
     "source": "yc",
+    "name": "Routant",
+    "description": "Last mile deployment and connectivity for Agents as a Service",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/447dd9475c7b300e10d5e9da6bfeb6b3c50ed0d3.png",
+    "website": "https://routant.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "AIOps",
+      "Cybersecurity",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Telamont",
     "description": "Sentry for errors in construction documents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/91ca6e13f61dd82bb7d60aab67dcbaec5b7eab25.png",
@@ -24971,9 +25040,9 @@
   {
     "source": "yc",
     "name": "Polemos Industries",
-    "description": "AI-guided ballistic missiles, cheap enough to field in numbers that…",
+    "description": "AI-guided ballistic missiles, built for mass manufacturing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/52d6be23c1a08e2020010a26b5bd336554572d38.png",
-    "website": "https://lokberg.com/",
+    "website": "https://polemosindustries.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -25576,8 +25645,8 @@
       "Manufacturing and Robotics",
       "Cellular Agriculture",
       "Robotics",
+      "Manufacturing",
       "Agriculture",
-      "AI",
       "Biotechnology"
     ],
     "year": 2026,
@@ -26351,8 +26420,8 @@
   },
   {
     "source": "yc",
-    "name": "Volaren Inc.",
-    "description": "The investing agent that comes to you",
+    "name": "Volaren",
+    "description": "The personal investing agent that comes to you",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/be43cf0580fc71ee690f3408420f4280b5e3665f.png",
     "website": "https://www.volaren.ai",
     "location": "San Francisco, CA, USA",
@@ -27410,6 +27479,37 @@
       "Engineering, Product and Design",
       "Developer Tools",
       "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Jinko",
+    "description": "Travel Search & Booking Infrastructure for AI agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94899e15d10f620110f9390e865fcdb324fbce08.png",
+    "website": "https://gojinko.com",
+    "location": "Paris, Île-de-France, France",
+    "region": "France",
+    "subregion": "",
+    "tags": [
+      "Travel",
+      "APIs"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -31374,47 +31474,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Asterquanta Systems Inc.",
-    "description": "Semiconductor Design Automation enabled by AI",
-    "logo": "",
-    "website": "",
-    "location": "Toronto, ON, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Pradeep V Pydah**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Matthew Taylor**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Luce Labs",
     "description": "Physical AI for Plant Science",
     "logo": "",
@@ -31488,6 +31547,47 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Asterquanta Systems Inc.",
+    "description": "Semiconductor Design Automation enabled by AI",
+    "logo": "",
+    "website": "",
+    "location": "Toronto, ON, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Pradeep V Pydah**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Matthew Taylor**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
     }
   }
 ]

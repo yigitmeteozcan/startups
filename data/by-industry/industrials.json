@@ -13804,7 +13804,7 @@
   {
     "source": "yc",
     "name": "Almond",
-    "description": "A dual-arm robot built for physical AI.",
+    "description": "America's robot factory",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png",
     "website": "https://almond.bot/",
     "location": "San Francisco, CA, USA",
@@ -17118,16 +17118,20 @@
   },
   {
     "source": "yc",
-    "name": "General Aviation",
+    "name": "General Aviation Company",
     "description": "Fixing air traffic control with remote towers",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0ea954602807b3490b23ce9d1c2e1a7490777284.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/db3595db32bc50ed7ead65d6f662bea977b6c455.png",
     "website": "https://generalaviation.com",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
-      "Aviation and Space"
+      "Aviation and Space",
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Aerospace"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -18989,13 +18993,15 @@
     "description": "Discover novel defense related materials/molecules.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4c3f8543148c3a53ebe369d21ece622228018917.png",
     "website": "https://chempilot.ai/",
-    "location": "Haifa, Haifa District, Israel",
-    "region": "Israel",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
       "Defense",
-      "Machine Learning",
+      "Robotics",
+      "Workflow Automation",
+      "Aerospace",
       "Advanced Materials"
     ],
     "year": 2026,
@@ -19028,39 +19034,6 @@
     "tags": [
       "Industrials",
       "Swarm AI",
-      "AI"
-    ],
-    "year": 2026,
-    "program": "YC Fall 2026",
-    "programSlugs": [
-      "yc-fall-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "Faraday",
-    "description": "Agents running manufacturers from the back office to the shop floor",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
-    "website": "https://faradaycompute.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Industrials",
-      "Manufacturing",
-      "Enterprise Software",
       "AI"
     ],
     "year": 2026,
@@ -19804,9 +19777,9 @@
   {
     "source": "yc",
     "name": "Polemos Industries",
-    "description": "AI-guided ballistic missiles, cheap enough to field in numbers that…",
+    "description": "AI-guided ballistic missiles, built for mass manufacturing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/52d6be23c1a08e2020010a26b5bd336554572d38.png",
-    "website": "https://lokberg.com/",
+    "website": "https://polemosindustries.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -19915,8 +19888,8 @@
       "Manufacturing and Robotics",
       "Cellular Agriculture",
       "Robotics",
+      "Manufacturing",
       "Agriculture",
-      "AI",
       "Biotechnology"
     ],
     "year": 2026,
@@ -20331,6 +20304,41 @@
     "program": "YC Fall 2026",
     "programSlugs": [
       "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Nuum Robotics",
+    "description": "Snake-like robots for maintenance inside machinery.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a4f040d2ad978975fb53388fe8a75b43530b417d.png",
+    "website": "https://nuumrobotics.com/",
+    "location": "Waterloo, ON, Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Robotics",
+      "Energy",
+      "Aerospace",
+      "Automation"
+    ],
+    "year": 2027,
+    "program": "YC Winter 2027",
+    "programSlugs": [
+      "yc-winter-2027"
     ],
     "isExit": false,
     "isUnicorn": false,
