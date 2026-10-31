@@ -234,7 +234,7 @@
     "name": "PipelineDB",
     "description": "Open-source time-series data analytics extension for PostgreSQL",
     "logo": "/company/thumb/missing.png",
-    "website": "http://www.pipelinedb.com",
+    "website": "",
     "location": "Los Angeles, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -765,7 +765,7 @@
     "name": "Data Mechanics",
     "description": "Spark-on-Kubernetes Data Engineering Platform",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/041cd41aaf413fd601a958566433246e70084357.png",
-    "website": "https://www.datamechanics.co",
+    "website": "",
     "location": "Paris, Île-de-France, France",
     "region": "France",
     "subregion": "",
@@ -864,7 +864,7 @@
     "name": "Tensil",
     "description": "We turn machine learning models into custom hardware.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3aefe6d1c4f47d9ef26a3296e1724c3efe9bd5ac.png",
-    "website": "https://www.tensil.ai",
+    "website": "",
     "location": "San Francisco, CA, USA; Remote",
     "region": "United States of America",
     "subregion": "",
@@ -5628,6 +5628,38 @@
     "program": "YC Summer 2026",
     "programSlugs": [
       "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Limnion",
+    "description": "Telemetry storage for the agentic era.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/717af69f91680aebaf844c3d21687d8e728c80c2.png",
+    "website": "https://limnion.ai",
+    "location": "Seattle, WA, USA; Remote",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Open Source",
+      "Databases"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,

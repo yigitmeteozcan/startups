@@ -68,7 +68,7 @@
     "name": "Automatic",
     "description": "Automatic connects your car to the rest of your digital life.",
     "logo": "/company/thumb/missing.png",
-    "website": "http://automatic.com",
+    "website": "",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -301,7 +301,7 @@
     "name": "Starsky Robotics",
     "description": "Driverless Trucks, for real.",
     "logo": "/company/thumb/missing.png",
-    "website": "https://www.starsky.io/",
+    "website": "",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -534,7 +534,7 @@
     "name": "Passenger AI",
     "description": "Software for robotaxi operations.",
     "logo": "/company/thumb/missing.png",
-    "website": "http://www.passenger.ai",
+    "website": "",
     "location": "Toronto, ON, Canada",
     "region": "Canada",
     "subregion": "",
@@ -666,7 +666,7 @@
     "name": "Nimbus",
     "description": "Tesla for city dwellers ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0f0f6120a4f5d5eec591fab3383980fccd539e54.png",
-    "website": "http://www.nimbus.green",
+    "website": "",
     "location": "Ann Arbor, MI, USA",
     "region": "United States of America",
     "subregion": "",
@@ -1004,7 +1004,7 @@
   {
     "source": "yc",
     "name": "Cardinal Gray",
-    "description": "Automating lenders' interactions with the DMV",
+    "description": "Streamlined DMV lien filing for auto lenders",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dd23108e8186366e29a1827c228ceddd75097d20.png",
     "website": "https://www.cardinalgray.com/",
     "location": "New York City, NY, USA",
@@ -1354,6 +1354,38 @@
     "program": "YC Summer 2026",
     "programSlugs": [
       "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Bayworks",
+    "description": "Intelligence that runs Automotive Operations ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/55429f385c4236607558b3361f53a3e2676a6d8b.png",
+    "website": "https://bayworks.app",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Automotive",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
