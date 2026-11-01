@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-10-31._
+_Auto-generated from the dataset on 2026-11-01._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,345** |
+| Total companies | **21,348** |
 | 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2798** |
+| 💰 Exits | **2799** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-10-31._
 
 | Source | Companies |
 |---|---|
-| yc | 6,358 |
+| yc | 6,361 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
@@ -35,7 +35,7 @@ _Auto-generated from the dataset on 2026-10-31._
 2012  ███████░░░░░░░░░░░░░░░░░░░░░ 361
 2013  ██████░░░░░░░░░░░░░░░░░░░░░░ 340
 2014  █████████░░░░░░░░░░░░░░░░░░░ 469
-2015  █████████████░░░░░░░░░░░░░░░ 682
+2015  █████████████░░░░░░░░░░░░░░░ 683
 2016  ██████████████░░░░░░░░░░░░░░ 724
 2017  ███████████████░░░░░░░░░░░░░ 816
 2018  ████████████████░░░░░░░░░░░░ 863
@@ -43,11 +43,11 @@ _Auto-generated from the dataset on 2026-10-31._
 2020  ████████████████████░░░░░░░░ 1059
 2021  ██████████████████████████░░ 1382
 2022  ███████████████████████████░ 1456
-2023  ████████████████████████████ 1494
+2023  ████████████████████████████ 1493
 2024  ███████████████████████████░ 1451
-2025  ████████████████████░░░░░░░░ 1047
-2026  ██████████████████░░░░░░░░░░ 951
-2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8
+2025  ████████████████████░░░░░░░░ 1048
+2026  ██████████████████░░░░░░░░░░ 952
+2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9
 ```
 
 ## Top countries
@@ -103,7 +103,7 @@ _Auto-generated from the dataset on 2026-10-31._
 
 ## Top industries
 1. **Fintech** — 2634
-2. **AI** — 1853
+2. **AI** — 1854
 3. **Artificial intelligence and machine learning** — 1510
 4. **SaaS** — 1431
 5. **Mobile** — 1141
@@ -111,8 +111,8 @@ _Auto-generated from the dataset on 2026-10-31._
 7. **Healthcare** — 829
 8. **Developer Tools** — 741
 9. **Infrastructure** — 726
-10. **Health** — 663
-11. **Industrials** — 661
+10. **Industrials** — 663
+11. **Health** — 663
 12. **Engineering, Product and Design** — 633
 13. **Insurtech** — 513
 14. **Deeptech** — 489
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-10-31._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4734
+2. **United States of America** — 4736
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -133,7 +133,7 @@ _Auto-generated from the dataset on 2026-10-31._
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
 9. **United Kingdom** — 222
-10. **Canada** — 218
+10. **Canada** — 219
 11. **India** — 214
 12. **Latin America** — 163
 13. **Middle East** — 159
@@ -147,7 +147,7 @@ _Auto-generated from the dataset on 2026-10-31._
 21. **Oceania** — 73
 22. **Remote** — 71
 23. **Brazil** — 69
-24. **Singapore** — 49
+24. **Singapore** — 50
 25. **Nigeria** — 46
 26. **Israel** — 35
 27. **Indonesia** — 30
@@ -173,9 +173,9 @@ _Auto-generated from the dataset on 2026-10-31._
 47. **Peru** — 8
 48. **Hong Kong** — 7
 49. **Poland** — 7
-50. **Vietnam** — 7
-51. **China** — 6
-52. **Slovenia** — 6
+50. **China** — 6
+51. **Slovenia** — 6
+52. **Vietnam** — 6
 53. **Austria** — 5
 54. **Turkey** — 5
 55. **Panama** — 5
