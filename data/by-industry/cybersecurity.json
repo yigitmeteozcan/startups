@@ -5216,7 +5216,7 @@
   {
     "source": "yc",
     "name": "MindFort",
-    "description": "Autonomous Security Agents",
+    "description": "Autonomous Security Swarms",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
     "website": "https://mindfort.ai/?utm_source=ycombinator&utm_medium=referral&utm_campaign=yc",
     "location": "Los Angeles, CA, USA",
@@ -7277,6 +7277,49 @@
   },
   {
     "source": "500",
+    "name": "SafeShepherd",
+    "description": "Provider of services for people to protect their privacy. The company's website enables users to see, remove and protect their personal information from the Internet.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4508139c-9637-4bd5-8e81-cc7dbc750f97.png",
+    "website": "https://safeshepherd.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Cybersecurity"
+    ],
+    "year": 2011,
+    "program": "GA 3",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Geoffrey Hayes",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Robert Leshner",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "Nodal Industries",
     "description": "Developer of network security devices. The company provides plug n' play network security device which provides security from online threats.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/48a63815-425d-46e6-ab6f-f8e64d5ec427.png",
@@ -7364,63 +7407,18 @@
   },
   {
     "source": "500",
-    "name": "WhoAPI",
-    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
-    "website": "https://whoapi.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Cybersecurity",
-      "DevOps",
-      "SaaS"
-    ],
-    "year": 2012,
-    "program": "GA 5",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Edi Budimilic",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Goran Duskic",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "SafeShepherd",
-    "description": "Provider of services for people to protect their privacy. The company's website enables users to see, remove and protect their personal information from the Internet.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4508139c-9637-4bd5-8e81-cc7dbc750f97.png",
-    "website": "https://safeshepherd.com",
+    "name": "Apigy",
+    "description": "Provider of a virtual door locking application designed to unlock doors via remote control. The company's virtual door locking application fits over the lock control mechanism on the inside of a door, and the door can then be unlocked via an application on the phone or via web page control, enabling consumers to unlock doors without keys.",
+    "logo": "",
+    "website": "https://lockitron.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Cybersecurity"
     ],
-    "year": 2011,
-    "program": "GA 3",
+    "year": 2012,
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -7430,12 +7428,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Geoffrey Hayes",
+        "name": "Cameron Robertson",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Robert Leshner",
+        "name": "Paul Gerhardt",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Robert Witoff",
         "role": "",
         "linkedin": ""
       }
@@ -7492,18 +7495,20 @@
   },
   {
     "source": "500",
-    "name": "Apigy",
-    "description": "Provider of a virtual door locking application designed to unlock doors via remote control. The company's virtual door locking application fits over the lock control mechanism on the inside of a door, and the door can then be unlocked via an application on the phone or via web page control, enabling consumers to unlock doors without keys.",
-    "logo": "",
-    "website": "https://lockitron.com",
+    "name": "WhoAPI",
+    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
+    "website": "https://whoapi.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Cybersecurity"
+      "Cybersecurity",
+      "DevOps",
+      "SaaS"
     ],
     "year": 2012,
-    "program": "500 Global",
+    "program": "GA 5",
     "programSlugs": [
       "500"
     ],
@@ -7513,17 +7518,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Cameron Robertson",
+        "name": "Edi Budimilic",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Paul Gerhardt",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Robert Witoff",
+        "name": "Goran Duskic",
         "role": "",
         "linkedin": ""
       }

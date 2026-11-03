@@ -3921,7 +3921,7 @@
     "name": "Splashup",
     "description": "Splashup, formerly known as fauxto, is an online image editing service that provides some advanced tools and is unique for its incorporation of image editing layer effects. The site is still in beta, and so does not offer full editing capabilities yet.",
     "logo": "/company/thumb/missing.png",
-    "website": "http://splashup.com",
+    "website": "",
     "location": "",
     "region": "Unspecified",
     "subregion": "",
@@ -10567,7 +10567,7 @@
     "name": "Pursuit",
     "description": "Revlo helps broadcasters on Twitch engage and monetize their fan…",
     "logo": "/company/thumb/missing.png",
-    "website": "http://www.revlo.co",
+    "website": "",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -20035,7 +20035,7 @@
     "name": "Launcher Labs",
     "description": "Maker of consumer crypto apps: Launchcaster, Frameboard, Maindrop",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e56a52d50196a3fadf19519ee785a84f12b589b3.png",
-    "website": "http://launchcaster.xyz",
+    "website": "",
     "location": "Austin, TX, USA; Remote",
     "region": "United States of America",
     "subregion": "",
@@ -21517,6 +21517,38 @@
       "Ghost Kitchens",
       "E-commerce",
       "AI"
+    ],
+    "year": 2021,
+    "program": "YC Summer 2021",
+    "programSlugs": [
+      "yc-summer-2021"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Alrighty",
+    "description": "Email that only shows you what matters.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b4dd92fd129337a5cc1b3409b9d8bd4faa271160.png",
+    "website": "https://alrighty.me",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "AI",
+      "AI Assistant"
     ],
     "year": 2021,
     "program": "YC Summer 2021",
@@ -25361,8 +25393,8 @@
     "description": "Reimagining education with short form video and AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f8a08dbc0e0067d1983b3b85b2e3893f29d7f41f.png",
     "website": "https://www.pairai.com/",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "",
+    "region": "Unspecified",
     "subregion": "",
     "tags": [
       "Consumer",
@@ -29646,38 +29678,6 @@
       "Open Source",
       "Note-taking",
       "AI Assistant"
-    ],
-    "year": 2025,
-    "program": "YC Summer 2025",
-    "programSlugs": [
-      "yc-summer-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
-    "name": "VibeFlow",
-    "description": "AI content manager that grows your company's online presence",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5596537c1b7f7b2fdc729cd0da77e9c233f79180.png",
-    "website": "https://vibeflow.ai/",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools",
-      "Consumer",
-      "AI"
     ],
     "year": 2025,
     "program": "YC Summer 2025",
@@ -36098,6 +36098,49 @@
   },
   {
     "source": "500",
+    "name": "Clarity",
+    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
+    "website": "https://clarity.fm",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Consumer"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dan Martell",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike Wu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
     "name": "Rebaja Tus Cuentas",
     "description": "Developer of a mortgage purchase software designed to provide financial advisory services for mortgage debts. The company's software provides a form for basic information about the current mortgage credit, helps in finding good bidders with the financial institution to close the terms of the transfer of the mortgage, enabling users to avail mortgage debt purchase without any hassle.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a433923-6059-4e38-9d1a-1c4710fb1007.png",
@@ -36139,49 +36182,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Clarity",
-    "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
-    "website": "https://clarity.fm",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Consumer"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dan Martell",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mike Wu",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
     }
   },
   {
