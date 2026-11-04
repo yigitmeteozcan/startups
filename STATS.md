@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-03._
+_Auto-generated from the dataset on 2026-11-04._
 
 | Metric | Count |
 |---|---|
 | Total companies | **21,352** |
 | 🦄 Unicorns ($1B+) | **156** |
-| 💰 Exits | **2799** |
+| 💰 Exits | **2798** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,13 +14,13 @@ _Auto-generated from the dataset on 2026-11-03._
 
 | Source | Companies |
 |---|---|
-| yc | 6,362 |
+| yc | 6,364 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
 | antler | 1,080 |
-| ef | 540 |
-| alchemist | 516 |
+| ef | 539 |
+| alchemist | 515 |
 
 ## Companies by first session year
 
@@ -35,18 +35,18 @@ _Auto-generated from the dataset on 2026-11-03._
 2012  ███████░░░░░░░░░░░░░░░░░░░░░ 361
 2013  ██████░░░░░░░░░░░░░░░░░░░░░░ 340
 2014  █████████░░░░░░░░░░░░░░░░░░░ 469
-2015  █████████████░░░░░░░░░░░░░░░ 683
+2015  █████████████░░░░░░░░░░░░░░░ 682
 2016  ██████████████░░░░░░░░░░░░░░ 724
 2017  ███████████████░░░░░░░░░░░░░ 816
-2018  ████████████████░░░░░░░░░░░░ 863
+2018  ████████████████░░░░░░░░░░░░ 862
 2019  ███████████████████░░░░░░░░░ 1030
 2020  ████████████████████░░░░░░░░ 1059
 2021  ██████████████████████████░░ 1381
-2022  ███████████████████████████░ 1456
-2023  ████████████████████████████ 1493
+2022  ███████████████████████████░ 1455
+2023  ████████████████████████████ 1494
 2024  ███████████████████████████░ 1451
 2025  ████████████████████░░░░░░░░ 1048
-2026  ██████████████████░░░░░░░░░░ 955
+2026  ██████████████████░░░░░░░░░░ 957
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9
 ```
 
@@ -55,7 +55,7 @@ _Auto-generated from the dataset on 2026-11-03._
 2. **Japan** — 2684
 3. **United Kingdom** — 597
 4. **Canada** — 553
-5. **USA** — 395
+5. **USA** — 394
 6. **Germany** — 258
 7. **Israel** — 189
 8. **France** — 183
@@ -88,7 +88,7 @@ _Auto-generated from the dataset on 2026-11-03._
 1. **Plug and Play** — 5508
 2. **500 Global** — 1401
 3. **Antler** — 1080
-4. **Entrepreneur First** — 540
+4. **Entrepreneur First** — 539
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 390
 7. **YC Winter 2021** — 335
@@ -103,29 +103,29 @@ _Auto-generated from the dataset on 2026-11-03._
 
 ## Top industries
 1. **Fintech** — 2635
-2. **AI** — 1854
+2. **AI** — 1857
 3. **Artificial intelligence and machine learning** — 1510
 4. **SaaS** — 1431
 5. **Mobile** — 1141
-6. **Consumer** — 1073
+6. **Consumer** — 1074
 7. **Healthcare** — 829
 8. **Developer Tools** — 740
 9. **Infrastructure** — 727
-10. **Industrials** — 667
+10. **Industrials** — 669
 11. **Health** — 663
 12. **Engineering, Product and Design** — 632
 13. **Insurtech** — 513
 14. **Deeptech** — 489
 15. **Brand & Retail** — 474
-16. **Healthtech** — 440
-17. **Energy** — 439
+16. **Energy** — 441
+17. **Healthtech** — 440
 18. **Mobility & Physical AI** — 409
 19. **Supply Chain** — 404
 20. **Productivity** — 390
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4733
+2. **United States of America** — 4735
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902

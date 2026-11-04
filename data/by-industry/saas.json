@@ -32357,7 +32357,7 @@
   {
     "source": "yc",
     "name": "Unthread",
-    "description": "Automate support ops natively in Slack",
+    "description": "AI helpdesk built for Slack & Teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/290690229ed29797c07fe092447c7095acc04e18.png",
     "website": "https://unthread.io",
     "location": "New York City, NY, USA",
@@ -32374,7 +32374,7 @@
     "programSlugs": [
       "yc-summer-2022"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -37474,7 +37474,7 @@
   {
     "source": "yc",
     "name": "Saga AI",
-    "description": "Voice Agents for Healthcare Operations",
+    "description": "AI agents for patient access: referral intake, eligibility, and prior…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/072186e7f08d3f47c6fb58088ebab611a4e67cd8.png",
     "website": "https://usesaga.ai",
     "location": "San Francisco, CA, USA",
@@ -48443,50 +48443,6 @@
   },
   {
     "source": "500",
-    "name": "Fatora",
-    "description": "All-in-one tool to go eCommerce and start selling",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
-    "website": "https://maktapp.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "SaaS"
-    ],
-    "year": 2020,
-    "program": "Dojo III",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Waleed Fatora",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saleh Al-Mansouri",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "Avocode",
     "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
     "logo": "",
@@ -48582,6 +48538,50 @@
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/plerk/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Fatora",
+    "description": "All-in-one tool to go eCommerce and start selling",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
+    "website": "https://maktapp.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "FinTech",
+      "SaaS"
+    ],
+    "year": 2020,
+    "program": "Dojo III",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Waleed Fatora",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saleh Al-Mansouri",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""

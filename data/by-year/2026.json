@@ -3526,7 +3526,7 @@
   {
     "source": "yc",
     "name": "OneTriangle",
-    "description": "The cheapest, fastest inference cloud",
+    "description": "Prefill optimizations for the fastest inference",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/75197a50573558e4b8c16932b7db7c7c11f235a4.png",
     "website": "https://onetriangle.ai/",
     "location": "San Francisco, CA, USA",
@@ -9821,10 +9821,10 @@
   },
   {
     "source": "yc",
-    "name": "Stage",
-    "description": "Code review platform for humans and agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
-    "website": "https://www.tryluke.dev/",
+    "name": "Vespin",
+    "description": "An inbox for your coding agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/488e0bf1da9ca12d399f04d8cafa2b336585587d.png",
+    "website": "https://www.vespin.dev/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
@@ -11495,7 +11495,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Legal"
+      "Legal",
+      "Consumer",
+      "LegalTech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -12737,7 +12740,7 @@
     "source": "yc",
     "name": "tday.com",
     "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1123d387e4b516167a9cfd6ca07f65801c739a56.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0bf4800e0ecc3bb9489a098b655e95d398a9ad10.png",
     "website": "https://tday.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -13597,10 +13600,10 @@
   },
   {
     "source": "yc",
-    "name": "TesterArmy",
-    "description": "Test your app with AI, catch bugs before users do",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c2383517bbad408b44b80d2d5f5912ef81073ff0.png",
-    "website": "https://tester.army",
+    "name": "e2e",
+    "description": "the software verification layer for the agentic coding era",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/67b593bc15edf4c74365d55d734a00481f57bcfd.png",
+    "website": "https://e2e.com",
     "location": "Warsaw, Masovian Voivodeship, Poland; Remote",
     "region": "Poland",
     "subregion": "",
@@ -19992,7 +19995,7 @@
     "name": "Lumeria",
     "description": "Oura Ring for Skin",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5911b0640b4a7b63825ae466fa73c1fc1b24c0a3.png",
-    "website": "https://lumeria.skin",
+    "website": "https://lumeria.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -22166,7 +22169,7 @@
     "name": "ernd",
     "description": "The Credit Card for the AI stack ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0abccc9bf2a6589b531983e558b31a32246f63fb.png",
-    "website": "https://ernd.io/",
+    "website": "https://ernd.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -22918,7 +22921,7 @@
     "name": "OpenScaffold",
     "description": "Superagent for Deployment Teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f7d38b3eee0095a6968f8c9f98029c1e58d352d1.png",
-    "website": "",
+    "website": "https://openscaffold.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -24603,8 +24606,41 @@
   },
   {
     "source": "yc",
+    "name": "Evardi",
+    "description": "Agents that engineer the grid edge",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ec3978c8515651f30596e84a039e6ab0d5cacd6d.png",
+    "website": "https://evardi.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Energy",
+      "Smart Grid",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "ORO AI",
-    "description": "Continuously improving evals for agentic commerce",
+    "description": "RL environments that teach AI to run businesses autonomously",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b66a9717c54294ba9f6e296bb8c04f9c3da74d27.png",
     "website": "https://www.oroagents.com",
     "location": "Vancouver, BC, Canada",
@@ -25533,6 +25569,41 @@
   },
   {
     "source": "yc",
+    "name": "Ailit",
+    "description": "Electrifying North American freight rail with swappable batteries.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e2e2aafce9f971d9306b1ed0550568f290599866.png",
+    "website": "https://ailitrail.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Energy",
+      "Hardware",
+      "Transportation",
+      "Electric Vehicles",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Native",
     "description": "Artificial Intuition for marketing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/150e28c9ae3ba8f6c0bac4696c53752a638f59ff.png",
@@ -25870,7 +25941,7 @@
     "name": "Graphide",
     "description": "CI 10-20× faster than GitHub runners, with a 24/7 agent optimizing it.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6a8a1620a1957b907f1e344c44b332ea9f5af430.png",
-    "website": "https://Graphide.com",
+    "website": "https://graphide.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -26097,7 +26168,7 @@
   {
     "source": "yc",
     "name": "Perit.AI",
-    "description": "Expert-led data and RL platform for AI labs",
+    "description": "Expert-collected voice, egocentric and RL training data for frontier…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a35e9e2f6026717a2640d1e01b9215eaff2d4310.png",
     "website": "https://www.perit.ai/",
     "location": "San Francisco, CA, USA",
@@ -26463,7 +26534,7 @@
     "description": "The world's most advanced security monitoring service",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3746c317ac24f2b0122040095c3cecb0332727b6.png",
     "website": "https://verdun.ai",
-    "location": "Los Angeles, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -26882,7 +26953,7 @@
   {
     "source": "yc",
     "name": "Ascenix",
-    "description": "One interface for senior care facilities.",
+    "description": "Custom software for senior care facilities.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9df54ccfcc3e9d39a078433b991341cfb364eb78.png",
     "website": "https://www.ascenix.co/",
     "location": "Toronto, ON, Canada",
@@ -30241,42 +30312,6 @@
   },
   {
     "source": "ef",
-    "name": "Tacit Intelligence",
-    "description": "Making every employee's phone their best colleague in your pocket.",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Entrepreneur First",
-    "programSlugs": [
-      "ef"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Shashi Salavath",
-        "role": "CEO",
-        "linkedin": "https://www.linkedin.com/in/shashi-salavath/"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "investor": ""
-    }
-  },
-  {
-    "source": "ef",
     "name": "Stead",
     "description": "Changing the experience of home.",
     "logo": "",
@@ -31164,6 +31199,47 @@
   },
   {
     "source": "ef",
+    "name": "Firstocean",
+    "description": "Building the AI-native platform that lets any biotech sell any drug, in any market.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Hugo O'Reilly",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/hugo-o-876652bb"
+      },
+      {
+        "name": "Zenyi Gomez",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/zenyigom/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
     "name": "EverSettled",
     "description": "AI infrastructure for inheritance.",
     "logo": "",
@@ -31778,42 +31854,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Mutaz Musa**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Luce Labs",
     "description": "Physical AI for Plant Science",
     "logo": "",
@@ -31839,6 +31879,42 @@
       },
       {
         "name": "**James Russell**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Mutaz Musa**",
         "role": "",
         "linkedin": ""
       }
