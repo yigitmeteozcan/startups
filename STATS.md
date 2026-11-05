@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-04._
+_Auto-generated from the dataset on 2026-11-05._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,352** |
+| Total companies | **21,356** |
 | 🦄 Unicorns ($1B+) | **156** |
-| 💰 Exits | **2798** |
+| 💰 Exits | **2799** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,13 +14,13 @@ _Auto-generated from the dataset on 2026-11-04._
 
 | Source | Companies |
 |---|---|
-| yc | 6,364 |
+| yc | 6,369 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,241 |
 | antler | 1,080 |
 | ef | 539 |
-| alchemist | 515 |
+| alchemist | 514 |
 
 ## Companies by first session year
 
@@ -44,9 +44,9 @@ _Auto-generated from the dataset on 2026-11-04._
 2021  ██████████████████████████░░ 1381
 2022  ███████████████████████████░ 1455
 2023  ████████████████████████████ 1494
-2024  ███████████████████████████░ 1451
+2024  ███████████████████████████░ 1450
 2025  ████████████████████░░░░░░░░ 1048
-2026  ██████████████████░░░░░░░░░░ 957
+2026  ██████████████████░░░░░░░░░░ 962
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9
 ```
 
@@ -57,7 +57,7 @@ _Auto-generated from the dataset on 2026-11-04._
 4. **Canada** — 553
 5. **USA** — 394
 6. **Germany** — 258
-7. **Israel** — 189
+7. **Israel** — 188
 8. **France** — 183
 9. **Singapore** — 176
 10. **Mexico** — 153
@@ -103,14 +103,14 @@ _Auto-generated from the dataset on 2026-11-04._
 
 ## Top industries
 1. **Fintech** — 2635
-2. **AI** — 1857
+2. **AI** — 1863
 3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1431
+4. **SaaS** — 1433
 5. **Mobile** — 1141
-6. **Consumer** — 1074
+6. **Consumer** — 1075
 7. **Healthcare** — 829
-8. **Developer Tools** — 740
-9. **Infrastructure** — 727
+8. **Developer Tools** — 741
+9. **Infrastructure** — 729
 10. **Industrials** — 669
 11. **Health** — 663
 12. **Engineering, Product and Design** — 632
@@ -120,12 +120,12 @@ _Auto-generated from the dataset on 2026-11-04._
 16. **Energy** — 441
 17. **Healthtech** — 440
 18. **Mobility & Physical AI** — 409
-19. **Supply Chain** — 404
+19. **Supply Chain** — 405
 20. **Productivity** — 390
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4735
+2. **United States of America** — 4739
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 902
@@ -165,7 +165,7 @@ _Auto-generated from the dataset on 2026-11-04._
 39. **Egypt** — 13
 40. **Australia & NZ** — 13
 41. **Pakistan** — 11
-42. **Kenya** — 9
+42. **Kenya** — 10
 43. **Norway** — 9
 44. **Ireland** — 8
 45. **Philippines** — 8

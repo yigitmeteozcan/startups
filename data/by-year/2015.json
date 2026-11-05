@@ -25342,11 +25342,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Nascent Objects Inc.",
-    "description": "Modular Consumer Hardware Maker",
+    "name": "OpenChannel",
+    "description": "Build, brand and launch your own App Store platform",
     "logo": "",
     "website": "",
-    "location": "",
+    "location": "Toronto, ON, Canada",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -25359,7 +25359,18 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Amaro",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Kovacs",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -25367,7 +25378,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": ""
+      "country": "Canada"
     }
   },
   {
@@ -25413,16 +25424,46 @@
   },
   {
     "source": "alchemist",
-    "name": "RageOn, Inc.",
-    "description": "Empowering the Creators of this World",
+    "name": "Nascent Objects Inc.",
+    "description": "Modular Consumer Hardware Maker",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2015,
-    "program": "Alchemist Class 11",
+    "program": "Alchemist Class 10",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": ""
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Evolute",
+    "description": "We create enterprise software for Fortune 500 IT Managers to operate at the edge without human intervention. Unlike VMware, we move software to its most modular form, via a software construct called containers, and we run at the edge without IT staff.",
+    "logo": "",
+    "website": "",
+    "location": "California, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2015,
+    "program": "Alchemist Class 12",
     "programSlugs": [
       "alchemist"
     ],
@@ -25432,7 +25473,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "* Leighton Smith: CFO",
+        "name": "Innovator of the Year",
         "role": "",
         "linkedin": ""
       }
@@ -25485,42 +25526,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Evolute",
-    "description": "We create enterprise software for Fortune 500 IT Managers to operate at the edge without human intervention. Unlike VMware, we move software to its most modular form, via a software construct called containers, and we run at the edge without IT staff.",
-    "logo": "",
-    "website": "",
-    "location": "California, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2015,
-    "program": "Alchemist Class 12",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Innovator of the Year",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Positron Dynamics",
     "description": "-",
     "logo": "",
@@ -25557,31 +25562,26 @@
   },
   {
     "source": "alchemist",
-    "name": "OpenChannel",
-    "description": "Build, brand and launch your own App Store platform",
+    "name": "RageOn, Inc.",
+    "description": "Empowering the Creators of this World",
     "logo": "",
     "website": "",
-    "location": "Toronto, ON, Canada",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2015,
-    "program": "Alchemist Class 10",
+    "program": "Alchemist Class 11",
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": true,
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Brian Amaro",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Michael Kovacs",
+        "name": "* Leighton Smith: CFO",
         "role": "",
         "linkedin": ""
       }
@@ -25593,7 +25593,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Canada"
+      "country": "USA"
     }
   }
 ]

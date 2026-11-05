@@ -23424,15 +23424,19 @@
   },
   {
     "source": "yc",
-    "name": "AirCaps",
-    "description": "The AI copilot for in-person conversations.",
+    "name": "AirCaps AI",
+    "description": "Voice AI that hears what other models miss.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/839111803eb4ccce6e6e411847617a96d8d7d880.png",
-    "website": "https://aircaps.com",
+    "website": "https://aircaps.ai",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Consumer"
+      "Infrastructure",
+      "Developer Tools",
+      "Speech Recognition",
+      "API",
+      "AI"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -34951,6 +34955,52 @@
   },
   {
     "source": "alchemist",
+    "name": "InstaAgent",
+    "description": "Scale marketing campaigns across hundreds of personas",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Kyle Wong",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Wing Liu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Colin Tseung",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Datox",
     "description": "Regulatory Reporting Rebuilt with AI",
     "logo": "",
@@ -34998,52 +35048,6 @@
     },
     "extra": {
       "country": "UK"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "InstaAgent",
-    "description": "Scale marketing campaigns across hundreds of personas",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Kyle Wong",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Wing Liu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Colin Tseung",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
     }
   },
   {
@@ -35171,6 +35175,36 @@
   },
   {
     "source": "alchemist",
+    "name": "Armeta",
+    "description": "Armeta builds AI systems for construction and heavy industries, helping projects move faster from planning to execution.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Slideflow Labs",
     "description": "Empowering next-gen precision oncology with scalable, in-house AI biomarkers from routine pathology slides.",
     "logo": "",
@@ -35210,36 +35244,6 @@
         "linkedin": ""
       }
     ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Armeta",
-    "description": "Armeta builds AI systems for construction and heavy industries, helping projects move faster from planning to execution.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -35682,8 +35686,8 @@
   },
   {
     "source": "alchemist",
-    "name": "AISI X",
-    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
+    "name": "PayCare AI ",
+    "description": "PayCare AI automates radiology practices from front desk to scanner — turning idle machines and long patient wait times into 24/7 access. Profitable for operators (like the founder) and accessible for patients.",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -35691,7 +35695,7 @@
     "subregion": "",
     "tags": [],
     "year": 2025,
-    "program": "Alchemist Class 41",
+    "program": "Alchemist Class 40",
     "programSlugs": [
       "alchemist"
     ],
@@ -35701,12 +35705,37 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**Denis Chegodaev**",
+        "name": "Himza — Founder",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**Alexander Gromov**",
+        "name": "Engineer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ravi — CMO",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Northwestern Medical School",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Krisha — Infra Engineer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Cornell CS",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Together",
         "role": "",
         "linkedin": ""
       }
@@ -35753,8 +35782,8 @@
   },
   {
     "source": "alchemist",
-    "name": "Xitester",
-    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
+    "name": "AISI X",
+    "description": "AI-Powered Neuroimaging Assistant for Radiologists",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -35772,99 +35801,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "**CEO:** Shine Oovattil .",
+        "name": "**Denis Chegodaev**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "**CTO:** Dharwish Raj",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**COO:** Harikumar S",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Candela IoT",
-    "description": "Candela makes Fortune 1000 campuses self-learning, cutting energy use 25%+ freeing power and budget for AI.",
-    "logo": "",
-    "website": "",
-    "location": "Mountain View, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Karthik Krishnamurthy",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Charles Han",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Industrial Dynamics",
-    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
-    "logo": "",
-    "website": "",
-    "location": "Reno, NV, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Konstantin Sarichev**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Michael Lawrie**",
+        "name": "**Alexander Gromov**",
         "role": "",
         "linkedin": ""
       }
@@ -35906,98 +35848,6 @@
       },
       {
         "name": "**Taylor Cordoba**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Polyview Health",
-    "description": "The Identity Layer for Healthcare",
-    "logo": "",
-    "website": "",
-    "location": "Menlo Park, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dimitri Arges",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jason Hwang",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Greg Deocampo",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Aleksandar Lazarevic",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Planeo",
-    "description": "AI copilot that bridges code and runtime",
-    "logo": "",
-    "website": "",
-    "location": "Dover, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2025,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Santosh Sadasivuni**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Marcello DeSales**",
         "role": "",
         "linkedin": ""
       }
@@ -36152,11 +36002,57 @@
   },
   {
     "source": "alchemist",
-    "name": "PayCare AI ",
-    "description": "PayCare AI automates radiology practices from front desk to scanner — turning idle machines and long patient wait times into 24/7 access. Profitable for operators (like the founder) and accessible for patients.",
+    "name": "Xitester",
+    "description": "World’s First Vibe Tester, Testing Web Applications Ranging from Legacy Systems to AI-Built Applications.",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**CEO:** Shine Oovattil .",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**CTO:** Dharwish Raj",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**COO:** Harikumar S",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Industrial Dynamics",
+    "description": "The intelligence layer for simulating and scaling industrial vision systems.",
+    "logo": "",
+    "website": "",
+    "location": "Reno, NV, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -36171,37 +36067,145 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Himza — Founder",
+        "name": "**Konstantin Sarichev**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Engineer",
+        "name": "**Michael Lawrie**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Polyview Health",
+    "description": "The Identity Layer for Healthcare",
+    "logo": "",
+    "website": "",
+    "location": "Menlo Park, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dimitri Arges",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Ravi — CMO",
+        "name": "Jason Hwang",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Northwestern Medical School",
+        "name": "Greg Deocampo",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Krisha — Infra Engineer",
+        "name": "Aleksandar Lazarevic",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Candela IoT",
+    "description": "Candela makes Fortune 1000 campuses self-learning, cutting energy use 25%+ freeing power and budget for AI.",
+    "logo": "",
+    "website": "",
+    "location": "Mountain View, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Karthik Krishnamurthy",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Cornell CS",
+        "name": "Charles Han",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Planeo",
+    "description": "AI copilot that bridges code and runtime",
+    "logo": "",
+    "website": "",
+    "location": "Dover, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Santosh Sadasivuni**",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Together",
+        "name": "**Marcello DeSales**",
         "role": "",
         "linkedin": ""
       }
