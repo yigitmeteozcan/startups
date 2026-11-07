@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-06._
+_Auto-generated from the dataset on 2026-11-07._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,360** |
+| Total companies | **21,363** |
 | 🦄 Unicorns ($1B+) | **156** |
-| 💰 Exits | **2799** |
+| 💰 Exits | **2800** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,11 +14,11 @@ _Auto-generated from the dataset on 2026-11-06._
 
 | Source | Companies |
 |---|---|
-| yc | 6,373 |
+| yc | 6,374 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
 | 500 | 2,240 |
-| antler | 1,081 |
+| antler | 1,083 |
 | ef | 539 |
 | alchemist | 514 |
 
@@ -38,7 +38,7 @@ _Auto-generated from the dataset on 2026-11-06._
 2015  █████████████░░░░░░░░░░░░░░░ 682
 2016  ██████████████░░░░░░░░░░░░░░ 724
 2017  ███████████████░░░░░░░░░░░░░ 816
-2018  ████████████████░░░░░░░░░░░░ 862
+2018  ████████████████░░░░░░░░░░░░ 861
 2019  ███████████████████░░░░░░░░░ 1030
 2020  ████████████████████░░░░░░░░ 1059
 2021  ██████████████████████████░░ 1380
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-11-06._
 2023  ████████████████████████████ 1494
 2024  ███████████████████████████░ 1450
 2025  ████████████████████░░░░░░░░ 1048
-2026  ██████████████████░░░░░░░░░░ 966
+2026  ██████████████████░░░░░░░░░░ 968
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9
 ```
 
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-11-06._
 ## Top programs
 1. **Plug and Play** — 5508
 2. **500 Global** — 1401
-3. **Antler** — 1081
+3. **Antler** — 1083
 4. **Entrepreneur First** — 539
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 390
@@ -99,19 +99,19 @@ _Auto-generated from the dataset on 2026-11-06._
 12. **Techstars Boston Accelerator** — 239
 13. **YC Summer 2022** — 233
 14. **YC Winter 2020** — 229
-15. **YC Summer 2026** — 228
+15. **YC Summer 2026** — 227
 
 ## Top industries
 1. **Fintech** — 2636
-2. **AI** — 1867
+2. **AI** — 1869
 3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1433
+4. **SaaS** — 1434
 5. **Mobile** — 1141
-6. **Consumer** — 1075
+6. **Consumer** — 1076
 7. **Healthcare** — 830
 8. **Developer Tools** — 742
-9. **Infrastructure** — 728
-10. **Industrials** — 669
+9. **Infrastructure** — 727
+10. **Industrials** — 670
 11. **Health** — 663
 12. **Engineering, Product and Design** — 633
 13. **Insurtech** — 513
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-11-06._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4741
+2. **United States of America** — 4744
 3. **Asia** — 2990
 4. **Europe** — 1014
 5. **North America** — 901
@@ -142,7 +142,7 @@ _Auto-generated from the dataset on 2026-11-06._
 16. **Africa** — 107
 17. **Southeast Asia** — 93
 18. **France** — 79
-19. **Mexico** — 79
+19. **Mexico** — 78
 20. **Germany** — 75
 21. **Oceania** — 73
 22. **Remote** — 71
@@ -159,9 +159,9 @@ _Auto-generated from the dataset on 2026-11-06._
 33. **Chile** — 17
 34. **Netherlands** — 16
 35. **United Arab Emirates** — 16
-36. **Switzerland** — 15
-37. **South Korea** — 14
-38. **Denmark** — 14
+36. **South Korea** — 14
+37. **Denmark** — 14
+38. **Switzerland** — 14
 39. **Egypt** — 13
 40. **Australia & NZ** — 13
 41. **Pakistan** — 11
