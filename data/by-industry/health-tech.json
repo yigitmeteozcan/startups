@@ -6023,6 +6023,40 @@
   },
   {
     "source": "yc",
+    "name": "Elithia",
+    "description": "Agents for the medical review behind every claim",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20436ab063ed4eb9cfc3c31dc2982dbc3d245463.png",
+    "website": "https://elithia.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Legal",
+      "Health Tech",
+      "LegalTech",
+      "Insurance",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Decent",
     "description": "Your health plan should get better year-round. Not just once a year.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/786d073f3a76012e5179c5021d6a0d82644d8d1f.png",
@@ -8795,18 +8829,20 @@
   },
   {
     "source": "500",
-    "name": "QueueDr",
-    "description": "Developer of an appointment tracking application. The company allows doctors to fill openings in their schedule through the application, helping patients to book those openings.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/37406b1a-34b1-405a-bd47-7b1d71e5b72d.png",
-    "website": "https://queuedr.com",
+    "name": "Health Co (Stealth)",
+    "description": "Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.",
+    "logo": "",
+    "website": "https://unwind.me",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Health Tech"
+      "Health Tech",
+      "Wellness",
+      "Healthcare"
     ],
-    "year": 2015,
-    "program": "500 Global",
+    "year": 2014,
+    "program": "GA 8",
     "programSlugs": [
       "500"
     ],
@@ -8816,7 +8852,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Patrick Randolph",
+        "name": "Akaash Achreja",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Milan Thakor",
         "role": "",
         "linkedin": ""
       }
@@ -8856,6 +8897,44 @@
     "founders": [
       {
         "name": "Paulus Veugen",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "QueueDr",
+    "description": "Developer of an appointment tracking application. The company allows doctors to fill openings in their schedule through the application, helping patients to book those openings.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/37406b1a-34b1-405a-bd47-7b1d71e5b72d.png",
+    "website": "https://queuedr.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Health Tech"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Patrick Randolph",
         "role": "",
         "linkedin": ""
       }
@@ -8995,51 +9074,6 @@
       },
       {
         "name": "Katherine Bicknell",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Health Co (Stealth)",
-    "description": "Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.",
-    "logo": "",
-    "website": "https://unwind.me",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Health Tech",
-      "Wellness",
-      "Healthcare"
-    ],
-    "year": 2014,
-    "program": "GA 8",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Akaash Achreja",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Milan Thakor",
         "role": "",
         "linkedin": ""
       }

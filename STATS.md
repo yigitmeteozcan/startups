@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-08._
+_Auto-generated from the dataset on 2026-11-09._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,365** |
+| Total companies | **21,375** |
 | 🦄 Unicorns ($1B+) | **156** |
 | 💰 Exits | **2800** |
 | 🌱 B Corps | **29** |
@@ -14,12 +14,12 @@ _Auto-generated from the dataset on 2026-11-08._
 
 | Source | Companies |
 |---|---|
-| yc | 6,376 |
+| yc | 6,378 |
 | plugandplay | 5,508 |
 | techstars | 5,105 |
-| 500 | 2,240 |
+| 500 | 2,241 |
 | antler | 1,083 |
-| ef | 539 |
+| ef | 546 |
 | alchemist | 514 |
 
 ## Companies by first session year
@@ -38,20 +38,20 @@ _Auto-generated from the dataset on 2026-11-08._
 2015  █████████████░░░░░░░░░░░░░░░ 682
 2016  ██████████████░░░░░░░░░░░░░░ 724
 2017  ███████████████░░░░░░░░░░░░░ 816
-2018  ████████████████░░░░░░░░░░░░ 861
+2018  ████████████████░░░░░░░░░░░░ 864
 2019  ███████████████████░░░░░░░░░ 1030
 2020  ████████████████████░░░░░░░░ 1059
-2021  ██████████████████████████░░ 1380
-2022  ███████████████████████████░ 1455
+2021  ██████████████████████████░░ 1382
+2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1494
 2024  ███████████████████████████░ 1450
 2025  ████████████████████░░░░░░░░ 1048
-2026  ██████████████████░░░░░░░░░░ 970
-2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9
+2026  ██████████████████░░░░░░░░░░ 971
+2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10
 ```
 
 ## Top countries
-1. **United States** — 5862
+1. **United States** — 5863
 2. **Japan** — 2684
 3. **United Kingdom** — 597
 4. **Canada** — 553
@@ -88,7 +88,7 @@ _Auto-generated from the dataset on 2026-11-08._
 1. **Plug and Play** — 5508
 2. **500 Global** — 1401
 3. **Antler** — 1083
-4. **Entrepreneur First** — 539
+4. **Entrepreneur First** — 546
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 390
 7. **YC Winter 2021** — 335
@@ -103,17 +103,17 @@ _Auto-generated from the dataset on 2026-11-08._
 
 ## Top industries
 1. **Fintech** — 2636
-2. **AI** — 1870
+2. **AI** — 1872
 3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1435
+4. **SaaS** — 1434
 5. **Mobile** — 1141
 6. **Consumer** — 1076
-7. **Healthcare** — 830
-8. **Developer Tools** — 742
+7. **Healthcare** — 831
+8. **Developer Tools** — 744
 9. **Infrastructure** — 727
 10. **Industrials** — 670
 11. **Health** — 663
-12. **Engineering, Product and Design** — 633
+12. **Engineering, Product and Design** — 634
 13. **Insurtech** — 513
 14. **Deeptech** — 489
 15. **Brand & Retail** — 474
@@ -125,10 +125,10 @@ _Auto-generated from the dataset on 2026-11-08._
 
 ## By region
 1. **Americas** — 5593
-2. **United States of America** — 4745
+2. **United States of America** — 4747
 3. **Asia** — 2990
 4. **Europe** — 1014
-5. **North America** — 901
+5. **North America** — 902
 6. **EMEA** — 802
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
@@ -137,7 +137,7 @@ _Auto-generated from the dataset on 2026-11-08._
 11. **Canada** — 218
 12. **Latin America** — 163
 13. **Middle East** — 159
-14. **Unspecified** — 122
+14. **Unspecified** — 121
 15. **North Asia** — 110
 16. **Africa** — 107
 17. **Southeast Asia** — 93
@@ -156,13 +156,13 @@ _Auto-generated from the dataset on 2026-11-08._
 30. **Sweden** — 19
 31. **Argentina** — 19
 32. **Australia** — 18
-33. **Chile** — 17
-34. **Netherlands** — 16
+33. **Netherlands** — 17
+34. **Chile** — 17
 35. **United Arab Emirates** — 16
 36. **South Korea** — 14
 37. **Denmark** — 14
-38. **Switzerland** — 14
-39. **Egypt** — 13
+38. **Egypt** — 14
+39. **Switzerland** — 14
 40. **Australia & NZ** — 13
 41. **Pakistan** — 11
 42. **Kenya** — 10
@@ -180,14 +180,14 @@ _Auto-generated from the dataset on 2026-11-08._
 54. **Turkey** — 5
 55. **Panama** — 5
 56. **Ghana** — 4
-57. **Belgium** — 4
-58. **Saudi Arabia** — 4
-59. **Portugal** — 3
-60. **Czechia** — 3
-61. **Morocco** — 3
-62. **South Africa** — 3
-63. **New Zealand** — 3
-64. **Estonia** — 3
+57. **Saudi Arabia** — 4
+58. **Portugal** — 3
+59. **Czechia** — 3
+60. **Morocco** — 3
+61. **South Africa** — 3
+62. **New Zealand** — 3
+63. **Estonia** — 3
+64. **Belgium** — 3
 65. **Finland** — 3
 66. **East Asia** — 3
 67. **Japan** — 2
