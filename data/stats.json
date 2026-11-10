@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-09T16:38:17.294Z",
-  "total": 21375,
+  "generatedAt": "2026-11-10T15:02:19.894Z",
+  "total": 15883,
   "bySource": {
     "500": 2241,
-    "yc": 6378,
-    "plugandplay": 5508,
+    "yc": 6387,
     "techstars": 5105,
     "antler": 1083,
     "ef": 546,
-    "alchemist": 514
+    "alchemist": 514,
+    "plugandplay": 7
   },
-  "unicorns": 156,
-  "exits": 2800,
+  "unicorns": 75,
+  "exits": 2247,
   "bCorps": 29,
   "currentSession": 0,
   "byYear": {
@@ -25,7 +25,7 @@
     "2012": 361,
     "2013": 340,
     "2014": 469,
-    "2015": 682,
+    "2015": 683,
     "2016": 724,
     "2017": 816,
     "2018": 864,
@@ -34,100 +34,92 @@
     "2021": 1382,
     "2022": 1456,
     "2023": 1494,
-    "2024": 1450,
-    "2025": 1048,
-    "2026": 971,
-    "2027": 10
+    "2024": 1449,
+    "2025": 1049,
+    "2026": 978,
+    "2027": 11
   },
   "topCountries": [
     [
       "United States",
-      5863
-    ],
-    [
-      "Japan",
-      2684
+      4316
     ],
     [
       "United Kingdom",
-      597
-    ],
-    [
-      "Canada",
-      553
+      427
     ],
     [
       "USA",
       394
     ],
     [
-      "Germany",
-      258
+      "Canada",
+      337
     ],
     [
       "Israel",
-      188
-    ],
-    [
-      "France",
-      183
+      141
     ],
     [
       "Singapore",
-      176
+      141
+    ],
+    [
+      "Germany",
+      123
     ],
     [
       "Mexico",
-      153
+      122
     ],
     [
       "India",
-      121
-    ],
-    [
-      "South Korea",
-      115
-    ],
-    [
-      "United Arab Emirates",
-      111
-    ],
-    [
-      "Italy",
-      107
+      116
     ],
     [
       "UNITED STATES",
-      104
+      103
+    ],
+    [
+      "France",
+      102
+    ],
+    [
+      "United Arab Emirates",
+      90
+    ],
+    [
+      "Saudi Arabia",
+      82
+    ],
+    [
+      "Australia",
+      80
+    ],
+    [
+      "South Korea",
+      74
     ]
   ],
   "topCities": [
-    [
-      "Tokyo",
-      2781
-    ],
-    [
-      "Silicon Valley",
-      1643
-    ],
     [
       "New York City",
       398
     ],
     [
       "London",
-      303
+      288
     ],
     [
       "San Francisco",
       176
     ],
     [
-      "Los Angeles",
-      136
+      "Boston",
+      122
     ],
     [
-      "Boston",
+      "Los Angeles",
       122
     ],
     [
@@ -143,16 +135,8 @@
       109
     ],
     [
-      "Paris",
-      107
-    ],
-    [
       "Toronto",
       98
-    ],
-    [
-      "Alberta",
-      87
     ],
     [
       "Brooklyn",
@@ -161,20 +145,32 @@
     [
       "Boulder",
       79
+    ],
+    [
+      "Denver",
+      78
+    ],
+    [
+      "Atlanta",
+      76
+    ],
+    [
+      "Tel Aviv",
+      72
+    ],
+    [
+      "Cambridge",
+      71
     ]
   ],
   "byRegion": [
     [
-      "Americas",
-      5593
-    ],
-    [
       "United States of America",
-      4747
+      4755
     ],
     [
-      "Asia",
-      2990
+      "Americas",
+      3749
     ],
     [
       "Europe",
@@ -183,10 +179,6 @@
     [
       "North America",
       902
-    ],
-    [
-      "EMEA",
-      802
     ],
     [
       "Middle East & Africa",
@@ -217,8 +209,12 @@
       159
     ],
     [
+      "Asia",
+      142
+    ],
+    [
       "Unspecified",
-      121
+      122
     ],
     [
       "North Asia",
@@ -230,7 +226,7 @@
     ],
     [
       "Southeast Asia",
-      93
+      94
     ],
     [
       "France",
@@ -250,7 +246,7 @@
     ],
     [
       "Remote",
-      71
+      72
     ],
     [
       "Brazil",
@@ -289,11 +285,11 @@
       19
     ],
     [
-      "Australia",
-      18
+      "Netherlands",
+      17
     ],
     [
-      "Netherlands",
+      "Australia",
       17
     ],
     [
@@ -583,10 +579,6 @@
   ],
   "topPrograms": [
     [
-      "Plug and Play",
-      5508
-    ],
-    [
       "500 Global",
       1401
     ],
@@ -641,16 +633,20 @@
     [
       "YC Summer 2026",
       227
+    ],
+    [
+      "YC Fall 2026",
+      225
     ]
   ],
   "topIndustries": [
     [
       "Fintech",
-      2636
+      2077
     ],
     [
       "AI",
-      1872
+      1880
     ],
     [
       "Artificial intelligence and machine learning",
@@ -658,7 +654,7 @@
     ],
     [
       "SaaS",
-      1434
+      1435
     ],
     [
       "Mobile",
@@ -666,63 +662,63 @@
     ],
     [
       "Consumer",
-      1076
+      1077
     ],
     [
       "Healthcare",
-      831
+      834
     ],
     [
       "Developer Tools",
-      744
+      745
     ],
     [
       "Infrastructure",
-      727
+      728
     ],
     [
       "Industrials",
       670
     ],
     [
-      "Health",
-      663
-    ],
-    [
       "Engineering, Product and Design",
-      634
-    ],
-    [
-      "Insurtech",
-      513
-    ],
-    [
-      "Deeptech",
-      489
-    ],
-    [
-      "Brand & Retail",
-      474
-    ],
-    [
-      "Energy",
-      441
+      636
     ],
     [
       "Healthtech",
       440
     ],
     [
-      "Mobility & Physical AI",
-      409
-    ],
-    [
-      "Supply Chain",
-      405
-    ],
-    [
       "Productivity",
       390
+    ],
+    [
+      "Lifestyles of Health and Sustainability and wellness",
+      384
+    ],
+    [
+      "Internet of Things",
+      384
+    ],
+    [
+      "Enterprise Software & SaaS",
+      381
+    ],
+    [
+      "Climate tech",
+      360
+    ],
+    [
+      "Marketplace",
+      354
+    ],
+    [
+      "Cleantech",
+      339
+    ],
+    [
+      "HRtech",
+      332
     ]
   ]
 }

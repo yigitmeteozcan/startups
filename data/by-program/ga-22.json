@@ -484,15 +484,66 @@
   },
   {
     "source": "500",
-    "name": "Mailhaven",
-    "description": "Developer of a mailbox application designed to track packages. The company's mailbox application permits managing of online purchases and automated tracking of shipments, enabling users to simplify package tracking.",
-    "logo": "",
-    "website": "https://mailhaven.co",
-    "location": "United States",
-    "region": "North America",
+    "name": "Payment24",
+    "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
+    "website": "https://payment24.co",
+    "location": "South Africa",
+    "region": "Africa",
     "subregion": "",
     "tags": [
-      "Supply Chain"
+      "CloudTech",
+      "FinTech",
+      "Payments",
+      "Mobility"
+    ],
+    "year": 2018,
+    "program": "GA 22",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Janko Milunovic",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Nolan Daniel",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Shadab Rahil",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "South Africa"
+    }
+  },
+  {
+    "source": "500",
+    "name": "WayPay",
+    "description": "Operator of a payments platform intended to simplify business payments. The company's platform connects any accounts payable system and automatically reconciles payments sent to local or international suppliers from any combination of bank and credit card accounts, enabling small and medium enterprises to easily, efficiently and cost effectively make payments for their business expenses.",
+    "logo": "",
+    "website": "https://waypay.ca",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Payments"
     ],
     "year": 2017,
     "program": "GA 22",
@@ -505,12 +556,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Kelachukwu Ivonye",
+        "name": "Robert Bast",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Jonathan Frazier",
+        "name": "Roberto Ramesar",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Hootan Arbab",
         "role": "",
         "linkedin": ""
       }
@@ -522,7 +578,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
+      "country": "Canada"
     }
   },
   {
@@ -571,41 +627,33 @@
   },
   {
     "source": "500",
-    "name": "Payment24",
-    "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
-    "website": "https://payment24.co",
-    "location": "South Africa",
-    "region": "Africa",
+    "name": "Mailhaven",
+    "description": "Developer of a mailbox application designed to track packages. The company's mailbox application permits managing of online purchases and automated tracking of shipments, enabling users to simplify package tracking.",
+    "logo": "",
+    "website": "https://mailhaven.co",
+    "location": "United States",
+    "region": "North America",
     "subregion": "",
     "tags": [
-      "CloudTech",
-      "FinTech",
-      "Payments",
-      "Mobility"
+      "Supply Chain"
     ],
-    "year": 2018,
+    "year": 2017,
     "program": "GA 22",
     "programSlugs": [
       "500"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Janko Milunovic",
+        "name": "Kelachukwu Ivonye",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Nolan Daniel",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Shadab Rahil",
+        "name": "Jonathan Frazier",
         "role": "",
         "linkedin": ""
       }
@@ -617,7 +665,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "South Africa"
+      "country": "United States"
     }
   },
   {
@@ -704,54 +752,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "WayPay",
-    "description": "Operator of a payments platform intended to simplify business payments. The company's platform connects any accounts payable system and automatically reconciles payments sent to local or international suppliers from any combination of bank and credit card accounts, enabling small and medium enterprises to easily, efficiently and cost effectively make payments for their business expenses.",
-    "logo": "",
-    "website": "https://waypay.ca",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Payments"
-    ],
-    "year": 2017,
-    "program": "GA 22",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Robert Bast",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Roberto Ramesar",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Hootan Arbab",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
     }
   }
 ]

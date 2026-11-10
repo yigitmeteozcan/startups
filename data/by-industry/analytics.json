@@ -3453,7 +3453,7 @@
     "programSlugs": [
       "yc-summer-2021"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -7533,7 +7533,7 @@
   {
     "source": "yc",
     "name": "Laurence",
-    "description": "Quantitative research for autonomous e-commerce growth",
+    "description": "Agents that run your Amazon ads",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/04d5d1a4b0f6a85bb0acdba717da56c25f8ca196.png",
     "website": "https://laurence.com",
     "location": "New York City, NY, USA",
@@ -7720,7 +7720,7 @@
   {
     "source": "yc",
     "name": "Lyon",
-    "description": "Foundation models on enterprise transaction data.",
+    "description": "Foundation models on enterprise event data.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/27ce3fff3af03da64bc8cfefeb3efef7b6d080b7.png",
     "website": "https://lyon.so",
     "location": "San Francisco, CA, USA",
@@ -7869,6 +7869,39 @@
     "program": "YC Fall 2026",
     "programSlugs": [
       "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "DataNode",
+    "description": "Structured products on prediction markets",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/92a9fbb5f568a74e91b6062e29764cec118e28b3.png",
+    "website": "https://datanodelabs.com",
+    "location": "",
+    "region": "Remote",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Machine Learning",
+      "Analytics",
+      "Investments"
+    ],
+    "year": 2027,
+    "program": "YC Winter 2027",
+    "programSlugs": [
+      "yc-winter-2027"
     ],
     "isExit": false,
     "isUnicorn": false,

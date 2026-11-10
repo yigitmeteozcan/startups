@@ -10891,7 +10891,7 @@
     "programSlugs": [
       "yc-winter-2021"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -22659,6 +22659,37 @@
   },
   {
     "source": "yc",
+    "name": "Mendelia",
+    "description": "AI-powered back office employees for surgical practices",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5c9bb5a39d8a674e0ac664c819a4a26edd528488.png",
+    "website": "https://mendelia.com/",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "year": 2026,
+    "program": "YC Winter 2026",
+    "programSlugs": [
+      "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Scheduling Wizard",
     "description": "Logistics infrastructure to modernize healthcare operations",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a941d8028fafa95dd706134a19099c733b0726ff.png",
@@ -23293,7 +23324,7 @@
     "source": "yc",
     "name": "Nxtcure Labs",
     "description": "Engineering the future of Cancer Drug Discovery",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/96ae92a8adbb85f9a1045d9323611d53252e2d64.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b4d6319538171495ccc1876c381fe69a4f658969.png",
     "website": "https://nxtcure.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -24245,6 +24276,41 @@
   },
   {
     "source": "yc",
+    "name": "Ordo Labs",
+    "description": "The AI-native OS for regulated labs",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5db3ba9e7d7bb9c75e6f53fd5737442d244c4f85.png",
+    "website": "https://ordolabs.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Drug Discovery and Delivery",
+      "Biotech",
+      "Compliance",
+      "Automation",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Halmos Labs",
     "description": "Rebuilding the drug discovery pipeline around agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/093fdc6d2122e7140cab391f450941fd3922b145.png",
@@ -24943,6 +25009,11 @@
       },
       {
         "name": "James Wihardja",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "kevin chandra",
         "role": "",
         "linkedin": ""
       }
@@ -26088,6 +26159,74 @@
     },
     "extra": {
       "country": "Taiwan"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Huinno",
+    "description": "Developer of a clinical decision support system with AI-based cloud analysis software designed to provide biosignal data of ill patients. The company's system uses sensors and algorithms to monitor health data like blood pressure, and heart rate and also provides convenient diagnosis and treatment of patients with cardiac diseases such as arrhythmia, atrial fibrillation, and hypertension, enabling healthcare professionals to diagnose and make informed medical decisions while treating a patient.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/06b88646-9d16-4d10-b906-b61921fa74eb.png",
+    "website": "https://www.huinno.com",
+    "location": "South Korea",
+    "region": "Southeast Asia",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Donald Chu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Aaron Alsop",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Steven Baek",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yeongjoon Gil",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Seung Ah Lee",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Aaron Alsop",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Minjun Choi",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://linkedin.com/company/huinno",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "South Korea"
     }
   },
   {
@@ -27850,97 +27989,6 @@
   },
   {
     "source": "500",
-    "name": "Inofab",
-    "description": "Inofab Health has joined Carbon Health by 2022 April! \n\nInofab Health® is a digital health company that offers revolutionary respiratory care solutions for home and professional use with a human-centric approach and cutting-edge technology. It provides a software platform for functional respiratory care management, state-of-the-art ultrasonic personal & clinic spirometers, along with connected inhaler attachments with a strong focus on misuse detection. Inofab Health alerts any declines in lung health, allowing quick intervention against symptom onset and preventing unnecessary hospitalizations.",
-    "logo": "",
-    "website": "https://www.spirohome.io",
-    "location": "Turkey",
-    "region": "Middle East & Africa",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Kerem Yaşar",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Merthan Öztürk",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Turkey"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Baker Technologies",
-    "description": "Provider of a customer engagement and marketing (CRM) automation platform for the cannabis industry. The company's CRM platform helps dispensaries generate more revenue and build relationships with their customers through a variety of products featuring online ordering, customer loyalty, messaging, and analytics, enabling dispensaries to generate more revenue, optimize sales and increase customer retention in the burgeoning industry.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/09490463-1f40-4998-a6e2-4400989e378e.png",
-    "website": "https://trybaker.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2015,
-    "program": "GA 14",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "David Champion",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Joel Milton",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Roger Obando",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "This Is L.",
     "description": "Provider of personal care products for women intended to impact women's lives. The company's personal care products are organically made and provides a range of tampons, pads and condom prophylactics, providing women with an access to basic health products.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/30100b6c-a7ed-4364-bc61-8e585ad0685e.png",
@@ -27963,6 +28011,361 @@
     "founders": [
       {
         "name": "Talia Frenkel",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Alba",
+    "description": "Alba connects families with caregivers in Latin America and provides peace of mind in every step of the caring process. Through its platforms, Alba connects families with caregivers of their social networks, allowing parents to book caregivers just as if their best friend would have recommended it. After booking, parents receive live updates of what’s happening at home and caregivers receive 24/7 support, ensuring peace of mind in every step of the process",
+    "logo": "",
+    "website": "https://alba-app.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Marketplace",
+      "Healthcare"
+    ],
+    "year": 2018,
+    "program": "GA 24",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mauricio Giadach",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Maria Teresa Sante Ross",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dan Stern",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Juan Fantoni",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tesi Del Sante",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "HelloFlo",
+    "description": "Provider of a subscription-based online business that delivers feminine products. The company provides products, services and everyday health and wellness resources and it also encourages women empowerment management.",
+    "logo": "",
+    "website": "https://helloflo.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Naama Bloom",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "MyLife",
+    "description": "Provider of an emotional wellness platform designed to help the users find peace of mind everyday. The companies emotional wellness platform provides personalized approach prompts for users to check in with, and provides recommendations for short activities like meditations tuned to those particular emotions.",
+    "logo": "",
+    "website": "https://www.stopbreathethink.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2017,
+    "program": "Distro 1",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jamie Price",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Julie Campistron",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Kuraseru",
+    "description": "Developer of a medical enterprise software designed to connect patients with professional care managers. The company's software provides a tool that can retrieve optimum nursing facility information instantaneously, enabling users to choose their treatment provider smartly.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c3ce90e-6a50-43ad-be16-98c25d6a5f7f.png",
+    "website": "https://www.kuraseru.co.jp",
+    "location": "Japan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2018,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Daiki Kawahara",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Japan"
+    }
+  },
+  {
+    "source": "500",
+    "name": "SimplifiMed",
+    "description": "Provider of a platform for connecting patients with doctors. The company provides an online platform where patients could update their personal health profiles and seek medication facilities and consult with caregivers without having to move to clinics physically.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e9be1282-56d3-40f1-912f-ccdc6178b51d.png",
+    "website": "https://simplifimed.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2016,
+    "program": "GA 18",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Chinmay Singh",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Medico.com",
+    "description": "Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b67e109-9184-4496-8ce3-2cfe37173a29.png",
+    "website": "https://www.medico.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Elan Dekel",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Lready",
+    "description": "Provider of a location and communication smartphone application intended to keep millions of families and close friends connected. The company's location and communication application addresses the immediate concerns of parents and rapidly redefining the safety and security landscape, enabling users to see where family members are on a private map, get help in an emergency and group chat.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8d81b360-09c3-46f9-a191-235621913cf1.png",
+    "website": "https://life360.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alex Haro",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Chris Hulls",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Careport Health",
+    "description": "Provider of software to facilitate post-acute hospital care. The company offers a web-based platform enabling hospitals, patients and post-hospital care providers to coordinate and manage care across the post-acute care continuum. The platform includes tools enabling real-time data and alerts for patient management, evaluating patient outcomes and assisting patients in selecting post-acute providers from hospitals' preferred networks.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2b212d2f-0043-42e6-9387-6fdfb704dab4.png",
+    "website": "https://careporthealth.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jonathan Helm",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kira Yugay",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Lissy Hu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Vivek Garipalli",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jessica Hohman",
         "role": "",
         "linkedin": ""
       }
@@ -28151,44 +28554,6 @@
   },
   {
     "source": "500",
-    "name": "HelloFlo",
-    "description": "Provider of a subscription-based online business that delivers feminine products. The company provides products, services and everyday health and wellness resources and it also encourages women empowerment management.",
-    "logo": "",
-    "website": "https://helloflo.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Naama Bloom",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "BetterDoctor",
     "description": "Provider of a healthcare provider data platform designed to improve the flow and quality of healthcare data so that patients can get the care they need when required. The company's doctor searching platform offers a web and mobile application that helps to validate and deliver accurate provider data of health plans, health systems and other doctor related data, enabling patients to find all health related information at one place.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ce30e616-d090-4c43-a541-d393ea829b4f.png",
@@ -28232,17 +28597,17 @@
   },
   {
     "source": "500",
-    "name": "Kuraseru",
-    "description": "Developer of a medical enterprise software designed to connect patients with professional care managers. The company's software provides a tool that can retrieve optimum nursing facility information instantaneously, enabling users to choose their treatment provider smartly.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c3ce90e-6a50-43ad-be16-98c25d6a5f7f.png",
-    "website": "https://www.kuraseru.co.jp",
-    "location": "Japan",
-    "region": "North Asia",
+    "name": "Inofab",
+    "description": "Inofab Health has joined Carbon Health by 2022 April! \n\nInofab Health® is a digital health company that offers revolutionary respiratory care solutions for home and professional use with a human-centric approach and cutting-edge technology. It provides a software platform for functional respiratory care management, state-of-the-art ultrasonic personal & clinic spirometers, along with connected inhaler attachments with a strong focus on misuse detection. Inofab Health alerts any declines in lung health, allowing quick intervention against symptom onset and preventing unnecessary hospitalizations.",
+    "logo": "",
+    "website": "https://www.spirohome.io",
+    "location": "Turkey",
+    "region": "Middle East & Africa",
     "subregion": "",
     "tags": [
       "Healthcare"
     ],
-    "year": 2018,
+    "year": 2017,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -28253,7 +28618,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Daiki Kawahara",
+        "name": "Kerem Yaşar",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Merthan Öztürk",
         "role": "",
         "linkedin": ""
       }
@@ -28265,7 +28635,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Japan"
+      "country": "Turkey"
     }
   },
   {
@@ -28313,18 +28683,18 @@
   },
   {
     "source": "500",
-    "name": "Lready",
-    "description": "Provider of a location and communication smartphone application intended to keep millions of families and close friends connected. The company's location and communication application addresses the immediate concerns of parents and rapidly redefining the safety and security landscape, enabling users to see where family members are on a private map, get help in an emergency and group chat.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8d81b360-09c3-46f9-a191-235621913cf1.png",
-    "website": "https://life360.com",
+    "name": "Baker Technologies",
+    "description": "Provider of a customer engagement and marketing (CRM) automation platform for the cannabis industry. The company's CRM platform helps dispensaries generate more revenue and build relationships with their customers through a variety of products featuring online ordering, customer loyalty, messaging, and analytics, enabling dispensaries to generate more revenue, optimize sales and increase customer retention in the burgeoning industry.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/09490463-1f40-4998-a6e2-4400989e378e.png",
+    "website": "https://trybaker.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Healthcare"
     ],
-    "year": 2010,
-    "program": "500 Global",
+    "year": 2015,
+    "program": "GA 14",
     "programSlugs": [
       "500"
     ],
@@ -28334,248 +28704,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Alex Haro",
+        "name": "David Champion",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Chris Hulls",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Medico.com",
-    "description": "Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b67e109-9184-4496-8ce3-2cfe37173a29.png",
-    "website": "https://www.medico.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Elan Dekel",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "SimplifiMed",
-    "description": "Provider of a platform for connecting patients with doctors. The company provides an online platform where patients could update their personal health profiles and seek medication facilities and consult with caregivers without having to move to clinics physically.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e9be1282-56d3-40f1-912f-ccdc6178b51d.png",
-    "website": "https://simplifimed.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2016,
-    "program": "GA 18",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Chinmay Singh",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Careport Health",
-    "description": "Provider of software to facilitate post-acute hospital care. The company offers a web-based platform enabling hospitals, patients and post-hospital care providers to coordinate and manage care across the post-acute care continuum. The platform includes tools enabling real-time data and alerts for patient management, evaluating patient outcomes and assisting patients in selecting post-acute providers from hospitals' preferred networks.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2b212d2f-0043-42e6-9387-6fdfb704dab4.png",
-    "website": "https://careporthealth.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jonathan Helm",
+        "name": "Joel Milton",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Kira Yugay",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Lissy Hu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Vivek Garipalli",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jessica Hohman",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "MyLife",
-    "description": "Provider of an emotional wellness platform designed to help the users find peace of mind everyday. The companies emotional wellness platform provides personalized approach prompts for users to check in with, and provides recommendations for short activities like meditations tuned to those particular emotions.",
-    "logo": "",
-    "website": "https://www.stopbreathethink.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2017,
-    "program": "Distro 1",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jamie Price",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Julie Campistron",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Alba",
-    "description": "Alba connects families with caregivers in Latin America and provides peace of mind in every step of the caring process. Through its platforms, Alba connects families with caregivers of their social networks, allowing parents to book caregivers just as if their best friend would have recommended it. After booking, parents receive live updates of what’s happening at home and caregivers receive 24/7 support, ensuring peace of mind in every step of the process",
-    "logo": "",
-    "website": "https://alba-app.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Marketplace",
-      "Healthcare"
-    ],
-    "year": 2018,
-    "program": "GA 24",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mauricio Giadach",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Maria Teresa Sante Ross",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dan Stern",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Juan Fantoni",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tesi Del Sante",
+        "name": "Roger Obando",
         "role": "",
         "linkedin": ""
       }
