@@ -1001,7 +1001,7 @@
   {
     "source": "yc",
     "name": "InferEdge",
-    "description": "Agentic AI for buy-side firms",
+    "description": "AI solutions for investment firms under a forward deployed model",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9ca294ba99345dad1e7a7357621f3373230c00cf.png",
     "website": "https://www.inferedge.com",
     "location": "MH, India",
@@ -1009,8 +1009,8 @@
     "subregion": "",
     "tags": [
       "Fintech",
+      "Finance",
       "Enterprise Software",
-      "Investments",
       "AI"
     ],
     "year": 2022,
@@ -1287,6 +1287,40 @@
     "program": "YC Winter 2022",
     "programSlugs": [
       "yc-winter-2022"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "NuMind",
+    "description": "The LLM provider for Document Extraction",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a271d83ee825be78f44453963c65aea56395a341.png",
+    "website": "https://www.numind.ai",
+    "location": "Paris, Île-de-France, France; Cambridge, MA, USA",
+    "region": "France",
+    "subregion": "",
+    "tags": [
+      "Documents",
+      "Machine Learning",
+      "Data Engineering",
+      "Enterprise Software",
+      "AI"
+    ],
+    "year": 2022,
+    "program": "YC Summer 2022",
+    "programSlugs": [
+      "yc-summer-2022"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -3907,7 +3941,7 @@
   {
     "source": "yc",
     "name": "Reason Machines",
-    "description": "Reason is most world's effective agent on cost per task",
+    "description": "Reason is world's most effective agent on cost per task",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ac8d1fbd9622030ddfab1cc9a6fac1907350004f.png",
     "website": "https://reasonmachines.com",
     "location": "San Francisco, CA, USA",
@@ -4523,6 +4557,7 @@
     "tags": [
       "Engineering, Product and Design",
       "Developer Tools",
+      "Open Source",
       "Enterprise Software",
       "AI"
     ],

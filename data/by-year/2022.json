@@ -22270,7 +22270,7 @@
   {
     "source": "yc",
     "name": "InferEdge",
-    "description": "Agentic AI for buy-side firms",
+    "description": "AI solutions for investment firms under a forward deployed model",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9ca294ba99345dad1e7a7357621f3373230c00cf.png",
     "website": "https://www.inferedge.com",
     "location": "MH, India",
@@ -22278,8 +22278,8 @@
     "subregion": "",
     "tags": [
       "Fintech",
+      "Finance",
       "Enterprise Software",
-      "Investments",
       "AI"
     ],
     "year": 2022,
@@ -24070,7 +24070,7 @@
   {
     "source": "yc",
     "name": "Firezone",
-    "description": "Easiest way to set up Zero Trust Access for your team",
+    "description": "Reach any device, network, or SaaS app without opening firewall ports",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b332f151ea2bb27aee388d55b28c0e973525f259.png",
     "website": "https://www.firezone.dev",
     "location": "San Francisco, CA, USA",
@@ -27550,7 +27550,7 @@
     "description": "Building the next generation of wealth",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0b052c26e0beb63cd2a5aef297f7855da685f8dc.png",
     "website": "http://www.goodfin.com",
-    "location": "Los Angeles, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -34802,17 +34802,17 @@
   {
     "source": "yc",
     "name": "NuMind",
-    "description": "Create custom NLP models",
+    "description": "The LLM provider for Document Extraction",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a271d83ee825be78f44453963c65aea56395a341.png",
     "website": "https://www.numind.ai",
-    "location": "Boston, MA, USA; Cambridge, MA, USA",
-    "region": "United States of America",
+    "location": "Paris, Île-de-France, France; Cambridge, MA, USA",
+    "region": "France",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design",
-      "AIOps",
+      "Documents",
       "Machine Learning",
-      "NLP",
+      "Data Engineering",
+      "Enterprise Software",
       "AI"
     ],
     "year": 2022,
@@ -38855,8 +38855,8 @@
     "description": "Palantir for Web3",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3b82c758ebac11667f3da0075088a57d8d7852c8.png",
     "website": "https://www.blockscope.co/",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "Toronto, ON, Canada",
+    "region": "Canada",
     "subregion": "",
     "tags": [
       "Infrastructure",
@@ -50605,11 +50605,11 @@
   },
   {
     "source": "alchemist",
-    "name": "LiveDiagrams, Inc.",
-    "description": "Cloud Operations. Simplified.",
+    "name": "QI",
+    "description": "Predictive Insights to Test Content Before Going Live",
     "logo": "",
     "website": "",
-    "location": "San Mateo, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -50618,18 +50618,105 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": true,
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Andrew Lupersolsky",
+        "name": "JD Rico",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "docbotic",
+    "description": "The World's Most Accessible Form of Mental Health Care",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 33",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jenna Xu",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Yegor Tsynkevich",
+        "name": "Dr. Victoria Bangieva",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Anthony Bui",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "FreeFuse",
+    "description": "A video communication platform that simplifies how information is shared and processed.",
+    "logo": "",
+    "website": "",
+    "location": "Los Angeles, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mike Liu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Wendy Chen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Marcus Jeffrey",
         "role": "",
         "linkedin": ""
       }
@@ -50697,42 +50784,6 @@
   },
   {
     "source": "alchemist",
-    "name": "QI",
-    "description": "Predictive Insights to Test Content Before Going Live",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "JD Rico",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Bonfire Analytics",
     "description": "AI-Driven Lead Scoring for Digital Health Companies: Faster High-Quality Lead Generation Leads to Cheaper Customer Acquisition\n\n",
     "logo": "",
@@ -50758,52 +50809,6 @@
       },
       {
         "name": "Jaya Pokuri",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "docbotic",
-    "description": "The World's Most Accessible Form of Mental Health Care",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 33",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jenna Xu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dr. Victoria Bangieva",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Anthony Bui",
         "role": "",
         "linkedin": ""
       }
@@ -50861,77 +50866,31 @@
   },
   {
     "source": "alchemist",
-    "name": "FreeFuse",
-    "description": "A video communication platform that simplifies how information is shared and processed.",
+    "name": "LiveDiagrams, Inc.",
+    "description": "Cloud Operations. Simplified.",
     "logo": "",
     "website": "",
-    "location": "Los Angeles, CA, USA",
+    "location": "San Mateo, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2022,
-    "program": "Alchemist Class 31",
+    "program": "Alchemist Class 34",
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Mike Liu",
+        "name": "Andrew Lupersolsky",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Wendy Chen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Marcus Jeffrey",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "mechlabs.ai",
-    "description": "Web3 Mechatronic Engineering education alternative to a 4-year University degree. Learn-to-Earn. No instructors, no textbooks and no lectures. ",
-    "logo": "",
-    "website": "",
-    "location": "Oakland, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 31",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alex Dantas",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dan O'Mara",
+        "name": "Yegor Tsynkevich",
         "role": "",
         "linkedin": ""
       }
@@ -50978,6 +50937,47 @@
       },
       {
         "name": "CPO",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "mechlabs.ai",
+    "description": "Web3 Mechatronic Engineering education alternative to a 4-year University degree. Learn-to-Earn. No instructors, no textbooks and no lectures. ",
+    "logo": "",
+    "website": "",
+    "location": "Oakland, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alex Dantas",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dan O'Mara",
         "role": "",
         "linkedin": ""
       }

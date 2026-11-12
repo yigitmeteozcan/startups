@@ -12719,8 +12719,8 @@
     "description": "Build in a weekend. Scale to millions.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9e8c106f46123a6f28b7a7da41f0ee695da48786.png",
     "website": "https://supabase.com",
-    "location": "San Francisco, CA, USA; Remote",
-    "region": "United States of America",
+    "location": "Singapore, Singapore; Remote",
+    "region": "Singapore",
     "subregion": "",
     "tags": [
       "Infrastructure",
@@ -15082,8 +15082,8 @@
     "description": "Palantir for Web3",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3b82c758ebac11667f3da0075088a57d8d7852c8.png",
     "website": "https://www.blockscope.co/",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "Toronto, ON, Canada",
+    "region": "Canada",
     "subregion": "",
     "tags": [
       "Infrastructure",
@@ -18089,7 +18089,7 @@
     "source": "yc",
     "name": "Exla",
     "description": "Building agents that reads logs and fixes issues on your behalf.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94cd00784e37842fc455ee2fd7b22d487b0693cf.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74b03d66013c57fb583f1bf25c91cf444cd932c2.png",
     "website": "https://exla.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -18907,7 +18907,7 @@
   {
     "source": "yc",
     "name": "Bidflow",
-    "description": "AI Takeoffs for Electrical",
+    "description": "Revolutionizing the Construction Industry",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png",
     "website": "https://usebidflow.com",
     "location": "New York City, NY, USA",
@@ -18916,8 +18916,7 @@
     "tags": [
       "Real Estate and Construction",
       "Construction",
-      "SaaS",
-      "Computer Vision",
+      "Supply Chain",
       "Infrastructure"
     ],
     "year": 2026,
@@ -19038,7 +19037,7 @@
   {
     "source": "yc",
     "name": "Lilac",
-    "description": "We sell GPUs.",
+    "description": "Lilac helps neoclouds operate quality GPUs at scale.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/18234851431f8da18d1f087abc867a57412f1a97.png",
     "website": "https://getlilac.com",
     "location": "San Francisco, CA, USA; Remote",
@@ -20887,19 +20886,21 @@
   },
   {
     "source": "yc",
-    "name": "Hub",
-    "description": "Real-world training data for frontier AI labs and robotics.",
+    "name": "Hub Labs",
+    "description": "Deployment and data infrastructure for Embodied AI.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4807c17f08dbbfbdd8f51297746a838ba6db58c1.png",
-    "website": "https://hub.xyz",
+    "website": "https://hublabs.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure",
+      "Industrials",
+      "Manufacturing and Robotics",
       "Robotics",
-      "Crowdsourcing",
       "Big Data",
-      "AI"
+      "Infrastructure",
+      "AI",
+      "Industrial"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -22116,7 +22117,7 @@
   {
     "source": "yc",
     "name": "Inkbox",
-    "description": "The identity and communication layer for AI agents",
+    "description": "Give agents a computer with their own email, phone, iMsg, and WhatsApp",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/59d6214df81a05c739db52287017ae33c8c45f0d.png",
     "website": "https://inkbox.ai",
     "location": "San Francisco, CA, USA",
@@ -22708,6 +22709,38 @@
   },
   {
     "source": "yc",
+    "name": "Ample Computer",
+    "description": "Everything your agent needs to ship a web app",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20a58a6cb709fda329d24b263a54b787cd53d4bc.png",
+    "website": "https://ample.computer/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Cloud Computing",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Aviern",
     "description": "Unmanned cargo airplanes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/906b7c01faee6d9632f1f941bfe737812ec7d0b9.png",
@@ -22744,7 +22777,7 @@
   {
     "source": "yc",
     "name": "Stacktrace",
-    "description": "See and control what your agents actually do",
+    "description": "Give agents autonomy without losing control",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e79ba1ad9464ac22023bbed994e2299d2ae8addf.png",
     "website": "https://stacktrace.ai",
     "location": "San Francisco, CA, USA",
@@ -22874,7 +22907,7 @@
   {
     "source": "yc",
     "name": "Hopper",
-    "description": "Fast, open-source inference for voice",
+    "description": "The Inference cloud for voice ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
     "website": "https://withhopper.com/code",
     "location": "San Francisco, CA, USA",
@@ -24241,44 +24274,6 @@
   },
   {
     "source": "500",
-    "name": "Shortcut",
-    "description": "Developer of an online platform for wholesalers to manage online orders. The company provides a platform that enables any wholesaler to manage B2B transactions, inventory and create digital catalogs.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bc4e169-72c8-4ab6-a471-e24524302770.png",
-    "website": "https://www.autonomous.ai",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Infrastructure"
-    ],
-    "year": 2013,
-    "program": "GA 7",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Duy Huynh",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
     "name": "OneKitchen",
     "description": "Provider of shared kitchen solutions. The company provides tailored spaces for dark kitchens to operate and allows chefs to launch and sell on delivery platforms within days, allowing chefs and restaurant owners to launch their new restaurant from scratch, fine-tune their menu, optimize their operations and maximize their sales.",
     "logo": "",
@@ -24318,18 +24313,18 @@
   },
   {
     "source": "500",
-    "name": "Salido",
-    "description": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a33858b2-346a-45e2-bec3-e406b8d74dad.png",
-    "website": "https://salido.com",
-    "location": "United States",
-    "region": "North America",
+    "name": "Yaydoo",
+    "description": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ac40d0a-657b-4c41-820e-18ec93aa6afd.png",
+    "website": "https://yaydoo.com",
+    "location": "Mexico",
+    "region": "Latin America",
     "subregion": "",
     "tags": [
-      "Data & Analytics",
+      "FinTech",
       "Infrastructure"
     ],
-    "year": 2014,
+    "year": 2016,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -24340,22 +24335,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Casey Cohen",
+        "name": "Roberto Flores Riveroll",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "David Guilfoyle",
+        "name": "Guillermo Treviño",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Matthew Gaines",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Shu Chowdhury",
+        "name": "Sergio Almaguer Ramirez",
         "role": "",
         "linkedin": ""
       }
@@ -24367,7 +24357,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
+      "country": "Mexico"
     }
   },
   {
@@ -24422,99 +24412,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Lettuce",
-    "description": "Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user's business to capture, track and process orders anywhere in real time.",
-    "logo": "",
-    "website": "https://lettuceapps.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Content",
-      "Infrastructure"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Frank Jones",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Raad Mobrem",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Yaydoo",
-    "description": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ac40d0a-657b-4c41-820e-18ec93aa6afd.png",
-    "website": "https://yaydoo.com",
-    "location": "Mexico",
-    "region": "Latin America",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "Infrastructure"
-    ],
-    "year": 2016,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Roberto Flores Riveroll",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Guillermo Treviño",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sergio Almaguer Ramirez",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Mexico"
     }
   },
   {
@@ -24592,6 +24489,142 @@
     },
     "extra": {
       "country": "Malaysia"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Shortcut",
+    "description": "Developer of an online platform for wholesalers to manage online orders. The company provides a platform that enables any wholesaler to manage B2B transactions, inventory and create digital catalogs.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bc4e169-72c8-4ab6-a471-e24524302770.png",
+    "website": "https://www.autonomous.ai",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure"
+    ],
+    "year": 2013,
+    "program": "GA 7",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Duy Huynh",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Salido",
+    "description": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a33858b2-346a-45e2-bec3-e406b8d74dad.png",
+    "website": "https://salido.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "Infrastructure"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Casey Cohen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "David Guilfoyle",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matthew Gaines",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Shu Chowdhury",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Lettuce",
+    "description": "Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user's business to capture, track and process orders anywhere in real time.",
+    "logo": "",
+    "website": "https://lettuceapps.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Content",
+      "Infrastructure"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Frank Jones",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Raad Mobrem",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
     }
   }
 ]

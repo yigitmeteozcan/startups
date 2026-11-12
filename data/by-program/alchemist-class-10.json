@@ -186,11 +186,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Nascent Objects Inc.",
-    "description": "Modular Consumer Hardware Maker",
+    "name": "OpenChannel",
+    "description": "Build, brand and launch your own App Store platform",
     "logo": "",
     "website": "",
-    "location": "",
+    "location": "Toronto, ON, Canada",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -203,7 +203,18 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Amaro",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Kovacs",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -211,7 +222,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": ""
+      "country": "Canada"
     }
   },
   {
@@ -257,6 +268,36 @@
   },
   {
     "source": "alchemist",
+    "name": "Nascent Objects Inc.",
+    "description": "Modular Consumer Hardware Maker",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2015,
+    "program": "Alchemist Class 10",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": ""
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Positron Dynamics",
     "description": "-",
     "logo": "",
@@ -289,47 +330,6 @@
     },
     "extra": {
       "country": ""
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "OpenChannel",
-    "description": "Build, brand and launch your own App Store platform",
-    "logo": "",
-    "website": "",
-    "location": "Toronto, ON, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2015,
-    "program": "Alchemist Class 10",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Brian Amaro",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Michael Kovacs",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
     }
   }
 ]

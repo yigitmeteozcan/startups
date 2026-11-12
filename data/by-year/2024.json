@@ -22564,8 +22564,8 @@
     "description": "Powering Successful Nursing Shifts",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/364d4894b0a1316d1031d75709cb12f94ced7b77.png",
     "website": "https://www.aren.com/",
-    "location": "",
-    "region": "Unspecified",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Healthcare",
@@ -23184,8 +23184,8 @@
   {
     "source": "yc",
     "name": "Garage",
-    "description": "Marketplace for America's most essential assets",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b097e3ed808fe533aff49062b2a59a6f1f2805fd.png",
+    "description": "America's marketplace for mission-critical assets.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c7fdddf8ec5888d8687aed85602772057188b1cd.png",
     "website": "https://www.shopgarage.com/",
     "location": "New York City, NY, USA",
     "region": "United States of America",
@@ -25453,7 +25453,7 @@
     "description": "Field-First AI for home services",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7175120ae6ae4f3d25e96905fcb4e3ce5d125052.png",
     "website": "https://feldy.ai",
-    "location": "San Francisco, CA, USA; Remote",
+    "location": "Denver, CO, USA; Remote",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -26664,7 +26664,7 @@
   {
     "source": "yc",
     "name": "Voicepanel",
-    "description": "Evals for products",
+    "description": "Customer research for the AI era",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d3c9f350427485d59a19cdcf2c5773c321148f67.png",
     "website": "https://voicepanel.com",
     "location": "",
@@ -37393,8 +37393,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Marketing",
       "Consumer",
-      "Content",
       "Media",
       "Podcasts",
       "AI"
@@ -38478,7 +38478,7 @@
     "source": "yc",
     "name": "HealthSpark",
     "description": "Empowering Physical Therapists to Go Independent",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/72c0ee087888b0137460914a67cc143ad8b5d98b.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/90097135134e9365770374955dede6959ed21702.png",
     "website": "https://www.joinhealthspark.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -44600,7 +44600,7 @@
     "programSlugs": [
       "500"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -49032,6 +49032,47 @@
   },
   {
     "source": "alchemist",
+    "name": "Glidely",
+    "description": "Renewal Readiness AI that turns scattered contracts or spend data  into a negotiation-ready package.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Shu Oikawa**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Yas Morita**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "Voltfox",
     "description": "Granular Energy Tracking For Tangible Financial Returns",
     "logo": "",
@@ -49062,47 +49103,6 @@
       },
       {
         "name": "Erhan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Glidely",
-    "description": "Renewal Readiness AI that turns scattered contracts or spend data  into a negotiation-ready package.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Shu Oikawa**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Yas Morita**",
         "role": "",
         "linkedin": ""
       }
@@ -49621,7 +49621,7 @@
   {
     "source": "alchemist",
     "name": "ZeeHub AI",
-    "description": "Solving Supply Chain Chaos in Manufacturing\n",
+    "description": "AI agent for supplier compliance, starting with packaging EPR",
     "logo": "",
     "website": "",
     "location": "Mountain View, CA, USA",
@@ -49637,18 +49637,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Nilesh Dixit: ex‑GE Digital",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Founding exec",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -49840,87 +49829,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Cosign AI",
-    "description": "Never miss clinical trial candidates & save months recruiting",
+    "name": "Clikr",
+    "description": "Turning UGC into a Revenue Driver for Both Brands and Customers",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Will Xie",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Riya Fukui",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Louie Cai",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Pairity",
-    "description": "Human-Context Data Infrastructure for High-Stakes Decisions",
-    "logo": "",
-    "website": "",
-    "location": "Toronto, ON, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Warestack",
-    "description": "Audit-ready compliance evidence for regulated software teams",
-    "logo": "",
-    "website": "",
-    "location": "Delaware City, DE, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -49933,7 +49846,13 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Laura Khoudari",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -49992,11 +49911,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Arithmedics",
-    "description": "AI that Reclaims Physician Time for Patients",
+    "name": "Fluence",
+    "description": "Plugging Deep Human Understanding Into Commercial Platforms",
     "logo": "",
     "website": "",
-    "location": "Cupertino, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -50011,53 +49930,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Vetri Elango",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dr. Renu Dhanasekaran",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Venu Appana",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Wisary",
-    "description": "Wisary helps product teams define what to build and align early, so AI and engineers build the right things faster.",
-    "logo": "",
-    "website": "",
-    "location": "Boulder, CO, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 37",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ala Stolpnik",
+        "name": "Luciana",
         "role": "",
         "linkedin": ""
       }
@@ -50166,16 +50039,16 @@
   },
   {
     "source": "alchemist",
-    "name": "Corbu",
-    "description": "Design AI for Architecture, Engineering & Construction",
+    "name": "Bitgrit",
+    "description": "Your AI? Built By Many. Your Data? Seen By None",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Delaware City, DE, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2024,
-    "program": "Alchemist Class 37",
+    "program": "Alchemist Class 39",
     "programSlugs": [
       "alchemist"
     ],
@@ -50185,7 +50058,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Taylor Schmidt",
+        "name": "Tõnu Samuel",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kazuya Saginawa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saksham Kukreja",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tetsuro Masunaga",
         "role": "",
         "linkedin": ""
       }
@@ -50198,6 +50086,112 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Warestack",
+    "description": "Audit-ready compliance evidence for regulated software teams",
+    "logo": "",
+    "website": "",
+    "location": "Delaware City, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 38",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Cosign AI",
+    "description": "Never miss clinical trial candidates & save months recruiting",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Will Xie",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Riya Fukui",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Louie Cai",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Pairity",
+    "description": "Human-Context Data Infrastructure for High-Stakes Decisions",
+    "logo": "",
+    "website": "",
+    "location": "Toronto, ON, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
     }
   },
   {
@@ -50273,8 +50267,8 @@
   },
   {
     "source": "alchemist",
-    "name": "Fluence",
-    "description": "Plugging Deep Human Understanding Into Commercial Platforms",
+    "name": "Corbu",
+    "description": "Design AI for Architecture, Engineering & Construction",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -50282,7 +50276,7 @@
     "subregion": "",
     "tags": [],
     "year": 2024,
-    "program": "Alchemist Class 39",
+    "program": "Alchemist Class 37",
     "programSlugs": [
       "alchemist"
     ],
@@ -50292,7 +50286,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Luciana",
+        "name": "Taylor Schmidt",
         "role": "",
         "linkedin": ""
       }
@@ -50309,47 +50303,11 @@
   },
   {
     "source": "alchemist",
-    "name": "Clikr",
-    "description": "Turning UGC into a Revenue Driver for Both Brands and Customers",
+    "name": "Biio",
+    "description": "Redefining Physical Intelligence",
     "logo": "",
     "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 38",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Laura Khoudari",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Bitgrit",
-    "description": "Your AI? Built By Many. Your Data? Seen By None",
-    "logo": "",
-    "website": "",
-    "location": "Delaware City, DE, USA",
+    "location": "Cupertino, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -50362,24 +50320,39 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Wisary",
+    "description": "Wisary helps product teams define what to build and align early, so AI and engineers build the right things faster.",
+    "logo": "",
+    "website": "",
+    "location": "Boulder, CO, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 37",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [
       {
-        "name": "Tõnu Samuel",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kazuya Saginawa",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saksham Kukreja",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tetsuro Masunaga",
+        "name": "Ala Stolpnik",
         "role": "",
         "linkedin": ""
       }
@@ -50432,6 +50405,52 @@
   },
   {
     "source": "alchemist",
+    "name": "Arithmedics",
+    "description": "AI that Reclaims Physician Time for Patients",
+    "logo": "",
+    "website": "",
+    "location": "Cupertino, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vetri Elango",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dr. Renu Dhanasekaran",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Venu Appana",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
     "name": "DiffEnder",
     "description": "Ship 2x faster with AI-Assisted Code Reviews",
     "logo": "",
@@ -50461,36 +50480,6 @@
         "linkedin": ""
       }
     ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    }
-  },
-  {
-    "source": "alchemist",
-    "name": "Biio",
-    "description": "Redefining Physical Intelligence",
-    "logo": "",
-    "website": "",
-    "location": "Cupertino, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",

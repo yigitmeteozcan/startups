@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-10._
+_Auto-generated from the dataset on 2026-11-12._
 
 | Metric | Count |
 |---|---|
-| Total companies | **15,883** |
+| Total companies | **15,889** |
 | 🦄 Unicorns ($1B+) | **75** |
-| 💰 Exits | **2247** |
+| 💰 Exits | **2249** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 
@@ -14,10 +14,10 @@ _Auto-generated from the dataset on 2026-11-10._
 
 | Source | Companies |
 |---|---|
-| yc | 6,387 |
+| yc | 6,391 |
 | techstars | 5,105 |
-| 500 | 2,241 |
-| antler | 1,083 |
+| 500 | 2,242 |
+| antler | 1,084 |
 | ef | 546 |
 | alchemist | 514 |
 | plugandplay | 7 |
@@ -34,7 +34,7 @@ _Auto-generated from the dataset on 2026-11-10._
 2011  █████░░░░░░░░░░░░░░░░░░░░░░░ 253
 2012  ███████░░░░░░░░░░░░░░░░░░░░░ 361
 2013  ██████░░░░░░░░░░░░░░░░░░░░░░ 340
-2014  █████████░░░░░░░░░░░░░░░░░░░ 469
+2014  █████████░░░░░░░░░░░░░░░░░░░ 468
 2015  █████████████░░░░░░░░░░░░░░░ 683
 2016  ██████████████░░░░░░░░░░░░░░ 724
 2017  ███████████████░░░░░░░░░░░░░ 816
@@ -45,13 +45,13 @@ _Auto-generated from the dataset on 2026-11-10._
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1494
 2024  ███████████████████████████░ 1449
-2025  ████████████████████░░░░░░░░ 1049
-2026  ██████████████████░░░░░░░░░░ 978
-2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11
+2025  ████████████████████░░░░░░░░ 1048
+2026  ██████████████████░░░░░░░░░░ 981
+2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 13
 ```
 
 ## Top countries
-1. **United States** — 4316
+1. **United States** — 4315
 2. **United Kingdom** — 427
 3. **USA** — 394
 4. **Canada** — 337
@@ -85,8 +85,8 @@ _Auto-generated from the dataset on 2026-11-10._
 15. **Cambridge** — 71
 
 ## Top programs
-1. **500 Global** — 1401
-2. **Antler** — 1083
+1. **500 Global** — 1402
+2. **Antler** — 1084
 3. **Entrepreneur First** — 546
 4. **YC Winter 2022** — 398
 5. **YC Summer 2021** — 390
@@ -97,56 +97,56 @@ _Auto-generated from the dataset on 2026-11-10._
 10. **YC Summer 2024** — 248
 11. **Techstars Boston Accelerator** — 239
 12. **YC Summer 2022** — 233
-13. **YC Winter 2020** — 229
-14. **YC Summer 2026** — 227
-15. **YC Fall 2026** — 225
+13. **YC Fall 2026** — 230
+14. **YC Winter 2020** — 229
+15. **YC Summer 2026** — 225
 
 ## Top industries
 1. **Fintech** — 2077
-2. **AI** — 1880
+2. **AI** — 1887
 3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1435
+4. **SaaS** — 1434
 5. **Mobile** — 1141
-6. **Consumer** — 1077
+6. **Consumer** — 1078
 7. **Healthcare** — 834
 8. **Developer Tools** — 745
-9. **Infrastructure** — 728
-10. **Industrials** — 670
-11. **Engineering, Product and Design** — 636
+9. **Infrastructure** — 729
+10. **Industrials** — 673
+11. **Engineering, Product and Design** — 634
 12. **Healthtech** — 440
-13. **Productivity** — 390
+13. **Productivity** — 391
 14. **Lifestyles of Health and Sustainability and wellness** — 384
 15. **Internet of Things** — 384
 16. **Enterprise Software & SaaS** — 381
 17. **Climate tech** — 360
-18. **Marketplace** — 354
+18. **Marketplace** — 355
 19. **Cleantech** — 339
 20. **HRtech** — 332
 
 ## By region
-1. **United States of America** — 4755
+1. **United States of America** — 4757
 2. **Americas** — 3749
 3. **Europe** — 1014
-4. **North America** — 902
+4. **North America** — 901
 5. **Middle East & Africa** — 284
 6. **South Asia** — 264
 7. **United Kingdom** — 221
-8. **India** — 219
-9. **Canada** — 218
+8. **Canada** — 219
+9. **India** — 219
 10. **Latin America** — 163
 11. **Middle East** — 159
 12. **Asia** — 142
-13. **Unspecified** — 122
+13. **Unspecified** — 121
 14. **North Asia** — 110
 15. **Africa** — 107
 16. **Southeast Asia** — 94
-17. **France** — 79
-18. **Mexico** — 78
+17. **France** — 81
+18. **Mexico** — 77
 19. **Germany** — 75
 20. **Oceania** — 73
 21. **Remote** — 72
 22. **Brazil** — 69
-23. **Singapore** — 50
+23. **Singapore** — 51
 24. **Nigeria** — 46
 25. **Israel** — 35
 26. **Indonesia** — 30
@@ -156,8 +156,8 @@ _Auto-generated from the dataset on 2026-11-10._
 30. **Argentina** — 19
 31. **Netherlands** — 17
 32. **Australia** — 17
-33. **Chile** — 17
-34. **United Arab Emirates** — 16
+33. **United Arab Emirates** — 17
+34. **Chile** — 16
 35. **South Korea** — 14
 36. **Denmark** — 14
 37. **Egypt** — 14
