@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-12._
+_Auto-generated from the dataset on 2026-11-13._
 
 | Metric | Count |
 |---|---|
-| Total companies | **15,889** |
+| Total companies | **15,894** |
 | 🦄 Unicorns ($1B+) | **75** |
 | 💰 Exits | **2249** |
 | 🌱 B Corps | **29** |
@@ -14,10 +14,10 @@ _Auto-generated from the dataset on 2026-11-12._
 
 | Source | Companies |
 |---|---|
-| yc | 6,391 |
+| yc | 6,394 |
 | techstars | 5,105 |
 | 500 | 2,242 |
-| antler | 1,084 |
+| antler | 1,086 |
 | ef | 546 |
 | alchemist | 514 |
 | plugandplay | 7 |
@@ -46,8 +46,8 @@ _Auto-generated from the dataset on 2026-11-12._
 2023  ████████████████████████████ 1494
 2024  ███████████████████████████░ 1449
 2025  ████████████████████░░░░░░░░ 1048
-2026  ██████████████████░░░░░░░░░░ 981
-2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 13
+2026  ██████████████████░░░░░░░░░░ 983
+2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 14
 ```
 
 ## Top countries
@@ -86,7 +86,7 @@ _Auto-generated from the dataset on 2026-11-12._
 
 ## Top programs
 1. **500 Global** — 1402
-2. **Antler** — 1084
+2. **Antler** — 1086
 3. **Entrepreneur First** — 546
 4. **YC Winter 2022** — 398
 5. **YC Summer 2021** — 390
@@ -97,42 +97,42 @@ _Auto-generated from the dataset on 2026-11-12._
 10. **YC Summer 2024** — 248
 11. **Techstars Boston Accelerator** — 239
 12. **YC Summer 2022** — 233
-13. **YC Fall 2026** — 230
+13. **YC Fall 2026** — 231
 14. **YC Winter 2020** — 229
-15. **YC Summer 2026** — 225
+15. **YC Summer 2026** — 226
 
 ## Top industries
-1. **Fintech** — 2077
-2. **AI** — 1887
+1. **Fintech** — 2075
+2. **AI** — 1892
 3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1434
+4. **SaaS** — 1435
 5. **Mobile** — 1141
-6. **Consumer** — 1078
+6. **Consumer** — 1077
 7. **Healthcare** — 834
 8. **Developer Tools** — 745
-9. **Infrastructure** — 729
+9. **Infrastructure** — 731
 10. **Industrials** — 673
 11. **Engineering, Product and Design** — 634
 12. **Healthtech** — 440
 13. **Productivity** — 391
 14. **Lifestyles of Health and Sustainability and wellness** — 384
 15. **Internet of Things** — 384
-16. **Enterprise Software & SaaS** — 381
+16. **Enterprise Software & SaaS** — 382
 17. **Climate tech** — 360
 18. **Marketplace** — 355
 19. **Cleantech** — 339
 20. **HRtech** — 332
 
 ## By region
-1. **United States of America** — 4757
+1. **United States of America** — 4764
 2. **Americas** — 3749
 3. **Europe** — 1014
 4. **North America** — 901
 5. **Middle East & Africa** — 284
 6. **South Asia** — 264
-7. **United Kingdom** — 221
+7. **United Kingdom** — 220
 8. **Canada** — 219
-9. **India** — 219
+9. **India** — 218
 10. **Latin America** — 163
 11. **Middle East** — 159
 12. **Asia** — 142
@@ -142,7 +142,7 @@ _Auto-generated from the dataset on 2026-11-12._
 16. **Southeast Asia** — 94
 17. **France** — 81
 18. **Mexico** — 77
-19. **Germany** — 75
+19. **Germany** — 74
 20. **Oceania** — 73
 21. **Remote** — 72
 22. **Brazil** — 69
@@ -178,10 +178,10 @@ _Auto-generated from the dataset on 2026-11-12._
 52. **Austria** — 5
 53. **Turkey** — 5
 54. **Panama** — 5
-55. **Ghana** — 4
-56. **Saudi Arabia** — 4
-57. **Portugal** — 3
-58. **Czechia** — 3
+55. **Saudi Arabia** — 4
+56. **Portugal** — 3
+57. **Czechia** — 3
+58. **Ghana** — 3
 59. **Morocco** — 3
 60. **South Africa** — 3
 61. **New Zealand** — 3

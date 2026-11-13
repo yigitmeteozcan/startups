@@ -3024,7 +3024,7 @@
     "source": "yc",
     "name": "Haladir",
     "description": "Operational Intelligence for Global Logistics",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fbdfd8ca109134ec5c439489df0066a7a6b87573.png",
     "website": "https://www.haladir.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -4589,15 +4589,17 @@
   {
     "source": "yc",
     "name": "ZeroSettle",
-    "description": "Drop-in Direct Billing SDK for In-App Purchases",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png",
+    "description": "iMessage API for businesses and AI agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3edf2f636807274706fc2fd91f437e7a27d781b7.png",
     "website": "https://zerosettle.io",
     "location": "San Diego, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Fintech",
-      "Payments"
+      "Infrastructure",
+      "Messaging",
+      "AI",
+      "AI Assistant"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -11870,14 +11872,17 @@
   },
   {
     "source": "yc",
-    "name": "BentoLabs AI",
-    "description": "Monitoring and learning layer for long-running agents",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7ff7747818f703617e1cd9444a5600eef3511337.png",
-    "website": "https://bentolabs.ai/",
-    "location": "Bengaluru, KA, India",
-    "region": "India",
+    "name": "Tago Health (formerly BentoLabs AI)",
+    "description": "AI agents for healthcare denials and accounts receivable",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/080d3dec14037a85e9d4ff519be17f4e254a3aba.png",
+    "website": "https://tagohealth.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Healthcare IT",
+      "AI"
+    ],
     "year": 2026,
     "program": "YC Spring 2026",
     "programSlugs": [
@@ -12780,7 +12785,7 @@
     "source": "yc",
     "name": "tday.com",
     "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e529b62be0f05fefb8d967abe1c768c14f7b964e.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/11806ffd959de6c988f1bc27082910cba4d0c602.png",
     "website": "https://tday.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -15628,7 +15633,7 @@
   {
     "source": "yc",
     "name": "CONUS",
-    "description": "The AI knowledge layer for medical devices",
+    "description": "Medical Device Platform for Hospitals",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8edd99606159933b27bd8c7f3992e7ad9e5b4dea.png",
     "website": "https://www.conus-med.com",
     "location": "Cologne, NRW, Germany",
@@ -16065,6 +16070,40 @@
     "tags": [
       "Legal",
       "LegalTech",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Orikata Bio PBC",
+    "description": "A multiplayer discovery workspace for human and agentic scientists",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9bb8600184285ab1a6b407bed29e46c143375796.png",
+    "website": "https://orikata.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Machine Learning",
+      "SaaS",
+      "Enterprise Software",
       "AI"
     ],
     "year": 2026,
@@ -21978,7 +22017,7 @@
   {
     "source": "yc",
     "name": "hardware intelligence",
-    "description": "AI tools for the chips your AI runs on",
+    "description": "make sense of silicon",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c2193e7412febe2e812491e1a73617bb09eb897.png",
     "website": "https://hardwareintelligence.ai",
     "location": "San Francisco, CA, USA",
@@ -23254,6 +23293,36 @@
   },
   {
     "source": "yc",
+    "name": "Outworld Labs",
+    "description": "Robotics simulation indistinguishable from reality",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e97ce26caf41d900b85740f8c55310298325be3f.png",
+    "website": "https://outworldlabs.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Robotics"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Viraj Aero",
     "description": "Next generation gas turbines for data centers & aviation",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d151d30449f8a414c0594312df47a98193fd069b.png",
@@ -23853,7 +23922,7 @@
   {
     "source": "yc",
     "name": "OpenLake Technologies",
-    "description": "Models which improve the more you use them",
+    "description": "OpenLake lets companies deploy models that improve in real time",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b1d7d1c63b80a9929499e7b55e2263eaf7cb1a4f.png",
     "website": "https://openlakehq.com",
     "location": "San Francisco, CA, USA",
@@ -24378,11 +24447,11 @@
   {
     "source": "yc",
     "name": "Invertix",
-    "description": "AI that operates power plants",
+    "description": "AI agents that operate energy plants and datacenters",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c2332aa776f979c1ef83d3026fd24932b6576eea.png",
     "website": "https://www.invertix.ai",
-    "location": "Munich, BY, Germany",
-    "region": "Germany",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
@@ -25951,7 +26020,7 @@
   {
     "source": "yc",
     "name": "Yam",
-    "description": "AI-powered dating sims for women",
+    "description": "AI-powered romance sims for women",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c297c8850d0327ee68a350cb20ee3ca0b6946537.png",
     "website": "https://hiyam.ai/",
     "location": "San Francisco, CA, USA",
@@ -26388,7 +26457,7 @@
   {
     "source": "yc",
     "name": "Graphide",
-    "description": "CI 10-20× faster than GitHub runners, with a 24/7 agent optimizing it.",
+    "description": "10-20× faster CI runners + 24/7 agent cutting bloated CI bills 70%+",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6a8a1620a1957b907f1e344c44b332ea9f5af430.png",
     "website": "https://graphide.com",
     "location": "San Francisco, CA, USA",
@@ -26551,7 +26620,7 @@
   {
     "source": "yc",
     "name": "Vouch",
-    "description": "The AI wealth manager for every Indian",
+    "description": "Personal wealth manager for 100M+ Indian professionals",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/088bf2ca78d1e97cb6ffd946a34c10c5e183795a.png",
     "website": "https://vouchwealth.com/",
     "location": "",
@@ -26813,7 +26882,7 @@
   {
     "source": "yc",
     "name": "Axonnic",
-    "description": "Bringing human dexterity to every robot",
+    "description": "Creating human skill at robot scale",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f269fdfc703083f216ecc708a1d72e1eec821657.png",
     "website": "https://www.axonnic.com",
     "location": "San Francisco, CA, USA; Remote",
@@ -27111,7 +27180,7 @@
   {
     "source": "yc",
     "name": "Acyclic Labs",
-    "description": "Agent swarms that make long-running tasks exponentially faster",
+    "description": "Benchmarks, RL envs and infra for scaling agent swarms",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e0ab38690d05797c7ccebecaf6f40e8c72b69516.png",
     "website": "https://acyclic.dev",
     "location": "London, England, United Kingdom",
@@ -27120,7 +27189,9 @@
     "tags": [
       "Infrastructure",
       "Swarm AI",
-      "Open Source"
+      "Open Source",
+      "Data Engineering",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -27268,7 +27339,7 @@
   {
     "source": "yc",
     "name": "Rezora IO",
-    "description": "AI voice agents for home services and real estate",
+    "description": "Shopify for AI voice agents: home services live in 10 minutes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/22b8fb8db1fec9cd1b1b6da222946a31fcfe5373.png",
     "website": "https://rezora.io/",
     "location": "New York City, NY, USA; Remote",
@@ -27640,7 +27711,9 @@
       "Consumer",
       "Consumer Electronics",
       "Hardware",
-      "AI"
+      "Telecommunications",
+      "AI",
+      "AI Assistant"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -28810,7 +28883,7 @@
   {
     "source": "yc",
     "name": "GatherHQ",
-    "description": "An API for how buyers think",
+    "description": "Applied AI for Enterprise GTM",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/30c4641b207da292d7e6a244ffaa483dba73fa7f.png",
     "website": "https://www.gatherhq.com",
     "location": "San Francisco, CA, USA",
@@ -32727,47 +32800,6 @@
   },
   {
     "source": "alchemist",
-    "name": "Asterquanta Systems Inc.",
-    "description": "Semiconductor Design Automation enabled by AI",
-    "logo": "",
-    "website": "",
-    "location": "Toronto, ON, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "**Pradeep V Pydah**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "**Matthew Taylor**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    }
-  },
-  {
-    "source": "alchemist",
     "name": "Luce Labs",
     "description": "Physical AI for Plant Science",
     "logo": "",
@@ -32805,6 +32837,47 @@
     },
     "extra": {
       "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Asterquanta Systems Inc.",
+    "description": "Semiconductor Design Automation enabled by AI",
+    "logo": "",
+    "website": "",
+    "location": "Toronto, ON, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Pradeep V Pydah**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Matthew Taylor**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
     }
   }
 ]
