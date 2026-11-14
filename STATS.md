@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-13._
+_Auto-generated from the dataset on 2026-11-14._
 
 | Metric | Count |
 |---|---|
-| Total companies | **15,894** |
+| Total companies | **15,897** |
 | 🦄 Unicorns ($1B+) | **75** |
 | 💰 Exits | **2249** |
 | 🌱 B Corps | **29** |
@@ -14,7 +14,7 @@ _Auto-generated from the dataset on 2026-11-13._
 
 | Source | Companies |
 |---|---|
-| yc | 6,394 |
+| yc | 6,397 |
 | techstars | 5,105 |
 | 500 | 2,242 |
 | antler | 1,086 |
@@ -46,7 +46,7 @@ _Auto-generated from the dataset on 2026-11-13._
 2023  ████████████████████████████ 1494
 2024  ███████████████████████████░ 1449
 2025  ████████████████████░░░░░░░░ 1048
-2026  ██████████████████░░░░░░░░░░ 983
+2026  ██████████████████░░░░░░░░░░ 986
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 14
 ```
 
@@ -97,24 +97,24 @@ _Auto-generated from the dataset on 2026-11-13._
 10. **YC Summer 2024** — 248
 11. **Techstars Boston Accelerator** — 239
 12. **YC Summer 2022** — 233
-13. **YC Fall 2026** — 231
+13. **YC Fall 2026** — 233
 14. **YC Winter 2020** — 229
-15. **YC Summer 2026** — 226
+15. **YC Summer 2026** — 227
 
 ## Top industries
 1. **Fintech** — 2075
-2. **AI** — 1892
+2. **AI** — 1895
 3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1435
+4. **SaaS** — 1436
 5. **Mobile** — 1141
-6. **Consumer** — 1077
+6. **Consumer** — 1076
 7. **Healthcare** — 834
-8. **Developer Tools** — 745
+8. **Developer Tools** — 746
 9. **Infrastructure** — 731
 10. **Industrials** — 673
-11. **Engineering, Product and Design** — 634
+11. **Engineering, Product and Design** — 636
 12. **Healthtech** — 440
-13. **Productivity** — 391
+13. **Productivity** — 392
 14. **Lifestyles of Health and Sustainability and wellness** — 384
 15. **Internet of Things** — 384
 16. **Enterprise Software & SaaS** — 382
@@ -124,7 +124,7 @@ _Auto-generated from the dataset on 2026-11-13._
 20. **HRtech** — 332
 
 ## By region
-1. **United States of America** — 4764
+1. **United States of America** — 4768
 2. **Americas** — 3749
 3. **Europe** — 1014
 4. **North America** — 901
@@ -161,7 +161,7 @@ _Auto-generated from the dataset on 2026-11-13._
 35. **South Korea** — 14
 36. **Denmark** — 14
 37. **Egypt** — 14
-38. **Switzerland** — 14
+38. **Switzerland** — 13
 39. **Australia & NZ** — 13
 40. **Pakistan** — 11
 41. **Kenya** — 10
