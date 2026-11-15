@@ -1,6 +1,6 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-14._
+_Auto-generated from the dataset on 2026-11-15._
 
 | Metric | Count |
 |---|---|
@@ -45,8 +45,8 @@ _Auto-generated from the dataset on 2026-11-14._
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1494
 2024  ███████████████████████████░ 1449
-2025  ████████████████████░░░░░░░░ 1048
-2026  ██████████████████░░░░░░░░░░ 986
+2025  ████████████████████░░░░░░░░ 1047
+2026  ██████████████████░░░░░░░░░░ 987
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 14
 ```
 
@@ -96,25 +96,25 @@ _Auto-generated from the dataset on 2026-11-14._
 9. **YC Winter 2024** — 248
 10. **YC Summer 2024** — 248
 11. **Techstars Boston Accelerator** — 239
-12. **YC Summer 2022** — 233
-13. **YC Fall 2026** — 233
+12. **YC Fall 2026** — 234
+13. **YC Summer 2022** — 233
 14. **YC Winter 2020** — 229
 15. **YC Summer 2026** — 227
 
 ## Top industries
 1. **Fintech** — 2075
-2. **AI** — 1895
+2. **AI** — 1898
 3. **Artificial intelligence and machine learning** — 1510
-4. **SaaS** — 1436
+4. **SaaS** — 1437
 5. **Mobile** — 1141
-6. **Consumer** — 1076
+6. **Consumer** — 1077
 7. **Healthcare** — 834
 8. **Developer Tools** — 746
 9. **Infrastructure** — 731
 10. **Industrials** — 673
 11. **Engineering, Product and Design** — 636
 12. **Healthtech** — 440
-13. **Productivity** — 392
+13. **Productivity** — 391
 14. **Lifestyles of Health and Sustainability and wellness** — 384
 15. **Internet of Things** — 384
 16. **Enterprise Software & SaaS** — 382
@@ -124,7 +124,7 @@ _Auto-generated from the dataset on 2026-11-14._
 20. **HRtech** — 332
 
 ## By region
-1. **United States of America** — 4768
+1. **United States of America** — 4770
 2. **Americas** — 3749
 3. **Europe** — 1014
 4. **North America** — 901
@@ -136,7 +136,7 @@ _Auto-generated from the dataset on 2026-11-14._
 10. **Latin America** — 163
 11. **Middle East** — 159
 12. **Asia** — 142
-13. **Unspecified** — 121
+13. **Unspecified** — 120
 14. **North Asia** — 110
 15. **Africa** — 107
 16. **Southeast Asia** — 94
@@ -160,7 +160,7 @@ _Auto-generated from the dataset on 2026-11-14._
 34. **Chile** — 16
 35. **South Korea** — 14
 36. **Denmark** — 14
-37. **Egypt** — 14
+37. **Egypt** — 13
 38. **Switzerland** — 13
 39. **Australia & NZ** — 13
 40. **Pakistan** — 11

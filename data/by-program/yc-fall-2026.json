@@ -2266,6 +2266,38 @@
   },
   {
     "source": "yc",
+    "name": "Biomes",
+    "description": "Deploying AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94d176145d186c79d54010141c3f4a8935baf276.png",
+    "website": "https://biomes.co/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Education",
+      "Consumer",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Aviern",
     "description": "Unmanned cargo airplanes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/302621a8b92887e1cdfce4c15b8a8d39e2dcdddf.png",
@@ -3391,7 +3423,7 @@
   {
     "source": "yc",
     "name": "Oasive",
-    "description": "Credit research for municipal bond analysts",
+    "description": "AI credit research for municipal bond investors",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bc57ec29fb0414ace78c3d3c1e5d7acfef9c0c5c.png",
     "website": "https://www.oasive.ai",
     "location": "San Francisco, CA, USA",
@@ -4162,7 +4194,7 @@
   {
     "source": "yc",
     "name": "Dreamscale Labs",
-    "description": "Real-time cloud inference for robotics.",
+    "description": "Cloud inference and training infrastructure for robotics.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5a0eb88901e7f46ec71cc8739e8069f4815b0a52.png",
     "website": "https://dreamscalelabs.com",
     "location": "San Francisco, CA, USA",
@@ -5100,7 +5132,7 @@
   {
     "source": "yc",
     "name": "Preload",
-    "description": "Sensorimotor context for physical AI",
+    "description": "Multisensory systems (EMG+tactile+video) for training physical AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6b263628afee781ad6a54e9c6db03225c28f419f.png",
     "website": "https://preload.ai",
     "location": "San Francisco, CA, USA",
@@ -6623,10 +6655,11 @@
     "subregion": "",
     "tags": [
       "Healthcare",
-      "Drug Discovery and Delivery",
+      "Therapeutics",
       "Gene Therapy",
-      "Cell Therapy",
-      "Drug Delivery"
+      "Drug Delivery",
+      "AI",
+      "Biotechnology"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -6649,7 +6682,7 @@
   {
     "source": "yc",
     "name": "Redoubt Insurance",
-    "description": "Commercial insurance for small businesses",
+    "description": "Autonomous commercial insurance",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1ee4cc24084cdd9a8a0fe0d70982248244d6fd3a.png",
     "website": "https://www.redoubt.insure",
     "location": "Salt Lake City, UT, USA",
@@ -7047,7 +7080,7 @@
   {
     "source": "yc",
     "name": "Aucert",
-    "description": "A team of expert AI agents that test mobile apps on their own.",
+    "description": "Expert AI agents that explore, understand, and verify mobile apps.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fcf314b4f1f24f66082b93a3ec4084c76234c436.png",
     "website": "https://www.aucert.ai/",
     "location": "San Francisco, CA, USA",
@@ -7056,6 +7089,8 @@
     "tags": [
       "Engineering, Product and Design",
       "Developer Tools",
+      "SaaS",
+      "Automation",
       "AI"
     ],
     "year": 2026,
