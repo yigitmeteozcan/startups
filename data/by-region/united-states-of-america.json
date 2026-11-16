@@ -6885,40 +6885,6 @@
   },
   {
     "source": "yc",
-    "name": "Directed Edge",
-    "description": "Product recommendations.",
-    "logo": "/company/thumb/missing.png",
-    "website": "http://directededge.com",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Consumer",
-      "Home and Personal",
-      "Machine Learning",
-      "AI",
-      "Recommendation System"
-    ],
-    "year": 2009,
-    "program": "YC Summer 2009",
-    "programSlugs": [
-      "yc-summer-2009"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "RethinkDB",
     "description": "The open source database for the realtime web.",
     "logo": "/company/thumb/missing.png",
@@ -59721,14 +59687,16 @@
   {
     "source": "yc",
     "name": "Formal",
-    "description": "Take control of your data in real-time.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/66941efea1bbb96c0037b8eb01cd10d72092895c.png",
-    "website": "https://joinformal.com",
-    "location": "San Francisco, CA, USA; New York, NY, USA; Remote",
+    "description": "Least privilege for agents and humans",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/69c999179438f094b0ae55f2ce7d8f2d9ed597b9.png",
+    "website": "https://formal.ai",
+    "location": "San Francisco, CA, USA; New York, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Cybersecurity"
+      "Security",
+      "Cybersecurity",
+      "AI"
     ],
     "year": 2020,
     "program": "YC Summer 2020",
@@ -107445,7 +107413,7 @@
   {
     "source": "yc",
     "name": "Kastle",
-    "description": "AI employee for consumer lending",
+    "description": "AI FTE for regulated finance",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b5e988bc8d88164f885bd4892014f02ef7e153b7.png",
     "website": "https://kastle.ai/",
     "location": "San Francisco, CA, USA",
@@ -109904,7 +109872,7 @@
     "description": "Orca lets you build, discover, and play Minecraft games with friends.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3264c421729b2bff6ef1ef17bf775cafd7c098a6.png",
     "website": "https://orcaclient.com",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -112772,7 +112740,7 @@
     "source": "yc",
     "name": "Freebuff",
     "description": "The free coding agent",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7e79d88ee27d8bcba8981ffbb6cfd8dfaee476e3.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/75a10846675d9542c49737fd455547758618fbb4.png",
     "website": "https://freebuff.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -113752,7 +113720,7 @@
   {
     "source": "yc",
     "name": "Vaya",
-    "description": "Discover your next vacation for less.",
+    "description": "Rank, Log, & Share Places",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1ba9e1699223ad05f5f5256e9857a9efd08cf0f5.png",
     "website": "https://flyvaya.com",
     "location": "San Francisco, CA, USA",
@@ -113760,8 +113728,9 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Travel, Leisure and Tourism",
-      "Travel"
+      "Food and Beverage",
+      "Social Media",
+      "Food"
     ],
     "year": 2024,
     "program": "YC Fall 2024",
@@ -134372,7 +134341,7 @@
   {
     "source": "yc",
     "name": "Laurence",
-    "description": "Agents that run your Amazon ads",
+    "description": "The frontier operating system for marketers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/04d5d1a4b0f6a85bb0acdba717da56c25f8ca196.png",
     "website": "https://laurence.com",
     "location": "New York City, NY, USA",
@@ -135086,7 +135055,7 @@
   {
     "source": "yc",
     "name": "Human Archive",
-    "description": "Physical AI data lab",
+    "description": "Infrastructure for Training, Evaluating, and Deploying Physical AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
     "website": "https://www.humanarchive.ai/",
     "location": "San Francisco, CA, USA",
@@ -136401,7 +136370,7 @@
     "description": "Financial infrastructure for family caregiving",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a88cf729487706988d23e57fa307a54ba446b835.png",
     "website": "https://cova.care/",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -142272,15 +142241,14 @@
   {
     "source": "yc",
     "name": "RightNow",
-    "description": "Co-designing the fastest intelligence",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/59b2e02a314037738d9f32192f83e8bd442be246.png",
-    "website": "https://runinfra.ai/",
+    "description": "The kernel lab behind instant AI",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ff9ff8e9954b9ef735ba6d947c3a427df77bd519.png",
+    "website": "https://www.rightnowai.co",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Infrastructure",
-      "Developer Tools",
       "Generative AI",
       "Machine Learning",
       "AI"
@@ -143866,7 +143834,7 @@
   {
     "source": "yc",
     "name": "Evident Machines",
-    "description": "Benchmarks and RL environments for electrical engineering",
+    "description": "Real-world benchmarks and RL environments for electrical engineering",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/295be512801662b8dbfc7a0247cb6e74b367b70c.png",
     "website": "https://evidentmachines.com/",
     "location": "San Francisco, CA, USA",
@@ -146076,7 +146044,7 @@
   {
     "source": "yc",
     "name": "Vestris",
-    "description": "AI native platform for real estate closings",
+    "description": "The FICO score for homes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e17d90c0a32a27bdb75bac6bb8a2ca4e0ad1646d.png",
     "website": "https://vestris.ai/",
     "location": "San Francisco, CA, USA",
@@ -147566,13 +147534,15 @@
   {
     "source": "yc",
     "name": "isoquant",
-    "description": "Self-optimizing inference cloud for faster, cheaper AI",
+    "description": "Self-optimizing inference cloud for 4x faster open models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2393ff6f2bb8fa724b4d08301f7b560ba116be78.png",
     "website": "https://isoquant.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "AIOps",
+      "Cloud Computing",
       "AI"
     ],
     "year": 2026,
@@ -148819,7 +148789,7 @@
   {
     "source": "yc",
     "name": "Hue",
-    "description": "Test agents in realistic worlds built from production usage",
+    "description": "Realistic worlds for agent evaluation",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1c5e6f96d14890d7f03f32c22ceed76e4fc923f2.png",
     "website": "https://hue.run/",
     "location": "San Francisco, CA, USA",
@@ -149047,6 +149017,39 @@
   },
   {
     "source": "yc",
+    "name": "Veeza AI",
+    "description": "AI tourist visa agent for people with weak passports.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1ff98253605935aaa53bb31e8330be6a74309c6d.png",
+    "website": "https://veeza.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Travel, Leisure and Tourism",
+      "AIOps",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Petrichor",
     "description": "Wet lab infrastructure that turns AI experiments into training data.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fdb7aea2b5558307f53190af023d8e6a2c7ac3be.png",
@@ -149182,7 +149185,7 @@
     "description": "Cloud Sandbox for Agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ab818d15979a4594472be995a13a8be6107d4517.png",
     "website": "https://www.agent37.com/cloud",
-    "location": "New York City, NY, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -149481,6 +149484,8 @@
     "tags": [
       "Industrials",
       "Aviation and Space",
+      "Hard Tech",
+      "Hardware",
       "Satellites",
       "Manufacturing",
       "Defense"
@@ -149536,17 +149541,19 @@
   },
   {
     "source": "yc",
-    "name": "Ample Computer",
-    "description": "Everything your agent needs to ship a web app",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20a58a6cb709fda329d24b263a54b787cd53d4bc.png",
-    "website": "https://ample.computer/",
+    "name": "Central Blue",
+    "description": "The power grid for space: we build power-beaming satellites.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f3677cc5165f14459d957f9c303ce436693b0f18.png",
+    "website": "https://www.centralblue.ai/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Infrastructure",
-      "Cloud Computing",
-      "AI"
+      "Industrials",
+      "Aviation and Space",
+      "Space Exploration",
+      "Aerospace",
+      "Defense"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -149568,16 +149575,16 @@
   },
   {
     "source": "yc",
-    "name": "Biomes",
-    "description": "Deploying AI",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94d176145d186c79d54010141c3f4a8935baf276.png",
-    "website": "https://biomes.co/",
+    "name": "Ample Computer",
+    "description": "Everything your agent needs to ship a web app",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20a58a6cb709fda329d24b263a54b787cd53d4bc.png",
+    "website": "https://ample.computer/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Education",
-      "Consumer",
+      "Infrastructure",
+      "Cloud Computing",
       "AI"
     ],
     "year": 2026,
@@ -149636,7 +149643,7 @@
   {
     "source": "yc",
     "name": "Forward",
-    "description": "The private credit network for leading debt advisors",
+    "description": "Origination infrastructure for private credit.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/da8faffaa022dc56157a591e901324e4d786a015.png",
     "website": "https://www.useforward.co/",
     "location": "San Francisco, CA, USA",
@@ -150030,7 +150037,7 @@
   {
     "source": "yc",
     "name": "Mirrors",
-    "description": "Fix recurring AI agent mistakes with real-time guidance",
+    "description": "The guidance system for production AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "location": "San Francisco, CA, USA",
@@ -150038,9 +150045,9 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
-      "AIOps",
       "Developer Tools",
       "SaaS",
+      "Infrastructure",
       "AI"
     ],
     "year": 2026,
@@ -150972,7 +150979,8 @@
       "Industrials",
       "Manufacturing and Robotics",
       "Hard Tech",
-      "Hardware"
+      "Hardware",
+      "Robotics"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -151098,7 +151106,7 @@
   {
     "source": "yc",
     "name": "Fleety",
-    "description": "Fleety is an AI dispatcher for plumbing and HVAC companies.",
+    "description": "Operating system for trades, starting with dispatch.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/db07ec09ef8192bbc52f5bc207031df3e5646dac.png",
     "website": "https://usefleety.com",
     "location": "San Francisco, CA, USA",
@@ -151298,7 +151306,7 @@
   {
     "source": "yc",
     "name": "Rystic",
-    "description": "Train models and test agents in high-fidelity simulated environments",
+    "description": "Test agents and code changes in high-fidelity simulated environments",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bfa5e505d77a3f64c4f5ed8941cc14f8318a3a34.png",
     "website": "https://rystic.ai",
     "location": "San Francisco, CA, USA",
@@ -152309,9 +152317,10 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Generative AI",
+      "AIOps",
+      "Developer Tools",
       "DevOps",
-      "AI"
+      "Infrastructure"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -153613,6 +153622,38 @@
   },
   {
     "source": "yc",
+    "name": "Contour",
+    "description": "AI-native permitting and compliance for America’s buildout",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ae0831175e2bfda4e79ecd1dfe31db6e94502492.png",
+    "website": "https://contourholdings.ai/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Energy",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Trepo",
     "description": "The agentic grocery shopper that knows what you have and need.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b665bafb6e74d729c276a76da1d06f81bdac762a.png",
@@ -154569,6 +154610,39 @@
   },
   {
     "source": "yc",
+    "name": "Asterline",
+    "description": "Quantitative trading of prediction markets",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8bb5c8006bb267072326386987df5ec025fd190a.png",
+    "website": "https://asterlinetrading.com",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Asset Management",
+      "Finance",
+      "Trading"
+    ],
+    "year": 2027,
+    "program": "YC Winter 2027",
+    "programSlugs": [
+      "yc-winter-2027"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
     "name": "Render",
     "description": "AI CMO that puts marketing on autopilot",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e40c637b8c74ad618e6ab8eb9ef3c1123cc0395.png",
@@ -154577,7 +154651,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Marketing"
+      "Marketing",
+      "Advertising",
+      "AI"
     ],
     "year": 2027,
     "program": "YC Winter 2027",
