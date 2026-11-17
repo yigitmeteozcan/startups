@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-polyxlabs",
+    "source": "techstars",
     "name": "PolyXLabs",
     "description": "We make non-biodegradable plastics microbially biodegrade and then turn the byproducts into valuable endproducts.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e728f0734a60d6abc000090/original/Screen_Shot_2020-02-16_at_6.03.42_PM.png",
@@ -19,6 +20,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/poliloop",
       "twitter": "",
@@ -29,13 +31,12 @@
       "city": "Budapest",
       "country": "Hungary"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Hungary",
     "alsoIn": []
   },
   {
     "id": "techstars-volteum",
+    "source": "techstars",
     "name": "Volteum",
     "description": "Fleet optimization software for electric vehicles",
     "logo": "https://apimg.techstars.com/connect/images/image_files/625ec6e9a160160c973bd74c/original/ikon.png",
@@ -44,7 +45,9 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "tags": [
-      "Mobility tech"
+      "Cleantech",
+      "Mobility tech",
+      "SaaS"
     ],
     "year": 2022,
     "program": "Techstars Transformative World Torino",
@@ -55,6 +58,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/volteum",
       "twitter": "https://twitter.com/VolteumApp",
@@ -65,13 +69,12 @@
       "city": "Budapest",
       "country": "Hungary"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Hungary",
     "alsoIn": []
   },
   {
     "id": "techstars-talk-a-bot",
+    "source": "techstars",
     "name": "Talk-A-Bot",
     "description": "Talk-A-Bot is an enterprise chatbot provider. We turn conversations into apps and context into monetization.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b34a392a36c1131c8000345/original/Logo_1x1.png",
@@ -90,6 +93,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/talk-a-bot-llc.",
       "twitter": "https://twitter.com/talk_a_bot",
@@ -100,13 +104,49 @@
       "city": "Budapest",
       "country": "Hungary"
     },
+    "country": "Hungary",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-axem",
     "source": "techstars",
+    "name": "axem",
+    "description": "Sovereign AI platform for defense, aerospace and ciritcal infrastructure",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3f84ef8ccb53bbc30d5f96a05.jpg",
+    "website": "https://axemsolutions.io",
+    "location": "Budapest, Dublin, Hungary",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "tags": [
+      "SaaS"
+    ],
+    "year": 2025,
+    "program": "Techstars Transformative World Torino",
+    "programSlugs": [
+      "transformative-world-torino"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/axemdev",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/axem-061f"
+    },
+    "extra": {
+      "city": "Budapest",
+      "state_province": "Dublin",
+      "country": "Hungary"
+    },
     "country": "Hungary",
     "alsoIn": []
   },
   {
     "id": "techstars-voovo",
+    "source": "techstars",
     "name": "Voovo",
     "description": "Voovo is an educational application that helps students to absorb loads of difficult information quickly by creating the fastest and easiest way to make digital flashcards.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e7dad501c924d7663fd3ed2e1.jpeg",
@@ -126,6 +166,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/voovo",
       "twitter": "",
@@ -136,8 +177,6 @@
       "city": "Solymár",
       "country": "Hungary"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Hungary",
     "alsoIn": []
   },

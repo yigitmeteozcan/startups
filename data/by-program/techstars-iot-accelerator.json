@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-mosaic-manufacturing",
+    "source": "techstars",
     "name": "Mosaic Manufacturing",
     "description": "Mosaic develops multi-color and multi-material desktop 3D printing technologies.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57d9efd534b2748009000010/original/Logos-04.png",
@@ -9,7 +10,7 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Technology, media and telecommunications"
+      "3D printing"
     ],
     "year": 2016,
     "program": "Techstars IoT Accelerator",
@@ -18,6 +19,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mosaicmfg",
       "twitter": "https://twitter.com/mosaicmfg",
@@ -29,13 +31,120 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
+    "id": "techstars-module",
+    "source": "techstars",
+    "name": "Module",
+    "description": "Module designs housing that changes as your needs do.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/593da58ec9aec746530000a3/original/module_on_whiteSquare.jpg",
+    "website": "https://modulehousing.com",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Real estate tech"
+    ],
+    "year": 2017,
+    "program": "Techstars IoT Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/modulehousingpgh",
+      "twitter": "https://twitter.com/ModuleHousing",
+      "facebook": "https://facebook.com/pg/modulehousing",
+      "crunchbase": "https://crunchbase.com/organization/module"
+    },
+    "extra": {
+      "city": "Pittsburgh",
+      "state_province": "Pennsylvania",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-fueloyal",
+    "source": "techstars",
+    "name": "Fueloyal",
+    "description": "Preventing fuel theft and fuel card misuse with a smart fuel cap and enables fuel purchase optimization through an analytics platform.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/57d9eeed34b274800900000b/original/Logos-07.png",
+    "website": "https://fueloyal.com",
+    "location": "Chicago, Illinois, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Internet of Things",
+      "Mobility tech",
+      "SaaS"
+    ],
+    "year": 2016,
+    "program": "Techstars IoT Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/fueloyal",
+      "twitter": "https://twitter.com/fueloyal",
+      "facebook": "https://facebook.com/Fueloyal",
+      "crunchbase": "https://crunchbase.com/organization/fueloyal#/entity"
+    },
+    "extra": {
+      "city": "Chicago",
+      "state_province": "Illinois",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-pillar-technologies",
+    "source": "techstars",
+    "name": "Pillar Technologies",
+    "description": "Pillar prevents damages on construction sites using sensors and predictive analytics.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/62c6e116b31d233f83ac9151/original/Alternate_-_Neon___Black.png",
+    "website": "https://pillar.tech",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Insurtech",
+      "Internet of Things"
+    ],
+    "year": 2016,
+    "program": "Techstars IoT Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/pillar-technologies-inc",
+      "twitter": "https://twitter.com/pillartechinc",
+      "facebook": "https://facebook.com/PillarTechInc",
+      "crunchbase": "https://crunchbase.com/organization/pillar-technologies"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-losant",
+    "source": "techstars",
     "name": "Losant",
     "description": "Losant provides an Internet of Things solution platform that allows developers to build complex, connected solutions quickly and easily.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/600f4017255313000800009e/original/losant.png",
@@ -49,10 +158,11 @@
     "year": 2016,
     "program": "Techstars IoT Accelerator",
     "programSlugs": [],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/losant",
       "twitter": "https://twitter.com/losanthq",
@@ -64,121 +174,12 @@
       "state_province": "Ohio",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-module",
-    "name": "Module",
-    "description": "Module designs housing that changes as your needs do.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/593da58ec9aec746530000a3/original/module_on_whiteSquare.jpg",
-    "website": "https://modulehousing.com",
-    "location": "Pittsburgh, Pennsylvania, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Internet of Things",
-      "Mobile"
-    ],
-    "year": 2017,
-    "program": "Techstars IoT Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/modulehousingpgh",
-      "twitter": "https://twitter.com/ModuleHousing",
-      "facebook": "https://facebook.com/pg/modulehousing",
-      "crunchbase": "https://crunchbase.com/organization/module"
-    },
-    "extra": {
-      "city": "Pittsburgh",
-      "state_province": "Pennsylvania",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-fueloyal",
-    "name": "Fueloyal",
-    "description": "Preventing fuel theft and fuel card misuse with a smart fuel cap and enables fuel purchase optimization through an analytics platform.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/57d9eeed34b274800900000b/original/Logos-07.png",
-    "website": "https://fueloyal.com",
-    "location": "Chicago, Illinois, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Internet of Things"
-    ],
-    "year": 2016,
-    "program": "Techstars IoT Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/fueloyal",
-      "twitter": "https://twitter.com/fueloyal",
-      "facebook": "https://facebook.com/Fueloyal",
-      "crunchbase": "https://crunchbase.com/organization/fueloyal#/entity"
-    },
-    "extra": {
-      "city": "Chicago",
-      "state_province": "Illinois",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-pillar-technologies",
-    "name": "Pillar Technologies",
-    "description": "Pillar prevents damages on construction sites using sensors and predictive analytics.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/62c6e116b31d233f83ac9151/original/Alternate_-_Neon___Black.png",
-    "website": "https://pillar.tech",
-    "location": "New York City, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Fintech",
-      "Insurtech",
-      "Internet of Things"
-    ],
-    "year": 2016,
-    "program": "Techstars IoT Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/pillar-technologies-inc",
-      "twitter": "https://twitter.com/pillartechinc",
-      "facebook": "https://facebook.com/PillarTechInc",
-      "crunchbase": "https://crunchbase.com/organization/pillar-technologies"
-    },
-    "extra": {
-      "city": "New York City",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-omnio",
+    "source": "techstars",
     "name": "Omnio",
     "description": "Omnio is a banking-as-a-Service platform.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/593a4aa59c66a95c50000071/original/square_correct-colour_fixed.png",
@@ -197,6 +198,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/payment-cloud-technologies",
       "twitter": "https://twitter.com/OmnioGlobal",
@@ -207,13 +209,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-seer-aerospace",
+    "source": "techstars",
     "name": "Seer Aerospace",
     "description": "Make the aviation supply chain a driver of aircraft reliability by building modern digital infrastructure",
     "logo": "https://pbs.twimg.com/profile_images/889616125440311296/buHN4Jfz_400x400.jpg",
@@ -231,6 +232,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/seer-aerospace",
       "twitter": "https://twitter.com/SeerAerospace",
@@ -242,13 +244,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-trexo-robotics",
+    "source": "techstars",
     "name": "Trexo Robotics",
     "description": "Trexo Robotics is building exoskeleton devices for children with disabilities.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b16ac6da36c11604c00003d/original/Trexo-name.png",
@@ -266,6 +267,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/22576006",
       "twitter": "https://twitter.com/trexorobotics",
@@ -277,8 +279,6 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": [
       "yc"
@@ -286,6 +286,7 @@
   },
   {
     "id": "techstars-strayos",
+    "source": "techstars",
     "name": "Strayos",
     "description": "Strayos is a visual AI platform using computer vision, drones and sensor data to map subsurface for underground object detection",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59decd1a9c66a9052e000000/original/Strayos-1-2.png",
@@ -307,6 +308,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/strayos",
       "twitter": "https://twitter.com/StrayosAI",
@@ -318,13 +320,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-habit",
+    "source": "techstars",
     "name": "Habit",
     "description": "Habit provides insurance products in the form of an API",
     "logo": "https://apimg.techstars.com/connect/images/image_files/607f69e02c48630607ff06f7/original/1529321229888.png",
@@ -345,6 +346,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/habitskin",
       "twitter": "https://twitter.com/habit_analytics",
@@ -356,8 +358,6 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
@@ -365,6 +365,7 @@
   },
   {
     "id": "techstars-envio",
+    "source": "techstars",
     "name": "Envio",
     "description": "Envio is building the infrastructure for circular logistics.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c51e820a36c1153cb00001b/original/Profile_logo.png",
@@ -382,6 +383,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/envio-limited",
       "twitter": "https://twitter.com/helloenvio",
@@ -392,13 +394,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-xapix-io",
+    "source": "techstars",
     "name": "Xapix.io",
     "description": "Xapix, the \"Github of APIs\" makes it easy for developers to discover, combine and integrate data/services.",
     "logo": "https://apimg.techstars.com/profiles/1662412381290_202236.png",
@@ -418,6 +419,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/xapix-io",
       "twitter": "https://twitter.com/xapix_io",
@@ -429,13 +431,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-urban3d",
+    "source": "techstars",
     "name": "Urban3D",
     "description": "Urban3D is digitizing the construction industry through advanced concrete asset tracking and intelligent infrastructure.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57d9f50f34b2748009000021/original/Logos-05.png",
@@ -453,6 +454,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/dvdlin214",
       "twitter": "https://twitter.com/Urban3D",
@@ -464,13 +466,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-union-crate",
+    "source": "techstars",
     "name": "Union Crate",
     "description": "Union Crate makes it easy for grocers to sell more, stock smarter and promote effectively.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57d9f50034b2748009000020/original/Logos-02.png",
@@ -488,6 +489,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/union-crate",
       "twitter": "https://twitter.com/unioncrate",
@@ -499,13 +501,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-terrene",
+    "source": "techstars",
     "name": "Terrene",
     "description": "Load any data from any data sources and run predictive analytics on it",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59382f35c9aec74653000054/original/earth-icon-light.png",
@@ -524,6 +525,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/terrene-co",
       "twitter": "https://twitter.com/terreneco",
@@ -535,13 +537,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-teq",
+    "source": "techstars",
     "name": "TEQ",
     "description": "TEQ increases affordability of charging infrastructure for properties and accessibility of charging for electric vehicle (EV) drivers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57d9f39334b274800900001b/original/Logos-10.png",
@@ -563,6 +564,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/teq-charging-inc-",
       "twitter": "https://twitter.com/TEQCharging",
@@ -574,13 +576,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-realsynth",
+    "source": "techstars",
     "name": "RealSynth",
     "description": "Fully custom synthetic annotated image data for machine learning applications",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5941591c9c66a97909000001/original/logo2.inv.png",
@@ -598,6 +599,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/18150568",
       "twitter": "https://twitter.com/RealSynth_GmbH",
@@ -608,13 +610,12 @@
       "city": "Berlin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-galaxy-ai",
+    "source": "techstars",
     "name": "Galaxy AI",
     "description": "Galaxy AI is an artificial intelligence B2B SaaSsolution which analyzes images and predicts damage and claim estimate for insurance carriers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/585f4cf1808320a928000017/original/Galaxy_AI_logo-01.png",
@@ -634,6 +635,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nanotechgalaxy-inc",
       "twitter": "https://twitter.com/AIgalaxy",
@@ -645,13 +647,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dronesmith-technologies",
+    "source": "techstars",
     "name": "Dronesmith Technologies",
     "description": "Dronesmith is the fastest and easiest way for businesses to integrate drones into existing workflows.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57d9ee7534b2748009000009/original/Logos-08.png",
@@ -671,6 +672,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/skyworks-aerial-systems",
       "twitter": "https://twitter.com/dronesmithtech",
@@ -682,13 +684,12 @@
       "state_province": "Nevada",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-buildsim",
+    "source": "techstars",
     "name": "BuildSim",
     "description": "BuildSimHub is a platform for optimizing building energy modeling for new buildings and retrofitting existing projects.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/593824869c66a95c5000002d/original/BuildSimHub.png",
@@ -709,6 +710,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/17971114",
       "twitter": "https://twitter.com/buildsimhub",
@@ -720,13 +722,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-blik",
+    "source": "techstars",
     "name": "blik",
     "description": "blik enables the autonomous supply chain by tracking all goods, everywhere.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59381dadc9aec74653000037/original/logo_square.png",
@@ -746,6 +747,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/polski-standard-p%C5%82atno%C5%9Bci---polish-payments-standard",
       "twitter": "https://twitter.com/blikio",
@@ -756,13 +758,12 @@
       "city": "Munich",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-apollo",
+    "source": "techstars",
     "name": "Apollo",
     "description": "Apollo is an application.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/fwt5vhvbrwjsyv8rvkxv",
@@ -780,6 +781,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/theapollo-id",
       "twitter": "https://twitter.com/get_apollo",
@@ -791,8 +793,6 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   }

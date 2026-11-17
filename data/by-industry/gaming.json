@@ -1,44 +1,7 @@
 [
   {
-    "id": "techstars-fig",
-    "name": "Fig",
-    "description": "Private banking for the underbanked",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5730eed1bbe36f770000000e/original/fig-loans-logo.png",
-    "website": "https://figloans.com",
-    "location": "Sugar Land, Texas, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Fintech",
-      "Gaming"
-    ],
-    "year": 2016,
-    "program": "Techstars Seattle Accelerator",
-    "programSlugs": [
-      "seattle"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": true,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/fig-tech",
-      "twitter": "https://twitter.com/figloans",
-      "facebook": "https://facebook.com/playfig",
-      "crunchbase": "https://crunchbase.com/organization/fig-loans"
-    },
-    "extra": {
-      "city": "Sugar Land",
-      "state_province": "Texas",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-playq",
+    "source": "techstars",
     "name": "PlayQ",
     "description": "Social gaming",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5359/5d85/a9f4/89ba/2900/0004/original/playq.jpg",
@@ -59,6 +22,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/3879848",
       "twitter": "https://twitter.com/PlayQ",
@@ -70,13 +34,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-splash",
+    "source": "techstars",
     "name": "Splash",
     "description": "Popgun is using deep learning to create an AI musician who will become an essential creative partner for musicians worldwide.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58a94069c9aec77a28000049/original/popgun_logo.jpg",
@@ -86,8 +49,8 @@
     "subregion": "Oceania",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Gaming",
-      "Mobile"
+      "Audiotech",
+      "Gaming"
     ],
     "year": 2017,
     "program": "Techstars Music Accelerator",
@@ -98,6 +61,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/splashmusic",
       "twitter": "https://twitter.com/popgunlabs",
@@ -109,13 +73,12 @@
       "state_province": "Queensland",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-yaspa",
+    "source": "techstars",
     "name": "Yaspa",
     "description": "Helping regulated sectors take payment faster! Customer-ready Open Banking payments.",
     "logo": "https://apimg.techstars.com/profiles/1666886599079_841313.png",
@@ -125,8 +88,7 @@
     "subregion": "Western Europe",
     "tags": [
       "Fintech",
-      "Gaming",
-      "Mobile"
+      "Gaming"
     ],
     "year": 2017,
     "program": "London Barclays Accelerator, powered by Techstars",
@@ -135,6 +97,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/yaspa",
       "twitter": "https://twitter.com/thiscitizenis",
@@ -145,52 +108,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
-    "id": "techstars-rallyware",
-    "name": "Rallyware",
-    "description": "Driving action for the enterprise",
-    "logo": "https://apimg.techstars.com/profiles/1660911953448_498589.png",
-    "website": "https://rallyware.com",
-    "location": "Mountain View, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Gaming",
-      "HRtech",
-      "Mobile"
-    ],
-    "year": 2013,
-    "program": "Techstars Boston Accelerator",
-    "programSlugs": [
-      "boston"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/rallyware",
-      "twitter": "https://twitter.com/rallywareSF",
-      "facebook": "https://facebook.com/rallyware",
-      "crunchbase": "https://crunchbase.com/organization/rallyware"
-    },
-    "extra": {
-      "city": "Mountain View",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-didimo",
+    "source": "techstars",
     "name": "Didimo",
     "description": "Didimo creates Virtual Avatars ready to be animated with one photo.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57c813d5a93e9f9611000004/original/logo_black_square-01.jpg",
@@ -200,9 +123,7 @@
     "subregion": "Southern Europe",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Gaming",
-      "Mobile",
-      "Virtual reality"
+      "Gaming"
     ],
     "year": 2016,
     "program": "Techstars London Accelerator",
@@ -213,6 +134,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/didimo",
       "twitter": "https://twitter.com/my_didimo",
@@ -223,13 +145,12 @@
       "city": "Leca Da Palmeira",
       "country": "Portugal"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Portugal",
     "alsoIn": []
   },
   {
     "id": "techstars-liv",
+    "source": "techstars",
     "name": "Liv",
     "description": "Leading VR streaming and social platform for the next generation of players & creators in XR.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/597217eec9aec74988000033/original/liv-logo-white-on-black.png",
@@ -238,9 +159,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Fintech",
+      "Augmented reality",
       "Gaming",
-      "Lifestyles of Health and Sustainability and wellness",
       "Virtual reality"
     ],
     "year": 2017,
@@ -252,6 +172,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/liv",
       "twitter": "https://twitter.com/liv",
@@ -263,13 +184,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-blockade-games",
+    "source": "techstars",
     "name": "Blockade Games",
     "description": "Blockade Games has produced some of the longest-running experiences blending blockchain with interactive entertainment.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d83828034a60d2625000140/original/bg.jpeg",
@@ -278,8 +198,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Cryptocurrency/Blockchain",
-      "Gaming"
+      "Artificial intelligence and machine learning",
+      "Gaming",
+      "Virtual reality"
     ],
     "year": 2019,
     "program": "Alchemist Blockchain Techstars Accelerator",
@@ -288,6 +209,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/blockade-games",
       "twitter": "https://twitter.com/neondistrictRPG",
@@ -299,13 +221,49 @@
       "state_province": "Indiana",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-tyffon",
     "source": "techstars",
+    "name": "Tyffon",
+    "description": "Creating the next level VR/AR/MR entertainment experience",
+    "logo": "https://pbs.twimg.com/profile_images/481181261164077056/CivCcpgg.jpeg",
+    "website": "https://tyffon.com",
+    "location": "West Hollywood, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Augmented reality",
+      "Gaming",
+      "Virtual reality"
+    ],
+    "year": 2014,
+    "program": "Disney Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/tyffon",
+      "twitter": "https://twitter.com/tyffon",
+      "facebook": "https://facebook.com/tyffoninc",
+      "crunchbase": "https://crunchbase.com/organization/tyffon"
+    },
+    "extra": {
+      "city": "West Hollywood",
+      "state_province": "California",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-starstreet",
+    "source": "techstars",
     "name": "StarStreet",
     "description": "Head to head real money fantasy drafts",
     "logo": "https://pbs.twimg.com/profile_images/3604832642/5adf5ca474a14d6ed08d8522cc0d8a57_bigger.png",
@@ -327,6 +285,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/1746447",
       "twitter": "https://twitter.com/StarStreet",
@@ -338,132 +297,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-i-brain-tech",
-    "name": "i-Brain Tech",
-    "description": "i-BrainTech is a novel AI-powered brain-training solution to enhance the KPIs of individual athletes and to empower coaches with unique neuro-sport insights.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5f154508a36c111b22000027/original/i-BrainTech_logo.png",
-    "website": "https://i-brain.tech",
-    "location": "Ramat Gan, Israel",
-    "region": "Middle East",
-    "subregion": "Middle East",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Gaming",
-      "Healthtech",
-      "Lifestyles of Health and Sustainability and wellness",
-      "Robotics and Drones"
-    ],
-    "year": 2020,
-    "program": "Techstars Tel Aviv Accelerator",
-    "programSlugs": [
-      "tel-aviv"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/i-braintech",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/i-brain-aa5b"
-    },
-    "extra": {
-      "city": "Ramat Gan",
-      "country": "Israel"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Israel",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-echo3d",
-    "name": "echo3D",
-    "description": "Cloud platform for augmented and virtual reality (AR/VR) apps that provides tools & server-side infrastructure to help companies build better 3D apps.",
-    "logo": "https://apimg.techstars.com/profiles/1661891558695_186805.png",
-    "website": "https://echo3d.co",
-    "location": "New York City, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Augmented reality",
-      "Cloudtech and DevOps",
-      "Gaming",
-      "Infrastructure",
-      "Technology, media and telecommunications",
-      "Virtual reality"
-    ],
-    "year": 2019,
-    "program": "Techstars Anywhere Accelerator",
-    "programSlugs": [
-      "anywhere"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/echo3D",
-      "twitter": "https://twitter.com/_echoAR_",
-      "facebook": "https://facebook.com/echo3DInc/",
-      "crunchbase": "https://crunchbase.com/organization/echo3d"
-    },
-    "extra": {
-      "city": "New York City",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-inthegame",
-    "name": "Inthegame",
-    "description": "Engagement and monitization platform for broadcasters and video content owners",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5f4d246ea36c11609e000048/original/Logo_Inthegame_-_Aviram_Sharon.png",
-    "website": "https://inthegame.io",
-    "location": "Tel Aviv, Israel",
-    "region": "Middle East",
-    "subregion": "Middle East",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Gaming"
-    ],
-    "year": 2020,
-    "program": "Techstars Tel Aviv Accelerator",
-    "programSlugs": [
-      "tel-aviv"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/inthegame-io",
-      "twitter": "https://twitter.com/inthegameapp",
-      "facebook": "https://facebook.com/inthegame.io/",
-      "crunchbase": "https://crunchbase.com/organization/inthegame"
-    },
-    "extra": {
-      "city": "Tel Aviv",
-      "country": "Israel"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-lightstream",
+    "source": "techstars",
     "name": "Lightstream",
     "description": "Formerly Infiniscene. A powerful & intuitive live streaming studio in your browser.  No downloads. No technical wizardry. Absolutely free.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5915caf59c66a9180d00000b/original/techstarsconnect_lightstream2.jpg",
@@ -477,14 +316,13 @@
       "SaaS"
     ],
     "year": 2015,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/golightstream",
       "twitter": "https://twitter.com/lightstream",
@@ -496,13 +334,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-playcanvas",
+    "source": "techstars",
     "name": "PlayCanvas",
     "description": "The world's first cloud-hosted, collaborative platform for building video games",
     "logo": "https://apimg.techstars.com/connect/images/image_files/54ea49a4740ea7e68c000001/original/PLAY_FLAT_ORANGE.png",
@@ -524,6 +361,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/playcanvas",
       "twitter": "https://twitter.com/playcanvas",
@@ -534,15 +372,53 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": [
       "500"
     ]
   },
   {
+    "id": "techstars-themonetizr",
+    "source": "techstars",
+    "name": "TheMonetizr",
+    "description": "Monetizr is a marketplace enabling game developers to reward and monetize their players with physical rewards.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/595230c79c66a9535100000c/original/Logo-square.png",
+    "website": "https://themonetizr.com",
+    "location": "San Francisco, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Adtech",
+      "Gaming",
+      "Mobile"
+    ],
+    "year": 2017,
+    "program": "Techstars Atlanta powered by Cox Enterprises",
+    "programSlugs": [
+      "atlanta-cox"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/10823510",
+      "twitter": "https://twitter.com/themonetizr",
+      "facebook": "https://facebook.com/themonetizr",
+      "crunchbase": "https://crunchbase.com/organization/themonetizr#/entity"
+    },
+    "extra": {
+      "city": "San Francisco",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-matcherino",
+    "source": "techstars",
     "name": "Matcherino",
     "description": "Matcherino is a technology company that builds software.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559d51ddbbe36fa06c000007/original/matcherino_square.jpg",
@@ -564,6 +440,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/matcherino-com",
       "twitter": "https://twitter.com/matcherino_",
@@ -575,88 +452,51 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-replica-studios",
-    "name": "Replica Studios",
-    "description": "Replica uses Artificial Intelligence to create voices for the next generation of games, films, and other media.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/6347507d782a4900082519f8/original/oGVqhs0l_400x400.jpg",
-    "website": "https://replicastudios.com",
-    "location": "Brisbane, Queensland, Australia",
-    "region": "Oceania",
-    "subregion": "Oceania",
+    "id": "techstars-ftn-network",
+    "source": "techstars",
+    "name": "FTN Network",
+    "description": "FTN Network is a iGaming affiliate, fantasy sports, and sports betting subscription platform built to increase user success rates through the use of proprietary data, models, tools, and entertaining content. Think Action Network meets Pro Football Focus",
+    "logo": "https://apimg.techstars.com/profiles/1656384032422_818817.png",
+    "website": "https://ftnnetwork.com",
+    "location": "San Diego, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning",
+      "Big Data",
       "Gaming",
-      "Mobile"
+      "Technology, media and telecommunications"
     ],
-    "year": 2019,
-    "program": "Techstars Music Accelerator",
+    "year": 2022,
+    "program": "Techstars Sports Accelerator Powered by Indy",
     "programSlugs": [
-      "music"
+      "indy-sports"
     ],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/replica-ai",
-      "twitter": "https://twitter.com/replica_ai",
-      "facebook": "https://facebook.com/ReplicaStudios/",
-      "crunchbase": "https://crunchbase.com/organization/replica-studios"
+      "linkedin": "https://linkedin.com/company/ftnnetwork",
+      "twitter": "https://twitter.com/FTNBets",
+      "facebook": "https://facebook.com/NetworkFTN/",
+      "crunchbase": ""
     },
     "extra": {
-      "city": "Brisbane",
-      "state_province": "Queensland",
-      "country": "Australia"
+      "city": "San Diego",
+      "state_province": "California",
+      "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "Australia",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-str8bat",
-    "name": "str8bat",
-    "description": "str8bat sits on your sports equipment & gives you actionable insights to help you PLAY BETTER, connects you to worlds best coaches and your peers.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5f3132bca36c113b600000e2/original/str8bat_logo_2.jpg",
-    "website": "https://str8bat.com",
-    "location": "Bengaluru, Karnataka, India",
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "tags": [
-      "Gaming",
-      "Internet of Things"
-    ],
-    "year": 2020,
-    "program": "Techstars SportsTech Melbourne Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/str8bat-sport-tech-solutions-pvt.-ltd.",
-      "twitter": "https://twitter.com/Str8Bat",
-      "facebook": "https://facebook.com/str8bat/",
-      "crunchbase": "https://crunchbase.com/organization/str8bat-sport-tech-solutions-pvt-ltd"
-    },
-    "extra": {
-      "city": "Bengaluru",
-      "state_province": "Karnataka",
-      "country": "India"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "India",
+    "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-brite",
+    "source": "techstars",
     "name": "Brite",
     "description": "Turn-Key SaaS platform that helps after-school educators to manage their businesses and find high-quality STEM curricula.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6078893a37584c000885f8cb/original/brite_logo_copy.png",
@@ -677,6 +517,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/brite-education",
       "twitter": "https://twitter.com/gobrite_io",
@@ -688,53 +529,88 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-edge-sound-research",
-    "name": "EDGE Sound Research",
-    "description": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/6188ad05ab003f73c25591de/original/ESR_Icon_%282%29.png",
-    "website": "https://edgesoundresearch.com",
-    "location": "Riverside, California, United States",
+    "id": "techstars-remio",
+    "source": "techstars",
+    "name": "Remio",
+    "description": "Building your personal electronic memory bank.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5cd4926034a60d647e0000a6/original/KRISTALIC_logo_square.png",
+    "website": "https://remiovr.com",
+    "location": "San Francisco, California, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Audiotech",
-      "Cryptocurrency/Blockchain",
       "Gaming",
-      "Internet of Things"
+      "Virtual reality"
     ],
-    "year": 2021,
-    "program": "The Minnesota Twins Accelerator by Techstars",
+    "year": 2019,
+    "program": "Techstars Seattle Accelerator",
     "programSlugs": [
-      "minnesota-twins"
+      "seattle"
     ],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/edge-sound-research",
-      "twitter": "https://twitter.com/official_esr_",
-      "facebook": "https://facebook.com/edgesoundresearch/",
-      "crunchbase": "https://crunchbase.com/organization/edge-sound-research"
+      "linkedin": "https://linkedin.com/company/kristalic",
+      "twitter": "https://twitter.com/Remiovr",
+      "facebook": "https://facebook.com/Remiovr/",
+      "crunchbase": "https://crunchbase.com/organization/kristalic"
     },
     "extra": {
-      "city": "Riverside",
+      "city": "San Francisco",
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-prograd",
+    "source": "techstars",
+    "name": "ProGrad",
+    "description": "ProGrad enables lenders to win profitable market share through a disruptive technology that identifies younger customers' future earnings.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6204da86ac2ee11312861f69/original/prograd_icon_green.png",
+    "website": "https://prograd.uk",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Adtech",
+      "Gaming",
+      "Mobile"
+    ],
+    "year": 2021,
+    "program": "Techstars London Accelerator",
+    "programSlugs": [
+      "london"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/prodradcredit",
+      "twitter": "https://twitter.com/pro_grad",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/prograd"
+    },
+    "extra": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-555-comic",
+    "source": "techstars",
     "name": "555 Comic",
     "description": "Some might call what we make virtual influencers, we call them virtual characters. Social media first characters sharing soundtrack worthy episodic story arcs.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60261f7837c13c00071fa478/original/Final.png",
@@ -743,7 +619,8 @@
     "region": "Asia",
     "subregion": "Eastern Asia",
     "tags": [
-      "Gaming"
+      "Gaming",
+      "Technology, media and telecommunications"
     ],
     "year": 2021,
     "program": "Techstars Music Accelerator",
@@ -754,6 +631,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/555-comic",
       "twitter": "https://twitter.com/crc_luna",
@@ -764,13 +642,12 @@
       "city": "Tokyo",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": []
   },
   {
     "id": "techstars-mint-state-labs",
+    "source": "techstars",
     "name": "Mint State Labs",
     "description": "Mint State Labs is looking to bring gaming enthusiast communities together with web3.0 technologies. MSL: Innovate, Create, Connect.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62368ba61d115c0008c62b9c/original/Negative-Icon-144ppi.png",
@@ -794,6 +671,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mintstatelabs",
       "twitter": "https://twitter.com/MintStateLabs",
@@ -805,13 +683,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-geopipe",
+    "source": "techstars",
     "name": "Geopipe",
     "description": "Immersive virtual copies of the world, built by algorithms, for games, SFX, simulation, architecture, real estate, VR/AR, and beyond.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5954934cc9aec76af500000d/original/geopipe_pipe_simple_dark.png",
@@ -833,6 +710,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10985571",
       "twitter": "https://twitter.com/geopipeinc",
@@ -844,89 +722,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-themonetizr",
-    "name": "TheMonetizr",
-    "description": "Monetizr is a marketplace enabling game developers to reward and monetize their players with physical rewards.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/595230c79c66a9535100000c/original/Logo-square.png",
-    "website": "https://themonetizr.com",
-    "location": "San Francisco, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Big Data",
-      "Gaming",
-      "Mobile"
-    ],
-    "year": 2017,
-    "program": "Techstars Atlanta powered by Cox Enterprises",
-    "programSlugs": [
-      "atlanta-cox"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/10823510",
-      "twitter": "https://twitter.com/themonetizr",
-      "facebook": "https://facebook.com/themonetizr",
-      "crunchbase": "https://crunchbase.com/organization/themonetizr#/entity"
-    },
-    "extra": {
-      "city": "San Francisco",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-weplayed",
-    "name": "WePlayed",
-    "description": "WePlayed is a community-driven video platform for all college sports. When the game ends, the story begins.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5ce6d5ea34a60d4134000010/original/Artboard_1_3x.png",
-    "website": "https://weplayed.com",
-    "location": "Boston, Massachusetts, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Gaming"
-    ],
-    "year": 2019,
-    "program": "Techstars Sports Accelerator Powered by Indy",
-    "programSlugs": [
-      "indy-sports"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/weplayedsports",
-      "twitter": "https://twitter.com/weplayed",
-      "facebook": "https://facebook.com/weplayedinc",
-      "crunchbase": "https://crunchbase.com/organization/weplayed"
-    },
-    "extra": {
-      "city": "Boston",
-      "state_province": "Massachusetts",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-unruly-studios",
+    "source": "techstars",
     "name": "Unruly Studios",
     "description": "Unruly Studios uses active, recess-style play to teach kids 6+ how to code.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b4658cbc1a4b83b7c000097/original/Unruly_Studios_Logo.png",
@@ -935,9 +736,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Edtech",
       "Gaming",
-      "Internet of Things",
-      "Mobile"
+      "Internet of Things"
     ],
     "year": 2018,
     "program": "Alexa Accelerator, Powered by Techstars",
@@ -946,6 +747,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/unrulystudios",
       "twitter": "https://twitter.com/unruly_studios",
@@ -957,52 +759,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-novel-effect",
-    "name": "Novel Effect",
-    "description": "Seattle-based Novel Effect is the leader in voice-driven media and entertainment across books, video, toys and games.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5c8a68c534a60d0aec000023/original/Full_Logo_Square_WhiteBG.png",
-    "website": "https://noveleffect.com",
-    "location": "Seattle, Washington, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Fintech",
-      "Gaming",
-      "Internet of Things",
-      "Mobile",
-      "Virtual reality"
-    ],
-    "year": 2017,
-    "program": "Alexa Accelerator, Powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/novel-effect-inc-",
-      "twitter": "https://twitter.com/Novel_Effect",
-      "facebook": "https://facebook.com/noveleffect",
-      "crunchbase": "https://crunchbase.com/organization/novel-effect-inc#/entity"
-    },
-    "extra": {
-      "city": "Seattle",
-      "state_province": "Washington",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-game-theory",
+    "source": "techstars",
     "name": "Game Theory",
     "description": "A fitness experience that makes casual sports convenient, addictive, and exciting.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e1f1805a36c11204600021e/original/Game_Theory.png",
@@ -1020,6 +782,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/game-theory-sports",
       "twitter": "",
@@ -1031,53 +794,12 @@
       "state_province": "Karnataka",
       "country": "India"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "India",
     "alsoIn": []
   },
   {
-    "id": "techstars-zoog",
-    "name": "Zoog",
-    "description": "Zoog is an asynchronous-first communication platform for families, powered by immersive AR content and activities.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/61832498eec0376dc140c8d7/original/Screen_Shot_2021-11-03_at_8.08.16_PM.png",
-    "website": "https://getzoog.com",
-    "location": "Even Yehuda, Israel",
-    "region": "Middle East",
-    "subregion": "Middle East",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Fintech",
-      "Gaming",
-      "Mobile",
-      "Virtual reality"
-    ],
-    "year": 2021,
-    "program": "Comcast NBCUniversal LIFT Labs Accelerator Powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/zooghq",
-      "twitter": "https://twitter.com/zooghq",
-      "facebook": "https://facebook.com/zoogHQ/",
-      "crunchbase": "https://crunchbase.com/organization/zoog"
-    },
-    "extra": {
-      "city": "Even Yehuda",
-      "country": "Israel"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Israel",
-    "alsoIn": [
-      "500"
-    ]
-  },
-  {
     "id": "techstars-gamesight",
+    "source": "techstars",
     "name": "Gamesight",
     "description": "Connecting players to games.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56241a8f808320bd99000004/original/InnervateLogoSquare.png",
@@ -1099,6 +821,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gamesight",
       "twitter": "https://twitter.com/innervateinc",
@@ -1110,13 +833,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-agadolive",
+    "source": "techstars",
     "name": "AgadoLive",
     "description": "Enables wellness businesses to create and deliver effective remote sessions, and eventually, make them available in the metaverse.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/616fd8bd1974b40009817765/original/logo-300x300.png",
@@ -1140,6 +862,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/agado-live",
       "twitter": "https://twitter.com/agadolive",
@@ -1150,13 +873,51 @@
       "city": "Ramat Hashron",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
+    "id": "techstars-soihtu-dtx",
+    "source": "techstars",
+    "name": "Soihtu DTx",
+    "description": "Soihtu DTx is the first personalized, precision digital therapeutic (DTx) as a video game for depression.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3be117074ef161adc66d343bd.jpg",
+    "website": "https://soihtudtx.com",
+    "location": "AALTO, Uusimaa, Finland",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "tags": [
+      "Digital health",
+      "Gaming",
+      "Healthtech"
+    ],
+    "year": 2026,
+    "program": "Northwestern Medicine & Techstars Healthcare Accelerator",
+    "programSlugs": [
+      "northwestern-medicine-healthcare"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/soihtu-dtx",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "AALTO",
+      "state_province": "Uusimaa",
+      "country": "Finland"
+    },
+    "country": "Finland",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-kidas",
+    "source": "techstars",
     "name": "Kidas",
     "description": "Kidas is an AI-based technology that connects to any game console and helps parents protect their children from cyberbullying and online predation by analyzing voice and text conversations in real-time.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f501adaa36c11609e00006d/original/Final_logo.png",
@@ -1177,6 +938,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kidas",
       "twitter": "https://twitter.com/kidasnet",
@@ -1188,13 +950,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-gamesense-sports",
+    "source": "techstars",
     "name": "gameSense Sports",
     "description": "Our mission is to make cognitive training as universal, accessible & affordable as physical training for all sports participants - amateur thru pro.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f26d64334a60d2f0a0001a0/original/gamesense_logomark_fullcolor_0.1x.png",
@@ -1214,6 +975,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gamesense-sports",
       "twitter": "https://twitter.com/GameSenseSports",
@@ -1225,13 +987,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-brizi",
+    "source": "techstars",
     "name": "Brizi",
     "description": "Pioneers in crowd-controlled camera technology in sports, entertainment, and attractions.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58a383169c66a90a2b0001a2/original/BriziLogo.png",
@@ -1256,6 +1017,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/brizi",
       "twitter": "https://twitter.com/brizi",
@@ -1267,13 +1029,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-fave",
+    "source": "techstars",
     "name": "Fave",
     "description": "Fave is a social video platform & marketplace dedicated to passionate fans, allowing them to create and share immersive content, connect with like-minded fans, compete in fun challenges, exchange virtual and physical goods, and earn status, recognition, a",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6076578e2c48630007fc0e94/original/fave_for_connect.png",
@@ -1295,6 +1056,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/faveforfans",
       "twitter": "https://twitter.com/faveforfans",
@@ -1305,13 +1067,12 @@
       "city": "Dietikon",
       "country": "Switzerland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Switzerland",
     "alsoIn": []
   },
   {
     "id": "techstars-respeecher",
+    "source": "techstars",
     "name": "Respeecher",
     "description": "Respeecher uses AI technology to transform voices, allowing one person to speak in the voice of another.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d19d55a34a60d202d0000fc/original/RS_logo_square.png",
@@ -1331,6 +1092,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/respeecher",
       "twitter": "https://twitter.com/respeecher",
@@ -1341,13 +1103,12 @@
       "city": "Kyiv",
       "country": "Ukraine"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ukraine",
     "alsoIn": []
   },
   {
     "id": "techstars-the-gist",
+    "source": "techstars",
     "name": "The GIST",
     "description": "The GIST provides sports content, experiences, and community for women.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d802ad734a60d26250000bc/original/G-Primary_Logo-10.png",
@@ -1365,6 +1126,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/thegistnews-ca",
       "twitter": "https://twitter.com/thegistca",
@@ -1376,13 +1138,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-sobet",
+    "source": "techstars",
     "name": "SoBet",
     "description": "Operator of a sports betting media platform intended to provide and distribute sports betting content from independent experts.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d27f82015ea28a3936f98a2e4.png",
@@ -1402,6 +1163,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sobet-app",
       "twitter": "https://twitter.com/SoBet_app",
@@ -1413,13 +1175,12 @@
       "state_province": "Tennessee",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-psycapps",
+    "source": "techstars",
     "name": "PsycApps",
     "description": "Digital Mental Health Games",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c3ce67fa36c114945000005/original/Joy_icon_high_resolution.png",
@@ -1442,6 +1203,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/psycapps",
       "twitter": "https://twitter.com/equoogame",
@@ -1452,13 +1214,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-gameon",
+    "source": "techstars",
     "name": "GameOn",
     "description": "We turn complicated stats and odds into a free and simple game for the everyday fan, with real cash prizes.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d34dd1aa36c117dd8000341/original/GameOn-profile_%281%29.jpg",
@@ -1477,6 +1238,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gameonfanapp",
       "twitter": "https://twitter.com/gameonfanapp",
@@ -1488,13 +1250,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-banjo-robinson",
+    "source": "techstars",
     "name": "Banjo Robinson",
     "description": "Introducing Banjo Robinson - your child's new pen pal! A new-to-market subscription which turns writing practice into a magical game for 5-8 year olds.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d87a17834a60d26250001c1/original/Screenshot_2019-09-22_at_17.25.12.png",
@@ -1514,6 +1275,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/banjorobinson",
       "twitter": "https://twitter.com/banjo_robinson_",
@@ -1524,13 +1286,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-sensible-object",
+    "source": "techstars",
     "name": "Sensible Object",
     "description": "Making games for a more connected world.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/593efffc9c66a9060c000006/original/Sensible_Object_Logo_sq.png",
@@ -1548,6 +1309,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sensible-object",
       "twitter": "https://twitter.com/sensibleobject",
@@ -1558,13 +1320,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-rootnote",
+    "source": "techstars",
     "name": "RootNote",
     "description": "Developer of a business tracking platform designed to help creators to turn their passions into their livelihoods.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8353bcc68fae6e847081933e9.png",
@@ -1587,6 +1348,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rootnote",
       "twitter": "https://twitter.com/rootnoteco",
@@ -1598,13 +1360,12 @@
       "state_province": "Tennessee",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-beastcoast",
+    "source": "techstars",
     "name": "Beastcoast",
     "description": "Beastcoast is global professional gaming organization and digital media enterprise.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f4ffc3534a60d0c990000a3/original/beastcoast_logo_whiteborder.png",
@@ -1626,6 +1387,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/beastcoast",
       "twitter": "https://twitter.com/beastcoast",
@@ -1637,13 +1399,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-jintronix",
+    "source": "techstars",
     "name": "Jintronix",
     "description": "physical rehab",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/35b0/b776/1035/b600/0002/original/jintronix.jpg",
@@ -1661,6 +1422,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/jintronix",
       "twitter": "https://twitter.com/jintronix",
@@ -1672,13 +1434,12 @@
       "state_province": "Quebec",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-cognotion",
+    "source": "techstars",
     "name": "Cognotion",
     "description": "Workforce training for today's youthforce",
     "logo": "https://apimg.techstars.com/connect/images/image_files/54088da00c6375a4fc000001/original/1526491_495080977286581_5407749578535701213_n-1.jpg",
@@ -1696,6 +1457,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/5244753",
       "twitter": "https://twitter.com/Cognotion",
@@ -1707,50 +1469,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-soihtu-dtx",
-    "name": "Soihtu DTx",
-    "description": "Soihtu DTx is the first personalized, precision digital therapeutic (DTx) as a video game for depression.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3be117074ef161adc66d343bd.jpg",
-    "website": "https://soihtudtx.com",
-    "location": "AALTO, Uusimaa, Finland",
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "tags": [
-      "Digital health",
-      "Gaming",
-      "Healthtech"
-    ],
-    "year": 2026,
-    "program": "Northwestern Medicine & Techstars Healthcare Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/soihtu-dtx",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "AALTO",
-      "state_province": "Uusimaa",
-      "country": "Finland"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Finland",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-radd",
+    "source": "techstars",
     "name": "Radd",
     "description": "radd. is an eCommerce Intelligence Saas Platform for Boosting User Generated Content via LIVE & Data Driven Story Reviews.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5e7dc7882062746e31fbc25e7.png",
@@ -1770,6 +1494,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/radd.",
       "twitter": "",
@@ -1780,13 +1505,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-five-mics",
+    "source": "techstars",
     "name": "FIVE MICS",
     "description": "A digital trading card game rich in hip-hop culture",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/le37asn7qaysx2hrxutz",
@@ -1806,6 +1530,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fivemics",
       "twitter": "",
@@ -1817,13 +1542,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-simbull-sports-exchange",
+    "source": "techstars",
     "name": "SimBull Sports Exchange",
     "description": "SimBull - Where fortune favours the fan.\n\nTo view the company one-page summary click here - https://app.buildmemo.com/s/8tz67z",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6237bdd61d115c0008c62ba8/original/Simbull.jpeg",
@@ -1844,6 +1568,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/simbull-sports-exchange",
       "twitter": "https://twitter.com/SimBullExchange",
@@ -1855,50 +1580,12 @@
       "state_province": "Minnesota",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-datawisp",
-    "name": "Datawisp",
-    "description": "StatsHelix is a gametech company that creates interactive engagement layers and broadcast tools for the gaming industry.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5f06019fa36c1154930000e5/original/StatsHelix_Super_High_Res.png",
-    "website": "https://datawisp.io",
-    "location": "Hempstead, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Gaming"
-    ],
-    "year": 2020,
-    "program": "Techstars Space Accelerator",
-    "programSlugs": [
-      "space"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/statshelix",
-      "twitter": "https://twitter.com/statshelix",
-      "facebook": "https://facebook.com/statshelix",
-      "crunchbase": "https://crunchbase.com/organization/statshelix"
-    },
-    "extra": {
-      "city": "Hempstead",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-hololink",
+    "source": "techstars",
     "name": "Hololink",
     "description": "Hololink is the easiest and fastest way to create interactive augmented reality experiences with no code and no apps.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/wcu582mk6rxcdhmb7rbj",
@@ -1920,6 +1607,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hololink",
       "twitter": "",
@@ -1930,13 +1618,12 @@
       "city": "Copenhagen",
       "country": "Denmark"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Denmark",
     "alsoIn": []
   },
   {
     "id": "techstars-paralog",
+    "source": "techstars",
     "name": "Paralog",
     "description": "Paralog is an AI platform to democratize and accelerate production of NPC behaviors in video games.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ac5da60e7f849cdbfecfd5e48.png",
@@ -1956,6 +1643,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/paralog-ai",
       "twitter": "",
@@ -1967,13 +1655,12 @@
       "state_province": "Quebec",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-boxtree",
+    "source": "techstars",
     "name": "Boxtree",
     "description": "Boxtree creates fun multiplayer games with infinite replayability for the era of spatial computing.",
     "logo": "https://apimg.techstars.com/profiles/1755494646859_717293.png",
@@ -1996,6 +1683,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/boxtree-inc",
       "twitter": "",
@@ -2007,13 +1695,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-customerglu",
+    "source": "techstars",
     "name": "CustomerGlu",
     "description": "Glu empowers marketers at digital businesses to drive \"interactive workflows\" for their users with just a few clicks - and choose from a library of pre-built interactions library.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/605d7cefa6bd3800072f0622/original/Glu-logo-square.png",
@@ -2031,6 +1718,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/customerglu",
       "twitter": "https://twitter.com/CustomerGlu",
@@ -2042,13 +1730,12 @@
       "state_province": "Karnataka",
       "country": "India"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "India",
     "alsoIn": []
   },
   {
     "id": "techstars-redvest-app",
+    "source": "techstars",
     "name": "Redvest App",
     "description": "Redvest is the place to learn investing for GenZs. Learn, compete, play and start your journey to financial freedom!",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_48cd838645d47ae5f49d3081d.png",
@@ -2069,6 +1756,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/redvestapp",
       "twitter": "",
@@ -2080,13 +1768,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-lucky-juicebox",
+    "source": "techstars",
     "name": "Lucky Juicebox",
     "description": "Games and tools for XR Headsets. For Anyone, anywhere.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_226ebfa90547bf38f123592bd.png",
@@ -2108,6 +1795,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/luckyjuicebox",
       "twitter": "https://twitter.com/lucky_juicebox",
@@ -2119,13 +1807,53 @@
       "state_province": "California",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-powertechs",
     "source": "techstars",
+    "name": "PowerTechs",
+    "description": "The Evidence Layer for Skills-based Hiring",
+    "logo": "https://apimg.techstars.com/profiles/1669959524473_711541.png",
+    "website": "https://powertechs.us",
+    "location": "Austin, Texas, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Edtech",
+      "Gaming",
+      "HRtech",
+      "SaaS"
+    ],
+    "year": 2022,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/112764972",
+      "twitter": "https://twitter.com/figma",
+      "facebook": "https://facebook.com/figmadesign",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Austin",
+      "state_province": "Texas",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-conduit-virtual",
+    "source": "techstars",
     "name": "Conduit Virtual",
     "description": "The premium marketplace for the video game industry.\n\nWe want to help every game company find and transact with one another.\n\nTrack market movements and insights only on Conduit.",
     "logo": "https://apimg.techstars.com/profiles/1733338046676_848560.png",
@@ -2145,6 +1873,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/conduitgg",
       "twitter": "",
@@ -2156,13 +1885,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-robodub",
+    "source": "techstars",
     "name": "Robodub",
     "description": "We are a drone company developing high performance drones that has better agility, maneuverability, safety, and load-balancing capacity.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a73af099c66a9163c000121/original/SquareLogo.jpg",
@@ -2181,6 +1909,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/robodub-inc-",
       "twitter": "https://twitter.com/robodubinc",
@@ -2192,13 +1921,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rooit-play-chat",
+    "source": "techstars",
     "name": "Rooit - Play & Chat!",
     "description": "Gamified chat app, on a mission to empower everyone to find a confidant",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b4d528da36c115d13000118/original/Rooit_logo_square_1000X1000.jpg",
@@ -2218,6 +1946,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rooit-inc",
       "twitter": "https://twitter.com/Rooit_app",
@@ -2228,13 +1957,12 @@
       "city": "Taipei",
       "country": "Taiwan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Taiwan",
     "alsoIn": []
   },
   {
     "id": "techstars-immersive-systems",
+    "source": "techstars",
     "name": "Immersive Systems",
     "description": "Immersive Systems is delivering an esports media platform that powers the next generation of fan engagement and revenue growth.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b3581efa36c1131c800035b/original/ImmersiveSystemsStacked-282x282.png",
@@ -2254,6 +1982,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/immersive-systems-inc",
       "twitter": "https://twitter.com/ImmerseOS",
@@ -2265,13 +1994,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-groovy-antoid",
+    "source": "techstars",
     "name": "Groovy Antoid",
     "description": "Mobile and messenger gaming company building polished casual games, with cute, colorful characters and quirky, social gameplay.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b54391634a60d4154000015/original/GroovyAntoid_Icon_Green.png",
@@ -2290,6 +2018,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/groovy-antoid",
       "twitter": "https://twitter.com/GroovyAntoid",
@@ -2300,13 +2029,12 @@
       "city": "Beirut",
       "country": "Lebanon"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Lebanon",
     "alsoIn": []
   },
   {
     "id": "techstars-metapals",
+    "source": "techstars",
     "name": "MetaPals",
     "description": "MetaPals is a browser extension that allows users to interact and grow NFT pets directly from their browser computer screen.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62368cd3f01b4e0008ca2820/original/Favicon_Square.png",
@@ -2330,6 +2058,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/metapals",
       "twitter": "https://twitter.com/MetaPals",
@@ -2340,13 +2069,12 @@
       "city": "Singapore",
       "country": "Singapore"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Singapore",
     "alsoIn": []
   },
   {
     "id": "techstars-secret-city-trails",
+    "source": "techstars",
     "name": "Secret City Trails",
     "description": "Playful experiences for discovery - made by a community of creators.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/tqulr1npzhmdsdoplegk",
@@ -2364,6 +2092,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10453886",
       "twitter": "https://twitter.com/secretcitytrail",
@@ -2374,13 +2103,12 @@
       "city": "Lisbon",
       "country": "Portugal"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Portugal",
     "alsoIn": []
   },
   {
     "id": "techstars-gamr",
+    "source": "techstars",
     "name": "Gamr",
     "description": "Gamr is a competitive gaming platform that makes it easy for gamers to discover tournaments, team up, and compete in their favorite games.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_829161986f3a875ca3c36e484.png",
@@ -2402,6 +2130,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gamr",
       "twitter": "https://twitter.com/gamrafrica",
@@ -2413,13 +2142,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-flustr",
+    "source": "techstars",
     "name": "Flustr",
     "description": "A mobile platform for users to compete with friends in a live, short-form video game where spectators control the outcome.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vfrngpleg1xqw2ifbdj7",
@@ -2443,6 +2171,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/flustr",
       "twitter": "https://twitter.com/uvsfriends",
@@ -2454,13 +2183,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fanbants",
+    "source": "techstars",
     "name": "Fanbants",
     "description": "The social DraftKings of Africa",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_1ccf0c6f2a28b9319c50da1cd.png",
@@ -2480,6 +2208,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fanbants",
       "twitter": "https://twitter.com/PlayFanbants",
@@ -2490,13 +2219,12 @@
       "city": "Lagos",
       "country": "Nigeria"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Nigeria",
     "alsoIn": []
   },
   {
     "id": "techstars-evil-genius-games",
+    "source": "techstars",
     "name": "Evil Genius Games",
     "description": "Evil Genius Games is a publisher of tabletop roleplaying games based on movie franchises such as Rambo and Pacific Rim.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ws7ozddn58gtoehtgndh",
@@ -2514,6 +2242,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/evil-genius-games",
       "twitter": "https://twitter.com/EvilGeniusGames",
@@ -2525,13 +2254,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cogniscope",
+    "source": "techstars",
     "name": "CogniScope",
     "description": "We offer a pioneering SaaS solution for gaming studios that leverages advanced AI models based on psychological studies to interpret player emotions and behaviors, transforming insights into prioritized action items for strategic decision-making.",
     "logo": "https://apimg.techstars.com/profiles/1727888063861_869014.png",
@@ -2549,6 +2277,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cogniscope",
       "twitter": "",
@@ -2560,13 +2289,12 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-waldek-technologies",
+    "source": "techstars",
     "name": "Waldek Technologies",
     "description": "Waldek Technologies is developing Gauzilla Pro, the #1 AI-powered & no-code web editor for 3D/4D digital twins. Gauzilla utilizes the latest radiance field technology and serverless edge-AI that runs directly in a web browser.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3b287c3a686bcc8631772cad6.png",
@@ -2590,6 +2318,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/waldek-technologies",
       "twitter": "",
@@ -2600,13 +2329,12 @@
       "city": "Tallinn",
       "country": "Estonia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Estonia",
     "alsoIn": []
   },
   {
     "id": "techstars-fix-health",
+    "source": "techstars",
     "name": "FIX HEALTH",
     "description": "An incremental behavior change engine that solves a variety of user engagement problems across multiple health verticals.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5bc6194434a60d09e3000008/original/FIXHEALTH_logo_282x282.png",
@@ -2628,6 +2356,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fix-fitness-interactive-experience",
       "twitter": "https://twitter.com/fix_outbreak",
@@ -2639,13 +2368,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-vrotors",
+    "source": "techstars",
     "name": "vRotors",
     "description": "vRotors unlocks live engagement with remote locations for distributed teams through revolutionary real-time control of robotics and drones.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5eb98d29a36c116eba000064/original/Screen_Shot_2020-05-11_at_10.36.23_AM.png",
@@ -2668,6 +2396,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/vrotors-inc",
       "twitter": "https://twitter.com/VRotors",
@@ -2679,51 +2408,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-megafans",
-    "name": "MegaFans",
-    "description": "Mobile esports platform bridging web2 to web3 for gamers and enabling game developers to increase their player lifetime value.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/624c756df01b4e14f48b3605/original/Screenshot_2022-04-05_at_17.59.15.png",
-    "website": "https://megafans.com",
-    "location": "Carlsbad, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Cryptocurrency/Blockchain",
-      "eSports",
-      "Gaming",
-      "Mobile"
-    ],
-    "year": 2022,
-    "program": "Launchpool Web3 Techstars Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/megafans-com",
-      "twitter": "https://twitter.com/MegafansEsports",
-      "facebook": "https://facebook.com/MegafansEsports/",
-      "crunchbase": "https://crunchbase.com/organization/megafans"
-    },
-    "extra": {
-      "city": "Carlsbad",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-liveduel",
+    "source": "techstars",
     "name": "LiveDuel",
     "description": "DeFi-powered digital sports markets and live fan engagement.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/624c72b5fe8b48148f367ec7/original/Screenshot_2022-04-05_at_17.47.34.png",
@@ -2742,6 +2432,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/liveduel",
       "twitter": "https://twitter.com/LiveDuel",
@@ -2752,13 +2443,12 @@
       "city": "Cork",
       "country": "Ireland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ireland",
     "alsoIn": []
   },
   {
     "id": "techstars-holos",
+    "source": "techstars",
     "name": "Holos",
     "description": "A virtual reality content management system that makes it super easy for curriculum designers to create and deploy immersive learning experiences.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f52a00ba36c11609e000080/original/Holos_White_BG-01.png",
@@ -2778,6 +2468,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/holos-global",
       "twitter": "https://twitter.com/holosVR",
@@ -2789,13 +2480,12 @@
       "state_province": "Wisconsin",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-champhunt",
+    "source": "techstars",
     "name": "Champhunt",
     "description": "We are creating a reward-based community centered around cricket, where all stakeholders can connect, share their experiences, and enjoy themselves.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c067fb8e899f4b2c134e6f600.jpg",
@@ -2818,6 +2508,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/champhunt",
       "twitter": "",
@@ -2829,13 +2520,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-big-fan",
+    "source": "techstars",
     "name": "Big Fan",
     "description": "Reinventing sports collectibles with officially licensed NFTs that provide access to Metaverse-driven fan experiences.",
     "logo": "https://apimg.techstars.com/profiles/1665729143375_60009.png",
@@ -2854,6 +2544,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/big-fan-io",
       "twitter": "https://twitter.com/BigFan_io",
@@ -2864,13 +2555,12 @@
       "city": "Dublin",
       "country": "Ireland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ireland",
     "alsoIn": []
   },
   {
     "id": "techstars-uma",
+    "source": "techstars",
     "name": "UMA",
     "description": "Play to Lean! Building a virtual world where learning and playing are one and the same",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6204e4d42095811209565388/original/UMA_logo_square.png",
@@ -2893,6 +2583,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/uma-games",
       "twitter": "https://twitter.com/uma__games",
@@ -2903,13 +2594,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-carbon-origins",
+    "source": "techstars",
     "name": "Carbon Origins",
     "description": "Carbon Origins provides free dine-in quality deliveries on robots trained and monitored by remote VR drivers",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61072cfa6ddcda0007661377/original/COi_White_Black-BG.png",
@@ -2932,6 +2622,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/carbon-origins",
       "twitter": "https://twitter.com/carbonorigins",
@@ -2943,13 +2634,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-reactiv",
+    "source": "techstars",
     "name": "Reactiv",
     "description": "Reactiv is a virtual physical rehabilitation clinic, where we use computer vision and gaming to increase engagement and improve outcome.",
     "logo": "https://apimg.techstars.com/profiles/1661799133080_772970.png",
@@ -2970,6 +2660,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/reactivrehab",
       "twitter": "https://twitter.com/reactivrehab",
@@ -2981,13 +2672,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-combat-iq",
+    "source": "techstars",
     "name": "Combat IQ",
     "description": "Gold standard Combat-Sports analytics provider.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/hemk4o3cg9ex06nonylp",
@@ -3011,6 +2701,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/combat-iq",
       "twitter": "",
@@ -3022,13 +2713,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-notey",
+    "source": "techstars",
     "name": "Notey",
     "description": "Notey Inc: Merging gaming and music education.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_613ff21baf5d809ef39a47c9c.png",
@@ -3050,6 +2740,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/notey",
       "twitter": "",
@@ -3061,13 +2752,12 @@
       "state_province": "South Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-n3mus",
+    "source": "techstars",
     "name": "N3MUS",
     "description": "N3MUS serves as the essential bridge, connecting traditional gamers to blockchain technology while providing a cost-effective and user-friendly gaming experience.\n\nN3MUS approach involves standardising services and infrastructure for the gaming industry, thereby reducing development costs and time to market, ensuring technology stability, and avoiding long-term technical debt.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c81f44eec6b41c7faaba096ad.jpg",
@@ -3088,6 +2778,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/n3mus",
       "twitter": "https://twitter.com/N3musFdn",
@@ -3098,13 +2789,12 @@
       "city": "Westervoort",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-locker",
+    "source": "techstars",
     "name": "Locker",
     "description": "Locker provides sports fans with a single app to find and consume the topics they love, from the media brands they trust.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f5b908c34a60d4e6e000029/original/Locker_App_Icon.png",
@@ -3126,6 +2816,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/getlocker",
       "twitter": "https://twitter.com/getlockersport",
@@ -3137,13 +2828,12 @@
       "state_province": "Dublin",
       "country": "Ireland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ireland",
     "alsoIn": []
   },
   {
     "id": "techstars-five-star-fans",
+    "source": "techstars",
     "name": "Five Star Fans",
     "description": "Crowdsource fan support to recruit and retain athletes to your favorite Universities",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7da7e4c09d8e8ddef6dadad78.jpg",
@@ -3165,6 +2855,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/five-star-fans",
       "twitter": "",
@@ -3176,52 +2867,12 @@
       "state_province": "Ohio",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-esportudo",
-    "name": "Esportudo",
-    "description": "Esportudo is a sports media brand giving latinos the most complete coverage on their favorite players, teams, and leagues through personalized content and apps",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5f31adcda36c113b600000eb/original/ES_ProfilePics_360x360.png",
-    "website": "https://esportudo.com",
-    "location": "Boston, Massachusetts, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Gaming",
-      "Mobile"
-    ],
-    "year": 2020,
-    "program": "Techstars Sports Accelerator Powered by Indy",
-    "programSlugs": [
-      "indy-sports"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/esportudo",
-      "twitter": "https://twitter.com/esportudo",
-      "facebook": "https://facebook.com/pg/Esportudo/",
-      "crunchbase": "https://crunchbase.com/organization/esportudo"
-    },
-    "extra": {
-      "city": "Boston",
-      "state_province": "Massachusetts",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-acrylic",
+    "source": "techstars",
     "name": "Acrylic",
     "description": "Acrylic.LA is a digital music marketplace for SYNC where ad agencies, content creators, and fans, leverage indie ARTIST brands like never before.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_299447d51c80cb1780f08dd45.png",
@@ -3244,6 +2895,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/acrylic-inc",
       "twitter": "",
@@ -3255,55 +2907,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-8lab",
-    "name": "8LAB",
-    "description": "8LAB is the members-only hub where creatives and tech pros connect and innovate with guidance from industry leaders + AI, Agent 8.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9724ef1317d545b9231ab49bc.jpeg",
-    "website": "https://8lab.ai",
-    "location": "Los Angeles, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Augmented reality",
-      "Edtech",
-      "Gaming",
-      "Impact investing",
-      "Marketing tech"
-    ],
-    "year": 2024,
-    "program": "Techstars Equitech Accelerator",
-    "programSlugs": [
-      "equitech"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/join8lab",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/8ai"
-    },
-    "extra": {
-      "city": "Los Angeles",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-polycade",
+    "source": "techstars",
     "name": "Polycade",
     "description": "Polycade is a modern arcade platform with access to 1000's of games. We highlight the best of both retro and modern games in a familiar interface and arcade con",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b4baa5fa36c115d130000eb/original/logo-p_copy.jpg",
@@ -3322,6 +2931,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/polycade",
       "twitter": "https://twitter.com/thepolycade",
@@ -3333,13 +2943,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-streamfog",
+    "source": "techstars",
     "name": "Streamfog",
     "description": "We're transforming the streaming landscape with AR advertising. From Twitch to YouTube to Netflix, we believe traditional commercial breaks are outdated. Our in-content solutions disrupt the industry, not your entertainment.",
     "logo": "https://apimg.techstars.com/profiles/1729625238597_391744.png",
@@ -3364,6 +2973,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/streamfog",
       "twitter": "",
@@ -3375,13 +2985,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-quirkchat",
+    "source": "techstars",
     "name": "QuirkChat",
     "description": "Video social network for anime and geek commentary. 30,000 beta users, (+) 5,000 since launch in April '21. Backed by Snapchat and Techstars.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/601b1efead39cb000800002a/original/On_purple_bg_Sign.png",
@@ -3403,6 +3012,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/quirkchat",
       "twitter": "https://twitter.com/quirkchat",
@@ -3414,13 +3024,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-atom-universe",
+    "source": "techstars",
     "name": "Atom Universe",
     "description": "Metaverse-as-a-Service offering brands to launch their own metaverse platform to engage their user in breathtaking white label virtual worlds",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62c73a93d93b680008c74592/original/Screen_Shot_2022-07-07_at_2.51.35_PM.png",
@@ -3445,6 +3054,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/atom-republic",
       "twitter": "https://twitter.com/AtomRepublic",
@@ -3455,13 +3065,12 @@
       "city": "Woking",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-oversight",
+    "source": "techstars",
     "name": "Oversight",
     "description": "3D, visual, and unified data management platform that connects any map-locatable device for enhancing operators' situational awareness and decision-making using XR tools",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/u3frh4yoguxwkepkaedl",
@@ -3485,6 +3094,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/oversight-ar",
       "twitter": "",
@@ -3495,13 +3105,12 @@
       "city": "Poria Illit",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-glow-up-games",
+    "source": "techstars",
     "name": "Glow Up Games",
     "description": "Glow Up Games creates mobile games targeting women of color, using the proven power of diverse storytelling to better understand & serve this hidden market within the gaming industry.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/enkvnq8aijiesacm6kco",
@@ -3520,6 +3129,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/glow-up",
       "twitter": "https://twitter.com/glowupgames",
@@ -3531,13 +3141,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-digital-will",
+    "source": "techstars",
     "name": "Digital Will",
     "description": "Digital Will's WORTAL empowers game studios to swift distribution, enhanced monetization, and cost-effective efficiency",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgpfd36bgksi4tma1hfi",
@@ -3558,6 +3167,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/digital-will",
       "twitter": "https://twitter.com/digitalwillinc",
@@ -3568,13 +3178,12 @@
       "city": "Minato City",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": []
   },
   {
     "id": "techstars-assethub",
+    "source": "techstars",
     "name": "Assethub",
     "description": "Provides an easy way to create unique 3D models from pictures using AI",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_0768f5d0dc1e27c9e62bb9bc7.png",
@@ -3594,6 +3203,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/takuya-goto-027ab0134",
       "twitter": "",
@@ -3605,13 +3215,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-voight-ai",
+    "source": "techstars",
     "name": "Voight AI",
     "description": "genAI compliance software to help entertainment companies protect their IP",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e1be3baba164b3e9f132aa3c7.png",
@@ -3632,6 +3241,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/artistreeio",
       "twitter": "https://twitter.com/artistreeio",
@@ -3643,13 +3253,12 @@
       "state_province": "Virginia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-glitch",
+    "source": "techstars",
     "name": "Glitch",
     "description": "Glitch is performance-based influencer marketing platform specifically for gaming in which gaming publishers pay creators to play and promote their games.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5229b89667026d41583ba7f2c.png",
@@ -3669,6 +3278,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3680,13 +3290,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-parallux",
+    "source": "techstars",
     "name": "Parallux",
     "description": "Parallux makes it easy for brands and creators to design, build, and host 3D virtual spaces in the metaverse.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/9c74999fc0acb0c49199",
@@ -3711,6 +3320,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/parallux",
       "twitter": "https://twitter.com/paralluxco",
@@ -3722,13 +3332,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mtion",
+    "source": "techstars",
     "name": "mtion",
     "description": "Mtion connects streamers with their fans through shared 3D experiences.",
     "logo": "https://apimg.techstars.com/profiles/1659971790328_869795.png",
@@ -3746,6 +3355,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mtion-tv",
       "twitter": "https://twitter.com/mtiontv",
@@ -3757,13 +3367,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-kyd-labs",
+    "source": "techstars",
     "name": "KYD Labs",
     "description": "KYD is a blockchain-enabled event ticketing platform that unlocks long term loyalty, resale revenue for live event hosts and ensures buyers get authentic resale tickets.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/630507ff7ebc2d000a2a4bb0/original/Kyd_Labs.png",
@@ -3784,6 +3393,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kydlabsco",
       "twitter": "https://twitter.com/kydlabs",
@@ -3795,13 +3405,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-enrichly",
+    "source": "techstars",
     "name": "Enrichly",
     "description": "Enrichly offers youth development courses virtually and in-person to elementary, middle, and high school students that aim to increase self-esteem and confidence.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_43df5034dab64c3105b82f04c.jpeg",
@@ -3824,6 +3433,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/enrich-ly",
       "twitter": "https://twitter.com/enrich_ly",
@@ -3835,13 +3445,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dovey",
+    "source": "techstars",
     "name": "Dovey",
     "description": "Virtual dates for couples that meet in online communities.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6151cd0abf114b315abbbd52/original/Dovey-Virtual-Dates-Square.jpg",
@@ -3864,6 +3473,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dovey",
       "twitter": "",
@@ -3875,13 +3485,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-pivan-interactive",
+    "source": "techstars",
     "name": "Pivan Interactive",
     "description": "Pivan (dba Uncanny.gg) turns streamers into pro-broadcasters by providing AI as their production team.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/605d326dc97c0a0007ed57f7/original/Pivan_Vertival_Dark_d2.png",
@@ -3900,6 +3509,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pivan-interactive-inc",
       "twitter": "https://twitter.com/uncanny_gg",
@@ -3911,13 +3521,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-a-champs",
+    "source": "techstars",
     "name": "A-Champs",
     "description": "A-Champs develops interactive, gamified and sports-science based training solutions for people of all ages and fitness levels.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5edfb1f134a60d100e000003/original/A-Champs_logo_%28color%29.jpg",
@@ -3939,6 +3548,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/a-champs",
       "twitter": "https://twitter.com/achampsofficial",
@@ -3949,13 +3559,12 @@
       "city": "Barcelona",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
     "alsoIn": []
   },
   {
     "id": "techstars-the-fan-s-place",
+    "source": "techstars",
     "name": "The Fan's Place",
     "description": "The Fan's Place is a Customer Loyalty Platform where bars & restaurants use a unique, fantasy sports-based rewards program to engage their patrons and give them a free shot at real cash prizes.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62c74100b31d233f83ac915a/original/the_fan's_place.jpeg",
@@ -3975,6 +3584,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/56451527",
       "twitter": "",
@@ -3986,13 +3596,12 @@
       "state_province": "Indiana",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sportsicon",
+    "source": "techstars",
     "name": "Sportsicon",
     "description": "Connect with the greatest sportspeople of all time through NFTs.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60dec5578e797962e22c90b7/original/CS_SportsIcon_Logo_AllColours-03.jpg",
@@ -4013,6 +3622,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sportsicon",
       "twitter": "https://twitter.com/SportsIcon_",
@@ -4023,13 +3633,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-lootlocker",
+    "source": "techstars",
     "name": "LootLocker",
     "description": "LootLocker is the cross-platform game backend-as-a-service that lets you build, ship & run your best games.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60f70f9eb49cdd0007a31af8/original/lootLockerFull_dark_avatar-200.png",
@@ -4047,6 +3656,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lootlocker",
       "twitter": "https://twitter.com/MyLootLocker",
@@ -4057,13 +3667,12 @@
       "city": "Stockholm",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-local-sports-network",
+    "source": "techstars",
     "name": "Local Sports Network",
     "description": "Local Sports Network strengthens ties between sports teams, fans, and athletes.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a462fe1b06e45bdb9c4c5988c.png",
@@ -4084,6 +3693,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/local-sports-network",
       "twitter": "https://twitter.com/localsports_net",
@@ -4095,13 +3705,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-leagueos",
+    "source": "techstars",
     "name": "LeagueOS",
     "description": "Organize and monetize esports for free, all in one system.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9356e94aa2b65fdd7c7abdda2.png",
@@ -4122,6 +3731,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/leagueos",
       "twitter": "",
@@ -4133,13 +3743,12 @@
       "state_province": "Minnesota",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-keepwol",
+    "source": "techstars",
     "name": "KeepWOL",
     "description": "Improving employee engagement and retention using games.",
     "logo": "https://apimg.techstars.com/profiles/1656443660080_307572.png",
@@ -4162,6 +3771,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/keepwol",
       "twitter": "https://twitter.com/playkeepwol",
@@ -4173,13 +3783,12 @@
       "state_province": "Arizona",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-holodia",
+    "source": "techstars",
     "name": "Holodia",
     "description": "Holodia's platform, HOLOFIT, is an immersive, hardware agnostic, connected FitTech platform that merges gaming and fitness leading to increased user engagement.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6156c6bdbf114b315abbbd6d/original/holodia-logo-retina.png",
@@ -4199,6 +3808,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/holodia",
       "twitter": "https://twitter.com/holodiavr",
@@ -4209,13 +3819,12 @@
       "city": "Zürich",
       "country": "Switzerland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Switzerland",
     "alsoIn": []
   },
   {
     "id": "techstars-grind-interactive",
+    "source": "techstars",
     "name": "GRIND Interactive",
     "description": "GRIND has developed the first portable rebounding machine enabling optimal daily repetition to reach peak performance.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60c696090599b1000715e8b7/original/logo___blk_background.png",
@@ -4236,6 +3845,7 @@
     "isUnicorn": false,
     "isBCorp": true,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/grind-inc.",
       "twitter": "https://twitter.com/GrindBasketbal",
@@ -4247,13 +3857,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cinevva",
+    "source": "techstars",
     "name": "CINEVVA",
     "description": "Cinevva - Turning Creatives Without Tech Skills Into Game Makers",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61d4e36323eb9c79c3308730/original/updated_Cinevva.jpeg",
@@ -4274,6 +3883,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cinevva",
       "twitter": "https://twitter.com/cinevvagames",
@@ -4285,55 +3895,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-kiri",
-    "name": "Kiri",
-    "description": "For parents with young children whom they want to learn a second language, our smart toy provides a multisensory learning experience that teaches kids English, Mandarin and Spanish through play. We teach 46 subjects in all 3 languages.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f7084f8ec91b896819ff9505d.jpg",
-    "website": "https://kiritoys.com",
-    "location": "Brooklyn, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Edtech",
-      "Fintech",
-      "Gaming",
-      "Impact investing",
-      "Internet of Things",
-      "Manufacturing"
-    ],
-    "year": 2023,
-    "program": "Techstars Atlanta powered by J.P. Morgan",
-    "programSlugs": [
-      "atlanta-jp-morgan"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/kiritoys",
-      "twitter": "",
-      "facebook": "https://facebook.com/kiritoys.co/",
-      "crunchbase": "https://crunchbase.com/organization/kiri-74ea"
-    },
-    "extra": {
-      "city": "Brooklyn",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-wage",
+    "source": "techstars",
     "name": "Wage",
     "description": "Wage is a mobile app which allows players to create virtual portfolios and compete head-to-head for money. Wage combines elements of alternative assets, gaming, finance, and sports betting.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_715cb847d1f12419842a74306.png",
@@ -4353,6 +3920,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4364,13 +3932,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-marionette-aps",
+    "source": "techstars",
     "name": "Marionette Aps",
     "description": "High-quality but cost efficient motion capture using AI",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61731d51ab003f0008cbf50d/original/Screen_Shot_2021-10-22_at_4.21.06_PM.png",
@@ -4390,6 +3957,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/marionette-xr",
       "twitter": "",
@@ -4400,13 +3968,12 @@
       "city": "København",
       "country": "Denmark"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Denmark",
     "alsoIn": []
   },
   {
     "id": "techstars-electronic-gaming-federation",
+    "source": "techstars",
     "name": "Electronic Gaming Federation",
     "description": "The Electronic Gaming Federation organizes and produces college esports.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57c86f48a93e9f9611000007/original/Electronic_Gaming_Federation.png",
@@ -4426,6 +3993,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/electronic-gaming-federation",
       "twitter": "https://twitter.com/officialegf",
@@ -4437,13 +4005,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-test-jar-labs",
+    "source": "techstars",
     "name": "TEST JAR LABS",
     "description": "A future focused experimentation brand with an emphasis on tech and entertainment.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ki5cd7v4ge3mkgug0e6t",
@@ -4465,6 +4032,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/testjarlabs",
       "twitter": "https://twitter.com/testjarlabs",
@@ -4476,13 +4044,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-synervoz-communications",
+    "source": "techstars",
     "name": "Synervoz Communications",
     "description": "Using cutting edge audio technologies to enable spontaneous voice chat.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5992192f9c66a90a49000008/original/switchboard-mark.png",
@@ -4502,6 +4069,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/synervoz-communications-inc.",
       "twitter": "https://twitter.com/synervoz",
@@ -4513,8 +4081,6 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": [
       "500"
@@ -4522,6 +4088,7 @@
   },
   {
     "id": "techstars-freewriter",
+    "source": "techstars",
     "name": "freeWriter",
     "description": "Ai-guided, gamified writing muse for novice writers and story tellers.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d1a95b5e8020393f306098cac.png",
@@ -4543,6 +4110,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/freewriter",
       "twitter": "",
@@ -4554,13 +4122,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-voxon-photonics",
+    "source": "techstars",
     "name": "Voxon Photonics",
     "description": "Voxon Photonics are creators of the Voxon VX1 - the world's most advanced three-dimensional (3D) volumetric display.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b036e3fc1a4b840c900001d/original/voxon_photonics_white_writing_on_black_background_square.png",
@@ -4579,6 +4146,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/18092360",
       "twitter": "https://twitter.com/voxonphotonics",
@@ -4590,13 +4158,12 @@
       "state_province": "South Australia",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-proxi",
+    "source": "techstars",
     "name": "Proxi",
     "description": "Proxi powers the future of personalized navigation by making mapping for everyone.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61b7c7fcd7ef4f00085c5bcb/original/Untitled_design-30.png",
@@ -4619,6 +4186,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/proxi-co",
       "twitter": "https://twitter.com/Proxi_Co",
@@ -4630,13 +4198,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-capoom",
+    "source": "techstars",
     "name": "Capoom",
     "description": "Capoom is a software company developing AI based automatic 3d modeling software.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/irk4bkrls8rlqrqwd7ci",
@@ -4664,6 +4231,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/capoom",
       "twitter": "",
@@ -4675,13 +4243,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-playpower-labs",
+    "source": "techstars",
     "name": "Playpower Labs",
     "description": "Making math interactive and engaging",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59c55ca29c66a94030000014/original/vYhRwVAU_400x400.png",
@@ -4701,6 +4268,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/playpower-labs",
       "twitter": "https://twitter.com/playpower",
@@ -4712,13 +4280,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-compliable",
+    "source": "techstars",
     "name": "Compliable",
     "description": "Gaming licensing made easy.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5cf80502a36c11507f00001b/original/logo.png",
@@ -4739,6 +4306,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/compliable",
       "twitter": "https://twitter.com/rebric_io",
@@ -4750,13 +4318,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-the-tap-lab",
+    "source": "techstars",
     "name": "The Tap Lab",
     "description": "Location-based mobile gaming",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59c5574d9c66a94030000005/original/EZX5SIL6_400x400.jpg",
@@ -4777,6 +4344,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/the-tap-lab",
       "twitter": "https://twitter.com/thetaplab",
@@ -4788,13 +4356,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-checkio",
+    "source": "techstars",
     "name": "CheckIO",
     "description": "The game for coders",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5359/5c4d/cb58/5a85/1900/0005/original/checkio.jpg",
@@ -4814,6 +4381,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/checkio",
       "twitter": "https://twitter.com/PlayCheckiO",
@@ -4825,13 +4393,12 @@
       "state_province": "Nevada",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-prediculous",
+    "source": "techstars",
     "name": "Prediculous",
     "description": "Casual social sports game for all fans",
     "logo": "https://s3.amazonaws.com/photos.angel.co/startups/i/167795-2f04e46c4a6abf54ca8883353c9196ae-thumb_jpg.jpg?buster=1360655512",
@@ -4853,6 +4420,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/1485493",
       "twitter": "https://twitter.com/PrediculousGame",
@@ -4864,13 +4432,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-staq",
+    "source": "techstars",
     "name": "Staq",
     "description": "Staq is a backend-as-a-service for games. We make it simple to monetize and optimize free to play games on mobile, web and consoles.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/34fa/a6e7/4b70/e600/0003/original/staq.jpg",
@@ -4888,6 +4455,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/staq-inc-",
       "twitter": "https://twitter.com/GetStaq",
@@ -4899,13 +4467,54 @@
       "state_province": "California",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-kiri",
     "source": "techstars",
+    "name": "Kiri",
+    "description": "For parents with young children whom they want to learn a second language, our smart toy provides a multisensory learning experience that teaches kids English, Mandarin and Spanish through play. We teach 46 subjects in all 3 languages.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f7084f8ec91b896819ff9505d.jpg",
+    "website": "https://kiritoys.com",
+    "location": "Brooklyn, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Edtech",
+      "Fintech",
+      "Gaming",
+      "Impact investing",
+      "Internet of Things",
+      "Manufacturing"
+    ],
+    "year": 2023,
+    "program": "Techstars Atlanta powered by J.P. Morgan",
+    "programSlugs": [
+      "atlanta-jp-morgan"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/kiritoys",
+      "twitter": "",
+      "facebook": "https://facebook.com/kiritoys.co/",
+      "crunchbase": "https://crunchbase.com/organization/kiri-74ea"
+    },
+    "extra": {
+      "city": "Brooklyn",
+      "state_province": "New York",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-emotai",
+    "source": "techstars",
     "name": "EMOTAI",
     "description": "Boosting gamers' performance using neurotechnology.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/cn17u6ub4fn3ppbuunbn",
@@ -4925,6 +4534,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/emotai",
       "twitter": "https://twitter.com/emotai_tech",
@@ -4935,13 +4545,12 @@
       "city": "Lisbon",
       "country": "Portugal"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Portugal",
     "alsoIn": []
   },
   {
     "id": "techstars-fanwide",
+    "source": "techstars",
     "name": "FanWide",
     "description": "FanWide is the world's largest sports fan club network which helps fans find a local fan club in any city. FanWide's marketplace pairs fan clubs to sports bars.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d01390aa36c117ce000000e/original/282.jpg",
@@ -4961,6 +4570,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fanwide",
       "twitter": "https://twitter.com/fanwide",
@@ -4972,13 +4582,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-xpand",
+    "source": "techstars",
     "name": "Xpand",
     "description": "Xpand is a community-engagement platform for the web3 world. ",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6237b88d1d115c0008c62ba4/original/Xpand_L.jpeg",
@@ -4997,6 +4606,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/xpandgaming",
       "twitter": "https://twitter.com/xpandgaming",
@@ -5008,13 +4618,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-world-blender",
+    "source": "techstars",
     "name": "World Blender",
     "description": "Social, location-based games",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3b7c/a6e7/4b16/2700/0005/original/WorldBlender.jpg",
@@ -5036,6 +4645,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/1436317",
       "twitter": "https://twitter.com/worldblender",
@@ -5047,13 +4657,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-vert",
+    "source": "techstars",
     "name": "Vert",
     "description": "Carbon insetting platform enabling buyers, suppliers, and banks to reach net-zero.",
     "logo": "https://static.wixstatic.com/media/51f305_20927ecbc1324487aa5ab2ddbde3776f~mv2.jpg",
@@ -5074,6 +4683,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/vertearth",
       "twitter": "https://twitter.com/",
@@ -5084,13 +4694,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-this-app-saves-lives",
+    "source": "techstars",
     "name": "This App Saves Lives",
     "description": "Drive Safe. Earn Rewards.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f638187a36c112899000047/original/PRIMARY_LOGO_COLOR.png",
@@ -5115,6 +4724,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/thisappsaveslives",
       "twitter": "https://twitter.com/taslapp",
@@ -5126,13 +4736,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-swerve-fitness",
+    "source": "techstars",
     "name": "SWERVE Fitness",
     "description": "Swerve is the first boutique fitness studio to livestream its experience into gyms and studios around the world. Swerve is also the first concept to feature location vs. location competition.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7e4b26989061b9dccac4f3ca4.jpeg",
@@ -5156,6 +4765,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/swerve-fitness",
       "twitter": "https://twitter.com/SWERVE_Fitness",
@@ -5167,13 +4777,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sweatflex",
+    "source": "techstars",
     "name": "SweatFlex",
     "description": "We make working out not suck. Laugh & sweat through our classes while we track your reps to compete with the community. Powered by your Apple Watch.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a342d109c66a957b000000b/original/logo.jpg",
@@ -5195,6 +4804,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/flexintl",
       "twitter": "https://twitter.com/flexsweat",
@@ -5206,13 +4816,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-studio",
+    "source": "techstars",
     "name": "Studio",
     "description": "Studio is an online audio and media company that offers online training to cultivate the creative side in the field of music.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58ffadb7c9aec77437000004/original/tsconne.png",
@@ -5235,6 +4844,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/studio-official",
       "twitter": "https://twitter.com/wearestudio",
@@ -5246,13 +4856,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-spectatar",
+    "source": "techstars",
     "name": "SpectatAR",
     "description": "Blackwolf Labs",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f3b0d4334a60d0abe000237/original/image_%2816%29.png",
@@ -5272,6 +4881,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/13062555",
       "twitter": "https://twitter.com/spectatar",
@@ -5283,13 +4893,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-silverback",
+    "source": "techstars",
     "name": "SilverBack",
     "description": "The Ultimate Business Intelligence Solution For E-Commerce Marketplaces",
     "logo": "https://apimg.techstars.com/connect/images/image_files/538c/513d/3a9e/70be/f700/0002/original/logo282.jpg",
@@ -5311,6 +4920,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/silverback.ai",
       "twitter": "https://twitter.com/",
@@ -5321,13 +4931,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-sidelines",
+    "source": "techstars",
     "name": "Sidelines",
     "description": "Sidelines is people-powered content marketing, distributing posts written by an exclusive community of expert writers and informed enthusiasts.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/544ef22e1edee12755000002/original/sidelines-new-logo-texts-convert-blue-smaller(no-wordmark).gif",
@@ -5346,6 +4955,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sidelines",
       "twitter": "https://twitter.com/SidelinesApp",
@@ -5357,13 +4967,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-shotcall",
+    "source": "techstars",
     "name": "Shotcall",
     "description": "Platform and marketplace for fans to play games with their favorite people",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e92ae3f34a60d416d00012e/original/logo_background.png",
@@ -5383,6 +4992,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shotcall",
       "twitter": "https://twitter.com/ShotcallGG",
@@ -5394,13 +5004,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-reveler",
+    "source": "techstars",
     "name": "Reveler",
     "description": "We connect fans & venues to create digital sports experiences IRL.",
     "logo": "https://apimg.techstars.com/profiles/1665508314646_489346.png",
@@ -5423,6 +5032,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/goreveler",
       "twitter": "https://twitter.com/reveler_app",
@@ -5434,13 +5044,51 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-replica-studios",
+    "source": "techstars",
+    "name": "Replica Studios",
+    "description": "Replica uses Artificial Intelligence to create voices for the next generation of games, films, and other media.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6347507d782a4900082519f8/original/oGVqhs0l_400x400.jpg",
+    "website": "",
+    "location": "Brisbane, Queensland, Australia",
+    "region": "Oceania",
+    "subregion": "Oceania",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Gaming",
+      "Mobile"
+    ],
+    "year": 2019,
+    "program": "Techstars Music Accelerator",
+    "programSlugs": [
+      "music"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/replica-ai",
+      "twitter": "https://twitter.com/replica_ai",
+      "facebook": "https://facebook.com/ReplicaStudios/",
+      "crunchbase": "https://crunchbase.com/organization/replica-studios"
+    },
+    "extra": {
+      "city": "Brisbane",
+      "state_province": "Queensland",
+      "country": "Australia"
+    },
+    "country": "Australia",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-red-fox-insights",
+    "source": "techstars",
     "name": "Red Fox Insights",
     "description": "Red Fox Insights is a research firm that provides authentic access to the gaming community.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8159865568a9b02343439552c.png",
@@ -5461,6 +5109,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/red-fox-clan",
       "twitter": "https://twitter.com/redfoxinsights",
@@ -5472,13 +5121,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-reach-robotics",
+    "source": "techstars",
     "name": "Reach Robotics",
     "description": "Intelligent gaming robots at the intersection of consumer robotics, augmented reality and video gaming.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55d21cd78083206a53000006/original/Reach_Robotics_Final.jpg",
@@ -5498,6 +5146,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/reachrobotics",
       "twitter": "https://twitter.com/Reachrobotics",
@@ -5508,13 +5157,12 @@
       "city": "Bristol",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-rainway",
+    "source": "techstars",
     "name": "Rainway",
     "description": "Rainway is a web-based game streaming platform that lets users play their favorite PC games on different devices so they can play anywhere.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_cebe92642d8322fbe128b5a85.jpeg",
@@ -5535,6 +5183,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rainway-inc",
       "twitter": "https://twitter.com/rainwayapp",
@@ -5546,13 +5195,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-powerspike",
+    "source": "techstars",
     "name": "PowerSpike",
     "description": "Give developers, publishers, and brands the tools needed to create an influencer program from scratch, and empower streamers to turn their passion for content creation into a lifestyle business through paid sponsorships.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5cebf343a36c11024c000017/original/logo_final.png",
@@ -5572,6 +5220,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10202714",
       "twitter": "https://twitter.com/PowerSpike_",
@@ -5583,13 +5232,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-playfull",
+    "source": "techstars",
     "name": "PlayFull",
     "description": "PlayFull has built a mobile game and CRM that helps the largest restaurant brands in the world engage customers and increase sales",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5949f75f9c66a9277000003f/original/playfull_logo_sq.png",
@@ -5610,6 +5258,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/3680453",
       "twitter": "https://twitter.com/playfull",
@@ -5621,13 +5270,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-platera-ai",
+    "source": "techstars",
     "name": "Platera.ai",
     "description": "An psychology-based personalization engine to help companies turn freemium/ free trial uses into paying clients.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ixi5podgfsc6ff5fwen2",
@@ -5648,6 +5296,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/platera",
       "twitter": "",
@@ -5658,13 +5307,12 @@
       "city": "Ramat Gan",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-pitz",
+    "source": "techstars",
     "name": "PITZ",
     "description": "Video highlights for youth sports parents.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4f6e29d0fbe893bd2b8edee14.jpeg",
@@ -5685,6 +5333,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/thepitzapp",
       "twitter": "https://twitter.com/thepitzapp",
@@ -5696,13 +5345,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-paypeanuts",
+    "source": "techstars",
     "name": "PayPeanuts",
     "description": "Marketplace for zero-marginal-cost-goods.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5fbec1cb44e0824632000007/original/peanut_blue_300_square.png",
@@ -5722,6 +5370,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/paypeanuts-ltd",
       "twitter": "https://twitter.com/pay_peanuts",
@@ -5732,13 +5381,12 @@
       "city": "Berlin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-octane-technologies",
+    "source": "techstars",
     "name": "Octane Technologies",
     "description": "Made by enthusiasts, for enthusiasts, the Octane mobile application provides a video game like cruising experience, in addition to a map-based database of stunning routes and car-related events.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d251941a36c117dd8000087/original/2edit-high-resolution-dark.png",
@@ -5757,6 +5405,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/octane-technologies",
       "twitter": "https://twitter.com/app_octane",
@@ -5768,13 +5417,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-neon-wild",
+    "source": "techstars",
     "name": "Neon Wild",
     "description": "Neon Wild transforms any child into a custom avatar as the star of immersive stories and games.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6307fb397ebc2d000a2a4bb6/original/lnkedin.png",
@@ -5793,6 +5441,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/neon-wild",
       "twitter": "https://twitter.com/neon__wild",
@@ -5804,13 +5453,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-music-mania-games",
+    "source": "techstars",
     "name": "Music Mania Games",
     "description": "We make products at the intersection of music and gaming. Fun, enjoyable experiences that leave a great taste in your mind, and keep you coming back for more.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/624f6f48f01b4e14f48b360a/original/mgc_logo.png",
@@ -5831,6 +5479,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/music-games-company",
       "twitter": "https://twitter.com/musicgamesco",
@@ -5842,13 +5491,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-midgame-gg",
+    "source": "techstars",
     "name": "Midgame.gg",
     "description": "Voice assistant for gamers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d30b5b234a60d1418000039/original/Midgame-Logo.png",
@@ -5866,6 +5514,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/midgame",
       "twitter": "https://twitter.com/midgamegg",
@@ -5877,13 +5526,50 @@
       "state_province": "New York",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-megafans",
     "source": "techstars",
+    "name": "MegaFans",
+    "description": "Mobile esports platform bridging web2 to web3 for gamers and enabling game developers to increase their player lifetime value.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/624c756df01b4e14f48b3605/original/Screenshot_2022-04-05_at_17.59.15.png",
+    "website": "",
+    "location": "Carlsbad, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cryptocurrency/Blockchain",
+      "eSports",
+      "Gaming",
+      "Mobile"
+    ],
+    "year": 2022,
+    "program": "Launchpool Web3 Techstars Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/megafans-com",
+      "twitter": "https://twitter.com/MegafansEsports",
+      "facebook": "https://facebook.com/MegafansEsports/",
+      "crunchbase": "https://crunchbase.com/organization/megafans"
+    },
+    "extra": {
+      "city": "Carlsbad",
+      "state_province": "California",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-loyalti",
+    "source": "techstars",
     "name": "Loyalti",
     "description": "Helping Shopify merchants gain and retain more customers with less work by streamlining and amplifying your marketing efforts.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/52e1/c6ee/c995/68bf/d100/0001/original/image-1.jpg",
@@ -5904,6 +5590,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/customerloyalti",
       "twitter": "https://twitter.com/snowshoestamp",
@@ -5915,13 +5602,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-lifekind",
+    "source": "techstars",
     "name": "Lifekind",
     "description": "An artificial intelligence company working in games, film, and interactive media",
     "logo": "https://apimg.techstars.com/connect/images/image_files/537a/1c4b/db04/8887/d100/0001/original/rival_theory_white_282x282.jpg",
@@ -5943,6 +5629,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rivaltheory",
       "twitter": "https://twitter.com/RivalTheory",
@@ -5954,13 +5641,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-indoor-collective",
+    "source": "techstars",
     "name": "Indoor Collective",
     "description": "Indoor Collective is a software development company that specializes in the production of rowing apps for interactive workouts.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_747b9290626eb8973ddef6b56.png",
@@ -5982,6 +5668,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/indoor-collective",
       "twitter": "",
@@ -5993,13 +5680,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ibrainy",
+    "source": "techstars",
     "name": "IBrainy",
     "description": "iBrainy provides cognitive stimulation to older adults and empowers them to learn, connect and feel relevant again, through interactive and accessible games, courses & community features.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62c747dddb450b000890fd13/original/ibrainy.jpeg",
@@ -6021,6 +5707,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ibrainy",
       "twitter": "",
@@ -6031,13 +5718,12 @@
       "city": "Kefar Saba",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-hipfire-games",
+    "source": "techstars",
     "name": "HipFire Games",
     "description": "Ex-Supercell and Rovio developers who aim to build the biggest multiplayer games portal. A service that combines multiplayer games with social interaction.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b3f37caa36c115d13000024/original/hipfire_logo_square.jpg",
@@ -6058,6 +5744,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/25061410",
       "twitter": "https://twitter.com/hipfiregames",
@@ -6068,13 +5755,12 @@
       "city": "Helsinki",
       "country": "Finland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Finland",
     "alsoIn": []
   },
   {
     "id": "techstars-hero",
+    "source": "techstars",
     "name": "Hero",
     "description": "Platform that reduces insurers' liability from drunk driving by providing bars/restaurants with a mobile solution that incentivizes customers to get home safely",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5744d80ec2f1c4fe7e000036/original/HERO_Vertical_Green_Background_gradient1024x1024.png",
@@ -6097,6 +5783,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/herospace-app",
       "twitter": "https://twitter.com/HEROappit",
@@ -6108,13 +5795,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-heartbeat",
+    "source": "techstars",
     "name": "Heartbeat",
     "description": "Heartbeat powers the worlds largest nano-influencer campaigns through its marketplace.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5dd33e5da36c11500a000073/original/heartbeatlogo.png",
@@ -6134,6 +5820,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/heartbeat",
       "twitter": "https://twitter.com/getheartbeatapp",
@@ -6145,13 +5832,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-haste",
+    "source": "techstars",
     "name": "Haste",
     "description": "Haste is a private network service that optimizes the Internet for people engaged in live, interactive experiences.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56b0ded334b2747fb5000011/original/Haste_Logo_400x400.png",
@@ -6170,6 +5856,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/haste-esports-",
       "twitter": "https://twitter.com/Haste_Esports",
@@ -6181,13 +5868,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ganymede-games",
+    "source": "techstars",
     "name": "Ganymede Games",
     "description": "For adult gamers with busy lives, Ganymede builds bite-sized episodic games.",
     "logo": "https://apimg.techstars.com/profiles/1665427019492_631931.png",
@@ -6208,6 +5894,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ganymede-games",
       "twitter": "https://twitter.com/ganymede_games",
@@ -6219,13 +5906,12 @@
       "state_province": "New Mexico",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-gamewisp",
+    "source": "techstars",
     "name": "GameWisp",
     "description": "Monetization platform for gaming video celebrities",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53e53839e075360773000001/original/logo.png",
@@ -6238,14 +5924,13 @@
       "Gaming"
     ],
     "year": 2014,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gamewisp-inc-",
       "twitter": "https://twitter.com/gameWisp",
@@ -6257,13 +5942,12 @@
       "state_province": "Tennessee",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-gamefuly",
+    "source": "techstars",
     "name": "Gamefuly",
     "description": "All-in-one content studio for gamers to create, manage, and share video game content with their audience.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5cf5a8e034a60d5f9f00ef2c/original/techstar-image3.png",
@@ -6284,6 +5968,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gamefuly",
       "twitter": "https://twitter.com/gamefuly",
@@ -6295,13 +5980,12 @@
       "state_province": "New Jersey",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-freeplay-app",
+    "source": "techstars",
     "name": "Freeplay App",
     "description": "Move Ollie is a fitness game to help people 55 and older exercise more.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/612412d95946824bf794b1e8/original/Move_Ollie_-_Square_Blue.png",
@@ -6323,6 +6007,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/17955731",
       "twitter": "",
@@ -6334,13 +6019,12 @@
       "state_province": "Utah",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-foundry-six",
+    "source": "techstars",
     "name": "Foundry Six",
     "description": "Building an augmented reality gaming platform for the next generation of game developers. What Steam is for console gaming, we are for AR.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f4985a034a60d0c99000025/original/squarelogo.png",
@@ -6360,6 +6044,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/foundrysix",
       "twitter": "https://twitter.com/FoundrySix",
@@ -6371,13 +6056,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fish-bowl-vr",
+    "source": "techstars",
     "name": "Fish Bowl VR",
     "description": "Testing and Analytics for Virtual Reality",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559d5198bbe36fa06c000005/original/fishbowlvr_square.jpg",
@@ -6397,6 +6081,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fish-bowl-vr",
       "twitter": "https://twitter.com/FishBowlVR",
@@ -6408,13 +6093,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fantasyhub",
+    "source": "techstars",
     "name": "FantasyHub",
     "description": "Daily fantasy sports for charity",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5542eb1a1e6c01ca70000001/original/FH-Social-Logo.jpg",
@@ -6434,6 +6118,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fantasyhub",
       "twitter": "https://twitter.com/FantasyHub",
@@ -6445,13 +6130,12 @@
       "state_province": "Kentucky",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-f2k",
+    "source": "techstars",
     "name": "F2K",
     "description": "F2K aggregates streamers into our network enabling their content to be monetized. We use their reach as an engine to drive our owned and operated products.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f5bb6ce34a60d4e6e000030/original/F2KLogo.png",
@@ -6473,6 +6157,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/f2k-gaming",
       "twitter": "https://twitter.com/Fade2Karma",
@@ -6483,13 +6168,12 @@
       "city": "Saint Peters",
       "country": "Guernsey"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Guernsey",
     "alsoIn": []
   },
   {
     "id": "techstars-everledger",
+    "source": "techstars",
     "name": "Everledger",
     "description": "Everledger provides an immutable ledger for diamond identification and transaction verification for various stakeholders, from insurance companies to claimants and law enforcement agencies.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/558150cb883a9c0753000006/original/everledger.png",
@@ -6511,6 +6195,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/everledger",
       "twitter": "https://twitter.com/everledgerio",
@@ -6521,13 +6206,51 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
+    "id": "techstars-esportudo",
+    "source": "techstars",
+    "name": "Esportudo",
+    "description": "Esportudo is a sports media brand giving latinos the most complete coverage on their favorite players, teams, and leagues through personalized content and apps",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5f31adcda36c113b600000eb/original/ES_ProfilePics_360x360.png",
+    "website": "",
+    "location": "Boston, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Gaming",
+      "Mobile"
+    ],
+    "year": 2020,
+    "program": "Techstars Sports Accelerator Powered by Indy",
+    "programSlugs": [
+      "indy-sports"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/esportudo",
+      "twitter": "https://twitter.com/esportudo",
+      "facebook": "https://facebook.com/pg/Esportudo/",
+      "crunchbase": "https://crunchbase.com/organization/esportudo"
+    },
+    "extra": {
+      "city": "Boston",
+      "state_province": "Massachusetts",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-elastic-audio",
+    "source": "techstars",
     "name": "Elastic Audio",
     "description": "Elastic Audio is a flexible, high-performance platform for creating rich real-time audio.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e976fcea36c115d3b0000ab/original/ElasticAudioLogo3.png",
@@ -6547,6 +6270,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/elastic-audio",
       "twitter": "https://twitter.com/audio_elastic",
@@ -6558,13 +6282,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dodo-smart",
+    "source": "techstars",
     "name": "Dodo Smart",
     "description": "Dodo smart is creating a platform with playful learning experience for preschool children in Arabic.",
     "logo": "https://apimg.techstars.com/profiles/1657612064199_580893.png",
@@ -6585,6 +6308,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dodo-smart",
       "twitter": "https://twitter.com/DodoSmart_",
@@ -6595,13 +6319,49 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
+    "id": "techstars-datawisp",
+    "source": "techstars",
+    "name": "Datawisp",
+    "description": "StatsHelix is a gametech company that creates interactive engagement layers and broadcast tools for the gaming industry.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5f06019fa36c1154930000e5/original/StatsHelix_Super_High_Res.png",
+    "website": "",
+    "location": "Hempstead, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Gaming"
+    ],
+    "year": 2020,
+    "program": "Techstars Space Accelerator",
+    "programSlugs": [
+      "space"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/statshelix",
+      "twitter": "https://twitter.com/statshelix",
+      "facebook": "https://facebook.com/statshelix",
+      "crunchbase": "https://crunchbase.com/organization/statshelix"
+    },
+    "extra": {
+      "city": "Hempstead",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-crescendo",
+    "source": "techstars",
     "name": "Crescendo",
     "description": "Crescendo is an AI-powered interactive music trainer that facilitates focused practice and immediate feedback.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c058310c1a4b807f100020e/original/red-icon.jpg",
@@ -6624,6 +6384,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/crescendomusic",
       "twitter": "https://twitter.com/CrescendoWork",
@@ -6635,13 +6396,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-creative-brain-studios",
+    "source": "techstars",
     "name": "Creative Brain Studios",
     "description": "Social game engine developer",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56c203188083206a19000001/original/creative_brain_studios.jpg",
@@ -6662,6 +6422,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/bookergames",
       "twitter": "https://twitter.com/bookergames",
@@ -6673,13 +6434,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-coolchip-technologies",
+    "source": "techstars",
     "name": "CoolChip Technologies",
     "description": "CoolChip Technologies, Inc. is the worldwide leader in Kinetic Cooling, a product category transforming the electronics cooling industry",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53ecf7040dae91b1c0000004/original/coolchip.png",
@@ -6700,6 +6460,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/coolchip-technologies",
       "twitter": "https://twitter.com/CoolChipTech",
@@ -6711,13 +6472,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-circletime-interactive",
+    "source": "techstars",
     "name": "Circletime Interactive",
     "description": "Circletime makes online learning for kids socially interactive. Parents see their kids develop artistically, build literacy skills, and so much more.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/603f8196968c3300078474fa/original/Circletime_Logo_-_Square-black-transparent-ForLightBackground.png",
@@ -6738,6 +6498,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/circletimefun",
       "twitter": "https://twitter.com/Circleti_me",
@@ -6749,13 +6510,12 @@
       "state_province": "Rio de Janeiro",
       "country": "Brazil"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Brazil",
     "alsoIn": []
   },
   {
     "id": "techstars-beyondranked",
+    "source": "techstars",
     "name": "BeyondRanked",
     "description": "BeyondRanked is a platform for booking and managing commentators.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_68a56f67edaaf67848c0e4359.png",
@@ -6776,6 +6536,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/74326757",
       "twitter": "https://twitter.com/BeyondRanked",
@@ -6787,13 +6548,12 @@
       "state_province": "Indiana",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-barratio",
+    "source": "techstars",
     "name": "BARRATIO",
     "description": "Your adminstrative tasks in 5 minutes per day",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c0a50b2a36c113dfa000003/original/BARRATIO.png",
@@ -6813,6 +6573,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/barratio",
       "twitter": "https://twitter.com/barratioSoft",
@@ -6823,13 +6584,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-audience",
+    "source": "techstars",
     "name": "Audience",
     "description": "Audience is an audio-visual music platform that allows curators to earn money building robot DJs that play new artists music.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/601b3dc9ad39cb2a59000002/original/AudienceSnapLogo.png",
@@ -6851,6 +6611,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/spark-dj-inc-",
       "twitter": "https://twitter.com/joinaudience",
@@ -6862,13 +6623,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-astros",
+    "source": "techstars",
     "name": "Astros",
     "description": "A developer-first company that provides platforms and tools for mobile game studios to efficiently monetize their customers.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e2913bfb392684fc7ff81dc8f.png",
@@ -6888,6 +6648,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/astros-one",
       "twitter": "",
@@ -6899,13 +6660,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-anything-world",
+    "source": "techstars",
     "name": "Anything World",
     "description": "A platform to create worlds powered by voice and populated with anything you can think of - with AI behaviours applied!",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d5ab3d534a60d049900000a/original/logo_legless_green_gradient_1024.png",
@@ -6927,6 +6687,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/anything-world",
       "twitter": "https://twitter.com/_AnythingWorld",
@@ -6937,9 +6698,49 @@
       "city": "Horsham",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-8lab",
+    "source": "techstars",
+    "name": "8LAB",
+    "description": "8LAB is the members-only hub where creatives and tech pros connect and innovate with guidance from industry leaders + AI, Agent 8.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9724ef1317d545b9231ab49bc.jpeg",
+    "website": "",
+    "location": "Los Angeles, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Augmented reality",
+      "Edtech",
+      "Gaming",
+      "Impact investing",
+      "Marketing tech"
+    ],
+    "year": 2024,
+    "program": "Techstars Equitech Accelerator",
+    "programSlugs": [
+      "equitech"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/join8lab",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/8ai"
+    },
+    "extra": {
+      "city": "Los Angeles",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {

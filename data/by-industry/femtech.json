@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-ovia-health",
+    "source": "techstars",
     "name": "Ovia Health",
     "description": "Accurate fertility monitoring",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5359/559a/a9f4/89a6/2900/0001/original/ovuline.jpg",
@@ -24,6 +25,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ovia-health",
       "twitter": "https://twitter.com/OviaHealth",
@@ -35,13 +37,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-aunt-flow",
+    "source": "techstars",
     "name": "Aunt Flow",
     "description": "Aunt Flow stocks 100+ organizations with our 100% organic cotton tampons and pads, so companies and schools can offer them for free to employees.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b460fe2a36c115d1300008f/original/Aunt_Flow_Logo_%281%29.png",
@@ -62,6 +63,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10819691",
       "twitter": "https://twitter.com/goauntflow",
@@ -73,13 +75,12 @@
       "state_province": "Ohio",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-eli",
+    "source": "techstars",
     "name": "Eli",
     "description": "Eli enables women to take control of their health across their lives, by providing them with their daily hormone profile.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61f198d4e838a39eb60e0c1c/original/eli_logo.png",
@@ -88,8 +89,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning",
+      "Digital health",
       "Femtech",
+      "Healthtech",
       "Mobile"
     ],
     "year": 2019,
@@ -99,6 +101,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/elihealth",
       "twitter": "https://twitter.com/elidothealth",
@@ -110,13 +113,51 @@
       "state_province": "Quebec",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
+    "id": "techstars-allswell",
+    "source": "techstars",
+    "name": "Allswell",
+    "description": "Allswell is reimagining mental health care with AI-enabled, group-based therapy built for the LGBTQ+ community.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d764eec6c6e6e80b780add749.png",
+    "website": "https://joinallswell.com",
+    "location": "San Francisco, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Digital health",
+      "Femtech",
+      "Healthtech"
+    ],
+    "year": 2025,
+    "program": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
+    "programSlugs": [
+      "permanente-medicine"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/105197856",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/joinallswell"
+    },
+    "extra": {
+      "city": "San Francisco",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-hormona",
+    "source": "techstars",
     "name": "Hormona",
     "description": "Digitalized hormonal health powered by AI & at home testing",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/qly2dqitldilpfnhehmk",
@@ -126,8 +167,7 @@
     "subregion": "Western Europe",
     "tags": [
       "Femtech",
-      "Healthtech",
-      "Lifestyles of Health and Sustainability and wellness"
+      "Healthtech"
     ],
     "year": 2022,
     "program": "Techstars Space Accelerator",
@@ -138,6 +178,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hormona",
       "twitter": "https://twitter.com/Hormona7",
@@ -148,13 +189,50 @@
       "city": "Weybridge",
       "country": "United Kingdom"
     },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-aspect-health",
     "source": "techstars",
+    "name": "Aspect Health",
+    "description": "Aspect is a service (& app) that improves lifestyle-reversible hormonal imbalances via continuous glucose monitoring and human-assisted AI coaching.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_199101414ebc460b471b0d192.png",
+    "website": "https://aspect-health.com",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Femtech",
+      "Healthtech",
+      "Mobile"
+    ],
+    "year": 2024,
+    "program": "Techstars Columbus Powered by The Ohio State University",
+    "programSlugs": [
+      "ohio-state-university-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/aspectapp",
+      "twitter": "https://twitter.com/Aspectapp_co",
+      "facebook": "https://facebook.com/aspect.fit.online",
+      "crunchbase": "https://crunchbase.com/organization/aspect-b1e7"
+    },
+    "extra": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-lightstream",
+    "source": "techstars",
     "name": "Lightstream",
     "description": "Formerly Infiniscene. A powerful & intuitive live streaming studio in your browser.  No downloads. No technical wizardry. Absolutely free.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5915caf59c66a9180d00000b/original/techstarsconnect_lightstream2.jpg",
@@ -168,14 +246,13 @@
       "SaaS"
     ],
     "year": 2015,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/golightstream",
       "twitter": "https://twitter.com/lightstream",
@@ -187,13 +264,51 @@
       "state_province": "Illinois",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-rescripted",
     "source": "techstars",
+    "name": "Rescripted",
+    "description": "Provides fertility clinics and patients a medical adherence and patient engagement platform.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5e9727f534a60d416d000182/original/Blue_Logo.png",
+    "website": "https://bestshotcare.com",
+    "location": "Denver, Colorado, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Digital health",
+      "Femtech",
+      "Lifestyles of Health and Sustainability and wellness"
+    ],
+    "year": 2020,
+    "program": "Techstars Boulder Accelerator",
+    "programSlugs": [
+      "boulder"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/rescripted",
+      "twitter": "https://twitter.com/BestShotCare",
+      "facebook": "https://facebook.com/fertility.rescripted/",
+      "crunchbase": "https://crunchbase.com/organization/best-shot"
+    },
+    "extra": {
+      "city": "Denver",
+      "state_province": "Colorado",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-diem",
+    "source": "techstars",
     "name": "Diem",
     "description": "Diem is a new social platform for womxn-centric communities.",
     "logo": "https://apimg.techstars.com/profiles/1658497622551_179572.png",
@@ -203,9 +318,7 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Cryptocurrency/Blockchain",
       "Femtech",
-      "Fintech",
       "Lifestyles of Health and Sustainability and wellness",
       "Mobile"
     ],
@@ -218,6 +331,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/libra-association",
       "twitter": "https://twitter.com/askdiem",
@@ -229,51 +343,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-ground-ai",
-    "name": "Ground AI",
-    "description": "Ground is an AI-powered engine for go-to-market teams, unlocking hidden revenue and driving effortless incremental sales.",
-    "logo": "https://apimg.techstars.com/profiles/1738605198313_420758.png",
-    "website": "https://joinground.com",
-    "location": "New York City, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Femtech",
-      "Fintech"
-    ],
-    "year": 2021,
-    "program": "Techstars Space Accelerator",
-    "programSlugs": [
-      "space"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/join-ground",
-      "twitter": "https://twitter.com/mycheres",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/cheres"
-    },
-    "extra": {
-      "city": "New York City",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-peeq-industries",
+    "source": "techstars",
     "name": "Peeq Industries",
     "description": "Eyelids are gross. Peeq Pro helps ensure everyone cleans them every day.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a49030ade580b02c91805b098.png",
@@ -296,6 +371,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -307,13 +383,12 @@
       "state_province": "Nebraska",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-truspin-nanomaterial-innovation",
+    "source": "techstars",
     "name": "TruSpin Nanomaterial Innovation",
     "description": "TruSpin is an advanced materials company using a proprietary technique to mass-produce new types of nanofibers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f47cade34a60d4abf000023/original/TruSpin_Logo.jpg",
@@ -336,6 +411,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/truspin-nanomaterial-innovation",
       "twitter": "",
@@ -347,13 +423,12 @@
       "state_province": "Alabama",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-lactation-lab",
+    "source": "techstars",
     "name": "Lactation Lab",
     "description": "Lactation Lab provides integrated diagnostic and therapeutic solutions to optimize infant nutrition during the critical First 1000 days of life.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f0604aca36c1154930000ed/original/lactationlab_logo_square_1500x1500.png",
@@ -374,6 +449,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lactationlab",
       "twitter": "https://twitter.com/LactationLab",
@@ -385,13 +461,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-canopie",
+    "source": "techstars",
     "name": "Canopie",
     "description": "Canopie is a digital platform that provides new moms with personalized, evidence-based therapeutic techniques to prevent and address symptoms of maternal depression and anxiety.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/624703d11d115c14cc85f67c/original/Untitled_design.png",
@@ -412,6 +487,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/canopie",
       "twitter": "https://twitter.com/Canopiehealth",
@@ -423,13 +499,53 @@
       "state_province": "Virginia",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-sweetling-health",
     "source": "techstars",
+    "name": "Sweetling Health",
+    "description": "Sweetling Health engages postpartum patients through an SMS-based platform to monitor and flag health risks during the year after childbirth, addressing the high rates of pregnancy-related deaths and mental health issues in underserved populations.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5c346440981ac6e381a63d15f.jpg",
+    "website": "https://sweetlinghealth.com",
+    "location": "Brooklyn, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Digital health",
+      "Femtech",
+      "Healthtech",
+      "Infrastructure"
+    ],
+    "year": 2026,
+    "program": "Techstars AI Health Baltimore",
+    "programSlugs": [
+      "baltimore-ai-health"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/sweetling-health",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Brooklyn",
+      "state_province": "New York",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-highly-liquid",
+    "source": "techstars",
     "name": "Highly Liquid",
     "description": "A next-generation apparel and product brand backed by emerging technologies.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4354a8a16c21c027f4ff79768.png",
@@ -449,6 +565,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -460,52 +577,12 @@
       "state_province": "Utah",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-allswell",
-    "name": "Allswell",
-    "description": "Allswell is reimagining mental health care with AI-enabled, group-based therapy built for the LGBTQ+ community.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d764eec6c6e6e80b780add749.png",
-    "website": "https://joinallswell.com",
-    "location": "San Francisco, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Digital health",
-      "Femtech",
-      "Healthtech"
-    ],
-    "year": 2025,
-    "program": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
-    "programSlugs": [
-      "permanente-medicine"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/105197856",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/joinallswell"
-    },
-    "extra": {
-      "city": "San Francisco",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-s-o-s",
+    "source": "techstars",
     "name": "S/O/S",
     "description": "A retail platform for women that is transforming access to health and wellness products on-the-go #Consumer #Retail #FemTech",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ea30622a36c1125a600000a/original/Screen_Shot_2020-04-24_at_11.29.57_AM.png",
@@ -527,6 +604,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/world-of-sos",
       "twitter": "https://twitter.com/world_of_sos",
@@ -538,13 +616,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-elanza-wellness",
+    "source": "techstars",
     "name": "ELANZA Wellness",
     "description": "ELANZA Wellness is a digital health platform that partners with fertility clinics to provide behavioral coaching and personalized support at scale",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60ba1a7881a68a0007f2460a/original/techstars_elanza.png",
@@ -567,6 +644,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/elanzawellness",
       "twitter": "https://twitter.com/elanzawellness",
@@ -578,13 +656,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-jam-life",
+    "source": "techstars",
     "name": "Jam Life",
     "description": "Jam is an AI-powered Chief of Staff for families built to handle the logistics of modern family life.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_221f69e8541519b479b36b1ef.png",
@@ -595,7 +672,6 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Femtech",
-      "Lifestyles of Health and Sustainability and wellness",
       "SaaS"
     ],
     "year": 2025,
@@ -605,6 +681,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/jamfamilycalendar",
       "twitter": "",
@@ -616,13 +693,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-avarie-femcare",
+    "source": "techstars",
     "name": "Avarie Femcare",
     "description": "Performance-first period care for women with heavy menstrual flow. Avarie is a D2C subscription femcare company building the first pad engineered specifically for the 36M perimenopausal women in the U.S. who still leak, even when layering multiple products.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d2ad2cf01f87f365e2da9df95.png",
@@ -642,6 +718,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/avarie-femcare",
       "twitter": "",
@@ -653,13 +730,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-the-ps-collective",
+    "source": "techstars",
     "name": "The PS Collective",
     "description": "The PS Collective is an online marketplace where women are connected to independent designers who make clothes to fit their shape and style.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/btuzjqfwm5iwnaon9kuw",
@@ -681,6 +757,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/71491086",
       "twitter": "",
@@ -692,13 +769,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-hey-freya",
+    "source": "techstars",
     "name": "hey freya",
     "description": "The first complete health solution just for women",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/t1wiidwbii8ls58azq9d",
@@ -720,6 +796,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/heyfreya",
       "twitter": "https://twitter.com/heyfreyaco",
@@ -731,13 +808,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dear-doc-singapore",
+    "source": "techstars",
     "name": "Dear Doc Singapore",
     "description": "Dear Doc is simplifying & personalizing healthcare for women in Asia",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5cd61184a744a6505ac60f465.jpg",
@@ -759,6 +835,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dear-doc",
       "twitter": "",
@@ -770,13 +847,12 @@
       "state_province": "Haryana",
       "country": "India"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "India",
     "alsoIn": []
   },
   {
     "id": "techstars-nyungu-afrika",
+    "source": "techstars",
     "name": "Nyungu Afrika",
     "description": "Makes pads safe, accessible, and affordable to majority of women and girls.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/xikshv01uqbh6wjcdree",
@@ -799,6 +875,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nyungu-afrika",
       "twitter": "",
@@ -809,13 +886,12 @@
       "city": "Nairobi",
       "country": "Kenya"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Kenya",
     "alsoIn": []
   },
   {
     "id": "techstars-mission-driven-tech",
+    "source": "techstars",
     "name": "Mission-Driven Tech",
     "description": "For women that have to receive brachytherapy (internal radiation therapy), we have designed a patient-centered device that minimizes discomfort, improves procedure safety, patient outcomes and access to care.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7d07740a43add0d8f29d5af5c.jpg",
@@ -838,6 +914,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mission-driven-tech",
       "twitter": "",
@@ -849,13 +926,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-moonai",
+    "source": "techstars",
     "name": "Moonai",
     "description": "Neuroscience science-based & personalised sounds app to alleviate period pain & enhance cognitive functions",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ace238931c039c498cc1f0c08.png",
@@ -881,6 +957,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/moonaiapp",
       "twitter": "https://twitter.com/moonaiapp",
@@ -891,13 +968,12 @@
       "city": "Barcelona",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
     "alsoIn": []
   },
   {
     "id": "techstars-flutter-care",
+    "source": "techstars",
     "name": "Flutter Care",
     "description": "Predict and prevent pregnancy complications.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b46ca829705c33f8cd42e4ce1.jpg",
@@ -919,6 +995,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fluttercareinc",
       "twitter": "",
@@ -930,13 +1007,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-ema",
+    "source": "techstars",
     "name": "Ema",
     "description": "SocialMama supports women throughout their motherhood journey - providing access to community, mental and health solutions.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ff4b51949b4e0607e000044/original/socialmama.jpg",
@@ -957,6 +1033,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/social-mama-app",
       "twitter": "https://twitter.com/socialmamaapp",
@@ -968,13 +1045,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-comma",
+    "source": "techstars",
     "name": "Comma",
     "description": "Manufacturer of biodegradable menstrual products intended to help women take care of their health.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4d3844cac4ed3be7bdf4349e3.png",
@@ -996,6 +1072,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1007,13 +1084,12 @@
       "state_province": "Tennessee",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-jaimee-ai",
+    "source": "techstars",
     "name": "Jaimee.ai",
     "description": "The AI companion for women",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f76b807947e4de208f4221d8e.png",
@@ -1037,6 +1113,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/jaimee",
       "twitter": "",
@@ -1048,13 +1125,12 @@
       "state_province": "Victoria",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-gether",
+    "source": "techstars",
     "name": "Gether",
     "description": "Helping working parents reduce their mental load",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2ee621cf9d9faf62aa7a66b60.png",
@@ -1074,6 +1150,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/getherlife",
       "twitter": "",
@@ -1085,13 +1162,12 @@
       "state_province": "New South Wales",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-antares-health",
+    "source": "techstars",
     "name": "Antares Health",
     "description": "Antares Health is a medical care company that provides fertility treatments.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_edad034bf8720b6ad4e68abf7.png",
@@ -1114,6 +1190,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/antares-health",
       "twitter": "",
@@ -1124,13 +1201,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-oya-femtech-apparel",
+    "source": "techstars",
     "name": "OYA Femtech Apparel",
     "description": "OYA Femtech Apparel fights feminine health issues for athletes. Our apparel absorbs moisture, reduces bacteria, and increases natural ventilation. Our patent-pending leggings are the first to be designed with doctors to combat the $18B that US women spent last year dealing with feminine health issues (e.g., yeast infections, bacterial vaginosis, and urinary tract infections) because of athleisure, lack of knowledge, poor diet, etc.",
     "logo": "https://apimg.techstars.com/profiles/1657053263321_807097.png",
@@ -1150,6 +1226,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wearoya",
       "twitter": "https://twitter.com/wearoya",
@@ -1161,13 +1238,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-okkanti",
+    "source": "techstars",
     "name": "Okkanti",
     "description": "Okkanti is a whole health pregnancy care platform that enables a community-ecosystem approach to caring for diverse populations.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_415ce796d906bb695c11ac4d0.png",
@@ -1189,6 +1265,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/okkanti",
       "twitter": "",
@@ -1200,13 +1277,12 @@
       "state_province": "Wisconsin",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-aima",
+    "source": "techstars",
     "name": "AIMA",
     "description": "To provide effective, natural pain management solutions that are rooted in science and free from harmful side effects.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_29494f08f730b708d021dce3f.png",
@@ -1228,6 +1304,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/aima-inc",
       "twitter": "",
@@ -1239,13 +1316,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-vitelle",
+    "source": "techstars",
     "name": "Vitelle",
     "description": "Vitelle is a data-driven female longevity platform that creates and adapts longevity protocols specifically for the female body. We give women more healthy years in the future by bridging the gap between their health at home and their clinical care. ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d2cf3e602ada839404d01ec50.png",
@@ -1269,6 +1345,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/vitelle",
       "twitter": "",
@@ -1280,13 +1357,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-kyri",
+    "source": "techstars",
     "name": "Kyri",
     "description": "The first menstrual health focused smart ring built to encompass the entire female life cycle.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_aec3f0a7bfa1993c2622fe4ed.png",
@@ -1308,6 +1384,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1319,13 +1396,12 @@
       "state_province": "Victoria",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-bloom",
+    "source": "techstars",
     "name": "BLOOM",
     "description": "BLOOM is a digital health platform offering employers comprehensive support in family care, counseling and mental health interventions, and personal well-being programs.",
     "logo": "https://apimg.techstars.com/profiles/1723643632944_729736.png",
@@ -1348,6 +1424,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bloomforall",
       "twitter": "",
@@ -1359,13 +1436,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-chorus-health",
+    "source": "techstars",
     "name": "Chorus Health",
     "description": "Digital therapeutic for women's health",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d7a6f3134a60d2625000003/original/Screen_Shot_2019-03-09_at_3.15.31_PM.png",
@@ -1385,6 +1461,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/virtue-io",
       "twitter": "",
@@ -1396,8 +1473,6 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "antler"
@@ -1405,6 +1480,7 @@
   },
   {
     "id": "techstars-wolomi",
+    "source": "techstars",
     "name": "Wolomi",
     "description": "BIPOC maternal health e-learning & community",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_185e9048b9adf55c1be5d04b8.png",
@@ -1426,6 +1502,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wolomi",
       "twitter": "https://twitter.com/_wolomi",
@@ -1437,13 +1514,12 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-private-packs",
+    "source": "techstars",
     "name": "Private Packs",
     "description": "Discreet and sustainable modern solutions that address intimate body part pain",
     "logo": "https://apimg.techstars.com/connect/images/image_files/631f5c0dec241b00086decd1/original/download.jpg",
@@ -1464,6 +1540,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/private-packs",
       "twitter": "https://twitter.com/privatepacks",
@@ -1475,13 +1552,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-tot-squad",
+    "source": "techstars",
     "name": "Tot Squad",
     "description": "Telehealth marketplace for new & expecting parents to book health, wellness & safety services (sleep & lactation consulting, car seat installs, babyproofing)",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ea39bca34a60d3228000012/original/Tot_Squad_Logo_Square_Circle.png",
@@ -1502,6 +1578,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/1945202",
       "twitter": "https://twitter.com/TheTotSquad",
@@ -1513,13 +1590,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-perry",
+    "source": "techstars",
     "name": "Perry",
     "description": "A global community and vetted marketplace for menopause.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f7bbd75d05231c3bcd276c671.png",
@@ -1539,6 +1615,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/perryapp",
       "twitter": "https://twitter.com/ohhelloperry",
@@ -1549,13 +1626,12 @@
       "city": "Geneva",
       "country": "Switzerland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Switzerland",
     "alsoIn": []
   },
   {
     "id": "techstars-group-b-labs",
+    "source": "techstars",
     "name": "Group B Labs",
     "description": "Helping the 92% of new mothers who struggle with feeding by finally revolutionizing bottle prep, feeding data collection, and access to nutritional support.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/612d79f234ed270007535b79/original/gbl-logo-triangle-wm-techstars-connect.jpg",
@@ -1580,6 +1656,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/groupblabs",
       "twitter": "https://twitter.com/GroupBLabs",
@@ -1591,13 +1668,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-embryoxite",
+    "source": "techstars",
     "name": "Embryoxite",
     "description": "Embryoxite creates non-invasive diagnostic services for pre-implantation embryos used in human-assisted reproduction procedures.",
     "logo": "https://apimg.techstars.com/profiles/1741051546019_281377.png",
@@ -1619,6 +1695,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/embryoxite",
       "twitter": "",
@@ -1630,13 +1707,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-davinci-wearables",
+    "source": "techstars",
     "name": "DaVinci Wearables",
     "description": "Davinci Wearables develops smart undergarments that capture data to inform lifestyle awareness.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_01403f0cedca066e927e9074f.png",
@@ -1658,6 +1734,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/davinci-wearables",
       "twitter": "https://twitter.com/daVincilace",
@@ -1669,13 +1746,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-clever-girl-finance",
+    "source": "techstars",
     "name": "Clever Girl Finance",
     "description": "Online financial education platform for women providing education through bite-size easy to digest online courses and access to an incredible community.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5bc929bca36c110911000038/original/Logo_Design_300X300.png",
@@ -1697,6 +1773,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/clever-girl-finance",
       "twitter": "https://twitter.com/clevergirlcgf",
@@ -1708,13 +1785,12 @@
       "state_province": "New Jersey",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-what-she-said-app",
+    "source": "techstars",
     "name": "What She Said App",
     "description": "A trusted referral app for all women and non-binary out there and the businesses they run, they use and they love.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8fd95979745a75eaafc17c5d1.jpeg",
@@ -1737,6 +1813,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/what-she-said-inc",
       "twitter": "",
@@ -1748,13 +1825,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-seek",
+    "source": "techstars",
     "name": "Seek",
     "description": "Seek is the first at-home lab test that measures how alcohol impacts women's health.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_41a861fbab99b7016f8eb3c9b.png",
@@ -1776,6 +1852,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1787,13 +1864,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-gisens-biotech",
+    "source": "techstars",
     "name": "Gisens Biotech",
     "description": "Revolutionizing diagnostics through nanotechnology",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d0fc2bf823885752ba37f4a09.png",
@@ -1816,6 +1892,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gisens-biotech-sa",
       "twitter": "https://twitter.com/GisensB",
@@ -1827,53 +1904,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-gale-payments",
-    "name": "Gale Payments",
-    "description": "Gale is the new hassle-free way to accept HSA & FSA payments.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_445633113dd6befca6922e9c8.png",
-    "website": "https://withgale.com",
-    "location": "Lantana, Texas, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Digital health",
-      "Femtech",
-      "Fintech",
-      "Healthtech"
-    ],
-    "year": 2024,
-    "program": "Techstars Physical Health Fort Worth",
-    "programSlugs": [
-      "physical-health-fort-worth"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "Lantana",
-      "state_province": "Texas",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-expect-fitness",
+    "source": "techstars",
     "name": "Expect Fitness",
     "description": "Application providing unlimited OBGYN-approved workouts curated for safety during each trimester.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ebbngsoxus4vyobgnuyr",
@@ -1893,6 +1929,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/expect-fitness",
       "twitter": "",
@@ -1904,13 +1941,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cubtale",
+    "source": "techstars",
     "name": "Cubtale",
     "description": "Solving the problem of sleep deprivation and the lack of easy to use care tracking solutions by simplifying the process to log data.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_524189d18f8d9239dae221679.jpeg",
@@ -1935,6 +1971,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cubtale",
       "twitter": "",
@@ -1946,13 +1983,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cherry-blossom-intimates",
+    "source": "techstars",
     "name": "Cherry Blossom Intimates",
     "description": "Offering breast cancer survivors completely customizable, fully insurance billable post-mastectomy prosthetics with a state-of-the-art fit experience.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60e72d958e79790007d5e640/original/Cherry_Blossom_Intimates_logo.PNG",
@@ -1971,6 +2007,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cherryblossomintimates",
       "twitter": "https://twitter.com/CBIntimates",
@@ -1982,54 +2019,12 @@
       "state_province": "Maryland",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-xhood",
-    "name": "xHood",
-    "description": "A community for Black Queer people to build and nurture healthy families and parent happy children.",
-    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/moodic7lutvop6lwr6mo",
-    "website": "https://parentxhood.com",
-    "location": "Woodbridge, Virginia, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Digital health",
-      "Femtech",
-      "Healthtech",
-      "Impact investing",
-      "Lifestyles of Health and Sustainability and wellness"
-    ],
-    "year": 2022,
-    "program": "Founder Catalyst in partnership with J.P. Morgan, Techstars Impact powered by Cox Enterprises",
-    "programSlugs": [
-      "impact-cox"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/xhood",
-      "twitter": "",
-      "facebook": "https://facebook.com/community/whats-new/mia-black-lgbtq-moms-why-i-create/",
-      "crunchbase": "https://crunchbase.com/organization/xhood"
-    },
-    "extra": {
-      "city": "Woodbridge",
-      "state_province": "Virginia",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-wellmiss",
+    "source": "techstars",
     "name": "WellMiss",
     "description": "Femtech startup providing on-demand holistic and integrative wellness care.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61eb1a86cb90930008664640/original/WellMiss_Logo_with_Clear_Background.png",
@@ -2051,6 +2046,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hellowellmiss",
       "twitter": "https://twitter.com/hellowellmiss",
@@ -2062,13 +2058,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rif-care",
+    "source": "techstars",
     "name": "Rif Care",
     "description": "Rif Care is a first of its kind period care brand making better for you period products with hemp fiber.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/buw8r2dwkrdvwlsmfgeo",
@@ -2090,6 +2085,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rifcares",
       "twitter": "",
@@ -2101,13 +2097,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-keiphone",
+    "source": "techstars",
     "name": "KEIPhone",
     "description": "KEIPhone provides free smartphones and solar chargers to unconnected women via an innovative advertising-based revenue model.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6254a2481d115c14cc85f6a1/original/KeiPhone_Logo-01_%283%29_-_Lauren_Hendricks.png",
@@ -2128,6 +2123,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/keiphone-global",
       "twitter": "https://twitter.com/KEIPhoneGlobal",
@@ -2139,13 +2135,12 @@
       "state_province": "Maryland",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-zumma",
+    "source": "techstars",
     "name": "Zumma",
     "description": "Zumma is a digital platform that connects, teaches, and enables to save and invest for the client's goals.Founded in 2021, the company is based in Mexico.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/fzbtnvnijmzmfoxaq6mz",
@@ -2167,6 +2162,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tuzumma",
       "twitter": "https://twitter.com/TuZumma",
@@ -2178,13 +2174,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-she-matters",
+    "source": "techstars",
     "name": "She Matters",
     "description": "She Matters is a digital health platform that provides comprehensive maternal care to Black women and cultural competence training to healthcare professionals.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/618d427eab003faf3a917fc6/original/shematters_LOGO_PNG.png",
@@ -2207,6 +2202,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/she-matters-inc",
       "twitter": "https://twitter.com/shematters",
@@ -2218,13 +2214,93 @@
       "state_province": "New York",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-gale-payments",
     "source": "techstars",
+    "name": "Gale Payments",
+    "description": "Gale is the new hassle-free way to accept HSA & FSA payments.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_445633113dd6befca6922e9c8.png",
+    "website": "https://withgale.com",
+    "location": "Lantana, Texas, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Digital health",
+      "Femtech",
+      "Fintech",
+      "Healthtech"
+    ],
+    "year": 2024,
+    "program": "Techstars Physical Health Fort Worth",
+    "programSlugs": [
+      "physical-health-fort-worth"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Lantana",
+      "state_province": "Texas",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-xhood",
+    "source": "techstars",
+    "name": "xHood",
+    "description": "A community for Black Queer people to build and nurture healthy families and parent happy children.",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/moodic7lutvop6lwr6mo",
+    "website": "",
+    "location": "Woodbridge, Virginia, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Digital health",
+      "Femtech",
+      "Healthtech",
+      "Impact investing",
+      "Lifestyles of Health and Sustainability and wellness"
+    ],
+    "year": 2022,
+    "program": "Founder Catalyst in partnership with J.P. Morgan, Techstars Impact powered by Cox Enterprises",
+    "programSlugs": [
+      "impact-cox"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/xhood",
+      "twitter": "",
+      "facebook": "https://facebook.com/community/whats-new/mia-black-lgbtq-moms-why-i-create/",
+      "crunchbase": "https://crunchbase.com/organization/xhood"
+    },
+    "extra": {
+      "city": "Woodbridge",
+      "state_province": "Virginia",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-trousso",
+    "source": "techstars",
     "name": "Trousso",
     "description": "Trousso is the resale platform making it easier for women to buy and sell outfits for life's biggest moments",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ed080442a073d63df992bea41.png",
@@ -2246,6 +2322,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/trousso",
       "twitter": "",
@@ -2257,13 +2334,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ruth-health",
+    "source": "techstars",
     "name": "Ruth Health",
     "description": "Ruth Health is the digital + at-home clinic for pregnant people, collecting the world's largest, most equitable database on maternal health.",
     "logo": "https://apimg.techstars.com/profiles/1658157938132_901978.png",
@@ -2282,6 +2358,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ruthhealth",
       "twitter": "https://twitter.com/RuthWomxn",
@@ -2293,13 +2370,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-robyn",
+    "source": "techstars",
     "name": "Robyn",
     "description": "Robyn connects aspiring, expecting and new parents to providers, resources and community.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6137c24c34ed270007535bba/original/Screen_Shot_2021-09-07_at_2.49.16_PM.png",
@@ -2318,6 +2394,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wearerobyn",
       "twitter": "https://twitter.com/we_are_robyn",
@@ -2329,13 +2406,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-poplin",
+    "source": "techstars",
     "name": "Poplin",
     "description": "Poplin is the first pre-pregnancy company, helping couples prepare to get pregnant starting with the most comprehensive reproductive wellness testing on the market.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b8531ba60a2d55a1ce9929494.png",
@@ -2356,6 +2432,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/getpoplin",
       "twitter": "https://twitter.com/poplinapp",
@@ -2367,13 +2444,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-pairtree",
+    "source": "techstars",
     "name": "PairTree",
     "description": "Modernizing the antiquated adoption process in the US",
     "logo": "https://apimg.techstars.com/connect/images/image_files/606ca876c97c0a0007f125ee/original/PairTree_Logo_TreeOnly_RGB.png",
@@ -2393,6 +2469,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pairtree",
       "twitter": "https://twitter.com/pairtreefamily",
@@ -2404,13 +2481,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ovatemp",
+    "source": "techstars",
     "name": "OVATEMP",
     "description": "Ovatemp is the only personalized fertility and health management platform for women of all ages.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/54f89af71e6c01850e00000b/original/Ovatemp_Profile.png",
@@ -2429,6 +2505,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ovatemp",
       "twitter": "https://twitter.com/ovatemp",
@@ -2440,13 +2517,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mamamend",
+    "source": "techstars",
     "name": "MamaMend",
     "description": "MamaMend is the personalized companion for new parents that provides fast, relevant answers and curated connections to expert practitioners.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b47bc5fa36c115d130000b9/original/mamamend_282.png",
@@ -2466,6 +2542,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mamamend",
       "twitter": "https://twitter.com/getMamaMend",
@@ -2477,13 +2554,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-handsdown",
+    "source": "techstars",
     "name": "HandsDown",
     "description": "HandsDown lets you explore the 'Top 10 Best Of' from your inner circle.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ey6f1neqnp4un5bzzr6o",
@@ -2504,6 +2580,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/itshandsdown",
       "twitter": "",
@@ -2515,13 +2592,12 @@
       "state_province": "Vermont",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-grain-fertility",
+    "source": "techstars",
     "name": "Grain Fertility",
     "description": "Empowering fertility patients through their data",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3a416e276d518f5ca2c7b1ae7.jpg",
@@ -2542,6 +2618,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/grain-fertility",
       "twitter": "",
@@ -2553,13 +2630,12 @@
       "state_province": "Maryland",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-circletime-interactive",
+    "source": "techstars",
     "name": "Circletime Interactive",
     "description": "Circletime makes online learning for kids socially interactive. Parents see their kids develop artistically, build literacy skills, and so much more.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/603f8196968c3300078474fa/original/Circletime_Logo_-_Square-black-transparent-ForLightBackground.png",
@@ -2580,6 +2656,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/circletimefun",
       "twitter": "https://twitter.com/Circleti_me",
@@ -2591,13 +2668,12 @@
       "state_province": "Rio de Janeiro",
       "country": "Brazil"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Brazil",
     "alsoIn": []
   },
   {
     "id": "techstars-cappella",
+    "source": "techstars",
     "name": "Cappella",
     "description": "For all the caregivers around a new baby who need to understand its needs better to provide more efficiently and accurately, Cappella builds a super accurate hands-off baby cry translator",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_38378d38ee648dd56242ec2ec.png",
@@ -2621,6 +2697,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cappella-io",
       "twitter": "https://twitter.com/cappella_io",
@@ -2632,13 +2709,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-family-happy",
+    "source": "techstars",
     "name": "Family+Happy",
     "description": "We revolutionize parents' quality of life by solving their top problems from one platform. We built a unique certification protocol to maximize service trust, quality and velocity.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62573a136e8701000899eda9/original/LOGO_VERTICALE.png",
@@ -2661,6 +2737,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/family-happy-babysitter",
       "twitter": "",
@@ -2672,8 +2749,6 @@
       "state_province": "Turin",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },

@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-degreed",
+    "source": "techstars",
     "name": "Degreed",
     "description": "Degreed is the upskilling platform that connects learning, talent development and internal mobility opportunities in one place.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_47cdc80bb005358aed1544c50.png",
@@ -9,7 +10,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Edtech"
+      "Edtech",
+      "HRtech",
+      "SaaS"
     ],
     "year": 2013,
     "program": "Kaplan EdTech Accelerator, powered by Techstars",
@@ -18,6 +21,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/degreed",
       "twitter": "https://twitter.com/degreed",
@@ -29,13 +33,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-newsela",
+    "source": "techstars",
     "name": "Newsela",
     "description": "Daily news articles that are extracted from national and regional newspapers",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2999adf58a40cccc15f35ceb9.png",
@@ -44,7 +47,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Edtech"
+      "Edtech",
+      "SaaS"
     ],
     "year": 2013,
     "program": "Kaplan EdTech Accelerator, powered by Techstars",
@@ -53,6 +57,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/newsela",
       "twitter": "https://twitter.com/Newsela",
@@ -64,13 +69,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-classwallet",
+    "source": "techstars",
     "name": "ClassWallet",
     "description": "Digital wallet technology platform for federal, state and local education and government agencies.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/600f3e45255313000800009a/original/classwallet.png",
@@ -79,7 +83,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Fintech"
+      "Edtech",
+      "Fintech",
+      "SaaS"
     ],
     "year": 2014,
     "program": "Kaplan EdTech Accelerator, powered by Techstars",
@@ -88,6 +94,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/classwallet",
       "twitter": "https://twitter.com/ClassWallet",
@@ -99,13 +106,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-learnplatform",
+    "source": "techstars",
     "name": "LearnPlatform",
     "description": "The Complete EdTech Management Platform",
     "logo": "https://apimg.techstars.com/connect/images/image_files/585437ffbbe36fa10e00000b/original/Lea(R)n_2logo.png",
@@ -125,6 +131,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lea-r-n",
       "twitter": "https://twitter.com/LearnPlatformUS",
@@ -136,13 +143,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-branching-minds",
+    "source": "techstars",
     "name": "Branching Minds",
     "description": "path for every learner",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53ecf7b20dae91e48d000006/original/BranchingMinds.jpeg",
@@ -161,6 +167,7 @@
     "isUnicorn": false,
     "isBCorp": true,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/branching-minds",
       "twitter": "https://twitter.com/BranchingMinds",
@@ -172,13 +179,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-edvisor-io",
+    "source": "techstars",
     "name": "Edvisor.io",
     "description": "School and Agency Collaboration For the 21st Century",
     "logo": "https://apimg.techstars.com/connect/images/image_files/545a7601b34d1484a6000003/original/Edvisor.io.png",
@@ -188,8 +194,7 @@
     "subregion": "North America",
     "tags": [
       "Edtech",
-      "HRtech",
-      "Technology, media and telecommunications"
+      "SaaS"
     ],
     "year": 2014,
     "program": "Kaplan EdTech Accelerator, powered by Techstars",
@@ -198,6 +203,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/edvisor-io",
       "twitter": "https://twitter.com/Edvisorio",
@@ -209,48 +215,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
-    "id": "techstars-panopen",
-    "name": "PanOpen",
-    "description": "The platform that faculty and students use to engage with Open Educational Resources.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/59c55be39c66a94030000013/original/l8RzDqbW_400x400.png",
-    "website": "https://panopen.com",
-    "location": "New York City, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Edtech"
-    ],
-    "year": 2013,
-    "program": "Kaplan EdTech Accelerator, powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/panopen",
-      "twitter": "https://twitter.com/panopen",
-      "facebook": "https://facebook.com/panopenoer",
-      "crunchbase": "https://crunchbase.com/organization/panopen"
-    },
-    "extra": {
-      "city": "New York City",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-modernguild",
+    "source": "techstars",
     "name": "ModernGuild",
     "description": "1-on-1, online tutoring programs to help students maximize their college experience and find the career they love",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3348/a6e7/4b70/e600/0001/original/Modern_Guild.jpg",
@@ -270,6 +240,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/brad-aston-4256a714",
       "twitter": "https://twitter.com/modernguild",
@@ -281,13 +252,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-verificient-technologies",
+    "source": "techstars",
     "name": "Verificient Technologies",
     "description": "Specializing in scalable continuous identity verification solutions through machine learning and biometrics",
     "logo": "https://apimg.techstars.com/connect/images/image_files/54931b17740ea75b7e000005/original/Verificient.png",
@@ -306,6 +276,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/verificient-technologies",
       "twitter": "https://twitter.com/Verificient",
@@ -317,13 +288,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ranku",
+    "source": "techstars",
     "name": "Ranku",
     "description": "Online degree marketplace",
     "logo": "https://s3.amazonaws.com/photos.angel.co/startups/i/224452-181f87bbe6ac261b931b7ed48cc473ad-medium_jpg.jpg?buster=1371575258",
@@ -342,6 +312,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "https://twitter.com/goranku",
@@ -353,13 +324,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cognotion",
+    "source": "techstars",
     "name": "Cognotion",
     "description": "Workforce training for today's youthforce",
     "logo": "https://apimg.techstars.com/connect/images/image_files/54088da00c6375a4fc000001/original/1526491_495080977286581_5407749578535701213_n-1.jpg",
@@ -377,6 +347,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/5244753",
       "twitter": "https://twitter.com/Cognotion",
@@ -388,13 +359,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-robotlab",
+    "source": "techstars",
     "name": "RobotLAB",
     "description": "RobotsLAB is on a mission to change the way abstract math and science is being taught. We bring abstract math and science concepts to life, using robots, making teachers super-heros, engaging students and ensuring their career and college readiness.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53ecfa8e674516e894000007/original/robotslab.png",
@@ -414,6 +384,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/3195197",
       "twitter": "https://twitter.com/RobotLABInc",
@@ -425,13 +396,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-tuva",
+    "source": "techstars",
     "name": "Tuva",
     "description": "Building for a data literate future. Making data exploration, analysis, visualization, and interpretation human and accessible to all.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/594831a39c66a9241d000030/original/tuva-email-logo_3fw84x0.png",
@@ -449,6 +419,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tuvalabs",
       "twitter": "https://twitter.com/tuvalabs",
@@ -460,13 +431,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-playpower-labs",
+    "source": "techstars",
     "name": "Playpower Labs",
     "description": "Making math interactive and engaging",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59c55ca29c66a94030000014/original/vYhRwVAU_400x400.png",
@@ -486,6 +456,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/playpower-labs",
       "twitter": "https://twitter.com/playpower",
@@ -497,13 +468,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-uvize",
+    "source": "techstars",
     "name": "Uvize",
     "description": "Mentorship. Unleashed.",
     "logo": "https://s3.amazonaws.com/photos.angel.co/startups/i/30626-19ab550ca321ebb8fd2e70dd9c2971fa-medium_jpg.jpg?buster=1324414268",
@@ -523,6 +493,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/uvize-inc",
       "twitter": "https://twitter.com/Uvize",
@@ -534,13 +505,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-story2",
+    "source": "techstars",
     "name": "Story2",
     "description": "Story2 expands writing through storytelling. We've taught over 25,000 students to tell their stories and advocate for themselves in college admissions--and all",
     "logo": "https://apimg.techstars.com/connect/images/image_files/545a77253902a19d0d000003/original/Story_to_College.jpeg",
@@ -558,6 +528,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/story2",
       "twitter": "https://twitter.com/Story2",
@@ -569,13 +540,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-smarton-learning-solutions",
+    "source": "techstars",
     "name": "Smarton Learning Solutions",
     "description": "SmartOn Learning ia an online bootcamp for digital skills teaching specific technology tools.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53ecfad46745166ab4000004/original/smarton.jpeg",
@@ -591,6 +561,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/smarton-learning-solutions",
       "twitter": "https://twitter.com/GetSmarton",
@@ -602,13 +573,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rekode-education",
+    "source": "techstars",
     "name": "reKode Education",
     "description": "reKode Education is an eLearning platform that offers lessons on coding for kids.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53ecfa046745165beb000004/original/rekode.jpeg",
@@ -624,6 +594,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rekode-education",
       "twitter": "https://twitter.com/reKode",
@@ -635,13 +606,47 @@
       "state_province": "Washington",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-panopen",
     "source": "techstars",
+    "name": "PanOpen",
+    "description": "The platform that faculty and students use to engage with Open Educational Resources.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/59c55be39c66a94030000013/original/l8RzDqbW_400x400.png",
+    "website": "",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Edtech"
+    ],
+    "year": 2013,
+    "program": "Kaplan EdTech Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/panopen",
+      "twitter": "https://twitter.com/panopen",
+      "facebook": "https://facebook.com/panopenoer",
+      "crunchbase": "https://crunchbase.com/organization/panopen"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mentormob",
+    "source": "techstars",
     "name": "MentorMob",
     "description": "Empowering the lifestyle of learning",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9d4fbaebdd9be971357451e21.jpeg",
@@ -659,6 +664,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mentormob",
       "twitter": "https://twitter.com/mentormob",
@@ -670,13 +676,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-flinja",
+    "source": "techstars",
     "name": "Flinja",
     "description": "Connecting talented individuals to work that allows them to show off their skills",
     "logo": "https://s3.amazonaws.com/photos.angel.co/startups/i/98097-c7ff86f57d053ca9dcca37b75fc570ed-medium_jpg.jpg?buster=1342207077",
@@ -695,6 +700,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/flinja",
       "twitter": "https://twitter.com/flinjaworld",
@@ -706,13 +712,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-creatorbox",
+    "source": "techstars",
     "name": "CreatorBox",
     "description": "CreatorBox is a group of passionate parents, and educational technologists, who have come together to with one goal.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53ecf8cd6745166ab4000003/original/creatorbox.png",
@@ -728,6 +733,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/creatorbox",
       "twitter": "https://twitter.com/CreatorBoxes",
@@ -739,8 +745,6 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   }

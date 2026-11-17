@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-arul-health",
+    "source": "techstars",
     "name": "Arul Health",
     "description": "Arul Health is a patient navigation platform serving individuals with chronic conditions. We streamline access to care, resources, and support services, reducing friction across the healthcare journey. By leveling the playing field, we enable patients to focus on healing instead of navigating complexity.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_250c747c5440f950218a0ee4d.jpg",
@@ -14,11 +15,14 @@
     ],
     "year": 2024,
     "program": "Founder Catalyst sponsored by Stanley Black & Decker, Northwestern Medicine & Techstars Healthcare Accelerator",
-    "programSlugs": [],
+    "programSlugs": [
+      "northwestern-medicine-healthcare"
+    ],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/arulhealth",
       "twitter": "",
@@ -30,8 +34,6 @@
       "state_province": "Virginia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   }

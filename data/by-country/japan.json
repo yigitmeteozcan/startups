@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-555-comic",
+    "source": "techstars",
     "name": "555 Comic",
     "description": "Some might call what we make virtual influencers, we call them virtual characters. Social media first characters sharing soundtrack worthy episodic story arcs.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60261f7837c13c00071fa478/original/Final.png",
@@ -9,7 +10,8 @@
     "region": "Asia",
     "subregion": "Eastern Asia",
     "tags": [
-      "Gaming"
+      "Gaming",
+      "Technology, media and telecommunications"
     ],
     "year": 2021,
     "program": "Techstars Music Accelerator",
@@ -20,6 +22,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/555-comic",
       "twitter": "https://twitter.com/crc_luna",
@@ -30,13 +33,12 @@
       "city": "Tokyo",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": []
   },
   {
     "id": "techstars-embodyme",
+    "source": "techstars",
     "name": "EmbodyMe",
     "description": "EmbodyMe is creating generative AI technology to reinvent video. Our AI video generation technology is at least 50 times faster than any of our competitors, and our technology alone has the advantage of real-time operation in chatbots, video chats, live streams, and games on common machines. ",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c4e6a7a34a60d7093000029/original/logo.jpg",
@@ -58,6 +60,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/embodyme-inc",
       "twitter": "",
@@ -68,13 +71,12 @@
       "city": "Tokyo",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": []
   },
   {
     "id": "techstars-edison-ai",
+    "source": "techstars",
     "name": "edison.ai",
     "description": "edison.ai analyzes photos on social media to profile fans/consumers for brands and artists.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a7be9d8c1a4b84fbb00000a/original/logo_withName_Wbg.png",
@@ -94,6 +96,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/edisonai",
       "twitter": "https://twitter.com/edisonai_en",
@@ -104,8 +107,6 @@
       "city": "Tokyo",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": [
       "plugandplay"
@@ -113,6 +114,7 @@
   },
   {
     "id": "techstars-holotch",
+    "source": "techstars",
     "name": "Holotch",
     "description": "Holotch is an end to end hologram streaming platform",
     "logo": "https://apimg.techstars.com/connect/images/image_files/607860692c48630607ff06e5/original/Holotch-logo.jpeg",
@@ -132,6 +134,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/holotch",
       "twitter": "https://twitter.com/holotch",
@@ -142,55 +145,14 @@
       "city": "Tokyo",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": [
       "plugandplay"
     ]
   },
   {
-    "id": "techstars-tokoshie",
-    "name": "Tokoshie",
-    "description": "BirthT is an R&D venture that has developed a belt conveyor 3D printer for modeling and manufacturing.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9c16a6aaf20c6faaaa7a68929.png",
-    "website": "https://birtht.xyz",
-    "location": "Suginami-ku, Tokyo, Japan",
-    "region": "Asia",
-    "subregion": "Eastern Asia",
-    "tags": [
-      "3D printing",
-      "Artificial intelligence and machine learning",
-      "Manufacturing",
-      "SaaS"
-    ],
-    "year": 2025,
-    "program": "Techstars Tokyo Accelerator",
-    "programSlugs": [
-      "tokyo"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/tokoshie3d",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/birtht"
-    },
-    "extra": {
-      "city": "Suginami-ku",
-      "state_province": "Tokyo",
-      "country": "Japan"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Japan",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-o-id",
+    "source": "techstars",
     "name": "O-ID",
     "description": "Building the world's first fully modular humanoid robotics platform that adapts to every industry, from farming fields to outer space.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_472a26ee59b7cc8439e4eecfd.png",
@@ -213,6 +175,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/o-id",
       "twitter": "",
@@ -224,15 +187,53 @@
       "state_province": "Tokyo",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": [
       "plugandplay"
     ]
   },
   {
+    "id": "techstars-galvano-ai",
+    "source": "techstars",
+    "name": "Galvano.ai",
+    "description": "",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_079eb4806dc814a6ccd4f0cde.png",
+    "website": "https://galvano.ai",
+    "location": "Meguro-ku, Tokyo, Japan",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Industrials",
+      "Manufacturing"
+    ],
+    "year": 2026,
+    "program": "Techstars Tokyo Accelerator",
+    "programSlugs": [
+      "tokyo"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Meguro-ku",
+      "state_province": "Tokyo",
+      "country": "Japan"
+    },
+    "country": "Japan",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-dleader",
+    "source": "techstars",
     "name": "DLeader",
     "description": "Faster, smarter drug discovery for all researchers through AI agents.",
     "logo": "https://apimg.techstars.com/profiles/1755532749074_323655.png",
@@ -253,6 +254,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dleader",
       "twitter": "",
@@ -264,13 +266,12 @@
       "state_province": "Osaka",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": []
   },
   {
     "id": "techstars-cascade",
+    "source": "techstars",
     "name": "Cascade",
     "description": "Cascade is an AI-driven marketing optimization platform that unifies ad and digital analytics, automation, and creative generation in one intuitive interface. It combines proprietary AI models, human-in-the-loop automation, and exceptional UI/UX to identify bottlenecks, optimize campaigns, and generate high-performing creatives--empowering global marketers to improve conversions and scale faster.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_adbf43434be363ac5d1e4c927.png",
@@ -290,6 +291,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cascaded-ai",
       "twitter": "",
@@ -301,13 +303,90 @@
       "state_province": "Tokyo",
       "country": "Japan"
     },
+    "country": "Japan",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-borderless-so",
     "source": "techstars",
+    "name": "borderless.so",
+    "description": "We unlock the world's human capital",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b937d6b7303ed553d1d761b9e.png",
+    "website": "https://borderless.so",
+    "location": "Tokyo, Tokyo, Japan",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Edtech"
+    ],
+    "year": 2026,
+    "program": "Techstars Tokyo Accelerator",
+    "programSlugs": [
+      "tokyo"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/borderless-so",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/borderless-50ae"
+    },
+    "extra": {
+      "city": "Tokyo",
+      "state_province": "Tokyo",
+      "country": "Japan"
+    },
+    "country": "Japan",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-ajiwow",
+    "source": "techstars",
+    "name": "Ajiwow",
+    "description": "",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_eeb3399e8182a96aba7f80a29.png",
+    "website": "https://ajiwow.co.jp",
+    "location": "Chuo-ku, Tokyo, Japan",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Foodtech",
+      "Supply chain technology"
+    ],
+    "year": 2026,
+    "program": "Techstars Tokyo Accelerator",
+    "programSlugs": [
+      "tokyo"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Chuo-ku",
+      "state_province": "Tokyo",
+      "country": "Japan"
+    },
     "country": "Japan",
     "alsoIn": []
   },
   {
     "id": "techstars-samaria",
+    "source": "techstars",
     "name": "Samaria",
     "description": "Unleashes the potential of Japanese manga to the world with AI",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_077b9041b91233340a84b0d66.png",
@@ -327,6 +406,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/yukoyamasaki",
       "twitter": "",
@@ -337,8 +417,6 @@
       "city": "Toshima City",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": [
       "plugandplay"
@@ -346,6 +424,7 @@
   },
   {
     "id": "techstars-pioneerwork",
+    "source": "techstars",
     "name": "Pioneerwork",
     "description": "Zag streamlines dropshipping for retailers, facilitating swift supplier integration and transaction. Our platform enables seamless bidirectional exchange of product info, inventory, orders, returns, invoices, and payments between retailers and suppliers. With Zag, onboarding takes minutes, allowing for rapid assortment expansion without inventory risks, supported by integration with major Japanese e-commerce platforms.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ff66cc8508b6a16a4239d0382.png",
@@ -366,6 +445,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/yoichigoto",
       "twitter": "",
@@ -376,13 +456,12 @@
       "city": "Tokyo",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": []
   },
   {
     "id": "techstars-digital-will",
+    "source": "techstars",
     "name": "Digital Will",
     "description": "Digital Will's WORTAL empowers game studios to swift distribution, enhanced monetization, and cost-effective efficiency",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgpfd36bgksi4tma1hfi",
@@ -403,6 +482,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/digital-will",
       "twitter": "https://twitter.com/digitalwillinc",
@@ -413,13 +493,12 @@
       "city": "Minato City",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": []
   },
   {
     "id": "techstars-amatama",
+    "source": "techstars",
     "name": "Amatama",
     "description": "Amatama is a computing and manufacturing company that researches and develops hierarchical architectures and robot computers.",
     "logo": "https://apimg.techstars.com/profiles/1722936347499_338893.png",
@@ -440,6 +519,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/yuichi-horiuchi",
       "twitter": "",
@@ -450,8 +530,6 @@
       "city": "Nagoya",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": [
       "plugandplay"
@@ -459,6 +537,7 @@
   },
   {
     "id": "techstars-tabl",
+    "source": "techstars",
     "name": "Tabl",
     "description": "A multi-player web browser",
     "logo": "https://apimg.techstars.com/profiles/1728464087754_481531.png",
@@ -478,6 +557,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tablbrowser",
       "twitter": "https://twitter.com/UndeskHQ",
@@ -488,8 +568,6 @@
       "city": "Tokyo",
       "country": "Japan"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Japan",
     "alsoIn": []
   },

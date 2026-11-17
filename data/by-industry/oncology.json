@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-preveta",
+    "source": "techstars",
     "name": "Preveta",
     "description": "Preveta is transforming cancer care by building the richest database of patient insights that will drive transformation for providers, pharma and payers",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f08ebe8a36c115493000140/original/Preveta_logo_Square_372x372_White_Background.jpg",
@@ -9,7 +10,7 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Big Data",
+      "Artificial intelligence and machine learning",
       "Digital health",
       "Healthtech",
       "Oncology"
@@ -23,6 +24,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/preveta",
       "twitter": "https://twitter.com/hellopreveta",
@@ -34,52 +36,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-dehaze",
-    "name": "dehaze",
-    "description": "dehaze enables clinicians to harness the power of AI for precise diagnostics and prognostic",
-    "logo": "https://apimg.techstars.com/profiles/1696958215266_575888.png",
-    "website": "https://dehaze.de",
-    "location": "Fürstenfeldbruck, Germany",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Digital health",
-      "Healthtech",
-      "Oncology"
-    ],
-    "year": 2023,
-    "program": "Techstars Berlin Accelerator",
-    "programSlugs": [
-      "berlin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/dehazeai",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/dehaze"
-    },
-    "extra": {
-      "city": "Fürstenfeldbruck",
-      "country": "Germany"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Germany",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-brainspec",
+    "source": "techstars",
     "name": "BrainSpec",
     "description": "BrainSpec is a health-tech company that enables the accurate, efficient and non-invasive diagnosis of brain disorders.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58a384309c66a90a2b0001a5/original/BrainSpec_LOGO.png",
@@ -100,6 +62,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/brainspec",
       "twitter": "https://twitter.com/Brain_Spec",
@@ -111,13 +74,51 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-oncoverycare",
     "source": "techstars",
+    "name": "OncoveryCare",
+    "description": "VivorCare is the first virtual survivorship clinic providing whole-person care to survivors of critical illness, starting with cancer.",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/mger204zhviu1gqlnskn",
+    "website": "https://oncoverycare.com",
+    "location": "Boston, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Digital health",
+      "Healthtech",
+      "Oncology"
+    ],
+    "year": 2022,
+    "program": "Techstars Boston Accelerator",
+    "programSlugs": [
+      "boston"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/oncoverycare",
+      "twitter": "https://twitter.com/vivorcare",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/vivorcare"
+    },
+    "extra": {
+      "city": "Boston",
+      "state_province": "Massachusetts",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-amply-discovery",
+    "source": "techstars",
     "name": "AMPLY Discovery",
     "description": "Novel Biologics. Designed by Evolution. Discovered by AI.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a0e4b7df932f47b738af32bcd.png",
@@ -139,6 +140,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/amply-discovery",
       "twitter": "",
@@ -149,13 +151,12 @@
       "city": "Belfast",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-arul-health",
+    "source": "techstars",
     "name": "Arul Health",
     "description": "Arul Health is a patient navigation platform serving individuals with chronic conditions. We streamline access to care, resources, and support services, reducing friction across the healthcare journey. By leveling the playing field, we enable patients to focus on healing instead of navigating complexity.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_250c747c5440f950218a0ee4d.jpg",
@@ -169,11 +170,14 @@
     ],
     "year": 2024,
     "program": "Founder Catalyst sponsored by Stanley Black & Decker, Northwestern Medicine & Techstars Healthcare Accelerator",
-    "programSlugs": [],
+    "programSlugs": [
+      "northwestern-medicine-healthcare"
+    ],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/arulhealth",
       "twitter": "",
@@ -185,13 +189,92 @@
       "state_province": "Virginia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-sqk",
+    "source": "techstars",
+    "name": "SQK",
+    "description": "SQK develops QMEDIC, a physics-guided AI solution for low-dose CT reconstruction that improves image quality while preserving clinically important details.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3f955f4a08831fa2108417097.png",
+    "website": "https://sqkcloud.com",
+    "location": "Issaquah, Washington, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Digital health",
+      "Healthtech",
+      "Oncology"
+    ],
+    "year": 2026,
+    "program": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
+    "programSlugs": [
+      "permanente-medicine"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/sqkinc",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Issaquah",
+      "state_province": "Washington",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-dicetech",
+    "source": "techstars",
+    "name": "DICEtech",
+    "description": "DICEtech is developing an MRI-based virtual biopsy to remove invasive biopsy from the prostate cancer diagnostic pathway.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_cd0502a5d8808250d3976a912.png",
+    "website": "https://dicetech.ai",
+    "location": "Verona, Verona, Italy",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Digital health",
+      "Healthtech",
+      "Oncology"
+    ],
+    "year": 2026,
+    "program": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
+    "programSlugs": [
+      "permanente-medicine"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/dicetech-srl",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Verona",
+      "state_province": "Verona",
+      "country": "Italy"
+    },
+    "country": "Italy",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-reflector-bio",
+    "source": "techstars",
     "name": "Reflector Bio",
     "description": "Reflector Bio is transforming drug discovery by bringing functional biology to the forefront. Our AI platform predicts how compounds behave in human cells, improving translational relevance and predictive power across diverse assays. By combining large-scale phenotypic data with advanced machine learning, we uncover mechanisms of action, identify novel biology, and guide experimental design with precision. ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_cabc01088bd7023c274a4bfaa.jpeg",
@@ -214,6 +297,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/reflectorbio",
       "twitter": "",
@@ -225,13 +309,90 @@
       "state_province": "New York",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-swiftsound",
     "source": "techstars",
+    "name": "SwiftSound",
+    "description": "SwiftSound improves the safety and efficacy of ultrasound-guided interventions with a Physical AI handheld probe. It tracks standard needles and enhances screen display on existing carts, first training residents and APPs, then aiding them in practice.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4224cdc40e0fdd4f3430df779.jpg",
+    "website": "https://swiftsound.ai",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Digital health",
+      "Healthtech",
+      "Oncology"
+    ],
+    "year": 2026,
+    "program": "Techstars AI Health Baltimore",
+    "programSlugs": [
+      "baltimore-ai-health"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/swiftsound",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-lumenate-medical",
+    "source": "techstars",
+    "name": "Lumenate Medical",
+    "description": "Lumenate Medical develops an AI-enabled cystoscope for non-urologist providers to improve bladder cancer diagnosis and surveillance, addressing delays caused by a urologist shortage and enabling faster evaluations for patients.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4c7a4d859dcbb247cf4cb8f3c.jpg",
+    "website": "https://lumenatemedical.com",
+    "location": "Baltimore, Maryland, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Healthtech",
+      "Oncology"
+    ],
+    "year": 2026,
+    "program": "Techstars AI Health Baltimore",
+    "programSlugs": [
+      "baltimore-ai-health"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/lumenate-medical",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Baltimore",
+      "state_province": "Maryland",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-citrus-oncology",
+    "source": "techstars",
     "name": "Citrus Oncology",
     "description": "Citrus gives every patient continuous, multi-specialty clinical intelligence -- so the right care finds them before they have to ask for it.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5c82c8723fb804dbe0d3f1a46.jpeg",
@@ -255,6 +416,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/citrus-oncology",
       "twitter": "",
@@ -266,13 +428,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-allumbra",
+    "source": "techstars",
     "name": "allumbra",
     "description": "allumbra develops a blood test for oncologists and cancer centers that uses photonics and AI to detect early cancer recurrence in head and neck cancer survivors, addressing the need for accurate and affordable monitoring in a market with limited options",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_49fdc4c86ebac4248ef308c67.png",
@@ -294,24 +455,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/allumbrabio",
+      "linkedin": "https://linkedin.com/company/allumbra",
       "twitter": "",
       "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/illumifydx"
+      "crunchbase": "https://crunchbase.com/organization/allumbra"
     },
     "extra": {
       "city": "Broomfield",
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-medicus",
+    "source": "techstars",
     "name": "Medicus",
     "description": "Urban Data Lab is an AI-based company that specializes in the image, video, and natural language processing.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8a089a8d5304a668c26e1ae6a.jpeg",
@@ -335,6 +496,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/urbandatalab",
       "twitter": "",
@@ -346,55 +508,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-biomod-ai",
-    "name": "Biomod AI",
-    "description": "AI Assistant for Biotech R&D",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d2e6309ad3875da9aeffbbdfb.png",
-    "website": "https://biomodai.com",
-    "location": "Zuid-Scharwoude, Netherlands",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Agtech",
-      "Artificial intelligence and machine learning",
-      "Climate tech",
-      "Digital health",
-      "Edtech",
-      "Healthtech",
-      "Oncology"
-    ],
-    "year": 2024,
-    "program": "Techstars Berlin Accelerator",
-    "programSlugs": [
-      "berlin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/biomodai",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "Zuid-Scharwoude",
-      "country": "Netherlands"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Netherlands",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-oncorevive",
+    "source": "techstars",
     "name": "OncoRevive",
     "description": "Developing a nanotechnology-based AI-powered blood test for cancer monitoring",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_61efb1c9d72fc1c5ab9fc250d.png",
@@ -417,6 +536,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/oncorevive",
       "twitter": "",
@@ -428,8 +548,6 @@
       "state_province": "Victoria",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": [
       "antler"
@@ -437,6 +555,7 @@
   },
   {
     "id": "techstars-omicschart",
+    "source": "techstars",
     "name": "OmicsChart",
     "description": "Patient-centric cancer data and analytics platform for translational cancer biologists",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/g3lgnp3izthtex3dmpxl",
@@ -459,6 +578,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/omicschart",
       "twitter": "https://twitter.com/omicschart",
@@ -469,13 +589,12 @@
       "city": "Martinsried",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-mission-driven-tech",
+    "source": "techstars",
     "name": "Mission-Driven Tech",
     "description": "For women that have to receive brachytherapy (internal radiation therapy), we have designed a patient-centered device that minimizes discomfort, improves procedure safety, patient outcomes and access to care.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7d07740a43add0d8f29d5af5c.jpg",
@@ -498,6 +617,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mission-driven-tech",
       "twitter": "",
@@ -509,13 +629,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-narval",
+    "source": "techstars",
     "name": "Narval",
     "description": "Synthetic Antibody Mimetic Proteins for novel first-in-class immunotherapeutics",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_86c92df33c5d9e545950e7ed1.png",
@@ -537,6 +656,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "https://twitter.com/narvalbio",
@@ -548,13 +668,12 @@
       "state_province": "Jalisco",
       "country": "Mexico"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Mexico",
     "alsoIn": []
   },
   {
     "id": "techstars-radicait",
+    "source": "techstars",
     "name": "RADiCAIT",
     "description": "Our innovative deep-learning approach generates synthetic PET-CT images without the need for traditional nuclear medicine techniques. Our Vision is to create 10X more accessible, productive, safe and sustainable radiology.",
     "logo": "",
@@ -576,6 +695,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -587,13 +707,12 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-flutespace",
+    "source": "techstars",
     "name": "FluteSpace",
     "description": "Next-gen broad intelligence and precision medicine platform, leveraging proprietary AI technology FLUTE (Fast Learning Unified Task Engine)",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f64253d87fa5b044249df532a.png",
@@ -615,6 +734,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/flutespace",
       "twitter": "",
@@ -626,13 +746,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-generable",
+    "source": "techstars",
     "name": "Generable",
     "description": "State-of-the-art platform for oncology clinical trials from first in human to registration.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a0072799c66a96aac00002a/original/generable_logo.png",
@@ -654,6 +773,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/stan-group-inc.",
       "twitter": "https://twitter.com/GenerableHQ",
@@ -665,13 +785,54 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-biomod-ai",
+    "source": "techstars",
+    "name": "Biomod AI",
+    "description": "AI Assistant for Biotech R&D",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d2e6309ad3875da9aeffbbdfb.png",
+    "website": "",
+    "location": "Zuid-Scharwoude, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Agtech",
+      "Artificial intelligence and machine learning",
+      "Climate tech",
+      "Digital health",
+      "Edtech",
+      "Healthtech",
+      "Oncology"
+    ],
+    "year": 2024,
+    "program": "Techstars Berlin Accelerator",
+    "programSlugs": [
+      "berlin"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/biomodai",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Zuid-Scharwoude",
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-aradon",
+    "source": "techstars",
     "name": "Aradon",
     "description": "Aradon makes biotech robot labs easy to install and operate for scientists. Removing the manual work bottleneck from biotech will enable new medical solutions and enhance healthcare globally. ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a2b74de909571b8d4ee7e1e1a.png",
@@ -694,6 +855,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/aradon-bio",
       "twitter": "",
@@ -704,8 +866,6 @@
       "city": "Leiden",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },

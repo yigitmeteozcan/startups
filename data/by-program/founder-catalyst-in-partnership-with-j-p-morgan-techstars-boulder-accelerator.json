@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-greets",
+    "source": "techstars",
     "name": "Greets",
     "description": "Personalized Greeting Cards and Invitations",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_1e14ac3a0edfda1b69a27f95a.png",
@@ -24,6 +25,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cardswap",
       "twitter": "https://twitter.com/cardswap",
@@ -35,8 +37,6 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   }

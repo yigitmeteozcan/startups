@@ -1,6 +1,44 @@
 [
   {
+    "id": "techstars-edulis-therapeutics",
+    "source": "techstars",
+    "name": "Edulis Therapeutics",
+    "description": "Carnegie Mellon spinout working on a sustained drug-delivery platform for chronic gastrointestinal diseases",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/m1gr0fd14ewbtfdfnzfi",
+    "website": "https://edulis.xyz",
+    "location": "Nashville, Tennessee, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Life sciences"
+    ],
+    "year": 2026,
+    "program": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
+    "programSlugs": [
+      "permanente-medicine"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/edulis-therapeutics",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/edulis-therapeutics"
+    },
+    "extra": {
+      "city": "Nashville",
+      "state_province": "Tennessee",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-cerevanta",
+    "source": "techstars",
     "name": "Cerevanta",
     "description": "Cerevanta delivers real-time 4D brain scans at the bedside to hospitals, ambulances, and care centers, addressing delays in stroke treatment and monitoring by providing continuous imaging of brain structures and blood flow to prevent brain damage",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6a92bf88f612af7a3feaf1175.png",
@@ -9,6 +47,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Artificial intelligence and machine learning",
+      "Digital health",
       "Healthtech",
       "Life sciences"
     ],
@@ -21,6 +61,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cerevanta-neuro",
       "twitter": "",
@@ -32,13 +73,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-alterecho",
+    "source": "techstars",
     "name": "AlterEcho",
     "description": "Remote Embodiment Robotics for Aseptic Manufacturing",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e9dee0313b27ff76a146ab36a.jpg",
@@ -62,6 +102,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/alterecho-io",
       "twitter": "",
@@ -73,9 +114,46 @@
       "state_province": "Capital Region",
       "country": "Denmark"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-biomine-health",
+    "source": "techstars",
+    "name": "Biomine Health",
+    "description": "Biomine Health uses advanced microbiome analysis to develop diagnostic tools that predict fertility and preterm birth risks, empowering women and their doctors with personalised insights to improve reproductive outcomes. ",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7e3146bebff919c88ce141776.jpg",
+    "website": "https://biominehealth.com",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Healthtech",
+      "Life sciences",
+      "Lifestyles of Health and Sustainability and wellness"
+    ],
+    "year": 2024,
+    "program": "Techstars London Accelerator",
+    "programSlugs": [
+      "london"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/biomine-health",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
     "alsoIn": []
   }
 ]

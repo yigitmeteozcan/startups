@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-guama",
+    "source": "techstars",
     "name": "Guama",
     "description": "A credit card for LATAM's underbanked population.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_70c64bf0c6e66911f5860b6b3.png",
@@ -20,6 +21,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/guamacard",
       "twitter": "https://twitter.com/guamacard",
@@ -30,13 +32,52 @@
       "city": "Medellin",
       "country": "Colombia"
     },
+    "country": "Colombia",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-nanofreeze",
     "source": "techstars",
+    "name": "NanoFreeze",
+    "description": "NanoFreeze reduces commercial refrigeration energy use by up to 50%.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f1c4c6d588d142b5b2f9d7b1e.png",
+    "website": "https://nanofreeze.com.co",
+    "location": "Bogota, Bogota D.C., Colombia",
+    "region": "Americas",
+    "subregion": "South America",
+    "tags": [
+      "Cleantech",
+      "Climate tech",
+      "Industrials",
+      "Nanotechnology"
+    ],
+    "year": 2026,
+    "program": "Techstars Future of Food Powered by Ecolab",
+    "programSlugs": [
+      "future-of-food"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/nanofreeze",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Bogota",
+      "state_province": "Bogota D.C.",
+      "country": "Colombia"
+    },
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-invomatic",
+    "source": "techstars",
     "name": "Invomatic",
     "description": "Helping companies transition from paper to electronic invoicing in Latam, reducing costs and saving time while complying with local regulation",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58f6317b9c66a92243000001/original/Icon.png",
@@ -57,6 +98,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/appflow",
       "twitter": "https://twitter.com/invomatic",
@@ -67,13 +109,12 @@
       "city": "Bogotá",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-porter-metrics",
+    "source": "techstars",
     "name": "Porter Metrics",
     "description": "Zapier for Data Visualization. Porter automates marketing reporting for small to medium size businesses and agencies.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6078711034f930000729ebbd/original/Screen_Shot_2021-04-13_at_3.18.25_PM.png",
@@ -93,6 +134,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/porter-metrics",
       "twitter": "https://twitter.com/portermetrics",
@@ -103,13 +145,12 @@
       "city": "Manizales",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-lizit",
+    "source": "techstars",
     "name": "Lizit",
     "description": "Lizit is a Marketplace/SaaS company that digitalizes and centralizes good and service rental businesses.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8e8ac33aece19776c08712752.jpeg",
@@ -129,6 +170,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lizit-alquileres",
       "twitter": "",
@@ -139,13 +181,12 @@
       "city": "Bogotá",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-zimago",
+    "source": "techstars",
     "name": "ZimaGo",
     "description": "For SMBs in underbanked markets, grappling with workplace financial stress and growth challenges, Zimago offers a holistic financial-inclusive platform.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_87af17869471dbb04235d6111.png",
@@ -165,6 +206,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/zimago-cr%C3%A9dito-con-sentido",
       "twitter": "",
@@ -175,13 +217,12 @@
       "city": "Bogotá",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-teral",
+    "source": "techstars",
     "name": "TERAL",
     "description": "TERAL will be the largest repository of clinical cases in the world to solve challenging cases between health professionals at real time",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2079c461049cabfc7407c6f6e.png",
@@ -201,6 +242,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/teralmed",
       "twitter": "",
@@ -211,13 +253,12 @@
       "city": "Medellín",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-loto-punto",
+    "source": "techstars",
     "name": "Loto Punto",
     "description": "Kiosk system for micropayments in banking, retail and government, providing a fast, easy, and inexpensive way for unbanked users to send and receive money",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e0c3dec486f05b17f00a78be3.png",
@@ -238,6 +279,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/victor-espinosa-2237311a",
       "twitter": "https://twitter.com/victuol",
@@ -248,13 +290,12 @@
       "city": "Bogota",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-axumption",
+    "source": "techstars",
     "name": "aXumption",
     "description": "Uncover cloud inefficiencies and optimize costs using architecture insights",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8391e3d23bc92f6dce4b4a251.png",
@@ -274,6 +315,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/axumption",
       "twitter": "https://twitter.com/axumption_",
@@ -284,13 +326,12 @@
       "city": "Bogotá",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-mowies",
+    "source": "techstars",
     "name": "MOWIES",
     "description": "Mowies is a film and TV shows marketplace for filmmakers, distributors, and consumers, empowering creators to sell directly to their customers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ff4b43c63138d5e7a000031/original/moweis.jpg",
@@ -310,6 +351,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mowies",
       "twitter": "https://twitter.com/mowiesinc",
@@ -320,13 +362,12 @@
       "city": "Medellín",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-docokids",
+    "source": "techstars",
     "name": "Docokids",
     "description": "A pediatrician in everyone's pocket",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e00bb002a0abca3efc8a48bb4.jpeg",
@@ -346,6 +387,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/docokids",
       "twitter": "https://twitter.com/docokids",
@@ -356,13 +398,12 @@
       "city": "Bogotá",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-firmus-linxe",
+    "source": "techstars",
     "name": "Firmus linxe",
     "description": "Linxe offers payroll-based financial services to employees, such as salary advances, microloans, insurance, payments to give them control over their salaries",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60f6e330acfd15000724149c/original/logo_Linxe_nuevo.png",
@@ -381,6 +422,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/firmus-sas",
       "twitter": "https://twitter.com/linxe17",
@@ -391,13 +433,12 @@
       "city": "Bogotá",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-two-to-tango",
+    "source": "techstars",
     "name": "Two to Tango",
     "description": "A borderless business networking platform that transforms connections and opportunities into real deals for everyone.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_73dd1c4357f221af193fc8b6e.jpeg",
@@ -419,6 +460,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tttnetworking",
       "twitter": "https://twitter.com/twototangomatch",
@@ -429,13 +471,12 @@
       "city": "Bogotá",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-galilei-learning",
+    "source": "techstars",
     "name": "Galilei Learning",
     "description": "Boost your deskless employee training with gamified learning and real-life application.",
     "logo": "https://apimg.techstars.com/profiles/1725073266770_214561.png",
@@ -456,6 +497,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/galilei-learning",
       "twitter": "",
@@ -467,13 +509,12 @@
       "state_province": "Antioquia",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-cosito",
+    "source": "techstars",
     "name": "Cosito",
     "description": "AI-powered sensors enabling businesses to gain actionable insights from the physical world.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/msqpzhjkqq0uwr8pl1ig",
@@ -493,6 +534,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cosito-inc",
       "twitter": "",
@@ -504,13 +546,12 @@
       "state_province": "Bogota D.C.",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-suplio",
+    "source": "techstars",
     "name": "Suplio",
     "description": "The one stop shop to source and finance construction materials in Latin America.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6261f29b33ea244006e948f5/original/Screen_Shot_2022-04-21_at_6.10.52_PM.png",
@@ -530,6 +571,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hometuls",
       "twitter": "",
@@ -540,13 +582,12 @@
       "city": "Bogota",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-kiper",
+    "source": "techstars",
     "name": "Kiper",
     "description": "Kiper is a smart wearable designed to enhance child safety and provide parents with peace of mind.",
     "logo": "https://apimg.techstars.com/profiles/1722553353773_292906.png",
@@ -567,6 +608,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kiper-ai",
       "twitter": "",
@@ -578,13 +620,12 @@
       "state_province": "Antioquia",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-watermelon",
+    "source": "techstars",
     "name": "Watermelon",
     "description": "Their app comments on your code review with business logic context. Helps users learn code 10x faster",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b48bc22c393120bcdea39b056.jpeg",
@@ -604,6 +645,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/watermelon-tools",
       "twitter": "https://twitter.com/WatermelonTools",
@@ -614,13 +656,12 @@
       "city": "Medellín",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-vaale",
+    "source": "techstars",
     "name": "Vaale",
     "description": "Banking individuals & SMBs in LATAM starting with our Buy-Often, Pay-Later for Groceries and Essentials.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/pusftzrx3pyeakeb3sgn",
@@ -640,6 +681,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/vaale",
       "twitter": "https://twitter.com/PagoConVaale",
@@ -650,8 +692,6 @@
       "city": "Medellín",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },

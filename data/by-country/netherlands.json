@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-overstory",
+    "source": "techstars",
     "name": "Overstory",
     "description": "Real-time vegetation intelligence, at scale",
     "logo": "https://apimg.techstars.com/connect/images/image_files/605669d7a6bd3800072f05c7/original/OVERSTORY_LOGO_BLACK_RGB_282x282.png",
@@ -10,9 +11,8 @@
     "subregion": "Western Europe",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Cleantech",
-      "Climate tech",
-      "Insurtech"
+      "Big Data",
+      "Climate tech"
     ],
     "year": 2019,
     "program": "Techstars Lisbon in Partnership with Semapa Next",
@@ -21,6 +21,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/overstoryai",
       "twitter": "https://twitter.com/overstoryai",
@@ -31,13 +32,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-sirius",
+    "source": "techstars",
     "name": "Sirius",
     "description": "Sirius empowers small businesses to decarbonize: discover, finance, implement.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9ca78b1c7b1f15f3f98d7e9eb.png",
@@ -46,7 +46,9 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
-      "SaaS"
+      "Artificial intelligence and machine learning",
+      "SaaS",
+      "Supply chain technology"
     ],
     "year": 2023,
     "program": "Techstars Transformative World Torino",
@@ -57,6 +59,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/besirius",
       "twitter": "",
@@ -67,13 +70,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-tweezr",
+    "source": "techstars",
     "name": "Tweezr",
     "description": "The modern alternative to large modernization programs.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8a53b10c1cfb978fe737f5fc1.png",
@@ -83,7 +85,6 @@
     "subregion": "Western Europe",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Big Data",
       "Cloudtech and DevOps",
       "Fintech"
     ],
@@ -96,6 +97,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -107,13 +109,12 @@
       "state_province": "North Holland",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-peerby",
+    "source": "techstars",
     "name": "Peerby",
     "description": "Borrow the things you need from others in their neighborhood.",
     "logo": "https://s3.amazonaws.com/photos.angel.co/startups/i/112248-6ba181c8aec16fea2624569252be169d-medium_jpg.jpg?buster=1344532685",
@@ -138,6 +139,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/2459488",
       "twitter": "https://twitter.com/peerby",
@@ -148,13 +150,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-valyuu",
+    "source": "techstars",
     "name": "Valyuu",
     "description": "Circular economy marketplace that unlocks the financial and environmental benefits of used electronic products.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/605b14f0c97c0a0007ed57c4/original/Valyuu_200x200.jpg",
@@ -178,6 +179,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/valyuu",
       "twitter": "https://twitter.com/HelloValyuu",
@@ -188,13 +190,12 @@
       "city": "Gorinchem",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-ellipsis-drive",
+    "source": "techstars",
     "name": "Ellipsis Drive",
     "description": "Ellipsis Drive is a cloud native plug and play solution for collaborating, sharing, and selling spatial data the easy way.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f62079134a60d4e6e00004d/original/ellipsis-logo.png",
@@ -203,19 +204,18 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
-      "Artificial intelligence and machine learning",
       "Big Data",
-      "Infrastructure",
-      "Internet of Things",
-      "Oil and gas"
+      "Cloudtech and DevOps",
+      "SaaS"
     ],
     "year": 2020,
     "program": "Techstars Allied Space Accelerator",
     "programSlugs": [],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ellipsis-drive",
       "twitter": "https://twitter.com/EllipsisDrive",
@@ -226,13 +226,12 @@
       "city": "Ede",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-simreka",
+    "source": "techstars",
     "name": "Simreka",
     "description": "Our simulation platform transforms R&D for brands and their material manufacturers from labor-intensive to digital reducing development timelines and costs.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d37ed4934a60d13b3000465/original/simreka-monogram.jpg",
@@ -250,6 +249,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/simreka1",
       "twitter": "https://twitter.com/simreka",
@@ -260,13 +260,12 @@
       "city": "Utrecht",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-geofluxus",
+    "source": "techstars",
     "name": "geoFluxus",
     "description": "We map waste",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ec19e77a36c116eba0000bd/original/gF_logo-02.png",
@@ -285,6 +284,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/geofluxus",
       "twitter": "https://twitter.com/GFluxus",
@@ -295,13 +295,12 @@
       "city": "Rotterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-flybridge-holdings",
+    "source": "techstars",
     "name": "Flybridge Holdings",
     "description": "At Qwyk we're building the future of logistics, driven by data and innovative application that connect customers and logistics providers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b3a366ac1a4b85f3e000001/original/avatar_facebook_4x.png",
@@ -319,6 +318,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/qwyk",
       "twitter": "https://twitter.com/qwyk_io",
@@ -329,13 +329,12 @@
       "city": "Dordrecht",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-flow-ai",
+    "source": "techstars",
     "name": "Flow.ai",
     "description": "Professional tools to develop, deploy and manage Alexa skills and Google Home actions without coding.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a5cb28b9c66a94fb600001b/original/logo.png",
@@ -355,6 +354,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10631684",
       "twitter": "https://twitter.com/theflowai",
@@ -365,13 +365,90 @@
       "city": "Tilburg",
       "country": "Netherlands"
     },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-umbra-ai",
     "source": "techstars",
+    "name": "Umbra Ai",
+    "description": "The compliance operating system for financial services.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f581f49cd16ac2bd47ef25fd4.jpeg",
+    "website": "https://umbra-ai.com",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Fintech",
+      "Legal tech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Amsterdam",
+      "state_province": "North Holland",
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-meridyan",
+    "source": "techstars",
+    "name": "Meridyan",
+    "description": "Meridyan connects regulated banks to blockchain rails through one ISO 20022 native API, with no changes to their core systems.",
+    "logo": "https://www.techstars.com/os/api/photo/profile-photos/company-logos/1a5071e8-d101-49c9-a1cd-4b8c4d44e8fa/1794062961004-4mjxyxuqg8.png",
+    "website": "https://meridyan.org",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Cryptocurrency/Blockchain",
+      "Fintech",
+      "SaaS"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/meridyan",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Amsterdam",
+      "state_province": "North Holland",
+      "country": "Netherlands"
+    },
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-nekod",
+    "source": "techstars",
     "name": "NEKOD",
     "description": "Governance for vibe coded apps in enterprise",
     "logo": "https://apimg.techstars.com/profiles/1722237631409_422506.png",
@@ -394,6 +471,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nekod",
       "twitter": "",
@@ -405,13 +483,12 @@
       "state_province": "North Holland",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-tractionboard",
+    "source": "techstars",
     "name": "TractionBoard",
     "description": "Tractionboard is an interactive platform between startups and investors helps make startup financing simple and data driven.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2f3094300fdeae3ad4d7f165f.png",
@@ -434,6 +511,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tractionboard-co",
       "twitter": "",
@@ -444,90 +522,12 @@
       "city": "Utrecht",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "Netherlands",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-biomod-ai",
-    "name": "Biomod AI",
-    "description": "AI Assistant for Biotech R&D",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d2e6309ad3875da9aeffbbdfb.png",
-    "website": "https://biomodai.com",
-    "location": "Zuid-Scharwoude, Netherlands",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Agtech",
-      "Artificial intelligence and machine learning",
-      "Climate tech",
-      "Digital health",
-      "Edtech",
-      "Healthtech",
-      "Oncology"
-    ],
-    "year": 2024,
-    "program": "Techstars Berlin Accelerator",
-    "programSlugs": [
-      "berlin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/biomodai",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "Zuid-Scharwoude",
-      "country": "Netherlands"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Netherlands",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-data-for-good",
-    "name": "Data for Good",
-    "description": "Organizing the world's verified impact data and make it globally accessible and understandable for everyone to enable data-driven decision making",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5eb54206a36c116eba000014/original/Logo_zwart.jpeg",
-    "website": "https://data-for-good.com",
-    "location": "Rotterdam, Netherlands",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Infrastructure"
-    ],
-    "year": 2020,
-    "program": "The Arcadis City of 2030 Accelerator Powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/data-for-good-com",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/data-for-good-dc76"
-    },
-    "extra": {
-      "city": "Rotterdam",
-      "country": "Netherlands"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-roadeo",
+    "source": "techstars",
     "name": "RoadEO",
     "description": "RoadEO offers Road Quality Monitoring and Predictive Road Maintenance 2.0.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f354d68a36c113b60000159/original/Presentation1.png",
@@ -538,7 +538,6 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Big Data",
-      "Cryptocurrency/Blockchain",
       "Infrastructure",
       "Internet of Things"
     ],
@@ -549,6 +548,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/road-eo",
       "twitter": "https://twitter.com/RoadEO_io",
@@ -559,13 +559,12 @@
       "city": "The Hague",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-outlander-materials",
+    "source": "techstars",
     "name": "Outlander Materials",
     "description": "Clean biotech and materials science company eradicating waste.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ap9ay4hawcxgbszkwm11",
@@ -586,6 +585,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/outlandermaterials",
       "twitter": "",
@@ -596,18 +596,17 @@
       "city": "Rotterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
-    "id": "techstars-beesage",
-    "name": "BeeSage",
-    "description": "Beehive monitoring system that provides real-time data to beekeepers, saving time and reducing bee mortality.",
+    "id": "techstars-colmenio",
+    "source": "techstars",
+    "name": "Colmenio",
+    "description": "Colmenio provides real-time hive sensing infrastructure for remote colony monitoring, apidological research, honey traceability and early risk detection in beekeeping.",
     "logo": "https://apimg.techstars.com/profiles/1658820996215_38969.png",
-    "website": "https://beesage.co",
-    "location": "Amsterdam, Netherlands",
+    "website": "https://colmenio.com",
+    "location": "The Hague, South Holland, Netherlands",
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
@@ -623,23 +622,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/beesage",
+      "linkedin": "https://linkedin.com/company/colmenio",
       "twitter": "https://twitter.com/BeeSageCo",
       "facebook": "https://facebook.com/beesageco",
       "crunchbase": "https://crunchbase.com/organization/beesage"
     },
     "extra": {
-      "city": "Amsterdam",
+      "city": "The Hague",
+      "state_province": "South Holland",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-reppls",
+    "source": "techstars",
     "name": "Reppls",
     "description": "We are going to change existing HR practice of choosing candidates by CV - introducing AI Interview Agents who conduct real-time video interviews with all candidates, assessing their full background and providing instant feedback.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_675e8e2f8133adb5678100ad7.png",
@@ -660,6 +660,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/reppls",
       "twitter": "",
@@ -671,13 +672,12 @@
       "state_province": "North Holland",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-nanoapi",
+    "source": "techstars",
     "name": "NanoAPI",
     "description": "NanoAPI is building the #1 refactoring tool for large codebases through automatically splitting APIs apart into microservices.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5c44d6092c4701d585845bf4b.png",
@@ -698,6 +698,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nano-api",
       "twitter": "",
@@ -708,13 +709,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-eko",
+    "source": "techstars",
     "name": "eko",
     "description": "Eko is a technology company that's building a limitless platform for creating and publishing interactive, choice-driven video experiences.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_dfaabac48a1046a9f4b92c3cc.png",
@@ -734,6 +734,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ekoinvestments",
       "twitter": "https://twitter.com/ekovideo",
@@ -744,13 +745,12 @@
       "city": "Nieuw Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-recheck",
+    "source": "techstars",
     "name": "Recheck",
     "description": "Objective and transparent monitoring and certification of energy, sustainability, and air quality performance of commercial real estate.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60895aec5605ec000876261e/original/Y0yoSLMt_400x400.jpg",
@@ -771,6 +771,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/recheck-bv",
       "twitter": "https://twitter.com/recheck_io",
@@ -781,13 +782,12 @@
       "city": "Heerlen",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-n3mus",
+    "source": "techstars",
     "name": "N3MUS",
     "description": "N3MUS serves as the essential bridge, connecting traditional gamers to blockchain technology while providing a cost-effective and user-friendly gaming experience.\n\nN3MUS approach involves standardising services and infrastructure for the gaming industry, thereby reducing development costs and time to market, ensuring technology stability, and avoiding long-term technical debt.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c81f44eec6b41c7faaba096ad.jpg",
@@ -808,6 +808,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/n3mus",
       "twitter": "https://twitter.com/N3musFdn",
@@ -818,13 +819,12 @@
       "city": "Westervoort",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-impact-bytes",
+    "source": "techstars",
     "name": "Impact Bytes",
     "description": "The fair and sustainable search engine that collects from over 300 fashion brands in one place.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62c726d9db450b000890fd0a/original/impactbytes.jpeg",
@@ -849,6 +849,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/project-cece",
       "twitter": "https://twitter.com/Project_Cece",
@@ -859,13 +860,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-unpluq",
+    "source": "techstars",
     "name": "Unpluq",
     "description": "Unpluq is on a mission to empower everyone to enjoy a healthy digital life, through a unique mobile solution.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vmtuxu8um1fg0mr4zx5s",
@@ -887,6 +887,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/unpluq",
       "twitter": "https://twitter.com/unpluq",
@@ -897,13 +898,12 @@
       "city": "Rotterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-avrio",
+    "source": "techstars",
     "name": "Avrio",
     "description": "Sharing research and insights is messy. Avrio is here to change that.\n\nWith Avrio you can transform your customer conversations, data analysis, and scattered knowledge into insights that drive growth for your business.\n\nAvrio gives you the tools to bri...",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ejtgdflayz5ylevi2ahd",
@@ -925,6 +925,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/avriohq",
       "twitter": "https://twitter.com/AvrioHQ",
@@ -935,13 +936,12 @@
       "city": "Rijsenhout",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-we-make-change",
+    "source": "techstars",
     "name": "We Make Change",
     "description": "Online platform making impact easy",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/g192xes7pgel5r3cjor4",
@@ -961,6 +961,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/we-make-change-now",
       "twitter": "",
@@ -971,13 +972,12 @@
       "city": "Leiden",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-kindlee",
+    "source": "techstars",
     "name": "Kindlee",
     "description": "kindlee develops debiasing tools for AI high risk use cases in lending, insurance, recruitment, and beyond",
     "logo": "https://apimg.techstars.com/profiles/1725299943768_410830.png",
@@ -997,6 +997,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/meetkindlee",
       "twitter": "",
@@ -1008,13 +1009,12 @@
       "state_province": "South Holland",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-anywyse",
+    "source": "techstars",
     "name": "Anywyse",
     "description": "Anywyse is the first audio learning platform allowing you to easily transform any written text into 15 minutes didactic audio learning modules.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e981466d5511dd2473d6d04e8.png",
@@ -1035,6 +1035,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/anywyse",
       "twitter": "",
@@ -1046,13 +1047,12 @@
       "state_province": "North Holland",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-zoi-meet",
+    "source": "techstars",
     "name": "Zoi meet",
     "description": "Helps business professionals understand each other better in multinational meetings us AI.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c646ea134a60d06bf000052/original/Logots.png",
@@ -1072,6 +1072,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/zoimeet",
       "twitter": "https://twitter.com/zoimeet",
@@ -1082,13 +1083,12 @@
       "city": "Rotterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-whatsub",
+    "source": "techstars",
     "name": "Whatsub",
     "description": "For entrepreneurs who struggle to secure grants, we provide an AI-powered platform that helps you find eligible opportunities, apply with confidence, and manage the entire process from start to finish.",
     "logo": "https://apimg.techstars.com/profiles/1727800398220_630390.png",
@@ -1108,6 +1108,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/whatsub",
       "twitter": "",
@@ -1119,13 +1120,12 @@
       "state_province": "Groningen",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-thx-network",
+    "source": "techstars",
     "name": "THX Network",
     "description": "Low-code infrastructure and tooling, making web3 accessible for web2 communities and creators, increasing their engagement and revenue.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/xj5xq5wrgrfghi4kqnhn",
@@ -1145,6 +1145,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/thxprotocol",
       "twitter": "https://twitter.com/thxprotocol",
@@ -1155,13 +1156,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-shipright-hq",
+    "source": "techstars",
     "name": "Shipright HQ",
     "description": "Track product feedback in one organized place",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d71150234a60d6ee1000098/original/logo-shipright-blue_2x.png",
@@ -1179,6 +1179,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shipright",
       "twitter": "https://twitter.com/shiprighthq",
@@ -1189,13 +1190,12 @@
       "city": "Rotterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-partywith",
+    "source": "techstars",
     "name": "PartyWith",
     "description": "A mobile platform that connects people in real-life.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57fe51b8a93e9ff78c000010/original/logo150.png",
@@ -1213,6 +1213,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/party-with-a-local",
       "twitter": "https://twitter.com/partywithapp",
@@ -1223,13 +1224,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-modelme3d",
+    "source": "techstars",
     "name": "ModelMe3D",
     "description": "Add Dimension to your city data",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c8a277134a60d0aec00001e/original/mm3d_logo_reversed.png",
@@ -1247,6 +1247,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/modelme3d",
       "twitter": "",
@@ -1257,13 +1258,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-hypeal",
+    "source": "techstars",
     "name": "Hypeal",
     "description": "Prime Memberships For E-Commerce Brands",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_037729cbf7e3a0c3b747c7a36.jpg",
@@ -1283,6 +1283,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hypeal",
       "twitter": "",
@@ -1293,13 +1294,89 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-data-for-good",
     "source": "techstars",
+    "name": "Data for Good",
+    "description": "Organizing the world's verified impact data and make it globally accessible and understandable for everyone to enable data-driven decision making",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5eb54206a36c116eba000014/original/Logo_zwart.jpeg",
+    "website": "",
+    "location": "Rotterdam, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Infrastructure"
+    ],
+    "year": 2020,
+    "program": "The Arcadis City of 2030 Accelerator Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/data-for-good-com",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/data-for-good-dc76"
+    },
+    "extra": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-biomod-ai",
+    "source": "techstars",
+    "name": "Biomod AI",
+    "description": "AI Assistant for Biotech R&D",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d2e6309ad3875da9aeffbbdfb.png",
+    "website": "",
+    "location": "Zuid-Scharwoude, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Agtech",
+      "Artificial intelligence and machine learning",
+      "Climate tech",
+      "Digital health",
+      "Edtech",
+      "Healthtech",
+      "Oncology"
+    ],
+    "year": 2024,
+    "program": "Techstars Berlin Accelerator",
+    "programSlugs": [
+      "berlin"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/biomodai",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Zuid-Scharwoude",
+      "country": "Netherlands"
+    },
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-aradon",
+    "source": "techstars",
     "name": "Aradon",
     "description": "Aradon makes biotech robot labs easy to install and operate for scientists. Removing the manual work bottleneck from biotech will enable new medical solutions and enhance healthcare globally. ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a2b74de909571b8d4ee7e1e1a.png",
@@ -1322,6 +1399,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/aradon-bio",
       "twitter": "",
@@ -1332,8 +1410,6 @@
       "city": "Leiden",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },

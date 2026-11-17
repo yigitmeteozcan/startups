@@ -1,43 +1,7 @@
 [
   {
-    "id": "techstars-digitalocean",
-    "name": "DigitalOcean",
-    "description": "Simple, scalable cloud computing solutions built for startups and small-to-midsize businesses.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/57e2c87f808320e7b4000010/original/do-icon-logo.png",
-    "website": "https://digitalocean.com",
-    "location": "New York City, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Cloudtech and DevOps"
-    ],
-    "year": 2012,
-    "program": "Techstars Boulder Accelerator",
-    "programSlugs": [
-      "boulder"
-    ],
-    "isExit": true,
-    "isUnicorn": true,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/digitalocean",
-      "twitter": "https://twitter.com/digitalocean",
-      "facebook": "https://facebook.com/DigitalOceanCloudHosting",
-      "crunchbase": "https://crunchbase.com/organization/digitalocean"
-    },
-    "extra": {
-      "city": "New York City",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-zipline",
+    "source": "techstars",
     "name": "Zipline",
     "description": "Zipline operates the world's largest autonomous on-demand delivery system with the industry's leading instant logistics technology stack.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_bb62f1035290ee6b0fa48b098.png",
@@ -59,6 +23,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/flyzipline",
       "twitter": "https://twitter.com/zipline",
@@ -70,13 +35,49 @@
       "state_province": "California",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-digitalocean",
     "source": "techstars",
+    "name": "DigitalOcean",
+    "description": "Simple, scalable cloud computing solutions built for startups and small-to-midsize businesses.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/57e2c87f808320e7b4000010/original/do-icon-logo.png",
+    "website": "https://digitalocean.com",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cloudtech and DevOps"
+    ],
+    "year": 2012,
+    "program": "Techstars Boulder Accelerator",
+    "programSlugs": [
+      "boulder"
+    ],
+    "isExit": true,
+    "isUnicorn": true,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/digitalocean",
+      "twitter": "https://twitter.com/digitalocean",
+      "facebook": "https://facebook.com/DigitalOceanCloudHosting",
+      "crunchbase": "https://crunchbase.com/organization/digitalocean"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-chainalysis",
+    "source": "techstars",
     "name": "Chainalysis",
     "description": "Chainalysis helps government agencies, cryptocurrency businesses, and financial institutions engage confidently with cryptocurrency.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_996c7bbc6e856f98b0005b1cc.png",
@@ -85,6 +86,7 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Artificial intelligence and machine learning",
       "Cryptocurrency/Blockchain",
       "Fintech"
     ],
@@ -95,6 +97,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/chainalysis",
       "twitter": "https://twitter.com/chainalysis",
@@ -106,13 +109,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-classpass",
+    "source": "techstars",
     "name": "ClassPass",
     "description": "ClassPass is a membership program for fitness classes across multiple gyms and studios, making working out more accessible.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/530e/5166/2155/f723/8500/0001/original/classpass.jpg",
@@ -133,10 +135,11 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/classpass",
       "twitter": "https://twitter.com/classpass",
-      "facebook": "https://facebook.com/Classtivity",
+      "facebook": "https://facebook.com/classpass",
       "crunchbase": "https://crunchbase.com/organization/classpass"
     },
     "extra": {
@@ -144,13 +147,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-tradingview",
+    "source": "techstars",
     "name": "TradingView",
     "description": "Social network where traders exchange ideas to maximize profits",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4e0fc4dad222d61ef32e5f9b1.jpg",
@@ -163,14 +165,13 @@
       "Fintech"
     ],
     "year": 2013,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": false,
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tradingview",
       "twitter": "https://twitter.com/tradingview",
@@ -182,13 +183,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-datarobot",
+    "source": "techstars",
     "name": "DataRobot",
     "description": "DataRobot is delivering a unified AI platform for all users, all data types, and all environments to accelerate delivery of AI to production for every organization.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2330404998976ff1bffe63cac.jpg",
@@ -197,7 +197,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning"
+      "Artificial intelligence and machine learning",
+      "SaaS"
     ],
     "year": 2013,
     "program": "Techstars Cloud",
@@ -206,6 +207,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/datarobot",
       "twitter": "https://twitter.com/DataRobot",
@@ -217,13 +219,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-remitly",
+    "source": "techstars",
     "name": "Remitly",
     "description": "Remitly is a mobile payments service that enables users to make person-to-person international money transfers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57b35f31bbe36f877200002e/original/icon_250x250_eafa15c2d7fcb1c4dd96f515b0cce26d.png",
@@ -244,6 +245,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/remitly",
       "twitter": "https://twitter.com/remitly",
@@ -255,13 +257,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-outreach",
+    "source": "techstars",
     "name": "Outreach",
     "description": "Outreach is a sales engagement platform that accelerates revenue growth by optimizing interactions throughout the customer lifecycle.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9889e25b277214abaf34b3f94.png",
@@ -272,7 +273,7 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Marketing tech",
-      "Technology, media and telecommunications"
+      "SaaS"
     ],
     "year": 2011,
     "program": "Techstars Seattle Accelerator",
@@ -283,6 +284,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/outreach-saas",
       "twitter": "https://twitter.com/outreach_io",
@@ -294,13 +296,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-salesloft",
+    "source": "techstars",
     "name": "SalesLoft",
     "description": "Salesloft helps thousands of the world's most successful selling teams drive more revenue with the Modern Revenue Workspace(tm).",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c2d92c4e418b2c080d04e4162.png",
@@ -321,10 +322,11 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/salesloft",
       "twitter": "https://twitter.com/salesloft",
-      "facebook": "https://facebook.com/SalesLoft",
+      "facebook": "",
       "crunchbase": "https://crunchbase.com/organization/salesloft"
     },
     "extra": {
@@ -332,13 +334,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sendgrid",
+    "source": "techstars",
     "name": "SendGrid",
     "description": "SendGrid delivers your transactional and marketing emails through the world's largest cloud-based email delivery platform.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/575f3ff434b2743463000025/original/SG_Logo_Vertical_Full_Color_Light_Background_RGB.png",
@@ -358,6 +359,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sendgrid",
       "twitter": "https://twitter.com/Twilio",
@@ -369,8 +371,6 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "500"
@@ -378,6 +378,7 @@
   },
   {
     "id": "techstars-veho",
+    "source": "techstars",
     "name": "Veho",
     "description": "Provider of end-to-end e-commerce delivery service intended to offer personalized next-day package delivery.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f30c9c45760e1d917d1fe6773.jpg",
@@ -386,6 +387,7 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "E-commerce",
       "Industrials",
       "Supply chain technology"
     ],
@@ -398,6 +400,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shipveho",
       "twitter": "https://twitter.com/shipveho",
@@ -409,15 +412,51 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
     ]
   },
   {
+    "id": "techstars-door",
+    "source": "techstars",
+    "name": "DOOR",
+    "description": "Your Key to Smart Buildings",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3e3092a646bef5896a1dbbcae.png",
+    "website": "https://door.com",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Internet of Things",
+      "Manufacturing",
+      "Real estate tech"
+    ],
+    "year": 2014,
+    "program": "R/GA Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": true,
+    "isUnicorn": true,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/door-technology-inc",
+      "twitter": "https://twitter.com/latchaccess",
+      "facebook": "https://facebook.com/LatchAccess/",
+      "crunchbase": "https://crunchbase.com/organization/latch"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-alloy",
+    "source": "techstars",
     "name": "Alloy",
     "description": "Customer data and onboarding API to improve conversion and reduce losses for financial services companies",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_16a6cf2c3646fd2f79f90197b.jpg",
@@ -426,8 +465,10 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Artificial intelligence and machine learning",
       "Cybersecurity",
-      "Fintech"
+      "Fintech",
+      "SaaS"
     ],
     "year": 2015,
     "program": "New York Barclays Accelerator, powered by Techstars",
@@ -436,6 +477,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/alloy-apis",
       "twitter": "https://twitter.com/usealloy",
@@ -447,13 +489,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-self",
+    "source": "techstars",
     "name": "Self",
     "description": "Helping people establish credit history",
     "logo": "https://apimg.techstars.com/connect/images/image_files/621407f90373500009ac30f9/original/self_square_bluebg.jpeg",
@@ -462,7 +503,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Fintech"
+      "Fintech",
+      "Mobile"
     ],
     "year": 2015,
     "program": "Techstars Austin Accelerator",
@@ -473,6 +515,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/self-financial",
       "twitter": "https://twitter.com/SelfCreditApp",
@@ -484,13 +527,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-degreed",
+    "source": "techstars",
     "name": "Degreed",
     "description": "Degreed is the upskilling platform that connects learning, talent development and internal mobility opportunities in one place.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_47cdc80bb005358aed1544c50.png",
@@ -499,7 +541,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Edtech"
+      "Edtech",
+      "HRtech",
+      "SaaS"
     ],
     "year": 2013,
     "program": "Kaplan EdTech Accelerator, powered by Techstars",
@@ -508,6 +552,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/degreed",
       "twitter": "https://twitter.com/degreed",
@@ -519,13 +564,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-openloop",
+    "source": "techstars",
     "name": "OpenLoop",
     "description": "OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f2b207ca36c113b60000074/original/rigns.JPG",
@@ -545,10 +589,11 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/openloophealth",
       "twitter": "https://twitter.com/openloophealth",
-      "facebook": "https://facebook.com/openloophealth/",
+      "facebook": "https://facebook.com/openloophealth",
       "crunchbase": "https://crunchbase.com/organization/openloop"
     },
     "extra": {
@@ -556,13 +601,12 @@
       "state_province": "Iowa",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-twelve",
+    "source": "techstars",
     "name": "Twelve",
     "description": "We are the carbon transformation(tm) company. We make the world's most critical chemicals, materials and fuels from air with our revolutionary carbon transformation(tm) technology.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f45a56574167f2ee6d5c0a8c3.png",
@@ -583,6 +627,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/twelveco2",
       "twitter": "https://twitter.com/twelve_co2",
@@ -594,13 +639,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-preply",
+    "source": "techstars",
     "name": "Preply",
     "description": "a fast growing marketplace for tutoring",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_668fb1d15aabf384f49af288a.png",
@@ -620,6 +664,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/2762432",
       "twitter": "https://twitter.com/preplycom",
@@ -631,13 +676,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ginger-io",
+    "source": "techstars",
     "name": "GINGER.IO",
     "description": "Coaching, therapy, and psychiatry from the privacy of your smartphone.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ce8f17c6295ddf11064c3a407.jpg",
@@ -659,6 +703,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/carebyginger",
       "twitter": "https://twitter.com/carebyginger",
@@ -670,13 +715,52 @@
       "state_province": "California",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-glossgenius",
     "source": "techstars",
+    "name": "GlossGenius",
+    "description": "GlossGenius is a smart, automated personal assistant that helps beauty professionals manage and grow their businesses",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e9450bf4113c0271d565384b8.png",
+    "website": "https://glossgenius.com",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Beauty",
+      "Fintech",
+      "Marketing tech",
+      "SaaS"
+    ],
+    "year": 2015,
+    "program": "Techstars New York City Accelerator",
+    "programSlugs": [
+      "nyc"
+    ],
+    "isExit": false,
+    "isUnicorn": true,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/glossgenius",
+      "twitter": "https://twitter.com/glossgenius",
+      "facebook": "https://facebook.com/glossgenius",
+      "crunchbase": "https://crunchbase.com/organization/glossgenuis"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-newsela",
+    "source": "techstars",
     "name": "Newsela",
     "description": "Daily news articles that are extracted from national and regional newspapers",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2999adf58a40cccc15f35ceb9.png",
@@ -685,7 +769,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Edtech"
+      "Edtech",
+      "SaaS"
     ],
     "year": 2013,
     "program": "Kaplan EdTech Accelerator, powered by Techstars",
@@ -694,6 +779,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/newsela",
       "twitter": "https://twitter.com/Newsela",
@@ -705,13 +791,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sendbird",
+    "source": "techstars",
     "name": "Sendbird",
     "description": "SendBird is the world's no.1 chat API for mobile apps and websites.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/609b0bfcac092500084d40d9/original/Sendbird_Symbol_RGB_whiteBG.png",
@@ -720,7 +805,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Mobile"
+      "Artificial intelligence and machine learning",
+      "Mobile",
+      "SaaS"
     ],
     "year": 2014,
     "program": "Techstars London Accelerator",
@@ -731,6 +818,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sendbird",
       "twitter": "https://twitter.com/sendbird",
@@ -742,8 +830,6 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "yc"
@@ -751,6 +837,7 @@
   },
   {
     "id": "techstars-pillpack",
+    "source": "techstars",
     "name": "PillPack",
     "description": "We're a full-service online pharmacy that packages your medication and delivers to your door every month.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5359/5caa/cb58/5a85/1900/0006/original/pillpack.jpg",
@@ -770,10 +857,11 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pillpack",
       "twitter": "https://twitter.com/pillpack",
-      "facebook": "https://facebook.com/pillpack",
+      "facebook": "",
       "crunchbase": "https://crunchbase.com/organization/pillpack"
     },
     "extra": {
@@ -781,13 +869,12 @@
       "state_province": "New Hampshire",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mantl",
+    "source": "techstars",
     "name": "MANTL",
     "description": "Mantl is a banking technology company that provides workflow management and automation tools for banks and credit unions.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_af4f55c8c2abfc5134f0fb9c1.png",
@@ -808,6 +895,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mantl",
       "twitter": "https://twitter.com/mantl_tech",
@@ -819,8 +907,6 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
@@ -828,6 +914,7 @@
   },
   {
     "id": "techstars-owlet-baby-care",
+    "source": "techstars",
     "name": "Owlet Baby Care",
     "description": "Owlet's baby monitoring ecosystem works together seamlessly to give your family easier days and nights.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4e1928ce3f6a977877094e23f.jpg",
@@ -847,6 +934,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/owlet-care-monitors",
       "twitter": "https://twitter.com/owletbabycare",
@@ -858,45 +946,6 @@
       "state_province": "Utah",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-latch",
-    "name": "Latch",
-    "description": "We make spaces better places to live, work, and visit.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ca2855cd5d5e86f6a4e0534c5.jpg",
-    "website": "https://latch.com",
-    "location": "New York City, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Internet of Things",
-      "Manufacturing",
-      "Real estate tech"
-    ],
-    "year": 2014,
-    "program": "R/GA Accelerator, powered by Techstars",
-    "programSlugs": [],
-    "isExit": true,
-    "isUnicorn": true,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/latch",
-      "twitter": "https://twitter.com/latchaccess",
-      "facebook": "https://facebook.com/LatchAccess/",
-      "crunchbase": "https://crunchbase.com/organization/latch"
-    },
-    "extra": {
-      "city": "New York City",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },

@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-skiptown",
+    "source": "techstars",
     "name": "Skiptown",
     "description": "Trusted care for busy people who love their pets. We're launching the first ever tech-infused dog bar, social hub and pet care facility. skiptownclt.com",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c1a9fc1a36c117e59000004/original/Skipper_Logo_Dog_White.png",
@@ -9,9 +10,7 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Manufacturing",
-      "Pet tech",
-      "Technology, media and telecommunications"
+      "Pet tech"
     ],
     "year": 2018,
     "program": "Techstars Austin Accelerator",
@@ -22,6 +21,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/skipper-pets",
       "twitter": "https://twitter.com/skiptownclt",
@@ -33,13 +33,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-wagmo",
+    "source": "techstars",
     "name": "Wagmo",
     "description": "Wagmo is a doggy wellness plan.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/xcpxwggkc5kmidivthxn",
@@ -48,6 +47,7 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Insurtech",
       "Pet tech"
     ],
     "year": 2019,
@@ -59,6 +59,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wagmo",
       "twitter": "https://twitter.com/meetwagmo",
@@ -70,13 +71,48 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-cleverpet",
     "source": "techstars",
+    "name": "CleverPet",
+    "description": "CleverPet enables you to completely transform your dog's time at home.  We do this by combining smart hardware with deep expertise in the behavioral sciences.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/55d221ba8083206a53000007/original/Artboard_1.png",
+    "website": "https://clever.pet",
+    "location": "La Jolla, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Internet of Things",
+      "Pet tech"
+    ],
+    "year": 2015,
+    "program": "Qualcomm Robotics Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/cleverpet",
+      "twitter": "https://twitter.com/getcleverpet",
+      "facebook": "https://facebook.com/GetCleverPet",
+      "crunchbase": "https://crunchbase.com/organization/cleverpet"
+    },
+    "extra": {
+      "city": "La Jolla",
+      "state_province": "California",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-adopets",
+    "source": "techstars",
     "name": "Adopets",
     "description": "For pet lovers seeking a friend for life, Adopets provides the best online adoption for you, your pet and your community.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ccb509ca36c117b0200004e/original/adopets_PNK_Logo_Symbol.png",
@@ -96,6 +132,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/adopets",
       "twitter": "https://twitter.com/adopetsus",
@@ -107,13 +144,49 @@
       "state_province": "Maine",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-fitbark",
     "source": "techstars",
+    "name": "FitBark",
+    "description": "Healthy Together",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5386/4f81/c581/e98a/9500/0002/original/FitBark_Logo_Techstars.jpg",
+    "website": "https://fitbark.com",
+    "location": "Forest Hills, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Internet of Things",
+      "Mobile",
+      "Pet tech"
+    ],
+    "year": 2014,
+    "program": "Sprint Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/fitbark",
+      "twitter": "https://twitter.com/fitbark",
+      "facebook": "https://facebook.com/fitbark",
+      "crunchbase": "https://crunchbase.com/organization/fitbark"
+    },
+    "extra": {
+      "city": "Forest Hills",
+      "state_province": "New York",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rainwalk-technology",
+    "source": "techstars",
     "name": "Rainwalk Technology",
     "description": "Rainwalk is Pet Health Insurance embedded in shelters at point of adoption.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61d4e95923eb9c79c3308736/original/Rainwalk.jpeg",
@@ -134,6 +207,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rainwalk",
       "twitter": "",
@@ -145,13 +219,12 @@
       "state_province": "South Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-decorte-future-industries",
+    "source": "techstars",
     "name": "Decorte Future Industries",
     "description": "The clinical infrastructure and cardiac scanning layer for modern veterinary clinics.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f6612ca34a60d4e6e000050/original/high_res_logo_cutout.png",
@@ -175,6 +248,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sonus-health",
       "twitter": "https://twitter.com/DecorteFuture",
@@ -186,13 +260,12 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-understanding-zoe",
+    "source": "techstars",
     "name": "Understanding Zoe",
     "description": "Caring for every mind",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_0e69fc7492c605dcd3076a744.png",
@@ -212,6 +285,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/understandingzoe",
       "twitter": "",
@@ -223,13 +297,12 @@
       "state_province": "New South Wales",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-vetnotes-com",
+    "source": "techstars",
     "name": "VetNotes.com",
     "description": "AI note taking for veterinarians.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_0be1ca11dd7536c016ccc76cc.png",
@@ -251,6 +324,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -262,13 +336,12 @@
       "state_province": "New South Wales",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-empethy",
+    "source": "techstars",
     "name": "Empethy",
     "description": "End-to-end platform that is changing the way people find, choose and adopt a pet.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_1b75d415d2c707e6754015383.png",
@@ -288,6 +361,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/empethy",
       "twitter": "",
@@ -298,24 +372,22 @@
       "city": "Napoli",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-dogbase",
+    "source": "techstars",
     "name": "DogBase",
-    "description": "DogBase is redefining how organizations and individuals manage high-performance dogs by replacing pen-and-paper processes with modern software and productivity-enhancing AI.\n\nWe are bringing digitalization and disruption to an untapped market",
+    "description": "The Operating System for Working Dogs\nBuilt for search & rescue, police, conservation, detection, service, and sport. DogBase centralizes training, operations, and health into one intelligent system designed for clarity and accountability, from a single ",
     "logo": "https://apimg.techstars.com/profiles/1723386367315_662351.png",
     "website": "https://dogbase.co",
-    "location": "Tel Aviv, Israel",
-    "region": "Middle East",
-    "subregion": "Middle East",
+    "location": "Tallinn, Harju County",
+    "region": "",
+    "subregion": "",
     "tags": [
-      "Artificial intelligence and machine learning",
-      "Lifestyles of Health and Sustainability and wellness",
-      "Pet tech"
+      "Pet tech",
+      "SaaS"
     ],
     "year": 2023,
     "program": "Techstars Tech Central Sydney powered by NSW Government",
@@ -326,6 +398,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dogbase",
       "twitter": "",
@@ -333,16 +406,15 @@
       "crunchbase": "https://crunchbase.com/organization/dogbase"
     },
     "extra": {
-      "city": "Tel Aviv",
-      "country": "Israel"
+      "city": "Tallinn",
+      "state_province": "Harju County"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "Israel",
+    "country": "",
     "alsoIn": []
   },
   {
     "id": "techstars-coda",
+    "source": "techstars",
     "name": "Coda",
     "description": "Modern pet aftercare & cremation",
     "logo": "https://apimg.techstars.com/profiles/1741664958396_483854.png",
@@ -362,6 +434,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/evviaftercare",
       "twitter": "https://twitter.com/https",
@@ -373,13 +446,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-arch-pet-food",
+    "source": "techstars",
     "name": "Arch Pet Food",
     "description": "We take the guesswork (food sensitivities, allergies, and environmental footprint) out of the equation for young pet owners.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_82a29821122b9bb02f5dc6a22.png",
@@ -400,6 +472,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/gabrielhuertasdelpino",
       "twitter": "https://twitter.com/ArchPetFood",
@@ -411,8 +484,6 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
@@ -420,6 +491,7 @@
   },
   {
     "id": "techstars-mv-sales-logistics",
+    "source": "techstars",
     "name": "MV Sales&Logistics",
     "description": "Live a unique experience automating and controlling through AI tools your field sales and logistics teams with MV sales & logistics platform.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5a19b9bce521d9f59dca289ee.png",
@@ -446,6 +518,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/movil-ventas",
       "twitter": "",
@@ -457,13 +530,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-interplay",
+    "source": "techstars",
     "name": "Interplay",
     "description": "Interplay provides dog crates that makes life easier for dog owners who want to care for and interact with their dog.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ee7d9a7bf214e3efce5054085.jpg",
@@ -484,6 +556,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gointerplay",
       "twitter": "https://twitter.com/gointerplay1",
@@ -495,13 +568,12 @@
       "state_province": "Missouri",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-klooff",
+    "source": "techstars",
     "name": "Klooff",
     "description": "The world's favorite pets",
     "logo": "https://pbs.twimg.com/profile_images/430860401593425920/9bBV_1ii_bigger.png",
@@ -523,6 +595,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/klooff",
       "twitter": "https://twitter.com/klooffofficial",
@@ -534,13 +607,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-urban-leash",
+    "source": "techstars",
     "name": "Urban Leash",
     "description": "Urban Leash helps busy professionals find reliable pet care at a click of a button and stay connected to their pets every step of the way.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55a52445a93e9fb65c000007/original/paw_-_v4_512.png",
@@ -554,14 +626,13 @@
       "Technology, media and telecommunications"
     ],
     "year": 2015,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/urban-leash",
       "twitter": "https://twitter.com/urban_leash",
@@ -573,13 +644,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-koala",
+    "source": "techstars",
     "name": "Koala.",
     "description": "Started as Pet care made easy. Now has pivoted completely for a hotel to offer luxury services to budget hotels.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/lwhyph67oineontktu8o",
@@ -601,6 +671,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/koala-ai",
       "twitter": "",
@@ -611,13 +682,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-five-letter-foods",
+    "source": "techstars",
     "name": "Five Letter Foods",
     "description": "Not dog food, but real food for dogs without factory farming",
     "logo": "https://apimg.techstars.com/connect/images/image_files/632e297aec241b00164cf206/original/logos_%281%29.png",
@@ -639,6 +709,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/five-letter-foods",
       "twitter": "https://twitter.com/fiveletterfoods",
@@ -649,8 +720,6 @@
       "city": "Helsinki",
       "country": "Finland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Finland",
     "alsoIn": []
   },

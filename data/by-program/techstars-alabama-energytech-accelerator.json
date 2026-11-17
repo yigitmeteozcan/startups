@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-project-canary",
+    "source": "techstars",
     "name": "Project Canary",
     "description": "Continuous methane monitoring for the energy industry. ",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b75b106a36c110af2000002/original/Clair_Logo_small.png",
@@ -11,8 +12,8 @@
     "tags": [
       "Cleantech",
       "Climate tech",
-      "Industrials",
-      "Lifestyles of Health and Sustainability and wellness"
+      "Oil and gas",
+      "SaaS"
     ],
     "year": 2020,
     "program": "Techstars Alabama EnergyTech Accelerator",
@@ -23,6 +24,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/projectcanary",
       "twitter": "https://twitter.com/ProjectCanary1",
@@ -34,13 +36,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-elektrik-app",
+    "source": "techstars",
     "name": "Elektrik App",
     "description": "Building the first online marketplace for the $200B electrical equipment industry.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/629e192fdb2d3c0008d6504b/original/Full_Bolt_Logo_D.blackSmall.jpg",
@@ -60,6 +61,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/elektrik-app",
       "twitter": "https://twitter.com/elektrik_app",
@@ -71,13 +73,54 @@
       "state_province": "Utah",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-hdata",
+    "source": "techstars",
+    "name": "HData",
+    "description": "Delivering Smarter Compliance for the Energy Sector and Beyond",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6165b8aedab5d21d7a19bc41/original/HData_Logo.png",
+    "website": "https://hdata.us",
+    "location": "Joliet, Illinois, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Oil and gas",
+      "SaaS"
+    ],
+    "year": 2021,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/hdata",
+      "twitter": "https://twitter.com/HDataUS",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/hdata"
+    },
+    "extra": {
+      "city": "Joliet",
+      "state_province": "Illinois",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": [
+      "plugandplay"
+    ]
+  },
+  {
     "id": "techstars-resilient-power-systems",
+    "source": "techstars",
     "name": "Resilient Power Systems",
     "description": "Hardware startup addressing grid upgrades necessary for the transition to electric vehicles.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/aebwu2kf9lalyixwjwua",
@@ -97,6 +140,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/resilient-power",
       "twitter": "",
@@ -108,54 +152,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-hdata",
-    "name": "HData",
-    "description": "Delivering Smarter Compliance for the Energy Sector and Beyond",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/6165b8aedab5d21d7a19bc41/original/HData_Logo.png",
-    "website": "https://hdata.us",
-    "location": "Joliet, Illinois, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Big Data",
-      "Fintech",
-      "Oil and gas"
-    ],
-    "year": 2021,
-    "program": "Techstars Alabama EnergyTech Accelerator",
-    "programSlugs": [
-      "alabama-power"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/hdata",
-      "twitter": "https://twitter.com/HDataUS",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/hdata"
-    },
-    "extra": {
-      "city": "Joliet",
-      "state_province": "Illinois",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": [
-      "plugandplay"
-    ]
-  },
-  {
     "id": "techstars-noteworthy-ai",
+    "source": "techstars",
     "name": "Noteworthy AI",
     "description": "Noteworthy provides vehicle mounted cameras and AI to help electric utilities collect and analyze imagery on distribution assets at scale",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_491d542dbd259b3831bdafcc2.jpeg",
@@ -167,8 +169,7 @@
       "Artificial intelligence and machine learning",
       "Cleantech",
       "Infrastructure",
-      "Internet of Things",
-      "Oil and gas"
+      "Internet of Things"
     ],
     "year": 2021,
     "program": "Techstars Alabama EnergyTech Accelerator",
@@ -179,6 +180,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/noteworthy-ai",
       "twitter": "https://twitter.com/noteworthyai",
@@ -190,13 +192,12 @@
       "state_province": "Connecticut",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sunairio",
+    "source": "techstars",
     "name": "Sunairio",
     "description": "Climate simulation for renewable energy prediction",
     "logo": "https://apimg.techstars.com/connect/images/image_files/619420bfbffb22072bbbc676/original/Sunairio-Icon-Native.png",
@@ -206,9 +207,9 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
+      "Big Data",
       "Cleantech",
-      "Infrastructure",
-      "Insurtech"
+      "Climate tech"
     ],
     "year": 2021,
     "program": "Techstars Alabama EnergyTech Accelerator",
@@ -219,6 +220,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sunairio",
       "twitter": "https://twitter.com/sunairio",
@@ -230,56 +232,12 @@
       "state_province": "Maryland",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-pitch-aeronautics",
-    "name": "Pitch Aeronautics",
-    "description": "Pitch Aeronautics is an aviation and aerospace tech company that offers drone for installations, maintenance, and up-close inspections.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d7c319693344797fa5f673245.png",
-    "website": "https://pitchaero.com",
-    "location": "Boise, Idaho, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Cleantech",
-      "Climate tech",
-      "Industrials",
-      "Infrastructure",
-      "Oil and gas",
-      "Real estate tech",
-      "Robotics and Drones"
-    ],
-    "year": 2023,
-    "program": "Techstars Alabama EnergyTech Accelerator",
-    "programSlugs": [
-      "alabama-power"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/pitch-aeronautics",
-      "twitter": "https://twitter.com/pitchaero",
-      "facebook": "https://facebook.com/pitchaero/",
-      "crunchbase": "https://crunchbase.com/organization/pitch-aeronautics"
-    },
-    "extra": {
-      "city": "Boise",
-      "state_province": "Idaho",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-birdstop",
+    "source": "techstars",
     "name": "Birdstop",
     "description": "Birdstop, automated inspection and monitoring for physical assets from San Francisco",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61649fcbdab5d21d7a19bc28/original/Birdstop.png",
@@ -288,6 +246,7 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Artificial intelligence and machine learning",
       "Internet of Things",
       "Robotics and Drones"
     ],
@@ -300,6 +259,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/birdstop",
       "twitter": "",
@@ -311,13 +271,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-petra-power",
+    "source": "techstars",
     "name": "Petra Power",
     "description": "Petra Power is a manufacturing company that focuses on Solid Oxide Fuel Cells (SOFC) for APU systems.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/x6nkacbq6eylx64qt00i",
@@ -340,6 +299,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/petra-power-llc",
       "twitter": "https://twitter.com/PetraPower1",
@@ -351,13 +311,52 @@
       "state_province": "Ohio",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-pitch-aeronautics",
     "source": "techstars",
+    "name": "Pitch Aeronautics",
+    "description": "Pitch Aeronautics is an aviation and aerospace tech company that offers drone for installations, maintenance, and up-close inspections.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d7c319693344797fa5f673245.png",
+    "website": "https://pitchaero.com",
+    "location": "Boise, Idaho, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Climate tech",
+      "Infrastructure",
+      "Robotics and Drones"
+    ],
+    "year": 2023,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/pitch-aeronautics",
+      "twitter": "https://twitter.com/pitchaero",
+      "facebook": "https://facebook.com/pitchaero/",
+      "crunchbase": "https://crunchbase.com/organization/pitch-aeronautics"
+    },
+    "extra": {
+      "city": "Boise",
+      "state_province": "Idaho",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-con-doit",
+    "source": "techstars",
     "name": "Con.doit",
     "description": "Providing electrical system mapping and circuit analysis software",
     "logo": "https://apimg.techstars.com/connect/images/image_files/611551935946820007eedbc7/original/condoit.jpg",
@@ -366,7 +365,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Internet of Things"
+      "Mobile",
+      "SaaS"
     ],
     "year": 2020,
     "program": "Techstars Alabama EnergyTech Accelerator",
@@ -377,6 +377,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/con-doit",
       "twitter": "https://twitter.com/Condoit_",
@@ -388,13 +389,12 @@
       "state_province": "Alabama",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-shipshape-urban-farms",
+    "source": "techstars",
     "name": "Shipshape Urban Farms",
     "description": "Shipshape designs and manufactures modular, hydroponic farms that make fresh vegetables accessible in urban markets year-round.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vr7rehktg4jg6idhktkb",
@@ -404,7 +404,7 @@
     "subregion": "North America",
     "tags": [
       "Agtech",
-      "Infrastructure"
+      "Climate tech"
     ],
     "year": 2022,
     "program": "Techstars Alabama EnergyTech Accelerator",
@@ -415,6 +415,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shipshapeurbanfarms",
       "twitter": "https://twitter.com/Shipshapefarms",
@@ -426,13 +427,12 @@
       "state_province": "Alabama",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-eneryield",
+    "source": "techstars",
     "name": "Eneryield",
     "description": "Machine learning algorithms for advanced energy analytics",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/a0sm1lpbjtbchuvwoqvk",
@@ -453,6 +453,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/eneryieldofficial",
       "twitter": "",
@@ -463,13 +464,12 @@
       "city": "Göteborg",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-truspin-nanomaterial-innovation",
+    "source": "techstars",
     "name": "TruSpin Nanomaterial Innovation",
     "description": "TruSpin is an advanced materials company using a proprietary technique to mass-produce new types of nanofibers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f47cade34a60d4abf000023/original/TruSpin_Logo.jpg",
@@ -492,6 +492,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/truspin-nanomaterial-innovation",
       "twitter": "",
@@ -503,13 +504,12 @@
       "state_province": "Alabama",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-hop-in-technologies",
+    "source": "techstars",
     "name": "Hop In Technologies",
     "description": "The all in one shuttling logistics platform made for employers who are looking to expand hiring pools while recruiting, improve retention and increase employee satisfaction",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/iaryy9qoocyjbartht7f",
@@ -530,6 +530,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hop-in-tech",
       "twitter": "https://twitter.com/HopInTech",
@@ -541,13 +542,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-wattsup",
+    "source": "techstars",
     "name": "WattsUp",
     "description": "We leverage proprietary ML and AI models to detect EV charger anomalies prior to fault-induced downtime.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_00e1071957672d54409879606.png",
@@ -571,6 +571,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -582,13 +583,12 @@
       "state_province": "Arizona",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-promex",
+    "source": "techstars",
     "name": "Promex",
     "description": "We make next-gen synthetic fuels from CO2 with modular compact, and autonomous reactors. Starting with synthetic natural gas.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2f5790c55098f4bbdc6d18b22.jpg",
@@ -611,6 +611,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -622,13 +623,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-powerbox-technology",
+    "source": "techstars",
     "name": "PowerBox Technology",
     "description": "We are developing the PowerBlock: a modular, scalable, and AI-driven renewable power integration device.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f7651c33d1bf545dfd1722b7d.jpg",
@@ -649,6 +649,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -660,13 +661,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-opendrawing-ai",
+    "source": "techstars",
     "name": "OpenDrawing.ai",
     "description": "We automatically count all components in an electrical diagram and provide a simple user interface to generate accurate Bills of Materials.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4a396f531416a14d61fd32489.jpg",
@@ -687,6 +687,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/opendrawing",
       "twitter": "",
@@ -698,13 +699,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-emission-free-generators",
+    "source": "techstars",
     "name": "Emission Free Generators",
     "description": "The EFG produces hydrogen-on-demand from our novel fuel cartridge and converts into electricity all within a portable, clean, safe, silent and odor free 'smart device'.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7609c60d00fea0ac57bea95e7.jpg",
@@ -726,6 +726,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -737,13 +738,331 @@
       "state_province": "California",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-znrg-innovations",
     "source": "techstars",
+    "name": "Znrg Innovations",
+    "description": "For homeowners who need dependable hot water and utilities that need flexible energy capacity, Znrg Innovations delivers smart water heating that anticipates demand while creating grid-ready thermal capacity.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_73c6ff6b2e6b8005ef100399f.png",
+    "website": "https://znrginnovations.com",
+    "location": "Corona Del Mar, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cleantech",
+      "Climate tech",
+      "Infrastructure",
+      "Internet of Things"
+    ],
+    "year": 2026,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Corona Del Mar",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-utilyst",
+    "source": "techstars",
+    "name": "Utilyst",
+    "description": "For energy and utility operators who struggle to prevent failures across aging infrastructure, Utilyst deploys on-premises AI that transforms sensor data, asset records, and operational history into real-time predictive intelligence -- without cloud depend",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_15d42131b438f77be766c1fc5.png",
+    "website": "https://utilyst.com",
+    "location": "Raleigh, North Carolina, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Industrials",
+      "Infrastructure",
+      "Oil and gas",
+      "SaaS"
+    ],
+    "year": 2026,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/utilyst",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Raleigh",
+      "state_province": "North Carolina",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-synapse-thermal",
+    "source": "techstars",
+    "name": "Synapse Thermal",
+    "description": "For AI data center operators who struggle with runaway energy costs and thermal inefficiency, Synapse Thermal delivers autonomous cooling systems that reduce energy consumption and maximize computational performance, while reducing water usage.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e91e33a889a98b2a99708b137.jpg",
+    "website": "https://synapsethermal.com",
+    "location": "Birmingham, Alabama, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cleantech",
+      "Industrials",
+      "Infrastructure",
+      "SaaS",
+      "Technology, media and telecommunications"
+    ],
+    "year": 2026,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/synapsethermal",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Birmingham",
+      "state_province": "Alabama",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-sealumber",
+    "source": "techstars",
+    "name": "SEALUMBER",
+    "description": "For builders, architects, developers, and building-material suppliers who need sustainable, durable alternatives to traditional wood-based panels, SeaLumber manufactures building panels made from sargassum seaweed and recycled plastics.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d5147ee0bbc528210ce231601.png",
+    "website": "https://sargassumecolumber.com",
+    "location": "Homestead, Florida, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cleantech",
+      "Climate tech"
+    ],
+    "year": 2026,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/sealumber",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Homestead",
+      "state_province": "Florida",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-orbyfy-earthflow",
+    "source": "techstars",
+    "name": "Orbyfy Earthflow",
+    "description": "Earthflow Underground puts a virtual sensor on every buried utility cable, showing health, failure risk, remaining life and real capacity from data utilities already have, so they replace the right cable first and unlock grid capacity. ",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_0950236a58fb447e93f6b2df3.png",
+    "website": "https://orbyfy.com",
+    "location": "Boston, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cleantech",
+      "SaaS"
+    ],
+    "year": 2026,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/orbyfy",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Boston",
+      "state_province": "Massachusetts",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-mayimflow",
+    "source": "techstars",
+    "name": "MayimFlow",
+    "description": "For operators of water- and liquid-dependent infrastructure who only discover failures after damage occurs, MayimFlow predicts leaks and cooling failures before they happen using non-invasive sensors, ML, and AI.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3f85645dc6cfdda5d90b4caa1.png",
+    "website": "https://mayimflow.com",
+    "location": "Redwood City, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cleantech",
+      "Climate tech",
+      "Impact investing",
+      "SaaS"
+    ],
+    "year": 2026,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/mayimflow",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Redwood City",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-coulomb-technology",
+    "source": "techstars",
+    "name": "Coulomb Technology",
+    "description": "Coulomb makes 12V and 24V sodium-ion starter batteries for military vehicles that need reliable starting after long storage and extreme temperatures.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_976f6d14880d30d4b8c4158ac.jpg",
+    "website": "https://coulombtechnology.com",
+    "location": "Meridian, Idaho, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cleantech",
+      "Climate tech",
+      "Nanotechnology",
+      "Supply chain technology"
+    ],
+    "year": 2026,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/coulomb-technology",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Meridian",
+      "state_province": "Idaho",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-cold-spark",
+    "source": "techstars",
+    "name": "Cold Spark",
+    "description": "Cold Spark deploys cold storage and cryomilling systems that safely pulverize spent batteries and electronics into recoverable black mass and raw materials at greater than 99% recovery by weight.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_06ed072e9a1f603bac0494b77.png",
+    "website": "https://coldspark.tech",
+    "location": "Longmont, Colorado, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cleantech",
+      "Climate tech"
+    ],
+    "year": 2026,
+    "program": "Techstars Alabama EnergyTech Accelerator",
+    "programSlugs": [
+      "alabama-power"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Longmont",
+      "state_province": "Colorado",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-whygrene",
+    "source": "techstars",
     "name": "WhyGrene",
     "description": "Developer of a distributed energy software platform intended to accelerate the sustainable energy transition by helping solve renewable energy wastage.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/6c3b1008c9d7aa8baf70",
@@ -763,6 +1082,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/whygrene",
       "twitter": "https://twitter.com/whygreen1",
@@ -774,13 +1094,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-solar-unsoiled",
+    "source": "techstars",
     "name": "Solar Unsoiled",
     "description": "Software solution solving the $10B a year problem of dirty solar farms. ",
     "logo": "https://apimg.techstars.com/profiles/1748966858422_125432.png",
@@ -801,6 +1120,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/michaelvalerino",
       "twitter": "",
@@ -812,13 +1132,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rivalia-chemical-co",
+    "source": "techstars",
     "name": "Rivalia Chemical Co.",
     "description": "American-made rare earths, produced from wastes",
     "logo": "https://apimg.techstars.com/profiles/1661274218672_441715.png",
@@ -841,6 +1160,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rivalia-chemical-co",
       "twitter": "https://twitter.com/wix",
@@ -852,22 +1172,25 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-powertechs",
+    "source": "techstars",
     "name": "PowerTechs",
-    "description": "Upskill Workforce to Renewables accelerating a transition to a sustainable energy future",
+    "description": "The Evidence Layer for Skills-based Hiring",
     "logo": "https://apimg.techstars.com/profiles/1669959524473_711541.png",
     "website": "https://powertechs.us",
-    "location": "Wilmington, Delaware, United States",
+    "location": "Austin, Texas, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Edtech"
+      "Artificial intelligence and machine learning",
+      "Edtech",
+      "Gaming",
+      "HRtech",
+      "SaaS"
     ],
     "year": 2022,
     "program": "Techstars Alabama EnergyTech Accelerator",
@@ -878,24 +1201,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/figma",
+      "linkedin": "https://linkedin.com/company/112764972",
       "twitter": "https://twitter.com/figma",
       "facebook": "https://facebook.com/figmadesign",
       "crunchbase": ""
     },
     "extra": {
-      "city": "Wilmington",
-      "state_province": "Delaware",
+      "city": "Austin",
+      "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-latimer-controls",
+    "source": "techstars",
     "name": "Latimer Controls",
     "description": "Provides an embedded control software solution that allows utility-scale solar power plants to mitigate the instabilities of power production associated with irradiance volatility.",
     "logo": "https://apimg.techstars.com/profiles/1664292191967_219419.png",
@@ -917,6 +1240,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/latimer-controls",
       "twitter": "",
@@ -928,13 +1252,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-idyllo",
+    "source": "techstars",
     "name": "Idyllo",
     "description": "Idyllo is a home improvement marketplace that makes it easy for people to find the best products and professionals for their homes.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6373c0825a37260008274e00/original/Idyllo_logo_square.jpg",
@@ -954,6 +1277,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/idyllo",
       "twitter": "",
@@ -965,13 +1289,12 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sync",
+    "source": "techstars",
     "name": "Sync",
     "description": "No-code AI-based predictive software that streamlines planning and operations for electrical utilities, especially during emergencies.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5fccbca57d16460008000001/original/sync_social_logo.jpg",
@@ -992,6 +1315,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sync-energy",
       "twitter": "https://twitter.com/syncenergyai",
@@ -1003,13 +1327,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-shipshape-ai",
+    "source": "techstars",
     "name": "Shipshape AI",
     "description": "A software platform that networks together critical systems in homes to reduce risk, improve performance, and connect homes to providers - like a \"check engine light\"",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/iet8kgrewwwsc0aapi10",
@@ -1031,6 +1354,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shipshape-ai",
       "twitter": "https://twitter.com/shipshapesol",
@@ -1042,13 +1366,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-energyhawk",
+    "source": "techstars",
     "name": "EnergyHawk",
     "description": "Satellite Powered Energy Assessments, designed to accelerate the growth of distributed energy solutions.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f51384634a60d0c990000c5/original/EnergyHawk_mark.png",
@@ -1071,6 +1394,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/energyhawkinc",
       "twitter": "https://twitter.com/EnergyHawk",
@@ -1082,13 +1406,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ashipa-electric",
+    "source": "techstars",
     "name": "Ashipa Electric",
     "description": "Microgrid developer creating power solutions to energize economic activities in underserved communities across the globe.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f4aa25fa36c11609e000028/original/Logo_Small.png",
@@ -1109,6 +1432,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ashipa-electric-corp",
       "twitter": "https://twitter.com/AshipaElectric",
@@ -1120,13 +1444,12 @@
       "state_province": "Alabama",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-moduly",
+    "source": "techstars",
     "name": "Moduly",
     "description": "Smart energy storage platform designed to address the issue between power utilities and the mass of the population, such as GHG emissions, energy overproduction, peak consumption times, and its costs",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61ddcc498847a2000910c61f/original/small_supperposed_logo_moduly.png",
@@ -1149,6 +1472,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/12639702",
       "twitter": "https://twitter.com/moduly_io",
@@ -1160,13 +1484,12 @@
       "state_province": "Quebec",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-khepra",
+    "source": "techstars",
     "name": "Khepra",
     "description": "We make reactors that are fully electrified and make chemicals 80% faster. Our chemical products are made from wastes from farms, forestry and plastics.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6164a5a7dab5d21d7a19bc29/original/Khepra.png",
@@ -1189,6 +1512,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/khepra",
       "twitter": "",
@@ -1200,13 +1524,12 @@
       "state_province": "Nevada",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-flux-hybrids",
+    "source": "techstars",
     "name": "Flux Hybrids",
     "description": "Flux Hybrids has developed a system that can convert any vehicle to a plug-in hybrid that pays for itself in savings within the remaining life of the vehicle.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6116da5ad368830007597e02/original/Logo_Far.png",
@@ -1226,6 +1549,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fluxhybrids",
       "twitter": "https://twitter.com/fluxhybrids",
@@ -1237,13 +1561,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-accelerate-wind",
+    "source": "techstars",
     "name": "Accelerate Wind",
     "description": "Accelerate Wind is making wind energy generation affordable on commercial buildings.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61f96bc7f1591d00081b2ec8/original/Logo_Final_%283%29.png",
@@ -1264,6 +1587,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/acceleratewind",
       "twitter": "",
@@ -1275,13 +1599,12 @@
       "state_province": "Missouri",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-split-ev",
+    "source": "techstars",
     "name": "Split EV",
     "description": "Building the nation's largest electric vehicle charging network.",
     "logo": "https://apimg.techstars.com/profiles/1695095831785_4317.png",
@@ -1307,6 +1630,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/81954408",
       "twitter": "https://twitter.com/SplitEv",
@@ -1318,13 +1642,12 @@
       "state_province": "New Jersey",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-scoutit",
+    "source": "techstars",
     "name": "ScoutIt",
     "description": "Enabling EV battery circular economy.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6ab7ad1e8883d19e5d3892b29.png",
@@ -1349,6 +1672,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/scoutitweb",
       "twitter": "",
@@ -1360,13 +1684,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-meredot",
+    "source": "techstars",
     "name": "Meredot",
     "description": "Universal solution for parking and wireless charging electric transport",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_bff2caa8ed561c0260b4e6d6c.png",
@@ -1393,6 +1716,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/meredot",
       "twitter": "https://twitter.com/@MeredotLLC",
@@ -1404,13 +1728,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-maverick-iq",
+    "source": "techstars",
     "name": "Maverick IQ",
     "description": "Maverick IQ optimizes operations and enhances safety with integrated engineering, software, and IoT solutions for remote asset monitoring.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_216e0a6238bd0c7488bc26709.png",
@@ -1437,6 +1760,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/maverick-iq",
       "twitter": "",
@@ -1448,13 +1772,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-infranergy",
+    "source": "techstars",
     "name": "InfraNergy",
     "description": "Infranergy develops solar-powered and battery energy storage projects / technology to reduce energy costs, decarbonize and balance the grid.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4ffb9e2c2b59dba4de67c756a.png",
@@ -1480,6 +1803,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/infranergy",
       "twitter": "https://twitter.com/infranergy",
@@ -1491,8 +1815,6 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
@@ -1500,6 +1822,7 @@
   },
   {
     "id": "techstars-grid-discovery",
+    "source": "techstars",
     "name": "Grid Discovery",
     "description": "Grid Discovery helps to accelerate energy resilience with automated community microgrid planning software.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_57188087aa3e806066beb8702.png",
@@ -1523,6 +1846,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/griddiscovery",
       "twitter": "",
@@ -1534,13 +1858,12 @@
       "state_province": "New Jersey",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ev-safe-charge",
+    "source": "techstars",
     "name": "EV Safe Charge",
     "description": "EV Safe Charge rents, consults, and installs electric vehicle charging solutions.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7180521d6446b5eb7a37f297e.png",
@@ -1564,6 +1887,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ev-safe-charge",
       "twitter": "https://twitter.com/EVSafeCharge",
@@ -1575,13 +1899,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-earthabc",
+    "source": "techstars",
     "name": "EarthABC",
     "description": "Go green in days, not years.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_428e543b29ffd6dfa13bcce64.png",
@@ -1603,6 +1926,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/earthabc",
       "twitter": "https://twitter.com/EARTHABCINC",
@@ -1614,13 +1938,12 @@
       "state_province": "Ohio",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-clever-offsets",
+    "source": "techstars",
     "name": "clever Offsets",
     "description": "A Techstars 2023 company, Clever's a data company to service corporate clients by providing supply insights into carbon markets.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9361403b1a5b9fc4bd8af21e8.png",
@@ -1642,6 +1965,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cleveroffsets",
       "twitter": "https://twitter.com/Clever",
@@ -1653,13 +1977,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-bluetanks",
+    "source": "techstars",
     "name": "Bluetanks",
     "description": "Bluetanks is a company that helps access the best charging points that are optimized for the vehicle.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_72184724fbeb077ee07516d7b.png",
@@ -1682,6 +2005,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bluetanks",
       "twitter": "https://twitter.com/Bluetanks_EVs",
@@ -1693,13 +2017,12 @@
       "state_province": "New Jersey",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ai-ops",
+    "source": "techstars",
     "name": "Ai-OPs",
     "description": "Ai-OPs is an independent bolt-on solution for training, validating, and deploying AI Control Systems. \n\nThe company was founded in 2020 and is based in Mobile, Alabama.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_77c32fcf707bd7bd27aac3d33.png",
@@ -1724,6 +2047,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ai-op",
       "twitter": "",
@@ -1735,13 +2059,12 @@
       "state_province": "Alabama",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-tma",
+    "source": "techstars",
     "name": "TMA",
     "description": "TMA, The Hazardous Goods Companion",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2329bfa7b17c40f34bff7e3e8.webp",
@@ -1770,6 +2093,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/margaux-pages",
       "twitter": "",
@@ -1780,13 +2104,12 @@
       "city": "Berlin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-reverse-energy-solutions-delaware-corp",
+    "source": "techstars",
     "name": "Reverse Energy Solutions Delaware Corp.",
     "description": "Solar Panel Recycling",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ntnaidvy9y5uyawytppz",
@@ -1812,6 +2135,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/reverse-energy-solutions",
       "twitter": "",
@@ -1823,13 +2147,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ren3for",
+    "source": "techstars",
     "name": "REN3for",
     "description": "REN3for offers a Predictive Weather and Power Prediction model that can predict weather 96 hours out, updated in real-time, at an average of 99% accuracy.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8cac1e02b27274676b441674b.png",
@@ -1853,6 +2176,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/lisa-brunet",
       "twitter": "",
@@ -1864,13 +2188,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-plug-zen",
+    "source": "techstars",
     "name": "Plug Zen",
     "description": "EV Charging Solutions, we develop & manufacture EV charging solutions",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_702c1b8aec18caed4e50e8a03.webp",
@@ -1899,6 +2222,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/plug-zen",
       "twitter": "https://twitter.com/plug_zen",
@@ -1910,13 +2234,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-nimbus-aerospace",
+    "source": "techstars",
     "name": "Nimbus Aerospace",
     "description": "Electrifying private air travel\n",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_eeed553811d851bc3d5c5b1c5.png",
@@ -1940,6 +2263,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/95763755",
       "twitter": "",
@@ -1951,13 +2275,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mempro-usa",
+    "source": "techstars",
     "name": "MemPro USA",
     "description": "Saving critical metals and lowering the costs of production",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_88c7df6bcad389a1a714851c4.webp",
@@ -1983,6 +2306,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/john-finley-8812435",
       "twitter": "",
@@ -1994,13 +2318,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-geoprospex",
+    "source": "techstars",
     "name": "GeoProspex",
     "description": "GeoProspex is an AI land intelligence platform that integrates land prospecting, acquisition and development feasibility processes to deliver actionable investment intelligence. ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d3cceaacf1cca536e9665d5eb.png",
@@ -2024,6 +2347,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/geoprospex-ai",
       "twitter": "",
@@ -2035,13 +2359,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-eqtrade",
+    "source": "techstars",
     "name": "Eqtrade",
     "description": "Eqtrade, powered by AI and ML, bridges the gaps in international food systems. Empowering farmers without business knowledge to transform their lands into sustainable ventures.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2d4c20ae9bd62c9b9e75e47a9.png",
@@ -2067,6 +2390,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/isabella-bernal-colpas-25768b11a",
       "twitter": "",
@@ -2077,13 +2401,12 @@
       "city": "Madrid",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
     "alsoIn": []
   },
   {
     "id": "techstars-edenic-energy",
+    "source": "techstars",
     "name": "Edenic Energy",
     "description": "Edenic Energy is a Building Information Engine that connects updated data to outdated buildings in disadvantaged communities to address the high barriers of building retrofits and operational cost in old properties.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_081ec8c77aa828a9c96ec62a9.png",
@@ -2109,6 +2432,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/edenic-energy",
       "twitter": "",
@@ -2120,13 +2444,12 @@
       "state_province": "Virginia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cognitensor",
+    "source": "techstars",
     "name": "Cognitensor",
     "description": "Helping transforming ESG data into operational efficiency!",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/uzkhfuhdegxpsw0jit8h",
@@ -2153,6 +2476,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cognitensor",
       "twitter": "",
@@ -2164,13 +2488,12 @@
       "state_province": "Delhi",
       "country": "India"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "India",
     "alsoIn": []
   },
   {
     "id": "techstars-carpe-manana",
+    "source": "techstars",
     "name": "Carpe Mañana",
     "description": "Carpe Manana creates a proprietary bio plastic, PLAgave, using agave fibers from mezcal production, and our process helps clean the land and rivers of Oaxaca, for future generations. ",
     "logo": "https://apimg.techstars.com/profiles/1731688266466_341503.png",
@@ -2196,6 +2519,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/aaron-robinson-carpe-manana-inc",
       "twitter": "",
@@ -2207,13 +2531,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-virimodo",
+    "source": "techstars",
     "name": "Virimodo",
     "description": "Go Carbon Neutral - Carbon Reduction Intelligence for real estate portfolios",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f4cb31334a60d0c99000039/original/virimodo-yellow-icon.png",
@@ -2234,6 +2557,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/virimodo",
       "twitter": "https://twitter.com/virimodo/",
@@ -2245,13 +2569,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sustaio",
+    "source": "techstars",
     "name": "Sustaio",
     "description": "Sustaio provides consumer climate impact intelligence & data. Think of us as the credit score for sustainability.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61dc93b9e838a3000702642e/original/sustaio-vertical-logo-lockup-turple-inverse-small.jpg",
@@ -2276,6 +2599,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sustaio",
       "twitter": "https://twitter.com/sustaio",
@@ -2287,13 +2611,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-soraytec",
+    "source": "techstars",
     "name": "Soraytec",
     "description": "Direct Primary Side Monitoring and Metering of Electricity Networks",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6b3e6e6b62e56fda39ef904f2.png",
@@ -2319,6 +2642,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/soraytec",
       "twitter": "",
@@ -2329,13 +2653,12 @@
       "city": "Sankt Augustin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-solarfi",
+    "source": "techstars",
     "name": "SolarFi",
     "description": "SolarFi offers sustainable outdoor solutions for restaurants, public spaces, and municipalities.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/616496a561f9300007ba9f66/original/SolarFi.png",
@@ -2355,6 +2678,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/solarfi",
       "twitter": "https://twitter.com/solarficart",
@@ -2366,8 +2690,6 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   }

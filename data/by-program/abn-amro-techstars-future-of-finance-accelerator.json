@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-dfns",
+    "source": "techstars",
     "name": "Dfns",
     "description": "Wallet-as-a-service platform to streamline digital asset operations and onboard users into crypto, safely.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c23d1536c99d4d1dcfe381d1a.png",
@@ -22,6 +23,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dfnshq",
       "twitter": "https://twitter.com/dfnshq",
@@ -32,13 +34,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-tweezr",
+    "source": "techstars",
     "name": "Tweezr",
     "description": "The modern alternative to large modernization programs.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8a53b10c1cfb978fe737f5fc1.png",
@@ -48,7 +49,6 @@
     "subregion": "Western Europe",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Big Data",
       "Cloudtech and DevOps",
       "Fintech"
     ],
@@ -61,6 +61,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -72,13 +73,12 @@
       "state_province": "North Holland",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-portf",
+    "source": "techstars",
     "name": "PortF",
     "description": "PortF is a platform serves investors, debt providers, and SMEs.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e7dc65a1b2a835dc3996044e7.png",
@@ -87,6 +87,7 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
+      "Artificial intelligence and machine learning",
       "Fintech",
       "SaaS"
     ],
@@ -99,6 +100,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/80373194",
       "twitter": "",
@@ -109,13 +111,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-flowpay-io",
+    "source": "techstars",
     "name": "flowpay.io",
     "description": "One-Click Smart Financing",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_68012dd7d63aa3f40dbe4d1f9.svg",
@@ -135,6 +136,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/flowpay-fintech",
       "twitter": "",
@@ -145,13 +147,12 @@
       "city": "Prague",
       "country": "Czechia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Czechia",
     "alsoIn": []
   },
   {
     "id": "techstars-valyuu",
+    "source": "techstars",
     "name": "Valyuu",
     "description": "Circular economy marketplace that unlocks the financial and environmental benefits of used electronic products.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/605b14f0c97c0a0007ed57c4/original/Valyuu_200x200.jpg",
@@ -175,6 +176,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/valyuu",
       "twitter": "https://twitter.com/HelloValyuu",
@@ -185,49 +187,12 @@
       "city": "Gorinchem",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
-    "id": "techstars-lendorse",
-    "name": "Lendorse",
-    "description": "Helping students fund tuition fees, living expenses, visa deposits and provide them with mentoring support during the admission process and career-building.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/6328ddcfa1a47900071d2514/original/Lendorse_square_transparent.png",
-    "website": "https://lendorse.com",
-    "location": "Munich, Germany",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Fintech"
-    ],
-    "year": 2022,
-    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
-    "programSlugs": [
-      "abn-amro-techstars-future-of-finance-accelerator"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/lendorse",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/lendorse"
-    },
-    "extra": {
-      "city": "Munich",
-      "country": "Germany"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Germany",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-valueco",
+    "source": "techstars",
     "name": "ValueCo",
     "description": "ValueCo is here to solve the ESG mess and bring more objectivity and engagement in the space",
     "logo": "https://apimg.techstars.com/profiles/1663622801534_500978.png",
@@ -251,6 +216,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/valuecometrics",
       "twitter": "https://twitter.com/Valuecometrics",
@@ -261,13 +227,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-ea-global-ai",
+    "source": "techstars",
     "name": "EA Global AI",
     "description": "EthicsGrade is a SaaS platform for rating your supplier's ESG risks. We focus on ESG risks of digitalisation such as cybersecurity, data protection and AI ethics",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6329764bee582c0007870161/original/Ethics_Grade_Bars_Logo_-_white_282x282.png",
@@ -290,6 +255,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/eaglobalai",
       "twitter": "https://twitter.com/ethicsgrade",
@@ -300,13 +266,49 @@
       "city": "St Briavels",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
+    "id": "techstars-narrative-banking",
+    "source": "techstars",
+    "name": "Narrative Banking",
+    "description": "Narrative turns banking apps into AI-powered growth coaches for SMEs, lifting loan activation, retention, and revenue for universal banks.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_0551c5ab5639b3823a56b0fb4.jpg",
+    "website": "https://narrativebanking.com",
+    "location": "Blackrock, Dublin, Ireland",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2025,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Blackrock",
+      "state_province": "Dublin",
+      "country": "Ireland"
+    },
+    "country": "Ireland",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-auxilius-ai",
+    "source": "techstars",
     "name": "Auxilius.ai",
     "description": "Codified Governance (CoGo) turns manual compliance tasks into tested code, freeing enterprises from repetitive work",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_45b3d3375b56dc47bb6a85993.png",
@@ -326,6 +328,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -337,13 +340,12 @@
       "state_province": "Bavaria",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-lipefi",
+    "source": "techstars",
     "name": "Lipefi",
     "description": "Husk is the smart spending platform for European startups that\nintegrates payment solutions, transaction insights, and\nliquidity.\n\nWe provide credit cards with meaningful limits in combination with control, insights and planning tools.",
     "logo": "https://apimg.techstars.com/profiles/1748252764937_968086.png",
@@ -363,6 +365,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/usehusk",
       "twitter": "",
@@ -373,17 +376,16 @@
       "city": "Elsene",
       "country": "Belgium"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Belgium",
     "alsoIn": []
   },
   {
     "id": "techstars-avenir-tech",
+    "source": "techstars",
     "name": "AVENIR TECH",
     "description": "Avenir empowers wealth managers to reach a new generation of investors through hyper-personalisation.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_73820fd2d2bfdf506111a8a8c.png",
-    "website": "https://joinavenir.com",
+    "website": "",
     "location": "London, United Kingdom",
     "region": "Europe",
     "subregion": "Western Europe",
@@ -401,6 +403,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/joinavenir",
       "twitter": "",
@@ -411,13 +414,321 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
+    "id": "techstars-umbra-ai",
+    "source": "techstars",
+    "name": "Umbra Ai",
+    "description": "The compliance operating system for financial services.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f581f49cd16ac2bd47ef25fd4.jpeg",
+    "website": "https://umbra-ai.com",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Fintech",
+      "Legal tech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Amsterdam",
+      "state_province": "North Holland",
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-nuvante-technologies-ltd",
+    "source": "techstars",
+    "name": "Nuvante Technologies Ltd",
+    "description": "Nuvante is building the institutional clearing layer for stablecoins and tokenised deposits.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_26080c2e9d2247840db9ecb42.jpeg",
+    "website": "https://nuvante.io",
+    "location": "London, England, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "London",
+      "state_province": "England",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-meridyan",
+    "source": "techstars",
+    "name": "Meridyan",
+    "description": "Meridyan connects regulated banks to blockchain rails through one ISO 20022 native API, with no changes to their core systems.",
+    "logo": "https://www.techstars.com/os/api/photo/profile-photos/company-logos/1a5071e8-d101-49c9-a1cd-4b8c4d44e8fa/1794062961004-4mjxyxuqg8.png",
+    "website": "https://meridyan.org",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Cryptocurrency/Blockchain",
+      "Fintech",
+      "SaaS"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/meridyan",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Amsterdam",
+      "state_province": "North Holland",
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-marx-finance",
+    "source": "techstars",
+    "name": "Marx Finance",
+    "description": "Agent first finance platform where autonomous AI agents discuss news, share market signals, and debate positions.",
+    "logo": "https://www.techstars.com/os/api/photo/profile-photos/company-logos/7be72df5-e50c-4bd7-8211-c7047997e1fc/1789069674999-a3f7sxx436o.png",
+    "website": "https://marx.finance",
+    "location": "Berlin, Berlin, Germany",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Fintech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Berlin",
+      "state_province": "Berlin",
+      "country": "Germany"
+    },
+    "country": "Germany",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-fopsai-ltd",
+    "source": "techstars",
+    "name": "FopsAI Ltd",
+    "description": "AI-native reconciliation and data operations platform for financial services.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d74e5e068f0ac7b46e7fa316d.png",
+    "website": "https://fopsai.com",
+    "location": "London, England, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Fintech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "London",
+      "state_province": "England",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-basecomp-ai",
+    "source": "techstars",
+    "name": "BaseComp AI",
+    "description": "BaseComp AI continuously validates your infrastructure against business obligations you've committed to.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d63122fc0bd03bbe92bd4fffd.jpg",
+    "website": "https://basecomp.ai",
+    "location": "Cambridge, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cybersecurity",
+      "Fintech",
+      "Infrastructure",
+      "Real estate tech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Cambridge",
+      "state_province": "Massachusetts",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-aiir",
+    "source": "techstars",
+    "name": "Aiir",
+    "description": "Aiir is the AI platform for Investor Relations at asset managers.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7a1a12a8bb4353f46c92c8d54.png",
+    "website": "https://useaiir.com",
+    "location": "Newbury, England, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Fintech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Newbury",
+      "state_province": "England",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-hedi",
+    "source": "techstars",
+    "name": "HEDI",
+    "description": "AI agents to prevent insurance fraud ",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b0e98c404a083968ee8951464.png",
+    "website": "https://askhedi.com",
+    "location": "Paris, Île-de-France, France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Fintech",
+      "Insurtech",
+      "SaaS"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Paris",
+      "state_province": "Île-de-France",
+      "country": "France"
+    },
+    "country": "France",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-orion-finance",
+    "source": "techstars",
     "name": "Orion Finance",
     "description": "Orion Finance is a protocol for creating, managing, and investing in structured DeFi products.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_eeb33f2b79db5907561d04fef.png",
@@ -439,6 +750,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -450,50 +762,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-narrative-banking",
-    "name": "Narrative Banking",
-    "description": "Narrative turns banking apps into AI-powered growth coaches for SMEs, lifting loan activation, retention, and revenue for universal banks.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_0551c5ab5639b3823a56b0fb4.jpg",
-    "website": "https://narrativebanking.com",
-    "location": "Blackrock, Dublin, Ireland",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Fintech"
-    ],
-    "year": 2025,
-    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
-    "programSlugs": [
-      "abn-amro-techstars-future-of-finance-accelerator"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "Blackrock",
-      "state_province": "Dublin",
-      "country": "Ireland"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Ireland",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-humbrela",
+    "source": "techstars",
     "name": "Humbrela",
     "description": "For brokers who want to consolidate all protections, empower their clients, and unlock new revenue opportunities, Humbrela is the all-in-one platform that centralizes insurance, warranties, and embedded coverages into one smart interface, making it easy for customers to understand their coverage, act independently, and for brokers to upsell at exactly the right moment.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e8facfcad03ec5e514faae682.png",
@@ -513,6 +787,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/humbrela",
       "twitter": "",
@@ -524,13 +799,12 @@
       "state_province": "Vaud",
       "country": "Switzerland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Switzerland",
     "alsoIn": []
   },
   {
     "id": "techstars-haboo-money",
+    "source": "techstars",
     "name": "haboo money",
     "description": "haboo helps people repay debt flexibly and intelligently while improving recovery rates for creditors.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f8b1df6a5be885a55b3daa0be.png",
@@ -550,6 +824,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -561,13 +836,12 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-fintalo",
+    "source": "techstars",
     "name": "Fintalo",
     "description": "Fintalo is the first collaborative infrastructure for all stakeholders in private market transactions.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ebd84d8bb82a3699363526c3a.png",
@@ -590,6 +864,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fintalo",
       "twitter": "",
@@ -601,13 +876,12 @@
       "state_province": "Bavaria",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-better",
+    "source": "techstars",
     "name": "Better",
     "description": "Better instantly and reliably saves failed online payments, turning declines into guaranteed revenue with zero disruption to the merchant's existing flow",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e7c233295021cdbfa8febd4cd.png",
@@ -627,6 +901,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bettercharge",
       "twitter": "",
@@ -638,13 +913,12 @@
       "state_province": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-avido-ai",
+    "source": "techstars",
     "name": "Avido AI",
     "description": "Avido provides a purpose-built platform that enables financial institutions to test, monitor, and govern generative AI applications with confidence.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_dc4ebf2d1bcaddfb6d1046a5f.png",
@@ -665,6 +939,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -676,13 +951,12 @@
       "state_province": "Capital Region",
       "country": "Denmark"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Denmark",
     "alsoIn": []
   },
   {
     "id": "techstars-1-cp",
+    "source": "techstars",
     "name": "1-CP",
     "description": "1-CP is a \"Corporate PayPal\" bringing B2C Convenience into B2B Transactions\u000bwith Embedded Expense, Finance & AI.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7b2e9f0beeb0b481da78e8122.png",
@@ -705,6 +979,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -716,13 +991,12 @@
       "state_province": "Hesse",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-shiperise",
+    "source": "techstars",
     "name": "Shiperise",
     "description": "Product inventory investment platform (impact investment)",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/m6c29hxyg5ee8kpczwfp",
@@ -742,6 +1016,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shiperise",
       "twitter": "",
@@ -753,13 +1028,12 @@
       "state_province": "Brussels Capital",
       "country": "Belgium"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Belgium",
     "alsoIn": []
   },
   {
     "id": "techstars-nekod",
+    "source": "techstars",
     "name": "NEKOD",
     "description": "Governance for vibe coded apps in enterprise",
     "logo": "https://apimg.techstars.com/profiles/1722237631409_422506.png",
@@ -782,6 +1056,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nekod",
       "twitter": "",
@@ -793,13 +1068,12 @@
       "state_province": "North Holland",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-fundup",
+    "source": "techstars",
     "name": "FundUp",
     "description": "FundUp provides cash advances to subscription businesses so they can accelerate their revenue growth.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_059aff268e90f3c461f46d98b.png",
@@ -819,6 +1093,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/funduptoday",
       "twitter": "",
@@ -830,13 +1105,12 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-fimble-ltd",
+    "source": "techstars",
     "name": "Fimble Ltd",
     "description": "We give clothes digital identity and create new types of data in fashion.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2e711d829e375a37073b0dd87.png",
@@ -857,6 +1131,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fimbleuk",
       "twitter": "",
@@ -867,13 +1142,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-ewibe",
+    "source": "techstars",
     "name": "eWibe",
     "description": "eWibe is an open and accessible investment wine market.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/w27r938s6e61hljgsshl",
@@ -894,6 +1168,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ewibe",
       "twitter": "https://twitter.com/ewibe",
@@ -905,13 +1180,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-equali",
+    "source": "techstars",
     "name": "Equali",
     "description": "Automated payment reconciliations for the digital economy. B2B SaaS FinTech.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/sdnjjgksuwswvhlpfxw7",
@@ -932,6 +1206,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/80992643",
       "twitter": "",
@@ -942,13 +1217,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-atmo",
+    "source": "techstars",
     "name": "ATMO",
     "description": "atmo helps banks to reduce their financed emissions - starting with food. ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7ec4b4d25871491e3baa33f12.png",
@@ -970,6 +1244,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/atmoearth",
       "twitter": "",
@@ -981,13 +1256,12 @@
       "state_province": "Berlin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-tractionboard",
+    "source": "techstars",
     "name": "TractionBoard",
     "description": "Tractionboard is an interactive platform between startups and investors helps make startup financing simple and data driven.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2f3094300fdeae3ad4d7f165f.png",
@@ -1010,6 +1284,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tractionboard-co",
       "twitter": "",
@@ -1020,13 +1295,12 @@
       "city": "Utrecht",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-level2",
+    "source": "techstars",
     "name": "Level2",
     "description": "The first fully visual no-code automated strategy creation tool built for retail traders",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c3afdd95df1f2854696d678e2.png",
@@ -1046,6 +1320,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/market-dynamics-no-code-tool",
       "twitter": "https://twitter.com/mktdynamics.com",
@@ -1056,13 +1331,12 @@
       "city": "Cardiff",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-katanso",
+    "source": "techstars",
     "name": "Katanso",
     "description": "KUMO enables borrowing the collateralized stablecoin KUSD against on-chain natural assets with no interest rate.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/jdavypqibpcgjco0ysiu",
@@ -1082,6 +1356,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kumo-earth",
       "twitter": "https://twitter.com/kumo_earth",
@@ -1092,13 +1367,12 @@
       "city": "Mainz",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-convergent",
+    "source": "techstars",
     "name": "Convergent",
     "description": "Enhancing human interaction skills with AI simulations",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_fb7b2a52e1a324a522c672252.jpeg",
@@ -1119,6 +1393,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/convergentxai",
       "twitter": "",
@@ -1129,13 +1404,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-complok",
+    "source": "techstars",
     "name": "Complok",
     "description": "Supercharge Your Compliance. Accelerate Your Business. AI Driven SaaS tool for the compliance team in fintech.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_471b0723b2bda259cbb840129.png",
@@ -1157,6 +1431,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/complok",
       "twitter": "",
@@ -1167,13 +1442,12 @@
       "city": "Tallinn",
       "country": "Estonia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Estonia",
     "alsoIn": []
   },
   {
     "id": "techstars-recheck",
+    "source": "techstars",
     "name": "Recheck",
     "description": "Objective and transparent monitoring and certification of energy, sustainability, and air quality performance of commercial real estate.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60895aec5605ec000876261e/original/Y0yoSLMt_400x400.jpg",
@@ -1194,6 +1468,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/recheck-bv",
       "twitter": "https://twitter.com/recheck_io",
@@ -1204,13 +1479,12 @@
       "city": "Heerlen",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-geowox",
+    "source": "techstars",
     "name": "Geowox",
     "description": "1-Hour home valuations for a fully digital and speedy mortgage approval to generate higher conversions for lenders.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60895b1cb6a22a00072d5f65/original/6i7fqL2O_400x400.jpg",
@@ -1231,6 +1505,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/geowox",
       "twitter": "https://twitter.com/GeowoxInsights",
@@ -1242,13 +1517,12 @@
       "state_province": "Dublin",
       "country": "Ireland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ireland",
     "alsoIn": []
   },
   {
     "id": "techstars-evercity",
+    "source": "techstars",
     "name": "Evercity",
     "description": "Blockchain platform to issue, manage and monitor green and sustainable finance instruments.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60ae594a4185040007037e63/original/evercity_logo.jpg",
@@ -1271,6 +1545,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/evercity",
       "twitter": "https://twitter.com/evercityeco",
@@ -1281,13 +1556,12 @@
       "city": "Singapore",
       "country": "Singapore"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Singapore",
     "alsoIn": []
   },
   {
     "id": "techstars-porthos-co",
+    "source": "techstars",
     "name": "Porthos & Co",
     "description": "Porthos & Co does bespoke finance for the entrepreneurial by digitally assembling a full range of data from open banking to property and private shares and so prove affordability and suitability at scale. We are the only UK business that can achieve this.",
     "logo": "https://apimg.techstars.com/profiles/1663615311671_76619.png",
@@ -1308,6 +1582,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/porthos-co",
       "twitter": "https://twitter.com/porthos_co",
@@ -1318,13 +1593,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-beyond-equity",
+    "source": "techstars",
     "name": "Beyond Equity",
     "description": "Operating the first revenue exchange where companies can raise funds against their revenue, instead of equity",
     "logo": "https://apimg.techstars.com/profiles/1664545753553_671002.png",
@@ -1344,6 +1618,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/beyondequity",
       "twitter": "",
@@ -1354,13 +1629,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-31third",
+    "source": "techstars",
     "name": "31Third",
     "description": "Decentralized asset management infrastructure radically optimizing trade execution and portfolio management in DeFi.",
     "logo": "https://apimg.techstars.com/profiles/1663610361033_372522.png",
@@ -1380,6 +1654,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/31third",
       "twitter": "https://twitter.com/31ThirdProtocol",
@@ -1390,13 +1665,12 @@
       "city": "Vienna",
       "country": "Austria"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Austria",
     "alsoIn": []
   },
   {
     "id": "techstars-raise-green",
+    "source": "techstars",
     "name": "Raise Green",
     "description": "Climatetech marketplace for local impact investing connecting capital with community need.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60895a244dd2bd00092149dc/original/Raisegreen.png",
@@ -1419,6 +1693,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/29305067",
       "twitter": "https://twitter.com/raisegreeninc",
@@ -1430,13 +1705,48 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-lendorse",
+    "source": "techstars",
+    "name": "Lendorse",
+    "description": "Helping students fund tuition fees, living expenses, visa deposits and provide them with mentoring support during the admission process and career-building.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6328ddcfa1a47900071d2514/original/Lendorse_square_transparent.png",
+    "website": "https://lendorse.com",
+    "location": "Munich, Germany",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2022,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/lendorse",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/lendorse"
+    },
+    "extra": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "country": "Germany",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-whatsub",
+    "source": "techstars",
     "name": "Whatsub",
     "description": "For entrepreneurs who struggle to secure grants, we provide an AI-powered platform that helps you find eligible opportunities, apply with confidence, and manage the entire process from start to finish.",
     "logo": "https://apimg.techstars.com/profiles/1727800398220_630390.png",
@@ -1456,6 +1766,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/whatsub",
       "twitter": "",
@@ -1467,13 +1778,12 @@
       "state_province": "Groningen",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-upside-saving",
+    "source": "techstars",
     "name": "Upside Saving",
     "description": "Intelligent cashback as an API, fuelled by Open Banking, helping apps engage and delight their users.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60895a6b4dd2bd00092149dd/original/Upside_Social_Logo.jpg",
@@ -1494,6 +1804,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/upside-money",
       "twitter": "https://twitter.com/upsidesaving",
@@ -1504,13 +1815,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-trustline",
+    "source": "techstars",
     "name": "Trustline",
     "description": "Universal compliance layer for decentralised applications. Install in 1 line of code.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/yn4nrx4vynaptjgrxpuv",
@@ -1531,6 +1841,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/securely-id",
       "twitter": "",
@@ -1542,13 +1853,12 @@
       "state_province": "Pays de la Loire",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-thx-network",
+    "source": "techstars",
     "name": "THX Network",
     "description": "Low-code infrastructure and tooling, making web3 accessible for web2 communities and creators, increasing their engagement and revenue.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/xj5xq5wrgrfghi4kqnhn",
@@ -1568,6 +1878,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/thxprotocol",
       "twitter": "https://twitter.com/thxprotocol",
@@ -1578,13 +1889,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-steadybricks",
+    "source": "techstars",
     "name": "SteadyBricks",
     "description": "Steadybricks is a cloud cost, and cloud-carbon-footprint reduction tool for fintechs and financial services.",
     "logo": "https://apimg.techstars.com/profiles/1667212542263_563854.png",
@@ -1605,6 +1915,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/steadybrickshq",
       "twitter": "",
@@ -1615,13 +1926,12 @@
       "city": "Dublin",
       "country": "Ireland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ireland",
     "alsoIn": []
   },
   {
     "id": "techstars-leasy",
+    "source": "techstars",
     "name": "Leasy",
     "description": "Leasy is a tailor made accounting, banking and payment solution for property operators.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a5dd1b5dbb50595dc3a06401b.png",
@@ -1641,6 +1951,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/leasypropertymanagementmadeeasy",
       "twitter": "",
@@ -1652,13 +1963,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-hypeal",
+    "source": "techstars",
     "name": "Hypeal",
     "description": "Prime Memberships For E-Commerce Brands",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_037729cbf7e3a0c3b747c7a36.jpg",
@@ -1678,6 +1988,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hypeal",
       "twitter": "",
@@ -1688,13 +1999,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-facenote",
+    "source": "techstars",
     "name": "Facenote",
     "description": "Biometric payments and access via facial recognition in a private, secure and compliant way.",
     "logo": "https://apimg.techstars.com/profiles/1663257380249_150324.png",
@@ -1719,6 +2029,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/facenote",
       "twitter": "https://twitter.com/facenoteme",
@@ -1730,13 +2041,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cuantix",
+    "source": "techstars",
     "name": "Cuantix",
     "description": "SaaS platform that automates ESG and impact data gathering and reporting.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6089594fb6a22a00072d5f64/original/Logo-Cuantix-500.png",
@@ -1758,6 +2068,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cuantix",
       "twitter": "https://twitter.com/CuantixIS",
@@ -1768,13 +2079,12 @@
       "city": "Santiago",
       "country": "Chile"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Chile",
     "alsoIn": []
   },
   {
     "id": "techstars-corgee",
+    "source": "techstars",
     "name": "Corgee",
     "description": "Manage all your accounts, tax and finances in one place. Corgee is an app for freelancers and their accountants.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/eumtjruyqr71dewnta7i",
@@ -1794,6 +2104,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/67886033",
       "twitter": "https://twitter.com/joincorgee",
@@ -1804,9 +2115,45 @@
       "city": "Barcelona",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-insaio",
+    "source": "techstars",
+    "name": "Insaio",
+    "description": "Insaio is the customer interaction operating system for insurance and finance -- AI-driven and human-led conversations that fill calendars, sharpen advice, and protect portfolios.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4f30517377bb199efefcafea1.png",
+    "website": "https://insaio.com",
+    "location": "Hamburg, Hamburg, Germany",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Fintech",
+      "Insurtech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Hamburg",
+      "state_province": "Hamburg",
+      "country": "Germany"
+    },
+    "country": "Germany",
     "alsoIn": []
   }
 ]

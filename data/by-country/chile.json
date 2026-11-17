@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-mineral-forecast",
+    "source": "techstars",
     "name": "Mineral Forecast",
     "description": "Using machine learning to improve drillhole targeting to find the critical metals a greener economy needs.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_83dd2ea52625458193d01b690.png",
@@ -21,6 +22,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mineral-forecast",
       "twitter": "",
@@ -31,13 +33,12 @@
       "city": "Santiago",
       "country": "Chile"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Chile",
     "alsoIn": []
   },
   {
     "id": "techstars-egreen",
+    "source": "techstars",
     "name": "egreen",
     "description": "eGreen is a technology company that seeks to accelerate environmental and financial impact through green investments, creating a platform based on blockchain technology.",
     "logo": "https://apimg.techstars.com/profiles/1668124277386_625779.png",
@@ -59,6 +60,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/egreen-com",
       "twitter": "",
@@ -69,13 +71,12 @@
       "city": "Santiago",
       "country": "Chile"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Chile",
     "alsoIn": []
   },
   {
     "id": "techstars-yativo",
+    "source": "techstars",
     "name": "Yativo",
     "description": "We provide banking infrastructure, wallet as a service and FBO as a service for FinTechs and Marketplaces",
     "logo": "https://apimg.techstars.com/profiles/1733773799305_512799.png",
@@ -97,6 +98,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/yativo",
       "twitter": "https://twitter.com/ZeenahApp",
@@ -107,51 +109,12 @@
       "city": "Santiago",
       "country": "Chile"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "Chile",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-sharpshark",
-    "name": "SharpShark",
-    "description": "Blockchain legaltech for copyright protection",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/62368dbe1d115c0008c62ba0/original/Logo___Icon__square___LV_UV.png",
-    "website": "https://sharpshark.io",
-    "location": "Santiago, Chile",
-    "region": "Americas",
-    "subregion": "South America",
-    "tags": [
-      "Cryptocurrency/Blockchain",
-      "Cybersecurity",
-      "Mobile"
-    ],
-    "year": 2022,
-    "program": "Filecoin Techstars Accelerator",
-    "programSlugs": [
-      "filecoin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/sharpshark",
-      "twitter": "https://twitter.com/SharpShark256",
-      "facebook": "https://facebook.com/SharpShark256",
-      "crunchbase": "https://crunchbase.com/organization/sharpshark"
-    },
-    "extra": {
-      "city": "Santiago",
-      "country": "Chile"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "Chile",
     "alsoIn": []
   },
   {
     "id": "techstars-banca-me",
+    "source": "techstars",
     "name": "Banca.Me",
     "description": "Banca.Me offers fast, easy, and secure consumer and investment loans. Banca.Me creates modern and easy-to-use financial solutions that can be accessed on a mobile phone.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/uvpslj8nlets2kqb1agp",
@@ -171,6 +134,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/banca-me",
       "twitter": "",
@@ -181,13 +145,12 @@
       "city": "Santiago",
       "country": "Chile"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Chile",
     "alsoIn": []
   },
   {
     "id": "techstars-voyhoy",
+    "source": "techstars",
     "name": "Voyhoy",
     "description": "Multi-modal booking platform that helps people save time and money traveling long distances across bus, plane, train, ferry, and rideshare in South America.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57bb59d4bbe36f19f30000f0/original/voyhoy-logo-techstars.jpg",
@@ -205,6 +168,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/voyhoy",
       "twitter": "https://twitter.com/voyhoy",
@@ -215,13 +179,50 @@
       "city": "Santiago",
       "country": "Chile"
     },
+    "country": "Chile",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-sharpshark",
     "source": "techstars",
+    "name": "SharpShark",
+    "description": "Blockchain legaltech for copyright protection",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/62368dbe1d115c0008c62ba0/original/Logo___Icon__square___LV_UV.png",
+    "website": "",
+    "location": "Santiago, Chile",
+    "region": "Americas",
+    "subregion": "South America",
+    "tags": [
+      "Cryptocurrency/Blockchain",
+      "Cybersecurity",
+      "Mobile"
+    ],
+    "year": 2022,
+    "program": "Filecoin Techstars Accelerator",
+    "programSlugs": [
+      "filecoin"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/sharpshark",
+      "twitter": "https://twitter.com/SharpShark256",
+      "facebook": "https://facebook.com/SharpShark256",
+      "crunchbase": "https://crunchbase.com/organization/sharpshark"
+    },
+    "extra": {
+      "city": "Santiago",
+      "country": "Chile"
+    },
     "country": "Chile",
     "alsoIn": []
   },
   {
     "id": "techstars-cuantix",
+    "source": "techstars",
     "name": "Cuantix",
     "description": "SaaS platform that automates ESG and impact data gathering and reporting.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6089594fb6a22a00072d5f64/original/Logo-Cuantix-500.png",
@@ -243,6 +244,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cuantix",
       "twitter": "https://twitter.com/CuantixIS",
@@ -253,8 +255,6 @@
       "city": "Santiago",
       "country": "Chile"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Chile",
     "alsoIn": []
   },

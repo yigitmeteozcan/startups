@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-zmode",
+    "source": "techstars",
     "name": "Zmode",
     "description": "Zmode is AI revenue infrastructure for local service businesses. We replace 5 disconnected \ntools with one revenue system -- website, booking, reminders, lead follow-up, and payments -- live in seconds.",
     "logo": "https://apimg.techstars.com/profiles/1772480776597_403284.png",
@@ -23,6 +24,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/zmode",
       "twitter": "",
@@ -34,13 +36,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-swoove",
+    "source": "techstars",
     "name": "Swoove",
     "description": "Swoove is a tech aggregator platform of logistics infrastructure for African commerce",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/etry1mhcmhp8ezp2mcjb",
@@ -61,6 +62,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/swoove",
       "twitter": "https://twitter.com/swoovedelivery",
@@ -72,13 +74,53 @@
       "state_province": "Delaware",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-valarix",
     "source": "techstars",
+    "name": "Valarix",
+    "description": "AI-powered tax automation software modernizing fiscal compliance and audit security for global companies",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d4ac868487046f47c05cabcd8.png",
+    "website": "https://valarix.com",
+    "location": "San Francisco, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "B2B payments",
+      "Big Data",
+      "Fintech",
+      "Legal tech",
+      "SaaS"
+    ],
+    "year": 2024,
+    "program": "Techstars Miami powered by J.P. Morgan",
+    "programSlugs": [
+      "miami-jp-morgan"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/15257246",
+      "twitter": "",
+      "facebook": "https://facebook.com/contaayuda/",
+      "crunchbase": "https://crunchbase.com/organization/contaayuda"
+    },
+    "extra": {
+      "city": "San Francisco",
+      "state_province": "California",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-stagewing",
+    "source": "techstars",
     "name": "StageWing",
     "description": "An event production equipment sharing community where members can rent the best pro gear.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8d3334a64abc60f3a1cf1bc1a.png",
@@ -101,6 +143,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/stagewing",
       "twitter": "https://twitter.com/stagewingapp",
@@ -112,8 +155,6 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   }

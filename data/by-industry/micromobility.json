@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-metro-africa-xpress",
+    "source": "techstars",
     "name": "Metro Africa Xpress",
     "description": "Providing infrastructure and services to taxi drivers across Africa.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/600f4086608740000900009a/original/max.jpg",
@@ -11,8 +12,7 @@
     "tags": [
       "Micromobility",
       "Mobility tech",
-      "Ridesharing",
-      "Supply chain technology"
+      "Ridesharing"
     ],
     "year": 2015,
     "program": "Techstars New York City Accelerator",
@@ -23,6 +23,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/maxdriveai",
       "twitter": "https://twitter.com/maxdotng",
@@ -33,48 +34,122 @@
       "city": "Lagos",
       "country": "Nigeria"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Nigeria",
     "alsoIn": []
   },
   {
-    "id": "techstars-circuit",
-    "name": "Circuit",
-    "description": "Circuit is a SaaS company providing to route optimization software to consumers, SMB's and enterprise.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5c715dc9a36c1125d60000ab/original/color.png",
-    "website": "https://getcircuit.com",
-    "location": "Huntingdon, United Kingdom",
+    "id": "techstars-cycle",
+    "source": "techstars",
+    "name": "Cycle",
+    "description": "All-in-one bike subscription package: pay a monthly fee to access everything you need to get going: E-Bikes, Service, Insurance and Software.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5f5f3f9434a60d4e6e00003b/original/GH_Vinyl_2c.png",
+    "website": "https://cycle.eco",
+    "location": "Berlin, Germany",
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
+      "Climate tech",
       "Micromobility",
-      "Mobile"
+      "Mobility tech"
     ],
-    "year": 2019,
-    "program": "Techstars Lisbon in Partnership with Semapa Next",
+    "year": 2020,
+    "program": "Techstars Transformative World Torino",
+    "programSlugs": [
+      "transformative-world-torino"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/cycle-eco",
+      "twitter": "https://twitter.com/CYCLE_mobility",
+      "facebook": "https://facebook.com/CYCLE.eco",
+      "crunchbase": "https://crunchbase.com/organization/cycle-5106"
+    },
+    "extra": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "country": "Germany",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-lumos-helmet",
+    "source": "techstars",
+    "name": "Lumos Helmet",
+    "description": "Lumos is a next generation bike helmet with integrated lights, brake, and turn signals. Currently available at over 300 Apple Stores worldwide.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5b4a649c34a60d4a5d000115/original/Lumos_Logo_darkbg.png",
+    "website": "https://lumoshelmet.co",
+    "location": "Boston, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Internet of Things",
+      "Micromobility"
+    ],
+    "year": 2018,
+    "program": "Techstars Detroit Accelerator",
     "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/circuitllc",
-      "twitter": "https://twitter.com/circuitapp",
-      "facebook": "https://facebook.com/CircuitRouting",
-      "crunchbase": "https://crunchbase.com/organization/circuit"
+      "linkedin": "https://linkedin.com/company/lumos-helmet",
+      "twitter": "https://twitter.com/lumoshelmet",
+      "facebook": "https://facebook.com/lumoshelmet",
+      "crunchbase": "https://crunchbase.com/organization/lumos-helmet#section-overview"
     },
     "extra": {
-      "city": "Huntingdon",
-      "country": "United Kingdom"
+      "city": "Boston",
+      "state_province": "Massachusetts",
+      "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-iomob",
     "source": "techstars",
+    "name": "Iomob",
+    "description": "Iomob empowers transport companies to launch their own Mobility as a Service solutions to users for seamless A to B mobility experiences.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5d4000a3a36c117dd800093f/original/iomob_1_150ppp_%281%29.png",
+    "website": "https://iomob.net",
+    "location": "Tallinn, Estonia",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "tags": [
+      "Micromobility",
+      "Mobility tech",
+      "SaaS"
+    ],
+    "year": 2019,
+    "program": "The Arcadis City of 2030 Accelerator Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
-    "country": "United Kingdom",
+    "social": {
+      "linkedin": "https://linkedin.com/company/iomob-tech",
+      "twitter": "https://twitter.com/iomob_net",
+      "facebook": "https://facebook.com/iomob/",
+      "crunchbase": "https://crunchbase.com/organization/iomob#section-twitter"
+    },
+    "extra": {
+      "city": "Tallinn",
+      "country": "Estonia"
+    },
+    "country": "Estonia",
     "alsoIn": []
   },
   {
     "id": "techstars-carre-mobility",
+    "source": "techstars",
     "name": "Carré Mobility",
     "description": "Carre Mobility offers shared mobility solutions for the housing industry, saving space and costs.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/hmvtsb5nb1gkidbghmta",
@@ -97,6 +172,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/carr%C3%A9-mobility",
       "twitter": "",
@@ -107,13 +183,12 @@
       "city": "Berlin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-routific",
+    "source": "techstars",
     "name": "Routific",
     "description": "Route optimization platform for delivery businesses.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55a2dee380832088bd000013/original/Routific_logo_iPad.jpg",
@@ -126,14 +201,13 @@
       "Micromobility"
     ],
     "year": 2015,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/routific",
       "twitter": "https://twitter.com/routific",
@@ -145,13 +219,52 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
+    "id": "techstars-navi",
+    "source": "techstars",
+    "name": "Navi",
+    "description": "Navi is an AI that unbreaks your day in the city. It's spatially shaped, not text-shaped: every answer is built from the map, memory of you (your taste and corrections), and the live moment, inputs no chatbot treats as first-class.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b38d850e991f4652fbcc04f5b.jpg",
+    "website": "https://navi.app",
+    "location": "San Luis Obispo, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Micromobility",
+      "Mobility tech",
+      "Technology, media and telecommunications"
+    ],
+    "year": 2026,
+    "program": "Techstars Boulder",
+    "programSlugs": [
+      "boulder"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/getnaviapp",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "San Luis Obispo",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-vocadian",
+    "source": "techstars",
     "name": "Vocadian",
     "description": "Vocadian is a Multimodal Voice AI for predictive employee impairment risk assessment and productivity empowerment.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_97c4f584bc30f8eff00f2b22d.jpg",
@@ -177,6 +290,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/vocadian",
       "twitter": "",
@@ -188,13 +302,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-yeesma-sarl",
+    "source": "techstars",
     "name": "YEESMA SARL",
     "description": "YEESMA Provides EXCITING Solutions.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e7db544c35a169696343885bf.png",
@@ -217,6 +330,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -228,13 +342,12 @@
       "state_province": "Dublin",
       "country": "Ireland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ireland",
     "alsoIn": []
   },
   {
     "id": "techstars-pointz",
+    "source": "techstars",
     "name": "Pointz",
     "description": "Pointz is a mapping app that crowdsources safer bike & scooter routes. We license the data to delivery companies and operators.",
     "logo": "https://apimg.techstars.com/profiles/1662574955667_671727.png",
@@ -255,6 +368,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bikepointz",
       "twitter": "",
@@ -266,52 +380,12 @@
       "state_province": "Rhode Island",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-raev",
-    "name": "RAEV",
-    "description": "RAEV is a fleet of shared, small, electric vehicles available for use on a pay-per-drive basis.",
-    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/u0xjiwmi1jyktezwyl2b",
-    "website": "https://raev.tech",
-    "location": "Mullica Hill, New Jersey, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Micromobility",
-      "Mobile",
-      "Mobility tech"
-    ],
-    "year": 2023,
-    "program": "Techstars Industries of the Future Accelerator",
-    "programSlugs": [
-      "industries-of-the-future"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/raev-mobility",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/raev"
-    },
-    "extra": {
-      "city": "Mullica Hill",
-      "state_province": "New Jersey",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-livaq",
+    "source": "techstars",
     "name": "LIVAQ",
     "description": "LIVAQ creates high-performance electric off-road vehicles, leveraging advanced Industry 4.0 technologies to deliver an elevated experience for businesses, government agencies, and adventure seekers.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_071b30ece8f2e318b6b3d06fa.jpeg",
@@ -332,6 +406,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/livaq",
       "twitter": "",
@@ -343,13 +418,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-meredot",
+    "source": "techstars",
     "name": "Meredot",
     "description": "Universal solution for parking and wireless charging electric transport",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_bff2caa8ed561c0260b4e6d6c.png",
@@ -376,6 +450,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/meredot",
       "twitter": "https://twitter.com/@MeredotLLC",
@@ -387,13 +462,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-plug-zen",
+    "source": "techstars",
     "name": "Plug Zen",
     "description": "EV Charging Solutions, we develop & manufacture EV charging solutions",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_702c1b8aec18caed4e50e8a03.webp",
@@ -422,6 +496,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/plug-zen",
       "twitter": "https://twitter.com/plug_zen",
@@ -433,13 +508,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-bob-s-containers",
+    "source": "techstars",
     "name": "Bob's Containers",
     "description": "We build fast, affordable, and profitable housing solutions from shipping containers.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/fxhqmvnq8ome60kuqzxz",
@@ -469,6 +543,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bobs-containers",
       "twitter": "https://twitter.com/bobscontainers",
@@ -480,13 +555,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-exovolar-industries",
+    "source": "techstars",
     "name": "Exovolar Industries",
     "description": "Empowering human aerial mobility. Making people FLY like superheroes.",
     "logo": "https://apimg.techstars.com/profiles/1659151943162_925802.png",
@@ -510,6 +584,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/exovolar",
       "twitter": "https://twitter.com/exovolar",
@@ -521,13 +596,12 @@
       "state_province": "New Jersey",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-steadybricks",
+    "source": "techstars",
     "name": "SteadyBricks",
     "description": "Steadybricks is a cloud cost, and cloud-carbon-footprint reduction tool for fintechs and financial services.",
     "logo": "https://apimg.techstars.com/profiles/1667212542263_563854.png",
@@ -548,6 +622,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/steadybrickshq",
       "twitter": "",
@@ -558,13 +633,51 @@
       "city": "Dublin",
       "country": "Ireland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ireland",
     "alsoIn": []
   },
   {
+    "id": "techstars-raev",
+    "source": "techstars",
+    "name": "RAEV",
+    "description": "RAEV is a fleet of shared, small, electric vehicles available for use on a pay-per-drive basis.",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/u0xjiwmi1jyktezwyl2b",
+    "website": "",
+    "location": "Mullica Hill, New Jersey, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Micromobility",
+      "Mobile",
+      "Mobility tech"
+    ],
+    "year": 2023,
+    "program": "Techstars Industries of the Future Accelerator",
+    "programSlugs": [
+      "industries-of-the-future"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/raev-mobility",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/raev"
+    },
+    "extra": {
+      "city": "Mullica Hill",
+      "state_province": "New Jersey",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-blink-last-mile",
+    "source": "techstars",
     "name": "Blink Last Mile",
     "description": "Same-day delivery service for e-commerce companies in Europe.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/605018c8a6ce0e000807cf7e/original/Logo_firma_mail.png",
@@ -584,6 +697,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/blinklastmile",
       "twitter": "",
@@ -594,8 +708,6 @@
       "city": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": [
       "yc"

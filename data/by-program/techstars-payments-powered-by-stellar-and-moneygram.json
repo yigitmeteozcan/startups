@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-depay",
+    "source": "techstars",
     "name": "Depay",
     "description": "Providing an easy-to-integrate and interoperable crypto payment infrastructure that allows payment processors and gateways to accept crypto as a new payment method.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5d03b10f105b4927bf102471f.png",
@@ -21,6 +22,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/depayapp",
       "twitter": "",
@@ -31,13 +33,48 @@
       "city": "Buenos Aires",
       "country": "Argentina"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Argentina",
     "alsoIn": []
   },
   {
+    "id": "techstars-guama",
+    "source": "techstars",
+    "name": "Guama",
+    "description": "A credit card for LATAM's underbanked population.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_70c64bf0c6e66911f5860b6b3.png",
+    "website": "https://guamacard.com",
+    "location": "Medellin, Colombia",
+    "region": "Americas",
+    "subregion": "South America",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2024,
+    "program": "Techstars Payments Powered by Stellar and MoneyGram",
+    "programSlugs": [
+      "payments"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/guamacard",
+      "twitter": "https://twitter.com/guamacard",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/guama-e762"
+    },
+    "extra": {
+      "city": "Medellin",
+      "country": "Colombia"
+    },
+    "country": "Colombia",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-lounn-mx",
+    "source": "techstars",
     "name": "Lounn MX",
     "description": "Enabling SMEs to find credit offers from more than 25 financial institutions with a single application in minutes.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ec308526155c9daab290f3367.png",
@@ -57,6 +94,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lounn",
       "twitter": "https://twitter.com/LounnMx",
@@ -68,13 +106,12 @@
       "state_province": "Federal District",
       "country": "Mexico"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Mexico",
     "alsoIn": []
   },
   {
     "id": "techstars-mica",
+    "source": "techstars",
     "name": "Mica",
     "description": "Mica solves the biggest pain points for tenants. It allows them to: - Rent the apartment they desire - Have their bill payments automated - Have financial flexibility, reduced move-in costs, and access to an emergency credit (BNPL) - Improve their credit",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/funaien9dubvu7vwabu7",
@@ -95,6 +132,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mica.insurance",
       "twitter": "https://twitter.com/MICA_Insurance",
@@ -106,13 +144,12 @@
       "state_province": "Federal District",
       "country": "Mexico"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Mexico",
     "alsoIn": []
   },
   {
     "id": "techstars-sommos",
+    "source": "techstars",
     "name": "Sommos",
     "description": "Unlocking the financial potential of the unbanked and underbanked in LatAm through the digitization of rotating savings and credits associations (ROSCA).",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ebad6d8414be3a3569431e804.png",
@@ -132,6 +169,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sommos-app1",
       "twitter": "",
@@ -142,13 +180,12 @@
       "city": "Santa Cruz",
       "country": "Bolivia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Bolivia",
     "alsoIn": []
   },
   {
     "id": "techstars-peas-financial",
+    "source": "techstars",
     "name": "Peas Financial",
     "description": "An AI to help couples manage their finances, split expenses, and save together all without ever switching from their bank.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3e5e6d477185c8827b7650dd3.png",
@@ -170,6 +207,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/peas-money",
       "twitter": "",
@@ -181,13 +219,12 @@
       "state_province": "Arkansas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-kura-technologies",
+    "source": "techstars",
     "name": "Kura Technologies",
     "description": "A multi-sided platform providing instant spending for recipients which increases transparency on transactions.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b39766af22b8a05f6c3f62f17.png",
@@ -207,6 +244,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kura-fintech",
       "twitter": "",
@@ -218,49 +256,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-guama",
-    "name": "Guama",
-    "description": "A credit card for LATAM's underbanked population.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_70c64bf0c6e66911f5860b6b3.png",
-    "website": "https://guamacard.com",
-    "location": "Medellin, Colombia",
-    "region": "Americas",
-    "subregion": "South America",
-    "tags": [
-      "Fintech"
-    ],
-    "year": 2024,
-    "program": "Techstars Payments Powered by Stellar and MoneyGram",
-    "programSlugs": [
-      "payments"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/guamacard",
-      "twitter": "https://twitter.com/guamacard",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/guama-e762"
-    },
-    "extra": {
-      "city": "Medellin",
-      "country": "Colombia"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Colombia",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-cash-abroad",
+    "source": "techstars",
     "name": "Cash Abroad",
     "description": "A payments platform for LATAM exporting and importing businesses.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9934eb18a7168737c09ad0569.png",
@@ -282,6 +283,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cashabroad",
       "twitter": "https://twitter.com/CashAbroadApp",
@@ -292,13 +294,12 @@
       "city": "Mexico City",
       "country": "Mexico"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Mexico",
     "alsoIn": []
   },
   {
     "id": "techstars-zimago",
+    "source": "techstars",
     "name": "ZimaGo",
     "description": "For SMBs in underbanked markets, grappling with workplace financial stress and growth challenges, Zimago offers a holistic financial-inclusive platform.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_87af17869471dbb04235d6111.png",
@@ -318,6 +319,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/zimago-cr%C3%A9dito-con-sentido",
       "twitter": "",
@@ -328,13 +330,12 @@
       "city": "Bogotá",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-yativo",
+    "source": "techstars",
     "name": "Yativo",
     "description": "We provide banking infrastructure, wallet as a service and FBO as a service for FinTechs and Marketplaces",
     "logo": "https://apimg.techstars.com/profiles/1733773799305_512799.png",
@@ -356,6 +357,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/yativo",
       "twitter": "https://twitter.com/ZeenahApp",
@@ -366,13 +368,12 @@
       "city": "Santiago",
       "country": "Chile"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Chile",
     "alsoIn": []
   },
   {
     "id": "techstars-loto-punto",
+    "source": "techstars",
     "name": "Loto Punto",
     "description": "Kiosk system for micropayments in banking, retail and government, providing a fast, easy, and inexpensive way for unbanked users to send and receive money",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e0c3dec486f05b17f00a78be3.png",
@@ -393,6 +394,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/victor-espinosa-2237311a",
       "twitter": "https://twitter.com/victuol",
@@ -403,13 +405,12 @@
       "city": "Bogota",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-zumma",
+    "source": "techstars",
     "name": "Zumma",
     "description": "Zumma is a digital platform that connects, teaches, and enables to save and invest for the client's goals.Founded in 2021, the company is based in Mexico.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/fzbtnvnijmzmfoxaq6mz",
@@ -431,6 +432,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tuzumma",
       "twitter": "https://twitter.com/TuZumma",
@@ -442,13 +444,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-uils",
+    "source": "techstars",
     "name": "Uils",
     "description": "We provide loans for mobility apps' drivers using their driving history as credit score.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vytiyv3xzhogclcupvcf",
@@ -471,6 +472,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/uilsla",
       "twitter": "https://twitter.com/somosuils",
@@ -481,13 +483,12 @@
       "city": "Buenos Aires",
       "country": "Argentina"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Argentina",
     "alsoIn": []
   },
   {
     "id": "techstars-osky",
+    "source": "techstars",
     "name": "Osky",
     "description": "Osky is an open-source identity orchestration platform that helps fintechs and banks integrate 100s of identity verification vendors and automate their decisioning process with a single API.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/fo0xr2n23tsqit0rno8i",
@@ -507,6 +508,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/olainvierte",
       "twitter": "https://twitter.com/olainvierte",
@@ -518,13 +520,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-o",
+    "source": "techstars",
     "name": "O",
     "description": "For young adults that have a problem with saving and investing, Oinc enables users to do it effortlessly, by setting up rules that run on autopilot. Thus, finally building wealth and achieving their financial goals.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ae7dbf9666229e01b3f7bfc8b.png",
@@ -546,6 +547,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/useoinc",
       "twitter": "",
@@ -556,13 +558,12 @@
       "city": "Rio de Janeiro",
       "country": "Brazil"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Brazil",
     "alsoIn": []
   },
   {
     "id": "techstars-mox",
+    "source": "techstars",
     "name": "Mox",
     "description": "MOX is the infrastructure that connects financial entities to consumers and their paychecks. We interconnect a variety of HR and ERP systems and provide a universal Payroll API.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ozeyo0xxahhvcyz1enpj",
@@ -583,6 +584,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mox-cash",
       "twitter": "",
@@ -593,8 +595,6 @@
       "city": "Monterrey",
       "country": "Mexico"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Mexico",
     "alsoIn": [
       "plugandplay"
@@ -602,19 +602,17 @@
   },
   {
     "id": "techstars-moneo",
+    "source": "techstars",
     "name": "Moneo",
-    "description": "We deliver digital promotions to in-store consumers and capture their data in a cost-effective & scalable way to help brands drive sales & optimize digital advertising ROI. \n\nWith our cashback rewards platform  millions of people can save money on their everyday spending.",
-    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/jq9kchy0yoy1ymt2cpel",
+    "description": "Moneo enables AI marketing solutions in LatAm to understand & act on real-world shopper data.\n\nWe're building LatAm's AI-native, last-mile consumer data platform, powered by proprietary real-world purchase data.",
+    "logo": "https://www.techstars.com/os/api/photo/profile-photos/company-logos/f42c9882-2d7a-4928-a04c-a263516ff1b5/1793389999015-jwsi21hvdf.png",
     "website": "https://moneo.cash",
-    "location": "Mexico City, Federal District, Mexico",
+    "location": "Mexico City, Mexico City, Mexico",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Adtech",
-      "Big Data",
-      "Fintech",
-      "Marketing tech",
-      "Mobile"
+      "Artificial intelligence and machine learning",
+      "Marketing tech"
     ],
     "year": 2023,
     "program": "Techstars Payments Powered by Stellar and MoneyGram",
@@ -625,6 +623,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/moneo-cash",
       "twitter": "",
@@ -633,16 +632,15 @@
     },
     "extra": {
       "city": "Mexico City",
-      "state_province": "Federal District",
+      "state_province": "Mexico City",
       "country": "Mexico"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Mexico",
     "alsoIn": []
   },
   {
     "id": "techstars-lenme",
+    "source": "techstars",
     "name": "Lenme",
     "description": "Lenme is the first subscription-based, fully automated, peer-to-peer lending platform offering short-term and crypto-backed loans. We serve and connect borrowers with financial institutions, lending businesses, and individuals all via an app.",
     "logo": "https://apimg.techstars.com/profiles/1676569378851_632951.png",
@@ -663,6 +661,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lenmocorp",
       "twitter": "https://twitter.com/lenmeapp",
@@ -674,13 +673,12 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-college-cash",
+    "source": "techstars",
     "name": "College Cash",
     "description": "College Cash uses everyday behavior to reduce student loan debt in a unique manner, including user-generated content campaigns, to engage with brands in a way that allows funds to be earned as early as the first year of high school.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/gt4phi13fou970cq5ld5",
@@ -701,6 +699,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/college-cash",
       "twitter": "",
@@ -712,13 +711,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-banca-me",
+    "source": "techstars",
     "name": "Banca.Me",
     "description": "Banca.Me offers fast, easy, and secure consumer and investment loans. Banca.Me creates modern and easy-to-use financial solutions that can be accessed on a mobile phone.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/uvpslj8nlets2kqb1agp",
@@ -738,6 +736,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/banca-me",
       "twitter": "",
@@ -748,13 +747,12 @@
       "city": "Santiago",
       "country": "Chile"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Chile",
     "alsoIn": []
   },
   {
     "id": "techstars-tumo",
+    "source": "techstars",
     "name": "Tumo",
     "description": "For Latam contractors who struggle to manage their personal finances, Tumo helps them get paid while being tax compliant.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_65c4d3d873953aa3eb736f290.png",
@@ -775,6 +773,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tumoapp",
       "twitter": "",
@@ -786,13 +785,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-pactta",
+    "source": "techstars",
     "name": "Pactta",
     "description": "Remittances and crossborder payments for Latam",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/nszeyohvs8w2iewjbrqk",
@@ -814,6 +812,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pactta",
       "twitter": "",
@@ -824,13 +823,12 @@
       "city": "Chacarita",
       "country": "Argentina"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Argentina",
     "alsoIn": []
   },
   {
     "id": "techstars-bundil",
+    "source": "techstars",
     "name": "Bundil",
     "description": "Easily Invest Your Spare Change Into Cryptocurrency",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/u7mb3ed0raez0qjk8wly",
@@ -852,6 +850,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bundil-app",
       "twitter": "https://twitter.com/bundilapp",
@@ -863,8 +862,6 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   }

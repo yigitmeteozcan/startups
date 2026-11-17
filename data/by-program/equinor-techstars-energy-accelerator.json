@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-twelve",
+    "source": "techstars",
     "name": "Twelve",
     "description": "We are the carbon transformation(tm) company. We make the world's most critical chemicals, materials and fuels from air with our revolutionary carbon transformation(tm) technology.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f45a56574167f2ee6d5c0a8c3.png",
@@ -21,6 +22,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/twelveco2",
       "twitter": "https://twitter.com/twelve_co2",
@@ -32,13 +34,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ampaire",
+    "source": "techstars",
     "name": "Ampaire",
     "description": "Ampaire is making flying accessible to more people by building electric aircraft that are greener, quieter, and less costly to operate.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/600f4ea96a498b00080000b1/original/ampaire.jpg",
@@ -47,8 +48,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Cleantech",
       "Climate tech",
-      "Space tech"
+      "Mobility tech"
     ],
     "year": 2018,
     "program": "Equinor & Techstars Energy Accelerator",
@@ -59,6 +61,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ampaire",
       "twitter": "https://twitter.com/ampaireinc",
@@ -70,13 +73,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-crux-ocm",
+    "source": "techstars",
     "name": "Crux OCM",
     "description": "Crux OCM fully automates control room operations for major oil and gas control rooms. Auto-pilot for control rooms.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5dbf10ed34a60d589900003b/original/Screen_Shot_2019-11-03_at_10.39.42_AM.png",
@@ -86,8 +88,8 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Cleantech",
-      "Climate tech"
+      "Industrials",
+      "Oil and gas"
     ],
     "year": 2018,
     "program": "Equinor & Techstars Energy Accelerator",
@@ -98,6 +100,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/crux-ocm",
       "twitter": "https://twitter.com/CruxOcm",
@@ -109,13 +112,12 @@
       "state_province": "Alberta",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-deepstream-technologies",
+    "source": "techstars",
     "name": "DeepStream Technologies",
     "description": "B2B SaaS Procurement Transaction platform for Industrial Equipment & Services",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b955485c1a4b84da5000023/original/Square_%28For_social_media_profile%29.jpg",
@@ -124,43 +126,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
-      "Artificial intelligence and machine learning"
-    ],
-    "year": 2018,
-    "program": "Equinor & Techstars Energy Accelerator",
-    "programSlugs": [
-      "equinor-energy"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/deepstreamtech",
-      "twitter": "https://twitter.com/DeepstreamT",
-      "facebook": "https://facebook.com/deepstreamsoftware",
-      "crunchbase": "https://crunchbase.com/organization/deepstream-tech"
-    },
-    "extra": {
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United Kingdom",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-voyager-portal",
-    "name": "Voyager Portal",
-    "description": "Voyager is a multi-party collaboration and workflow solution for the bulk shipping industry",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5b82c04bc1a4b85a2d000011/original/Voyager_logoX-Large_WhiteBG2x.png",
-    "website": "https://voyagerportal.com",
-    "location": "Houston, Texas, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
       "Artificial intelligence and machine learning",
+      "SaaS",
       "Supply chain technology"
     ],
     "year": 2018,
@@ -172,6 +139,45 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/deepstreamtech",
+      "twitter": "https://twitter.com/DeepstreamT",
+      "facebook": "https://facebook.com/deepstreamsoftware",
+      "crunchbase": "https://crunchbase.com/organization/deepstream-tech"
+    },
+    "extra": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-voyager-portal",
+    "source": "techstars",
+    "name": "Voyager Portal",
+    "description": "Voyager is a multi-party collaboration and workflow solution for the bulk shipping industry",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5b82c04bc1a4b85a2d000011/original/Voyager_logoX-Large_WhiteBG2x.png",
+    "website": "https://voyagerportal.com",
+    "location": "Houston, Texas, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "SaaS",
+      "Supply chain technology"
+    ],
+    "year": 2018,
+    "program": "Equinor & Techstars Energy Accelerator",
+    "programSlugs": [
+      "equinor-energy"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/voyager-real-estate",
       "twitter": "https://twitter.com/VoyagerPortal",
@@ -183,13 +189,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ecolectro",
+    "source": "techstars",
     "name": "Ecolectro",
     "description": "Reducing the cost of green hydrogen by 33%.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/606dd2cca6bd3800075a897d/original/Screenshot_2021-04-07_at_16.41.51.png",
@@ -200,7 +205,7 @@
     "tags": [
       "Cleantech",
       "Climate tech",
-      "Oil and gas"
+      "Manufacturing"
     ],
     "year": 2021,
     "program": "Equinor & Techstars Energy Accelerator",
@@ -211,6 +216,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ecolectro-inc-",
       "twitter": "https://twitter.com/ecolectroinc",
@@ -222,13 +228,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ratedpower",
+    "source": "techstars",
     "name": "RatedPower",
     "description": "RatedPower developed pvDesign app, a SaaS to accelerate and optimize the design of Solar Photovoltaic plants worldwide.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b95787a34a60d2e5e000045/original/logoRp.png",
@@ -249,6 +254,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/11060588",
       "twitter": "https://twitter.com/rated_power",
@@ -259,13 +265,12 @@
       "city": "Madrid",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
     "alsoIn": []
   },
   {
     "id": "techstars-interface-fluidics",
+    "source": "techstars",
     "name": "Interface Fluidics",
     "description": "Extreme Condition Fluid analysis for Carbon Sequestration, Hydrogen, and Oil and Gas.  We make fluid analyis accessible through our microfluidic technology platform.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b858de4c1a4b871c1000014/original/interface_fludics_2017_col_Verical.png",
@@ -287,6 +292,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/interface-fluidics",
       "twitter": "https://twitter.com/interfacefluids",
@@ -298,13 +304,12 @@
       "state_province": "Alberta",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-enurgen",
+    "source": "techstars",
     "name": "Enurgen",
     "description": "Deep-Tech Software Defining Utility Scale Solar Systems of Tomorrow\r\nCapturing Solar Asset Performance from Cells to Systems",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5c3660233adc0f26a2e5a7b04.png",
@@ -314,7 +319,8 @@
     "subregion": "North America",
     "tags": [
       "Cleantech",
-      "Climate tech"
+      "Climate tech",
+      "SaaS"
     ],
     "year": 2023,
     "program": "Equinor & Techstars Energy Accelerator",
@@ -325,6 +331,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/enurgen",
       "twitter": "https://twitter.com/enurgeninc",
@@ -336,13 +343,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-salient-energy",
+    "source": "techstars",
     "name": "Salient Energy",
     "description": "Cheap, safe, and long lasting zinc ion batteries for energy storage.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e30689aa36c1171ea00001e/original/LOGO_Final_Black_linkedin.jpg",
@@ -363,6 +369,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/salient-energy",
       "twitter": "https://twitter.com/SalientEnergy",
@@ -374,13 +381,12 @@
       "state_province": "Nova Scotia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-dimeq",
+    "source": "techstars",
     "name": "Dimeq",
     "description": "No more lives lost at sea with nextgen IoT",
     "logo": "https://apimg.techstars.com/connect/images/image_files/606dd939c97c0a0007f125f7/original/Screenshot_2021-04-07_at_17.09.03.png",
@@ -404,6 +410,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dimeq",
       "twitter": "",
@@ -414,13 +421,12 @@
       "city": "Kalvåg",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-cnergreen",
+    "source": "techstars",
     "name": "Cnergreen",
     "description": "Enhanced oil recovery and CO2 storage efficiency via resilient nanoparticle-based foam technology",
     "logo": "https://apimg.techstars.com/connect/images/image_files/602b27f4cdf28700073b40da/original/logo.png",
@@ -441,6 +447,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cnergreen",
       "twitter": "",
@@ -452,13 +459,12 @@
       "state_province": "Alberta",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-oe-systems-ab",
+    "source": "techstars",
     "name": "OE Systems AB",
     "description": "A product and service company that delivers our own commercial wave energy solution that focuses on being installed in parallel with offshore wind turbines to enable increased production.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3963ecd1635d268fc78039ddb.png",
@@ -482,6 +488,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/oe-systems-ab",
       "twitter": "",
@@ -492,13 +499,12 @@
       "city": "Göteborg",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-f3nice",
+    "source": "techstars",
     "name": "f3nice",
     "description": "Circular economy for additive manufacturing",
     "logo": "https://apimg.techstars.com/connect/images/image_files/606dd4d3801c6f00087b14bd/original/Screenshot_2021-04-07_at_16.50.08.png",
@@ -520,6 +526,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/f3nice",
       "twitter": "",
@@ -531,13 +538,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-seeo2-energy",
+    "source": "techstars",
     "name": "SeeO2 Energy",
     "description": "Focused on efficiently converting carbon dioxide (CO2) into marketable and clean value-added fuels and chemicals using reversible fuel-cell technology.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e27aabfa36c11304f0000af/original/Picture4.png",
@@ -557,6 +563,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/seeo2-energy",
       "twitter": "https://twitter.com/seeo2e",
@@ -568,13 +575,12 @@
       "state_province": "Alberta",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-surplusmap",
+    "source": "techstars",
     "name": "SurPlusMap",
     "description": "Geospatial analytics to empower decision-makers in the green transition.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/623cba77fe8b4800095876a6/original/logo_square_SurplusMap_282x282.jpeg",
@@ -598,6 +604,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/surplusmap",
       "twitter": "",
@@ -608,13 +615,12 @@
       "city": "Oslo",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-powertrust",
+    "source": "techstars",
     "name": "Powertrust",
     "description": "Help global corporations maximize the impact of their renewable procurement.",
     "logo": "https://apimg.techstars.com/profiles/1657034518408_130760.png",
@@ -624,7 +630,7 @@
     "subregion": "North America",
     "tags": [
       "Cleantech",
-      "Cryptocurrency/Blockchain"
+      "Climate tech"
     ],
     "year": 2022,
     "program": "Equinor & Techstars Energy Accelerator",
@@ -635,6 +641,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/positive-capital-partners",
       "twitter": "",
@@ -646,13 +653,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-korall-engineering",
+    "source": "techstars",
     "name": "Korall Engineering",
     "description": "AI to automate product design workflows and optimize parts for additive manufacturing.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/623cb97e1d115c377746ef71/original/282x282_korall_engineering.png",
@@ -674,6 +680,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/korall-engineering-as",
       "twitter": "",
@@ -684,13 +691,12 @@
       "city": "Bergen",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-electricfish",
+    "source": "techstars",
     "name": "ElectricFish",
     "description": "Distributed energy storage for EV charging, and grid-scale energy backup.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/623cb9c7f01b4e0008ca2840/original/EF_solo_logo_%28purple%29.png",
@@ -711,6 +717,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/electricfish",
       "twitter": "https://twitter.com/electricfishinc",
@@ -722,13 +729,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-computerwell",
+    "source": "techstars",
     "name": "ComputerWell",
     "description": "Delivers a digital twin of the drillstring for operational surveillance.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/623cba50fe8b4800095876a5/original/springhres_282x282.png",
@@ -748,6 +754,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/computerwell",
       "twitter": "",
@@ -758,13 +765,12 @@
       "city": "Jakobsli",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-bioledger",
+    "source": "techstars",
     "name": "Bioledger",
     "description": "IOT SaaS making biofuels compliance easier, safer and more valuable.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/623cbb0dfe8b4800095876a7/original/BioLedger_Logo.jpg",
@@ -786,6 +792,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/77855760",
       "twitter": "",
@@ -796,13 +803,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-vortex-bladeless",
+    "source": "techstars",
     "name": "VORTEX BLADELESS",
     "description": "Harnessing wind energy without blades ; reducing the cost of electricity",
     "logo": "https://apimg.techstars.com/connect/images/image_files/606dd415801c6f00087b14bc/original/Screenshot_2021-04-07_at_16.47.19.png",
@@ -823,6 +829,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/9333952",
       "twitter": "https://twitter.com/vortexbladeless",
@@ -833,13 +840,12 @@
       "city": "Las Rozas de Madrid",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
     "alsoIn": []
   },
   {
     "id": "techstars-sensytec",
+    "source": "techstars",
     "name": "Sensytec",
     "description": "Sensytec builds sensor-driven software that helps construction teams monitor concrete infrastructure health, predict failures, and reduce downtime through real-time analytics and automation.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b82c087c1a4b85a2d000012/original/Sensytec.png",
@@ -861,6 +867,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sensytec",
       "twitter": "https://twitter.com/Sensytec",
@@ -872,13 +879,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-weme",
+    "source": "techstars",
     "name": "WeMe",
     "description": "WeMe improves workplace dynamics by enhancing employee-manager relationships.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4b0b975150c9be528b56c389a.png",
@@ -901,6 +907,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wemefacilitators",
       "twitter": "",
@@ -911,13 +918,12 @@
       "city": "Borgen",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-neomare",
+    "source": "techstars",
     "name": "Neomare",
     "description": "Neomare is a developer of environmental technology platform providing seismic imaging using a containerized modular survey platform.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c2c8ba7eb2877e8c91b2eab68.png",
@@ -940,6 +946,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/neomare-as",
       "twitter": "https://twitter.com/NGeoservices",
@@ -950,13 +957,12 @@
       "city": "Lillestrøm",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-needenergy",
+    "source": "techstars",
     "name": "NeedEnergy",
     "description": "Leverages innovation, data and modern technology relevant with times as its core values are to provide sustainable and clean energy solutions.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2f37d013462a651a930a75a11.png",
@@ -980,6 +986,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/needenergy",
       "twitter": "https://twitter.com/NeedEnergyzw",
@@ -991,13 +998,12 @@
       "state_province": "Victoria",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-liquidstar",
+    "source": "techstars",
     "name": "Liquidstar",
     "description": "Using solar energy to provide electricity, water and internet to the 1B+ without.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6a9c5389095d7d296aa757bbc.png",
@@ -1021,6 +1027,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/liquidstar",
       "twitter": "",
@@ -1032,13 +1039,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-enkiai",
+    "source": "techstars",
     "name": "EnkiAI",
     "description": "Enki is a forward-looking market intelligence platform to accelerate the energy transition. \n\nLarge energy companies use Enki to map emerging tech ecosystems to identify the right partners and minimize the technology risk. \n\nUnlike existing solutions, Enki connects text data like projects, partnerships, and all company activities 1-2 years earlier than any other tools. \n\nThis enables your business to predict new opportunities faster and stay ahead of the market.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_aae6405c7f1d4408c1deedcd5.png",
@@ -1061,6 +1067,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/enkiai",
       "twitter": "https://twitter.com/enkiai",
@@ -1072,13 +1079,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ocean-access",
+    "source": "techstars",
     "name": "Ocean Access",
     "description": "Increased operational autonomy and reliability for remote ocean & subsea monitoring",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6029396d5acaa900078ae90e/original/Square_logo.jpg",
@@ -1099,6 +1105,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/oceanaccess",
       "twitter": "",
@@ -1109,13 +1116,12 @@
       "city": "Trondheim",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-hyperion-global-energy",
+    "source": "techstars",
     "name": "Hyperion Global Energy",
     "description": "Developing modular carbon capture & recycling technology at a breakthrough industrial scale.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/606dd9cc801c6f00087b14bf/original/Screenshot_2021-04-07_at_17.11.27.png",
@@ -1137,6 +1143,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hyperion-global-energy",
       "twitter": "",
@@ -1148,13 +1155,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-geolumina",
+    "source": "techstars",
     "name": "Geolumina",
     "description": "Intuitive AI with geologic insight",
     "logo": "https://apimg.techstars.com/connect/images/image_files/606dd615801c6f00087b14be/original/Screenshot_2021-04-07_at_16.55.44.png",
@@ -1176,6 +1182,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/geolumina",
       "twitter": "",
@@ -1187,13 +1194,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cognittiv",
+    "source": "techstars",
     "name": "Cognittiv",
     "description": "Minimizing human error in industry",
     "logo": "https://apimg.techstars.com/connect/images/image_files/602ae13604a4010008f5cfe7/original/rzx_logo_baixa_qualidade.jpg",
@@ -1215,6 +1221,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rzx-tecnologia",
       "twitter": "",
@@ -1225,13 +1232,12 @@
       "city": "Grand Cayman",
       "country": "Cayman Islands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Cayman Islands",
     "alsoIn": []
   },
   {
     "id": "techstars-ragnarock-geo",
+    "source": "techstars",
     "name": "RagnaRock Geo",
     "description": "For geoscientists exploring for oil, RagnaRock Geo makes software to extract more value from subsurface data",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e25ded534a60d7d7900007a/original/logo_only_blue.png",
@@ -1251,6 +1257,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ragnarock-geo",
       "twitter": "",
@@ -1261,13 +1268,12 @@
       "city": "Trondheim",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-navarra-tech",
+    "source": "techstars",
     "name": "Navarra Tech",
     "description": "A platform proposes solutions that combine the practical with the usual  for traders.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e25fe9034a60d7d79000084/original/Logo_V_Vazado_Preto.jpg",
@@ -1287,6 +1293,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/navarratech",
       "twitter": "",
@@ -1298,13 +1305,12 @@
       "state_province": "Santa Catarina",
       "country": "Brazil"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Brazil",
     "alsoIn": []
   },
   {
     "id": "techstars-fieldmade",
+    "source": "techstars",
     "name": "Fieldmade",
     "description": "Innovate solutions to complex problems based on cutting edge AM technology and software solutions for deployed military use",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/nxb9jj2qkfqnas3ausf0",
@@ -1324,6 +1330,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fieldmade",
       "twitter": "",
@@ -1334,13 +1341,12 @@
       "city": "Oslo",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-vesseladmin",
+    "source": "techstars",
     "name": "Vesseladmin",
     "description": "A fully integrated, digital chartering solution that enables instant, friction-free and automated connections between charterers and vessel owners.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/mujuvr1z1sdcl3aczcah",
@@ -1360,6 +1366,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/vesseladmin-as",
       "twitter": "",
@@ -1370,13 +1377,12 @@
       "city": "Oslo",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-versor",
+    "source": "techstars",
     "name": "Versor",
     "description": "Versor develops software necessary for true autonomous drone flight both indoors and outdoors.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b85903bc1a4b871c1000017/original/versor_logo.png",
@@ -1396,6 +1402,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/versor-as",
       "twitter": "https://twitter.com/versorsocial",
@@ -1406,13 +1413,12 @@
       "city": "Oslo",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-tempus-energy",
+    "source": "techstars",
     "name": "Tempus Energy",
     "description": "By predicting volatility in carbon intensityAllow customers to reduce their energy costs - while simultaneously enhancing their use of renewables.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1464946590/puoxs3p3wcxgihhuvx9f.png",
@@ -1434,6 +1440,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tempus-energy-limited",
       "twitter": "https://twitter.com/tempusenergy",
@@ -1444,13 +1451,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-sol-clarity",
+    "source": "techstars",
     "name": "Sol Clarity",
     "description": "Water-free, Automated and Self-Cleaning Solar Power.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/623cb938f01b4e0008ca283f/original/Sol_Clarity_Logo_Square_282x282.png",
@@ -1473,6 +1479,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sol-clarity",
       "twitter": "",
@@ -1484,13 +1491,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-solavio-labs",
+    "source": "techstars",
     "name": "Solavio Labs",
     "description": "Solavio Labs provides AI-based solutions for autonomous solar panel cleaning with a lightweight, remote-controlled bot.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_80a5b5844a7abc019ace5d436.png",
@@ -1512,6 +1518,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/solavio-labs",
       "twitter": "",
@@ -1521,13 +1528,12 @@
     "extra": {
       "country": "India"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "India",
     "alsoIn": []
   },
   {
     "id": "techstars-seadeep",
+    "source": "techstars",
     "name": "SeaDeep",
     "description": "SeaDeep builds AI to explore underwater environments",
     "logo": "https://apimg.techstars.com/connect/images/image_files/623b90f1fe8b4800095876a1/original/SeaDeep_%281%29.png",
@@ -1549,6 +1555,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/31371435",
       "twitter": "",
@@ -1560,13 +1567,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-norsjor-as",
+    "source": "techstars",
     "name": "Norsjór AS",
     "description": "Norsjor has designed a technology to preserve marine life by using radiation.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d60601ba45f65737718581f58.png",
@@ -1590,6 +1596,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/norsjor-as",
       "twitter": "",
@@ -1600,13 +1607,12 @@
       "city": "Kristiansand",
       "country": "Norway"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Norway",
     "alsoIn": []
   },
   {
     "id": "techstars-gamy",
+    "source": "techstars",
     "name": "GamY",
     "description": "Artificially intelligent battery management systems.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ni3jmj0rpwgjtvordokr",
@@ -1627,6 +1633,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gamyworks",
       "twitter": "",
@@ -1637,8 +1644,6 @@
       "city": "Munich",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   }

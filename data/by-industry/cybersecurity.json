@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-alloy",
+    "source": "techstars",
     "name": "Alloy",
     "description": "Customer data and onboarding API to improve conversion and reduce losses for financial services companies",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_16a6cf2c3646fd2f79f90197b.jpg",
@@ -9,8 +10,10 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Artificial intelligence and machine learning",
       "Cybersecurity",
-      "Fintech"
+      "Fintech",
+      "SaaS"
     ],
     "year": 2015,
     "program": "New York Barclays Accelerator, powered by Techstars",
@@ -19,6 +22,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/alloy-apis",
       "twitter": "https://twitter.com/usealloy",
@@ -30,13 +34,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-synack",
+    "source": "techstars",
     "name": "Synack",
     "description": "Crowdsourced vulnerability discovery",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5961685be5823d9a83d22be15.jpg",
@@ -46,17 +49,19 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Cybersecurity"
+      "Cybersecurity",
+      "SaaS"
     ],
     "year": 2013,
     "program": "Techstars Boston Accelerator",
     "programSlugs": [
       "boston"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/synack-inc-",
       "twitter": "https://twitter.com/synack",
@@ -68,13 +73,49 @@
       "state_province": "California",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-logicgate",
     "source": "techstars",
+    "name": "LogicGate",
+    "description": "Empowering businesses to transform disorganized risk and compliance processes into enterprise-grade applications, without writing a single line of code.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_74586ec60778a635b35f5f228.jpg",
+    "website": "https://logicgate.com",
+    "location": "Chicago, Illinois, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cybersecurity",
+      "SaaS"
+    ],
+    "year": 2016,
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/logic-gate",
+      "twitter": "https://twitter.com/LogicGate",
+      "facebook": "https://facebook.com/LogicGateRiskCloud/",
+      "crunchbase": "https://crunchbase.com/organization/logicgate"
+    },
+    "extra": {
+      "city": "Chicago",
+      "state_province": "Illinois",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dnsfilter",
+    "source": "techstars",
     "name": "DNSFilter",
     "description": "DNSFilter provides industry-leading DNS threat protection and content filtering.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_357a25dff64b0fa92141aabf4.jpg",
@@ -84,7 +125,8 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Cybersecurity"
+      "Cybersecurity",
+      "SaaS"
     ],
     "year": 2018,
     "program": "Techstars Anywhere Accelerator",
@@ -95,6 +137,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dnsfilter",
       "twitter": "https://twitter.com/dnsfilter",
@@ -106,13 +149,91 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-fideo-intelligence",
     "source": "techstars",
+    "name": "Fideo Intelligence",
+    "description": "Cloud based contact management",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_81e07b438f13a78a58106a8c9.jpeg",
+    "website": "https://fideo.ai",
+    "location": "Denver, Colorado, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Cybersecurity",
+      "Fintech"
+    ],
+    "year": 2011,
+    "program": "Techstars Boulder Accelerator",
+    "programSlugs": [
+      "boulder"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/fideointelligence",
+      "twitter": "https://twitter.com/FullContact",
+      "facebook": "https://facebook.com/FullContactAPI",
+      "crunchbase": "https://crunchbase.com/organization/fullcontact"
+    },
+    "extra": {
+      "city": "Denver",
+      "state_province": "Colorado",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-bark",
+    "source": "techstars",
+    "name": "Bark",
+    "description": "Bark uses machine learning to detect and alert parents to issues their children are facing online, such as cyberbullying, sexting, and thoughts of suicide.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a9c02bc3cc408f65bd931af4e.jpg",
+    "website": "https://bark.us",
+    "location": "Richmond Hill, Georgia, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cybersecurity",
+      "Mobile"
+    ],
+    "year": 2016,
+    "program": "Techstars Atlanta powered by Cox Enterprises",
+    "programSlugs": [
+      "atlanta-cox"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/7582462",
+      "twitter": "https://twitter.com/barktechco",
+      "facebook": "https://facebook.com/barktechnologies",
+      "crunchbase": "https://crunchbase.com/organization/bark-technologies"
+    },
+    "extra": {
+      "city": "Richmond Hill",
+      "state_province": "Georgia",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-qusecure",
+    "source": "techstars",
     "name": "QuSecure",
     "description": "Post-Quantum security for critical infrastructure and systems.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d72aa79f6835c2c09865d9ae2.jpg",
@@ -121,8 +242,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Cryptocurrency/Blockchain",
-      "Cybersecurity"
+      "Cybersecurity",
+      "SaaS"
     ],
     "year": 2021,
     "program": "Techstars Starburst Space Accelerator",
@@ -131,6 +252,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/qusecure",
       "twitter": "https://twitter.com/qusecure",
@@ -142,13 +264,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ravelin-technology",
+    "source": "techstars",
     "name": "Ravelin Technology",
     "description": "Ravelin provides fraud detection for the on-demand economy.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_09e4e9760c6c2f4818a3b8b45.png",
@@ -167,6 +288,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ravelin-technology",
       "twitter": "https://twitter.com/ravelinhq",
@@ -177,13 +299,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-mentor-collective",
+    "source": "techstars",
     "name": "Mentor Collective",
     "description": "Shearwater keeps students enrolled and engaged.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b58878634a60d41540000d5/original/MC_photo_white_background_%28non-transparent.png",
@@ -206,6 +327,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/3353745",
       "twitter": "https://twitter.com/shearwaterintl",
@@ -217,13 +339,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-skopenow",
+    "source": "techstars",
     "name": "Skopenow",
     "description": "Skopenow is a people search engine for discovering fraud and evaluating risk.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57d05b4ba93e9f961100001c/original/Skope_Eye_With_Text_Full_No_Text__BG.png",
@@ -234,9 +355,7 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Cybersecurity",
-      "Fintech",
-      "Insurtech",
-      "Mobile"
+      "Insurtech"
     ],
     "year": 2016,
     "program": "Techstars New York City Accelerator",
@@ -247,6 +366,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/skopenow",
       "twitter": "https://twitter.com/Skopenow",
@@ -258,13 +378,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-learnplatform",
+    "source": "techstars",
     "name": "LearnPlatform",
     "description": "The Complete EdTech Management Platform",
     "logo": "https://apimg.techstars.com/connect/images/image_files/585437ffbbe36fa10e00000b/original/Lea(R)n_2logo.png",
@@ -284,6 +403,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lea-r-n",
       "twitter": "https://twitter.com/LearnPlatformUS",
@@ -295,13 +415,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-heights-labs",
+    "source": "techstars",
     "name": "Heights Labs",
     "description": "The only compliance and investigations platform for following the money at scale to eliminate global financial crime.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f0896ce34a60d01670000ac/original/Heights_Labs_white_background.png",
@@ -310,9 +429,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Artificial intelligence and machine learning",
       "Cybersecurity",
-      "Fintech",
-      "Infrastructure"
+      "Fintech"
     ],
     "year": 2020,
     "program": "Techstars & Western Union Accelerator",
@@ -321,6 +440,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/heightslabs",
       "twitter": "https://twitter.com/HeightsLabs",
@@ -332,13 +452,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rangeforce",
+    "source": "techstars",
     "name": "RangeForce",
     "description": "Cloud-based platform for developing and executing live, hands-on, cybersecurity training on real networks",
     "logo": "https://apimg.techstars.com/connect/images/image_files/611b64e89122ed0007e976b0/original/rangeforce_square.png",
@@ -356,6 +475,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rangeforce",
       "twitter": "https://twitter.com/RangeForce",
@@ -367,13 +487,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-threat-stack",
+    "source": "techstars",
     "name": "Threat Stack",
     "description": "Incident response in the cloud",
     "logo": "https://apimg.techstars.com/connect/images/image_files/535f/f5cb/0444/0a17/5200/0006/original/threat-stack1.jpg",
@@ -392,6 +511,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/threat-stack-inc",
       "twitter": "https://twitter.com/threatstack",
@@ -403,89 +523,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-simudyne",
-    "name": "Simudyne",
-    "description": "Artificially Intelligent Simulations for Financial Institutions.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/600f432c608740000900009d/original/simudyne.png",
-    "website": "https://simudyne.com",
-    "location": "London, United Kingdom",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Big Data",
-      "Cybersecurity",
-      "Fintech"
-    ],
-    "year": 2017,
-    "program": "London Barclays Accelerator, powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/simudyne",
-      "twitter": "https://twitter.com/Simudyne",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/simudyne"
-    },
-    "extra": {
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United Kingdom",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-transcrypts",
-    "name": "TransCrypts",
-    "description": "TransCrypts is a tool for Human Resource Departments to automate the issuance of employment and income verification documents using the blockchain.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/62366b5d1d115c0008c62b9b/original/TransCrypts_Full_Logo.png",
-    "website": "https://transcrypts.com",
-    "location": "Newark, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Big Data",
-      "Cybersecurity",
-      "Fintech",
-      "HRtech"
-    ],
-    "year": 2022,
-    "program": "Filecoin Techstars Accelerator",
-    "programSlugs": [
-      "filecoin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/transcrypts",
-      "twitter": "https://twitter.com/transcrypts_",
-      "facebook": "https://facebook.com/transcrypts/",
-      "crunchbase": "https://crunchbase.com/organization/transcrypts"
-    },
-    "extra": {
-      "city": "Newark",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-post-quantum",
+    "source": "techstars",
     "name": "Post-Quantum",
     "description": "Post-Quantum is a UK-based company specialising in secure communications, authentication, encryption and blockchain. The company offers a modular cyber security toolkit to the financial services, government, and other critical sectors.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55815307883a9c8e1f000002/original/Screen_Shot_2015-06-17_at_11.58.47.png",
@@ -494,7 +537,6 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
-      "Cryptocurrency/Blockchain",
       "Cybersecurity",
       "Infrastructure"
     ],
@@ -505,6 +547,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/post-quantum",
       "twitter": "https://twitter.com/PQChatApp",
@@ -515,13 +558,52 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
+    "id": "techstars-cinchy",
+    "source": "techstars",
+    "name": "Cinchy",
+    "description": "The first Data Collaboration platform built for the enterprise.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5d63009c34a60d049900006d/original/cinchy_logo_purple_square_zoomed_in.png",
+    "website": "https://cinchy.com",
+    "location": "Toronto, Ontario, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Cybersecurity",
+      "SaaS"
+    ],
+    "year": 2018,
+    "program": "Techstars Toronto Accelerator",
+    "programSlugs": [
+      "toronto"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/cinchy",
+      "twitter": "https://twitter.com/itscinchy",
+      "facebook": "https://facebook.com/itscinchy",
+      "crunchbase": "https://crunchbase.com/organization/cinchy"
+    },
+    "extra": {
+      "city": "Toronto",
+      "state_province": "Ontario",
+      "country": "Canada"
+    },
+    "country": "Canada",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-dfns",
+    "source": "techstars",
     "name": "Dfns",
     "description": "Wallet-as-a-service platform to streamline digital asset operations and onboard users into crypto, safely.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c23d1536c99d4d1dcfe381d1a.png",
@@ -543,6 +625,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dfnshq",
       "twitter": "https://twitter.com/dfnshq",
@@ -553,13 +636,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-voatz",
+    "source": "techstars",
     "name": "Voatz",
     "description": "Voatz is a mobile election voting platform, secured via smart biometrics, real time ID verification and the blockchain for irrefutability.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/586d6bec8083207b96000031/original/Voatz_logo2_for_AMZN_.png",
@@ -570,7 +652,6 @@
     "tags": [
       "Cryptocurrency/Blockchain",
       "Cybersecurity",
-      "Fintech",
       "Mobile"
     ],
     "year": 2017,
@@ -582,6 +663,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/voatz",
       "twitter": "https://twitter.com/Voatz",
@@ -593,13 +675,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cubbit",
+    "source": "techstars",
     "name": "Cubbit",
     "description": "Cubbit is the first distributed data-center that recycles the unused Internet recourses of users and transforms them into web services",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c90d66b34a60d19f600005a/original/Logo__282.png",
@@ -608,9 +689,10 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "tags": [
+      "Cloudtech and DevOps",
       "Cybersecurity",
       "Infrastructure",
-      "Internet of Things"
+      "SaaS"
     ],
     "year": 2018,
     "program": "Barclays Accelerator, Powered by Techstars - Tel Aviv",
@@ -619,6 +701,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cubbit",
       "twitter": "https://twitter.com/_cubbit",
@@ -629,122 +712,12 @@
       "city": "Bologna",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
-    "id": "techstars-peakmetrics",
-    "name": "PeakMetrics",
-    "description": "By analyzing media across social, online news and broadcast, we spot trends to identify what people care about.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5e3225f1a36c1171ea000074/original/512logo.png",
-    "website": "https://peakmetrics.com",
-    "location": "Los Angeles, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cybersecurity",
-      "Fintech"
-    ],
-    "year": 2020,
-    "program": "Air Force Accelerator Powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/peakmetricsapp",
-      "twitter": "https://twitter.com/peakmetricsapp",
-      "facebook": "https://facebook.com/peakmetricsapp/",
-      "crunchbase": "https://crunchbase.com/organization/civicfeed#section-overview"
-    },
-    "extra": {
-      "city": "Los Angeles",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-safehouse-technologies",
-    "name": "SafeHouse Technologies",
-    "description": "Digital safety for real people online",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5b0c00eea36c1104dc000043/original/High_Res_Logo.png",
-    "website": "https://safehousetech.com",
-    "location": "Tel Aviv, Israel",
-    "region": "Middle East",
-    "subregion": "Middle East",
-    "tags": [
-      "Cybersecurity",
-      "Mobile"
-    ],
-    "year": 2018,
-    "program": "Barclays Accelerator, Powered by Techstars - Tel Aviv",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/safehousetech",
-      "twitter": "https://twitter.com/SafeHouseTech",
-      "facebook": "https://facebook.com/safehousetech/",
-      "crunchbase": "https://crunchbase.com/organization/safehouse-ffed#section-overview"
-    },
-    "extra": {
-      "city": "Tel Aviv",
-      "country": "Israel"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Israel",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-urbanfox",
-    "name": "UrbanFox",
-    "description": "UrbanFox is a fraud detection and prevention technology for payment processors and online merchants. It analyses behavioral patterns to protect against fraud.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5c7e80d934a60d16f3000007/original/UrbanFox_LOGO.jpg",
-    "website": "https://urbanfox.io",
-    "location": "Dublin, Dublin, Ireland",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cybersecurity",
-      "Mobile"
-    ],
-    "year": 2019,
-    "program": "London Barclays Accelerator, powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/urbanfox",
-      "twitter": "https://twitter.com/urbanfoxtweets",
-      "facebook": "https://facebook.com/urbanfox-497515443595899",
-      "crunchbase": "https://crunchbase.com/organization/urbanfox"
-    },
-    "extra": {
-      "city": "Dublin",
-      "state_province": "Dublin",
-      "country": "Ireland"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Ireland",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-trojai",
+    "source": "techstars",
     "name": "TrojAI",
     "description": "Robustness and security for AI.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/611d06bc8bc82c00078a37e0/original/mark4.png",
@@ -767,6 +740,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/trojai",
       "twitter": "https://twitter.com/TrojAISec",
@@ -778,13 +752,126 @@
       "state_province": "New Brunswick",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
+    "id": "techstars-peakmetrics",
+    "source": "techstars",
+    "name": "PeakMetrics",
+    "description": "By analyzing media across social, online news and broadcast, we spot trends to identify what people care about.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5e3225f1a36c1171ea000074/original/512logo.png",
+    "website": "https://peakmetrics.com",
+    "location": "Los Angeles, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Cybersecurity",
+      "Marketing tech"
+    ],
+    "year": 2020,
+    "program": "Air Force Accelerator Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/peakmetricsapp",
+      "twitter": "https://twitter.com/peakmetricsapp",
+      "facebook": "https://facebook.com/peakmetricsapp/",
+      "crunchbase": "https://crunchbase.com/organization/civicfeed#section-overview"
+    },
+    "extra": {
+      "city": "Los Angeles",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-urbanfox",
+    "source": "techstars",
+    "name": "UrbanFox",
+    "description": "UrbanFox is a fraud detection and prevention technology for payment processors and online merchants. It analyses behavioral patterns to protect against fraud.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5c7e80d934a60d16f3000007/original/UrbanFox_LOGO.jpg",
+    "website": "https://urbanfox.io",
+    "location": "Dublin, Dublin, Ireland",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cybersecurity",
+      "Fintech"
+    ],
+    "year": 2019,
+    "program": "London Barclays Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/urbanfox",
+      "twitter": "https://twitter.com/urbanfoxtweets",
+      "facebook": "https://facebook.com/urbanfox-497515443595899",
+      "crunchbase": "https://crunchbase.com/organization/urbanfox"
+    },
+    "extra": {
+      "city": "Dublin",
+      "state_province": "Dublin",
+      "country": "Ireland"
+    },
+    "country": "Ireland",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-valid-it",
+    "source": "techstars",
+    "name": "Valid.it",
+    "description": "We are developing a technology that will allow you to perform a polygraph-like fraud detection test using only your smartphone.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/62c748d3b31d233f83ac915e/original/valid.it.jpeg",
+    "website": "https://validit.ai",
+    "location": "Tel Aviv, Israel",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cybersecurity",
+      "Fintech",
+      "SaaS"
+    ],
+    "year": 2022,
+    "program": "Techstars Tel Aviv Accelerator",
+    "programSlugs": [
+      "tel-aviv"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/in/yossi-p-50a5baab",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/valid-it"
+    },
+    "extra": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "country": "Israel",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-typingdna",
+    "source": "techstars",
     "name": "TypingDNA",
     "description": "TypingDNA provides typing biometrics authentication as a service, enabling companies recognize people by the way they type.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a64ee82c9aec709d1000004/original/24899979_1967873830143554_2398140738098995553_n.png",
@@ -794,9 +881,7 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Cybersecurity",
-      "Fintech",
-      "Infrastructure"
+      "Cybersecurity"
     ],
     "year": 2018,
     "program": "Techstars New York City Accelerator",
@@ -807,6 +892,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/typingdna",
       "twitter": "https://twitter.com/typingdna",
@@ -818,13 +904,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-kriptos",
+    "source": "techstars",
     "name": "Kriptos",
     "description": "Kriptos is a software that classifies & labels companies information using AI obtaining the probability of data loss, improving security policies and more!",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f1616c7a36c111b22000031/original/Untitled-1.jpg",
@@ -835,7 +920,7 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Cybersecurity",
-      "Infrastructure"
+      "SaaS"
     ],
     "year": 2018,
     "program": "Barclays Accelerator, Powered by Techstars - Tel Aviv",
@@ -844,6 +929,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kriptos",
       "twitter": "https://twitter.com/KriptosCorp",
@@ -855,13 +941,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-vanilla-forums",
+    "source": "techstars",
     "name": "Vanilla Forums",
     "description": "Community forums reinvented",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5359/5f3b/a9f4/89a6/2900/0007/original/vanilla_forums.jpg",
@@ -882,6 +967,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/vanilla-forums-inc",
       "twitter": "https://twitter.com/vanilla",
@@ -893,13 +979,12 @@
       "state_province": "Quebec",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-alyne",
+    "source": "techstars",
     "name": "Alyne",
     "description": "Manage operational risk and technology compliance in one smart solution.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58823d5ec9aec72a6900001e/original/alyne_logo_square_color_500.png",
@@ -918,6 +1003,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/alyne",
       "twitter": "https://twitter.com/alyne",
@@ -928,128 +1014,12 @@
       "city": "Munich",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
-    "id": "techstars-heex-technologies",
-    "name": "Heex Technologies",
-    "description": "A cloud-based collaboration software tool focusing on Smart Data management in autonomous driving.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c4e563ae60b910bf2f669144e.png",
-    "website": "https://heex.io",
-    "location": "Paris, France",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cleantech",
-      "Cryptocurrency/Blockchain",
-      "Cybersecurity",
-      "Internet of Things",
-      "Lifestyles of Health and Sustainability and wellness"
-    ],
-    "year": 2021,
-    "program": "Techstars Tel Aviv Accelerator",
-    "programSlugs": [
-      "tel-aviv"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/heex-technologies",
-      "twitter": "https://twitter.com/heex_io",
-      "facebook": "https://facebook.com/heex.io/",
-      "crunchbase": "https://crunchbase.com/organization/heex-technologies"
-    },
-    "extra": {
-      "city": "Paris",
-      "country": "France"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "France",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-xairos",
-    "name": "Xairos",
-    "description": "Global timing service to replace timing from GPS",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/60bc6fe081a68a0007f24613/original/XairosLogo283x283.png",
-    "website": "https://xairos.com",
-    "location": "Lone Tree, Colorado, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Cybersecurity"
-    ],
-    "year": 2021,
-    "program": "Techstars Starburst Space Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/xairos",
-      "twitter": "https://twitter.com/xairos2",
-      "facebook": "https://facebook.com/xairosfacebook",
-      "crunchbase": "https://crunchbase.com/organization/speqtral-quantum-technologies"
-    },
-    "extra": {
-      "city": "Lone Tree",
-      "state_province": "Colorado",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-assetvault",
-    "name": "AssetVault",
-    "description": "Catalogue, protect and manage your physical and digital assets",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/57d57ddbbbe36f93e900003a/original/AssetVault2.png",
-    "website": "https://asset-vault.com",
-    "location": "London, United Kingdom",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Cybersecurity",
-      "Fintech",
-      "Insurtech",
-      "Mobile"
-    ],
-    "year": 2016,
-    "program": "Techstars London Accelerator",
-    "programSlugs": [
-      "london"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/assetvault",
-      "twitter": "https://twitter.com/assetvaultco",
-      "facebook": "https://facebook.com/AssetVault-161384937774396/",
-      "crunchbase": "https://crunchbase.com/organization/assetvault"
-    },
-    "extra": {
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United Kingdom",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-processbolt",
+    "source": "techstars",
     "name": "ProcessBolt",
     "description": "ProcessBolt is a vendor risk management platform that helps enterprises and their vendors.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d812e85a36c1112b3000007/original/profile_picture_symbol_trim_282x282.png",
@@ -1058,7 +1028,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Cybersecurity"
+      "Cybersecurity",
+      "SaaS"
     ],
     "year": 2018,
     "program": "Techstars Retail Accelerator, in partnership with Target",
@@ -1067,6 +1038,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/11273834",
       "twitter": "https://twitter.com/ProcessBolt",
@@ -1078,13 +1050,12 @@
       "state_province": "Minnesota",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-wib",
+    "source": "techstars",
     "name": "Wib",
     "description": "Based on a new scientific model, Wenspire is the first to introduce a disruptive secure-by-design solution to protect, insure and safely share data with 3rd parties.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_80aed24fa5f605ac48a6f0683.jpeg",
@@ -1102,6 +1073,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wibsecurity",
       "twitter": "",
@@ -1112,13 +1084,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-carbide",
+    "source": "techstars",
     "name": "Carbide",
     "description": "Securicy is a SaaS that enables businesses to design, implement, manage and report on their Information Security and Privacy Compliance Strategy.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a65f7889c66a9091a000001/original/logo-vertical.png",
@@ -1128,7 +1099,7 @@
     "subregion": "North America",
     "tags": [
       "Cybersecurity",
-      "Infrastructure"
+      "SaaS"
     ],
     "year": 2018,
     "program": "Techstars Boston Accelerator",
@@ -1139,6 +1110,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/carbidesecure",
       "twitter": "https://twitter.com/securicyapp",
@@ -1150,13 +1122,12 @@
       "state_province": "Nova Scotia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-trudenty",
+    "source": "techstars",
     "name": "Trudenty",
     "description": "Infrastructure for decentralized digital identity",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/rxyral4cb9lfp6scw8bq",
@@ -1178,6 +1149,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/trudenty",
       "twitter": "https://twitter.com/trudenty",
@@ -1188,8 +1160,6 @@
       "city": "Antwerpen",
       "country": "Belgium"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Belgium",
     "alsoIn": [
       "plugandplay"
@@ -1197,6 +1167,7 @@
   },
   {
     "id": "techstars-periphery",
+    "source": "techstars",
     "name": "Periphery",
     "description": "Embedded AI threat management for critical industrial and enterprise IoT technologies.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_94a2e61ada551a6e0ac1e7d2f.png",
@@ -1206,7 +1177,6 @@
     "subregion": "Western Europe",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Cloudtech and DevOps",
       "Cybersecurity",
       "Infrastructure",
       "Internet of Things"
@@ -1220,6 +1190,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/peripherysecurity",
       "twitter": "",
@@ -1230,13 +1201,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-hacware",
+    "source": "techstars",
     "name": "Hacware",
     "description": "Hacware is an A.I. driven Email Security Awareness product that prevents your company email from getting hacked.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d3217e6a36c117dd8000313/original/hacwarelogo_400x400.png",
@@ -1247,7 +1217,7 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Cybersecurity",
-      "Infrastructure"
+      "SaaS"
     ],
     "year": 2019,
     "program": "Techstars New York City Accelerator",
@@ -1258,6 +1228,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hacware",
       "twitter": "https://twitter.com/Hacware1",
@@ -1269,13 +1240,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-siemonster",
+    "source": "techstars",
     "name": "SIEMonster",
     "description": "SIEMonster provides cost effective Security Information and Event Management (SIEM) SaaS or onsite solutions for all sized companies to detect cyber threats.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/600f3b796087400009000096/original/siemonster.png",
@@ -1285,8 +1255,7 @@
     "subregion": "North America",
     "tags": [
       "Cybersecurity",
-      "Infrastructure",
-      "Internet of Things"
+      "SaaS"
     ],
     "year": 2018,
     "program": "Techstars New York City Accelerator",
@@ -1297,6 +1266,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/siemonster",
       "twitter": "https://twitter.com/_SIEMonster",
@@ -1308,13 +1278,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-doctrackr",
+    "source": "techstars",
     "name": "docTrackr",
     "description": "Document management and security",
     "logo": "https://apimg.techstars.com/connect/images/image_files/553e909f883a9c1f34000003/original/doctrackr.png",
@@ -1334,6 +1303,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/1802229",
       "twitter": "",
@@ -1345,13 +1315,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-haekka",
+    "source": "techstars",
     "name": "Haekka",
     "description": "After selling their last cybersecurity startup, Ryan and Travis are developing a headless security awareness platform, embedding content into Slack + other apps",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ff3947ab9541a608700001c/original/HKA--fav-256.png",
@@ -1371,6 +1340,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dayzeroapp",
       "twitter": "https://twitter.com/haekkatraining",
@@ -1382,13 +1352,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ironcore-labs",
+    "source": "techstars",
     "name": "IronCore Labs",
     "description": "Turnkey Encryption for Customer Controlled Data",
     "logo": "https://apimg.techstars.com/connect/images/image_files/587d7edc9c66a96d3d000002/original/ironcore-logo-maze-256w.png",
@@ -1408,6 +1377,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ironcore-labs",
       "twitter": "https://twitter.com/ironcorelabs",
@@ -1419,13 +1389,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-kidas",
+    "source": "techstars",
     "name": "Kidas",
     "description": "Kidas is an AI-based technology that connects to any game console and helps parents protect their children from cyberbullying and online predation by analyzing voice and text conversations in real-time.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f501adaa36c11609e00006d/original/Final_logo.png",
@@ -1446,6 +1415,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kidas",
       "twitter": "https://twitter.com/kidasnet",
@@ -1457,13 +1427,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-transmute",
+    "source": "techstars",
     "name": "Transmute",
     "description": "The trusted data exchange platform for global trade",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b917ee2a36c116989000036/original/1-Mark-Dark_%281%29.png",
@@ -1491,6 +1460,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/11186222",
       "twitter": "https://twitter.com/TransmuteNews",
@@ -1502,13 +1472,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dapple-security",
+    "source": "techstars",
     "name": "Dapple Security",
     "description": "For companies who are experiencing the pain and cost of passwords, Dapple Security provides the first passwordless login that is truly phishing-resistant and purpose-built for enterprises.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_68064ec2100c0f23fc0cebdf4.png",
@@ -1529,6 +1498,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dapple-security",
       "twitter": "",
@@ -1540,13 +1510,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cyberowl",
+    "source": "techstars",
     "name": "CyberOwl",
     "description": "CyberOwl provides visibility of cyber risk so maritime operators can manage them in a prioritised, cost-effective way.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e3f8b4334a60d79930008d4/original/Capture1.PNG",
@@ -1566,6 +1535,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cyberowl",
       "twitter": "https://twitter.com/CyberOwl",
@@ -1576,13 +1546,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-ankra-ab",
+    "source": "techstars",
     "name": "Ankra AB",
     "description": "End-to-end developer platform",
     "logo": "https://apimg.techstars.com/connect/images/image_files/632da3bcec241b00164cf202/original/Ankra_%282%29_%281%29.png",
@@ -1602,6 +1571,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ankra",
       "twitter": "",
@@ -1612,13 +1582,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-greathorn",
+    "source": "techstars",
     "name": "GreatHorn",
     "description": "GreatHorn is a cloud security platform that helps detect and prevent spear phishing and credential theft attacks in realtime",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5936fb7ac9aec7465d000001/original/Owl_Solo_Medium_Square.png",
@@ -1640,6 +1609,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/9335863",
       "twitter": "https://twitter.com/greathorn",
@@ -1651,13 +1621,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-trillbit",
+    "source": "techstars",
     "name": "Trillbit",
     "description": "Proximity Intelligence by Sound",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d1554da34a60d202d00009a/original/Trillbit_Latest_Logo.png",
@@ -1676,6 +1645,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/13223043",
       "twitter": "https://twitter.com/Trill_bit",
@@ -1687,13 +1657,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ob2-ai",
+    "source": "techstars",
     "name": "OB2 AI",
     "description": "OB2.AI, founded by former Cisco FedRAMP security engineers, provides OpsBeacon XSIAM, an extended security intelligence and automation management platform that gives businesses clear visibility and control over their IT infrastructure. Using AI and automation, it quickly analyzes large amounts of data from servers, devices, and networks and responds to cyber threats in seconds.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4995c4b189f608e92afacadb7.png",
@@ -1713,6 +1682,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ob2ai",
       "twitter": "https://twitter.com/opsbeacon",
@@ -1724,13 +1694,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-pramatra-space",
+    "source": "techstars",
     "name": "Pramatra Space",
     "description": "Pramatra Space is a quantum technology venture on a mission to make enterprises quantum resilient. We are building satellites to distribute quantum keys to enterprises using quantum entanglement. Our hardware systems and software platforms will offer solutions to clients to help protect and shield their data and digital assets. \n\nPramatra Space is on the mission to prepare the world for Q-Day!",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a5df21342a152688c5e970e3d.png",
@@ -1752,6 +1721,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pramatra-space",
       "twitter": "",
@@ -1763,13 +1733,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-alpin",
+    "source": "techstars",
     "name": "Alpin",
     "description": "Alpin cuts subscription costs by up to 30% and saves time on SaaS monitoring and management.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5fd80be549b4e0000800002d/original/alpin_logo_copy.png",
@@ -1789,6 +1758,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/alpin-limited-masdar-city",
       "twitter": "https://twitter.com/Alpin__io",
@@ -1800,13 +1770,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-parsimoni",
+    "source": "techstars",
     "name": "Parsimoni",
     "description": "Parsimoni has developed SpaceOS (unikernel architecture; secure by design) that unlocks value by making satellite in-orbit compute resources shareable; with full payload isolation, ultra-compact footprint, and dynamic in-orbit application deployment.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3fe9f6fec7bfc128ebc1c094f.png",
@@ -1829,24 +1798,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/parsimoni",
       "twitter": "",
       "facebook": "",
-      "crunchbase": ""
+      "crunchbase": "https://crunchbase.com/organization/parsimoni"
     },
     "extra": {
       "city": "Pau",
       "state_province": "Nouvelle-Aquitaine",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-threatcare",
+    "source": "techstars",
     "name": "Threatcare",
     "description": "Threatcare is a 100% cloud-based network intrusion simulation platform.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58ee3cfac9aec76810000003/original/threatcare-icon-500x500.png",
@@ -1867,6 +1836,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/16260089",
       "twitter": "https://twitter.com/threatcare",
@@ -1878,13 +1848,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-systellar-space",
+    "source": "techstars",
     "name": "Systellar Space",
     "description": "Systellar is enabling Vibe Engineering for complex physical systems. Just like vibe coding lets anyone create software with AI, our platform lets engineers design satellites, aircraft, and other complex machines without needing deep expertise in every dis",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c09a68536bfd9c90c4ff1d89e.png",
@@ -1906,6 +1875,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/systellar-space",
       "twitter": "",
@@ -1917,13 +1887,12 @@
       "state_province": "Catalonia",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
     "alsoIn": []
   },
   {
     "id": "techstars-notch",
+    "source": "techstars",
     "name": "Notch",
     "description": "Changing the wireless world using a platform technology called RF metasurfaces",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a4e59549c66a91f3700008c/original/Notch_techstarslogo.png",
@@ -1944,6 +1913,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/notch-technologies",
       "twitter": "https://twitter.com/notchtechnology",
@@ -1955,13 +1925,130 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-defendlab",
     "source": "techstars",
+    "name": "DefendLab",
+    "description": "AI Security Engineer: Evidence Over Alerts\n--\nDefendLab is an Agentic analysis platform that uncovers business logic flaws and proves every exploit at runtime.",
+    "logo": "https://www.techstars.com/os/api/photo/profile-photos/company-logos/0547f1c5-793c-42b6-8e71-ee992f502294/1792509526935-343tg20lh0x.png",
+    "website": "https://defendlab.com",
+    "location": "San Francisco, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cybersecurity"
+    ],
+    "year": 2026,
+    "program": "Techstars New York City Accelerator",
+    "programSlugs": [
+      "nyc"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "San Francisco",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-cloudpeek-ai",
+    "source": "techstars",
+    "name": "CloudPeek AI",
+    "description": "Agentic AI cybersecurity platform that orchestrates and automates security workflows across fragmented tools, data, and organizational context.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ad29d27f0878d3d104fcfcb19.png",
+    "website": "https://cloudpeek.io",
+    "location": "Bristol, England, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cloudtech and DevOps",
+      "Cybersecurity",
+      "Industrials",
+      "SaaS"
+    ],
+    "year": 2026,
+    "program": "Techstars New York City Accelerator",
+    "programSlugs": [
+      "nyc"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/cloudpeek",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Bristol",
+      "state_province": "England",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-tessera-defense-systems",
+    "source": "techstars",
+    "name": "Tessera Defense Systems",
+    "description": "Building zero-trust identity infrastructure that keeps people, machines, and commands verifiable through jamming, outages, and isolation.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e457adbf0b79056fd7a4cdbc3.png",
+    "website": "https://tesseradefense.com",
+    "location": "Roanoke, Virginia, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cybersecurity",
+      "Internet of Things",
+      "SaaS",
+      "Space tech"
+    ],
+    "year": 2026,
+    "program": "Techstars Space Accelerator",
+    "programSlugs": [
+      "space"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/tessera-defense-systems",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Roanoke",
+      "state_province": "Virginia",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-healthkeri",
+    "source": "techstars",
     "name": "healthKERI",
     "description": "healthKERI secures healthcare data exchange against both current and future threats, including AI and quantum computing. ",
     "logo": "https://apimg.techstars.com/profiles/1755820839282_592034.png",
@@ -1983,6 +2070,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/healthkeri",
       "twitter": "",
@@ -1994,13 +2082,12 @@
       "state_province": "Utah",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-trustbytes",
+    "source": "techstars",
     "name": "TRUSTBYTES",
     "description": "TRUSTBYTES creates the world's first security operations system allowing projects to see, understand and act on their risk posture with confidence.",
     "logo": "https://apimg.techstars.com/profiles/1742312182047_975144.png",
@@ -2022,6 +2109,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/trustbytes",
       "twitter": "https://twitter.com/TRUSTBYTES_X",
@@ -2033,16 +2121,15 @@
       "state_province": "Mazovia",
       "country": "Poland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Poland",
     "alsoIn": []
   },
   {
     "id": "techstars-nera-systems",
+    "source": "techstars",
     "name": "Nera Systems",
     "description": "Nera Systems specializes in privacy-preserving technologies for AI and Machine Learning. The company develops innovative tools using Privacy Enhancing Technologies (PETs) and SW/HW co-design to protect sensitive data throughout the AI/ML lifecycle. By offering scalable, privacy-first solutions, Nera Systems enables organizations to leverage the power of AI while ensuring the highest standards of data privacy and security, empowering safe and responsible innovation.",
-    "logo": "https://apimg.techstars.com/profiles/1743777853920_682685.png",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c092426db77d159493470c8b0.png",
     "website": "https://nera.systems",
     "location": "Burlingame, California, United States",
     "region": "Americas",
@@ -2061,6 +2148,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nera-systems",
       "twitter": "https://twitter.com/NeraSystems",
@@ -2072,13 +2160,95 @@
       "state_province": "California",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-basecomp-ai",
     "source": "techstars",
+    "name": "BaseComp AI",
+    "description": "BaseComp AI continuously validates your infrastructure against business obligations you've committed to.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d63122fc0bd03bbe92bd4fffd.jpg",
+    "website": "https://basecomp.ai",
+    "location": "Cambridge, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cybersecurity",
+      "Fintech",
+      "Infrastructure",
+      "Real estate tech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Cambridge",
+      "state_province": "Massachusetts",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-nukleas",
+    "source": "techstars",
+    "name": "Nukleas",
+    "description": "Operational Infrastructure for Government Contractors",
+    "logo": "https://www.techstars.com/os/api/photo/profile-photos/company-logos/e60e4f43-5910-4244-b3a1-c3010b24cce2/1789747172392-hyv5nug0l5q.png",
+    "website": "https://nukleas.com",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cybersecurity",
+      "HRtech",
+      "Industrials",
+      "Infrastructure",
+      "SaaS",
+      "Space tech",
+      "Supply chain technology"
+    ],
+    "year": 2026,
+    "program": "Techstars Anywhere Accelerator",
+    "programSlugs": [
+      "anywhere"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/nukleas",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fibrx",
+    "source": "techstars",
     "name": "FibrX",
     "description": "FibrX is a venture-backed company that offers a unique, patented Platform-as-a-Service (PaaS) solution and is at the forefront of a paradigm shift in structural health monitoring (SHM) by harnessing the combined power of fiber optics, cloud computing, and",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a8bdb47c9295edcd9143e3f5c.png",
@@ -2102,6 +2272,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fibrxtechnology",
       "twitter": "",
@@ -2113,13 +2284,12 @@
       "state_province": "Nevada",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cyber-driveware",
+    "source": "techstars",
     "name": "Cyber DriveWare",
     "description": "Cyber DriveWare protects organizations against cyber attacks, which they are vulnerable to, and other solution can't detect.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57629a3e34b274eec100000e/original/CyberDriveWare6.Transparent.Final.LowRes.png",
@@ -2137,6 +2307,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/5283609",
       "twitter": "https://twitter.com/Cyber_DriveWare",
@@ -2147,13 +2318,52 @@
       "city": "Herzliya",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
+    "id": "techstars-obsidia-semiconductor",
+    "source": "techstars",
+    "name": "OBSIDIA Semiconductor",
+    "description": "Turning the inherent RF response of any electronic component into a unique, unclonable fingerprint -- verifying a chip's authenticity and integrity in under a second, without contact or specialized content.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5cc430e34f99d558abb94db5e.png",
+    "website": "https://obsidiasemi.com",
+    "location": "San Leandro, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cybersecurity",
+      "Space tech",
+      "Supply chain technology"
+    ],
+    "year": 2026,
+    "program": "Techstars Boulder",
+    "programSlugs": [
+      "boulder"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/obsidiasemi",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "San Leandro",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-qluu",
+    "source": "techstars",
     "name": "Qluu",
     "description": "Qluu is a hardware-agnostic, AI-powered OS for counter-UAS, detecting, tracking, and neutralizing unauthorized or hostile drones in real time across aerial, ground, and net-capture platforms.",
     "logo": "https://apimg.techstars.com/profiles/1777171362669_453866.png",
@@ -2175,6 +2385,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/qluu",
       "twitter": "",
@@ -2186,18 +2397,17 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-klira-ai",
+    "source": "techstars",
     "name": "Klira AI",
-    "description": "Compliance layer for AI agents in regulated industries.",
+    "description": "Attack your AI agent before others do.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3d56824bfb321c49e6b2bbf72.png",
     "website": "https://getklira.com",
-    "location": "San Francisco, California, United States",
+    "location": "San Diego, California, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
@@ -2215,6 +2425,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/klira-ai",
       "twitter": "",
@@ -2222,17 +2433,16 @@
       "crunchbase": ""
     },
     "extra": {
-      "city": "San Francisco",
+      "city": "San Diego",
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-the-secure-ai-corporation",
+    "source": "techstars",
     "name": "The Secure AI Corporation",
     "description": "Secure AI delivers mission-critical generative AI solutions for the $900B defense sector that operate completely offline and on edge devices. Our technology enables advanced AI capabilities for classified environments, maritime vessels, unmanned systems, and orbital platforms--bringing intelligence exactly where it's needed most.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3dca4323085e1634b4a826864.png",
@@ -2253,6 +2463,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/secure-ai-corp",
       "twitter": "",
@@ -2264,13 +2475,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-bestdefense-io",
+    "source": "techstars",
     "name": "BestDefense.io",
     "description": "We stress test your infrastructure abilities to scale, evaluate your security posture through automated vulnerability and pen tests, and track/alert network threats in real-time.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5351fbbdbe00fa1cb64f50cba.png",
@@ -2290,6 +2500,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bestdefense-inc",
       "twitter": "",
@@ -2301,13 +2512,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cloud-fence",
+    "source": "techstars",
     "name": "Cloud Fence",
     "description": "One-click deploy full stack network security and security insights to manage security across your cloud infrastructure.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ae87ec78a7ffd3113fa0aee6f.png",
@@ -2327,6 +2537,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cloud-fence",
       "twitter": "",
@@ -2337,13 +2548,12 @@
       "city": "Roquebrune Sur Argens",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-astra-by-czar-securities",
+    "source": "techstars",
     "name": "ASTRA by Czar Securities",
     "description": "Making web & application security suite making security super simple for businesses, for real. Firewall | Malware Scanner | Security Audits for Websites & Apps.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f2e76eba36c113b600000cb/original/Astra_Blue_Logo_-_1000x1000.png",
@@ -2363,6 +2573,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/getastra",
       "twitter": "https://twitter.com/getastra",
@@ -2374,13 +2585,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-neural-defend",
+    "source": "techstars",
     "name": "Neural Defend",
     "description": "Deepfake detection software that safeguards authenticity in digital content.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7815351745f6838c3a9d0e32d.png",
@@ -2398,6 +2608,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/neural-defend",
       "twitter": "",
@@ -2408,13 +2619,12 @@
       "city": "New Delhi",
       "country": "India"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "India",
     "alsoIn": []
   },
   {
     "id": "techstars-phalanx",
+    "source": "techstars",
     "name": "Phalanx",
     "description": "Phalanx provides secure document access by combining automation, identity, and encryption for efficient Zero Trust Data Access (ZTDA). We transform existing platforms, such as Google Drive or Outlook emails, into secure tools for users and give leaders central control to manage & see access to reduce cyber risk.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60b6a8d9aa65f600077dcaf2/original/techstars_phalanx_logo.png",
@@ -2436,6 +2646,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/phalanx-hq",
       "twitter": "https://twitter.com/Phalanx_HQ",
@@ -2447,13 +2658,12 @@
       "state_province": "Virginia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fraudmarc",
+    "source": "techstars",
     "name": "fraudmarc",
     "description": "We work with all major mailbox providers to identify your valid mail sources. Legitimate senders enjoy improved deliverability & phishing attempts are blocked.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59528b3e9c66a9535100001d/original/fraudmarc-icon.png",
@@ -2474,6 +2684,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10684936",
       "twitter": "https://twitter.com/fraudmarc",
@@ -2485,13 +2696,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cydeploy",
+    "source": "techstars",
     "name": "CyDeploy",
     "description": "An intelligent, automated testing system that demonstrates how an update will affect your system, giving you the control to maintain cybersecurity and cybersecurity compliance while avoiding costly workforce delays.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ck8yf6zxewq13isndcrz",
@@ -2515,6 +2725,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cydeploy",
       "twitter": "",
@@ -2526,13 +2737,12 @@
       "state_province": "Maryland",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fortifyedge",
+    "source": "techstars",
     "name": "FortifyEdge",
     "description": "Fortifyedge is on-device cybersecurity software that allows us to deploy machine learning ultra-efficiently on the smart device, so you can detect attacks in real-time.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e5fea5c34a60d3b8d000278/original/Screen_Shot_2020-03-04_at_12.50.10_PM.png",
@@ -2551,6 +2761,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fortifyedge",
       "twitter": "https://twitter.com/fortifyedge",
@@ -2562,13 +2773,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-avocado-systems",
+    "source": "techstars",
     "name": "Avocado Systems",
     "description": "Avocado's patented deterministic threat detection technology makes applications both intelligent, and ultimately, self-protecting.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/wzluylmhgedxagc5dbhw",
@@ -2588,6 +2798,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/avocado-systems",
       "twitter": "https://twitter.com/avocadosystems",
@@ -2599,13 +2810,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-noviqu",
+    "source": "techstars",
     "name": "Noviqu",
     "description": "Noviqu closes the gap for manufacturers between what management expects and what workers actually do.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b365e96c1a4b871dd0001a1/original/sticker_Page_1.png",
@@ -2623,6 +2833,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/noviqu",
       "twitter": "https://twitter.com/noviquapp",
@@ -2634,51 +2845,12 @@
       "state_province": "Missouri",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-sharpshark",
-    "name": "SharpShark",
-    "description": "Blockchain legaltech for copyright protection",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/62368dbe1d115c0008c62ba0/original/Logo___Icon__square___LV_UV.png",
-    "website": "https://sharpshark.io",
-    "location": "Santiago, Chile",
-    "region": "Americas",
-    "subregion": "South America",
-    "tags": [
-      "Cryptocurrency/Blockchain",
-      "Cybersecurity",
-      "Mobile"
-    ],
-    "year": 2022,
-    "program": "Filecoin Techstars Accelerator",
-    "programSlugs": [
-      "filecoin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/sharpshark",
-      "twitter": "https://twitter.com/SharpShark256",
-      "facebook": "https://facebook.com/SharpShark256",
-      "crunchbase": "https://crunchbase.com/organization/sharpshark"
-    },
-    "extra": {
-      "city": "Santiago",
-      "country": "Chile"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Chile",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-rezliant",
+    "source": "techstars",
     "name": "Rezliant",
     "description": "Rezliant turns all software teams into instant cybersecurity geniuses, saving months per employee and millions in costs.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_86227636a8df1c7cea13c5423.png",
@@ -2699,6 +2871,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/resilient-software-security",
       "twitter": "",
@@ -2710,13 +2883,12 @@
       "state_province": "Arizona",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-haiphen",
+    "source": "techstars",
     "name": "Haiphen",
     "description": "Blockchain-enabled cyber security threat detection for enterprises.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62368c791d115c0008c62b9e/original/haiphen_logo.png",
@@ -2741,6 +2913,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/judesafo",
       "twitter": "https://twitter.com/pi42449346",
@@ -2752,13 +2925,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-astronome-ai",
+    "source": "techstars",
     "name": "Astronome AI",
     "description": "Astronome AI is a company that provides streamlined IT management for SMEs, powered by AI.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/lr8j5rsmiftw7l9qxsiw",
@@ -2779,6 +2951,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/astronome",
       "twitter": "",
@@ -2790,13 +2963,12 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-sense",
+    "source": "techstars",
     "name": "SENSE",
     "description": "Making data-mining accessible to anyone.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e9065e5cbeefa0930779af102.png",
@@ -2814,6 +2986,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/53n53-ltd",
       "twitter": "",
@@ -2824,13 +2997,12 @@
       "city": "Barcelona",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
     "alsoIn": []
   },
   {
     "id": "techstars-perleybrook",
+    "source": "techstars",
     "name": "Perleybrook",
     "description": "Perleybrook makes Flagman and Industry 5.0 AI Powered Computer Vision based Industry Safety Solution Platform.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ac9c59904652701be3088f1a1.png",
@@ -2853,6 +3025,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/perleybrook-labs-llc",
       "twitter": "",
@@ -2864,13 +3037,12 @@
       "state_province": "New Hampshire",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-infiltron-software-suite-application",
+    "source": "techstars",
     "name": "Infiltron Software Suite & Application",
     "description": "Infiltron is a proactive, real-time IoT cybersecurity solution.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ydc6wp4xjyjjb4wyj7je",
@@ -2893,6 +3065,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/infiltron-software-suite",
       "twitter": "https://twitter.com/InfiltronApp",
@@ -2904,13 +3077,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-guardara",
+    "source": "techstars",
     "name": "Guardara",
     "description": "We help companies find critical security issues in complex environments.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f9ee72f44e08208520000c4/original/logo-small.png",
@@ -2931,6 +3103,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/guardara",
       "twitter": "https://twitter.com/guardaraltd",
@@ -2941,13 +3114,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-saltycloud",
+    "source": "techstars",
     "name": "SaltyCloud",
     "description": "Next-Gen Automation for Cybersecurity Operations",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f3d2391a36c113b600001e8/original/0_%281%29.jpg",
@@ -2966,6 +3138,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/saltycloudpbc",
       "twitter": "https://twitter.com/saltycloudhq",
@@ -2977,13 +3150,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-risksessaml",
+    "source": "techstars",
     "name": "RisksessAML",
     "description": "RAML helps FinTechs accurately, efficiently and securely assess their money laundering risks, and create a risk based compliance ecosystem driving time and costs reduction ordinarily associated with AML compliance.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_cbc29e22aaee5a8b2511e9374.jpeg",
@@ -3006,6 +3178,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/raml",
       "twitter": "",
@@ -3016,13 +3189,12 @@
       "city": "Coventry",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-brightlines",
+    "source": "techstars",
     "name": "Brightlines",
     "description": "Brightlines is a B2B SaaS platform that specializes in the removal of personal information from the internet to bolster the privacy defenses of individuals and organizations.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_0190f1021e81c4f77f4a58c07.png",
@@ -3045,6 +3217,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/brightlin-es",
       "twitter": "https://twitter.com/brightlin_es",
@@ -3056,13 +3229,12 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-valio",
+    "source": "techstars",
     "name": "Valio",
     "description": "Unlocking Millions in Untapped Rebates for Health Systems\n\nValio is building the AI infrastructure that turns confusing rebate contracts into cash.",
     "logo": "https://apimg.techstars.com/profiles/1741201326883_908996.png",
@@ -3084,6 +3256,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/valiollc",
       "twitter": "",
@@ -3095,13 +3268,12 @@
       "state_province": "Indiana",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sloop",
+    "source": "techstars",
     "name": "Sloop",
     "description": "Sloop eliminates AI hallucinations by encoding your prompts with hypertokens, the GPS for LLMs that instantly upgrades the memory, reasoning, and privacy of your AI tools.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f5489d5dc7185b2804b21897c.png",
@@ -3123,6 +3295,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sloopfx",
       "twitter": "",
@@ -3134,52 +3307,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-heyopal",
-    "name": "HeyOpal",
-    "description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4fdb011b5a683247ca3f99090.png",
-    "website": "https://heyopal.com",
-    "location": "Pinellas Park, Florida, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cybersecurity",
-      "Healthtech"
-    ],
-    "year": 2025,
-    "program": "Techstars AI Health Baltimore",
-    "programSlugs": [
-      "baltimore-ai-health"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/heyopal",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "Pinellas Park",
-      "state_province": "Florida",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-genobank-io",
+    "source": "techstars",
     "name": "GenoBank.io",
     "description": "Ensuring the privacy and data ownership of your genetic information.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e08dfe43759325d8291b15c98.jpeg",
@@ -3203,6 +3336,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/genobank-io",
       "twitter": "https://twitter.com/genobank_io",
@@ -3214,13 +3348,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-galen-health",
+    "source": "techstars",
     "name": "Galen Health",
     "description": "Vertical AI Agents for Cancer Care",
     "logo": "https://apimg.techstars.com/profiles/1741104858880_37352.png",
@@ -3242,6 +3375,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/galen-ai",
       "twitter": "",
@@ -3253,13 +3387,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-compose-health",
+    "source": "techstars",
     "name": "Compose Health",
     "description": "Compose Health creates compliant, compelling content in moments to accelerate customer engagement, medical education, and scientific progress.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_cd769fdf8e60a36684df61660.png",
@@ -3281,6 +3414,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/composehealth",
       "twitter": "",
@@ -3292,13 +3426,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-behaivior",
+    "source": "techstars",
     "name": "Behaivior",
     "description": "Behaivior's Recovery(tm) platform uses AI and wearables to predict high-risk events and enable proactive, personalized recovery interventions. \n Behaivior revolutionizes healthcare and well-being, making support accessible and reducing healthcare costs. Our award-winning platform, Recovery(tm), enhances patient engagement and outcomes, supports crisis intervention, and eases staff burden. We ensure our solutions reach everyone, seamlessly integrating into current care ecosystems.  ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b9ca33ac05793caacd9448704.png",
@@ -3320,6 +3453,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/behaivior",
       "twitter": "https://twitter.com/BehaiviorAI",
@@ -3331,13 +3465,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-aidrx",
+    "source": "techstars",
     "name": "AidRx",
     "description": "AidRx is the 'Upwork' for clinical pharmacy, connecting clinics and pharmacies with remote clinical pharmacists. Our platform helps capture untapped revenue without costly full-time hires while giving pharmacists flexible, meaningful work.",
     "logo": "https://apimg.techstars.com/profiles/1741043784996_525313.png",
@@ -3359,6 +3492,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/aidrx",
       "twitter": "",
@@ -3370,13 +3504,12 @@
       "state_province": "Alberta",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-accountable",
+    "source": "techstars",
     "name": "Accountable",
     "description": "HIPAA compliance made easy",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60a41620c54664000792e2f0/original/HIPAA_Badge_Webclip.jpg",
@@ -3399,6 +3532,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/accountablehq",
       "twitter": "https://twitter.com/accountable_hq",
@@ -3410,13 +3544,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-general-folders",
+    "source": "techstars",
     "name": "General Folders",
     "description": "General Folders is a simple and secure way for business partners to exchange data and collaborate.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9eca19fb11025edf678ebe7a8.png",
@@ -3437,6 +3570,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/generalfolders",
       "twitter": "https://twitter.com/GeneralFolders",
@@ -3448,13 +3582,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-nimis-cybersecurity",
+    "source": "techstars",
     "name": "NIMIS Cybersecurity",
     "description": "Real time penetration testing using artificial intelligence",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d80521fa36c11122c0000e5/original/Nimis_all_screen_JPG-01.jpg",
@@ -3474,6 +3607,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nimis-cybersecurity",
       "twitter": "https://twitter.com/NIMISCyber",
@@ -3485,13 +3619,12 @@
       "state_province": "Victoria",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-hiddenlogin",
+    "source": "techstars",
     "name": "HiddenLogin",
     "description": "An anonymous privacy layer for the web",
     "logo": "https://apimg.techstars.com/connect/images/image_files/612476a19122ed0007e976cf/original/icon_red.png",
@@ -3503,14 +3636,13 @@
       "Cybersecurity"
     ],
     "year": 2021,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hiddenlogin",
       "twitter": "",
@@ -3522,13 +3654,51 @@
       "state_province": "Michigan",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-heyopal",
     "source": "techstars",
+    "name": "HeyOpal",
+    "description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4fdb011b5a683247ca3f99090.png",
+    "website": "https://heyopal.com",
+    "location": "Pinellas Park, Florida, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cybersecurity",
+      "Healthtech"
+    ],
+    "year": 2025,
+    "program": "Techstars AI Health Baltimore",
+    "programSlugs": [
+      "baltimore-ai-health"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/heyopal",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Pinellas Park",
+      "state_province": "Florida",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ezsec",
+    "source": "techstars",
     "name": "EzSec",
     "description": "Previous Name: EzSec",
     "logo": "https://apimg.techstars.com/connect/images/image_files/623a06021d115c377746ef67/original/Untitled_design_%281%29.png",
@@ -3548,6 +3718,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ezsec",
       "twitter": "https://twitter.com/ezsecorg",
@@ -3559,13 +3730,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-safehill",
+    "source": "techstars",
     "name": "SafeHill",
     "description": "Prevent ransomware attacks by actively hacking your cyber defenses and continuously validating your security tools.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c9cebbb2c65037c728dc740d8.png",
@@ -3585,6 +3755,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/safehillsecurity",
       "twitter": "",
@@ -3596,13 +3767,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-blind-insight",
+    "source": "techstars",
     "name": "Blind Insight",
     "description": "Blind Insight acts as a privacy layer between sensitive data and the applications that run on it. Through the power of searchable encryption and the Blind Proxy, data remains encrypted at all times, even during processing and analysis. So you can get the insights you need without worrying about data exposure or leakage.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_be692e3617d0d8869a78d3583.jpg",
@@ -3624,6 +3794,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/blind-insight",
       "twitter": "",
@@ -3635,13 +3806,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-engaiz",
+    "source": "techstars",
     "name": "ENGAIZ",
     "description": "Mitigating Digital Risk to Build Digital Trust",
     "logo": "https://apimg.techstars.com/profiles/1691675408457_428095.png",
@@ -3662,6 +3832,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/engaiz",
       "twitter": "https://twitter.com/engaizit",
@@ -3673,13 +3844,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-armur-ai",
+    "source": "techstars",
     "name": "Armur Ai",
     "description": "Decentralized autonomous cyber security",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b5eece4fda9f56c43c2e6a5ea.png",
@@ -3699,6 +3869,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/armurai",
       "twitter": "",
@@ -3710,13 +3881,12 @@
       "state_province": "Karnataka",
       "country": "India"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "India",
     "alsoIn": []
   },
   {
     "id": "techstars-magier-ai",
+    "source": "techstars",
     "name": "Magier AI",
     "description": "Magier AI enhances data privacy for LLMs with a PII firewall, ensuring secure, real-time data protection and customizable redaction.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_025e0ef26cbc47664c48e63c4.png",
@@ -3738,6 +3908,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/magier",
       "twitter": "",
@@ -3749,13 +3920,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-teskalabs",
+    "source": "techstars",
     "name": "Teskalabs",
     "description": "We help enterprises build and operate their Mobile and IoT applications safely. We protect you.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559f93a8bbe36fadf6000010/original/teskalabs_2048x2048_(1).png",
@@ -3777,6 +3947,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/teskalabs",
       "twitter": "https://twitter.com/TeskaLabs",
@@ -3787,13 +3958,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-hackerverse",
+    "source": "techstars",
     "name": "HACKERverse",
     "description": "The cutting-edge platform leverages AI and AWS automation to spin up virtual Proof of Concept (PoC) environments.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4e546c89ca24d0f3cbb4bf70e.png",
@@ -3814,6 +3984,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hackerverse",
       "twitter": "",
@@ -3825,13 +3996,47 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-safehouse-technologies",
+    "source": "techstars",
+    "name": "SafeHouse Technologies",
+    "description": "Digital safety for real people online",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5b0c00eea36c1104dc000043/original/High_Res_Logo.png",
+    "website": "https://safehousetech.com",
+    "location": "Tel Aviv, Israel",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Cybersecurity",
+      "Mobile"
+    ],
+    "year": 2018,
+    "program": "Barclays Accelerator, Powered by Techstars - Tel Aviv",
+    "programSlugs": [],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/safehousetech",
+      "twitter": "https://twitter.com/SafeHouseTech",
+      "facebook": "https://facebook.com/safehousetech/",
+      "crunchbase": "https://crunchbase.com/organization/safehouse-ffed#section-overview"
+    },
+    "extra": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "country": "Israel",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-educhain",
+    "source": "techstars",
     "name": "Educhain",
     "description": "Educhain enables secure issuance, sharing, and verification of blockchain-enabled records.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e8c965da36c11284d0000d2/original/educhain_box.png",
@@ -3851,6 +4056,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/educhain",
       "twitter": "https://twitter.com/educhainio",
@@ -3862,13 +4068,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-sympatic",
+    "source": "techstars",
     "name": "Sympatic",
     "description": "Enables enterprise data owners to safely share valuable data, providing audit logs and preventing data leakage.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5dfa9f5134a60d482200001f/original/sympatic_logo_only_w_star.png",
@@ -3891,6 +4096,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sympatic-inc",
       "twitter": "https://twitter.com/sympatic_data",
@@ -3902,13 +4108,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-spotcrowd",
+    "source": "techstars",
     "name": "SpotCrowd",
     "description": "Developing technologies for tomorrow",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59cd1e409c66a940a50000a8/original/Screen_Shot_2017-09-28_at_11.06.50_AM.png",
@@ -3926,6 +4131,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/watch-&-catch-nv",
       "twitter": "https://twitter.com/stopshoplifting",
@@ -3937,13 +4143,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sliceup",
+    "source": "techstars",
     "name": "SliceUp",
     "description": "In-memory time-series database",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d0be901a36c1101c8000000/original/SliceUp_Logo_%287%29.png",
@@ -3963,6 +4168,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sliceup",
       "twitter": "https://twitter.com/SliceUp_",
@@ -3974,13 +4180,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sia-secure",
+    "source": "techstars",
     "name": "Sia Secure",
     "description": "A platform that will provide Secure Communications as a Service to IoT, smart grid and critical infrastructure and private communication systems.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e9adf76a36c115d3b0000e5/original/SIASecureLogo-Indigo01-crop.png",
@@ -3998,6 +4203,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sia-secure",
       "twitter": "https://twitter.com/SiaSecure",
@@ -4008,13 +4214,50 @@
       "city": "Skopje",
       "country": "North Macedonia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "North Macedonia",
     "alsoIn": []
   },
   {
+    "id": "techstars-sharpshark",
+    "source": "techstars",
+    "name": "SharpShark",
+    "description": "Blockchain legaltech for copyright protection",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/62368dbe1d115c0008c62ba0/original/Logo___Icon__square___LV_UV.png",
+    "website": "",
+    "location": "Santiago, Chile",
+    "region": "Americas",
+    "subregion": "South America",
+    "tags": [
+      "Cryptocurrency/Blockchain",
+      "Cybersecurity",
+      "Mobile"
+    ],
+    "year": 2022,
+    "program": "Filecoin Techstars Accelerator",
+    "programSlugs": [
+      "filecoin"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/sharpshark",
+      "twitter": "https://twitter.com/SharpShark256",
+      "facebook": "https://facebook.com/SharpShark256",
+      "crunchbase": "https://crunchbase.com/organization/sharpshark"
+    },
+    "extra": {
+      "city": "Santiago",
+      "country": "Chile"
+    },
+    "country": "Chile",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-securemarking",
+    "source": "techstars",
     "name": "SecureMarking",
     "description": "SecureMarking is a fully integrated, end-to-end supply chain security platform that incorporates nanotechnology, blockchain, and the Internet of Things.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a725d97c9aec7262b0000ef/original/Logo.png",
@@ -4035,6 +4278,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/secure-marking",
       "twitter": "https://twitter.com/securemarking",
@@ -4046,13 +4290,12 @@
       "state_province": "South Dakota",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-netcloak",
+    "source": "techstars",
     "name": "NetCloak",
     "description": "NetCloak is pioneering AI privacy technology by automatically detecting and securing high risk employee data.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b2bee2e34a60d1b9a00004e/original/Screen_Shot_2018-06-21_at_11.28.16_AM.png",
@@ -4073,6 +4316,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/netcloak",
       "twitter": "https://twitter.com/NetCloakInc",
@@ -4084,13 +4328,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-merklebot",
+    "source": "techstars",
     "name": "Merklebot",
     "description": "Connecting universe to metaverse",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62368f201d115c0008c62ba1/original/Merklebot_Square_Logo.png",
@@ -4121,6 +4364,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/merklebot",
       "twitter": "https://twitter.com/MerkleB0t",
@@ -4132,13 +4376,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-jumble",
+    "source": "techstars",
     "name": "Jumble",
     "description": "Jumble secures your email by providing easy to use encryption that integrates directly into existing email clients.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56b0def3bbe36f99bc000004/original/Jumble_Logo_400x400.png",
@@ -4156,6 +4399,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/jumble-io",
       "twitter": "https://twitter.com/jumblesecurity",
@@ -4166,13 +4410,12 @@
       "city": "Dublin",
       "country": "Ireland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ireland",
     "alsoIn": []
   },
   {
     "id": "techstars-helm-solutions",
+    "source": "techstars",
     "name": "Helm Solutions",
     "description": "Helm provides companies instant visibility into their cybersecurity and technology compliance gaps.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/570411bec2f1c4be70000005/original/Folie3.JPG",
@@ -4191,6 +4434,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10128001",
       "twitter": "https://twitter.com/HelmGlobal",
@@ -4202,13 +4446,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-havoc-shield",
+    "source": "techstars",
     "name": "Havoc Shield",
     "description": "A self-serve cyber security program built for for startups, small businesses, and remote workers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e0fce7ca36c1120460000fc/original/havoc-shield-dark-logo-for-light-background---icon-above-name.jpg",
@@ -4220,14 +4463,13 @@
       "Cybersecurity"
     ],
     "year": 2020,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/havoc-shield",
       "twitter": "https://twitter.com/havocshield",
@@ -4239,13 +4481,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-grove",
+    "source": "techstars",
     "name": "Grove",
     "description": "Technology for local, healthy food. Products that help people grow their own food right where they live.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5313/b897/c1be/43a5/5a00/0006/original/grove-305x305.jpg",
@@ -4266,6 +4507,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/grove-group",
       "twitter": "https://twitter.com/GroveLabs",
@@ -4277,13 +4519,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-forcefield-io",
+    "source": "techstars",
     "name": "ForceField IO",
     "description": "APIs for verification and of streaming data.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c4938022963e50e5072c82571.png",
@@ -4305,6 +4546,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/meetforcefield",
       "twitter": "https://twitter.com/ForceField_io",
@@ -4316,13 +4558,12 @@
       "state_province": "New Jersey",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cycuro",
+    "source": "techstars",
     "name": "Cycuro",
     "description": "cycuro is a mobility data validation platform. We guarantee data quality and integrity for mobility services.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a00ad8bc9aec73a91000004/original/cycuro_Logo_-_Inkod.png",
@@ -4342,6 +4583,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cycuro",
       "twitter": "https://twitter.com/cycuro",
@@ -4352,13 +4594,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-crowdsense",
+    "source": "techstars",
     "name": "CrowdSense",
     "description": "NLP-based Intelligence as a Service Platform, that detects  breaking events, risks, and trends in real-time for risk management and business intelligence",
     "logo": "https://apimg.techstars.com/profiles/1666280035490_260501.png",
@@ -4379,6 +4620,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/crowdsenseai",
       "twitter": "https://twitter.com/Crowdsenseai",
@@ -4389,13 +4631,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-byte-detection",
+    "source": "techstars",
     "name": "Byte Detection",
     "description": "For risk and compliance teams, Byte Detection is a no-code rules engine for detecting fraud for real-time payments.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8e157871a1794f4f920ccc106.png",
@@ -4417,6 +4658,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4428,13 +4670,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-bleach-cyber",
+    "source": "techstars",
     "name": "Bleach Cyber",
     "description": "Bleach is a cybersecurity platform helps small and medium businesses get secure by leveraging the security in their existing investments.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_21e7175b14e201af55abb4c8c.jpg",
@@ -4454,6 +4695,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "https://twitter.com/bleachcybersec",
@@ -4465,13 +4707,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-besafe-io",
+    "source": "techstars",
     "name": "BeSafe.io",
     "description": "Enabling businesses to protect, control and track their data everywhere.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59ae7982c9aec70bf6000004/original/besafe_logo-1_06.png",
@@ -4490,6 +4731,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/skycryptor",
       "twitter": "https://twitter.com/",
@@ -4500,13 +4742,12 @@
       "city": "Yerevan",
       "country": "Armenia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Armenia",
     "alsoIn": []
   },
   {
     "id": "techstars-barac",
+    "source": "techstars",
     "name": "Barac",
     "description": "Instant threat detection on Encrypted Traffic without decryption using Metadata & Artificial Intelligence",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5882385dc9aec72a69000017/original/barac_Mid.png",
@@ -4527,6 +4768,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/barac.io",
       "twitter": "https://twitter.com/barac_io",
@@ -4537,13 +4779,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-atcipher",
+    "source": "techstars",
     "name": "AtCipher",
     "description": "AtCipher helps business to protect data in the cloud.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55888f2e1e6c01068300000a/original/atcipher_logo_transparent.png",
@@ -4564,6 +4805,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/atcipher-inc",
       "twitter": "https://twitter.com/atcipher",
@@ -4575,13 +4817,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-appinsight",
+    "source": "techstars",
     "name": "AppInsight",
     "description": "Mobile application security",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55f0561f808320b34c000001/original/appinside_text_bottom.png",
@@ -4602,6 +4843,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/appvocado",
       "twitter": "https://twitter.com/app_inside",
@@ -4613,8 +4855,6 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },

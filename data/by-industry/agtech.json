@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-pixxel",
+    "source": "techstars",
     "name": "Pixxel",
     "description": "We build and operate cutting-edge hyperspectral imaging satellites.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d2e1f4ba36c117dd800019e/original/Pixxel_New_White.jpeg",
@@ -11,7 +12,6 @@
     "tags": [
       "Agtech",
       "Big Data",
-      "Cleantech",
       "Climate tech",
       "Space tech"
     ],
@@ -22,6 +22,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pixxelspace",
       "twitter": "https://twitter.com/pixxelspace",
@@ -33,13 +34,50 @@
       "state_province": "California",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-hydrosat",
     "source": "techstars",
+    "name": "Hydrosat",
+    "description": "Hydrosat tracks the health of every plant, everywhere, every day.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5da6619ba36c1119fe000014/original/hydrosat-logo-pos-cmyk-full-color-1200pxx1200px.jpg",
+    "website": "https://hydrosat.com",
+    "location": "Washington, District of Columbia, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Agtech",
+      "Artificial intelligence and machine learning",
+      "Climate tech",
+      "Space tech"
+    ],
+    "year": 2019,
+    "program": "Techstars Starburst Space Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/27211003",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/hydrosat#section-overview"
+    },
+    "extra": {
+      "city": "Washington",
+      "state_province": "District of Columbia",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-freight-farms",
+    "source": "techstars",
     "name": "Freight Farms",
     "description": "A local farming solution for global food supply",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7978ba1b8a5f33d919ad84de3.jpg",
@@ -60,6 +98,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/freight-farms",
       "twitter": "https://twitter.com/FreightFarms",
@@ -71,13 +110,48 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-green-eye-technology",
+    "source": "techstars",
+    "name": "Green Eye Technology",
+    "description": "Utilizes A.I. to disrupt the agricultural pest control process by providing precise herbicide application",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/600f35116087400009000094/original/greeneye.jpg",
+    "website": "https://greeneye.ag",
+    "location": "Tel Aviv, Israel",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Agtech",
+      "Artificial intelligence and machine learning",
+      "Climate tech"
+    ],
+    "year": 2018,
+    "program": "Techstars Montréal AI Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/greeneye-technology",
+      "twitter": "https://twitter.com/GreeneyeAg",
+      "facebook": "https://facebook.com/Greeneye-Technology-110745290618037",
+      "crunchbase": "https://crunchbase.com/organization/green-eye-technology"
+    },
+    "extra": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "country": "Israel",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-smallhold",
+    "source": "techstars",
     "name": "Smallhold",
     "description": "Smallhold allows businesses and individuals to grow mushrooms and leafy greens easily and affordably through it's technology and subscription service.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5880ba65c9aec7069600000b/original/LogoRaster1_center.jpg",
@@ -88,7 +162,7 @@
     "tags": [
       "Agtech",
       "Climate tech",
-      "Technology, media and telecommunications"
+      "Foodtech"
     ],
     "year": 2017,
     "program": "Techstars Anywhere Accelerator",
@@ -99,6 +173,7 @@
     "isUnicorn": false,
     "isBCorp": true,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/smallhold",
       "twitter": "https://twitter.com/smallhold",
@@ -110,13 +185,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-milk-moovement",
+    "source": "techstars",
     "name": "Milk Moovement",
     "description": "Milk Moovement is transforming the traditional dairy supply chain by bringing all stakeholders onto its collaborative, cloud-based software.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f31654ca36c113b600000e6/original/appstore.png",
@@ -126,88 +200,7 @@
     "subregion": "North America",
     "tags": [
       "Agtech",
-      "Mobile"
-    ],
-    "year": 2020,
-    "program": "Techstars Future of Food Powered by Ecolab",
-    "programSlugs": [
-      "future-of-food"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/milk-moovement",
-      "twitter": "https://twitter.com/MilkMoovement",
-      "facebook": "https://facebook.com/milkmoovement",
-      "crunchbase": "https://crunchbase.com/organization/milk-moovement"
-    },
-    "extra": {
-      "city": "Halifax",
-      "state_province": "Nova Scotia",
-      "country": "Canada"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Canada",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-traive",
-    "name": "Traive",
-    "description": "Traive is an ag-fintech which unlocks credit to farmers by connecting them to lenders and by providing ML-based credit risk assessment and monitoring.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5bc39f54c1a4b80eab00008d/original/logofinal-04.png",
-    "website": "https://traivefinance.com",
-    "location": "São Paulo, Brazil",
-    "region": "Americas",
-    "subregion": "South America",
-    "tags": [
-      "Agtech",
-      "Fintech"
-    ],
-    "year": 2018,
-    "program": "Techstars Future of Food Powered by Ecolab",
-    "programSlugs": [
-      "future-of-food"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/traive",
-      "twitter": "https://twitter.com/traivefinance",
-      "facebook": "https://facebook.com/TrAlve-261721727927288",
-      "crunchbase": "https://crunchbase.com/organization/traive"
-    },
-    "extra": {
-      "city": "São Paulo",
-      "country": "Brazil"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Brazil",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-agtools",
-    "name": "AGTools",
-    "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5fc5446644e0824632000025/original/agtools_see_more.png",
-    "website": "https://ag.tools",
-    "location": "Irvine, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Agtech",
-      "Artificial intelligence and machine learning",
-      "Big Data",
-      "Climate tech",
-      "Fintech",
-      "Foodtech",
-      "Impact investing",
-      "Insurtech",
+      "SaaS",
       "Supply chain technology"
     ],
     "year": 2020,
@@ -219,6 +212,161 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/milk-moovement",
+      "twitter": "https://twitter.com/MilkMoovement",
+      "facebook": "https://facebook.com/milkmoovement",
+      "crunchbase": "https://crunchbase.com/organization/milk-moovement"
+    },
+    "extra": {
+      "city": "Halifax",
+      "state_province": "Nova Scotia",
+      "country": "Canada"
+    },
+    "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-traive",
+    "source": "techstars",
+    "name": "Traive",
+    "description": "Traive is an ag-fintech which unlocks credit to farmers by connecting them to lenders and by providing ML-based credit risk assessment and monitoring.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5bc39f54c1a4b80eab00008d/original/logofinal-04.png",
+    "website": "https://traivefinance.com",
+    "location": "São Paulo, Brazil",
+    "region": "Americas",
+    "subregion": "South America",
+    "tags": [
+      "Agtech",
+      "Artificial intelligence and machine learning",
+      "Fintech"
+    ],
+    "year": 2018,
+    "program": "Techstars Future of Food Powered by Ecolab",
+    "programSlugs": [
+      "future-of-food"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/traive",
+      "twitter": "https://twitter.com/traivefinance",
+      "facebook": "https://facebook.com/TrAlve-261721727927288",
+      "crunchbase": "https://crunchbase.com/organization/traive"
+    },
+    "extra": {
+      "city": "São Paulo",
+      "country": "Brazil"
+    },
+    "country": "Brazil",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-grubbly-farms",
+    "source": "techstars",
+    "name": "Grubbly Farms",
+    "description": "Grubbly Farms is producing a sustainable, insect based, food source for pets, aquaculture, and livestock.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/57e04392a93e9fc489000002/original/BoxLogo.png",
+    "website": "https://grubblyfarms.com",
+    "location": "Norcross, Georgia, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Agtech",
+      "Climate tech",
+      "E-commerce"
+    ],
+    "year": 2016,
+    "program": "Techstars New York City Accelerator",
+    "programSlugs": [
+      "nyc"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/grubbly-farms-inc-",
+      "twitter": "https://twitter.com/GrubblyFarms",
+      "facebook": "https://facebook.com/GrubblyFarms/",
+      "crunchbase": "https://crunchbase.com/organization/grubbly-farms"
+    },
+    "extra": {
+      "city": "Norcross",
+      "state_province": "Georgia",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-reeldata-ai",
+    "source": "techstars",
+    "name": "ReelData AI",
+    "description": "AI for aquaculture. Delivers real time weight distributions, feeding analysis, health analysis and growth analysis",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5de54c9fa36c11772c000021/original/ReelDatLogo7black2.png",
+    "website": "https://reeldata.ai",
+    "location": "Halifax, Nova Scotia, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Agtech",
+      "Artificial intelligence and machine learning",
+      "Climate tech"
+    ],
+    "year": 2019,
+    "program": "Techstars Montréal AI Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/reeldata",
+      "twitter": "https://twitter.com/reeldataai",
+      "facebook": "https://facebook.com/ReelDataAI",
+      "crunchbase": "https://crunchbase.com/organization/reeldata-ai"
+    },
+    "extra": {
+      "city": "Halifax",
+      "state_province": "Nova Scotia",
+      "country": "Canada"
+    },
+    "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-agtools",
+    "source": "techstars",
+    "name": "AGTools",
+    "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5fc5446644e0824632000025/original/agtools_see_more.png",
+    "website": "https://ag.tools",
+    "location": "Irvine, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Agtech",
+      "Big Data",
+      "SaaS",
+      "Supply chain technology"
+    ],
+    "year": 2020,
+    "program": "Techstars Future of Food Powered by Ecolab",
+    "programSlugs": [
+      "future-of-food"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/agtools",
       "twitter": "https://twitter.com/ag_tools",
@@ -230,13 +378,90 @@
       "state_province": "California",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-hexafarms",
     "source": "techstars",
+    "name": "hexafarms",
+    "description": "Hyper-efficient autonomous indoor farms that scale at the speed of software",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d8c57cc65896d097b26fc6c27.png",
+    "website": "https://hexafarms.com",
+    "location": "Saarbrücken, Germany",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Agtech",
+      "Artificial intelligence and machine learning",
+      "Internet of Things"
+    ],
+    "year": 2022,
+    "program": "Techstars Berlin Accelerator",
+    "programSlugs": [
+      "berlin"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/hexa-farms",
+      "twitter": "",
+      "facebook": "https://facebook.com/hexafarms",
+      "crunchbase": "https://crunchbase.com/organization/hexafarms"
+    },
+    "extra": {
+      "city": "Saarbrücken",
+      "country": "Germany"
+    },
+    "country": "Germany",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-boson-motors",
+    "source": "techstars",
+    "name": "Boson Motors",
+    "description": "Boson Motors designs and manufactures certified light-duty electric vehicle powertrains and an Android-based vehicle operating system.",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/w65gzgrvga1qioqqvnhu",
+    "website": "https://bosonmotors.com",
+    "location": "Milpitas, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Agtech",
+      "Cleantech",
+      "Climate tech",
+      "Mobility tech"
+    ],
+    "year": 2020,
+    "program": "Techstars Future of Food Powered by Ecolab",
+    "programSlugs": [
+      "future-of-food"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/boson-motors",
+      "twitter": "https://twitter.com/aforaruntej",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/boson-motors"
+    },
+    "extra": {
+      "city": "Milpitas",
+      "state_province": "California",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mushroom-material",
+    "source": "techstars",
     "name": "Mushroom Material",
     "description": "A sustainable mushroom based alternative to polystyrene Styrofoam and cardboard packaging",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5fa7abac44e0820852000161/original/Mushroom_Material_Logo_-_Shaun_Seaman.png",
@@ -257,6 +482,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mushroom-material",
       "twitter": "",
@@ -267,13 +493,49 @@
       "city": "Auckland",
       "country": "New Zealand"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "New Zealand",
     "alsoIn": []
   },
   {
+    "id": "techstars-microterra",
+    "source": "techstars",
+    "name": "microTERRA",
+    "description": "Sustainable protein from wastewater. By combining Biotech and Hardware we develop microalgae systems that transform the fish farms wastewater into fish feed.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5d2c912f34a60d13b3000194/original/microTERRA-logo.png",
+    "website": "https://microterra.com.mx",
+    "location": "Irapuato, Guanajuato, Mexico",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Agtech",
+      "Climate tech",
+      "Foodtech"
+    ],
+    "year": 2019,
+    "program": "Techstars Sustainability in Partnership with The Nature Conservancy",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/40664387",
+      "twitter": "",
+      "facebook": "https://facebook.com/microTERRA.mx/",
+      "crunchbase": "https://crunchbase.com/organization/microterra"
+    },
+    "extra": {
+      "city": "Irapuato",
+      "state_province": "Guanajuato",
+      "country": "Mexico"
+    },
+    "country": "Mexico",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-heavyconnect",
+    "source": "techstars",
     "name": "HeavyConnect",
     "description": "Helping farmers comply with food safety practices with simple technology",
     "logo": "https://apimg.techstars.com/connect/images/image_files/600f3d4f6a498b00080000a7/original/heavyconnect.png",
@@ -283,7 +545,8 @@
     "subregion": "North America",
     "tags": [
       "Agtech",
-      "Mobile"
+      "SaaS",
+      "Supply chain technology"
     ],
     "year": 2018,
     "program": "Techstars Future of Food Powered by Ecolab",
@@ -294,6 +557,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/heavyconnect",
       "twitter": "https://twitter.com/HeavyConnected",
@@ -305,8 +569,6 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "500"
@@ -314,6 +576,7 @@
   },
   {
     "id": "techstars-toolsvilla",
+    "source": "techstars",
     "name": "Toolsvilla",
     "description": "A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f2c1ebc34a60d0abe000066/original/500TV%28logoPNG%29.png",
@@ -325,9 +588,6 @@
       "Agtech",
       "E-commerce",
       "Industrials",
-      "Infrastructure",
-      "Manufacturing",
-      "Robotics and Drones",
       "Supply chain technology"
     ],
     "year": 2020,
@@ -339,6 +599,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/toolsvilla",
       "twitter": "",
@@ -350,13 +611,12 @@
       "state_province": "West Bengal",
       "country": "India"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "India",
     "alsoIn": []
   },
   {
     "id": "techstars-shipshape-urban-farms",
+    "source": "techstars",
     "name": "Shipshape Urban Farms",
     "description": "Shipshape designs and manufactures modular, hydroponic farms that make fresh vegetables accessible in urban markets year-round.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vr7rehktg4jg6idhktkb",
@@ -366,7 +626,7 @@
     "subregion": "North America",
     "tags": [
       "Agtech",
-      "Infrastructure"
+      "Climate tech"
     ],
     "year": 2022,
     "program": "Techstars Alabama EnergyTech Accelerator",
@@ -377,6 +637,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shipshapeurbanfarms",
       "twitter": "https://twitter.com/Shipshapefarms",
@@ -388,13 +649,12 @@
       "state_province": "Alabama",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-avenews",
+    "source": "techstars",
     "name": "Avenews",
     "description": "Avenews is a fintech company connecting two of the largest and most important industries in the world: the financial industry and the agricultural industry.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/592c1a06c9aec71a2a00006d/original/Logo-icon-15.png",
@@ -404,9 +664,7 @@
     "subregion": "Middle East",
     "tags": [
       "Agtech",
-      "Cryptocurrency/Blockchain",
-      "Fintech",
-      "Insurtech"
+      "Fintech"
     ],
     "year": 2017,
     "program": "Barclays Accelerator, Powered by Techstars - Cape Town",
@@ -415,6 +673,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10961166",
       "twitter": "https://twitter.com/Avenews_gt",
@@ -425,17 +684,16 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-team-wildfire",
+    "source": "techstars",
     "name": "Team Wildfire",
     "description": "Revolutionary technology and tactics for fighting wildfires",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d4263249483c50875aa115e3e.png",
-    "website": "https://teamwildfire.com",
+    "website": "https://matrixwildfire.com",
     "location": "Boulder, Colorado, United States",
     "region": "Americas",
     "subregion": "North America",
@@ -454,6 +712,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/teamwildfire",
       "twitter": "",
@@ -465,13 +724,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-good-agriculture",
+    "source": "techstars",
     "name": "Good Agriculture",
     "description": "Supports current and future regenerative farmers with business services such as finding funding, managing finances, and reaching new customers.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3be27ca6a5ae2ee5c7f2430f4.jpeg",
@@ -493,6 +751,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/good-agriculture",
       "twitter": "",
@@ -504,52 +763,91 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-hexafarms",
-    "name": "hexafarms",
-    "description": "Hyper-efficient autonomous indoor farms that scale at the speed of software",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d8c57cc65896d097b26fc6c27.png",
-    "website": "https://hexafarms.com",
-    "location": "Saarbrücken, Germany",
+    "id": "techstars-inverto-tech",
+    "source": "techstars",
+    "name": "Inverto Tech",
+    "description": "Rewilding coastlines - beyond planting trees",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5ed5146d42dbb37cbc346941c.jpg",
+    "website": "https://inverto.tech",
+    "location": "Hilterfingen, Switzerland",
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
       "Agtech",
       "Artificial intelligence and machine learning",
-      "Climate tech",
-      "Internet of Things"
+      "Robotics and Drones"
     ],
-    "year": 2022,
-    "program": "Techstars Berlin Accelerator",
+    "year": 2024,
+    "program": "Sustainability Paris Techstars Accelerator",
     "programSlugs": [
-      "berlin"
+      "paris"
     ],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/hexa-farms",
+      "linkedin": "https://linkedin.com/company/inverto-earth",
       "twitter": "",
-      "facebook": "https://facebook.com/hexafarms",
-      "crunchbase": "https://crunchbase.com/organization/hexafarms"
+      "facebook": "https://facebook.com/invertoit",
+      "crunchbase": "https://crunchbase.com/organization/inverto-cf10"
     },
     "extra": {
-      "city": "Saarbrücken",
-      "country": "Germany"
+      "city": "Hilterfingen",
+      "country": "Switzerland"
     },
+    "country": "Switzerland",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-gravtech-solutions",
     "source": "techstars",
+    "name": "GravTech Solutions",
+    "description": "Providing the world with understand of what risk and opportunities exist for them below the ground.",
+    "logo": "https://www.techstars.com/os/api/photo/profile-photos/company-logos/b71367db-904d-4316-9a60-58ea5d357ce5/1789052610966-oudlcl9d6w9.jpg",
+    "website": "https://gravtech.co.uk",
+    "location": "London, England, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Agtech",
+      "Climate tech",
+      "Industrials",
+      "Infrastructure",
+      "Oil and gas"
+    ],
+    "year": 2026,
+    "program": "Techstars Anywhere Accelerator",
+    "programSlugs": [
+      "anywhere"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
-    "country": "Germany",
+    "social": {
+      "linkedin": "https://linkedin.com/company/gravtech-solutions",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "London",
+      "state_province": "England",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-forgebee",
+    "source": "techstars",
     "name": "Forgebee",
     "description": "Develops automated systems to produce healthy honey bees at scale, enabling reliable pollination and protecting global food supply from colony collapse.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ca879f5f9beb767021fd06cd5.png",
@@ -572,6 +870,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/forgebee-inc",
       "twitter": "",
@@ -583,13 +882,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-atmo",
+    "source": "techstars",
     "name": "ATMO",
     "description": "atmo helps banks to reduce their financed emissions - starting with food. ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7ec4b4d25871491e3baa33f12.png",
@@ -611,6 +909,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/atmoearth",
       "twitter": "",
@@ -622,13 +921,12 @@
       "state_province": "Berlin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-qms2go",
+    "source": "techstars",
     "name": "QMS2GO",
     "description": "QMS2GO is a TurboTax-style AI platform that interviews plant teams and auto-builds a right-sized ISO 9001 QMS in under six weeks, then streamlines the unbiased certification audit--usually wrapped up within six months--for small- and mid-sized manufacturers",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_cbd6a051d73d112c4e147e350.png",
@@ -652,6 +950,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/qms2go",
       "twitter": "",
@@ -663,13 +962,12 @@
       "state_province": "Louisiana",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-openfarming",
+    "source": "techstars",
     "name": "OpenFarming",
     "description": "OpenFarming is an AI-powered operating system that transforms chaotic food distribution workflows into automated, data-driven systems reducing waste, boosting margins, and streamlining operations for distributors.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7e91b89d87436f9491a479e92.png",
@@ -692,6 +990,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/openfarming-earth",
       "twitter": "",
@@ -703,13 +1002,12 @@
       "state_province": "Dubai",
       "country": "United Arab Emirates"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Arab Emirates",
     "alsoIn": []
   },
   {
     "id": "techstars-kartorium",
+    "source": "techstars",
     "name": "Kartorium",
     "description": "Kartorium eliminates information delays and knowledge gaps across industrial operations. Our platform gives maintenance teams the right answer, to the right person, at the right time.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5add421c2eb85fe36e2daf303.jpg",
@@ -732,6 +1030,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kartorium",
       "twitter": "",
@@ -743,13 +1042,12 @@
       "state_province": "Alaska",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-arbia",
+    "source": "techstars",
     "name": "Arbia",
     "description": "Stocky AI is an AI-powered B2B platform for the agri-food sector that automates procurement and supply chain management to reduce food waste and increase profitability for producers, distributors, and retailers.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_01d2b8dc4ae67fc210de45f50.png",
@@ -772,6 +1070,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/stocky-ai",
       "twitter": "",
@@ -783,13 +1082,89 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
+    "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-verde-biomaterials",
     "source": "techstars",
+    "name": "VERDE Biomaterials",
+    "description": "VERDE Biomaterials converts agricultural waste into biodegradable plastic alternatives.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_73e1bc43ac6d1a42ac6b41572.png",
+    "website": "https://verdebiomaterials.com",
+    "location": "Oakland, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Agtech",
+      "Beauty",
+      "Climate tech",
+      "Nanotechnology"
+    ],
+    "year": 2026,
+    "program": "Techstars Future of Food Powered by Ecolab",
+    "programSlugs": [
+      "future-of-food"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/verde-biomaterials",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Oakland",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-skyacres",
+    "source": "techstars",
+    "name": "SkyAcres",
+    "description": "SkyAcres sells indoor farm hardware and AI for existing buildings.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_68f97bb0f71a6f6c9a7f80946.png",
+    "website": "https://skyacres.io",
+    "location": "Surrey, British Columbia, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Agtech"
+    ],
+    "year": 2026,
+    "program": "Techstars Future of Food Powered by Ecolab",
+    "programSlugs": [
+      "future-of-food"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/skyacres-agrotechnologies-inc",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Surrey",
+      "state_province": "British Columbia",
+      "country": "Canada"
+    },
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-aghelp",
+    "source": "techstars",
     "name": "AgHelp",
     "description": "Resolving the agricultural labor shortage by empowering workers to find job and support resources nationally.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d234f24a36c114d4e00002f/original/AgHELP_Logo.jpg",
@@ -808,6 +1183,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/22293834",
       "twitter": "https://twitter.com/agriculturehelp",
@@ -819,13 +1195,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-planette",
+    "source": "techstars",
     "name": "Planette",
     "description": "Planette.ai empowers enterprises to adapt to climate change by providing year-ahead extreme weather risk forecasts.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c593edce504033e84024a1f97.png",
@@ -847,6 +1222,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/planetteai",
       "twitter": "",
@@ -858,13 +1234,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-verifi-data-corp",
+    "source": "techstars",
     "name": "Verifi Data Corp.",
     "description": "VeriFi solves sustainable agriculture programs' critical issues in credibility, profitability, and scale with our configurable farm-level data automation SaaS providing data sovereignty, validation, verification, analysis, and transaction.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c5dbf4bc5d653d10efae49eb8.png",
@@ -888,6 +1263,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/verifidatacorp",
       "twitter": "",
@@ -899,55 +1275,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-biomod-ai",
-    "name": "Biomod AI",
-    "description": "AI Assistant for Biotech R&D",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d2e6309ad3875da9aeffbbdfb.png",
-    "website": "https://biomodai.com",
-    "location": "Zuid-Scharwoude, Netherlands",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Agtech",
-      "Artificial intelligence and machine learning",
-      "Climate tech",
-      "Digital health",
-      "Edtech",
-      "Healthtech",
-      "Oncology"
-    ],
-    "year": 2024,
-    "program": "Techstars Berlin Accelerator",
-    "programSlugs": [
-      "berlin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/biomodai",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "Zuid-Scharwoude",
-      "country": "Netherlands"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Netherlands",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-benchmark-labs",
+    "source": "techstars",
     "name": "Benchmark Labs",
     "description": "Benchmark Labs reduces operational costs and improves management practices by offering localized environmental forecasts for the agricultural sector and beyond.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6154b00c9ae9da3e1279797e/original/iso-red.png",
@@ -967,6 +1300,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/benchmark-labs-inc",
       "twitter": "https://twitter.com/LabsBenchmark",
@@ -978,13 +1312,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-agri-trak",
+    "source": "techstars",
     "name": "Agri-Trak",
     "description": "Agri-Trak is a software platform that manages farm labor and tracks productivity and harvest data.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_efd5858ed4003a4cf4ffdc56e.png",
@@ -1005,6 +1338,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/agritrak",
       "twitter": "https://twitter.com/AgriTrak",
@@ -1016,13 +1350,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sensate-robotics",
+    "source": "techstars",
     "name": "Sensate Robotics",
     "description": "Sensate Robotics merges force-sensing grippers with 3D vision to enable tactile robots to perform produce grading and packing with human-like touch, sight, and quality control.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_dfe875b82e5ef1ec403e6461a.png",
@@ -1046,6 +1379,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sensate-robotics",
       "twitter": "",
@@ -1057,13 +1391,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-feedx",
+    "source": "techstars",
     "name": "FeedX",
     "description": "An online marketplace for the animal feed industry.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5fbec87c44e0824632000010/original/Screen_Shot_2020-11-25_at_3.11.14_PM.png",
@@ -1083,6 +1416,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/feedx",
       "twitter": "https://twitter.com/tryFeedX",
@@ -1094,18 +1428,17 @@
       "state_province": "Wisconsin",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-beesage",
-    "name": "BeeSage",
-    "description": "Beehive monitoring system that provides real-time data to beekeepers, saving time and reducing bee mortality.",
+    "id": "techstars-colmenio",
+    "source": "techstars",
+    "name": "Colmenio",
+    "description": "Colmenio provides real-time hive sensing infrastructure for remote colony monitoring, apidological research, honey traceability and early risk detection in beekeeping.",
     "logo": "https://apimg.techstars.com/profiles/1658820996215_38969.png",
-    "website": "https://beesage.co",
-    "location": "Amsterdam, Netherlands",
+    "website": "https://colmenio.com",
+    "location": "The Hague, South Holland, Netherlands",
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
@@ -1121,23 +1454,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/beesage",
+      "linkedin": "https://linkedin.com/company/colmenio",
       "twitter": "https://twitter.com/BeeSageCo",
       "facebook": "https://facebook.com/beesageco",
       "crunchbase": "https://crunchbase.com/organization/beesage"
     },
     "extra": {
-      "city": "Amsterdam",
+      "city": "The Hague",
+      "state_province": "South Holland",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-rubilabs",
+    "source": "techstars",
     "name": "Rubilabs",
     "description": "RVS is Africa's largest livestock marketplace. We provide everything a livestock farmer needs for poultry, ruminants & fish farming.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_020c0e2677cce31f4d0bf2330.png",
@@ -1157,6 +1491,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1168,13 +1503,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-tomarket",
+    "source": "techstars",
     "name": "ToMarket",
     "description": "We aggregate all of a food brand's data across all their distributors.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b6e46d5744b5580eeeeb6b3fe.jpeg",
@@ -1195,6 +1529,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/david-moosman-07219635",
       "twitter": "https://twitter.com/ToMarketdotFarm",
@@ -1206,13 +1541,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-magueyexchange",
+    "source": "techstars",
     "name": "Magueyexchange",
     "description": "Technology enabling ethical exchange",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_12738c322b2612c8151495447.jpg",
@@ -1234,6 +1568,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/maguey-exchange",
       "twitter": "",
@@ -1245,13 +1580,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-contain",
+    "source": "techstars",
     "name": "Contain",
     "description": "Platform that connects the people who make indoor growing happen.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/hqsa5uqjskpbqjqubqdw",
@@ -1273,6 +1607,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/contain",
       "twitter": "https://twitter.com/containag",
@@ -1284,13 +1619,12 @@
       "state_province": "Nevada",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ecobloc",
+    "source": "techstars",
     "name": "EcoBloc",
     "description": "EcoBloc protects inventory and equipment using ultrasonic waves.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62d19b5989665b000892e14a/original/ecobloc.png",
@@ -1318,6 +1652,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ecobloc",
       "twitter": "",
@@ -1329,13 +1664,12 @@
       "state_province": "Newfoundland and Labrador",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-cropconex",
+    "source": "techstars",
     "name": "CropConex",
     "description": "CropConex is a marketplace and supply chain management platform streamlining the sales and exports of specialty crops worldwide.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62d1a1fc58d57e0008143376/original/CropConexIcon.png",
@@ -1359,6 +1693,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cropconex",
       "twitter": "https://twitter.com/CropConex",
@@ -1370,13 +1705,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-carbonbridge",
+    "source": "techstars",
     "name": "CarbonBridge",
     "description": "CarbonBridge is a climate-action company that generates industrial and transportation gases from agricultural waste streams. The methods used result in CDR as well as some offsets.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62d1a0f289665b000892e14b/original/Carbon_Bridge.png",
@@ -1400,6 +1734,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/carbonbridge",
       "twitter": "",
@@ -1411,13 +1746,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-agrocenta",
+    "source": "techstars",
     "name": "AgroCenta",
     "description": "Agricultural technology platform creating shared value for smallholder farmers and businesses",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62d1a1d358d57e0008143375/original/AgroCenta.png",
@@ -1438,6 +1772,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10857307",
       "twitter": "https://twitter.com/agrocenta",
@@ -1448,13 +1783,12 @@
       "city": "Accra",
       "country": "Ghana"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ghana",
     "alsoIn": []
   },
   {
     "id": "techstars-arbor-insight",
+    "source": "techstars",
     "name": "Arbor Insight",
     "description": "End-to-end agriculture robotic technology",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_96e32a002c6aa60273023e1c2.jpg",
@@ -1475,6 +1809,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/arborinsight",
       "twitter": "",
@@ -1486,13 +1821,12 @@
       "state_province": "Wisconsin",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cropmind",
+    "source": "techstars",
     "name": "CropMind",
     "description": "Cropmind is a Computer Vision technology that uses data-driven solutions to improve fruit growers' decision-making.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/sji1e0ymz3cgejns87kc",
@@ -1514,6 +1848,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cropmind",
       "twitter": "",
@@ -1525,13 +1860,12 @@
       "state_province": "Alberta",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-lambdai-space",
+    "source": "techstars",
     "name": "Lambdai Space",
     "description": "We are democratizing access to remote monitoring for climate impact",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/evkiil0uzt3zodyawzyi",
@@ -1555,6 +1889,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lambdai-space",
       "twitter": "",
@@ -1566,8 +1901,6 @@
       "state_province": "Lombardy",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": [
       "antler"
@@ -1575,6 +1908,7 @@
   },
   {
     "id": "techstars-climerock",
+    "source": "techstars",
     "name": "ClimeRock",
     "description": "Removing carbon while restoring soils with Enhanced Rock Weathering.",
     "logo": "https://apimg.techstars.com/profiles/1739294385909_450879.png",
@@ -1598,6 +1932,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/climerock",
       "twitter": "",
@@ -1608,13 +1943,12 @@
       "city": "Colombes",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-greener-herd",
+    "source": "techstars",
     "name": "Greener Herd",
     "description": "Greener Herd is pioneering the future of livestock farming with cutting-edge AI solutions designed to reduce methane emissions, enhance productivity, and promote sustainability. ",
     "logo": "https://apimg.techstars.com/profiles/1725447037784_2953.png",
@@ -1636,6 +1970,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/greener-herd",
       "twitter": "",
@@ -1647,13 +1982,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-farmshare",
+    "source": "techstars",
     "name": "farmshare",
     "description": "Farmshare is the operating system for modern American farmers, enabling them to excel in the direct-to-market sales channel with tools like logistics technology optimized for shipping perishable goods and AI email marketing automation.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_599da7ec3d19cd6291739b6af.png",
@@ -1674,6 +2008,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/farmshareco",
       "twitter": "",
@@ -1685,13 +2020,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-eqtrade",
+    "source": "techstars",
     "name": "Eqtrade",
     "description": "Eqtrade, powered by AI and ML, bridges the gaps in international food systems. Empowering farmers without business knowledge to transform their lands into sustainable ventures.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2d4c20ae9bd62c9b9e75e47a9.png",
@@ -1717,6 +2051,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/isabella-bernal-colpas-25768b11a",
       "twitter": "",
@@ -1727,13 +2062,12 @@
       "city": "Madrid",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
     "alsoIn": []
   },
   {
     "id": "techstars-cognitensor",
+    "source": "techstars",
     "name": "Cognitensor",
     "description": "Helping transforming ESG data into operational efficiency!",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/uzkhfuhdegxpsw0jit8h",
@@ -1760,6 +2094,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cognitensor",
       "twitter": "",
@@ -1771,13 +2106,12 @@
       "state_province": "Delhi",
       "country": "India"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "India",
     "alsoIn": []
   },
   {
     "id": "techstars-carpe-manana",
+    "source": "techstars",
     "name": "Carpe Mañana",
     "description": "Carpe Manana creates a proprietary bio plastic, PLAgave, using agave fibers from mezcal production, and our process helps clean the land and rivers of Oaxaca, for future generations. ",
     "logo": "https://apimg.techstars.com/profiles/1731688266466_341503.png",
@@ -1803,6 +2137,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/aaron-robinson-carpe-manana-inc",
       "twitter": "",
@@ -1814,13 +2149,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-raiz",
+    "source": "techstars",
     "name": "Raiz",
     "description": "Urban Farming Evolution. Building distributed farms catering to urban consumers in an energy efficient manner.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_41aff02fed704587c1de01563.jpeg",
@@ -1840,6 +2174,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/raiz-vertical-farms",
       "twitter": "",
@@ -1850,51 +2185,12 @@
       "city": "Lisbon",
       "country": "Portugal"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Portugal",
     "alsoIn": []
   },
   {
-    "id": "techstars-inverto-tech",
-    "name": "Inverto Tech",
-    "description": "Rewilding coastlines - beyond planting trees",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5ed5146d42dbb37cbc346941c.jpg",
-    "website": "https://inverto.tech",
-    "location": "Hilterfingen, Switzerland",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Agtech",
-      "Artificial intelligence and machine learning",
-      "Robotics and Drones"
-    ],
-    "year": 2024,
-    "program": "Sustainability Paris Techstars Accelerator",
-    "programSlugs": [
-      "paris"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/inverto-earth",
-      "twitter": "",
-      "facebook": "https://facebook.com/invertoit",
-      "crunchbase": "https://crunchbase.com/organization/inverto-cf10"
-    },
-    "extra": {
-      "city": "Hilterfingen",
-      "country": "Switzerland"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Switzerland",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-gst-dao",
+    "source": "techstars",
     "name": "GST DAO",
     "description": "community governed land trust whereby the equitable value of entrusted, protected land backs the value of our digital currency - GST.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_51f4cff431a304b2aed294f96.png",
@@ -1916,6 +2212,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gstdao",
       "twitter": "",
@@ -1926,13 +2223,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-gather-flora",
+    "source": "techstars",
     "name": "Gather Flora",
     "description": "Global Flower Marketplace",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_871c813331f1e8b5f60e61f71.png",
@@ -1956,6 +2252,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gather-flora",
       "twitter": "https://twitter.com/GatherFloraHelp",
@@ -1967,13 +2264,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-edn",
+    "source": "techstars",
     "name": "edn",
     "description": "Developer of intelligent indoor gardens",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56cde851808320b68b000008/original/edn-logo.png",
@@ -1995,6 +2291,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/edn-group-s-r-l-",
       "twitter": "https://twitter.com/edngarden",
@@ -2006,13 +2303,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-share-farm",
+    "source": "techstars",
     "name": "Share Farm",
     "description": "A digital farm economy, leveraging technology to simplify the distribution chain from Farm to Institution, hospitality and food service, providing members with unprecedented supply and demand insights.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vcikmftcmzchc8cd2xuw",
@@ -2035,6 +2331,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/share-farm",
       "twitter": "https://twitter.com/ShareFarmApp",
@@ -2046,13 +2343,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-blomso",
+    "source": "techstars",
     "name": "Blomso",
     "description": "For farmers that want to reduce operating cost and digitize operations, we provide a novel live rate soil sensing tech and SaaS based solution to reduce fertilizer waste, validate carbon capture, and bring digitization into the agricultural sector.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_56de98bdda2a77e1d09a76c0d.png",
@@ -2072,6 +2368,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/100920784",
       "twitter": "",
@@ -2083,51 +2380,12 @@
       "state_province": "Ohio",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-masa",
-    "name": "Masa",
-    "description": "Farmers market made simple",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/624526c0fe8b4800149b4a7f/original/masa_logo_final_update_0322_DARK.png",
-    "website": "https://masafresh.com",
-    "location": "Portland, Oregon, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Agtech",
-      "Foodtech"
-    ],
-    "year": 2022,
-    "program": "Techstars Impact powered by Cox Enterprises",
-    "programSlugs": [
-      "impact-cox"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/18975084",
-      "twitter": "",
-      "facebook": "https://facebook.com/himasafresh",
-      "crunchbase": "https://crunchbase.com/organization/masa-986c"
-    },
-    "extra": {
-      "city": "Portland",
-      "state_province": "Oregon",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-weradiate",
+    "source": "techstars",
     "name": "WeRadiate",
     "description": "WeRadiate empowers low-income and disadvantaged groups like farmers, municipalities, and organic recyclers to profitably engage in organic recycling.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b4aa4bf050a5a5e94dcec576b.png",
@@ -2151,6 +2409,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/weradiate",
       "twitter": "https://twitter.com/WeRadiateNY",
@@ -2162,13 +2421,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-seafood-ai",
+    "source": "techstars",
     "name": "Seafood AI",
     "description": "Revolutionizing seafood sourcing with advanced technology",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_bb4809f62b16442036517f1ee.png",
@@ -2190,6 +2448,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/seafood-ai",
       "twitter": "",
@@ -2201,13 +2460,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-meknology",
+    "source": "techstars",
     "name": "Meknology",
     "description": "Sustainable wastewater up-cycling and drinking water distillation.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_88ec80384b6132e3ae7f8e19d.png",
@@ -2225,12 +2483,13 @@
       "Oil and gas"
     ],
     "year": 2024,
-    "program": "Founder Catalyst WaterTech & Sustainability, Techstars WaterTech & Sustainability",
+    "program": "Techstars Founder Catalyst Alabama, Techstars WaterTech & Sustainability",
     "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/meknology",
       "twitter": "",
@@ -2242,13 +2501,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-hydrophos-solutions",
+    "source": "techstars",
     "name": "HydroPhos Solutions",
     "description": "A phosphorus filtration technology",
     "logo": "https://apimg.techstars.com/profiles/1724889662194_756016.png",
@@ -2268,6 +2526,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hydrophos-solutions",
       "twitter": "",
@@ -2279,13 +2538,12 @@
       "state_province": "New Hampshire",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-gaia-agricultural-technology",
+    "source": "techstars",
     "name": "Gaia Agricultural & Technology",
     "description": "A hydroponic growth system",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f7034fc779b4538f384c1befa.jpg",
@@ -2298,12 +2556,13 @@
       "Cleantech"
     ],
     "year": 2024,
-    "program": "Founder Catalyst WaterTech & Sustainability, Techstars WaterTech & Sustainability",
+    "program": "Techstars Founder Catalyst Alabama, Techstars WaterTech & Sustainability",
     "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/the-gaia-box",
       "twitter": "",
@@ -2315,13 +2574,12 @@
       "state_province": "Maryland",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-aquaorganix-usa",
+    "source": "techstars",
     "name": "AquaOrganix USA",
     "description": "AquaOrganix transforms plant waste into high-value fertilizers, biostimulants, and nutrients through our BioFermentative Nutrient Extraction process. We produce 13 natural products in 24 hours, eliminating the need for synthetic inputs. Our approach enriches soil, boosts plant growth, and reduces energy and labor costs. By converting waste into valuable resources, AquaOrganix accelerates growth and increases yields, driving sustainable, profitable, and ethical agriculture worldwide.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_270b1c0930cd572517af6bc1a.png",
@@ -2342,6 +2600,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/aquaorganix",
       "twitter": "",
@@ -2353,13 +2612,12 @@
       "state_province": "Wyoming",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-agriwater-corp",
+    "source": "techstars",
     "name": "Agriwater Corp",
     "description": "AgriWater Tech is a designer of a zero-waste ionizer device that helps clean water for agricultural, residential, and commercial use.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vsyyohrnmmtp7esoarkz",
@@ -2377,6 +2635,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/agriwater-corp",
       "twitter": "",
@@ -2388,13 +2647,12 @@
       "state_province": "Tennessee",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-gustomarket",
+    "source": "techstars",
     "name": "GustoMarket",
     "description": "GustoMarket is a software as a service (SaaS) that vertically integrates the food value chain for the hospitality industry.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_78d49966be3ceeb6043948f7c.png",
@@ -2417,6 +2675,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/supplybistro",
       "twitter": "",
@@ -2428,13 +2687,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ufarmx",
+    "source": "techstars",
     "name": "UfarmX",
     "description": "UfarmX is an AI-driven agri-fintech platform that provides farmers with collateral-free, input-based loans by analyzing geospatial and socioeconomic data. Our technology de-risks agricultural lending, enabling financial institutions to scale farmer financing while helping agribusinesses streamline procurement and market access. ",
     "logo": "https://apimg.techstars.com/profiles/1723148041943_858650.png",
@@ -2458,6 +2716,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ufarmx",
       "twitter": "",
@@ -2469,13 +2728,12 @@
       "state_province": "Maryland",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-eio-diagnostics",
+    "source": "techstars",
     "name": "EIO Diagnostics",
     "description": "EIO Diagnostics is an animal health diagnostics company launching our first product in the dairy industry focused on early indication of mastitis infections.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5bc4fb5434a60d6558000043/original/EIOlogos-01.jpg",
@@ -2500,6 +2758,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/18253436",
       "twitter": "https://twitter.com/EIODiagnostics",
@@ -2511,13 +2770,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dispatch",
+    "source": "techstars",
     "name": "Dispatch",
     "description": "We make it easy for enterprise service brands to gain real-time visibility across their entire independent network while delivering unparalleled experiences to their end-customers.",
     "logo": "https://pbs.twimg.com/profile_images/3402046298/a6cf4773b69e71d158e52c40ed2c9f7f_bigger.jpeg",
@@ -2542,6 +2800,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dispatch-labs",
       "twitter": "https://twitter.com/Dispatch",
@@ -2553,13 +2812,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-puebla",
+    "source": "techstars",
     "name": "Puebla",
     "description": "Building the digital infrastructure for high-value agriculture",
     "logo": "https://apimg.techstars.com/sf/accounts/logo/Logo_aa3be9097f6dd2180c45924be.jpeg",
@@ -2580,6 +2838,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/puebla",
       "twitter": "",
@@ -2591,13 +2850,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-planetarians",
+    "source": "techstars",
     "name": "PLANETARIANS",
     "description": "Most sustainable and affordable protein ",
     "logo": "https://apimg.techstars.com/profiles/1723668388854_678243.png",
@@ -2619,6 +2877,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/planetarians",
       "twitter": "https://twitter.com/PlanetariansNet",
@@ -2630,13 +2889,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mavuno-technologies",
+    "source": "techstars",
     "name": "Mavuno Technologies",
     "description": "Ag & FinTech social startup",
     "logo": "https://apimg.techstars.com/profiles/1650973221069_356316.png",
@@ -2659,6 +2917,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mavunotech",
       "twitter": "https://twitter.com/mavunotech",
@@ -2669,13 +2928,50 @@
       "city": "Berlin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
+    "id": "techstars-masa",
+    "source": "techstars",
+    "name": "Masa",
+    "description": "Farmers market made simple",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/624526c0fe8b4800149b4a7f/original/masa_logo_final_update_0322_DARK.png",
+    "website": "",
+    "location": "Portland, Oregon, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Agtech",
+      "Foodtech"
+    ],
+    "year": 2022,
+    "program": "Techstars Impact powered by Cox Enterprises",
+    "programSlugs": [
+      "impact-cox"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/18975084",
+      "twitter": "",
+      "facebook": "https://facebook.com/himasafresh",
+      "crunchbase": "https://crunchbase.com/organization/masa-986c"
+    },
+    "extra": {
+      "city": "Portland",
+      "state_province": "Oregon",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-inlike",
+    "source": "techstars",
     "name": "inlike",
     "description": "inlike enables SMB real estate developers to manage projects on a single cost-effective platform.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_20da08db60148dcd189998cf6.png",
@@ -2697,6 +2993,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/inlike-ai",
       "twitter": "https://twitter.com/inlike_ai",
@@ -2708,13 +3005,54 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-biomod-ai",
+    "source": "techstars",
+    "name": "Biomod AI",
+    "description": "AI Assistant for Biotech R&D",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d2e6309ad3875da9aeffbbdfb.png",
+    "website": "",
+    "location": "Zuid-Scharwoude, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Agtech",
+      "Artificial intelligence and machine learning",
+      "Climate tech",
+      "Digital health",
+      "Edtech",
+      "Healthtech",
+      "Oncology"
+    ],
+    "year": 2024,
+    "program": "Techstars Berlin Accelerator",
+    "programSlugs": [
+      "berlin"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/biomodai",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Zuid-Scharwoude",
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-avemus",
+    "source": "techstars",
     "name": "Avemus",
     "description": "Revolutionizing agricultural cooperatives",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_fe25d8756f04d36909e9661e8.jpeg",
@@ -2736,6 +3074,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/avemus",
       "twitter": "https://twitter.com/platfarm",
@@ -2746,9 +3085,46 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-namu-robotics",
+    "source": "techstars",
+    "name": "Namu Robotics",
+    "description": "Builds robotic systems for industries like forestry and mining, automating difficult work in complex outdoor environments.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4d9123a4ba113c7f0c47fde3c.png",
+    "website": "https://namurobotics.ai",
+    "location": "Toronto, Ontario, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Agtech",
+      "Cleantech",
+      "Robotics and Drones"
+    ],
+    "year": 2026,
+    "program": "Techstars Columbus Powered by The Ohio State University",
+    "programSlugs": [
+      "ohio-state-university-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/namu-robotics",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Toronto",
+      "state_province": "Ontario",
+      "country": "Canada"
+    },
+    "country": "Canada",
     "alsoIn": []
   },
   {

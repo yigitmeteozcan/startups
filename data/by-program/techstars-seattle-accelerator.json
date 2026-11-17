@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-zipline",
+    "source": "techstars",
     "name": "Zipline",
     "description": "Zipline operates the world's largest autonomous on-demand delivery system with the industry's leading instant logistics technology stack.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_bb62f1035290ee6b0fa48b098.png",
@@ -22,6 +23,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/flyzipline",
       "twitter": "https://twitter.com/zipline",
@@ -33,13 +35,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-remitly",
+    "source": "techstars",
     "name": "Remitly",
     "description": "Remitly is a mobile payments service that enables users to make person-to-person international money transfers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57b35f31bbe36f877200002e/original/icon_250x250_eafa15c2d7fcb1c4dd96f515b0cce26d.png",
@@ -60,6 +61,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/remitly",
       "twitter": "https://twitter.com/remitly",
@@ -71,13 +73,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-outreach",
+    "source": "techstars",
     "name": "Outreach",
     "description": "Outreach is a sales engagement platform that accelerates revenue growth by optimizing interactions throughout the customer lifecycle.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9889e25b277214abaf34b3f94.png",
@@ -88,7 +89,7 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Marketing tech",
-      "Technology, media and telecommunications"
+      "SaaS"
     ],
     "year": 2011,
     "program": "Techstars Seattle Accelerator",
@@ -99,6 +100,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/outreach-saas",
       "twitter": "https://twitter.com/outreach_io",
@@ -110,13 +112,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-kepler-communications",
+    "source": "techstars",
     "name": "Kepler Communications",
     "description": "Enabling real-time communications access to other spacecraft by developing a constellation of data relaying satellites that will effectively act as on-orbit cell phone towers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56abe5fba93e9f7cb0000002/original/KEPLERNEW.jpg",
@@ -125,10 +126,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Industrials",
       "Infrastructure",
-      "Internet of Things",
-      "Space tech"
+      "Space tech",
+      "Technology, media and telecommunications"
     ],
     "year": 2016,
     "program": "Techstars Seattle Accelerator",
@@ -139,6 +139,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kepler-communications-inc-",
       "twitter": "https://twitter.com/KeplerComms",
@@ -150,51 +151,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
-    "id": "techstars-levelten-energy",
-    "name": "LevelTen Energy",
-    "description": "A renewable energy transaction platform connecting C&I power buyers to PPAs from utility-scale wind, solar, and storage projects",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_eb0c9762e2f1211d3926d5e0a.png",
-    "website": "https://leveltenenergy.com",
-    "location": "Seattle, Washington, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Cleantech",
-      "Climate tech"
-    ],
-    "year": 2017,
-    "program": "Techstars Seattle Accelerator",
-    "programSlugs": [
-      "seattle"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/levelten-energy",
-      "twitter": "https://twitter.com/LevelTenEnergy",
-      "facebook": "https://facebook.com/LevelTen-Energy-350401385419488/",
-      "crunchbase": "https://crunchbase.com/organization/levelten-energy"
-    },
-    "extra": {
-      "city": "Seattle",
-      "state_province": "Washington",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-twelve-labs",
+    "source": "techstars",
     "name": "Twelve Labs",
     "description": "CTRL + F for contexts within videos.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6011a99fad39cb0009000009/original/twelve-labs-logo-square.png",
@@ -204,7 +166,8 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Infrastructure"
+      "Infrastructure",
+      "SaaS"
     ],
     "year": 2021,
     "program": "Techstars Seattle Accelerator",
@@ -215,6 +178,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/twelvelabs",
       "twitter": "https://twitter.com/twelve_labs",
@@ -226,13 +190,51 @@
       "state_province": "California",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-levelten-energy",
     "source": "techstars",
+    "name": "LevelTen Energy",
+    "description": "A renewable energy transaction platform connecting C&I power buyers to PPAs from utility-scale wind, solar, and storage projects",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_eb0c9762e2f1211d3926d5e0a.png",
+    "website": "https://leveltenenergy.com",
+    "location": "Seattle, Washington, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cleantech",
+      "Climate tech",
+      "SaaS"
+    ],
+    "year": 2017,
+    "program": "Techstars Seattle Accelerator",
+    "programSlugs": [
+      "seattle"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/levelten-energy",
+      "twitter": "https://twitter.com/LevelTenEnergy",
+      "facebook": "https://facebook.com/LevelTen-Energy-350401385419488/",
+      "crunchbase": "https://crunchbase.com/organization/levelten-energy"
+    },
+    "extra": {
+      "city": "Seattle",
+      "state_province": "Washington",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-logixboard",
+    "source": "techstars",
     "name": "Logixboard",
     "description": "Customer engagement platform for the $2 trillion freight forwarding industry.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_df313ee48cb69ac69a2b75fa3.png",
@@ -242,6 +244,7 @@
     "subregion": "North America",
     "tags": [
       "Big Data",
+      "SaaS",
       "Supply chain technology"
     ],
     "year": 2019,
@@ -253,6 +256,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/28149566",
       "twitter": "https://twitter.com/logixboard",
@@ -264,13 +268,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mast-reforestation",
+    "source": "techstars",
     "name": "Mast Reforestation",
     "description": "Making reforestation scalable.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/giffett3baesbxlopusv",
@@ -279,10 +282,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning",
       "Cleantech",
-      "Fintech",
-      "Robotics and Drones"
+      "Climate tech"
     ],
     "year": 2016,
     "program": "Techstars Seattle Accelerator",
@@ -293,6 +294,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mast-reforest",
       "twitter": "https://twitter.com/mastreforest",
@@ -304,13 +306,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-certa",
+    "source": "techstars",
     "name": "Certa",
     "description": "Certa is a software as service platform for business to business interactions, including on-boarding, due diligence, risk mitigation and monitoring of their third party relationships.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_58b5be8d39d6e828bfd0f9d04.jpeg",
@@ -320,7 +321,7 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Fintech",
+      "SaaS",
       "Supply chain technology"
     ],
     "year": 2013,
@@ -332,6 +333,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/certa-in",
       "twitter": "https://twitter.com/getcerta",
@@ -343,13 +345,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-tred",
+    "source": "techstars",
     "name": "TRED",
     "description": "Sell your car quickly for more money",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53d6d0afaf05d79bc900000b/original/tred.png",
@@ -369,6 +370,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tred",
       "twitter": "https://twitter.com/tred",
@@ -380,13 +382,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fig",
+    "source": "techstars",
     "name": "Fig",
     "description": "Private banking for the underbanked",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5730eed1bbe36f770000000e/original/fig-loans-logo.png",
@@ -395,8 +396,7 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Fintech",
-      "Gaming"
+      "Fintech"
     ],
     "year": 2016,
     "program": "Techstars Seattle Accelerator",
@@ -407,6 +407,7 @@
     "isUnicorn": false,
     "isBCorp": true,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fig-tech",
       "twitter": "https://twitter.com/figloans",
@@ -418,13 +419,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-forward-platform",
+    "source": "techstars",
     "name": "Forward Platform",
     "description": "Easily turn data into charts, maps and dashboards",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5810facac2f1c4b3c5000001/original/jPRf2igp.jpg",
@@ -433,7 +433,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Big Data"
+      "Artificial intelligence and machine learning",
+      "Fintech",
+      "SaaS"
     ],
     "year": 2014,
     "program": "Techstars Seattle Accelerator",
@@ -444,6 +446,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/livestories",
       "twitter": "https://twitter.com/LiveStoriesCom",
@@ -455,13 +458,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-locateai",
+    "source": "techstars",
     "name": "LocateAI",
     "description": "Make intelligent real estate decisions",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a4c24c1c9aec7192d00004b/original/LocateAi_logo_%281%29.png",
@@ -470,7 +472,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning"
+      "Artificial intelligence and machine learning",
+      "Real estate tech",
+      "SaaS"
     ],
     "year": 2014,
     "program": "Techstars Seattle Accelerator",
@@ -481,6 +485,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/locateai",
       "twitter": "https://twitter.com/LocateAI",
@@ -492,8 +497,6 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
@@ -501,6 +504,7 @@
   },
   {
     "id": "techstars-skilljar",
+    "source": "techstars",
     "name": "Skilljar",
     "description": "Customer training made simple",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3d64eeda9f9645a6e801a7034.jpg",
@@ -520,6 +524,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/skilljar",
       "twitter": "https://twitter.com/skilljar",
@@ -531,13 +536,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-leanplum",
+    "source": "techstars",
     "name": "Leanplum",
     "description": "Mobile app A/B testing made simple",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57f5496f34b274b126000005/original/Leanplum_logo_stacked.jpg",
@@ -558,6 +562,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/leanplum",
       "twitter": "https://twitter.com/leanplum",
@@ -569,14 +574,13 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-tawkitai",
-    "name": "TawkitAI",
+    "id": "techstars-copilotkit",
+    "source": "techstars",
+    "name": "CopilotKit",
     "description": "CopilotKit: open-source copilot infrastructure for productivity applications",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_44be0bde24ad3fbdc098acda7.png",
     "website": "https://copilotkit.ai",
@@ -596,8 +600,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/tawkit-ai",
+      "linkedin": "https://linkedin.com/company/copilotkit",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -607,13 +612,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-smore",
+    "source": "techstars",
     "name": "Smore",
     "description": "Beautiful, effective online flyers",
     "logo": "https://apimg.techstars.com/connect/images/image_files/531e/fe25/9f1e/11bb/4600/0003/original/smorelogo.jpg",
@@ -633,6 +637,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/smore",
       "twitter": "https://twitter.com/SmoreNewsletter",
@@ -643,13 +648,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-apptentive",
+    "source": "techstars",
     "name": "Apptentive",
     "description": "Mobile customer engagement software that helps companies listen, engage, and retain customers through intelligent in-app messages, surveys, and ratings prompts.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55e73ff0a93e9fe6a8000003/original/Apptentive.jpg",
@@ -669,6 +673,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/apptentive",
       "twitter": "https://twitter.com/apptentive",
@@ -680,13 +685,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-valid8-financial",
+    "source": "techstars",
     "name": "VALID8 Financial",
     "description": "Valid8 Financial offers financial services investigations by extracting and reconciling banking transactions from any PDF statement. The company was founded in 2017 by Tod McDonald and Chris McCall and is headquartered in Seattle, Washington.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/585857ed8083200c0b00002e/original/valid8_logo_sq.png",
@@ -696,7 +700,8 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Fintech"
+      "Fintech",
+      "Legal tech"
     ],
     "year": 2017,
     "program": "Techstars Seattle Accelerator",
@@ -707,6 +712,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/valid8-financial",
       "twitter": "https://twitter.com/valid8_cash",
@@ -718,13 +724,50 @@
       "state_province": "Colorado",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-md-ally",
     "source": "techstars",
+    "name": "MD Ally",
+    "description": "Our 911 telehealth solution allows emergency dispatchers and first responders to triage non-emergency callers to virtual care to improve patient outcomes.",
+    "logo": "https://apimg.techstars.com/profiles/1660600470915_415997.png",
+    "website": "https://mdally.com",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Digital health",
+      "Healthtech"
+    ],
+    "year": 2020,
+    "program": "Techstars Seattle Accelerator",
+    "programSlugs": [
+      "seattle"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/mdally",
+      "twitter": "https://twitter.com/mdallyinc",
+      "facebook": "https://facebook.com/mdallyinc",
+      "crunchbase": "https://crunchbase.com/organization/md-ally"
+    },
+    "extra": {
+      "city": "Philadelphia",
+      "state_province": "Pennsylvania",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-bizible-marketing-analytics",
+    "source": "techstars",
     "name": "Bizible Marketing Analytics",
     "description": "Optimization and effective inbound marketing of web presence for local businesses",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55f1f7208083201467000005/original/c4057013859856395247aaa716b22bd6_bigger.png",
@@ -744,6 +787,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bizible",
       "twitter": "https://twitter.com/bizible",
@@ -755,13 +799,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-silene-biotech",
+    "source": "techstars",
     "name": "Silene Biotech",
     "description": "Building your personalized medicine platform using your own cells.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59233f619c66a91c72000003/original/logo_square.png",
@@ -781,6 +824,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/17935186",
       "twitter": "https://twitter.com/SileneBiotech",
@@ -792,50 +836,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-md-ally",
-    "name": "MD Ally",
-    "description": "Our 911 telehealth solution allows emergency dispatchers and first responders to triage non-emergency callers to virtual care to improve patient outcomes.",
-    "logo": "https://apimg.techstars.com/profiles/1660600470915_415997.png",
-    "website": "https://mdally.com",
-    "location": "Philadelphia, Pennsylvania, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Healthtech"
-    ],
-    "year": 2020,
-    "program": "Techstars Seattle Accelerator",
-    "programSlugs": [
-      "seattle"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/mdally",
-      "twitter": "https://twitter.com/mdallyinc",
-      "facebook": "https://facebook.com/mdallyinc",
-      "crunchbase": "https://crunchbase.com/organization/md-ally"
-    },
-    "extra": {
-      "city": "Philadelphia",
-      "state_province": "Pennsylvania",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-educative",
+    "source": "techstars",
     "name": "Educative",
     "description": "Educative provides interactive & adaptive courses for professional software developers with pre-provisioned cloud-based training environments.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b4dc08834a60d4a5d00015e/original/BigLogo.png",
@@ -844,6 +850,7 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Artificial intelligence and machine learning",
       "Edtech"
     ],
     "year": 2018,
@@ -855,6 +862,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/educative-inc",
       "twitter": "https://twitter.com/educativeinc",
@@ -866,13 +874,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-bild-getbild-com",
+    "source": "techstars",
     "name": "Bild",
     "description": "Collaborate with your manufacturers in real-time.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6072093fc97c0a0007f12601/original/bild_logo.png",
@@ -881,9 +888,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Fintech",
-      "Infrastructure",
-      "Internet of Things"
+      "Artificial intelligence and machine learning",
+      "Manufacturing",
+      "SaaS"
     ],
     "year": 2021,
     "program": "Techstars Seattle Accelerator",
@@ -894,6 +901,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/getbild",
       "twitter": "https://twitter.com/lets_bild",
@@ -905,13 +913,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-insent-ai",
+    "source": "techstars",
     "name": "Insent.ai",
     "description": "Engage early, converse real-time, and close more",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5cd49346a36c117b02000112/original/Insent_square.png",
@@ -931,6 +938,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/insent-ai",
       "twitter": "https://twitter.com/Insent_ai",
@@ -942,13 +950,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-shippable",
+    "source": "techstars",
     "name": "Shippable",
     "description": "Ship code faster",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55f1f6c78083201467000004/original/162112-a54069e69c1c76a72e4335afd40be7a5-medium_jpg.jpg",
@@ -969,6 +976,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shippable",
       "twitter": "https://twitter.com/BeShippable",
@@ -980,13 +988,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-polly",
+    "source": "techstars",
     "name": "Polly",
     "description": "Survey Software built for Slack. Polly is on a mission to make it easy for teams to measure their work.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5730ef07808320659900000f/original/polly_logo.png",
@@ -995,7 +1002,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning"
+      "HRtech",
+      "SaaS"
     ],
     "year": 2016,
     "program": "Techstars Seattle Accelerator",
@@ -1006,6 +1014,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/polly.ai",
       "twitter": "https://twitter.com/polly_ai",
@@ -1017,13 +1026,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-downstream",
+    "source": "techstars",
     "name": "Downstream",
     "description": "Downstream is an ecommerce technology company, empowering consumer brands to more profitably & efficiently manage their ecommerce search & display marketing.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a628f7a9c66a977280000a4/original/DOWNSTREAM_LOGO_A_SQ.png",
@@ -1043,6 +1051,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/downstream",
       "twitter": "https://twitter.com/Downstream_Inc",
@@ -1054,13 +1063,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-keepe",
+    "source": "techstars",
     "name": "Keepe",
     "description": "B2B Marketplace connecting Property Managers to Contractors",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56abdfc5a93e9fc022000031/original/Keepe_NEW.jpg",
@@ -1069,7 +1077,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Mobile"
+      "Mobile",
+      "Real estate tech",
+      "SaaS"
     ],
     "year": 2016,
     "program": "Techstars Seattle Accelerator",
@@ -1080,6 +1090,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/keepe",
       "twitter": "https://twitter.com/KeepeApp",
@@ -1091,13 +1102,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-shyft",
+    "source": "techstars",
     "name": "Shyft",
     "description": "Global Labor Marketplace",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56abea99a93e9f7cb0000003/original/Shyft.jpg",
@@ -1106,7 +1116,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Mobile"
+      "HRtech",
+      "Mobile",
+      "SaaS"
     ],
     "year": 2016,
     "program": "Techstars Seattle Accelerator",
@@ -1117,6 +1129,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shyftapp",
       "twitter": "https://twitter.com/shyft",
@@ -1128,13 +1141,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-the-folklore",
+    "source": "techstars",
     "name": "The Folklore",
     "description": "The Folklore is a distributor of luxury African designer products.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6011ab46e63b5c0008000012/original/blackbox1.png",
@@ -1143,7 +1155,10 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Lifestyles of Health and Sustainability and wellness"
+      "Artificial intelligence and machine learning",
+      "E-commerce",
+      "SaaS",
+      "Supply chain technology"
     ],
     "year": 2021,
     "program": "Techstars Seattle Accelerator",
@@ -1154,6 +1169,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/the-folklore",
       "twitter": "https://twitter.com/TheFolklore",
@@ -1165,13 +1181,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-legalpad",
+    "source": "techstars",
     "name": "LegalPad",
     "description": "Legalpad automates the work visa application process through document generation and workflow management.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a68eadf9c66a91d7b000016/original/lp_02.jpg",
@@ -1191,6 +1206,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/legalpad",
       "twitter": "https://twitter.com/legalpadio",
@@ -1202,13 +1218,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-beam",
+    "source": "techstars",
     "name": "Beam",
     "description": "Interactive Livestreaming for Gamers",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56abd751a93e9f881c000002/original/beam_square.png",
@@ -1230,6 +1245,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/6139255",
       "twitter": "https://twitter.com/Beam",
@@ -1241,13 +1257,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-spocket",
+    "source": "techstars",
     "name": "Spocket",
     "description": "Marketplace for dropshippers to find products",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a2f22f59c66a9453600001d/original/Spocket_Full_Logo_sq.png",
@@ -1267,6 +1282,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10784337",
       "twitter": "https://twitter.com/spocketofficial",
@@ -1278,8 +1294,6 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": [
       "plugandplay"
@@ -1287,6 +1301,7 @@
   },
   {
     "id": "techstars-matcherino",
+    "source": "techstars",
     "name": "Matcherino",
     "description": "Matcherino is a technology company that builds software.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559d51ddbbe36fa06c000007/original/matcherino_square.jpg",
@@ -1308,6 +1323,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/matcherino-com",
       "twitter": "https://twitter.com/matcherino_",
@@ -1319,13 +1335,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-neu",
+    "source": "techstars",
     "name": "Neu",
     "description": "neu is a reliable platform that provides quality cleans, on-demand.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ea7439c34a60d322800002b/original/neu_square.png",
@@ -1345,6 +1360,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/neucleans",
       "twitter": "https://twitter.com/use_neu",
@@ -1356,13 +1372,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rexby",
+    "source": "techstars",
     "name": "Rexby",
     "description": "A platform where creators can sell travel advice to their community in an easy, scalable and profitable way.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6260137ca160160c973bd757/original/Instagram1.png",
@@ -1371,7 +1386,8 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "tags": [
-      "Lifestyles of Health and Sustainability and wellness",
+      "E-commerce",
+      "Marketing tech",
       "Mobile"
     ],
     "year": 2021,
@@ -1383,6 +1399,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rexby",
       "twitter": "",
@@ -1393,13 +1410,12 @@
       "city": "Reykjavik",
       "country": "Iceland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Iceland",
     "alsoIn": []
   },
   {
     "id": "techstars-retrocausal",
+    "source": "techstars",
     "name": "Retrocausal",
     "description": "Visual Mistake-Proofing for Manual Assembly",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e0e5dfda36c1120460000c7/original/Retrocausal_logo_squared.png",
@@ -1409,8 +1425,8 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Internet of Things",
-      "Virtual reality"
+      "Manufacturing",
+      "SaaS"
     ],
     "year": 2020,
     "program": "Techstars Seattle Accelerator",
@@ -1421,6 +1437,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/retrocausal-ai",
       "twitter": "https://twitter.com/RetrocausalAI",
@@ -1432,13 +1449,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-brite",
+    "source": "techstars",
     "name": "Brite",
     "description": "Turn-Key SaaS platform that helps after-school educators to manage their businesses and find high-quality STEM curricula.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6078893a37584c000885f8cb/original/brite_logo_copy.png",
@@ -1459,6 +1475,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/brite-education",
       "twitter": "https://twitter.com/gobrite_io",
@@ -1470,13 +1487,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-remio",
+    "source": "techstars",
     "name": "Remio",
     "description": "Building your personal electronic memory bank.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5cd4926034a60d647e0000a6/original/KRISTALIC_logo_square.png",
@@ -1485,8 +1501,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning",
-      "Mobile"
+      "Gaming",
+      "Virtual reality"
     ],
     "year": 2019,
     "program": "Techstars Seattle Accelerator",
@@ -1497,6 +1513,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kristalic",
       "twitter": "https://twitter.com/Remiovr",
@@ -1508,13 +1525,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-codementor",
+    "source": "techstars",
     "name": "CodeMentor",
     "description": "Instant help marketplace for developers",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f0f620142ab968e0e28eb2cac.jpeg",
@@ -1534,6 +1550,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10036603",
       "twitter": "https://twitter.com/codementorIO",
@@ -1545,8 +1562,6 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "500"
@@ -1554,6 +1569,7 @@
   },
   {
     "id": "techstars-olive-technologies",
+    "source": "techstars",
     "name": "Olive Technologies",
     "description": "Helping users round up their digital spare change and donate to non-profits, automatically",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e6befb134a60d6abc00005a/original/OliveUpdatedLogojustlogo-03.png",
@@ -1563,7 +1579,7 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Fintech"
+      "SaaS"
     ],
     "year": 2020,
     "program": "Techstars Seattle Accelerator",
@@ -1574,6 +1590,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/olive-gives",
       "twitter": "https://twitter.com/oliveapphq",
@@ -1585,13 +1602,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-everymove",
+    "source": "techstars",
     "name": "EveryMove",
     "description": "Make every healthy move count",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53d6d109af05d79bc900000c/original/everymove.png",
@@ -1612,6 +1628,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/2861422",
       "twitter": "https://twitter.com/everymove",
@@ -1623,13 +1640,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-gamesight",
+    "source": "techstars",
     "name": "Gamesight",
     "description": "Connecting players to games.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56241a8f808320bd99000004/original/InnervateLogoSquare.png",
@@ -1651,6 +1667,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gamesight",
       "twitter": "https://twitter.com/innervateinc",
@@ -1662,13 +1679,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-vendorhawk",
+    "source": "techstars",
     "name": "VendorHawk",
     "description": "SaaS Optimization for the Modern Enterprise",
     "logo": "https://apimg.techstars.com/connect/images/image_files/585858718083200c0b00002f/original/Vendorhawk_logo_sq.png",
@@ -1688,6 +1704,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/17904273",
       "twitter": "https://twitter.com/vendorhawk",
@@ -1699,13 +1716,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-garmentory",
+    "source": "techstars",
     "name": "Garmentory",
     "description": "Shop the best of the sale from boutiques and designers",
     "logo": "https://apimg.techstars.com/connect/images/image_files/545a9e35b34d1484a6000006/original/Garmentory_Logo_282x282.png",
@@ -1726,6 +1742,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/garmentory",
       "twitter": "https://twitter.com/garmentory",
@@ -1737,13 +1754,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-giftbit",
+    "source": "techstars",
     "name": "Giftbit",
     "description": "The digital-first gift card platform.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559d516e8083202037000009/original/giftbit_square.jpg",
@@ -1764,6 +1780,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/giftbit",
       "twitter": "https://twitter.com/giftbit",
@@ -1775,13 +1792,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-stack-moxie",
+    "source": "techstars",
     "name": "Stack Moxie",
     "description": "Automated observability and monitoring for complex no-code tech stacks, like Sales and Marketing.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6196efcabffb22072bbbc6a2/original/Logo-Stack_Moxie-square%28250x250%29.gif",
@@ -1801,6 +1817,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/stackmoxie",
       "twitter": "https://twitter.com/StackMoxie",
@@ -1812,13 +1829,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-reveal",
+    "source": "techstars",
     "name": "Reveal",
     "description": "Simple. Safe. Fun. Anonymous chat.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53d6d2b6af05d7c445000009/original/likebright.png",
@@ -1839,6 +1855,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/revealchat",
       "twitter": "https://twitter.com/revealchat",
@@ -1850,13 +1867,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-haiku-deck",
+    "source": "techstars",
     "name": "Haiku Deck",
     "description": "presentation software that doesn't suck",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5317/bbdd/056b/33e1/1200/0005/original/haiku_crane_logo.jpg",
@@ -1876,6 +1892,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/haiku-deck",
       "twitter": "https://twitter.com/haikudeck",
@@ -1887,13 +1904,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-freshline",
+    "source": "techstars",
     "name": "Freshline",
     "description": "Connecting restaurants and commercial seafood harvesters.",
     "logo": "https://apimg.techstars.com/profiles/1661899701901_19689.png",
@@ -1914,6 +1930,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/freshlineapp",
       "twitter": "https://twitter.com/coastlinemarket",
@@ -1925,13 +1942,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-swym",
+    "source": "techstars",
     "name": "Swym",
     "description": "Helping e-commerce brands deliver a seamless cross-device experience",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58598e538083206a2d00000d/original/swym_logo-sq.png",
@@ -1951,6 +1967,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/swym-corporation",
       "twitter": "https://twitter.com/swymit",
@@ -1962,13 +1979,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ganaz",
+    "source": "techstars",
     "name": "Ganaz",
     "description": "Connecting good employers with good workers, Ganaz is like LinkedIn and Glassdoor for farmers and farmworkers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a273701c9aec76fa9000004/original/Ganaz_logo.png",
@@ -1988,6 +2004,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/hannah-freeman-661881b",
       "twitter": "https://twitter.com/GanazLabor",
@@ -1999,13 +2016,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cuepath-innovation",
+    "source": "techstars",
     "name": "CuePath Innovation",
     "description": "Smart medication monitoring platform based on a popular disposable blister pack",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5858553c8083200c0b00002d/original/CuePath_logosq.png",
@@ -2026,6 +2042,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cuepath",
       "twitter": "https://twitter.com/cuepath",
@@ -2037,13 +2054,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-stackery",
+    "source": "techstars",
     "name": "Stackery",
     "description": "Serverless Development for Teams",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b22f7d734a60d013100005a/original/stackery-large-mark-navy-w.png",
@@ -2063,6 +2079,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/stackery",
       "twitter": "https://twitter.com/stackeryio",
@@ -2074,13 +2091,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-vizify",
+    "source": "techstars",
     "name": "Vizify",
     "description": "Personal website powered by your social media data",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3bb5/a6e7/4b16/2700/0006/original/Vizify.jpg",
@@ -2100,6 +2116,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/pub/chris-gueits",
       "twitter": "https://twitter.com/vizify",
@@ -2111,13 +2128,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-zendoc",
+    "source": "techstars",
     "name": "Zendoc",
     "description": "ZENDOC makes contract management easy for business users. One minute to Sign-Up. Five minutes to \"Wow!\"",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e3f6d00a36c1171ea000844/original/logo_-_in_a_square_2000x2000.png",
@@ -2137,6 +2153,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/zendoc",
       "twitter": "https://twitter.com/go_zendoc",
@@ -2148,13 +2165,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-glider",
+    "source": "techstars",
     "name": "Glider",
     "description": "Fixing secure document collaboration",
     "logo": "https://pbs.twimg.com/profile_images/2781192122/88538a9ff61dea8adc51fbb860ba4072_bigger.png",
@@ -2175,6 +2191,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/2573483",
       "twitter": "https://twitter.com/glider_com",
@@ -2186,13 +2203,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-caravel",
+    "source": "techstars",
     "name": "Caravel",
     "description": "Continuous monitoring of voice and text data that ensures customers are happy by enabling teams to act quickly when they're not.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e962579a36c115d3b00007f/original/caravelbadge.png",
@@ -2212,6 +2228,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/caravel-conversational-ai",
       "twitter": "https://twitter.com/_Caravel",
@@ -2223,13 +2240,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-highlighter",
+    "source": "techstars",
     "name": "Highlighter",
     "description": "Highlight. Comment. Share",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3aaa/a6e7/4b70/e600/0007/original/Highlighter.jpg",
@@ -2249,6 +2265,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/highlighter",
       "twitter": "https://twitter.com/highlightercom",
@@ -2260,13 +2277,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-reflect",
+    "source": "techstars",
     "name": "Reflect",
     "description": "Data visualization as a service",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56abe28aa93e9f881c000005/original/ReflectNEW.jpg",
@@ -2286,6 +2302,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10564185",
       "twitter": "https://twitter.com/ReflectHQ",
@@ -2297,13 +2314,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-validated",
+    "source": "techstars",
     "name": "Validated",
     "description": "Shop. Dine. We'll cover your ride",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56bcea4abbe36ffacd000006/original/ValidatedLogo-282x282.png",
@@ -2323,6 +2339,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/validated",
       "twitter": "https://twitter.com/get_validated",
@@ -2334,13 +2351,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-zippiai",
+    "source": "techstars",
     "name": "Zippiai",
     "description": "ZippiAi is a predictive maintenance software designed to predict and reduce machine breakdown and improve energy efficiency.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ecb42313570e5c53cd39380c2.png",
@@ -2362,6 +2378,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/zippiai-inc",
       "twitter": "",
@@ -2373,13 +2390,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-visionify",
+    "source": "techstars",
     "name": "Visionify",
     "description": "Visionify helps improve Workplace Safety by providing VisionAI services.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_fa933d7a973a39fb94e8bd852.png",
@@ -2399,6 +2415,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/visionify-ai",
       "twitter": "https://twitter.com/Visionify",
@@ -2410,13 +2427,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-trellis-health",
+    "source": "techstars",
     "name": "Trellis Health",
     "description": "Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_54ef06d314f57fdb008fe59b3.png",
@@ -2438,6 +2454,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mytrellishealth",
       "twitter": "",
@@ -2449,13 +2466,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-talkstack",
+    "source": "techstars",
     "name": "Talkstack",
     "description": "TalkStack provides a no-code Gen AI customer experience platform to enterprises without AI teams and can deliver human-like conversations including lead generation and qualification.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3ae7c4e03f399c73b8faac073.png",
@@ -2475,6 +2491,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/talkstackai",
       "twitter": "https://twitter.com/Gummys_io",
@@ -2485,13 +2502,12 @@
       "city": "Singapore",
       "country": "Singapore"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Singapore",
     "alsoIn": []
   },
   {
     "id": "techstars-stackbob",
+    "source": "techstars",
     "name": "StackBob",
     "description": "Workforce access and license management platform powered by an AI agent that replaces Okta.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3e1ac5025e261d4bc9b31f1da.png",
@@ -2511,6 +2527,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/stackbob",
       "twitter": "https://twitter.com/stackbobai",
@@ -2522,13 +2539,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-prospero",
+    "source": "techstars",
     "name": "Prospero",
     "description": "Prospero fully automates email marketing for businesses that do not have a marketing team",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a01cced1c4128a434140e37b7.png",
@@ -2549,6 +2565,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/prospero-inc",
       "twitter": "",
@@ -2560,13 +2577,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-propio",
+    "source": "techstars",
     "name": "Propio",
     "description": "Propio puts Latino independent workers in the driver's seat to seamlessly manage payments, taxes, benefits and financial access.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_1b90dcc49796c3ecc1d4cfd32.png",
@@ -2589,6 +2605,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/joinpropio",
       "twitter": "https://twitter.com/join_propio",
@@ -2600,13 +2617,12 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-produx",
+    "source": "techstars",
     "name": "Produx",
     "description": "Produx AI enables smarter decisions for B2B product teams by analyzing customer or prospect feedback from multiple sources and extracts actionable insights for product teams",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f4e1337998b3991b11bc7e692.png",
@@ -2626,6 +2642,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/produxai",
       "twitter": "",
@@ -2637,13 +2654,12 @@
       "state_province": "Kerala",
       "country": "India"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "India",
     "alsoIn": []
   },
   {
     "id": "techstars-planette",
+    "source": "techstars",
     "name": "Planette",
     "description": "Planette.ai empowers enterprises to adapt to climate change by providing year-ahead extreme weather risk forecasts.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c593edce504033e84024a1f97.png",
@@ -2665,6 +2681,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/planetteai",
       "twitter": "",
@@ -2676,50 +2693,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-pezzo",
-    "name": "Pezzo",
-    "description": "Pezzo empowers organizations to seamlessly integrate and optimize AI in their software, without requiring prior AI/ML expertise.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5cde6e22d246e3e9846a830be.png",
-    "website": "https://pezzo.ai",
-    "location": "San Francisco, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning"
-    ],
-    "year": 2023,
-    "program": "Techstars Seattle Accelerator",
-    "programSlugs": [
-      "seattle"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/pezzo-ai",
-      "twitter": "https://twitter.com/PezzoAI",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/pezzo-e133"
-    },
-    "extra": {
-      "city": "San Francisco",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-paralog",
+    "source": "techstars",
     "name": "Paralog",
     "description": "Paralog is an AI platform to democratize and accelerate production of NPC behaviors in video games.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ac5da60e7f849cdbfecfd5e48.png",
@@ -2739,6 +2718,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/paralog-ai",
       "twitter": "",
@@ -2750,13 +2730,12 @@
       "state_province": "Quebec",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-moyae",
+    "source": "techstars",
     "name": "Moyae",
     "description": "Moyae is the ultimate Electronic Health Record solution designed for ophthalmologists and optometrists",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_34edd87f3cc712e19856b3529.png",
@@ -2776,6 +2755,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/moyae",
       "twitter": "",
@@ -2787,13 +2767,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-inquisio-ai",
+    "source": "techstars",
     "name": "Inquisio.AI",
     "description": "Inquisio.AI: an AI-powered copilot eliminating repetitive workflows starting with public information requests.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_53cc2df15556b3ce600151a2a.png",
@@ -2813,6 +2792,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/inquisio-ai",
       "twitter": "",
@@ -2824,13 +2804,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-et-cetera-robotics",
+    "source": "techstars",
     "name": "Et Cetera Robotics",
     "description": "Etc. Robotics upgrades robots to see what others miss.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_048dd9bd21f58f86784187d5d.png",
@@ -2850,6 +2829,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/et-cetera-robotics",
       "twitter": "",
@@ -2861,13 +2841,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-easy-platter",
+    "source": "techstars",
     "name": "Easy Platter",
     "description": "Platform to hire a chef to cook weekly meals in your home starting $89/Wk.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2db5550d65e43b03c959f7f87.png",
@@ -2887,6 +2866,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/easy-platter",
       "twitter": "https://twitter.com/EasyPlatter",
@@ -2898,13 +2878,12 @@
       "state_province": "Nova Scotia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-cloud-fence",
+    "source": "techstars",
     "name": "Cloud Fence",
     "description": "One-click deploy full stack network security and security insights to manage security across your cloud infrastructure.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ae87ec78a7ffd3113fa0aee6f.png",
@@ -2924,6 +2903,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cloud-fence",
       "twitter": "",
@@ -2934,13 +2914,12 @@
       "city": "Roquebrune Sur Argens",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-chi-ai",
+    "source": "techstars",
     "name": "Chi AI",
     "description": "Actionable code risk intelligence for Microservices",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d116556e540baf79b00010cf2.png",
@@ -2960,6 +2939,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/chi-ai",
       "twitter": "",
@@ -2971,13 +2951,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-chassy",
+    "source": "techstars",
     "name": "Chassy",
     "description": "Chassi helps robotics and embedded companies ship software 10x faster and cheaper by automating their entire development workflow",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_24efc771a7ad4368cb37d5fc4.png",
@@ -2997,6 +2976,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/chassi-inc",
       "twitter": "",
@@ -3008,13 +2988,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-carecopilot",
+    "source": "techstars",
     "name": "CareCopilot",
     "description": "CareCopilot is an intelligent, managed marketplace of everything that you need when caring for an adult loved one with specialized care needs.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_02e0702a697d55cafc86f38f9.png",
@@ -3034,6 +3013,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/carecopilot",
       "twitter": "https://twitter.com/CareCopilotCo",
@@ -3045,13 +3025,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-adsgency-ai",
+    "source": "techstars",
     "name": "AdsGency AI",
     "description": "Marketing agencies save time & money with our one-stop ads AI platform.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6a4237db3e024540d348bd0ac.png",
@@ -3071,6 +3050,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/adsgency-ai",
       "twitter": "https://twitter.com/AdsGency_AI",
@@ -3082,8 +3062,6 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
@@ -3091,6 +3069,7 @@
   },
   {
     "id": "techstars-storey-the-app",
+    "source": "techstars",
     "name": "Storey The App",
     "description": "Shop and sell from your digital wardrobe: We are automatically building the world's largest and most transparent second-hand designer fashion inventory.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6077ddea2c48630607ff06e1/original/Storey_Marketing_Icon_White_Border.png",
@@ -3110,6 +3089,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/storeytheapp",
       "twitter": "https://twitter.com/StoreyTheApp",
@@ -3121,13 +3101,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-edith-labs",
+    "source": "techstars",
     "name": "Edith Labs",
     "description": "The network for the under-networked.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/600f1d712553130008000093/original/edith-square.png",
@@ -3148,6 +3127,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/edith-labs",
       "twitter": "https://twitter.com/edith_labs",
@@ -3159,13 +3139,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-aplic-platform",
+    "source": "techstars",
     "name": "Aplic Platform",
     "description": "Solving global higher education's financial crisis by matching universities and colleges with students seeking study abroad opportunities",
     "logo": "https://apimg.techstars.com/connect/images/image_files/605544bfc97c0a0007ed5794/original/LOGO.jpg",
@@ -3185,6 +3164,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/aplicplatform",
       "twitter": "https://twitter.com/aplicplatform",
@@ -3196,13 +3176,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-afriblocks",
+    "source": "techstars",
     "name": "AfriBlocks",
     "description": "The Pan-African Freelance Talen Network",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6011aa3dad39cb000900000a/original/AFRI_BLOCKS-3.png",
@@ -3222,6 +3201,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/afriblocks",
       "twitter": "https://twitter.com/afriblocks",
@@ -3233,13 +3213,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-1lens",
+    "source": "techstars",
     "name": "1lens",
     "description": "Toggl's vision is to immerse people in awe-inspiring magical worlds anywhere they want them through augmented reality.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c48b2c934a60d0335000095/original/cropped-Toggl_AR-square.png",
@@ -3260,6 +3239,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/1lens",
       "twitter": "https://twitter.com/TogglAR",
@@ -3271,13 +3251,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-introwise",
+    "source": "techstars",
     "name": "Introwise",
     "description": "Making it easy for everyday experts to offer coaching and advice online.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e0e30a1a36c1120460000b6/original/Introwise-logo-sq-whitebg_2x.png",
@@ -3298,6 +3277,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/introwise",
       "twitter": "https://twitter.com/introwise",
@@ -3309,13 +3289,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mobiledevhq",
+    "source": "techstars",
     "name": "MobileDevHQ",
     "description": "App store optimization",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55e7409da93e9fe6a8000004/original/mobiledevhq.png",
@@ -3337,6 +3316,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mobiledevhq",
       "twitter": "https://twitter.com/MobileDevHQ",
@@ -3348,13 +3328,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mightysignal",
+    "source": "techstars",
     "name": "MightySignal",
     "description": "Hard-to-get-data on every mobile app right at your fingertips",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5452a4501baad4b998000002/original/MightySignal_square.png",
@@ -3374,6 +3353,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/4539042",
       "twitter": "https://twitter.com/mightysignal",
@@ -3385,13 +3365,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-unpluq",
+    "source": "techstars",
     "name": "Unpluq",
     "description": "Unpluq is on a mission to empower everyone to enjoy a healthy digital life, through a unique mobile solution.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vmtuxu8um1fg0mr4zx5s",
@@ -3413,6 +3392,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/unpluq",
       "twitter": "https://twitter.com/unpluq",
@@ -3423,13 +3403,12 @@
       "city": "Rotterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-towgrace",
+    "source": "techstars",
     "name": "Towgrace",
     "description": "Localized service marketplace starting with towing and automotive repair services.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_27ab87ae612b939f4dd73ed3c.jpeg",
@@ -3449,6 +3428,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dealgrace",
       "twitter": "",
@@ -3460,13 +3440,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-silico-data",
+    "source": "techstars",
     "name": "Silico Data",
     "description": "Automate and digitize pharmaceutical companies' FDA required work.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/s33wqxokl1vjrbrk7fjw",
@@ -3487,6 +3466,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/silico-data-services",
       "twitter": "",
@@ -3498,13 +3478,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-perry",
+    "source": "techstars",
     "name": "Perry",
     "description": "A global community and vetted marketplace for menopause.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f7bbd75d05231c3bcd276c671.png",
@@ -3524,6 +3503,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/perryapp",
       "twitter": "https://twitter.com/ohhelloperry",
@@ -3534,13 +3514,12 @@
       "city": "Geneva",
       "country": "Switzerland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Switzerland",
     "alsoIn": []
   },
   {
     "id": "techstars-oversight",
+    "source": "techstars",
     "name": "Oversight",
     "description": "3D, visual, and unified data management platform that connects any map-locatable device for enhancing operators' situational awareness and decision-making using XR tools",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/u3frh4yoguxwkepkaedl",
@@ -3564,6 +3543,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/oversight-ar",
       "twitter": "",
@@ -3574,13 +3554,12 @@
       "city": "Poria Illit",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-gather-flora",
+    "source": "techstars",
     "name": "Gather Flora",
     "description": "Global Flower Marketplace",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_871c813331f1e8b5f60e61f71.png",
@@ -3604,6 +3583,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gather-flora",
       "twitter": "https://twitter.com/GatherFloraHelp",
@@ -3615,13 +3595,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dealpad",
+    "source": "techstars",
     "name": "dealpad",
     "description": "Dealpad is a Virtual Sales Room Platform that transforms more leads into clients and closes transactions on time.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/cahstqjns5yfrwtgoovu",
@@ -3642,6 +3621,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dealpad-io",
       "twitter": "",
@@ -3652,8 +3632,6 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": [
       "500"
@@ -3661,6 +3639,7 @@
   },
   {
     "id": "techstars-airtorch",
+    "source": "techstars",
     "name": "Airtorch",
     "description": "Low code platform to create AI applications that drive critical business decisions.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/wicqmdq7qh1nxlqffo4f",
@@ -3684,6 +3663,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/airtorchio",
       "twitter": "",
@@ -3695,13 +3675,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-lightboard",
+    "source": "techstars",
     "name": "Lightboard",
     "description": "Design on demand for marketing and sales departments, starting at $75/hr.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55bac912808320d5e6000001/original/Lightboard_Artwork.png",
@@ -3721,6 +3700,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lightboarding",
       "twitter": "https://twitter.com/lightboarding",
@@ -3732,13 +3712,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-hazel",
+    "source": "techstars",
     "name": "Hazel",
     "description": "*TOP PITCH FROM DEMO DAY* // Hazel helps growing companies develop their managers. Better managers means increased retention and engagement from every employee.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/585c5692bbe36f991600000b/original/hazel-logo-sq.jpg",
@@ -3758,6 +3737,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hellohazel",
       "twitter": "https://twitter.com/workwithhazel",
@@ -3769,13 +3749,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-brand-ai",
+    "source": "techstars",
     "name": "Brand.ai",
     "description": "The Future of User Interface Development",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559d5086a93e9fa6b1000001/original/brandai_square.png",
@@ -3796,6 +3775,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/brand-ai",
       "twitter": "https://twitter.com/brandaiapp",
@@ -3807,24 +3787,23 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-touchbase",
-    "name": "TouchBase",
-    "description": "Bridging the gap between sales and marketing",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/53c6c680e77a5ff05e000001/original/iPad_App_Icon_152.png",
-    "website": "https://touchbaseinc.com",
-    "location": "Bothell, Washington, United States",
+    "id": "techstars-designlab",
+    "source": "techstars",
+    "name": "Designlab",
+    "description": "We unlock creative potential and empower people to do the work they love.",
+    "logo": "https://apimg.techstars.com/profiles/1713795755880_710129.png",
+    "website": "https://designlab.com",
+    "location": "Seattle, Washington, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Mobile"
+      "Edtech"
     ],
-    "year": 2014,
+    "year": 2013,
     "program": "Techstars Seattle Accelerator",
     "programSlugs": [
       "seattle"
@@ -3833,24 +3812,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/touchbase-inc-",
-      "twitter": "https://twitter.com/touchbaseinc",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/touchbase-inc"
+      "linkedin": "https://linkedin.com/company/designlab-learning",
+      "twitter": "https://twitter.com/trydesignlab",
+      "facebook": "https://facebook.com/trydesignlab",
+      "crunchbase": "https://crunchbase.com/organization/designlab"
     },
     "extra": {
-      "city": "Bothell",
+      "city": "Seattle",
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ziplunch",
+    "source": "techstars",
     "name": "ZipLunch",
     "description": "Helping restaurants improve their margins.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6193d1b7713f141142b37956/original/ZIPLUNCH_whiteonred_-_282.png",
@@ -3870,6 +3849,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ziplunch",
       "twitter": "https://twitter.com/ZipLunch",
@@ -3881,13 +3861,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-she-matters",
+    "source": "techstars",
     "name": "She Matters",
     "description": "She Matters is a digital health platform that provides comprehensive maternal care to Black women and cultural competence training to healthcare professionals.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/618d427eab003faf3a917fc6/original/shematters_LOGO_PNG.png",
@@ -3910,6 +3889,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/she-matters-inc",
       "twitter": "https://twitter.com/shematters",
@@ -3921,13 +3901,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-proxi",
+    "source": "techstars",
     "name": "Proxi",
     "description": "Proxi powers the future of personalized navigation by making mapping for everyone.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61b7c7fcd7ef4f00085c5bcb/original/Untitled_design-30.png",
@@ -3950,6 +3929,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/proxi-co",
       "twitter": "https://twitter.com/Proxi_Co",
@@ -3961,13 +3941,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-edizeven",
+    "source": "techstars",
     "name": "Edizeven",
     "description": "We provide tech-powered, personalized hiring services for restaurants, helping them hire staff 3x faster and better.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/616dd2d7becedc00087b6cee/original/Edizeven_square_logo.png",
@@ -3987,6 +3966,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/edizeven",
       "twitter": "https://twitter.com/edizeven87",
@@ -3998,87 +3978,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-adaptively-education",
-    "name": "Adaptively Education",
-    "description": "Adaptively Education seamlessly delivers live virtual teacher-led classroom experiences to help students reach their academic goals.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/6217da95209581000880df23/original/Adaptively_icon_only_small.png",
-    "website": "https://adaptivelyeducation.com",
-    "location": "Bellevue, Washington, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Edtech"
-    ],
-    "year": 2021,
-    "program": "Techstars Seattle Accelerator",
-    "programSlugs": [
-      "seattle"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/adaptively-education",
-      "twitter": "https://twitter.com/adaptivelyeducation",
-      "facebook": "https://facebook.com/adaptivelyeducation",
-      "crunchbase": "https://crunchbase.com/organization/adaptively-education"
-    },
-    "extra": {
-      "city": "Bellevue",
-      "state_province": "Washington",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-designlab",
-    "name": "Designlab",
-    "description": "We unlock creative potential and empower people to do the work they love.",
-    "logo": "https://apimg.techstars.com/profiles/1713795755880_710129.png",
-    "website": "https://designlab.com",
-    "location": "Seattle, Washington, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Edtech"
-    ],
-    "year": 2013,
-    "program": "Techstars Seattle Accelerator",
-    "programSlugs": [
-      "seattle"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/designlab-learning",
-      "twitter": "https://twitter.com/trydesignlab",
-      "facebook": "https://facebook.com/trydesignlab",
-      "crunchbase": "https://crunchbase.com/organization/designlab"
-    },
-    "extra": {
-      "city": "Seattle",
-      "state_province": "Washington",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-gochime",
+    "source": "techstars",
     "name": "GoChime",
     "description": "ESP/CRM Retargeting on Facebook, Twitter and more",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3c01/a6e7/4bae/2600/000a/original/GoCHime.jpg",
@@ -4099,6 +4004,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gochime",
       "twitter": "https://twitter.com/gochime",
@@ -4110,13 +4016,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-flexminder",
+    "source": "techstars",
     "name": "FlexMinder",
     "description": "Simplifying Flexible Spending",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53d6d2f5b5e11e5a8f00000a/original/flexminder.png",
@@ -4136,6 +4041,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/flexminder",
       "twitter": "https://twitter.com/flexminder",
@@ -4147,13 +4053,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-instagift",
+    "source": "techstars",
     "name": "InstaGift",
     "description": "The easiest way to sell gift cards online and build complementary rewards programs",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3a78/b776/10db/7000/000c/original/Deal_Coop.jpg",
@@ -4173,6 +4078,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/instagift",
       "twitter": "https://twitter.com/InstaGift",
@@ -4184,13 +4090,12 @@
       "state_province": "Alabama",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-thinkfuse",
+    "source": "techstars",
     "name": "Thinkfuse",
     "description": "Share your progress",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3b5d/b776/1035/b600/000a/original/ThinkFuse.jpg",
@@ -4211,6 +4116,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/thinkfuse",
       "twitter": "https://twitter.com/thinkfuse",
@@ -4222,13 +4128,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mentio-technologies",
+    "source": "techstars",
     "name": "Mentio Technologies",
     "description": "Predictive cash flow forecasts to move your business forward",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559d520aa93e9f55f500000f/original/mentio_square.jpg",
@@ -4250,6 +4155,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/3780862",
       "twitter": "https://twitter.com/mentioHQ",
@@ -4261,13 +4167,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-ziibra",
+    "source": "techstars",
     "name": "ZIIBRA",
     "description": "Helping online retailers convert window shoppers into loyal customers",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559d5234808320203700000b/original/ziibra_square.jpg",
@@ -4287,6 +4192,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ziibra-inc-",
       "twitter": "https://twitter.com/ZIIBRA",
@@ -4298,13 +4204,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-the-shared-web",
+    "source": "techstars",
     "name": "The Shared Web",
     "description": "Social Web",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3b42/a6e7/4bae/2600/0009/original/Shared_Web.jpg",
@@ -4325,6 +4230,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "https://twitter.com/thesharedweb",
@@ -4336,13 +4242,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-talio-labs",
+    "source": "techstars",
     "name": "Talio Labs",
     "description": "Epic moving selfies",
     "logo": "https://s3.amazonaws.com/photos.angel.co/startups/i/281859-c78cb3564c25eeb69fbce12c5d44398e-medium_jpg.jpg?buster=1382032447",
@@ -4362,6 +4267,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "https://twitter.com/talioapp",
@@ -4373,13 +4279,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-colatris",
+    "source": "techstars",
     "name": "Colatris",
     "description": "Helping great apps have a global impact.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_80b31e63ebb962bda075e7331.jpeg",
@@ -4399,6 +4304,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/3717679?trk=prof-exp-company-name",
       "twitter": "https://twitter.com/Verbalize_It",
@@ -4410,13 +4316,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-nodesmith",
+    "source": "techstars",
     "name": "Nodesmith",
     "description": "Nodesmith is a platform that connects applications to decentralized blockchain networks.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c2e8dae34a60d6641000018/original/nodesmithLogo_avatar.png",
@@ -4436,6 +4341,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nodesmith",
       "twitter": "https://twitter.com/nodesmith",
@@ -4447,13 +4353,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-inside-social",
+    "source": "techstars",
     "name": "Inside Social",
     "description": "Prove and improve the impact social has on the metrics that drive business",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5331/dff4/5ec8/b073/8900/0005/original/IS_Square_Logo.jpg",
@@ -4473,6 +4378,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/3113798",
       "twitter": "https://twitter.com/inside_social",
@@ -4484,13 +4390,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-datablade",
+    "source": "techstars",
     "name": "DataBlade",
     "description": "Data insights without the overhead",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559d50c5808320bb42000001/original/datablade_square.jpg",
@@ -4511,6 +4416,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/datablade-inc-",
       "twitter": "https://twitter.com/databladeio",
@@ -4522,13 +4428,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-crowsnest",
+    "source": "techstars",
     "name": "Crowsnest",
     "description": "Customer support automation for Internet connected consumer products.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53c436d416307a97bc000001/original/crowsnest_blue_logo_(3).png",
@@ -4548,6 +4453,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/crowsnest-labs",
       "twitter": "https://twitter.com/crowsnestio",
@@ -4559,13 +4465,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-gomiles",
+    "source": "techstars",
     "name": "GoMiles",
     "description": "Rewards management",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3a94/a6e7/4b16/2700/0004/original/GoMiles.jpg",
@@ -4585,6 +4490,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gomiles.com",
       "twitter": "https://twitter.com/GoMiles_Com",
@@ -4596,13 +4502,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-yave",
+    "source": "techstars",
     "name": "Yave",
     "description": "Yave is building better businesses in coffee by connecting commerce in a fragmented value chain.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e9627ef34a60d416d000171/original/yave_logo2_%281%29.png",
@@ -4623,6 +4528,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/yave",
       "twitter": "https://twitter.com/yave_io",
@@ -4634,13 +4540,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-world-blender",
+    "source": "techstars",
     "name": "World Blender",
     "description": "Social, location-based games",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3b7c/a6e7/4b16/2700/0005/original/WorldBlender.jpg",
@@ -4662,6 +4567,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/1436317",
       "twitter": "https://twitter.com/worldblender",
@@ -4673,13 +4579,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-wesolv",
+    "source": "techstars",
     "name": "WeSolv",
     "description": "Connecting companies to diverse candidates and predictive performance data from real business challenges.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a273689c9aec76fa9000001/original/wesolv_logo_bulb_icon_white_BG.png",
@@ -4699,6 +4604,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wesolv",
       "twitter": "https://twitter.com/WeSolv",
@@ -4710,13 +4616,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-wavelength",
+    "source": "techstars",
     "name": "Wavelength",
     "description": "Wavelength is an audio platform that encourages women to take care of themselves and have a positive food perspective.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61852cd6ab003f73c25591c7/original/IconforInstagram.png",
@@ -4738,6 +4643,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/joinwavelength",
       "twitter": "https://twitter.com/joinwavelength",
@@ -4749,13 +4655,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-truefacet",
+    "source": "techstars",
     "name": "TrueFacet",
     "description": "Shop and sell designer jewelry with confidence",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5441e76a6184d56b3e000001/original/TF_Logo.jpg",
@@ -4776,6 +4681,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/truefacet",
       "twitter": "https://twitter.com/truefacet",
@@ -4787,13 +4693,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-tribl",
+    "source": "techstars",
     "name": "Tribl",
     "description": "Slack for Investor Clubs",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c48b70334a60d033500009c/original/TRiBL_Logo_Square.png",
@@ -4813,6 +4718,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/jointribl",
       "twitter": "https://twitter.com/thetriblnetwork",
@@ -4824,13 +4730,49 @@
       "state_province": "Texas",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-touchbase",
     "source": "techstars",
+    "name": "TouchBase",
+    "description": "Bridging the gap between sales and marketing",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/53c6c680e77a5ff05e000001/original/iPad_App_Icon_152.png",
+    "website": "",
+    "location": "Bothell, Washington, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Mobile"
+    ],
+    "year": 2014,
+    "program": "Techstars Seattle Accelerator",
+    "programSlugs": [
+      "seattle"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/touchbase-inc-",
+      "twitter": "https://twitter.com/touchbaseinc",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/touchbase-inc"
+    },
+    "extra": {
+      "city": "Bothell",
+      "state_province": "Washington",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-stand-in",
+    "source": "techstars",
     "name": "Stand In",
     "description": "A design platform made for all screens",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53dfc56c5e635ac59e000001/original/Stand-In-full-color.jpg",
@@ -4850,6 +4792,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/stand-in",
       "twitter": "https://twitter.com/standinapp",
@@ -4861,13 +4804,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-spyn-pay",
+    "source": "techstars",
     "name": "Spyn Pay",
     "description": "A fintech startup offering a card that keeps you out of debt and in control of your finances.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e94d027a36c115d3b00004c/original/spynlog_sm-01.png",
@@ -4887,6 +4829,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/spyn-card",
       "twitter": "https://twitter.com/SpynCard",
@@ -4898,13 +4841,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sparktrend",
+    "source": "techstars",
     "name": "Sparktrend",
     "description": "Connecting images to commerce at scale",
     "logo": "https://apimg.techstars.com/connect/images/image_files/52c3/6b88/00c7/9eb3/9400/0001/original/sparktrend.jpg",
@@ -4925,6 +4867,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sparktrend",
       "twitter": "https://twitter.com/lovesparktrend",
@@ -4936,13 +4879,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-skyglue",
+    "source": "techstars",
     "name": "SkyGlue",
     "description": "A powerful Google Analytics extension that enables people tracking and actions tracking in the simplest way",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_93a9f990b92a4bbe0b8e5a622.png",
@@ -4962,6 +4904,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/skyglue.com",
       "twitter": "https://twitter.com/SkyGlue",
@@ -4973,13 +4916,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-shotcall",
+    "source": "techstars",
     "name": "Shotcall",
     "description": "Platform and marketplace for fans to play games with their favorite people",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e92ae3f34a60d416d00012e/original/logo_background.png",
@@ -4999,6 +4941,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shotcall",
       "twitter": "https://twitter.com/ShotcallGG",
@@ -5010,13 +4953,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-seize",
+    "source": "techstars",
     "name": "Seize",
     "description": "Seize is a platform that conveniently connects people to smartphone photographers to provide affordable quality photoshoots.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61c009e34b743d00081caa00/original/Seize_techstars.png",
@@ -5036,6 +4978,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/seize-the-app",
       "twitter": "https://twitter.com/seizetheapp",
@@ -5047,13 +4990,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-sandglaz",
+    "source": "techstars",
     "name": "Sandglaz",
     "description": "Lean project management software for agile teams",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5596f00a740ea77549000001/original/icon_282.png",
@@ -5075,6 +5017,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/2011302",
       "twitter": "https://twitter.com/sandglaz",
@@ -5086,13 +5029,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-rfrd",
+    "source": "techstars",
     "name": "rfrd",
     "description": "Self-service tools and studio quality production to create authentic customer videos that generate leads, win deals, and expand opportunities",
     "logo": "https://apimg.techstars.com/connect/images/image_files/618c0131ab003f73c25591ec/original/rfrd_logo_-_blue_background_282x282.png",
@@ -5112,6 +5054,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rfrd",
       "twitter": "https://twitter.com/rfrdio",
@@ -5123,13 +5066,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rewardsforce",
+    "source": "techstars",
     "name": "RewardsForce",
     "description": "Web-based loyalty management",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3b25/a6e7/4bae/2600/0008/original/RewardsForce.jpg",
@@ -5149,6 +5091,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/1211507",
       "twitter": "https://twitter.com/rewardsforce",
@@ -5160,13 +5103,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-resolutiontube",
+    "source": "techstars",
     "name": "ResolutionTube",
     "description": "Mobile customer service",
     "logo": "https://pbs.twimg.com/profile_images/378800000145233471/d573be69d49c22656abfe3fce9d95c5c_bigger.png",
@@ -5187,6 +5129,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/resolutiontube-",
       "twitter": "https://twitter.com/Jova_io",
@@ -5198,13 +5141,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rentmatch",
+    "source": "techstars",
     "name": "RentMatch",
     "description": "Apartment rental search",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3b0b/a6e7/4bae/2600/0007/original/RentMatch.jpg",
@@ -5225,6 +5167,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rentmatch",
       "twitter": "https://twitter.com/rentmatchcom",
@@ -5236,13 +5179,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rejoicy",
+    "source": "techstars",
     "name": "Rejoicy",
     "description": "We create extremely easy-to-use e-commerce tools to help small businesses compete with large retailers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/618c14821974b4ab4c81d565/original/Rejoicy_Logo.png",
@@ -5262,6 +5204,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rejoicy",
       "twitter": "https://twitter.com/Rejoicy4",
@@ -5273,13 +5216,12 @@
       "state_province": "Arkansas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-rainway",
+    "source": "techstars",
     "name": "Rainway",
     "description": "Rainway is a web-based game streaming platform that lets users play their favorite PC games on different devices so they can play anywhere.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_cebe92642d8322fbe128b5a85.jpeg",
@@ -5300,6 +5242,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rainway-inc",
       "twitter": "https://twitter.com/rainwayapp",
@@ -5311,13 +5254,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-pongo",
+    "source": "techstars",
     "name": "Pongo",
     "description": "Pongo empowers content creators to engage their audience with SMS.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/dguildrltykt3t6zien6",
@@ -5340,6 +5282,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pongo",
       "twitter": "https://twitter.com/joinpongo",
@@ -5351,13 +5294,49 @@
       "state_province": "Washington",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-pezzo",
     "source": "techstars",
+    "name": "Pezzo",
+    "description": "Pezzo empowers organizations to seamlessly integrate and optimize AI in their software, without requiring prior AI/ML expertise.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5cde6e22d246e3e9846a830be.png",
+    "website": "",
+    "location": "San Francisco, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning"
+    ],
+    "year": 2023,
+    "program": "Techstars Seattle Accelerator",
+    "programSlugs": [
+      "seattle"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/pezzo-ai",
+      "twitter": "https://twitter.com/PezzoAI",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/pezzo-e133"
+    },
+    "extra": {
+      "city": "San Francisco",
+      "state_province": "California",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-pansieve",
+    "source": "techstars",
     "name": "Pansieve",
     "description": "Mobile forms for business",
     "logo": "https://apimg.techstars.com/connect/images/image_files/558c498bda79e0b50300000b/original/cuecard.png",
@@ -5379,6 +5358,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/N",
       "twitter": "https://twitter.com/cuecardapp",
@@ -5390,13 +5370,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-pairtree",
+    "source": "techstars",
     "name": "PairTree",
     "description": "Modernizing the antiquated adoption process in the US",
     "logo": "https://apimg.techstars.com/connect/images/image_files/606ca876c97c0a0007f125ee/original/PairTree_Logo_TreeOnly_RGB.png",
@@ -5416,6 +5395,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pairtree",
       "twitter": "https://twitter.com/pairtreefamily",
@@ -5427,13 +5407,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-nveloped",
+    "source": "techstars",
     "name": "Nveloped",
     "description": "Easy. Secure. Email",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9ee74da09224639817eca589d.webp",
@@ -5453,6 +5432,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "https://twitter.com/nveloped",
@@ -5464,13 +5444,12 @@
       "state_province": "Virginia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-maptia",
+    "source": "techstars",
     "name": "Maptia",
     "description": "Explore the world through beautiful stories, published daily by some of the most inspiring photographers, writers, and adventurers on the planet.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5730d848a93e9f598a000005/original/social-media-logo-2016.jpg",
@@ -5490,6 +5469,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/maptia",
       "twitter": "https://twitter.com/maptia",
@@ -5501,13 +5481,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-magicflix",
+    "source": "techstars",
     "name": "Magicflix",
     "description": "Safe, curated age-appropriate videos",
     "logo": "https://apimg.techstars.com/connect/images/image_files/545090cb7d41014dd7000003/original/profilepic.jpg",
@@ -5527,6 +5506,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/3337462",
       "twitter": "https://twitter.com/magicflix",
@@ -5538,13 +5518,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-locumunity",
+    "source": "techstars",
     "name": "Locumunity",
     "description": "Where job-seeking physicians and medical facilities connect. We strive to be a data and community driven platform.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b959f02c1a4b84dd5000000/original/locumunity_circle_logo.png",
@@ -5564,6 +5543,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/locumunity",
       "twitter": "https://twitter.com/Locumunity",
@@ -5575,13 +5555,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-linksy",
+    "source": "techstars",
     "name": "Linksy",
     "description": "Coordinated sharing",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3c94/a6e7/4b70/e600/0009/original/Linksy.jpg",
@@ -5602,6 +5581,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/linksy-inc.",
       "twitter": "https://twitter.com/linksyME",
@@ -5613,13 +5593,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-level",
+    "source": "techstars",
     "name": "Level",
     "description": "Level empowers freelancers, gig-workers and independent contractors to save towards goals and access a personal line of credit.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/600f37086a498b00080000a1/original/level.jpg",
@@ -5639,6 +5618,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/leveltechnology",
       "twitter": "https://twitter.com/Level_Finance",
@@ -5650,13 +5630,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-koala",
+    "source": "techstars",
     "name": "Koala.",
     "description": "Started as Pet care made easy. Now has pivoted completely for a hotel to offer luxury services to budget hotels.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/lwhyph67oineontktu8o",
@@ -5678,6 +5657,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/koala-ai",
       "twitter": "",
@@ -5688,13 +5668,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-indoor-collective",
+    "source": "techstars",
     "name": "Indoor Collective",
     "description": "Indoor Collective is a software development company that specializes in the production of rowing apps for interactive workouts.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_747b9290626eb8973ddef6b56.png",
@@ -5716,6 +5695,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/indoor-collective",
       "twitter": "",
@@ -5727,13 +5707,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-halo-automotive",
+    "source": "techstars",
     "name": "Halo Automotive",
     "description": "Free fleet management dashboard which let's fleet operators order & pay for services in just a few clicks from an app without the need for aftermarket hardware.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a2edaa79c66a9453600000c/original/Official_Halo_Logo.jpg",
@@ -5754,6 +5733,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/halo-car",
       "twitter": "https://twitter.com/halocarus",
@@ -5765,13 +5745,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-foreverly-co",
+    "source": "techstars",
     "name": "Foreverly Co",
     "description": "Our mission is to make dealing with death a little less stressful.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61fda9c2898a6f0fd7742d98/original/Small_logo.PNG",
@@ -5794,6 +5773,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/foreverlyco",
       "twitter": "https://twitter.com/foreverlyco",
@@ -5805,13 +5785,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fish-bowl-vr",
+    "source": "techstars",
     "name": "Fish Bowl VR",
     "description": "Testing and Analytics for Virtual Reality",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559d5198bbe36fa06c000005/original/fishbowlvr_square.jpg",
@@ -5831,6 +5810,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fish-bowl-vr",
       "twitter": "https://twitter.com/FishBowlVR",
@@ -5842,13 +5822,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-edify",
+    "source": "techstars",
     "name": "Edify",
     "description": "Edify is the frictionless way to onboard software engineers.",
     "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/tnlvlfk1mcsu2nms6hik",
@@ -5868,6 +5847,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/pub/andrew-friday",
       "twitter": "https://twitter.com/edifyonboard",
@@ -5879,13 +5859,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ecocrumb",
+    "source": "techstars",
     "name": "Ecocrumb",
     "description": "Ecocrumb automates and simplifies reporting for ESG.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6191bff8713f140007562660/original/ecocrumb_sq-slate_center.png",
@@ -5907,6 +5886,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ecocrumb",
       "twitter": "https://twitter.com/ecocrumb",
@@ -5918,13 +5898,12 @@
       "state_province": "Minnesota",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-chapter",
+    "source": "techstars",
     "name": "Chapter",
     "description": "Chapter is the only unbiased and tech-enabled Medicare advisor.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/557f418d740ea72fe9000002/original/chapter_logo_techstars.jpg",
@@ -5947,6 +5926,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/joinchapter",
       "twitter": "https://twitter.com/_perfectapp",
@@ -5958,13 +5938,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-canopy",
+    "source": "techstars",
     "name": "Canopy",
     "description": "A dedicated community for Creators to help Creators succeed and build a sustainable career.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a243b8fc86125b44544e9663d.png",
@@ -5984,6 +5963,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/underthecanopy",
       "twitter": "",
@@ -5995,13 +5975,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-candy-jar",
+    "source": "techstars",
     "name": "Candy Jar",
     "description": "Your online candy store",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5588906f740ea7c28a000002/original/Candy_Jar_logo.png",
@@ -6019,6 +5998,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/4808427",
       "twitter": "https://twitter.com/CandyJarOnline",
@@ -6030,13 +6010,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-bluebox-now",
+    "source": "techstars",
     "name": "Bluebox Now",
     "description": "Casual games that increase brand engagement, customer retention and brand rewards",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5361/3bd2/b776/101b/2a00/0008/original/Bluebx.jpg",
@@ -6056,6 +6035,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bluebox-inc-",
       "twitter": "https://twitter.com/blueboxnow",
@@ -6067,13 +6047,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-atcipher",
+    "source": "techstars",
     "name": "AtCipher",
     "description": "AtCipher helps business to protect data in the cloud.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55888f2e1e6c01068300000a/original/atcipher_logo_transparent.png",
@@ -6094,6 +6073,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/atcipher-inc",
       "twitter": "https://twitter.com/atcipher",
@@ -6105,13 +6085,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-astros",
+    "source": "techstars",
     "name": "Astros",
     "description": "A developer-first company that provides platforms and tools for mobile game studios to efficiently monetize their customers.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e2913bfb392684fc7ff81dc8f.png",
@@ -6131,6 +6110,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/astros-one",
       "twitter": "",
@@ -6142,13 +6122,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-advize-ai",
+    "source": "techstars",
     "name": "Advize.ai",
     "description": "Automatic intelligent insights from customer conversations",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ba98fb534a60d14bd000202/original/advize-square-logo-400.png",
@@ -6168,6 +6147,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/advizeai",
       "twitter": "https://twitter.com/advizeai",
@@ -6179,13 +6159,49 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
+    "id": "techstars-adaptively-education",
+    "source": "techstars",
+    "name": "Adaptively Education",
+    "description": "Adaptively Education seamlessly delivers live virtual teacher-led classroom experiences to help students reach their academic goals.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6217da95209581000880df23/original/Adaptively_icon_only_small.png",
+    "website": "",
+    "location": "Bellevue, Washington, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Edtech"
+    ],
+    "year": 2021,
+    "program": "Techstars Seattle Accelerator",
+    "programSlugs": [
+      "seattle"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/adaptively-education",
+      "twitter": "https://twitter.com/adaptivelyeducation",
+      "facebook": "https://facebook.com/adaptivelyeducation",
+      "crunchbase": "https://crunchbase.com/organization/adaptively-education"
+    },
+    "extra": {
+      "city": "Bellevue",
+      "state_province": "Washington",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-adaptilab",
+    "source": "techstars",
     "name": "AdaptiLab",
     "description": "Growing machine learning teams from hiring to productivity.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d1560b134a60d202d00009e/original/AdaptiLab_Grey_Background_Logo.png",
@@ -6206,6 +6222,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/adaptilab",
       "twitter": "https://twitter.com/AdaptiLab",
@@ -6217,8 +6234,6 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   }

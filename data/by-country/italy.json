@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-cubbit",
+    "source": "techstars",
     "name": "Cubbit",
     "description": "Cubbit is the first distributed data-center that recycles the unused Internet recourses of users and transforms them into web services",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c90d66b34a60d19f600005a/original/Logo__282.png",
@@ -9,9 +10,10 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "tags": [
+      "Cloudtech and DevOps",
       "Cybersecurity",
       "Infrastructure",
-      "Internet of Things"
+      "SaaS"
     ],
     "year": 2018,
     "program": "Barclays Accelerator, Powered by Techstars - Tel Aviv",
@@ -20,6 +22,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cubbit",
       "twitter": "https://twitter.com/_cubbit",
@@ -30,13 +33,12 @@
       "city": "Bologna",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-pack",
+    "source": "techstars",
     "name": "Pack",
     "description": "HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2438a5444fd6a4ac0335e51e7.png",
@@ -45,7 +47,9 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "tags": [
-      "Edtech"
+      "Artificial intelligence and machine learning",
+      "Edtech",
+      "HRtech"
     ],
     "year": 2023,
     "program": "Techstars Transformative World Torino",
@@ -56,6 +60,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/startup-pack-mentoring",
       "twitter": "",
@@ -66,13 +71,12 @@
       "city": "Firenze",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-syllotips",
+    "source": "techstars",
     "name": "SylloTips",
     "description": "SylloTips is an all-in-one knowledge sharing platform that leverages artificial intelligence to optimize the circulation of skills and knowledge among all employees in a company",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c6eb9cf768fc3eaf6a9308424.png",
@@ -93,6 +97,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/syllotips",
       "twitter": "",
@@ -104,13 +109,52 @@
       "state_province": "Rome",
       "country": "Italy"
     },
+    "country": "Italy",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-latitudo40",
     "source": "techstars",
+    "name": "Latitudo40",
+    "description": "Latitudo 40 transforms images into useful information with actionable insights on our planet.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/60618d64c97c0a0007ed5808/original/Design_ohne_Titel.png",
+    "website": "https://latitudo40.com",
+    "location": "Naples, Naples, Italy",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Climate tech",
+      "Space tech"
+    ],
+    "year": 2021,
+    "program": "Techstars Transformative World Torino",
+    "programSlugs": [
+      "transformative-world-torino"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/latitudo-40",
+      "twitter": "https://twitter.com/latitudo40",
+      "facebook": "https://facebook.com/latitudo40/",
+      "crunchbase": "https://crunchbase.com/organization/latitudo40"
+    },
+    "extra": {
+      "city": "Naples",
+      "state_province": "Naples",
+      "country": "Italy"
+    },
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-illuminem",
+    "source": "techstars",
     "name": "illuminem",
     "description": "illuminem is the world's leading source of sustainability & energy information",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/fhgdrhxwtrcjhrjtpxe5",
@@ -121,9 +165,7 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Big Data",
-      "Climate tech",
-      "Impact investing",
-      "Marketing tech"
+      "Climate tech"
     ],
     "year": 2023,
     "program": "Sustainability Paris Techstars Accelerator",
@@ -134,6 +176,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/illuminem",
       "twitter": "https://twitter.com/illuminemNews",
@@ -145,13 +188,12 @@
       "state_province": "Pistoia",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-spin",
+    "source": "techstars",
     "name": "SPiN",
     "description": "Revolutionising satellite manufacturing with plug and play",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5eab303a34a60d3228000047/original/Untitled.png",
@@ -160,7 +202,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "tags": [
-      "Manufacturing"
+      "Manufacturing",
+      "Space tech"
     ],
     "year": 2020,
     "program": "Techstars Allied Space Accelerator",
@@ -169,6 +212,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/space-products-and-innovation",
       "twitter": "https://twitter.com/spinintech",
@@ -179,13 +223,12 @@
       "city": "Frascati",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-tutornow",
+    "source": "techstars",
     "name": "Tutornow",
     "description": "End-to-end online tutoring platform with a focus on learning disorders.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_cc53e8857a0bc7406dcc34c08.png",
@@ -205,6 +248,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tutornowonline",
       "twitter": "",
@@ -216,13 +260,12 @@
       "state_province": "Como",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-movopack",
+    "source": "techstars",
     "name": "Movopack",
     "description": "Movo provides circular and reusable packaging solutions for e-commerce folks.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/gq1pnrsfooafpwwencbx",
@@ -242,6 +285,7 @@
     "isUnicorn": false,
     "isBCorp": true,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/movopack",
       "twitter": "",
@@ -253,13 +297,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-deliverart",
+    "source": "techstars",
     "name": "Deliverart",
     "description": "Deliverart is the smart platform from which restaurants can manage all their home deliveries.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/605a1932a6bd3800072f05e6/original/Logo_quadrato.png",
@@ -277,6 +320,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/deliverart",
       "twitter": "https://twitter.com/deliverart_it",
@@ -288,50 +332,12 @@
       "state_province": "Rome",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "Italy",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-latitudo40",
-    "name": "Latitudo40",
-    "description": "Latitudo 40 transforms images into useful information with actionable insights on our planet.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/60618d64c97c0a0007ed5808/original/Design_ohne_Titel.png",
-    "website": "https://latitudo40.com",
-    "location": "Naples, Naples, Italy",
-    "region": "Europe",
-    "subregion": "Southern Europe",
-    "tags": [
-      "Mobility tech"
-    ],
-    "year": 2021,
-    "program": "Techstars Transformative World Torino",
-    "programSlugs": [
-      "transformative-world-torino"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/latitudo-40",
-      "twitter": "https://twitter.com/latitudo40",
-      "facebook": "https://facebook.com/latitudo40/",
-      "crunchbase": "https://crunchbase.com/organization/latitudo40"
-    },
-    "extra": {
-      "city": "Naples",
-      "state_province": "Naples",
-      "country": "Italy"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-wiseair",
+    "source": "techstars",
     "name": "Wiseair",
     "description": "At Wiseair, we are enabling data-driven policy-making for sustainable cities and communities. Our product today is a solution to tackle air pollution in cities.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6059a6a9801c6f00084583c9/original/square_logo.png",
@@ -351,6 +357,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/19026152",
       "twitter": "https://twitter.com/wiseair_social",
@@ -362,13 +369,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-clean-os",
+    "source": "techstars",
     "name": "Clean OS",
     "description": "The first customised, full-arch electric toothbrush delivering professional-grade oral hygiene in under 30 seconds",
     "logo": "https://apimg.techstars.com/profiles/1726557512459_539180.png",
@@ -389,6 +395,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/clean-os",
       "twitter": "",
@@ -400,13 +407,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-intuos",
+    "source": "techstars",
     "name": "Intuos",
     "description": "We bring digitization and data driven decision to the General Aviation operators, to transform asset management and increase safety and cost efficiency.\r\nWe offer a Digital Service Platform based on software, IoT hardware and ML algorithm solutions to man",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7e7e439aceee25a811be5f3ce.png",
@@ -426,6 +432,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/intuos-srl",
       "twitter": "",
@@ -437,13 +444,12 @@
       "state_province": "L'Aquila",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-f3nice",
+    "source": "techstars",
     "name": "f3nice",
     "description": "Circular economy for additive manufacturing",
     "logo": "https://apimg.techstars.com/connect/images/image_files/606dd4d3801c6f00087b14bd/original/Screenshot_2021-04-07_at_16.50.08.png",
@@ -465,6 +471,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/f3nice",
       "twitter": "",
@@ -476,13 +483,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-utwin",
+    "source": "techstars",
     "name": "UTwin",
     "description": "UTwin Srl is a PropTech startup that provides digital twin, IoT, and Building Information Modeling (BIM) solutions and services.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_15ef019bea757bf53efdd6e1c.png",
@@ -502,6 +508,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/strategicbim",
       "twitter": "",
@@ -513,13 +520,52 @@
       "state_province": "Turin",
       "country": "Italy"
     },
+    "country": "Italy",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-dicetech",
     "source": "techstars",
+    "name": "DICEtech",
+    "description": "DICEtech is developing an MRI-based virtual biopsy to remove invasive biopsy from the prostate cancer diagnostic pathway.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_cd0502a5d8808250d3976a912.png",
+    "website": "https://dicetech.ai",
+    "location": "Verona, Verona, Italy",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Digital health",
+      "Healthtech",
+      "Oncology"
+    ],
+    "year": 2026,
+    "program": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
+    "programSlugs": [
+      "permanente-medicine"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/dicetech-srl",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Verona",
+      "state_province": "Verona",
+      "country": "Italy"
+    },
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-ewibe",
+    "source": "techstars",
     "name": "eWibe",
     "description": "eWibe is an open and accessible investment wine market.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/w27r938s6e61hljgsshl",
@@ -540,6 +586,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ewibe",
       "twitter": "https://twitter.com/ewibe",
@@ -551,13 +598,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-sanchip",
+    "source": "techstars",
     "name": "SanChip",
     "description": "SanChip gives machine owners peace of mind by enabling the move to Predictive Maintenance strategies, thanks to real-time, remote monitoring of machines",
     "logo": "https://apimg.techstars.com/connect/images/image_files/616ce3050476290008d3fa02/original/Screen_Shot_2021-10-18_at_10.59.07_AM.png",
@@ -574,10 +620,11 @@
     "year": 2021,
     "program": "Eastern Pacific Accelerator Powered by Techstars",
     "programSlugs": [],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sanchip",
       "twitter": "",
@@ -588,13 +635,12 @@
       "city": "Capannori",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-wibo",
+    "source": "techstars",
     "name": "Wibo",
     "description": "Wibo helps corporates retain talents using a community based, mobile first learning platform.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8aba0cab6b7a70af361ba9fcb.png",
@@ -614,6 +660,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wiboapp",
       "twitter": "https://twitter.com/wiboorg",
@@ -625,13 +672,12 @@
       "state_province": "Turin",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-heloola",
+    "source": "techstars",
     "name": "Heloola",
     "description": "Heloola is a subscription-based digital book club which enriches the reading experience delivering exclusive content from best-selling authors and making room for human interaction.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_1b13f1d1a97c920cec4101faa.png",
@@ -651,6 +697,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/heloola",
       "twitter": "https://twitter.com/",
@@ -662,13 +709,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-empethy",
+    "source": "techstars",
     "name": "Empethy",
     "description": "End-to-end platform that is changing the way people find, choose and adopt a pet.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_1b75d415d2c707e6754015383.png",
@@ -688,6 +734,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/empethy",
       "twitter": "",
@@ -698,13 +745,12 @@
       "city": "Napoli",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-twini",
+    "source": "techstars",
     "name": "Twini",
     "description": "Twini empowers brands and content creators to engage and monetize their communities on autopilot. We provide AI twins, custom-trained on your content, that think and talk like you--allowing for personalized, one-on-one interactions at scale.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9e4d894ccfb4b446a99e0e353.png",
@@ -725,6 +771,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/twini-ai",
       "twitter": "",
@@ -736,13 +783,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-vocations",
+    "source": "techstars",
     "name": "Vocations",
     "description": "Vocations is a sales intelligence platform for HR companies that leverages an AI agent to scrape job offers directly from company websites.",
     "logo": "https://apimg.techstars.com/profiles/1739880453967_735275.png",
@@ -762,6 +808,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/vocations-io",
       "twitter": "",
@@ -773,13 +820,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-materia-intel",
+    "source": "techstars",
     "name": "MATERIA intel",
     "description": "World's first border carbon adjustment (BCA) market intelligence platform",
     "logo": "https://apimg.techstars.com/profiles/1738605070838_507156.png",
@@ -799,6 +845,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/martellafrancesco",
       "twitter": "",
@@ -810,13 +857,12 @@
       "state_province": "Rome",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-litlyx",
+    "source": "techstars",
     "name": "Litlyx",
     "description": "Cookie-less, AI-powered website analytics platform. Get started in 30 seconds from signup. ",
     "logo": "https://apimg.techstars.com/profiles/1748878953415_108294.png",
@@ -836,6 +882,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/litlyx",
       "twitter": "",
@@ -847,13 +894,12 @@
       "state_province": "Rome",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-lemons-in-the-room",
+    "source": "techstars",
     "name": "Lemons in the room",
     "description": "Immersive VR solutions to reduce anxiety during medical treatments",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ba5b13f3c60ae0a6ff1e9a971.jpg",
@@ -873,6 +919,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lemons-in-the-room",
       "twitter": "",
@@ -884,13 +931,12 @@
       "state_province": "Florence",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-bettaknit",
+    "source": "techstars",
     "name": "BETTAKNIT",
     "description": "A community-based approach to rethinking DIY sustainable knitting",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ecc3195f5bf35274a77224e42.jpg",
@@ -910,6 +956,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bettaknit",
       "twitter": "",
@@ -921,13 +968,12 @@
       "state_province": "Prato",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-lambdai-space",
+    "source": "techstars",
     "name": "Lambdai Space",
     "description": "We are democratizing access to remote monitoring for climate impact",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/evkiil0uzt3zodyawzyi",
@@ -951,6 +997,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lambdai-space",
       "twitter": "",
@@ -962,8 +1009,6 @@
       "state_province": "Lombardy",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": [
       "antler"
@@ -971,6 +1016,7 @@
   },
   {
     "id": "techstars-reviway",
+    "source": "techstars",
     "name": "Reviway",
     "description": "Reviway has the main aim of solving definitively the road surfaces deterioration problem, reducing roads maintenance costs by +30% and the related environmental impact by +50%.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a10d3fe432da74cf7716786bb.png",
@@ -990,6 +1036,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/reviway",
       "twitter": "",
@@ -1001,50 +1048,12 @@
       "state_province": "Reggio Emilia",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "Italy",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-nubo",
-    "name": "NUBO",
-    "description": "NUBO is the platform shaping the future of work. It's a widespread workspace network leveraging underused urban spaces accessible through a single and flexible membership and allowing you to access a community of professionals to connect with.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3591f949dc62b6d3afe2c03e3.png",
-    "website": "https://newurbanoffice.com",
-    "location": "Milano, Milan, Italy",
-    "region": "Europe",
-    "subregion": "Southern Europe",
-    "tags": [
-      "Real estate tech"
-    ],
-    "year": 2024,
-    "program": "Techstars Transformative World Torino",
-    "programSlugs": [
-      "transformative-world-torino"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/nubo-new-urban-office",
-      "twitter": "",
-      "facebook": "https://facebook.com/NUBOnewurbanoffice/",
-      "crunchbase": "https://crunchbase.com/organization/nubo-4905"
-    },
-    "extra": {
-      "city": "Milano",
-      "state_province": "Milan",
-      "country": "Italy"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-g2q-computing",
+    "source": "techstars",
     "name": "G2Q Computing",
     "description": "G2Q develops advanced hybrid quantum-classical software to solve complex real-world problems on Near Term Quantum Computers.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b8caea4f7d0c13d6c0703d7e6.png",
@@ -1064,6 +1073,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/g2qcomputing",
       "twitter": "",
@@ -1075,13 +1085,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-bestie-bite",
+    "source": "techstars",
     "name": "Bestie Bite",
     "description": "Reshaping restaurant discovery and reviews through a peer-to-peer community based on video insights and personalized recommendations helping the new generation of foodies to make more informed and fast decisions.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_be610cd2f99a93586710904c8.png",
@@ -1101,6 +1110,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bestie-bite-app",
       "twitter": "",
@@ -1112,13 +1122,12 @@
       "state_province": "Rome",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-solenica",
+    "source": "techstars",
     "name": "Solenica",
     "description": "Solenica completely reshapes your experience of the indoors through beautifully Italian designed robots that improve the spaces you work and live in.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ff4a7aa63138d5e7a00002a/original/Screenshot_2021-01-05_at_18.53.31.png",
@@ -1139,6 +1148,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/solenica",
       "twitter": "https://twitter.com/_Solenica_",
@@ -1149,13 +1159,12 @@
       "city": "Rome",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-safurai",
+    "source": "techstars",
     "name": "Safurai",
     "description": "Safurai is the API for companies that can analyze code and prevent scams for users.",
     "logo": "https://apimg.techstars.com/profiles/1663069009619_675963.png",
@@ -1176,6 +1185,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/safurai",
       "twitter": "https://twitter.com/safurai_",
@@ -1186,13 +1196,49 @@
       "city": "Genova",
       "country": "Italy"
     },
+    "country": "Italy",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-nubo",
     "source": "techstars",
+    "name": "NUBO",
+    "description": "NUBO is the platform shaping the future of work. It's a widespread workspace network leveraging underused urban spaces accessible through a single and flexible membership and allowing you to access a community of professionals to connect with.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3591f949dc62b6d3afe2c03e3.png",
+    "website": "",
+    "location": "Milano, Milan, Italy",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "tags": [
+      "Real estate tech"
+    ],
+    "year": 2024,
+    "program": "Techstars Transformative World Torino",
+    "programSlugs": [
+      "transformative-world-torino"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/nubo-new-urban-office",
+      "twitter": "",
+      "facebook": "https://facebook.com/NUBOnewurbanoffice/",
+      "crunchbase": "https://crunchbase.com/organization/nubo-4905"
+    },
+    "extra": {
+      "city": "Milano",
+      "state_province": "Milan",
+      "country": "Italy"
+    },
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-missfits",
+    "source": "techstars",
     "name": "Missfits",
     "description": "Every woman deserves a bra that fits.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c62ad1ca36c1174cd000016/original/Screen_Shot_2019-02-12_at_12.25.05_PM.png",
@@ -1210,6 +1256,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/missfits-apparel-ltd",
       "twitter": "",
@@ -1221,13 +1268,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-leasy",
+    "source": "techstars",
     "name": "Leasy",
     "description": "Leasy is a tailor made accounting, banking and payment solution for property operators.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a5dd1b5dbb50595dc3a06401b.png",
@@ -1247,6 +1293,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/leasypropertymanagementmadeeasy",
       "twitter": "",
@@ -1258,13 +1305,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-fresco",
+    "source": "techstars",
     "name": "Fresco",
     "description": "Fresco, the \"Nespresso of Oil\" is the only system to consume fresh olive oil, in any season of the year, 100% natural and customized.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5bc86f69c1a4b8083f00002f/original/fresco_logo.png",
@@ -1282,6 +1328,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/revoilution",
       "twitter": "https://twitter.com/revoilution_it",
@@ -1292,13 +1339,12 @@
       "city": "Lamezia Terme",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-enco",
+    "source": "techstars",
     "name": "Enco",
     "description": "An innovative model that allows individuals, companies and public bodies to reduce environmental impact, save on bills, and reduce the payback time",
     "logo": "https://apimg.techstars.com/profiles/1665585262227_898619.png",
@@ -1321,6 +1367,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/energiacollettiva",
       "twitter": "",
@@ -1331,13 +1378,12 @@
       "city": "Florence",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-dedalo",
+    "source": "techstars",
     "name": "Dedalo",
     "description": "Dedalo AI, a pioneering Climate Tech enterprise, is dedicated to quantifying and mitigating the digital CO2 footprint.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vbj2o4h9wg2sdqdyuzqo",
@@ -1361,6 +1407,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dedalo-ai",
       "twitter": "https://twitter.com/DedaloAi",
@@ -1372,13 +1419,12 @@
       "state_province": "Turin",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-beaware",
+    "source": "techstars",
     "name": "BEAWaRe",
     "description": "Supporting the administrations, companies and waste companies in simplifying bureaucracy, automating waste tracking in a sustainable way.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/w68bltr7qzzqkswvg2nv",
@@ -1398,6 +1444,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/beawarecircular",
       "twitter": "",
@@ -1409,13 +1456,12 @@
       "state_province": "Rome",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-gymnasio",
+    "source": "techstars",
     "name": "Gymnasio",
     "description": "Enhancing online yoga schools with real-time pose feedback.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62547f98fe8b48148f367ede/original/gymnasioLogoDark.jpg",
@@ -1437,6 +1483,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gymnasio",
       "twitter": "",
@@ -1448,13 +1495,12 @@
       "state_province": "Turin",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-family-happy",
+    "source": "techstars",
     "name": "Family+Happy",
     "description": "We revolutionize parents' quality of life by solving their top problems from one platform. We built a unique certification protocol to maximize service trust, quality and velocity.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62573a136e8701000899eda9/original/LOGO_VERTICALE.png",
@@ -1477,6 +1523,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/family-happy-babysitter",
       "twitter": "",
@@ -1488,13 +1535,12 @@
       "state_province": "Turin",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-blink-last-mile",
+    "source": "techstars",
     "name": "Blink Last Mile",
     "description": "Same-day delivery service for e-commerce companies in Europe.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/605018c8a6ce0e000807cf7e/original/Logo_firma_mail.png",
@@ -1514,6 +1560,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/blinklastmile",
       "twitter": "",
@@ -1524,8 +1571,6 @@
       "city": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": [
       "yc"

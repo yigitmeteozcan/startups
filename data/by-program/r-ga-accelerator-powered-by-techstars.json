@@ -1,6 +1,44 @@
 [
   {
+    "id": "techstars-door",
+    "source": "techstars",
+    "name": "DOOR",
+    "description": "Your Key to Smart Buildings",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3e3092a646bef5896a1dbbcae.png",
+    "website": "https://door.com",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Internet of Things",
+      "Manufacturing",
+      "Real estate tech"
+    ],
+    "year": 2014,
+    "program": "R/GA Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": true,
+    "isUnicorn": true,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/door-technology-inc",
+      "twitter": "https://twitter.com/latchaccess",
+      "facebook": "https://facebook.com/LatchAccess/",
+      "crunchbase": "https://crunchbase.com/organization/latch"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-kadence",
+    "source": "techstars",
     "name": "Kadence",
     "description": "SaaS, B2B SaaS, Future of Work",
     "logo": "https://apimg.techstars.com/connect/images/image_files/54d1237a1e6c0182ac000013/original/unnamed-1.jpg",
@@ -9,7 +47,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Mobile"
+      "Artificial intelligence and machine learning",
+      "Real estate tech",
+      "SaaS"
     ],
     "year": 2014,
     "program": "R/GA Accelerator, powered by Techstars",
@@ -18,6 +58,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kadenceos",
       "twitter": "https://twitter.com/KadenceOS",
@@ -29,13 +70,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-skyspecs",
+    "source": "techstars",
     "name": "SkySpecs",
     "description": "Simplify the Management of Renewable Energy Assets We offer purpose-built technologies and services so our customers can deliver the most efficient energy.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_95d560e9e2a3b179ecf999e9d.png",
@@ -46,7 +86,8 @@
     "tags": [
       "Cleantech",
       "Climate tech",
-      "Robotics and Drones"
+      "Robotics and Drones",
+      "SaaS"
     ],
     "year": 2014,
     "program": "R/GA Accelerator, powered by Techstars",
@@ -55,6 +96,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/skyspecs",
       "twitter": "https://twitter.com/skyspecs",
@@ -66,13 +108,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-owlet-baby-care",
+    "source": "techstars",
     "name": "Owlet Baby Care",
     "description": "Owlet's baby monitoring ecosystem works together seamlessly to give your family easier days and nights.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4e1928ce3f6a977877094e23f.jpg",
@@ -92,6 +133,7 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/owlet-care-monitors",
       "twitter": "https://twitter.com/owletbabycare",
@@ -103,13 +145,12 @@
       "state_province": "Utah",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-lisnr",
+    "source": "techstars",
     "name": "LISNR",
     "description": "The new communication standard between devices.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/54d39016883a9c1339000023/original/Lisnr.jpg",
@@ -118,7 +159,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Cloudtech and DevOps",
+      "Audiotech",
+      "Fintech",
       "Internet of Things",
       "Mobile"
     ],
@@ -129,6 +171,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/2787363",
       "twitter": "https://twitter.com/lisnr",
@@ -140,13 +183,12 @@
       "state_province": "Ohio",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-kinetic",
+    "source": "techstars",
     "name": "Kinetic",
     "description": "Kinetic is an industrial analytics company using wearables to improve worker safety.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/54d0e4001e6c0182ac00000f/original/klogo.jpg",
@@ -155,10 +197,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Edtech",
-      "Fintech",
-      "Internet of Things",
-      "Technology, media and telecommunications"
+      "Insurtech",
+      "Internet of Things"
     ],
     "year": 2014,
     "program": "R/GA Accelerator, powered by Techstars",
@@ -167,6 +207,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kineticxyz",
       "twitter": "https://twitter.com/WearKinetic",
@@ -178,13 +219,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-hammerhead",
+    "source": "techstars",
     "name": "Hammerhead",
     "description": "Hammerhead helps bikers find their way and discover new ones.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5313/b932/c2f6/507e/7400/0006/original/hammerheadrevised-305x305.jpg",
@@ -204,6 +244,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hammerhead-navigation",
       "twitter": "https://twitter.com/hammerheadrides",
@@ -215,50 +256,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-latch",
-    "name": "Latch",
-    "description": "We make spaces better places to live, work, and visit.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ca2855cd5d5e86f6a4e0534c5.jpg",
-    "website": "https://latch.com",
-    "location": "New York City, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Internet of Things",
-      "Manufacturing",
-      "Real estate tech"
-    ],
-    "year": 2014,
-    "program": "R/GA Accelerator, powered by Techstars",
-    "programSlugs": [],
-    "isExit": true,
-    "isUnicorn": true,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/latch",
-      "twitter": "https://twitter.com/latchaccess",
-      "facebook": "https://facebook.com/LatchAccess/",
-      "crunchbase": "https://crunchbase.com/organization/latch"
-    },
-    "extra": {
-      "city": "New York City",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-enertiv",
+    "source": "techstars",
     "name": "Enertiv",
     "description": "Enertiv transforms real-time building data into actionable insights and recommendations that save energy and money.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5313/b9a4/c1be/43a5/5a00/000b/original/enertivrevised-305x305.jpg",
@@ -267,9 +270,10 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning",
       "Climate tech",
-      "Internet of Things"
+      "Internet of Things",
+      "Real estate tech",
+      "SaaS"
     ],
     "year": 2013,
     "program": "R/GA Accelerator, powered by Techstars",
@@ -278,6 +282,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/enertiv",
       "twitter": "https://twitter.com/enertiv",
@@ -289,13 +294,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-bitfinder",
+    "source": "techstars",
     "name": "Bitfinder",
     "description": "Awair is the smart indoor air monitor that learns your wellness needs and provides solutions to a healthier environment.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/544dcee4b1f523f209000001/original/bitfndr.jpg",
@@ -305,7 +309,6 @@
     "subregion": "North America",
     "tags": [
       "Cleantech",
-      "Climate tech",
       "Internet of Things",
       "Lifestyles of Health and Sustainability and wellness"
     ],
@@ -316,6 +319,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bitfinder",
       "twitter": "https://twitter.com/getawair",
@@ -327,13 +331,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-astro",
+    "source": "techstars",
     "name": "Astro",
     "description": "Simpler Solutions for a Smarter Home",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5449b92361072a887f000002/original/Logo.png",
@@ -351,6 +354,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/astro-inc",
       "twitter": "https://twitter.com/astroautomation",
@@ -362,13 +366,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-footmarks",
+    "source": "techstars",
     "name": "Footmarks",
     "description": "Footmarks is a beacon technology platform brands use to create location-aware and personalized experiences for consumers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53a4/e067/8554/782c/6d00/0001/original/Footmarks_Logo_Shirt.jpg",
@@ -386,6 +389,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/2840130",
       "twitter": "https://twitter.com/footmarks_com",
@@ -397,13 +401,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-keen-home",
+    "source": "techstars",
     "name": "keen home",
     "description": "Building proactive hardware and software that enhance the core functions of a home.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/553fd422da79e0534b000001/original/Keen-Logo-sq-RGB.png",
@@ -423,6 +426,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/keen-home-inc-",
       "twitter": "https://twitter.com/keenhome",
@@ -434,13 +438,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-ringblingz",
+    "source": "techstars",
     "name": "ringblingz",
     "description": "ringblingz has created a ring, that notifies you (with a light or vibration) when a friend gets in touch.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5313/b8b3/c2f6/507e/7400/0004/original/ringblingz-305x305.jpg",
@@ -458,6 +461,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ringblingz",
       "twitter": "https://twitter.com/ringblingz",
@@ -469,13 +473,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-qualia-health",
+    "source": "techstars",
     "name": "Qualia Health",
     "description": "Using data science to measure changes in overall home health and improve lives.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5315/3029/3838/4bb1/3500/0003/original/qualia.jpg",
@@ -494,6 +497,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/qualia-health",
       "twitter": "https://twitter.com/QualiaHealth",
@@ -505,13 +509,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-qol-devices",
+    "source": "techstars",
     "name": "QoL Devices",
     "description": "Alvio(tm) helps millions of people with respiratory challenges through mobile devices and games controlled by breathing.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5313/b8d1/c1be/43a5/5a00/0007/original/alviorevised-305x305.jpg",
@@ -530,6 +533,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/qol-devices",
       "twitter": "https://twitter.com/Alvio_QoL",
@@ -541,13 +545,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-kytelabs",
+    "source": "techstars",
     "name": "Kytelabs",
     "description": "Consumer product that brings connectivity to everyday transactions.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5313/b980/c1be/43a5/5a00/000a/original/kytelabs-305x305_(1).jpg",
@@ -565,6 +568,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kytelabs",
       "twitter": "https://twitter.com/Kytelabs",
@@ -575,13 +579,12 @@
       "city": "Caguas",
       "country": "Puerto Rico"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Puerto Rico",
     "alsoIn": []
   },
   {
     "id": "techstars-grove",
+    "source": "techstars",
     "name": "Grove",
     "description": "Technology for local, healthy food. Products that help people grow their own food right where they live.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5313/b897/c1be/43a5/5a00/0006/original/grove-305x305.jpg",
@@ -602,6 +605,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/grove-group",
       "twitter": "https://twitter.com/GroveLabs",
@@ -613,13 +617,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-freedom-audio",
+    "source": "techstars",
     "name": "Freedom Audio",
     "description": "Freedom Audio brings music to where it hasn't gone before.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5474e6ccb47e606f7e000009/original/FA.png",
@@ -637,6 +640,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/freedom-audio",
       "twitter": "https://twitter.com/Freedomaud",
@@ -648,13 +652,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-filament",
+    "source": "techstars",
     "name": "Filament",
     "description": "A complete hardware + software ecosystem for building the the machine economy.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/54d0ea0a1e6c0182ac000010/original/Screen_shot_2015-02-03_at_10.30.40_AM.png",
@@ -675,6 +678,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/filamentlimited",
       "twitter": "https://twitter.com/FilamentHQ",
@@ -686,13 +690,12 @@
       "state_province": "Nevada",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-diagenetix",
+    "source": "techstars",
     "name": "Diagenetix",
     "description": "Handheld DNA detection and analytics to protect your food.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/54d38fbb1e6c010f0600000e/original/diagenetix.png",
@@ -710,6 +713,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/diagenetix-inc-",
       "twitter": "https://twitter.com/Diagenetix",
@@ -721,8 +725,6 @@
       "state_province": "Hawaii",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   }

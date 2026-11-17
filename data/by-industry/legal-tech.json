@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-trust-will",
+    "source": "techstars",
     "name": "Trust & Will",
     "description": "The easy, fast, and secure way to set up your estate plan online",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_0ac7f51a8ad0dd749e9a3ce29.jpg",
@@ -21,6 +22,7 @@
     "isUnicorn": false,
     "isBCorp": true,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/trustandwill",
       "twitter": "https://twitter.com/trustandwill",
@@ -32,13 +34,86 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-trellis-research",
+    "source": "techstars",
+    "name": "Trellis Research",
+    "description": "Legal intelligence and judicial analytics for law firms.",
+    "logo": "https://s3.amazonaws.com/companies-techstars-images/nopic_startup.jpg",
+    "website": "https://trellis.law",
+    "location": "Los Angeles, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Legal tech"
+    ],
+    "year": 2018,
+    "program": "Techstars Space Accelerator",
+    "programSlugs": [
+      "space"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/trellis-law",
+      "twitter": "https://twitter.com/trellis_law",
+      "facebook": "https://facebook.com/trellis.rocks",
+      "crunchbase": "https://crunchbase.com/organization/trellis-research"
+    },
+    "extra": {
+      "city": "Los Angeles",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-shieldpay",
+    "source": "techstars",
+    "name": "Shieldpay",
+    "description": "Whether you're an individual or business, Shieldpay enables you to create an instant digital escrow facility with no set-up costs.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5acb882ac1a4b8513900002c/original/Shieldpay_Icon_Pink_Gmail.png",
+    "website": "https://shieldpay.com",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Fintech",
+      "Legal tech"
+    ],
+    "year": 2017,
+    "program": "London Barclays Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/shieldpay",
+      "twitter": "https://twitter.com/shieldpay",
+      "facebook": "https://facebook.com/shieldpayofficial",
+      "crunchbase": "https://crunchbase.com/organization/shieldpay"
+    },
+    "extra": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-case-status",
+    "source": "techstars",
     "name": "Case Status",
     "description": "We help busy attorneys provide clients with a better experience through our cloud based client engagement platform.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b4cd531c1a4b83b7c0000fa/original/favicon_techstars.png",
@@ -47,7 +122,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Legal tech"
+      "Artificial intelligence and machine learning",
+      "Legal tech",
+      "SaaS"
     ],
     "year": 2018,
     "program": "Techstars Atlanta powered by Cox Enterprises",
@@ -58,6 +135,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/case-status",
       "twitter": "https://twitter.com/thecase_status",
@@ -69,13 +147,88 @@
       "state_province": "Alabama",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-valid8-financial",
+    "source": "techstars",
+    "name": "VALID8 Financial",
+    "description": "Valid8 Financial offers financial services investigations by extracting and reconciling banking transactions from any PDF statement. The company was founded in 2017 by Tod McDonald and Chris McCall and is headquartered in Seattle, Washington.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/585857ed8083200c0b00002e/original/valid8_logo_sq.png",
+    "website": "https://valid8financial.com",
+    "location": "Boulder, Colorado, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Fintech",
+      "Legal tech"
+    ],
+    "year": 2017,
+    "program": "Techstars Seattle Accelerator",
+    "programSlugs": [
+      "seattle"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/valid8-financial",
+      "twitter": "https://twitter.com/valid8_cash",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/valid8-financial"
+    },
+    "extra": {
+      "city": "Boulder",
+      "state_province": "Colorado",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-alexsei",
+    "source": "techstars",
+    "name": "Alexsei",
+    "description": "Provides precise answers to complex legal questions for lawyers, and is building the first fully autonomous lawyer for legal research.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5bf815cba36c112315000005/original/LinkedIn_logo.png",
+    "website": "https://alexi.com",
+    "location": "Toronto, Ontario, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Legal tech",
+      "SaaS"
+    ],
+    "year": 2018,
+    "program": "Techstars Montréal AI Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/24769364",
+      "twitter": "https://twitter.com/AlexseiLaw",
+      "facebook": "https://facebook.com/AlexseiInc",
+      "crunchbase": "https://crunchbase.com/organization/alexsei"
+    },
+    "extra": {
+      "city": "Toronto",
+      "state_province": "Ontario",
+      "country": "Canada"
+    },
+    "country": "Canada",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-medthread",
+    "source": "techstars",
     "name": "MedThread",
     "description": "Automatically gathers and curates patient histories for provider offices to reduce time spent calling and faxing.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a5d8f435952ef8ee8b1d405c1.png",
@@ -95,6 +248,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/parambil",
       "twitter": "",
@@ -106,13 +260,87 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-paladin",
+    "source": "techstars",
+    "name": "Paladin",
+    "description": "Paladin creates an easy way for lawyers to find cases they're passionate about and to capture impact data for the benefit of all.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/59c2cc53c9aec75f8300000a/original/Logo_Temp-14.png",
+    "website": "https://joinpaladin.com",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Legal tech",
+      "SaaS"
+    ],
+    "year": 2017,
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/paladin-pbc",
+      "twitter": "https://twitter.com/joinpaladin",
+      "facebook": "https://facebook.com/PaladinPBC",
+      "crunchbase": "https://crunchbase.com/organization/paladin-2"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-assetvault",
+    "source": "techstars",
+    "name": "AssetVault",
+    "description": "Catalogue, protect and manage your physical and digital assets",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/57d57ddbbbe36f93e900003a/original/AssetVault2.png",
+    "website": "https://asset-vault.com",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Fintech",
+      "Insurtech",
+      "Legal tech",
+      "Mobile"
+    ],
+    "year": 2016,
+    "program": "Techstars London Accelerator",
+    "programSlugs": [
+      "london"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/assetvault",
+      "twitter": "https://twitter.com/assetvaultco",
+      "facebook": "https://facebook.com/AssetVault-161384937774396/",
+      "crunchbase": "https://crunchbase.com/organization/assetvault"
+    },
+    "extra": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-clara",
+    "source": "techstars",
     "name": "Clara",
     "description": "Clara is a legal operating system that digitizes and automates startup legal expertise.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5de74fd534a60d267800000c/original/256x256.jpg",
@@ -132,6 +360,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/claradotco",
       "twitter": "https://twitter.com/claradotco",
@@ -142,8 +371,6 @@
       "city": "Abu Dhabi",
       "country": "United Arab Emirates"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Arab Emirates",
     "alsoIn": [
       "500",
@@ -152,6 +379,7 @@
   },
   {
     "id": "techstars-nexlp",
+    "source": "techstars",
     "name": "NexLP",
     "description": "An analytics software company, focused on the eDiscovery and Information Governance industry",
     "logo": "https://apimg.techstars.com/connect/images/image_files/53fc99ccc39187bc81000002/original/download.png",
@@ -165,14 +393,13 @@
       "Legal tech"
     ],
     "year": 2014,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nexlp",
       "twitter": "https://twitter.com/NexLP_Inc",
@@ -184,13 +411,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-aline",
+    "source": "techstars",
     "name": "Aline",
     "description": "Aline helps people and businesses digitize their legal contracts and build \"smart automated workflows\" for contracts.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_dd94bd3f469af1ca772fe0ee1.png",
@@ -200,7 +426,8 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Legal tech"
+      "Legal tech",
+      "SaaS"
     ],
     "year": 2022,
     "program": "Techstars New York City Accelerator",
@@ -211,6 +438,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/alineco",
       "twitter": "https://twitter.com/meetaline",
@@ -222,13 +450,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-transmute",
+    "source": "techstars",
     "name": "Transmute",
     "description": "The trusted data exchange platform for global trade",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b917ee2a36c116989000036/original/1-Mark-Dark_%281%29.png",
@@ -256,6 +483,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/11186222",
       "twitter": "https://twitter.com/TransmuteNews",
@@ -267,13 +495,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-insuretax",
+    "source": "techstars",
     "name": "InsureTax",
     "description": "InsureTax is a tech company specializing in prediction and hedging of financial risks with focus on tax liabilities and issuing tax policies.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61ee8aa91bbf2f0008248ec0/original/Logos-06.png",
@@ -295,6 +522,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/insuretax",
       "twitter": "",
@@ -305,8 +533,6 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": [
       "plugandplay"
@@ -314,6 +540,7 @@
   },
   {
     "id": "techstars-alethica",
+    "source": "techstars",
     "name": "Alethica",
     "description": "Market intelligence for litigators. We identify litigation opportunities,  mitigate client's litigation risks and streamline investigations. \nWe achieve this via different AI agents. ",
     "logo": "https://apimg.techstars.com/profiles/1741024535505_121282.png",
@@ -323,6 +550,7 @@
     "subregion": "Western Europe",
     "tags": [
       "Artificial intelligence and machine learning",
+      "Fintech",
       "Legal tech"
     ],
     "year": 2025,
@@ -334,6 +562,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/alethica",
       "twitter": "",
@@ -345,13 +574,12 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-stemma-ai",
+    "source": "techstars",
     "name": "Stemma AI",
     "description": "Stemma AI eliminates claims leakage in complex transport insurance - a $10B+ annual problem. Our proprietary technology reads and reasons across 10,000+ page claims files where standard LLMs fail, delivering verifiable answers",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_36f776f724628b08b77b0fb11.png",
@@ -374,6 +602,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/the-stemma-ai",
       "twitter": "",
@@ -385,13 +614,12 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-kensai",
+    "source": "techstars",
     "name": "Kensai",
     "description": "Kensai is the infrastructure layer for consumer-health brands to launch products internationally in seconds, vetting formulations and  claims against global regulations, and providing real-time monitoring for shifting legal standards.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_87325ec5938e8b1fce2ee34fa.png",
@@ -415,6 +643,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -426,13 +655,51 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
+    "id": "techstars-foundry",
+    "source": "techstars",
+    "name": "Foundry",
+    "description": "",
+    "logo": "",
+    "website": "https://franchisefoundry.ai",
+    "location": "Paris, Ontario, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Legal tech",
+      "Marketing tech",
+      "SaaS"
+    ],
+    "year": 2026,
+    "program": "Techstars Anywhere Accelerator",
+    "programSlugs": [
+      "anywhere"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Paris",
+      "state_province": "Ontario",
+      "country": "Canada"
+    },
+    "country": "Canada",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-civic-eagle",
+    "source": "techstars",
     "name": "Civic Eagle",
     "description": "B2B Saas | 12k MRR  We use automation & workflow management to help orgs manage government policy. Customers include Comcast and Chan Zuckerberg Initiative",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c5fc9a7a36c115a8a0000bf/original/mobile_icon.jpg",
@@ -452,6 +719,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/civic-eagle",
       "twitter": "https://twitter.com/Civic_Eagle",
@@ -463,13 +731,51 @@
       "state_province": "Minnesota",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-umbra-ai",
+    "source": "techstars",
+    "name": "Umbra Ai",
+    "description": "The compliance operating system for financial services.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f581f49cd16ac2bd47ef25fd4.jpeg",
+    "website": "https://umbra-ai.com",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Fintech",
+      "Legal tech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Amsterdam",
+      "state_province": "North Holland",
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-indora",
+    "source": "techstars",
     "name": "Indora",
     "description": "Compliance infrastructure for regulated data workflows.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_adcf12c158d4e865794db1628.png",
@@ -492,6 +798,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/indora-labs",
       "twitter": "",
@@ -503,13 +810,12 @@
       "state_province": "New Mexico",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-r3-score",
+    "source": "techstars",
     "name": "R3 Score",
     "description": "A more social responsible criminal background screening company, using context in our algorithm for the 1-in-3 Americans living with a criminal history.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d16807134a60d202d0000df/original/R3Score-Icon-RGB.jpg",
@@ -530,6 +836,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/r3score",
       "twitter": "https://twitter.com/R3Score",
@@ -541,13 +848,12 @@
       "state_province": "Maryland",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-timesentry",
+    "source": "techstars",
     "name": "TimeSentry",
     "description": "TimeSentry is a cloud gateway to effortless timesheets and billing, designed for hourly professionals and powered by a comprehensive ecosystem of AI productivity tools.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a8397e50f72f29ab93cfb4a8c.png",
@@ -569,6 +875,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/timesentry",
       "twitter": "",
@@ -580,13 +887,57 @@
       "state_province": "New York",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-zivash",
     "source": "techstars",
+    "name": "Zivash",
+    "description": "Ziva creates realistic, editable 3D worlds and simulations.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6837a97201849966f8eb09761.png",
+    "website": "https://ziva.sh",
+    "location": "San Francisco, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Advanced Manufacturing",
+      "Artificial intelligence and machine learning",
+      "Construction technology",
+      "Industrials",
+      "Insurtech",
+      "Legal tech",
+      "Manufacturing",
+      "Oil and gas",
+      "Supply chain technology"
+    ],
+    "year": 2026,
+    "program": "Techstars Tokyo Accelerator",
+    "programSlugs": [
+      "tokyo"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/ziva-sh",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "San Francisco",
+      "state_province": "California",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-legaleaze-technologies",
+    "source": "techstars",
     "name": "Legaleaze Technologies",
     "description": "For law firms struggling with billing inefficiencies, Legaleaze offers an AI-powered platform that tracks legal work and auto-generates detailed, compliant invoices.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f96045e85134298e3089b23d3.png",
@@ -604,6 +955,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/legaleaze-ai",
       "twitter": "",
@@ -615,50 +967,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-curatedai",
-    "name": "CuratedAI",
-    "description": "CuratedAI - The AI Assistant for European Lawyers",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_be509bf213984c28ba96154d7.png",
-    "website": "https://curatedai.eu",
-    "location": "Brussels, Belgium",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Legal tech"
-    ],
-    "year": 2024,
-    "program": "Techstars Berlin Accelerator",
-    "programSlugs": [
-      "berlin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "Brussels",
-      "country": "Belgium"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Belgium",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-ozeki-legal-technologies",
+    "source": "techstars",
     "name": "Ozeki Legal Technologies",
     "description": "AI-powered software to help users negotiate contracts for better, faster, safer outcomes.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4ddab254b56bcd42b66b4afb5.jpeg",
@@ -678,6 +992,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ozeki-technologies",
       "twitter": "",
@@ -689,13 +1004,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-elmetr",
+    "source": "techstars",
     "name": "Elmetr",
     "description": "Elmetr connects you with a qualified lawyer in less than 24 hours. We currently operate in Egypt and Saudi Arabia.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/lcd16nhousdltwdyw8ng",
@@ -715,6 +1029,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/14060114",
       "twitter": "",
@@ -726,8 +1041,6 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "500"
@@ -735,6 +1048,7 @@
   },
   {
     "id": "techstars-slice",
+    "source": "techstars",
     "name": "Slice",
     "description": "The first platform to automate the delivery of financial  and legal services behind property transactions ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_79c23bbb72fbcb577ef1d4c9a.png",
@@ -756,6 +1070,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -767,13 +1082,12 @@
       "state_province": "Auckland",
       "country": "New Zealand"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "New Zealand",
     "alsoIn": []
   },
   {
     "id": "techstars-crystal-aos",
+    "source": "techstars",
     "name": "Crystal aOS",
     "description": "Crystal aOS is an AI-powered operating system for crypto businesses that enables fast, auditable compliance across jurisdictions, blockchains, and tokens.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ed4410695a322688918db6a66.png",
@@ -796,6 +1110,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/crystalaos",
       "twitter": "",
@@ -807,13 +1122,12 @@
       "state_province": "Victoria",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-briefcase-technology",
+    "source": "techstars",
     "name": "Briefcase Technology",
     "description": "Briefcase Technology is building an end-to-end AI case management platform to modernise outdated court systems, aiming to reduce delays, lower costs and improve access to justice.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_fcac3183536b97f7c9d47fe5a.png",
@@ -834,6 +1148,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -845,13 +1160,53 @@
       "state_province": "New South Wales",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
+    "id": "techstars-valarix",
+    "source": "techstars",
+    "name": "Valarix",
+    "description": "AI-powered tax automation software modernizing fiscal compliance and audit security for global companies",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d4ac868487046f47c05cabcd8.png",
+    "website": "https://valarix.com",
+    "location": "San Francisco, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "B2B payments",
+      "Big Data",
+      "Fintech",
+      "Legal tech",
+      "SaaS"
+    ],
+    "year": 2024,
+    "program": "Techstars Miami powered by J.P. Morgan",
+    "programSlugs": [
+      "miami-jp-morgan"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/15257246",
+      "twitter": "",
+      "facebook": "https://facebook.com/contaayuda/",
+      "crunchbase": "https://crunchbase.com/organization/contaayuda"
+    },
+    "extra": {
+      "city": "San Francisco",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-easylex",
+    "source": "techstars",
     "name": "EasyLex",
     "description": "Business-in-a-box with click easy legal services",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d3e91da4cdb2730213c91a2ce.png",
@@ -871,6 +1226,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/easylex",
       "twitter": "https://twitter.com/easylex_",
@@ -882,13 +1238,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-lawlaw",
+    "source": "techstars",
     "name": "LawLaw",
     "description": "LawLaw helps individuals who have been sued for a debt",
     "logo": "https://apimg.techstars.com/profiles/1725842751303_583751.png",
@@ -908,6 +1263,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/uselawlaw",
       "twitter": "",
@@ -919,13 +1275,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dispute-buddy",
+    "source": "techstars",
     "name": "Dispute Buddy",
     "description": "Create a timeline of emails and texts to resolve your legal dispute",
     "logo": "https://apimg.techstars.com/profiles/1726387979412_707177.png",
@@ -945,6 +1300,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/disputebuddy",
       "twitter": "",
@@ -956,13 +1312,12 @@
       "state_province": "Bay of Plenty",
       "country": "New Zealand"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "New Zealand",
     "alsoIn": []
   },
   {
     "id": "techstars-capyble",
+    "source": "techstars",
     "name": "Capyble",
     "description": "Bringing experts to 1 million workplaces.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_643b881a6283870469880b5a1.png",
@@ -986,6 +1341,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/od-ai",
       "twitter": "",
@@ -997,13 +1353,12 @@
       "state_province": "New South Wales",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-sidebrief",
+    "source": "techstars",
     "name": "Sidebrief",
     "description": "Automating business compliance to make it simple and fast.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_147fa75a0a334dd11fdd42415.png",
@@ -1023,6 +1378,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sidebriefafrica",
       "twitter": "https://twitter.com/mysidebrief",
@@ -1034,13 +1390,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-reportwell",
+    "source": "techstars",
     "name": "Reportwell",
     "description": "Reportwell simplifies compliance tasks and reporting requirements for government agencies and the organizations that report to them.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6ae1797e0ae17afbd17294a6c.png",
@@ -1060,6 +1415,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/reportwell?trk=ppro_cprof",
       "twitter": "",
@@ -1071,13 +1427,12 @@
       "state_province": "Indiana",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-konnected",
+    "source": "techstars",
     "name": "Konnected",
     "description": "Konnected with Care is a comprehensive platform that helps organizations and government agencies serving youth and families stay connected, providing them with vital data and resources to save time, money, and lives.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6bff58d2d62420999d781ec4b.jpg",
@@ -1100,6 +1455,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/konnected-with-care",
       "twitter": "https://twitter.com/KonnectedXCare",
@@ -1111,13 +1467,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-bummock-ai",
+    "source": "techstars",
     "name": "Bummock AI",
     "description": "Your compliance safety net",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_2e9e2101b108a5e3233bdc359.png",
@@ -1138,6 +1493,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bummock-ai",
       "twitter": "",
@@ -1149,13 +1505,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-legal-nodes",
+    "source": "techstars",
     "name": "Legal Nodes",
     "description": "Legal Nodes is a platform for founders to solve their cross-border legal tasks - built by legal experts turned founders.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6192be7b713f141142b37950/original/color_transparent.png",
@@ -1175,6 +1530,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/legalnodes",
       "twitter": "https://twitter.com/LegalNodes",
@@ -1185,13 +1541,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-openlaw",
+    "source": "techstars",
     "name": "OpenLaw",
     "description": "Revolutionizing legal services for all with AI",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_09036558ef65b9edae21d700b.jpeg",
@@ -1211,6 +1566,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/getopenlaw",
       "twitter": "https://twitter.com/getopenlaw",
@@ -1222,13 +1578,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-chuqlab",
+    "source": "techstars",
     "name": "Chuqlab",
     "description": "AI powered crime fighting",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6181d720be08de300f0076aec.jpeg",
@@ -1250,6 +1605,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/chuqlab",
       "twitter": "",
@@ -1261,17 +1617,57 @@
       "state_province": "Indiana",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-mechadoc",
     "source": "techstars",
+    "name": "Mechadoc",
+    "description": "Automated compliance for companies in medtech, healthtech, and hardware.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_1d273abf3abaab09957c3da7a.png",
+    "website": "https://mechadoc.io",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Legal tech",
+      "Manufacturing",
+      "Robotics and Drones",
+      "Space tech"
+    ],
+    "year": 2024,
+    "program": "Techstars London Accelerator",
+    "programSlugs": [
+      "london"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-standd",
+    "source": "techstars",
     "name": "Standd",
     "description": "AI risk analysis, reporting, and monitoring for corporate strategy and finance teams.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_90735f632cd7afa483b31ddb0.png",
-    "website": "https://standd.io",
+    "website": "",
     "location": "Washington, District of Columbia, United States",
     "region": "Americas",
     "subregion": "North America",
@@ -1290,6 +1686,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/standd",
       "twitter": "https://twitter.com/Standd_io",
@@ -1301,13 +1698,12 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-genobank-io",
+    "source": "techstars",
     "name": "GenoBank.io",
     "description": "Ensuring the privacy and data ownership of your genetic information.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e08dfe43759325d8291b15c98.jpeg",
@@ -1331,6 +1727,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/genobank-io",
       "twitter": "https://twitter.com/genobank_io",
@@ -1342,13 +1739,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-skinnytax",
+    "source": "techstars",
     "name": "SkinnyTax",
     "description": "SkinnyTax is a startup that provides affordable tax planning through an easy to use software with expert support.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_35a30a55909d90fdc2781027f.png",
@@ -1370,6 +1766,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/skinnytax",
       "twitter": "https://twitter.com/https",
@@ -1381,13 +1778,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-driven",
+    "source": "techstars",
     "name": "Driven",
     "description": "Driven is a payment platform that helps local governments, car insurance businesses, lawyers, and mobility companies increase their revenue and efficiency",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_1b845b67b6f781d5a78acc67b.png",
@@ -1409,6 +1805,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ticket-avengers",
       "twitter": "https://twitter.com/ticketavengers1",
@@ -1420,13 +1817,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-complya",
+    "source": "techstars",
     "name": "Complya",
     "description": "Complya helps government-regulated businesses in the Care economy automate their compliance journey from start to inspection-ready. We are on a mission to build trust across the care economy.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ed34b97ee1f6a3881e4931bdb.jpg",
@@ -1448,6 +1844,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/complya-inc",
       "twitter": "",
@@ -1459,13 +1856,12 @@
       "state_province": "Minnesota",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-taxxwiz",
+    "source": "techstars",
     "name": "Taxxwiz",
     "description": "Taking the stress out of tax season. Revolutionizing your tax business.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8ecefb1b2ff2ded8695bf74db.jpeg",
@@ -1487,6 +1883,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/taxx-revolution",
       "twitter": "https://twitter.com/taxxwiz",
@@ -1498,13 +1895,12 @@
       "state_province": "Alabama",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-courtroom5",
+    "source": "techstars",
     "name": "Courtroom5",
     "description": "Courtroom5 creates and supports successful 'pro se' litigants, people in court without a lawyer.",
     "logo": "https://apimg.techstars.com/profiles/1774547597448_9662.png",
@@ -1522,6 +1918,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/courtroom5",
       "twitter": "https://twitter.com/courtroom5legal",
@@ -1533,13 +1930,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-branda",
+    "source": "techstars",
     "name": "Branda",
     "description": "SMBs do not have the resources to properly manage their brand protection issues. Branda's solution is a smart platform handling the entire lifecycle of brand protection, including register trademarks using AI; monitoring the market for misuse and more.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5fc2582205bc58c8fdaa44cea.jpg",
@@ -1559,6 +1955,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/branda-ai",
       "twitter": "https://twitter.com/branda_ai",
@@ -1569,13 +1966,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-nghbr",
+    "source": "techstars",
     "name": "NGHBR",
     "description": "NGHBR is a mobile app that allows users to know more about the people around them in real-time.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/twfozzqygrfiqrqkbf34",
@@ -1602,6 +1998,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nghbr-inc",
       "twitter": "https://twitter.com/nghbr",
@@ -1613,13 +2010,12 @@
       "state_province": "Maryland",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-justicetext",
+    "source": "techstars",
     "name": "JusticeText",
     "description": "JusticeText  is an audiovisual evidence management platform designed to produce fairer outcomes in the criminal justice system by expediting the review of body camera footage, interrogation videos, jail calls, and more.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6000af8dcd76030008000033/original/Screen_Shot_2021-01-14_at_3.54.18_PM.png",
@@ -1640,6 +2036,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/justicetext",
       "twitter": "https://twitter.com/JusticeText",
@@ -1651,54 +2048,14 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "500"
     ]
   },
   {
-    "id": "techstars-guideli",
-    "name": "Guideli",
-    "description": "Providing a personalized platform that leverages AI to automate the migration journey and removes all friction from permanent residency to settlement",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4276404766bff6901fb6f7383.jpg",
-    "website": "https://guideli.com",
-    "location": "Milford, Massachusetts, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Legal tech",
-      "Mobile"
-    ],
-    "year": 2023,
-    "program": "Techstars Detroit powered by J.P. Morgan",
-    "programSlugs": [
-      "detroit-jp-morgan"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/guideli",
-      "twitter": "https://twitter.com/myguideli",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/guideli"
-    },
-    "extra": {
-      "city": "Milford",
-      "state_province": "Massachusetts",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-lexiq",
+    "source": "techstars",
     "name": "LexIQ",
     "description": "For lawyers who spend hours drafting and analyzing contracts, we offer a gen AI-powered Word plugin that significantly reduces the time spent on contract negotiation.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9bcadcc337bdba0f6f5c8e853.png",
@@ -1718,6 +2075,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lexiq-ai",
       "twitter": "https://twitter.com/lexiq_io",
@@ -1729,13 +2087,12 @@
       "state_province": "Virginia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-pocmi",
+    "source": "techstars",
     "name": "Pocmi",
     "description": "Global job marketplace and end-to-end services resource on a SaaS platform catering only to movement across borders.",
     "logo": "https://apimg.techstars.com/profiles/1726979284368_465013.png",
@@ -1758,6 +2115,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pocmi",
       "twitter": "https://twitter.com/pocmi_inc",
@@ -1769,13 +2127,12 @@
       "state_province": "Saint Andrew Parish",
       "country": "Jamaica"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Jamaica",
     "alsoIn": []
   },
   {
     "id": "techstars-marble-legal-solutions",
+    "source": "techstars",
     "name": "Marble Legal Solutions",
     "description": "Lower legal costs and empower yourself with AI-enhanced legal self-help tools that put the law at your fingertips.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f3d6dbdb65b3da02ab2c956c4.png",
@@ -1796,6 +2153,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1807,13 +2165,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dodocs",
+    "source": "techstars",
     "name": "DoDocs",
     "description": "APIs and AI agent for inventory and data base updates automation for restaurants, hotels, logistics, accounting and others",
     "logo": "https://apimg.techstars.com/profiles/1732884093697_563510.png",
@@ -1838,6 +2195,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dodocsai",
       "twitter": "https://twitter.com/AiDodocs11493",
@@ -1849,50 +2207,12 @@
       "state_province": "Dubai",
       "country": "United Arab Emirates"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Arab Emirates",
     "alsoIn": []
   },
   {
-    "id": "techstars-fourthparty",
-    "name": "FourthParty",
-    "description": "FourthParty is a SAAS company that offers a B2B practice management tool for neutrals, mediators, and arbitrators to connect with people in conflict.",
-    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/nacuou3cyu82gkx10a8w",
-    "website": "https://fourthparty.app",
-    "location": "Atlanta, Georgia, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Legal tech"
-    ],
-    "year": 2024,
-    "program": "Techstars Atlanta powered by J.P. Morgan",
-    "programSlugs": [
-      "atlanta-jp-morgan"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/fourthparty",
-      "twitter": "",
-      "facebook": "https://facebook.com/4thpartyapp",
-      "crunchbase": "https://crunchbase.com/organization/fourthparty"
-    },
-    "extra": {
-      "city": "Atlanta",
-      "state_province": "Georgia",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-contractpower",
+    "source": "techstars",
     "name": "ContractPower",
     "description": "A vertical specific contract management platform that reduces liability while decreasing reading time by 80%. ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c9beb489d6d25e402b43b8685.png",
@@ -1915,6 +2235,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/contractpower",
       "twitter": "",
@@ -1926,13 +2247,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-people-clerk",
+    "source": "techstars",
     "name": "People Clerk",
     "description": "We help you navigate the small claims court process (disputes under $10k)",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60d7b81b8e797900075a9f5f/original/People_Clerk_282_x_282.png",
@@ -1953,6 +2273,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/courtam-inc",
       "twitter": "https://twitter.com/peopleclerk",
@@ -1964,13 +2285,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-vector-legal-method",
+    "source": "techstars",
     "name": "Vector Legal Method",
     "description": "The Future of Litigation",
     "logo": "https://apimg.techstars.com/connect/images/image_files/593aaf3f9c66a95c50000078/original/VLM.png",
@@ -1989,6 +2309,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/vectorlegalmethod",
       "twitter": "https://twitter.com/vector_legal",
@@ -2000,13 +2321,12 @@
       "state_province": "Missouri",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-tumo",
+    "source": "techstars",
     "name": "Tumo",
     "description": "For Latam contractors who struggle to manage their personal finances, Tumo helps them get paid while being tax compliant.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_65c4d3d873953aa3eb736f290.png",
@@ -2027,6 +2347,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tumoapp",
       "twitter": "",
@@ -2038,13 +2359,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-metta-space",
+    "source": "techstars",
     "name": "Metta Space",
     "description": "The Next Generation of Compliance for Better Workplaces  - Helping companies prevent, report & resolve workplace misconduct.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ibte6wxmzy9a7zkrv9fn",
@@ -2068,6 +2388,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/metta-space",
       "twitter": "https://twitter.com/metta_space",
@@ -2078,13 +2399,12 @@
       "city": "Madrid",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
     "alsoIn": []
   },
   {
     "id": "techstars-legalq",
+    "source": "techstars",
     "name": "LegalQ",
     "description": "Providing on-demand access to attorneys.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/611a8bf99122ed0007e976ab/original/Untitled_design_%2872%29.png",
@@ -2102,6 +2422,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/legalqapp",
       "twitter": "https://twitter.com/legalqapp",
@@ -2113,13 +2434,88 @@
       "state_province": "Minnesota",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-guideli",
     "source": "techstars",
+    "name": "Guideli",
+    "description": "Providing a personalized platform that leverages AI to automate the migration journey and removes all friction from permanent residency to settlement",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4276404766bff6901fb6f7383.jpg",
+    "website": "",
+    "location": "Milford, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Legal tech",
+      "Mobile"
+    ],
+    "year": 2023,
+    "program": "Techstars Detroit powered by J.P. Morgan",
+    "programSlugs": [
+      "detroit-jp-morgan"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/guideli",
+      "twitter": "https://twitter.com/myguideli",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/guideli"
+    },
+    "extra": {
+      "city": "Milford",
+      "state_province": "Massachusetts",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-fourthparty",
+    "source": "techstars",
+    "name": "FourthParty",
+    "description": "FourthParty is a SAAS company that offers a B2B practice management tool for neutrals, mediators, and arbitrators to connect with people in conflict.",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/nacuou3cyu82gkx10a8w",
+    "website": "",
+    "location": "Atlanta, Georgia, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Legal tech"
+    ],
+    "year": 2024,
+    "program": "Techstars Atlanta powered by J.P. Morgan",
+    "programSlugs": [
+      "atlanta-jp-morgan"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/fourthparty",
+      "twitter": "",
+      "facebook": "https://facebook.com/4thpartyapp",
+      "crunchbase": "https://crunchbase.com/organization/fourthparty"
+    },
+    "extra": {
+      "city": "Atlanta",
+      "state_province": "Georgia",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-forcefield-io",
+    "source": "techstars",
     "name": "ForceField IO",
     "description": "APIs for verification and of streaming data.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c4938022963e50e5072c82571.png",
@@ -2141,6 +2537,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/meetforcefield",
       "twitter": "https://twitter.com/ForceField_io",
@@ -2152,13 +2549,12 @@
       "state_province": "New Jersey",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-emigreat",
+    "source": "techstars",
     "name": "Emigreat",
     "description": "Emigreat is a web-based application that enables the management of immigration processes for employers and employees.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6b951660c23c5e2319731784a.png",
@@ -2178,6 +2574,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/emigreat",
       "twitter": "https://twitter.com/emigreatco",
@@ -2188,13 +2585,12 @@
       "city": "Göteborg",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-dean-intelligence",
+    "source": "techstars",
     "name": "DEAN Intelligence",
     "description": "The first GenAI copilot for lawyers in right-to-left languages",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_0276008df954234cb4effc48d.jpg",
@@ -2215,6 +2611,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dean-intelligence",
       "twitter": "",
@@ -2225,13 +2622,49 @@
       "city": "'Ara",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
+    "id": "techstars-curatedai",
+    "source": "techstars",
+    "name": "CuratedAI",
+    "description": "CuratedAI - The AI Assistant for European Lawyers",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_be509bf213984c28ba96154d7.png",
+    "website": "",
+    "location": "Brussels, Belgium",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Legal tech"
+    ],
+    "year": 2024,
+    "program": "Techstars Berlin Accelerator",
+    "programSlugs": [
+      "berlin"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Brussels",
+      "country": "Belgium"
+    },
+    "country": "Belgium",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-contract-cloud",
+    "source": "techstars",
     "name": "Contract Cloud",
     "description": "Democratizing access to government contracts.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e2b5d4134a60d7d79000102/original/contractCloud_stkd.png",
@@ -2243,14 +2676,13 @@
       "Legal tech"
     ],
     "year": 2020,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nothingtech",
       "twitter": "https://twitter.com/ContractCloud",
@@ -2262,13 +2694,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-civin",
+    "source": "techstars",
     "name": "Civin",
     "description": "The analytics platform for local government (coming soon).",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f6bbe2c70199534798dfa9feb.png",
@@ -2292,6 +2723,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/civin",
       "twitter": "https://twitter.com/civin_co",
@@ -2303,13 +2735,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-brief",
+    "source": "techstars",
     "name": "Brief",
     "description": "For consumers trying to understand legalese in their everyday contracts, like their house rental, purchase or car, Brief helps customers understand what they are signing fast, using personalization and data.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f91f61ff2b8cf2214d7b73dc7.png",
@@ -2330,6 +2761,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/briefmeio",
       "twitter": "",
@@ -2341,13 +2773,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-juntos2college",
+    "source": "techstars",
     "name": "Juntos2College",
     "description": "A career planning platform for undocumented families so everyone has access to upward mobility.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61ba692523eb9c0008c556c5/original/Juntos_2_College.jpeg",
@@ -2367,6 +2798,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/juntoscommunityco",
       "twitter": "https://twitter.com/JuntosCommunity",
@@ -2378,8 +2810,6 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   }

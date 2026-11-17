@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-oper-credits",
+    "source": "techstars",
     "name": "Oper Credits",
     "description": "Oper creates world-class digital mortgage experiences.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e5e68cc34a60d3b8d000266/original/oper_logo_square_blue.png",
@@ -9,8 +10,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
+      "Artificial intelligence and machine learning",
       "Fintech",
-      "Real estate tech",
       "SaaS"
     ],
     "year": 2020,
@@ -20,6 +21,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/opercredits",
       "twitter": "https://twitter.com/OperCredits",
@@ -30,13 +32,12 @@
       "city": "Antwerpen",
       "country": "Belgium"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Belgium",
     "alsoIn": []
   },
   {
     "id": "techstars-cashforce",
+    "source": "techstars",
     "name": "Cashforce",
     "description": "Bringing capital intensive businesses and banks closer together through an automated cash management platform",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55a4698ca93e9f528a000001/original/Cashforce_logo_black_letters_floored.jpg",
@@ -55,6 +56,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cashforce",
       "twitter": "https://twitter.com/CashForce_CFO",
@@ -65,13 +67,12 @@
       "city": "Antwerpen",
       "country": "Belgium"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Belgium",
     "alsoIn": []
   },
   {
     "id": "techstars-trudenty",
+    "source": "techstars",
     "name": "Trudenty",
     "description": "Infrastructure for decentralized digital identity",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/rxyral4cb9lfp6scw8bq",
@@ -93,6 +94,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/trudenty",
       "twitter": "https://twitter.com/trudenty",
@@ -103,8 +105,6 @@
       "city": "Antwerpen",
       "country": "Belgium"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Belgium",
     "alsoIn": [
       "plugandplay"
@@ -112,6 +112,7 @@
   },
   {
     "id": "techstars-lipefi",
+    "source": "techstars",
     "name": "Lipefi",
     "description": "Husk is the smart spending platform for European startups that\nintegrates payment solutions, transaction insights, and\nliquidity.\n\nWe provide credit cards with meaningful limits in combination with control, insights and planning tools.",
     "logo": "https://apimg.techstars.com/profiles/1748252764937_968086.png",
@@ -131,6 +132,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/usehusk",
       "twitter": "",
@@ -141,13 +143,12 @@
       "city": "Elsene",
       "country": "Belgium"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Belgium",
     "alsoIn": []
   },
   {
     "id": "techstars-sealution",
+    "source": "techstars",
     "name": "Sealution",
     "description": "Welcome to a new era of maritime connectivity.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/616ce3c02b09a50008b4b980/original/Original.png",
@@ -165,6 +166,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sealution",
       "twitter": "https://twitter.com/sealution_io",
@@ -175,13 +177,12 @@
       "city": "Oudenaarde",
       "country": "Belgium"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Belgium",
     "alsoIn": []
   },
   {
     "id": "techstars-wehave",
+    "source": "techstars",
     "name": "WeHave",
     "description": "Europe's leading data clean room for customer data. Building audience ecosystems.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/pgrvsk9mfzm4pdpfcidk",
@@ -204,6 +205,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wehave",
       "twitter": "https://twitter.com/WeHave_io",
@@ -214,13 +216,52 @@
       "city": "Oppuurs",
       "country": "Belgium"
     },
+    "country": "Belgium",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-vectis-ai",
     "source": "techstars",
+    "name": "Vectis.ai",
+    "description": "",
+    "logo": "",
+    "website": "https://vectis.ai",
+    "location": "Tervuren, Flanders, Belgium",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Industrials",
+      "Internet of Things",
+      "Mobility tech"
+    ],
+    "year": 2026,
+    "program": "Techstars New York City Accelerator",
+    "programSlugs": [
+      "nyc"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Tervuren",
+      "state_province": "Flanders",
+      "country": "Belgium"
+    },
     "country": "Belgium",
     "alsoIn": []
   },
   {
     "id": "techstars-shiperise",
+    "source": "techstars",
     "name": "Shiperise",
     "description": "Product inventory investment platform (impact investment)",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/m6c29hxyg5ee8kpczwfp",
@@ -240,6 +281,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shiperise",
       "twitter": "",
@@ -251,50 +293,12 @@
       "state_province": "Brussels Capital",
       "country": "Belgium"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "Belgium",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-curatedai",
-    "name": "CuratedAI",
-    "description": "CuratedAI - The AI Assistant for European Lawyers",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_be509bf213984c28ba96154d7.png",
-    "website": "https://curatedai.eu",
-    "location": "Brussels, Belgium",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Legal tech"
-    ],
-    "year": 2024,
-    "program": "Techstars Berlin Accelerator",
-    "programSlugs": [
-      "berlin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "Brussels",
-      "country": "Belgium"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "Belgium",
     "alsoIn": []
   },
   {
     "id": "techstars-sensifai",
+    "source": "techstars",
     "name": "Sensifai",
     "description": "Sensifai offers the world's most accurate video recognition system.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59b39acec9aec71604000006/original/final_logo.jpg",
@@ -312,6 +316,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/17888541",
       "twitter": "https://twitter.com/sensifai",
@@ -322,8 +327,43 @@
       "city": "Brussels",
       "country": "Belgium"
     },
+    "country": "Belgium",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-curatedai",
     "source": "techstars",
+    "name": "CuratedAI",
+    "description": "CuratedAI - The AI Assistant for European Lawyers",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_be509bf213984c28ba96154d7.png",
+    "website": "",
+    "location": "Brussels, Belgium",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Legal tech"
+    ],
+    "year": 2024,
+    "program": "Techstars Berlin Accelerator",
+    "programSlugs": [
+      "berlin"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Brussels",
+      "country": "Belgium"
+    },
     "country": "Belgium",
     "alsoIn": []
   },

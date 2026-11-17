@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-bokio",
+    "source": "techstars",
     "name": "Bokio",
     "description": "Your digital controller, free of charge.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58d167e49c66a95709000001/original/Screen_Shot_2017-03-21_at_17.50.07.png",
@@ -18,6 +19,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bokio",
       "twitter": "https://twitter.com/Bokioapps",
@@ -28,13 +30,12 @@
       "city": "Göteborg",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-safello",
+    "source": "techstars",
     "name": "Safello",
     "description": "Bitcoin spending platform.",
     "logo": "https://apimg.techstars.com/profiles/1661937513610_574925.png",
@@ -52,6 +53,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/safello",
       "twitter": "https://twitter.com/safelloab",
@@ -62,13 +64,51 @@
       "city": "Stockholm",
       "country": "Sweden"
     },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-safety-bolt",
     "source": "techstars",
+    "name": "Safety Bolt",
+    "description": "Safety Bolt develops monitoring technologies that enable structural bolts to be monitored for cost, time, and risk reduction.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_30ab155fae8d89d43beda2f1e.png",
+    "website": "https://safety-bolt.com",
+    "location": "Stockholm, Sweden",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "tags": [
+      "Big Data",
+      "Industrials",
+      "Infrastructure",
+      "Internet of Things"
+    ],
+    "year": 2026,
+    "program": "Techstars Anywhere Accelerator",
+    "programSlugs": [
+      "anywhere"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/safety-bolt",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/safety-bolt"
+    },
+    "extra": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-eneryield",
+    "source": "techstars",
     "name": "Eneryield",
     "description": "Machine learning algorithms for advanced energy analytics",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/a0sm1lpbjtbchuvwoqvk",
@@ -89,6 +129,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/eneryieldofficial",
       "twitter": "",
@@ -99,13 +140,12 @@
       "city": "Göteborg",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-oe-systems-ab",
+    "source": "techstars",
     "name": "OE Systems AB",
     "description": "A product and service company that delivers our own commercial wave energy solution that focuses on being installed in parallel with offshore wind turbines to enable increased production.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3963ecd1635d268fc78039ddb.png",
@@ -129,6 +169,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/oe-systems-ab",
       "twitter": "",
@@ -139,13 +180,12 @@
       "city": "Göteborg",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-reeler",
+    "source": "techstars",
     "name": "Reeler",
     "description": "UGC (user-generated content) marketing enterprise SaaS platform",
     "logo": "https://apimg.techstars.com/profiles/1662057484650_135950.png",
@@ -164,6 +204,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/reelertech",
       "twitter": "",
@@ -174,52 +215,12 @@
       "city": "Stockholm",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "Sweden",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-safety-bolt",
-    "name": "Safety Bolt",
-    "description": "Safety Bolt develops monitoring technologies that enable structural bolts to be monitored for cost, time, and risk reduction.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_30ab155fae8d89d43beda2f1e.png",
-    "website": "https://safety-bolt.com",
-    "location": "Stockholm, Sweden",
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "tags": [
-      "Big Data",
-      "Industrials",
-      "Infrastructure",
-      "Internet of Things"
-    ],
-    "year": 2026,
-    "program": "Techstars Anywhere Accelerator",
-    "programSlugs": [
-      "anywhere"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/safety-bolt",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/safety-bolt"
-    },
-    "extra": {
-      "city": "Stockholm",
-      "country": "Sweden"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-qlerify",
+    "source": "techstars",
     "name": "Qlerify",
     "description": "Qlerify helps non-techies to easily turn their domain knowledge into visual specifications in a format that software developers love",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_30f928dd9eb89be5b5036e8db.png",
@@ -237,6 +238,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/qlerify",
       "twitter": "",
@@ -247,13 +249,12 @@
       "city": "Stockholm",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-lootlocker",
+    "source": "techstars",
     "name": "LootLocker",
     "description": "LootLocker is the cross-platform game backend-as-a-service that lets you build, ship & run your best games.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60f70f9eb49cdd0007a31af8/original/lootLockerFull_dark_avatar-200.png",
@@ -271,6 +272,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lootlocker",
       "twitter": "https://twitter.com/MyLootLocker",
@@ -281,13 +283,12 @@
       "city": "Stockholm",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-codarica",
+    "source": "techstars",
     "name": "Codarica",
     "description": "Inspiring kids to be the storytellers of the future by introducing them to the World of Code",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60878a3eb6a22a00072d5f55/original/12119064_1611437299118078_5312347388796232383_n.png",
@@ -305,6 +306,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/codarica-ab",
       "twitter": "https://twitter.com/codaricaHQ",
@@ -315,13 +317,12 @@
       "city": "Stockholm",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-tinitell",
+    "source": "techstars",
     "name": "Tinitell",
     "description": "Your kids first mobile phone.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59401cf59c66a90d9a000003/original/Tinitell_logo_sq.png",
@@ -341,6 +342,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/tinitell",
       "twitter": "https://twitter.com/tinitellmobile",
@@ -351,13 +353,12 @@
       "city": "Stockholm",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-swiftly",
+    "source": "techstars",
     "name": "Swiftly",
     "description": "World's first AI platform that searches and applies for jobs",
     "logo": "https://apimg.techstars.com/connect/images/image_files/632da1b5a1a4790008bade10/original/logo_Swiftly_%281%29.png",
@@ -377,6 +378,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/swiftlyone",
       "twitter": "https://twitter.com/hire",
@@ -387,13 +389,12 @@
       "city": "Stockholm",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-raybased",
+    "source": "techstars",
     "name": "Raybased",
     "description": "Raybased is the leading provider of solutions that  makes Energy Efficiency meet Internet of Things",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5be08f2ec1a4b8738600000f/original/Raybased_LOGGA_CMYK.png",
@@ -412,6 +413,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/raybased",
       "twitter": "https://twitter.com/Raybased_IoT",
@@ -422,13 +424,12 @@
       "city": "Västra Frölunda",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-pacemaker",
+    "source": "techstars",
     "name": "Pacemaker",
     "description": "Pacemaker allows for the creation and monetization of DJ mixes using licensed streams from Spotify, not illegal files.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58a9d25bc9aec77a28000066/original/Pacemaker-Logo-Vertical-Color.png",
@@ -449,6 +450,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pacemaker%C2%AE",
       "twitter": "https://twitter.com/pacemaker",
@@ -459,13 +461,12 @@
       "city": "Stockholm",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },
   {
     "id": "techstars-emigreat",
+    "source": "techstars",
     "name": "Emigreat",
     "description": "Emigreat is a web-based application that enables the management of immigration processes for employers and employees.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6b951660c23c5e2319731784a.png",
@@ -485,6 +486,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/emigreat",
       "twitter": "https://twitter.com/emigreatco",
@@ -495,8 +497,6 @@
       "city": "Göteborg",
       "country": "Sweden"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Sweden",
     "alsoIn": []
   },

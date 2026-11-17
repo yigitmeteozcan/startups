@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-regular-finance",
+    "source": "techstars",
     "name": "Regular Finance",
     "description": "Regular offers a savings account in yield-bearing digital assets, delivering daily returns, instant liquidity, and effortless simplicity.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_04148229277034296323eb40c.png",
@@ -20,6 +21,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/regular-finance",
       "twitter": "https://twitter.com/canBthechange",
@@ -30,13 +32,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-pelikan-mobility",
+    "source": "techstars",
     "name": "Pelikan Mobility",
     "description": "Software platform to optimize the electrification and operation of commercial fleets.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_866d5055b0fe3766868349f26.jpg",
@@ -45,10 +46,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
-      "Artificial intelligence and machine learning",
       "Cleantech",
-      "Climate tech",
-      "Infrastructure",
+      "Fintech",
       "Mobility tech"
     ],
     "year": 2023,
@@ -60,6 +59,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pelikan-mobility",
       "twitter": "",
@@ -70,13 +70,50 @@
       "city": "Paris",
       "country": "France"
     },
+    "country": "France",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-wind-fisher",
     "source": "techstars",
+    "name": "Wind Fisher",
+    "description": "Pioneering a revolutionary approach to wind power: a lighter-than-air cylindrical wing converting Magnus force from high altitude winds to clean energy. This enables lower material use, faster deployment, and reduced O&M complexity. Targeting high load factors and game changing LCOE, we aim to deliver scalable, infrastructure-grade renewable power for utilities, AI factories, data centers, industry, and off-grid markets.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3b818a0e73461f287fd6eba60.png",
+    "website": "https://wind-fisher.com",
+    "location": "Les Adrets, France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Cleantech",
+      "Climate tech",
+      "Infrastructure"
+    ],
+    "year": 2024,
+    "program": "Sustainability Paris Techstars Accelerator",
+    "programSlugs": [
+      "paris"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/wind-fisher",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Les Adrets",
+      "country": "France"
+    },
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-heliorec",
+    "source": "techstars",
     "name": "HelioRec",
     "description": "HelioRec is developing floating solar technology for near-shore locations where half of global population lives.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4a1b8c85587345c3c74b4d9f4.jpg",
@@ -86,7 +123,8 @@
     "subregion": "Western Europe",
     "tags": [
       "Cleantech",
-      "Lifestyles of Health and Sustainability and wellness"
+      "Climate tech",
+      "Infrastructure"
     ],
     "year": 2022,
     "program": "Sustainability Paris Techstars Accelerator",
@@ -97,6 +135,7 @@
     "isUnicorn": false,
     "isBCorp": true,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/heliorec",
       "twitter": "https://twitter.com/Helio_Rec",
@@ -107,13 +146,12 @@
       "city": "Nantes",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-illuminem",
+    "source": "techstars",
     "name": "illuminem",
     "description": "illuminem is the world's leading source of sustainability & energy information",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/fhgdrhxwtrcjhrjtpxe5",
@@ -124,9 +162,7 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Big Data",
-      "Climate tech",
-      "Impact investing",
-      "Marketing tech"
+      "Climate tech"
     ],
     "year": 2023,
     "program": "Sustainability Paris Techstars Accelerator",
@@ -137,6 +173,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/illuminem",
       "twitter": "https://twitter.com/illuminemNews",
@@ -148,13 +185,12 @@
       "state_province": "Pistoia",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-toasty",
+    "source": "techstars",
     "name": "Toasty",
     "description": "Our mission at Toasty is to make sustainable lifestyle accessible to everyone.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ktlxxj6homqxgmmamynl",
@@ -174,6 +210,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/toasty-family",
       "twitter": "",
@@ -184,13 +221,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-movopack",
+    "source": "techstars",
     "name": "Movopack",
     "description": "Movo provides circular and reusable packaging solutions for e-commerce folks.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/gq1pnrsfooafpwwencbx",
@@ -210,6 +246,7 @@
     "isUnicorn": false,
     "isBCorp": true,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/movopack",
       "twitter": "",
@@ -221,13 +258,12 @@
       "state_province": "Milan",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-wastetide",
+    "source": "techstars",
     "name": "Wastetide",
     "description": "AI solution reducing the volume of unsorted waste",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_67b37781ede11f2418293762c.png",
@@ -249,6 +285,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -259,54 +296,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "France",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-wind-fisher",
-    "name": "Wind Fisher",
-    "description": "Pioneering a revolutionary approach to wind power: a lighter-than-air cylindrical wing converting Magnus force from high altitude winds to clean energy. This enables lower material use, faster deployment, and reduced O&M complexity. Targeting high load factors and game changing LCOE, we aim to deliver scalable, infrastructure-grade renewable power for utilities, AI factories, data centers, industry, and off-grid markets.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3b818a0e73461f287fd6eba60.png",
-    "website": "https://wind-fisher.com",
-    "location": "Les Adrets, France",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Cleantech",
-      "Climate tech",
-      "Impact investing",
-      "Infrastructure",
-      "Manufacturing",
-      "Robotics and Drones"
-    ],
-    "year": 2024,
-    "program": "Sustainability Paris Techstars Accelerator",
-    "programSlugs": [
-      "paris"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/wind-fisher",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "Les Adrets",
-      "country": "France"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-circularplace",
+    "source": "techstars",
     "name": "CircularPlace",
     "description": "Vendez, donnez ou recyclez, vos invendus et vos retours clients.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_12e048c174a62d0939bb85c87.jpeg",
@@ -326,6 +321,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/circularplace",
       "twitter": "",
@@ -336,13 +332,12 @@
       "city": "Meudon",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-bib-batteries",
+    "source": "techstars",
     "name": "BiB Batteries",
     "description": "BiB optimizes batteries' performances, expands their lifecycle and reduces their environmental footprint, based on data analysis.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ae14842346941054aad7c04cb.png",
@@ -364,6 +359,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bib-batteries",
       "twitter": "",
@@ -374,13 +370,88 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
+    "id": "techstars-finds",
+    "source": "techstars",
+    "name": "FINDS",
+    "description": "The Retouch is a publisher of circular solutions for the fashion and textile industry.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ccb9eeb563c33b0a9db46c8e5.jpeg",
+    "website": "https://finds-upcycling.com",
+    "location": "Paris, France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cleantech",
+      "Lifestyles of Health and Sustainability and wellness"
+    ],
+    "year": 2022,
+    "program": "Sustainability Paris Techstars Accelerator",
+    "programSlugs": [
+      "paris"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/finds-solutions",
+      "twitter": "",
+      "facebook": "https://facebook.com/theretouch/",
+      "crunchbase": "https://crunchbase.com/organization/the-retouch"
+    },
+    "extra": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "country": "France",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-inverto-tech",
+    "source": "techstars",
+    "name": "Inverto Tech",
+    "description": "Rewilding coastlines - beyond planting trees",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5ed5146d42dbb37cbc346941c.jpg",
+    "website": "https://inverto.tech",
+    "location": "Hilterfingen, Switzerland",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Agtech",
+      "Artificial intelligence and machine learning",
+      "Robotics and Drones"
+    ],
+    "year": 2024,
+    "program": "Sustainability Paris Techstars Accelerator",
+    "programSlugs": [
+      "paris"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/inverto-earth",
+      "twitter": "",
+      "facebook": "https://facebook.com/invertoit",
+      "crunchbase": "https://crunchbase.com/organization/inverto-cf10"
+    },
+    "extra": {
+      "city": "Hilterfingen",
+      "country": "Switzerland"
+    },
+    "country": "Switzerland",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-s-lab",
+    "source": "techstars",
     "name": "S.Lab",
     "description": "Sustainable packaging - natural replacement of foamed plastic out of mycelium  and agricultural waste",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_817786da931f4111a8d72b587.png",
@@ -403,6 +474,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/i-lab-s",
       "twitter": "",
@@ -413,13 +485,12 @@
       "city": "Malaga",
       "country": "Spain"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Spain",
     "alsoIn": []
   },
   {
     "id": "techstars-sustainsoft",
+    "source": "techstars",
     "name": "SustainSoft",
     "description": "Sustainsoft is building the ERP (Entreprise Resource planing) software for ESG (Environmental, Social, Governance) data.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62c73debdb450b000890fd0d/original/sustainsoft.jpeg",
@@ -439,6 +510,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sustainsoft",
       "twitter": "https://twitter.com/Sustain_Soft",
@@ -449,13 +521,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-ari-care",
+    "source": "techstars",
     "name": "Ari Care",
     "description": "Personal and home care products",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgxhlmm2lxitsokoqlro",
@@ -476,6 +547,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ari-care",
       "twitter": "https://twitter.com/aricareofficial",
@@ -486,13 +558,12 @@
       "city": "Pärnu",
       "country": "Estonia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Estonia",
     "alsoIn": []
   },
   {
     "id": "techstars-allegiant-h2o",
+    "source": "techstars",
     "name": "Allegiant H2O",
     "description": "Bridging the gap between water projects, the necessary technology and financial solutions.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8659bd3af84234aacf65a0751.jpeg",
@@ -512,6 +583,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/h2o-allegiant",
       "twitter": "",
@@ -523,13 +595,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-nix-air-solutions",
+    "source": "techstars",
     "name": "NIX AIR SOLUTIONS",
     "description": "The tracking collar that protects our biodiversity  | Follow our page to keep up with our fights | Techstars'23",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6d11a2955a54c6d028b6b0d10.jpeg",
@@ -552,6 +623,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nix-air-solutions",
       "twitter": "https://twitter.com/",
@@ -562,13 +634,12 @@
       "city": "Avignon",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-raz",
+    "source": "techstars",
     "name": "RAZ",
     "description": "RAZ enables impact-financial data origin and authenticity verification across unalterable timelines",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/bkloe50jnrr6xh0ao7kl",
@@ -590,6 +661,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/razfintech",
       "twitter": "https://twitter.com/razfintech",
@@ -600,13 +672,12 @@
       "city": "Bnei Brak",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-nyungu-afrika",
+    "source": "techstars",
     "name": "Nyungu Afrika",
     "description": "Makes pads safe, accessible, and affordable to majority of women and girls.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/xikshv01uqbh6wjcdree",
@@ -629,6 +700,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nyungu-afrika",
       "twitter": "",
@@ -639,13 +711,12 @@
       "city": "Nairobi",
       "country": "Kenya"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Kenya",
     "alsoIn": []
   },
   {
     "id": "techstars-kudoti",
+    "source": "techstars",
     "name": "Kudoti",
     "description": "Kudoti design and develop digital solutions for optimization in the waste management and recycling industries via the platform.",
     "logo": "https://apimg.techstars.com/profiles/1659520510259_489068.png",
@@ -667,6 +738,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kudoti",
       "twitter": "https://twitter.com/Kudoti_Waste",
@@ -677,13 +749,12 @@
       "city": "Johannesburg",
       "country": "South Africa"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "South Africa",
     "alsoIn": []
   },
   {
     "id": "techstars-hydroquo",
+    "source": "techstars",
     "name": "Hydroquo+",
     "description": "Harnessing the power of chemometric analytics tools to maximize information and data available for leading water innovators, to improve the quality of water worldwide",
     "logo": "https://apimg.techstars.com/profiles/1723460362645_153102.png",
@@ -703,6 +774,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hydroquo",
       "twitter": "",
@@ -713,13 +785,12 @@
       "city": "Dhaka",
       "country": "Bangladesh"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Bangladesh",
     "alsoIn": []
   },
   {
     "id": "techstars-gammanics",
+    "source": "techstars",
     "name": "Gammanics",
     "description": "Green hydrogen from waste recycling",
     "logo": "https://apimg.techstars.com/profiles/1666335263356_939444.png",
@@ -739,6 +810,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ndb-technology",
       "twitter": "https://twitter.com/ndbtechnology",
@@ -749,51 +821,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
-    "id": "techstars-finds",
-    "name": "FINDS",
-    "description": "The Retouch is a publisher of circular solutions for the fashion and textile industry.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ccb9eeb563c33b0a9db46c8e5.jpeg",
-    "website": "https://finds-upcycling.com",
-    "location": "Paris, France",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cleantech",
-      "Lifestyles of Health and Sustainability and wellness"
-    ],
-    "year": 2022,
-    "program": "Sustainability Paris Techstars Accelerator",
-    "programSlugs": [
-      "paris"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/finds-solutions",
-      "twitter": "",
-      "facebook": "https://facebook.com/theretouch/",
-      "crunchbase": "https://crunchbase.com/organization/the-retouch"
-    },
-    "extra": {
-      "city": "Paris",
-      "country": "France"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "France",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-energy-shift",
+    "source": "techstars",
     "name": "Energy Shift",
     "description": "Energy Shift is a web based, blockchain powered platform that enables citizens to jointly invest in and co-own solar parks, thus democratising the energy sector and enabling citizens to actively participate in the energy transition to renewable energy.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b46866434dec0160253bca973.jpg",
@@ -815,6 +848,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/energy-shift",
       "twitter": "https://twitter.com/EnergyShift3",
@@ -825,13 +859,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-egreen",
+    "source": "techstars",
     "name": "egreen",
     "description": "eGreen is a technology company that seeks to accelerate environmental and financial impact through green investments, creating a platform based on blockchain technology.",
     "logo": "https://apimg.techstars.com/profiles/1668124277386_625779.png",
@@ -853,6 +886,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/egreen-com",
       "twitter": "",
@@ -863,13 +897,12 @@
       "city": "Santiago",
       "country": "Chile"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Chile",
     "alsoIn": []
   },
   {
     "id": "techstars-wikimove",
+    "source": "techstars",
     "name": "Wikimove",
     "description": "FLOW is a cross-regional, city-centric platform to manage the shift towards Mobility as a Service by leveraging data and orchestrating public and private mobility services in concert to the streets and infrastructure on which they rely.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62c73d6cd93b680008c74593/original/wikimove.jpeg",
@@ -891,6 +924,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wikimove",
       "twitter": "",
@@ -901,13 +935,12 @@
       "city": "Mulfingen",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-outlander-materials",
+    "source": "techstars",
     "name": "Outlander Materials",
     "description": "Clean biotech and materials science company eradicating waste.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ap9ay4hawcxgbszkwm11",
@@ -928,6 +961,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/outlandermaterials",
       "twitter": "",
@@ -938,13 +972,12 @@
       "city": "Rotterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-kumulus",
+    "source": "techstars",
     "name": "Kumulus",
     "description": "Machine generating potable water using only solar power + humidity",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_0b2b6bd9d5a78ca62fef0d6c1.jpg",
@@ -964,6 +997,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/kumulus-water",
       "twitter": "https://twitter.com/KumulusWater",
@@ -974,13 +1008,12 @@
       "city": "Saint-Mandé",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-iroko-analytics",
+    "source": "techstars",
     "name": "Iroko Analytics",
     "description": "Provides EU timber traders with the analytics they need to comply with their legal due diligence requirements",
     "logo": "https://apimg.techstars.com/profiles/1657104988016_27168.png",
@@ -1004,6 +1037,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/project-canopy",
       "twitter": "https://twitter.com/project_canopy",
@@ -1015,13 +1049,50 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-colmenio",
+    "source": "techstars",
+    "name": "Colmenio",
+    "description": "Colmenio provides real-time hive sensing infrastructure for remote colony monitoring, apidological research, honey traceability and early risk detection in beekeeping.",
+    "logo": "https://apimg.techstars.com/profiles/1658820996215_38969.png",
+    "website": "https://colmenio.com",
+    "location": "The Hague, South Holland, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Agtech",
+      "Internet of Things"
+    ],
+    "year": 2022,
+    "program": "Sustainability Paris Techstars Accelerator",
+    "programSlugs": [
+      "paris"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/colmenio",
+      "twitter": "https://twitter.com/BeeSageCo",
+      "facebook": "https://facebook.com/beesageco",
+      "crunchbase": "https://crunchbase.com/organization/beesage"
+    },
+    "extra": {
+      "city": "The Hague",
+      "state_province": "South Holland",
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-bioesol",
+    "source": "techstars",
     "name": "BioEsol",
     "description": "BioEsol offers sustainable energy autonomy, through an intelligent energy storage system. It allows us to take full advantage of the energy from renewable sources, generating a positive impact on the environment.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a4c2a30b3d923c951be96eba0.png",
@@ -1042,6 +1113,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/bioesol",
       "twitter": "https://twitter.com/bioesol",
@@ -1052,50 +1124,12 @@
       "city": "Guadalajara",
       "country": "Mexico"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Mexico",
     "alsoIn": []
   },
   {
-    "id": "techstars-beesage",
-    "name": "BeeSage",
-    "description": "Beehive monitoring system that provides real-time data to beekeepers, saving time and reducing bee mortality.",
-    "logo": "https://apimg.techstars.com/profiles/1658820996215_38969.png",
-    "website": "https://beesage.co",
-    "location": "Amsterdam, Netherlands",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Agtech",
-      "Internet of Things"
-    ],
-    "year": 2022,
-    "program": "Sustainability Paris Techstars Accelerator",
-    "programSlugs": [
-      "paris"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/beesage",
-      "twitter": "https://twitter.com/BeeSageCo",
-      "facebook": "https://facebook.com/beesageco",
-      "crunchbase": "https://crunchbase.com/organization/beesage"
-    },
-    "extra": {
-      "city": "Amsterdam",
-      "country": "Netherlands"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Netherlands",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-trashboard",
+    "source": "techstars",
     "name": "TRASHBOARD",
     "description": "Trashboard is a new material.\nBased on recycled cardboard, circular and performing.",
     "logo": "https://apimg.techstars.com/profiles/1724245715673_336198.png",
@@ -1115,6 +1149,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/trashboard",
       "twitter": "",
@@ -1125,13 +1160,12 @@
       "city": "Bayonne",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-nditive",
+    "source": "techstars",
     "name": "Nditive",
     "description": "AI-powered digital twin-driven gas monitoring system",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_495185efe43ea79af50b5c22c.jpg",
@@ -1156,6 +1190,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nditive",
       "twitter": "",
@@ -1167,13 +1202,12 @@
       "state_province": "Newfoundland and Labrador",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-lambdai-space",
+    "source": "techstars",
     "name": "Lambdai Space",
     "description": "We are democratizing access to remote monitoring for climate impact",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/evkiil0uzt3zodyawzyi",
@@ -1197,6 +1231,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lambdai-space",
       "twitter": "",
@@ -1208,8 +1243,6 @@
       "state_province": "Lombardy",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": [
       "antler"
@@ -1217,6 +1250,7 @@
   },
   {
     "id": "techstars-consciesg",
+    "source": "techstars",
     "name": "ConsciESG",
     "description": "The platform for active asset managers who invest in financially thriving sustainable companies",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_eebdbda146d561011c5180c84.png",
@@ -1238,6 +1272,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/consciesg",
       "twitter": "",
@@ -1249,13 +1284,12 @@
       "state_province": "Centre",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-climerock",
+    "source": "techstars",
     "name": "ClimeRock",
     "description": "Removing carbon while restoring soils with Enhanced Rock Weathering.",
     "logo": "https://apimg.techstars.com/profiles/1739294385909_450879.png",
@@ -1279,6 +1313,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/climerock",
       "twitter": "",
@@ -1289,13 +1324,12 @@
       "city": "Colombes",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-carbontribe-labs",
+    "source": "techstars",
     "name": "Carbontribe Labs",
     "description": "ReFi, Computer Vision MRV, Satellite x Machine Learning, Mangrove, Carbon Credit",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/awsoglgeqpldi0plhn23",
@@ -1317,6 +1351,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/carbontribe",
       "twitter": "https://twitter.com/Carbontribeme",
@@ -1327,25 +1362,25 @@
       "city": "Berlin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-adhere-gear-technology",
+    "source": "techstars",
     "name": "ADHERE GEAR Technology",
-    "description": "Sensor-based technology to monitor frozen and perishable food products",
+    "description": "Factory-assembled, autonomous 2.5MW compute POD infrastructure for Artificial Intelligence on the edge. \n\n",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_065084a9c5f716790ffc43d5f.png",
     "website": "https://agdatacenter.io",
-    "location": "Beaverton, Oregon, United States",
+    "location": "Honolulu, Hawaii, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "3D printing",
+      "Advanced Manufacturing",
+      "Artificial intelligence and machine learning",
       "Cleantech",
-      "Climate tech",
-      "Internet of Things",
-      "Mobile"
+      "Infrastructure"
     ],
     "year": 2024,
     "program": "Sustainability Paris Techstars Accelerator",
@@ -1356,24 +1391,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/adhere-gear-technology-corporation",
+      "linkedin": "https://linkedin.com/company/adheregear-ai-infrastructure",
       "twitter": "",
       "facebook": "",
       "crunchbase": "https://crunchbase.com/organization/adhere-gear-technology"
     },
     "extra": {
-      "city": "Beaverton",
-      "state_province": "Oregon",
+      "city": "Honolulu",
+      "state_province": "Hawaii",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-switchgrid",
+    "source": "techstars",
     "name": "Switchgrid",
     "description": "Switchgrid reduces your consumption at peak times and rewards your virtuous behaviour",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_061b6647f42d7cc4d2f0a4ef1.png",
@@ -1395,6 +1430,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/switchgrid",
       "twitter": "",
@@ -1405,13 +1441,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-sequestr",
+    "source": "techstars",
     "name": "Sequestr",
     "description": "Accelerating the transition to a low-carbon economy by unlocking institutional capital for carbon markets via risk and pricing products.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/zu10phkg7g44mb3p8pqv",
@@ -1433,6 +1468,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sequestr",
       "twitter": "https://twitter.com/SequestrIO",
@@ -1444,13 +1480,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-ridecommerce",
+    "source": "techstars",
     "name": "RideCommerce",
     "description": "ESG Supply Chain Platform for Scope 1,2,3 emissions",
     "logo": "https://apimg.techstars.com/profiles/1743032077645_479618.png",
@@ -1474,6 +1509,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ridecommerce",
       "twitter": "",
@@ -1484,13 +1520,12 @@
       "city": "Slough",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-raiz",
+    "source": "techstars",
     "name": "Raiz",
     "description": "Urban Farming Evolution. Building distributed farms catering to urban consumers in an energy efficient manner.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_41aff02fed704587c1de01563.jpeg",
@@ -1510,6 +1545,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/raiz-vertical-farms",
       "twitter": "",
@@ -1520,13 +1556,12 @@
       "city": "Lisbon",
       "country": "Portugal"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Portugal",
     "alsoIn": []
   },
   {
     "id": "techstars-powerfull-technology-limited",
+    "source": "techstars",
     "name": "Powerfull Technology Limited",
     "description": "Fuelling Africa's energy transition with finance",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b23a17033c74e3b9ef8faf62c.png",
@@ -1547,6 +1582,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/powerfull-tech",
       "twitter": "https://twitter.com/powerfull_tech",
@@ -1557,13 +1593,12 @@
       "city": "Dewsbury",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-monsapo",
+    "source": "techstars",
     "name": "Monsapo",
     "description": "Monsapo manufactures and supplies cleaning products.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/pjereuanfe8yr76uxpjb",
@@ -1586,6 +1621,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/monsapo",
       "twitter": "",
@@ -1596,13 +1632,12 @@
       "city": "PARIS 8",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-lonereport",
+    "source": "techstars",
     "name": "LoneReport",
     "description": "Verified and Automated ESG Compliance",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_191a662fc196909777e1f12e2.png",
@@ -1625,6 +1660,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1636,51 +1672,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-inverto-tech",
-    "name": "Inverto Tech",
-    "description": "Rewilding coastlines - beyond planting trees",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_5ed5146d42dbb37cbc346941c.jpg",
-    "website": "https://inverto.tech",
-    "location": "Hilterfingen, Switzerland",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Agtech",
-      "Artificial intelligence and machine learning",
-      "Robotics and Drones"
-    ],
-    "year": 2024,
-    "program": "Sustainability Paris Techstars Accelerator",
-    "programSlugs": [
-      "paris"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/inverto-earth",
-      "twitter": "",
-      "facebook": "https://facebook.com/invertoit",
-      "crunchbase": "https://crunchbase.com/organization/inverto-cf10"
-    },
-    "extra": {
-      "city": "Hilterfingen",
-      "country": "Switzerland"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Switzerland",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-gst-dao",
+    "source": "techstars",
     "name": "GST DAO",
     "description": "community governed land trust whereby the equitable value of entrusted, protected land backs the value of our digital currency - GST.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_51f4cff431a304b2aed294f96.png",
@@ -1702,6 +1699,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gstdao",
       "twitter": "",
@@ -1712,13 +1710,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-carbo-energy",
+    "source": "techstars",
     "name": "Carbo Energy",
     "description": "Scaling energy storage for a greener future",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7c21433c5b3e49210de3fa95f.png",
@@ -1741,6 +1738,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1751,13 +1749,12 @@
       "city": "Ciudad de Buenos Aires",
       "country": "Argentina"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Argentina",
     "alsoIn": []
   },
   {
     "id": "techstars-acuicy",
+    "source": "techstars",
     "name": "Acuicy",
     "description": "Business Intelligence for Net Zero Supply Chains",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8d2acdef362f24f8820f9e88a.jpg",
@@ -1778,6 +1775,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/acuicy",
       "twitter": "",
@@ -1789,13 +1787,12 @@
       "state_province": "Nova Scotia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-windcredible",
+    "source": "techstars",
     "name": "Windcredible",
     "description": "Urban Wind Turbines for Renewable Energy Generation",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/cyxbtefnvz7dkix8cjt3",
@@ -1818,6 +1815,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/windcredible",
       "twitter": "",
@@ -1828,13 +1826,12 @@
       "city": "Águas Livres",
       "country": "Portugal"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Portugal",
     "alsoIn": []
   },
   {
     "id": "techstars-enreport",
+    "source": "techstars",
     "name": "Enreport",
     "description": "Customize any production process based on drag and drop AI driven digital twins",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/y6jo2uyoyfxat0pprkkp",
@@ -1855,6 +1852,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/enreport",
       "twitter": "",
@@ -1865,13 +1863,12 @@
       "city": "Espoo",
       "country": "Finland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Finland",
     "alsoIn": []
   },
   {
     "id": "techstars-avrio",
+    "source": "techstars",
     "name": "Avrio",
     "description": "Sharing research and insights is messy. Avrio is here to change that.\n\nWith Avrio you can transform your customer conversations, data analysis, and scattered knowledge into insights that drive growth for your business.\n\nAvrio gives you the tools to bri...",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ejtgdflayz5ylevi2ahd",
@@ -1893,6 +1890,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/avriohq",
       "twitter": "https://twitter.com/AvrioHQ",
@@ -1903,13 +1901,12 @@
       "city": "Rijsenhout",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-stackease",
+    "source": "techstars",
     "name": "STACKEASE",
     "description": "StackEase specializes in the development of cutting-edge optimization and trading technologies for large-scale battery storage systems.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/pnu9safw4b3jzr49ndkk",
@@ -1930,6 +1927,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/stackease",
       "twitter": "",
@@ -1940,13 +1938,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-we-make-change",
+    "source": "techstars",
     "name": "We Make Change",
     "description": "Online platform making impact easy",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/g192xes7pgel5r3cjor4",
@@ -1966,6 +1963,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/we-make-change-now",
       "twitter": "",
@@ -1976,13 +1974,12 @@
       "city": "Leiden",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-propellane",
+    "source": "techstars",
     "name": "Propellane",
     "description": "Energy efficiency systems",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/thtmzuerhvvmne3q5dkm",
@@ -2003,6 +2000,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2013,13 +2011,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-minersai",
+    "source": "techstars",
     "name": "MinersAI",
     "description": "Developer of AI based geologic datasets designed to help the minerals exploration industry cope with the energy transition.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_91682ae73ef1286ebdc4a02d5.png",
@@ -2041,6 +2038,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/minersai",
       "twitter": "",
@@ -2052,13 +2050,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-greenfluidics",
+    "source": "techstars",
     "name": "Greenfluidics",
     "description": "We make it flow",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ofhyjfcrmknlggxblui8",
@@ -2079,6 +2076,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/greenfluidics",
       "twitter": "https://twitter.com/greenfluidics",
@@ -2090,8 +2088,6 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
@@ -2099,6 +2095,7 @@
   },
   {
     "id": "techstars-greena-world",
+    "source": "techstars",
     "name": "Greena World",
     "description": "We use technology to make tourism sustainable.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/hdvgzmim2xdrxnuhzh36",
@@ -2118,6 +2115,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/greena-world",
       "twitter": "",
@@ -2128,13 +2126,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-carbonbright",
+    "source": "techstars",
     "name": "CarbonBright",
     "description": "CarbonBright is an AI-driven platform transforming sustainability in the CPG industry. We automate and scale product-level Life Cycle Assessments (LCAs), addressing Scope 3 emissions by leveraging generative AI, making product sustainability measurable and actionable at scale.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_8e5a0c160dda8d3df9bac1ddf.png",
@@ -2155,6 +2152,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/carbonbright",
       "twitter": "",
@@ -2166,13 +2164,12 @@
       "state_province": "Oregon",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-canopey",
+    "source": "techstars",
     "name": "Canopey",
     "description": "Sustainable Marketplace",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/dsjbmykjsxvsnvuwzj2k",
@@ -2193,6 +2190,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/canopeyuk",
       "twitter": "https://twitter.com/canopeyuk",
@@ -2203,13 +2201,12 @@
       "city": "Norwich",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-winim",
+    "source": "techstars",
     "name": "WINIM",
     "description": "Assists businesses sell surplus daily food, helping take care of the environment by preventing food from being thrown away.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/mcvtptslp6eoiwsinznq",
@@ -2232,6 +2229,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/winimarg",
       "twitter": "https://twitter.com/WINIMArgentina",
@@ -2242,13 +2240,12 @@
       "city": "Buenos Aires",
       "country": "Argentina"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Argentina",
     "alsoIn": []
   },
   {
     "id": "techstars-vallai",
+    "source": "techstars",
     "name": "Vallai",
     "description": "Vallai offers a SaaS platform for multi-party collaboration on data and AI projects to overcome the problem of trust and data sharing between partners.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/i0iszlbdegdlrnq5t43h",
@@ -2269,6 +2266,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/vallai",
       "twitter": "",
@@ -2279,13 +2277,12 @@
       "city": "Bois-Colombes",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-trilleco",
+    "source": "techstars",
     "name": "Trilleco",
     "description": "Trilleco is a 3D IoT sustainability platform that provides data transparency and transforms footprint.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/khyczbm32nrtavkmsenj",
@@ -2314,6 +2311,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/trilleco",
       "twitter": "",
@@ -2324,13 +2322,12 @@
       "city": "Oulu",
       "country": "Finland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Finland",
     "alsoIn": []
   },
   {
     "id": "techstars-savvy",
+    "source": "techstars",
     "name": "Savvy",
     "description": "Social Video Ad Maker",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/skzjprzijwjuu99mh8jo",
@@ -2350,6 +2347,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/savvyinvest",
       "twitter": "https://twitter.com/SavvyWorksHQ",
@@ -2360,13 +2358,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-mcledger",
+    "source": "techstars",
     "name": "MCLedger",
     "description": "MCLedger makes innovative Cloud, AI, and Blockchain applications for Supply chain and Fintech.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihubif9tkozxaee5t6a6",
@@ -2390,6 +2387,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mcledger",
       "twitter": "https://twitter.com/mc_ledger",
@@ -2400,13 +2398,12 @@
       "city": "Palaiseau",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-mavuno-technologies",
+    "source": "techstars",
     "name": "Mavuno Technologies",
     "description": "Ag & FinTech social startup",
     "logo": "https://apimg.techstars.com/profiles/1650973221069_356316.png",
@@ -2429,6 +2426,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mavunotech",
       "twitter": "https://twitter.com/mavunotech",
@@ -2439,13 +2437,12 @@
       "city": "Berlin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-lisus-technologies",
+    "source": "techstars",
     "name": "LISUS Technologies",
     "description": "Lisus sells critical minerals.",
     "logo": "https://apimg.techstars.com/profiles/1659751038824_911698.png",
@@ -2467,6 +2464,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lisus",
       "twitter": "https://twitter.com/LisusEnergy",
@@ -2478,13 +2476,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dedalo",
+    "source": "techstars",
     "name": "Dedalo",
     "description": "Dedalo AI, a pioneering Climate Tech enterprise, is dedicated to quantifying and mitigating the digital CO2 footprint.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vbj2o4h9wg2sdqdyuzqo",
@@ -2508,6 +2505,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/dedalo-ai",
       "twitter": "https://twitter.com/DedaloAi",
@@ -2519,13 +2517,12 @@
       "state_province": "Turin",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   },
   {
     "id": "techstars-declique",
+    "source": "techstars",
     "name": "Declique",
     "description": "Declique allow clients to collect all field data, analyse the extent of losses and justify investments based on the data collected.",
     "logo": "https://apimg.techstars.com/profiles/1656579434776_244620.png",
@@ -2548,6 +2545,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/declique",
       "twitter": "",
@@ -2558,13 +2556,12 @@
       "city": "Labege",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-beaware",
+    "source": "techstars",
     "name": "BEAWaRe",
     "description": "Supporting the administrations, companies and waste companies in simplifying bureaucracy, automating waste tracking in a sustainable way.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/w68bltr7qzzqkswvg2nv",
@@ -2584,6 +2581,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/beawarecircular",
       "twitter": "",
@@ -2595,8 +2593,6 @@
       "state_province": "Rome",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": []
   }

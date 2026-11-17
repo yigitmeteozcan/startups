@@ -1,6 +1,7 @@
 [
   {
     "id": "techstars-openly",
+    "source": "techstars",
     "name": "Openly",
     "description": "Beautifully Simple Insurance",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c676d0eaccce5f4ec8f4d5a1c.png",
@@ -21,6 +22,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/openlyinc",
       "twitter": "https://twitter.com/openlyllc",
@@ -32,87 +34,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-regard",
-    "name": "Regard",
-    "description": "Automating documentation, so clinicians can get back to patients.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/600f35d46a498b00080000a0/original/healthtensor.png",
-    "website": "https://regard.com",
-    "location": "Los Angeles, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Healthtech",
-      "Insurtech"
-    ],
-    "year": 2017,
-    "program": "Techstars Healthcare, in partnership with Cedars-Sinai",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/regard-technologies",
-      "twitter": "https://twitter.com/RegardApp",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/healthtensor"
-    },
-    "extra": {
-      "city": "Los Angeles",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-overstory",
-    "name": "Overstory",
-    "description": "Real-time vegetation intelligence, at scale",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/605669d7a6bd3800072f05c7/original/OVERSTORY_LOGO_BLACK_RGB_282x282.png",
-    "website": "https://20tree.ai",
-    "location": "Amsterdam, Netherlands",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cleantech",
-      "Climate tech",
-      "Insurtech"
-    ],
-    "year": 2019,
-    "program": "Techstars Lisbon in Partnership with Semapa Next",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/overstoryai",
-      "twitter": "https://twitter.com/overstoryai",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/overstoryai"
-    },
-    "extra": {
-      "city": "Amsterdam",
-      "country": "Netherlands"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Netherlands",
     "alsoIn": []
   },
   {
     "id": "techstars-the-helper-bees",
+    "source": "techstars",
     "name": "The Helper Bees",
     "description": "A tech enabled in-home care platform that encourages aging in place by using personality matching to connect private duty caregivers with seniors.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56bc2000bbe36ff39a000002/original/helper_bees-A-300x300.png",
@@ -121,7 +48,7 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Fintech",
+      "Healthtech",
       "Insurtech",
       "Lifestyles of Health and Sustainability and wellness"
     ],
@@ -134,6 +61,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/the-helper-bees",
       "twitter": "https://twitter.com/thehelperbees",
@@ -145,13 +73,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cuvva",
+    "source": "techstars",
     "name": "Cuvva",
     "description": "Offering flexible on-demand car insurance, by the hour.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/600f3e836087400009000098/original/cuvva.jpg",
@@ -160,7 +87,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
-      "Insurtech"
+      "Insurtech",
+      "Mobile"
     ],
     "year": 2016,
     "program": "London Barclays Accelerator, powered by Techstars",
@@ -169,6 +97,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cuvva",
       "twitter": "https://twitter.com/cuvva",
@@ -179,13 +108,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-seel",
+    "source": "techstars",
     "name": "Seel",
     "description": "Seel is building a new category of financial products to help merchants offer risk-free shopping experience.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/600757c16a498b000800001c/original/high_res_png_kover_logo_copy.jpg",
@@ -194,9 +122,10 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Cryptocurrency/Blockchain",
-      "Fintech",
-      "Insurtech"
+      "Artificial intelligence and machine learning",
+      "E-commerce",
+      "Insurtech",
+      "SaaS"
     ],
     "year": 2019,
     "program": "MetLife Digital Accelerator powered by Techstars",
@@ -205,6 +134,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/addseel",
       "twitter": "https://twitter.com/justaddseel",
@@ -216,53 +146,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-urban-sky",
-    "name": "Urban Sky",
-    "description": "Developing stratospheric Microballoons to capture the freshest, high-res earth observation data.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5eb98988a36c116eba000061/original/Screen_Shot_2020-05-11_at_10.20.58_AM.png",
-    "website": "https://urbansky.com",
-    "location": "Denver, Colorado, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Big Data",
-      "Climate tech",
-      "Insurtech",
-      "Internet of Things",
-      "Oil and gas"
-    ],
-    "year": 2020,
-    "program": "Techstars Starburst Space Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/urban-sky-imaging",
-      "twitter": "",
-      "facebook": "https://facebook.com/theurbansky/",
-      "crunchbase": "https://crunchbase.com/organization/urban-sky"
-    },
-    "extra": {
-      "city": "Denver",
-      "state_province": "Colorado",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-skopenow",
+    "source": "techstars",
     "name": "Skopenow",
     "description": "Skopenow is a people search engine for discovering fraud and evaluating risk.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57d05b4ba93e9f961100001c/original/Skope_Eye_With_Text_Full_No_Text__BG.png",
@@ -273,9 +162,7 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Cybersecurity",
-      "Fintech",
-      "Insurtech",
-      "Mobile"
+      "Insurtech"
     ],
     "year": 2016,
     "program": "Techstars New York City Accelerator",
@@ -286,6 +173,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/skopenow",
       "twitter": "https://twitter.com/Skopenow",
@@ -297,50 +185,89 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-trellis-research",
-    "name": "Trellis Research",
-    "description": "Legal intelligence and judicial analytics for law firms.",
-    "logo": "https://s3.amazonaws.com/companies-techstars-images/nopic_startup.jpg",
-    "website": "https://trellis.law",
-    "location": "Los Angeles, California, United States",
+    "id": "techstars-lazarus",
+    "source": "techstars",
+    "name": "Lazarus",
+    "description": "Lazarus uses historical patient data and deep learning to help predict the early onset of cancer, improving physician outcomes.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5d24cf9234a60d13b300007a/original/047e3e-Lazarus_20Logo.png",
+    "website": "https://lazarusai.com",
+    "location": "Cambridge, Massachusetts, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Artificial intelligence and machine learning",
       "Insurtech"
     ],
-    "year": 2018,
-    "program": "Techstars Space Accelerator",
+    "year": 2019,
+    "program": "MetLife Digital Accelerator powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/lazarus-enterprisesinc",
+      "twitter": "https://twitter.com/Lazarus_Tech",
+      "facebook": "https://facebook.com/lazarus.technology",
+      "crunchbase": "https://crunchbase.com/organization/lazarus-enterprises-2"
+    },
+    "extra": {
+      "city": "Cambridge",
+      "state_province": "Massachusetts",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": [
+      "plugandplay"
+    ]
+  },
+  {
+    "id": "techstars-indico-data",
+    "source": "techstars",
+    "name": "Indico Data",
+    "description": "Indico Data transforms unstructured data into actionable insights.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6180c800eec0370008da6f93/original/Indico_SocialMedia_Youtube_Graphics_Icon.png",
+    "website": "https://indico.io",
+    "location": "Boston, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Insurtech",
+      "SaaS"
+    ],
+    "year": 2014,
+    "program": "Techstars Boston Accelerator",
     "programSlugs": [
-      "space"
+      "boston"
     ],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/trellis-law",
-      "twitter": "https://twitter.com/trellis_law",
-      "facebook": "https://facebook.com/trellis.rocks",
-      "crunchbase": "https://crunchbase.com/organization/trellis-research"
+      "linkedin": "https://linkedin.com/company/indico-data-solutions",
+      "twitter": "https://twitter.com/indicoData",
+      "facebook": "https://facebook.com/IndicoDataSolutions",
+      "crunchbase": "https://crunchbase.com/organization/indico-data-solutions"
     },
     "extra": {
-      "city": "Los Angeles",
-      "state_province": "California",
+      "city": "Boston",
+      "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-player-s-health",
+    "source": "techstars",
     "name": "Player's Health",
     "description": "Player's Health is an insurance agency that protects athletes and sports organizations with a unique risk management platform.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a68f0589c66a91d7b000018/original/icon.jpg",
@@ -361,6 +288,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/team-interval-powered-by-ao1-solutions-inc-",
       "twitter": "https://twitter.com/PlayersHealth",
@@ -372,13 +300,50 @@
       "state_province": "Minnesota",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-wagmo",
     "source": "techstars",
+    "name": "Wagmo",
+    "description": "Wagmo is a doggy wellness plan.",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/xcpxwggkc5kmidivthxn",
+    "website": "https://wagmo.io",
+    "location": "Boston, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Insurtech",
+      "Pet tech"
+    ],
+    "year": 2019,
+    "program": "Techstars New York City Accelerator",
+    "programSlugs": [
+      "nyc"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/wagmo",
+      "twitter": "https://twitter.com/meetwagmo",
+      "facebook": "https://facebook.com/meetwagmo/",
+      "crunchbase": "https://crunchbase.com/organization/wagmo#section-overview"
+    },
+    "extra": {
+      "city": "Boston",
+      "state_province": "Massachusetts",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-skywatch",
+    "source": "techstars",
     "name": "SkyWatch",
     "description": "SkyWatch provides API access to the world's satellite data.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57e156c1808320e7b4000003/original/Grey_and_Red.png",
@@ -387,8 +352,6 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning",
-      "Big Data",
       "Fintech",
       "Insurtech",
       "Robotics and Drones"
@@ -402,6 +365,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/skywatchai",
       "twitter": "https://twitter.com/SkyWatchApps",
@@ -413,8 +377,6 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": [
       "plugandplay"
@@ -422,6 +384,7 @@
   },
   {
     "id": "techstars-sprout-ai",
+    "source": "techstars",
     "name": "Sprout.ai",
     "description": "Sprout.ai empowers insurers to settle claims in as little as 24 hours by providing data driven insights.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e986a5334a60d416d000211/original/Sprout_Social_Media_Icon.png",
@@ -431,10 +394,8 @@
     "subregion": "Western Europe",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Cryptocurrency/Blockchain",
-      "Fintech",
-      "Infrastructure",
-      "Insurtech"
+      "Insurtech",
+      "SaaS"
     ],
     "year": 2019,
     "program": "MetLife Digital Accelerator powered by Techstars",
@@ -443,6 +404,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sproutai",
       "twitter": "https://twitter.com/Sprout_ai",
@@ -453,87 +415,48 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
-    "id": "techstars-klaim",
-    "name": "Klaim",
-    "description": "\"We help healthcare providers reduce waste, get paid more and faster on their medical claims using artificial intelligence. \"",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/60a3a4bae108d5000805bb27/original/logo_blob_2x.png",
-    "website": "https://klaim.ai",
-    "location": "Abu Dhabi, United Arab Emirates",
-    "region": "Middle East",
-    "subregion": "Middle East",
-    "tags": [
-      "Climate tech",
-      "Fintech",
-      "Insurtech"
-    ],
-    "year": 2021,
-    "program": "Techstars Hub71 Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/klaim-ai",
-      "twitter": "https://twitter.com/drklaimai",
-      "facebook": "https://facebook.com/Dr.Klaim/",
-      "crunchbase": "https://crunchbase.com/organization/klaim"
-    },
-    "extra": {
-      "city": "Abu Dhabi",
-      "country": "United Arab Emirates"
-    },
+    "id": "techstars-kinetic",
     "source": "techstars",
-    "founders": [],
-    "country": "United Arab Emirates",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-hidrate",
-    "name": "Hidrate",
-    "description": "We combine style and technology to build beautiful connected devices for health and fitness communities.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/60900c81b6a22a00072d5f6d/original/Hidrate_Spark_Icon.png",
-    "website": "https://hidratespark.com",
-    "location": "Minneapolis, Minnesota, United States",
+    "name": "Kinetic",
+    "description": "Kinetic is an industrial analytics company using wearables to improve worker safety.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/54d0e4001e6c0182ac00000f/original/klogo.jpg",
+    "website": "https://wearkinetic.com",
+    "location": "New York City, New York, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
       "Insurtech",
-      "Internet of Things",
-      "Lifestyles of Health and Sustainability and wellness",
-      "Mobile"
+      "Internet of Things"
     ],
-    "year": 2015,
-    "program": "Sprint Accelerator, powered by Techstars",
+    "year": 2014,
+    "program": "R/GA Accelerator, powered by Techstars",
     "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/hidrate-inc",
-      "twitter": "https://twitter.com/hidratespark",
-      "facebook": "https://facebook.com/hidrate.me",
-      "crunchbase": "https://crunchbase.com/organization/hidrate"
+      "linkedin": "https://linkedin.com/company/kineticxyz",
+      "twitter": "https://twitter.com/WearKinetic",
+      "facebook": "https://facebook.com/KineticUSA",
+      "crunchbase": "https://crunchbase.com/organization/kinetic-2"
     },
     "extra": {
-      "city": "Minneapolis",
-      "state_province": "Minnesota",
+      "city": "New York City",
+      "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-conservation-labs",
+    "source": "techstars",
     "name": "Conservation Labs",
     "description": "Conservation Labs first product, H2know, is a smart water technology for the built environment.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b2c3936c1a4b871dd0000a0/original/Conservation_Labs_Logo.png",
@@ -542,7 +465,6 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning",
       "Cleantech",
       "Climate tech",
       "Insurtech",
@@ -555,6 +477,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/conservation-labs",
       "twitter": "https://twitter.com/doyouh2know",
@@ -566,13 +489,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-safely",
+    "source": "techstars",
     "name": "Safely",
     "description": "Predictive analytics and insurance platform to add trust and safety to the sharing economy, beginning with short-term home rentals.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b4d1b44c1a4b83b7c00010c/original/Safely_Logo-avatar.jpg",
@@ -583,7 +505,7 @@
     "tags": [
       "Fintech",
       "Insurtech",
-      "Mobile"
+      "Real estate tech"
     ],
     "year": 2018,
     "program": "MetLife Digital Accelerator powered by Techstars",
@@ -592,6 +514,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/getsafely",
       "twitter": "https://twitter.com/safelystay",
@@ -603,13 +526,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-monitaur",
+    "source": "techstars",
     "name": "Monitaur",
     "description": "Transparency and assurance software for AI #Compliance #Healthcare #AI",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e19e88934a60d4822000172/original/MAI_LOGO_ONLY_NO_BG_High_Res_LOGO_ONLY.png",
@@ -619,8 +541,8 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Fintech",
-      "Insurtech"
+      "Insurtech",
+      "SaaS"
     ],
     "year": 2020,
     "program": "Techstars Boston Accelerator",
@@ -631,6 +553,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/monitaur",
       "twitter": "https://twitter.com/MonitaurAI",
@@ -642,26 +565,25 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
     ]
   },
   {
-    "id": "techstars-hosta-a-i",
-    "name": "Hosta a.i.",
-    "description": "Hosta leverages A.I. to provide the most efficient and insightful structural assessment of interior spaces.",
+    "id": "techstars-elara-spatial",
+    "source": "techstars",
+    "name": "Elara Spatial",
+    "description": "Our state-of-the-art property assessment technology equips smartphones with the power of spatial intelligence, drastically reducing assessment time, removing ambiguity, and backing every property insurance claim decision with data.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5ea5a4a0a36c1125a6000023/original/HostaLogo-1-1-150x150.png",
-    "website": "https://hosta.ai",
+    "website": "https://elaraspatial.ai",
     "location": "Cambridge, Massachusetts, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
       "Insurtech",
-      "Virtual reality"
+      "Real estate tech"
     ],
     "year": 2020,
     "program": "Techstars Allied Space Accelerator",
@@ -670,8 +592,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/hostalabs-ai",
+      "linkedin": "https://linkedin.com/company/elara-spatial",
       "twitter": "https://twitter.com/hostalabs",
       "facebook": "",
       "crunchbase": "https://crunchbase.com/organization/hosta-a-i-6fce"
@@ -681,13 +604,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-liveoak-technologies",
+    "source": "techstars",
     "name": "Liveoak Technologies",
     "description": "Customer engagement platform that simplifies paperwork through real-time videoconferencing, collaboration, and in session eSignature on any device",
     "logo": "https://apimg.techstars.com/connect/images/image_files/559bfe05bbe36f6a9600000a/original/LOTCrop3.png",
@@ -708,6 +630,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/liveoak-technologies",
       "twitter": "https://twitter.com/liveoaknet",
@@ -719,13 +642,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-lovys",
+    "source": "techstars",
     "name": "Lovys",
     "description": "The all-in-one insurance that adapts to you.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a108eea9c66a94b8d000002/original/Logo_profil.png",
@@ -745,6 +667,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/10120202",
       "twitter": "https://twitter.com/LovysInsurance",
@@ -755,8 +678,6 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": [
       "plugandplay"
@@ -764,6 +685,7 @@
   },
   {
     "id": "techstars-quantemplate",
+    "source": "techstars",
     "name": "QuanTemplate",
     "description": "Taking the insurance industry online",
     "logo": "https://apimg.techstars.com/connect/images/image_files/55f1f670808320f5a2000004/original/195722-e4057e39e8479032f4091ae54ead8796-medium_jpg.jpg",
@@ -773,9 +695,9 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Fintech",
-      "Infrastructure",
-      "Insurtech"
+      "Big Data",
+      "Insurtech",
+      "SaaS"
     ],
     "year": 2013,
     "program": "Techstars London Accelerator",
@@ -786,6 +708,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/3169357",
       "twitter": "https://twitter.com/QuanTemplate",
@@ -797,13 +720,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-driver",
+    "source": "techstars",
     "name": "Driver",
     "description": "Driver is a hardware-free mobile app and data platform that allows users to video record their trip while receiving forward collision and drowsiness alerts.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b4bbc8234a60d4a5d000120/original/Driver_App_Icon.png",
@@ -812,9 +734,10 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Artificial intelligence and machine learning",
       "Insurtech",
       "Mobile",
-      "Virtual reality"
+      "Mobility tech"
     ],
     "year": 2018,
     "program": "Techstars Detroit Accelerator",
@@ -823,6 +746,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/driverinc",
       "twitter": "https://twitter.com/driverinc",
@@ -834,50 +758,48 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-solo-funds",
-    "name": "SoLo Funds",
-    "description": "SoLo Funds is a mobile lending exchange connecting lenders and borrowers for the purpose of providing more affordable access to loans under $1,000",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5b3a3feaa36c1123b0000002/original/Logo-no-stroke-test.png",
-    "website": "https://solofunds.com",
-    "location": "Cincinnati, Ohio, United States",
-    "region": "Americas",
-    "subregion": "North America",
+    "id": "techstars-cachet",
+    "source": "techstars",
+    "name": "Cachet",
+    "description": "Cachet is a financial services marketplace for the gig economy.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5eb2bdcfa36c1125a6000075/original/Cachet_ring.png",
+    "website": "https://cachet.me",
+    "location": "Tallinn, Estonia",
+    "region": "Europe",
+    "subregion": "Northern Europe",
     "tags": [
       "Fintech",
       "Insurtech",
-      "Mobile"
+      "Mobility tech"
     ],
-    "year": 2018,
-    "program": "Techstars Kansas City Accelerator",
+    "year": 2020,
+    "program": "London Barclays Accelerator, powered by Techstars",
     "programSlugs": [],
     "isExit": false,
     "isUnicorn": false,
-    "isBCorp": true,
+    "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/solo-funds",
-      "twitter": "https://twitter.com/solofunds",
-      "facebook": "https://facebook.com/SoLoFundsInc/",
-      "crunchbase": "https://crunchbase.com/organization/solo-funds-inc"
+      "linkedin": "https://linkedin.com/company/cachetme",
+      "twitter": "https://twitter.com/cachet_me",
+      "facebook": "https://facebook.com/cachetme/",
+      "crunchbase": "https://crunchbase.com/organization/cachet#section-overview"
     },
     "extra": {
-      "city": "Cincinnati",
-      "state_province": "Ohio",
-      "country": "United States"
+      "city": "Tallinn",
+      "country": "Estonia"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
+    "country": "Estonia",
     "alsoIn": []
   },
   {
     "id": "techstars-wunderite",
+    "source": "techstars",
     "name": "Wunderite",
     "description": "Next-generation software for insurance agents #InsurTech #B2B #SaaS",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e18f4d8a36c112046000194/original/wunderite_logo_color_mark_padded_%283%29.png",
@@ -886,8 +808,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Fintech",
-      "Insurtech"
+      "Insurtech",
+      "SaaS"
     ],
     "year": 2020,
     "program": "Techstars Boston Accelerator",
@@ -898,6 +820,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wunderite",
       "twitter": "https://twitter.com/wunderite",
@@ -909,92 +832,50 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-valid-it",
-    "name": "Valid.it",
-    "description": "We are developing a technology that will allow you to perform a polygraph-like fraud detection test using only your smartphone.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/62c748d3b31d233f83ac915e/original/valid.it.jpeg",
-    "website": "https://validit.ai",
-    "location": "Tel Aviv, Israel",
-    "region": "Middle East",
-    "subregion": "Middle East",
+    "id": "techstars-charter-space",
+    "source": "techstars",
+    "name": "Charter Space",
+    "description": "Charter is developing logistics software for satellite companies to streamline missions and reduce wasted engineering hours.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_59212f2b1d2d57a2e607430ad.jpg",
+    "website": "https://charter.space",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
     "tags": [
-      "Artificial intelligence and machine learning",
-      "Big Data",
-      "Fintech",
-      "Infrastructure",
       "Insurtech",
-      "Mobile"
+      "SaaS",
+      "Space tech"
     ],
     "year": 2022,
-    "program": "Techstars Tel Aviv Accelerator",
+    "program": "Techstars Space Accelerator",
     "programSlugs": [
-      "tel-aviv"
+      "space"
     ],
     "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/in/yossi-p-50a5baab",
-      "twitter": "",
+      "linkedin": "https://linkedin.com/company/charter-space",
+      "twitter": "https://twitter.com/charter_space_",
       "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/valid-it"
+      "crunchbase": "https://crunchbase.com/organization/charter-space"
     },
     "extra": {
-      "city": "Tel Aviv",
-      "country": "Israel"
+      "city": "London",
+      "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "Israel",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-savvly",
-    "name": "Savvly",
-    "description": "Savvly is a private risk pool designed to pay you for living a long life",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_18dcaa863f2303e4fdca1360c.jpeg",
-    "website": "https://savvly.com",
-    "location": "Boulder, Colorado, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Fintech",
-      "Insurtech"
-    ],
-    "year": 2023,
-    "program": "Techstars Future of Longevity Accelerator",
-    "programSlugs": [
-      "longevity"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/savvly",
-      "twitter": "",
-      "facebook": "https://facebook.com/SavvlyFinance",
-      "crunchbase": "https://crunchbase.com/organization/savvly"
-    },
-    "extra": {
-      "city": "Boulder",
-      "state_province": "Colorado",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
+    "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-leo",
+    "source": "techstars",
     "name": "LeO",
     "description": "LeO is an AI, data-driven \"personal assistant\" tool for insurance carriers and brokers that enable them to better interact with their customers",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58eba0af9c66a909dc000020/original/leo.jpg",
@@ -1012,6 +893,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/meetleo",
       "twitter": "https://twitter.com/LeoChiefOfStuff",
@@ -1022,209 +904,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
-    "id": "techstars-agtools",
-    "name": "AGTools",
-    "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5fc5446644e0824632000025/original/agtools_see_more.png",
-    "website": "https://ag.tools",
-    "location": "Irvine, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Agtech",
-      "Artificial intelligence and machine learning",
-      "Big Data",
-      "Climate tech",
-      "Fintech",
-      "Foodtech",
-      "Impact investing",
-      "Insurtech",
-      "Supply chain technology"
-    ],
-    "year": 2020,
-    "program": "Techstars Future of Food Powered by Ecolab",
-    "programSlugs": [
-      "future-of-food"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/agtools",
-      "twitter": "https://twitter.com/ag_tools",
-      "facebook": "https://facebook.com/AgtoolsInc/",
-      "crunchbase": "https://crunchbase.com/organization/agtools"
-    },
-    "extra": {
-      "city": "Irvine",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-cachet",
-    "name": "Cachet",
-    "description": "Cachet is a financial services marketplace for the gig economy.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5eb2bdcfa36c1125a6000075/original/Cachet_ring.png",
-    "website": "https://cachet.me",
-    "location": "Tallinn, Estonia",
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "tags": [
-      "Fintech",
-      "Insurtech"
-    ],
-    "year": 2020,
-    "program": "London Barclays Accelerator, powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/cachetme",
-      "twitter": "https://twitter.com/cachet_me",
-      "facebook": "https://facebook.com/cachetme/",
-      "crunchbase": "https://crunchbase.com/organization/cachet#section-overview"
-    },
-    "extra": {
-      "city": "Tallinn",
-      "country": "Estonia"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Estonia",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-sunairio",
-    "name": "Sunairio",
-    "description": "Climate simulation for renewable energy prediction",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/619420bfbffb22072bbbc676/original/Sunairio-Icon-Native.png",
-    "website": "https://sunairio.com",
-    "location": "Baltimore, Maryland, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cleantech",
-      "Infrastructure",
-      "Insurtech"
-    ],
-    "year": 2021,
-    "program": "Techstars Alabama EnergyTech Accelerator",
-    "programSlugs": [
-      "alabama-power"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/sunairio",
-      "twitter": "https://twitter.com/sunairio",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/sunairio"
-    },
-    "extra": {
-      "city": "Baltimore",
-      "state_province": "Maryland",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-fitbark",
-    "name": "FitBark",
-    "description": "Healthy Together",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5386/4f81/c581/e98a/9500/0002/original/FitBark_Logo_Techstars.jpg",
-    "website": "https://fitbark.com",
-    "location": "Forest Hills, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Insurtech",
-      "Internet of Things",
-      "Mobile"
-    ],
-    "year": 2014,
-    "program": "Sprint Accelerator, powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/fitbark",
-      "twitter": "https://twitter.com/fitbark",
-      "facebook": "https://facebook.com/fitbark",
-      "crunchbase": "https://crunchbase.com/organization/fitbark"
-    },
-    "extra": {
-      "city": "Forest Hills",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-docstation",
-    "name": "DocStation",
-    "description": "DocStation is a clinical platform (EHR) for pharmacists.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5ad4909ac9aec71cac00008f/original/DS_New_Icon.png",
-    "website": "https://docstation.co",
-    "location": "Austin, Texas, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Digital health",
-      "Fintech",
-      "Insurtech"
-    ],
-    "year": 2018,
-    "program": "Techstars Austin Accelerator",
-    "programSlugs": [
-      "austin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/docstation",
-      "twitter": "https://twitter.com/docstationapp",
-      "facebook": "https://facebook.com/docstationapp/",
-      "crunchbase": "https://crunchbase.com/organization/docstation"
-    },
-    "extra": {
-      "city": "Austin",
-      "state_province": "Texas",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-rainwalk-technology",
+    "source": "techstars",
     "name": "Rainwalk Technology",
     "description": "Rainwalk is Pet Health Insurance embedded in shelters at point of adoption.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61d4e95923eb9c79c3308736/original/Rainwalk.jpeg",
@@ -1245,6 +930,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rainwalk",
       "twitter": "",
@@ -1256,13 +942,12 @@
       "state_province": "South Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-assetvault",
+    "source": "techstars",
     "name": "AssetVault",
     "description": "Catalogue, protect and manage your physical and digital assets",
     "logo": "https://apimg.techstars.com/connect/images/image_files/57d57ddbbbe36f93e900003a/original/AssetVault2.png",
@@ -1271,9 +956,9 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
-      "Cybersecurity",
       "Fintech",
       "Insurtech",
+      "Legal tech",
       "Mobile"
     ],
     "year": 2016,
@@ -1285,6 +970,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/assetvault",
       "twitter": "https://twitter.com/assetvaultco",
@@ -1295,13 +981,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-muffintech",
+    "source": "techstars",
     "name": "muffintech",
     "description": "Building Europe's #1 Conversational AI for the insurance industry",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b7d2ee6889ed6ba289c241436.png",
@@ -1311,7 +996,6 @@
     "subregion": "Western Europe",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Fintech",
       "Insurtech"
     ],
     "year": 2022,
@@ -1323,6 +1007,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/muffintechdotai",
       "twitter": "",
@@ -1333,13 +1018,12 @@
       "city": "Berlin",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-iambuddy-com",
+    "source": "techstars",
     "name": "iambuddy.com",
     "description": "Buddy is the digital operating system for insurance.\n\n",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b481bef34a60d4a5d0000f5/original/logo_500.jpg",
@@ -1349,7 +1033,7 @@
     "subregion": "North America",
     "tags": [
       "Insurtech",
-      "Lifestyles of Health and Sustainability and wellness"
+      "SaaS"
     ],
     "year": 2018,
     "program": "MetLife Digital Accelerator powered by Techstars",
@@ -1358,6 +1042,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/iambuddy",
       "twitter": "https://twitter.com/iambuddystweets",
@@ -1369,13 +1054,12 @@
       "state_province": "Virginia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-waffle-labs",
+    "source": "techstars",
     "name": "Waffle Labs",
     "description": "Personalised insurance, protecting everything and everyone a person cherishes.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c9b7f9da36c11652f0001b7/original/Waffle_logo_high_res.png",
@@ -1395,6 +1079,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/getwaffle",
       "twitter": "https://twitter.com/get_waffle",
@@ -1406,13 +1091,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-slope-software",
+    "source": "techstars",
     "name": "Slope Software",
     "description": "SLOPE helps insurance companies perform the difficult task of quantifying risk by enabling their actuaries to do better analysis in a fraction of the time.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d7afea7a36c11122c000005/original/slope-fullcolor-square-1600.png",
@@ -1431,6 +1115,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/slopesoftware",
       "twitter": "https://twitter.com/SlopeSoftware",
@@ -1442,49 +1127,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-satim",
-    "name": "SATIM",
-    "description": "Providing satellite radar-based intelligence for decision makers.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5eb98736a36c116ed5000010/original/Screen_Shot_2020-05-11_at_10.11.05_AM.png",
-    "website": "https://satim.co",
-    "location": "Kraków, Poland",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
-    "tags": [
-      "Infrastructure",
-      "Insurtech",
-      "Oil and gas"
-    ],
-    "year": 2020,
-    "program": "Techstars Starburst Space Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/satimco",
-      "twitter": "https://twitter.com/SatimMonitoring",
-      "facebook": "https://facebook.com/satimmonitoring/",
-      "crunchbase": "https://crunchbase.com/organization/satim"
-    },
-    "extra": {
-      "city": "Kraków",
-      "country": "Poland"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Poland",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-pillar-technologies",
+    "source": "techstars",
     "name": "Pillar Technologies",
     "description": "Pillar prevents damages on construction sites using sensors and predictive analytics.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62c6e116b31d233f83ac9151/original/Alternate_-_Neon___Black.png",
@@ -1493,7 +1141,6 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Fintech",
       "Insurtech",
       "Internet of Things"
     ],
@@ -1504,6 +1151,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pillar-technologies-inc",
       "twitter": "https://twitter.com/pillartechinc",
@@ -1515,51 +1163,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-ripa-ai",
-    "name": "RIPA AI",
-    "description": "Geopolitical Risk, Predicted.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_91639270bf28735d8355df361.png",
-    "website": "https://oriongeo.com",
-    "location": "London, United Kingdom",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Big Data",
-      "Insurtech"
-    ],
-    "year": 2023,
-    "program": "Techstars Boston Accelerator",
-    "programSlugs": [
-      "boston"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/orion-geo",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/ripa-ai"
-    },
-    "extra": {
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United Kingdom",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-voyc",
+    "source": "techstars",
     "name": "Voyc",
     "description": "AI software to monitor & improve call centre quality assurance & agent performance.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/604f42d1ef10f00008a1b3b2/original/VOYC_LogoVertical_FullColour_RGB_exclaimer.jpg",
@@ -1570,7 +1179,8 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Fintech",
-      "Insurtech"
+      "Insurtech",
+      "SaaS"
     ],
     "year": 2018,
     "program": "SAP.iO Foundry, Powered by Techstars Accelerator",
@@ -1579,6 +1189,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/voycai",
       "twitter": "https://twitter.com/voyc_ai",
@@ -1589,13 +1200,12 @@
       "city": "Cape Town",
       "country": "South Africa"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "South Africa",
     "alsoIn": []
   },
   {
     "id": "techstars-peerby",
+    "source": "techstars",
     "name": "Peerby",
     "description": "Borrow the things you need from others in their neighborhood.",
     "logo": "https://s3.amazonaws.com/photos.angel.co/startups/i/112248-6ba181c8aec16fea2624569252be169d-medium_jpg.jpg?buster=1344532685",
@@ -1620,6 +1230,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/2459488",
       "twitter": "https://twitter.com/peerby",
@@ -1630,89 +1241,12 @@
       "city": "Amsterdam",
       "country": "Netherlands"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Netherlands",
     "alsoIn": []
   },
   {
-    "id": "techstars-linker-finance",
-    "name": "Linker Finance",
-    "description": "Linker Finance is a cost-effective turnkey solution and low-code platform that enables brands to launch their custom FinTech app in weeks.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_628c52d830654256dfb639491.png",
-    "website": "https://linkerfinance.com",
-    "location": "Pasadena, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Fintech",
-      "Insurtech",
-      "Mobile"
-    ],
-    "year": 2023,
-    "program": "Techstars Los Angeles powered by J.P. Morgan",
-    "programSlugs": [
-      "la-jp-morgan"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/linkerfinance",
-      "twitter": "https://twitter.com/LinkerFinance",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/linker-finance"
-    },
-    "extra": {
-      "city": "Pasadena",
-      "state_province": "California",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-avenews",
-    "name": "Avenews",
-    "description": "Avenews is a fintech company connecting two of the largest and most important industries in the world: the financial industry and the agricultural industry.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/592c1a06c9aec71a2a00006d/original/Logo-icon-15.png",
-    "website": "https://avenews-gt.com",
-    "location": "Tel Aviv, Israel",
-    "region": "Middle East",
-    "subregion": "Middle East",
-    "tags": [
-      "Agtech",
-      "Cryptocurrency/Blockchain",
-      "Fintech",
-      "Insurtech"
-    ],
-    "year": 2017,
-    "program": "Barclays Accelerator, Powered by Techstars - Cape Town",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/10961166",
-      "twitter": "https://twitter.com/Avenews_gt",
-      "facebook": "https://facebook.com/AvenewsGT/",
-      "crunchbase": "https://crunchbase.com/organization/avenews-gt"
-    },
-    "extra": {
-      "city": "Tel Aviv",
-      "country": "Israel"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "Israel",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-photocert",
+    "source": "techstars",
     "name": "Photocert",
     "description": "In an era where misinformation is rife, Photocert validates and certifies the authenticity of pictures and videos by generating a digital fingerprint.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c87dd90a36c117619000091/original/Asset_18.png",
@@ -1733,6 +1267,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/photocert",
       "twitter": "https://twitter.com/photocert",
@@ -1743,13 +1278,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-yonder",
+    "source": "techstars",
     "name": "Yonder",
     "description": "SendGrid for analytics",
     "logo": "https://apimg.techstars.com/connect/images/image_files/59cecaab9c66a95ec6000081/original/new_knowledge.jpg",
@@ -1769,6 +1303,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/yonderhq",
       "twitter": "https://twitter.com/therealyonder",
@@ -1780,13 +1315,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fraudfinder",
+    "source": "techstars",
     "name": "Fraudfinder",
     "description": "Homeppl calculates the risk and reputation of tenants",
     "logo": "https://apimg.techstars.com/connect/images/image_files/58823e099c66a935f8000011/original/homeppl-logo_%281%29.jpg",
@@ -1806,6 +1340,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/homeppl",
       "twitter": "https://twitter.com/HomepplLtd",
@@ -1816,13 +1351,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-orbiseed",
+    "source": "techstars",
     "name": "Orbiseed",
     "description": "Orbiseed's AI platform standardizes and summarizes commercial property data for insurance carriers to sell more, reduce costs and manage risk better.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e90bcac34a60d416d000124/original/Orbiseed_IconColour_190527.png",
@@ -1844,6 +1378,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/orbiseedna",
       "twitter": "https://twitter.com/OrbiseedNA",
@@ -1855,13 +1390,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-eversend",
+    "source": "techstars",
     "name": "Eversend",
     "description": "A neobank for Africans, anywhere in the world.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c3cb471a36c113bff000037/original/Artboard_1_copy_3x.png",
@@ -1884,6 +1418,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/eversend",
       "twitter": "https://twitter.com/eversendapp",
@@ -1894,13 +1429,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-finqbit",
+    "source": "techstars",
     "name": "FinQbit",
     "description": "finQbit provides Quantum Risk Management Software for Financial Institutions using cutting-edge computing",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ahdoi7gjwdxpxhfc7gu8",
@@ -1922,6 +1456,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/finqbit",
       "twitter": "",
@@ -1932,13 +1467,12 @@
       "city": "Lublin",
       "country": "Poland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Poland",
     "alsoIn": []
   },
   {
     "id": "techstars-riders-share",
+    "source": "techstars",
     "name": "Riders Share",
     "description": "Airbnb for motorcycles: the first U.S. peer-to-peer motorcycle rental marketplace. Motorcycle sharing.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/624f863cf01b4e14f48b360d/original/logo_black_background_v2.png",
@@ -1959,6 +1493,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ridersshare",
       "twitter": "https://twitter.com/RidersShare",
@@ -1970,13 +1505,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-notion",
+    "source": "techstars",
     "name": "Notion",
     "description": "Complete home intelligence",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f6dc3e41b7417a21ff8df9c9f.jpg",
@@ -1998,6 +1532,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/getnotion",
       "twitter": "https://twitter.com/notion",
@@ -2009,13 +1544,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-insuretax",
+    "source": "techstars",
     "name": "InsureTax",
     "description": "InsureTax is a tech company specializing in prediction and hedging of financial risks with focus on tax liabilities and issuing tax policies.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61ee8aa91bbf2f0008248ec0/original/Logos-06.png",
@@ -2037,6 +1571,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/insuretax",
       "twitter": "",
@@ -2047,8 +1582,6 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": [
       "plugandplay"
@@ -2056,6 +1589,7 @@
   },
   {
     "id": "techstars-super-dispatch",
+    "source": "techstars",
     "name": "Super Dispatch",
     "description": "Super Dispatch is a platform that enables automotive logistics companies to eliminate paperwork, manage loads, drivers and billing all in one place.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56d9b6bfa93e9f749600001a/original/MSD-logo2015-V-Full.png",
@@ -2076,6 +1610,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/super-dispatch",
       "twitter": "https://twitter.com/superdispatch",
@@ -2087,13 +1622,12 @@
       "state_province": "Missouri",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-portabl-co",
+    "source": "techstars",
     "name": "Portabl.co",
     "description": "PORTABL.co is a B2B2C platform and community providing insurance, benefits and retirement savings products for freelance, gig and self-employed professionals.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5bb7d95f34a60d49b2000028/original/1.png",
@@ -2112,6 +1646,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/portablco",
       "twitter": "https://twitter.com/PortablCo",
@@ -2122,13 +1657,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-everyday-life-insurance",
+    "source": "techstars",
     "name": "Everyday Life Insurance",
     "description": "Using technology to make life insurance smarter and more accessible for everyday people",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6025533737c13c00071fa45f/original/edl-dog_2x.png",
@@ -2149,6 +1683,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/everyday-life-insurance",
       "twitter": "https://twitter.com/everydaylife_hi",
@@ -2160,17 +1695,54 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
     ]
   },
   {
+    "id": "techstars-lukango",
+    "source": "techstars",
+    "name": "Lukango",
+    "description": "Lukango provides custom insurance for small businesses.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f7197dc6abb613eb101584a16.png",
+    "website": "https://lukango.com",
+    "location": "London, England, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Fintech",
+      "Insurtech"
+    ],
+    "year": 2024,
+    "program": "Techstars London Accelerator",
+    "programSlugs": [
+      "london"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/lukango",
+      "twitter": "https://twitter.com/HelloLukango",
+      "facebook": "https://facebook.com/HelloLukango",
+      "crunchbase": "https://crunchbase.com/organization/lukango"
+    },
+    "extra": {
+      "city": "London",
+      "state_province": "England",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-vumo-ai",
+    "source": "techstars",
     "name": "Vumo AI",
-    "description": "Car Scanner introduces transparency and automatization into the car appraisal process with an autonomous robot performing car inspections.",
+    "description": "Vehicle history reports tell you what someone disclosed. VUMO tells you what is true about the car today. Our scanners \n  # photograph and inspect a vehicle in one pass, producing both the listing images and a condition record covering the \n  # underbody, panels and wheels. Auctions, dealers and marketplaces buy both from a single capture. Raising series A",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6238b68df01b4e0008ca282c/original/Car_Scanner.jpg",
     "website": "https://vumo.ai",
     "location": "Krakow, Poland",
@@ -2191,8 +1763,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
-      "linkedin": "https://linkedin.com/company/car-scanner",
+      "linkedin": "https://linkedin.com/company/vumo-ai",
       "twitter": "https://twitter.com/CarScanner2",
       "facebook": "https://facebook.com/Car-Scanner-106069580898902/",
       "crunchbase": "https://crunchbase.com/organization/car-scanner-ef04"
@@ -2201,54 +1774,12 @@
       "city": "Krakow",
       "country": "Poland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Poland",
     "alsoIn": []
   },
   {
-    "id": "techstars-odaptos",
-    "name": "Odaptos",
-    "description": "Odaptos is an artificial intelligence platform that allows users to perform usability testing.",
-    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ephhcsbgvin7qfhw4xma",
-    "website": "https://odaptos.com",
-    "location": "Perols, Occitanie, France",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Insurtech",
-      "Marketing tech",
-      "Mobile commerce",
-      "Technology, media and telecommunications"
-    ],
-    "year": 2024,
-    "program": "Techstars Washington DC powered by J.P. Morgan",
-    "programSlugs": [
-      "dc-jp-morgan"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/odaptos",
-      "twitter": "https://twitter.com/odaptos",
-      "facebook": "https://facebook.com/people/Odaptos/100070848931160",
-      "crunchbase": "https://crunchbase.com/organization/odaptos"
-    },
-    "extra": {
-      "city": "Perols",
-      "state_province": "Occitanie",
-      "country": "France"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "France",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-sidewalk-insurance",
+    "source": "techstars",
     "name": "Sidewalk Insurance",
     "description": "Sidewalk connects communities of business operators to give them access to modern property and liability insurance at a significantly lower cost than other insurance providers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60f5901bacfd15000724148f/original/logo.png",
@@ -2266,6 +1797,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/sidewalkinsurance",
       "twitter": "https://twitter.com/SidewalkIns",
@@ -2277,13 +1809,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-oko",
+    "source": "techstars",
     "name": "OKO",
     "description": "OKO is an InsurTech solution to bring crop insurance to emerging markets and provide smallholder farmers with a financial protection against climate risks",
     "logo": "https://apimg.techstars.com/connect/images/image_files/607fc2a12c48630607ff06f9/original/OKO-logo.png",
@@ -2305,6 +1836,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/oko-exchange",
       "twitter": "https://twitter.com/OKO_insurance",
@@ -2315,13 +1847,12 @@
       "city": "Luxembourg",
       "country": "Luxembourg"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Luxembourg",
     "alsoIn": []
   },
   {
     "id": "techstars-athlete",
+    "source": "techstars",
     "name": "Athlete",
     "description": "Life insurance that helps you to live longer ",
     "logo": "https://apimg.techstars.com/profiles/1738149847832_428618.png",
@@ -2344,6 +1875,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lifeathlete",
       "twitter": "",
@@ -2355,13 +1887,12 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-canceraid",
+    "source": "techstars",
     "name": "CancerAid",
     "description": "CancerAid is an app for oncology patients, caregivers and clinicians to provide support during their journey.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a15d1ec9c66a909e7000017/original/canceraid_logo_bg.jpg",
@@ -2381,6 +1912,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/canceraid",
       "twitter": "https://twitter.com/CancerAid_app",
@@ -2392,13 +1924,12 @@
       "state_province": "New South Wales",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
     "id": "techstars-koala-hikoala-co",
+    "source": "techstars",
     "name": "Koala",
     "description": "Travel insurance as it should be - your companion from the moment you leave your home to when you return",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5de795f634a60d267800000d/original/Logo_2.png",
@@ -2418,6 +1949,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/koalainsurance",
       "twitter": "https://twitter.com/koala_insurance",
@@ -2428,56 +1960,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
-    "id": "techstars-haptic",
-    "name": "Haptic",
-    "description": "Haptic is a digital activation platform for structural materials.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/603fbe75de92a50007bcc210/original/Haptic-logo-dark_%281%29.png",
-    "website": "https://knocki.com",
-    "location": "Austin, Texas, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Healthtech",
-      "Infrastructure",
-      "Insurtech",
-      "Internet of Things",
-      "Manufacturing",
-      "Mobility tech",
-      "Real estate tech"
-    ],
-    "year": 2019,
-    "program": "Techstars Austin Accelerator",
-    "programSlugs": [
-      "austin"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/knocki",
-      "twitter": "https://twitter.com/haptic",
-      "facebook": "https://facebook.com/getknocki",
-      "crunchbase": "https://crunchbase.com/organization/Haptic"
-    },
-    "extra": {
-      "city": "Austin",
-      "state_province": "Texas",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-venteur",
+    "source": "techstars",
     "name": "Venteur",
     "description": "Venteur is a benefits marketplace for independent workers that streamlines access to health insurance.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6137c30ef6be12000885ab2e/original/Screen_Shot_2021-09-07_at_2.52.37_PM.png",
@@ -2495,6 +1983,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/venteur-inc",
       "twitter": "https://twitter.com/VenteurCo",
@@ -2506,8 +1995,6 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
@@ -2515,6 +2002,7 @@
   },
   {
     "id": "techstars-clyde",
+    "source": "techstars",
     "name": "Clyde",
     "description": "Clyde builds technology and partnerships to enable businesses to offer insurance products at the point-of-sale.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b3ee1a0a36c115d1300000e/original/Artboard_5.png",
@@ -2526,14 +2014,13 @@
       "Insurtech"
     ],
     "year": 2018,
-    "program": "Techstars Chicago Accelerator",
-    "programSlugs": [
-      "chicago"
-    ],
+    "program": "Techstars Chicago City Accelerator",
+    "programSlugs": [],
     "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/joinclyde",
       "twitter": "https://twitter.com/join_clyde",
@@ -2545,13 +2032,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-stemma-ai",
+    "source": "techstars",
     "name": "Stemma AI",
     "description": "Stemma AI eliminates claims leakage in complex transport insurance - a $10B+ annual problem. Our proprietary technology reads and reasons across 10,000+ page claims files where standard LLMs fail, delivering verifiable answers",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_36f776f724628b08b77b0fb11.png",
@@ -2574,6 +2060,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/the-stemma-ai",
       "twitter": "",
@@ -2585,13 +2072,52 @@
       "state_province": "England",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
+    "id": "techstars-hedi",
+    "source": "techstars",
+    "name": "HEDI",
+    "description": "AI agents to prevent insurance fraud ",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b0e98c404a083968ee8951464.png",
+    "website": "https://askhedi.com",
+    "location": "Paris, Île-de-France, France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Fintech",
+      "Insurtech",
+      "SaaS"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Paris",
+      "state_province": "Île-de-France",
+      "country": "France"
+    },
+    "country": "France",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-humbrela",
+    "source": "techstars",
     "name": "Humbrela",
     "description": "For brokers who want to consolidate all protections, empower their clients, and unlock new revenue opportunities, Humbrela is the all-in-one platform that centralizes insurance, warranties, and embedded coverages into one smart interface, making it easy for customers to understand their coverage, act independently, and for brokers to upsell at exactly the right moment.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e8facfcad03ec5e514faae682.png",
@@ -2611,6 +2137,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/humbrela",
       "twitter": "",
@@ -2622,13 +2149,12 @@
       "state_province": "Vaud",
       "country": "Switzerland"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Switzerland",
     "alsoIn": []
   },
   {
     "id": "techstars-avido-ai",
+    "source": "techstars",
     "name": "Avido AI",
     "description": "Avido provides a purpose-built platform that enables financial institutions to test, monitor, and govern generative AI applications with confidence.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_dc4ebf2d1bcaddfb6d1046a5f.png",
@@ -2649,6 +2175,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2660,13 +2187,12 @@
       "state_province": "Capital Region",
       "country": "Denmark"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Denmark",
     "alsoIn": []
   },
   {
     "id": "techstars-rake-ml",
+    "source": "techstars",
     "name": "RAKE ML",
     "description": "Provides commercial real estate owner-operators with AI-driven predictions of roof failures 3-5 months in advance.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_e8acdd0936e46af4d94f6c21f.jpeg",
@@ -2690,6 +2216,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rake-ml",
       "twitter": "",
@@ -2701,13 +2228,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-parasol-platforms",
+    "source": "techstars",
     "name": "Parasol Platforms",
     "description": "Facilitating the future of commercial insurance broking",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a664ec94226e75391efe3bbdd.png",
@@ -2716,7 +2242,8 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Fintech",
       "Insurtech"
     ],
     "year": 2025,
@@ -2728,6 +2255,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/parasol-platforms",
       "twitter": "",
@@ -2739,13 +2267,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-wella-health",
+    "source": "techstars",
     "name": "Wella Health",
     "description": "Health benefits management and distribution for insurers in emerging markets ",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d2f5a81a36c117dd80001eb/original/wellahealth_square.jpg",
@@ -2764,6 +2291,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wellahealth",
       "twitter": "https://twitter.com/wellahealth",
@@ -2774,13 +2302,12 @@
       "city": "Garki",
       "country": "Nigeria"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Nigeria",
     "alsoIn": []
   },
   {
     "id": "techstars-propio",
+    "source": "techstars",
     "name": "Propio",
     "description": "Propio puts Latino independent workers in the driver's seat to seamlessly manage payments, taxes, benefits and financial access.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_1b90dcc49796c3ecc1d4cfd32.png",
@@ -2803,6 +2330,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/joinpropio",
       "twitter": "https://twitter.com/join_propio",
@@ -2814,13 +2342,12 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-irismed",
+    "source": "techstars",
     "name": "IrisMed",
     "description": "IrisMed minimizes revenue leakage and compliance risks for medical facilities and revenue cycle consultancies by creating a domain-specific AI to reduce coding errors, and manage claim denials at scale.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7e80ff4af1ab5e3d752e02769.png",
@@ -2842,6 +2369,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/irismed-ai",
       "twitter": "",
@@ -2853,8 +2381,6 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "antler"
@@ -2862,6 +2388,7 @@
   },
   {
     "id": "techstars-centinel",
+    "source": "techstars",
     "name": "Centinel",
     "description": "For people facing ever-widening coverage gaps, Centinel's claims-free coverage for hard-to-insure risks gets lives and businesses back on track.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_136923377e31c46f638b3de47.png",
@@ -2881,6 +2408,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/yourcentinel",
       "twitter": "",
@@ -2892,13 +2420,57 @@
       "state_province": "Illinois",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-zivash",
     "source": "techstars",
+    "name": "Zivash",
+    "description": "Ziva creates realistic, editable 3D worlds and simulations.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6837a97201849966f8eb09761.png",
+    "website": "https://ziva.sh",
+    "location": "San Francisco, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Advanced Manufacturing",
+      "Artificial intelligence and machine learning",
+      "Construction technology",
+      "Industrials",
+      "Insurtech",
+      "Legal tech",
+      "Manufacturing",
+      "Oil and gas",
+      "Supply chain technology"
+    ],
+    "year": 2026,
+    "program": "Techstars Tokyo Accelerator",
+    "programSlugs": [
+      "tokyo"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/ziva-sh",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "San Francisco",
+      "state_province": "California",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-alt-fn",
+    "source": "techstars",
     "name": "Alt.Fn",
     "description": "Alt.Fn is a financial data platform for tracking the $17.2T invested in alternative assets markets.",
     "logo": "https://apimg.techstars.com/profiles/1732069607975_151727.png",
@@ -2922,6 +2494,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/altfndata",
       "twitter": "https://twitter.com/in_oarbt",
@@ -2933,13 +2506,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-referralmd",
+    "source": "techstars",
     "name": "ReferralMD",
     "description": "AI Platform combined with Comprehensive Patient Relationship Management (PRM) to improve end-to-end Cancer Screening Process",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62e806338242bf00082523ec/original/2022-08-01_9-58-07.png",
@@ -2959,6 +2531,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/referralmd",
       "twitter": "https://twitter.com/ReferralMD",
@@ -2970,13 +2543,12 @@
       "state_province": "South Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-citycop",
+    "source": "techstars",
     "name": "CityCop",
     "description": "Social platform for community watch to fight crime.",
     "logo": "https://apimg.techstars.com/profiles/1666391883060_367194.png",
@@ -3001,6 +2573,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/citycop",
       "twitter": "https://twitter.com/citycop_en",
@@ -3012,13 +2585,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-frontline-gig",
+    "source": "techstars",
     "name": "Frontline Gig",
     "description": "Making it easy to source vetted, entry level and semi-skilled hourly workers for cleanups, inspections and managing green assets.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/gnm2roiv8ebolzmjghqc",
@@ -3043,6 +2615,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/frontline-gig",
       "twitter": "https://twitter.com/FrontlineGig",
@@ -3054,13 +2627,12 @@
       "state_province": "Virginia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-slighter",
+    "source": "techstars",
     "name": "Slighter",
     "description": "Slighter is a behavioral change solution housed in a smart lighter and app that studies a smoker's habits and coaches them to reduce gradually until they quit.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d2c23dca36c117dd80000ec/original/Screen_Shot_2019-07-15_at_9.57.22_AM.png",
@@ -3083,6 +2655,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/slighter",
       "twitter": "https://twitter.com/Slighter",
@@ -3094,13 +2667,12 @@
       "state_province": "Maryland",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-walletcard",
+    "source": "techstars",
     "name": "WalletCard",
     "description": "WalletCard is a collaborative compliance platform for issuing, tracking and managing verified occupational health & safety requirements.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f2b376aa36c113b60000083/original/WC_-_512x512.png",
@@ -3119,6 +2691,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/walletcard-inc",
       "twitter": "https://twitter.com/mywalletcard",
@@ -3130,13 +2703,12 @@
       "state_province": "British Columbia",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-intergen-data",
+    "source": "techstars",
     "name": "InterGen Data",
     "description": "InterGen Data predicts 95 critical life events before they occur--divorces, illnesses, career shifts, wealth transfers. We integrate with financial services, insurance, and healthcare systems, enabling proactive action: advisors reach out before the divorce, underwriters adjust coverage before the diagnosis, compliance spots risks before they materialize. We don't analyze what happened--we tell you what's coming next.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f494342a36c1160bc000003/original/InterGen_Logo_%28300x300%29.png",
@@ -3156,6 +2728,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/intergen-data-inc",
       "twitter": "https://twitter.com/InterGenData",
@@ -3167,13 +2740,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-haiphen",
+    "source": "techstars",
     "name": "Haiphen",
     "description": "Blockchain-enabled cyber security threat detection for enterprises.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62368c791d115c0008c62b9e/original/haiphen_logo.png",
@@ -3198,6 +2770,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/judesafo",
       "twitter": "https://twitter.com/pi42449346",
@@ -3209,13 +2782,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cancer-mutual",
+    "source": "techstars",
     "name": "Cancer Mutual",
     "description": "Digital products - such as the risk assessment tool, the self-check reminders and walkthroughs - are built to raise awareness and help people reduce exposure to cancer risk factors, reaching over a million South Africans each month.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_987ce8defecf7b6eff52d8e7e.jpg",
@@ -3236,6 +2808,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3246,13 +2819,12 @@
       "city": "Cape Town",
       "country": "South Africa"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "South Africa",
     "alsoIn": []
   },
   {
     "id": "techstars-infiltron-software-suite-application",
+    "source": "techstars",
     "name": "Infiltron Software Suite & Application",
     "description": "Infiltron is a proactive, real-time IoT cybersecurity solution.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ydc6wp4xjyjjb4wyj7je",
@@ -3275,6 +2847,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/infiltron-software-suite",
       "twitter": "https://twitter.com/InfiltronApp",
@@ -3286,13 +2859,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-eat-sleep-ride",
+    "source": "techstars",
     "name": "Eat Sleep RIDE",
     "description": "EatSleepRIDE Motorcycle GPS is the best tracking, social + safety app for motorcycle riders.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c058a69c1a4b807f100020f/original/Icon-App-AppStore-1024x.png",
@@ -3315,6 +2887,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/eatsleepride",
       "twitter": "https://twitter.com/EatSleepRide",
@@ -3326,13 +2899,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-connectcarehero",
+    "source": "techstars",
     "name": "ConnectCareHero",
     "description": "A digital platform that powers social engagement, through live interactive programming to combat social isolation.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f4be623a36c11609e000036/original/162E0F01-DEC6-4433-BAC2-C8D9B91104BF.png",
@@ -3355,6 +2927,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/connectcarehero",
       "twitter": "https://twitter.com/connectcarehero",
@@ -3366,13 +2939,51 @@
       "state_province": "Illinois",
       "country": "United States"
     },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-maya-ai",
     "source": "techstars",
+    "name": "Maya Ai",
+    "description": "Maya AI is a conversational AI platform that helps organizations qualify, engage, and retain people faster.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_74fe4a00e0ebdf8001111fc37.png",
+    "website": "https://mayaknows.com",
+    "location": "Tampa, Florida, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Insurtech",
+      "SaaS"
+    ],
+    "year": 2023,
+    "program": "Techstars Physical Health Fort Worth",
+    "programSlugs": [
+      "physical-health-fort-worth"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/mayaaiknows",
+      "twitter": "https://twitter.com/meetmayaai",
+      "facebook": "https://facebook.com/MeetMayaAI",
+      "crunchbase": "https://crunchbase.com/organization/maya-AI"
+    },
+    "extra": {
+      "city": "Tampa",
+      "state_province": "Florida",
+      "country": "United States"
+    },
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-list-funding",
+    "source": "techstars",
     "name": "List Funding",
     "description": "LiST - Life Settlements Trading - is a Fintech startup transforming the secondary market of life insurance into an efficient market.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5bbf5a9334a60d655800000e/original/lnkdn-prl.png",
@@ -3392,6 +3003,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/list-settlements",
       "twitter": "https://twitter.com/We don't have a website. The link above is to our presentation. We didn't want to miss the registration deadline today.",
@@ -3402,13 +3014,12 @@
       "city": "Tel Aviv",
       "country": "Israel"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Israel",
     "alsoIn": []
   },
   {
     "id": "techstars-navut",
+    "source": "techstars",
     "name": "Navut",
     "description": "Moving anywhere in the world should be as simple as moving around the corner.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56ce1193a93e9f4e8800000d/original/navut-square-282x282.png",
@@ -3429,6 +3040,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/navutinc",
       "twitter": "https://twitter.com/realnavut",
@@ -3440,13 +3052,12 @@
       "state_province": "Quebec",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-alli-connect",
+    "source": "techstars",
     "name": "Alli Connect",
     "description": "Thrivelution solves for patient churn in mental health by increasing engagement and retention 2.5X. We achieve this by clinically matching Patients to Therapists using our intelligent matching SaaS solution.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/kjonbz1tqlz5oasj4obj",
@@ -3470,6 +3081,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/thrivelution",
       "twitter": "https://twitter.com/thrivelution",
@@ -3481,13 +3093,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-habit",
+    "source": "techstars",
     "name": "Habit",
     "description": "Habit provides insurance products in the form of an API",
     "logo": "https://apimg.techstars.com/connect/images/image_files/607f69e02c48630607ff06f7/original/1529321229888.png",
@@ -3508,6 +3119,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/habitskin",
       "twitter": "https://twitter.com/habit_analytics",
@@ -3519,8 +3131,6 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": [
       "plugandplay"
@@ -3528,6 +3138,7 @@
   },
   {
     "id": "techstars-wisedrive",
+    "source": "techstars",
     "name": "WiseDrive",
     "description": "Auto repair marketplace connecting car owners with trustworthy garages",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/aspknkotbhwagsqlzi0z",
@@ -3548,6 +3159,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/wisedrive",
       "twitter": "",
@@ -3558,13 +3170,12 @@
       "city": "Tallinn",
       "country": "Estonia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Estonia",
     "alsoIn": []
   },
   {
     "id": "techstars-lotic-labs",
+    "source": "techstars",
     "name": "Lotic Labs",
     "description": "Powering financial innovation for water and the environment.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b313650c1a4b871dd0000f0/original/Lotic_-_Square2.png",
@@ -3585,6 +3196,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lotic-labs",
       "twitter": "https://twitter.com/loticlabs",
@@ -3596,13 +3208,12 @@
       "state_province": "Illinois",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fix-health",
+    "source": "techstars",
     "name": "FIX HEALTH",
     "description": "An incremental behavior change engine that solves a variety of user engagement problems across multiple health verticals.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5bc6194434a60d09e3000008/original/FIXHEALTH_logo_282x282.png",
@@ -3624,6 +3235,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fix-fitness-interactive-experience",
       "twitter": "https://twitter.com/fix_outbreak",
@@ -3635,13 +3247,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-aligned-business",
+    "source": "techstars",
     "name": "Aligned Business",
     "description": "A SaaS platform that allows insurers to create and deploy any insurance product to market in weeks instead of years at a fraction of the cost.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5bb78bad34a60d49b2000017/original/Origami_Logo_01.png",
@@ -3660,6 +3271,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/aligned-business",
       "twitter": "https://twitter.com/OrigamInsureTec",
@@ -3670,13 +3282,12 @@
       "city": "Singapore",
       "country": "Singapore"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Singapore",
     "alsoIn": []
   },
   {
     "id": "techstars-towntalk-solutions",
+    "source": "techstars",
     "name": "Towntalk Solutions",
     "description": "Towntalk is a data intelligence company that has built Africa's most robust Security Intelligence and Emergency Response Infrastructure.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a334e7b43a26160a0bd23b340.png",
@@ -3699,6 +3310,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/towntalk-solutions",
       "twitter": "",
@@ -3710,13 +3322,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-orakle-weather",
+    "source": "techstars",
     "name": "Orakle Weather",
     "description": "Rain insurance for outdoor experiences & holidays",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_84b7267115bd8253e3123d505.jpeg",
@@ -3737,6 +3348,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/orakleweather",
       "twitter": "",
@@ -3747,13 +3359,12 @@
       "city": "Paris",
       "country": "France"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "France",
     "alsoIn": []
   },
   {
     "id": "techstars-carwyze",
+    "source": "techstars",
     "name": "Carwyze",
     "description": "Carwyze is a car e-commerce startup with AI ML car buyout system, embedded financial & insurance products and car owner bundle subscription.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/repxwbt7vbgawmjlra9p",
@@ -3777,6 +3388,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/carwyze",
       "twitter": "",
@@ -3787,13 +3399,12 @@
       "city": "Cottbus",
       "country": "Germany"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Germany",
     "alsoIn": []
   },
   {
     "id": "techstars-lambdai-space",
+    "source": "techstars",
     "name": "Lambdai Space",
     "description": "We are democratizing access to remote monitoring for climate impact",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/evkiil0uzt3zodyawzyi",
@@ -3817,6 +3428,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/lambdai-space",
       "twitter": "",
@@ -3828,8 +3440,6 @@
       "state_province": "Lombardy",
       "country": "Italy"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Italy",
     "alsoIn": [
       "antler"
@@ -3837,6 +3447,7 @@
   },
   {
     "id": "techstars-sitata",
+    "source": "techstars",
     "name": "Sitata",
     "description": "Sitata keeps your travels worry-free with real-time notifications about travel disruptions, corporate travel security, travel insurance and assistance.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d71795034a60d6ee10000a8/original/new_logo_circle.png",
@@ -3857,6 +3468,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/5047857",
       "twitter": "https://twitter.com/_sitata_",
@@ -3868,8 +3480,6 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": [
       "plugandplay"
@@ -3877,6 +3487,7 @@
   },
   {
     "id": "techstars-motisure",
+    "source": "techstars",
     "name": "MotiSure",
     "description": "MotiSure provides personal accident micro-insurance coverage services.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/jfcsjt6xeuwxbkpbahjc",
@@ -3897,6 +3508,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/motisure",
       "twitter": "https://twitter.com/MotiSure",
@@ -3908,13 +3520,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-leadvolt",
+    "source": "techstars",
     "name": "Leadvolt",
     "description": "Leadvolt helps insurance agents increase their sales by automating redundant tasks and increasing conversion rates.",
     "logo": "https://apimg.techstars.com/profiles/1662227077651_766091.png",
@@ -3936,6 +3547,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/in/jasonkillings",
       "twitter": "",
@@ -3947,13 +3559,12 @@
       "state_province": "Florida",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-homerun-iq",
+    "source": "techstars",
     "name": "HomeRun IQ",
     "description": "HomeRun IQ develops modern financial tools for real estate properties.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/edohgkuhas3cdupvn3re",
@@ -3975,6 +3586,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/homerun-iq",
       "twitter": "",
@@ -3986,49 +3598,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-cryptive",
-    "name": "Cryptive",
-    "description": "An insurance provider, offering Captives-as-a-Service for Web3 businesses",
-    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/b1cf38dymgenrc7jujjr",
-    "website": "",
-    "location": "London, United Kingdom",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Insurtech"
-    ],
-    "year": 2023,
-    "program": "Techstars London Powered by Polygon",
-    "programSlugs": [
-      "london-polygon"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/cryptive-io",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/cryptive-io"
-    },
-    "extra": {
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United Kingdom",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-inclusionscore",
+    "source": "techstars",
     "name": "InclusionScore",
     "description": "InclusionScore | The Standard in D&I Insurance",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9c6a212d4730a0d33730a9792.png",
@@ -4049,6 +3624,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/inclusion-score",
       "twitter": "",
@@ -4060,18 +3636,17 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-cuvris-technologies",
+    "source": "techstars",
     "name": "Cuvris Technologies",
-    "description": "Reducing claims denials, increasing  healthcare practice revenue and streamlining operations with AI Agents",
+    "description": "Cuvris is building the operating layer for care transitions. We help healthcare organizations complete more post-discharge transitions on time by automating routine coordination from discharge through follow-up.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_243bfe2f2b9e73caffc545e54.jpeg",
     "website": "https://cuvris.com",
-    "location": "Kitchener, Ontario, Canada",
+    "location": "Columbus, Ohio, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
@@ -4090,6 +3665,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/cuvris",
       "twitter": "",
@@ -4097,17 +3673,16 @@
       "crunchbase": ""
     },
     "extra": {
-      "city": "Kitchener",
-      "state_province": "Ontario",
-      "country": "Canada"
+      "city": "Columbus",
+      "state_province": "Ohio",
+      "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "Canada",
+    "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-speeqo",
+    "source": "techstars",
     "name": "SPEEQO",
     "description": "SPEEQO is speech analysis software for customer contact channels to optimise communication costs and tailor responses using emotion recognition technology.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/zalolotb4xn780x3auuo",
@@ -4131,6 +3706,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/speeqo",
       "twitter": "https://twitter.com/speeqocom",
@@ -4141,13 +3717,12 @@
       "city": "Hong Kong",
       "country": "Hong Kong"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Hong Kong",
     "alsoIn": []
   },
   {
     "id": "techstars-rate-pro",
+    "source": "techstars",
     "name": "Rate Pro",
     "description": "RatePro is a one stop shop for monthly expenses for homebuyers",
     "logo": "https://apimg.techstars.com/connect/images/image_files/612bfe023505510007fbb3c8/original/TS_KC_Logos-05.png",
@@ -4167,6 +3742,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/pmiratepro",
       "twitter": "",
@@ -4178,54 +3754,16 @@
       "state_province": "Kansas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
-    "id": "techstars-lukango",
-    "name": "Lukango",
-    "description": "Lukango provides custom insurance for small businesses.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f7197dc6abb613eb101584a16.png",
-    "website": "https://lukango.com",
-    "location": "London, England, United Kingdom",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Insurtech"
-    ],
-    "year": 2024,
-    "program": "Techstars London Accelerator",
-    "programSlugs": [
-      "london"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/lukango",
-      "twitter": "https://twitter.com/HelloLukango",
-      "facebook": "https://facebook.com/HelloLukango",
-      "crunchbase": "https://crunchbase.com/organization/lukango"
-    },
-    "extra": {
-      "city": "London",
-      "state_province": "England",
-      "country": "United Kingdom"
-    },
-    "source": "techstars",
-    "founders": [],
-    "country": "United Kingdom",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-standd",
+    "source": "techstars",
     "name": "Standd",
     "description": "AI risk analysis, reporting, and monitoring for corporate strategy and finance teams.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_90735f632cd7afa483b31ddb0.png",
-    "website": "https://standd.io",
+    "website": "",
     "location": "Washington, District of Columbia, United States",
     "region": "Americas",
     "subregion": "North America",
@@ -4244,6 +3782,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/standd",
       "twitter": "https://twitter.com/Standd_io",
@@ -4255,13 +3794,12 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-inspektlabs",
+    "source": "techstars",
     "name": "Inspektlabs",
     "description": "Inspektlabs automates inspections of physical items with photos and videos",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e90649c34a60d416d000115/original/Inspektlabs_Logo_Black.png",
@@ -4281,6 +3819,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/inspektlabs",
       "twitter": "https://twitter.com/InspektlabsAI",
@@ -4292,13 +3831,12 @@
       "state_province": "Delaware",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-accountable",
+    "source": "techstars",
     "name": "Accountable",
     "description": "HIPAA compliance made easy",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60a41620c54664000792e2f0/original/HIPAA_Badge_Webclip.jpg",
@@ -4321,6 +3859,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/accountablehq",
       "twitter": "https://twitter.com/accountable_hq",
@@ -4332,13 +3871,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-snaprefund",
+    "source": "techstars",
     "name": "SnapRefund",
     "description": "For insurance businesses that have inefficient claims payment operations, SnapRefund streamlines the claim payment process to the delight of claims teams and their policyholders.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_fe0c90a8796fa3d1317f2ac25.png",
@@ -4359,6 +3897,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/snaprefund",
       "twitter": "",
@@ -4370,13 +3909,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-driven",
+    "source": "techstars",
     "name": "Driven",
     "description": "Driven is a payment platform that helps local governments, car insurance businesses, lawyers, and mobility companies increase their revenue and efficiency",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_1b845b67b6f781d5a78acc67b.png",
@@ -4398,6 +3936,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/ticket-avengers",
       "twitter": "https://twitter.com/ticketavengers1",
@@ -4409,13 +3948,12 @@
       "state_province": "Michigan",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-firmus-linxe",
+    "source": "techstars",
     "name": "Firmus linxe",
     "description": "Linxe offers payroll-based financial services to employees, such as salary advances, microloans, insurance, payments to give them control over their salaries",
     "logo": "https://apimg.techstars.com/connect/images/image_files/60f6e330acfd15000724149c/original/logo_Linxe_nuevo.png",
@@ -4434,6 +3972,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/firmus-sas",
       "twitter": "https://twitter.com/linxe17",
@@ -4444,13 +3983,12 @@
       "city": "Bogotá",
       "country": "Colombia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Colombia",
     "alsoIn": []
   },
   {
     "id": "techstars-solesafe",
+    "source": "techstars",
     "name": "SoleSafe",
     "description": "SoleSafe is an asset management platform for sneakers and other collectables.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ff9be56416f8962216ef2f9de.png",
@@ -4474,6 +4012,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/solesafe",
       "twitter": "",
@@ -4485,52 +4024,12 @@
       "state_province": "Minnesota",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "techstars-fleri",
-    "name": "Fleri",
-    "description": "Empowering immigrants to take control of their financial lives.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/6179875beec0370008da6f72/original/Fleri_logos_Blue_-_Samuel_Baddoo.png",
-    "website": "https://joinfleri.com",
-    "location": "Columbus, Ohio, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Fintech",
-      "Healthtech",
-      "Insurtech"
-    ],
-    "year": 2021,
-    "program": "Techstars Toronto Accelerator",
-    "programSlugs": [
-      "toronto"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/fleri",
-      "twitter": "https://twitter.com/FleriHealth",
-      "facebook": "https://facebook.com/joinfleri/",
-      "crunchbase": "https://crunchbase.com/organization/fleri"
-    },
-    "extra": {
-      "city": "Columbus",
-      "state_province": "Ohio",
-      "country": "United States"
-    },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-augurisk",
+    "source": "techstars",
     "name": "Augurisk",
     "description": "Augurisk helps mitigate crime and natural disaster risks anywhere in the US by providing predictive analysis and advanced risk scoring.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/623a0594fe8b48000958769b/original/Untitled_design.png",
@@ -4552,6 +4051,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/augurisk",
       "twitter": "https://twitter.com/augurisk",
@@ -4563,13 +4063,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-shur",
+    "source": "techstars",
     "name": "Shur",
     "description": "Shur is a B2B2C connecting the financial services industry to millions of Professionals with Student Loans. Our company-based financial wellness programs integrate alternative credit scoring, advice, insurance, and banking. Borrowers move from debt to wealth creation, while we build new revenue for banks and other financial institutions.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f56daac762785d8828d11db7c.png",
@@ -4592,6 +4091,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/shurco",
       "twitter": "",
@@ -4603,13 +4103,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-uils",
+    "source": "techstars",
     "name": "Uils",
     "description": "We provide loans for mobility apps' drivers using their driving history as credit score.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/vytiyv3xzhogclcupvcf",
@@ -4632,6 +4131,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/uilsla",
       "twitter": "https://twitter.com/somosuils",
@@ -4642,13 +4142,12 @@
       "city": "Buenos Aires",
       "country": "Argentina"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Argentina",
     "alsoIn": []
   },
   {
     "id": "techstars-engaiz",
+    "source": "techstars",
     "name": "ENGAIZ",
     "description": "Mitigating Digital Risk to Build Digital Trust",
     "logo": "https://apimg.techstars.com/profiles/1691675408457_428095.png",
@@ -4669,6 +4168,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/engaiz",
       "twitter": "https://twitter.com/engaizit",
@@ -4680,17 +4180,16 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-rekfix",
+    "source": "techstars",
     "name": "RekFix",
-    "description": "Using Generative AI to offer personalized, empathetic Accident Support.",
+    "description": "Using Generative AI to offer personalized, empathetic Accident Support. ",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_72dfca0550e48d536835c65a7.png",
-    "website": "https://rekfix.com",
+    "website": "",
     "location": "San Francisco, California, United States",
     "region": "Americas",
     "subregion": "North America",
@@ -4707,6 +4206,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/rekfix",
       "twitter": "",
@@ -4718,13 +4218,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-brolly-africa",
+    "source": "techstars",
     "name": "Brolly Africa",
     "description": "Brolly provides flexible payment auto insurance for drivers in Africa. Commercial drivers get pay-weekly cover while salaried workers get pay-monthly cover.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_60d26248f2a9c17489fe0878a.png",
@@ -4744,6 +4243,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/brolly-africa",
       "twitter": "https://twitter.com/brolly_africa",
@@ -4755,13 +4255,12 @@
       "state_province": "Ohio",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-utopia-global-wellness",
+    "source": "techstars",
     "name": "Utopia Global Wellness",
     "description": "Welcome to Utopia Global Wellness (UGW) - Where Integrated Workplace Well-Being Meets Belonging--Worldwide! We are your B2B SaaS digital HR and retention partner, combating burnout while elevating employee health, happiness, and productivity on a global scale.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_36d702a7103f176659bdae12b.jpg",
@@ -4784,6 +4283,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/utopiasgw",
       "twitter": "https://twitter.com/utopiasgw",
@@ -4795,13 +4295,12 @@
       "state_province": "North Carolina",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-mycover-ai",
+    "source": "techstars",
     "name": "MyCover.ai",
     "description": "Revolutionizing the way Africans experience insurance by embedding policies into their favorite products and services, all while simplifying claims processes",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/aov5n0ndit8qmak3hirv",
@@ -4823,6 +4322,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mycoverai",
       "twitter": "https://twitter.com/MyCoverAI",
@@ -4833,13 +4333,12 @@
       "city": "Lagos",
       "country": "Nigeria"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Nigeria",
     "alsoIn": []
   },
   {
     "id": "techstars-torod",
+    "source": "techstars",
     "name": "Torod",
     "description": "Torod help merchants ship, track and manage returns from a single screen.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6199ee0595af3023cfc85bf6/original/Artboard_1.jpg",
@@ -4862,6 +4361,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/torodco",
       "twitter": "https://twitter.com/torodco",
@@ -4872,13 +4372,12 @@
       "city": "Riyadh",
       "country": "Saudi Arabia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Saudi Arabia",
     "alsoIn": []
   },
   {
     "id": "techstars-autority-io",
+    "source": "techstars",
     "name": "Autority.io",
     "description": "Autority is a consolidated payment platform for car owners.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61922665bffb220008ef0de7/original/Logo_Color_Gris-03.png",
@@ -4902,6 +4401,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/76914575",
       "twitter": "https://twitter.com/autority_io",
@@ -4912,13 +4412,12 @@
       "city": "Quito",
       "country": "Ecuador"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Ecuador",
     "alsoIn": []
   },
   {
     "id": "techstars-joust-labs",
+    "source": "techstars",
     "name": "Joust Labs",
     "description": "Joust simplifies financial management for entrepreneurs through a bank account, a merchant account, and PayArmour, an invoicing tool that guarantees payment.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5c43802734a60d0335000018/original/iPhone_App_Icon_AppStore.png",
@@ -4940,6 +4439,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/joust-now",
       "twitter": "https://twitter.com/joustbanking",
@@ -4951,13 +4451,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-apostrophe",
+    "source": "techstars",
     "name": "Apostrophe",
     "description": "An innovative health plan that saves self-insured employers up to 40% on their healthcare costs, while making their employees happier and healthier.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5d1155cda36c11014100004d/original/pink-a-employers.jpg",
@@ -4979,6 +4478,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/apostrophe-inc.",
       "twitter": "https://twitter.com/apostrophehc",
@@ -4990,13 +4490,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-saeidan",
+    "source": "techstars",
     "name": "Saeidan",
     "description": "Saeidan is on a mission to bring clarity and confidence to Medicare plan selection.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/61804c5ceec0370008da6f84/original/SaeidanTree_2x.png",
@@ -5016,6 +4515,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/saeidan",
       "twitter": "https://twitter.com/clairecommunity",
@@ -5027,13 +4527,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-firstderm",
+    "source": "techstars",
     "name": "FirstDerm",
     "description": "Our first vertical is dermatology; First Derm provides the fastest and most convenient way to ask a board certified dermatologist about any of your skin concerns.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/555663ff1e6c0155fb000030/original/Screen_Shot_2015-05-15_at_4.23.13_PM.png",
@@ -5054,6 +4553,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/idoc24",
       "twitter": "https://twitter.com/firstderm",
@@ -5065,13 +4565,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-worthright",
+    "source": "techstars",
     "name": "Worthright",
     "description": "Unlocking life insurance for older families #InsurTech #Consumer #Longevity",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5e9def32a36c115d3b000110/original/Worthright_282px.png",
@@ -5092,6 +4591,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/worthright",
       "twitter": "",
@@ -5103,13 +4603,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-this-app-saves-lives",
+    "source": "techstars",
     "name": "This App Saves Lives",
     "description": "Drive Safe. Earn Rewards.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f638187a36c112899000047/original/PRIMARY_LOGO_COLOR.png",
@@ -5134,6 +4633,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/thisappsaveslives",
       "twitter": "https://twitter.com/taslapp",
@@ -5145,13 +4645,12 @@
       "state_province": "Pennsylvania",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-senscity",
+    "source": "techstars",
     "name": "Senscity",
     "description": "Software as a Service that provides monitoring and evaluation of climate change's risks, impacts, and solutions across our cities",
     "logo": "https://apimg.techstars.com/connect/images/image_files/637a9c3a60da620008995e30/original/Untitled_design_-_2022-11-14T070832.134.png",
@@ -5172,6 +4671,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/18592146",
       "twitter": "https://twitter.com/senscity_",
@@ -5183,13 +4683,50 @@
       "state_province": "New South Wales",
       "country": "Australia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Australia",
     "alsoIn": []
   },
   {
+    "id": "techstars-ripa-ai",
+    "source": "techstars",
+    "name": "RIPA AI",
+    "description": "Geopolitical Risk, Predicted.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_91639270bf28735d8355df361.png",
+    "website": "",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Insurtech"
+    ],
+    "year": 2023,
+    "program": "Techstars Boston Accelerator",
+    "programSlugs": [
+      "boston"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/orion-geo",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/ripa-ai"
+    },
+    "extra": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-plum",
+    "source": "techstars",
     "name": "Plum",
     "description": "The Plum Lightpad(tm) replaces your existing light switch and connects to your home's WiFi allowing you to control your lights directly from your smart phone while at home or away.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56673a618083206be9000002/original/HeaderBokehBG2.png",
@@ -5213,6 +4750,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/3614314?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651486775395841%2CVSRPtargetId%3A3614314%2CVSRPcmpt%3Aprimary",
       "twitter": "https://twitter.com/GetPlum",
@@ -5224,13 +4762,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-plannly",
+    "source": "techstars",
     "name": "Plannly",
     "description": "Plannly Health is dedicated to enhancing healthcare by taking a proactive approach to identify and address significant workforce risks.",
     "logo": "https://apimg.techstars.com/profiles/1662743385830_996875.png",
@@ -5254,6 +4791,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/plannly",
       "twitter": "https://twitter.com/plannly",
@@ -5265,13 +4803,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-painless1099",
+    "source": "techstars",
     "name": "Painless1099",
     "description": "Painless1099 is a smart bank account that automates tax withholding for independent contractors.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5762ca02c2f1c4401c000012/original/logo_square_p1099.jpg",
@@ -5290,6 +4827,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/painless1099",
       "twitter": "https://twitter.com/Painless1099",
@@ -5301,13 +4839,53 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-odaptos",
+    "source": "techstars",
+    "name": "Odaptos",
+    "description": "Odaptos is an artificial intelligence platform that allows users to perform usability testing.",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/ephhcsbgvin7qfhw4xma",
+    "website": "",
+    "location": "Perols, Occitanie, France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Insurtech",
+      "Marketing tech",
+      "Mobile commerce",
+      "Technology, media and telecommunications"
+    ],
+    "year": 2024,
+    "program": "Techstars Washington DC powered by J.P. Morgan",
+    "programSlugs": [
+      "dc-jp-morgan"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/odaptos",
+      "twitter": "https://twitter.com/odaptos",
+      "facebook": "https://facebook.com/people/Odaptos/100070848931160",
+      "crunchbase": "https://crunchbase.com/organization/odaptos"
+    },
+    "extra": {
+      "city": "Perols",
+      "state_province": "Occitanie",
+      "country": "France"
+    },
+    "country": "France",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-nimbla",
+    "source": "techstars",
     "name": "Nimbla",
     "description": "Insurance and financial products for SMEs.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a969b94c1a4b8480f000007/original/nimbla-border.png",
@@ -5326,6 +4904,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nimbla",
       "twitter": "https://twitter.com/nimblabla",
@@ -5336,13 +4915,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-mamamend",
+    "source": "techstars",
     "name": "MamaMend",
     "description": "MamaMend is the personalized companion for new parents that provides fast, relevant answers and curated connections to expert practitioners.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b47bc5fa36c115d130000b9/original/mamamend_282.png",
@@ -5362,6 +4940,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/mamamend",
       "twitter": "https://twitter.com/getMamaMend",
@@ -5373,13 +4952,12 @@
       "state_province": "Colorado",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-loadzpro",
+    "source": "techstars",
     "name": "Loadzpro",
     "description": "Our Proprietary Technology Helps anyone with a Truck start making money in the $800 Billion Trucking Industry",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9cb3ac9033337331c651830ec.jpg",
@@ -5404,6 +4982,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/loadzpro",
       "twitter": "https://twitter.com/",
@@ -5415,13 +4994,12 @@
       "state_province": "Georgia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-livelii",
+    "source": "techstars",
     "name": "Livelii",
     "description": "Livelii helps independent workers by providing group health & dental benefits, RRSP investing, & planning for paid leave by allocating funds from their payments",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f2309d0a36c113b60000012/original/Livelii_-_White_Linked_In_Livelii_-_White.png",
@@ -5443,6 +5021,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/livelii",
       "twitter": "https://twitter.com/HeyLivelii",
@@ -5454,13 +5033,12 @@
       "state_province": "Ontario",
       "country": "Canada"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "techstars-joany",
+    "source": "techstars",
     "name": "Joany",
     "description": "Joany helps consumers select and buy optimal health insurance",
     "logo": "https://apimg.techstars.com/connect/images/image_files/565b5218bbe36f0943000028/original/Screen_Shot_2015-11-29_at_10.51.38_AM.png",
@@ -5481,6 +5059,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/joany",
       "twitter": "https://twitter.com/HelloJoany",
@@ -5492,13 +5071,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-jamii",
+    "source": "techstars",
     "name": "Jamii",
     "description": "Jamii is a mobile micro-health insurance company aimed at providing low-cost health insurance to the low income and informal sector from $1 per month.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/577138f4a93e9fb02400001f/original/jamii.png",
@@ -5518,6 +5096,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/edgepoint-company-limited",
       "twitter": "https://twitter.com/jamiiafrica",
@@ -5528,13 +5107,12 @@
       "city": "Dar es Salaam",
       "country": "Tanzania"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Tanzania",
     "alsoIn": []
   },
   {
     "id": "techstars-hero",
+    "source": "techstars",
     "name": "Hero",
     "description": "Platform that reduces insurers' liability from drunk driving by providing bars/restaurants with a mobile solution that incentivizes customers to get home safely",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5744d80ec2f1c4fe7e000036/original/HERO_Vertical_Green_Background_gradient1024x1024.png",
@@ -5557,6 +5135,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/herospace-app",
       "twitter": "https://twitter.com/HEROappit",
@@ -5568,13 +5147,12 @@
       "state_province": "Texas",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-gather-data",
+    "source": "techstars",
     "name": "Gather Data",
     "description": "Gather is a personalised web meeting platform shaped around your specific business needs.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/596973349c66a95c58000005/original/logo_july2017.png",
@@ -5597,6 +5175,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/gather-app-ltd",
       "twitter": "https://twitter.com/gatherinsurance",
@@ -5608,13 +5187,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-galaxy-ai",
+    "source": "techstars",
     "name": "Galaxy AI",
     "description": "Galaxy AI is an artificial intelligence B2B SaaSsolution which analyzes images and predicts damage and claim estimate for insurance carriers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/585f4cf1808320a928000017/original/Galaxy_AI_logo-01.png",
@@ -5634,6 +5212,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/nanotechgalaxy-inc",
       "twitter": "https://twitter.com/AIgalaxy",
@@ -5645,13 +5224,12 @@
       "state_province": "Massachusetts",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-forcefield-io",
+    "source": "techstars",
     "name": "ForceField IO",
     "description": "APIs for verification and of streaming data.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c4938022963e50e5072c82571.png",
@@ -5673,6 +5251,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/meetforcefield",
       "twitter": "https://twitter.com/ForceField_io",
@@ -5684,13 +5263,12 @@
       "state_province": "New Jersey",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-fluffy",
+    "source": "techstars",
     "name": "Fluffy",
     "description": "Fluffy help you be the best pet parent possible by leveraging your pet's data to recommend personalised educational content, pet-care products and insurance. Fluffy is loved by 10,000 users and counting!",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/riymdg4gjyktcndu2mh2",
@@ -5712,6 +5290,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/joinfluffy",
       "twitter": "https://twitter.com/joinfluffy",
@@ -5722,13 +5301,51 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
+    "id": "techstars-fleri",
+    "source": "techstars",
+    "name": "Fleri",
+    "description": "Empowering immigrants to take control of their financial lives.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6179875beec0370008da6f72/original/Fleri_logos_Blue_-_Samuel_Baddoo.png",
+    "website": "",
+    "location": "Columbus, Ohio, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Fintech",
+      "Healthtech",
+      "Insurtech"
+    ],
+    "year": 2021,
+    "program": "Techstars Toronto Accelerator",
+    "programSlugs": [
+      "toronto"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/fleri",
+      "twitter": "https://twitter.com/FleriHealth",
+      "facebook": "https://facebook.com/joinfleri/",
+      "crunchbase": "https://crunchbase.com/organization/fleri"
+    },
+    "extra": {
+      "city": "Columbus",
+      "state_province": "Ohio",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-fitbliss",
+    "source": "techstars",
     "name": "FitBliss",
     "description": "FitBliss is a B2B software platform that connects wearable health data with work performance to optimize productivity in the workplace!",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b48f58734a60d4a68000023/original/FitBlissLogoStacked_NoFeelGood.png",
@@ -5749,6 +5366,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/fitbliss",
       "twitter": "https://twitter.com/fitblisscom",
@@ -5760,13 +5378,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-felix",
+    "source": "techstars",
     "name": "Felix",
     "description": "Felix is a B2B SaaS platform to seamlessly connect insurers, intermediaries and their consumers to the insurance ecosystem.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5a6061289c66a97728000044/original/Felix_Vertical_Logo-OrangeGrey.jpg",
@@ -5786,6 +5403,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/felix.insure",
       "twitter": "https://twitter.com/felix_insure",
@@ -5796,13 +5414,12 @@
       "city": "Dubai",
       "country": "United Arab Emirates"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Arab Emirates",
     "alsoIn": []
   },
   {
     "id": "techstars-everledger",
+    "source": "techstars",
     "name": "Everledger",
     "description": "Everledger provides an immutable ledger for diamond identification and transaction verification for various stakeholders, from insurance companies to claimants and law enforcement agencies.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/558150cb883a9c0753000006/original/everledger.png",
@@ -5824,6 +5441,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/everledger",
       "twitter": "https://twitter.com/everledgerio",
@@ -5834,13 +5452,12 @@
       "city": "London",
       "country": "United Kingdom"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United Kingdom",
     "alsoIn": []
   },
   {
     "id": "techstars-enroll-hero",
+    "source": "techstars",
     "name": "Enroll Hero",
     "description": "Personalized recommendation engine empowering seniors to make smarter decisions in retirement, starting with Medicare health insurance.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b4905d2c1a4b83b7c0000c4/original/EH_white_symbol.png",
@@ -5859,6 +5476,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/enrollhero",
       "twitter": "https://twitter.com/EnrollHero",
@@ -5870,13 +5488,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-dobby",
+    "source": "techstars",
     "name": "Dobby",
     "description": "The highest rated home services app on the app store.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5b493b9334a60d4a5d00010a/original/Halos_Logo_with_Name_-_Large.png",
@@ -5899,6 +5516,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/hellodobby",
       "twitter": "https://twitter.com/HalosInsurance",
@@ -5910,13 +5528,48 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
+    "id": "techstars-cryptive",
+    "source": "techstars",
+    "name": "Cryptive",
+    "description": "An insurance provider, offering Captives-as-a-Service for Web3 businesses",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/b1cf38dymgenrc7jujjr",
+    "website": "",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Insurtech"
+    ],
+    "year": 2023,
+    "program": "Techstars London Powered by Polygon",
+    "programSlugs": [
+      "london-polygon"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/cryptive-io",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/cryptive-io"
+    },
+    "extra": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-control-tower",
+    "source": "techstars",
     "name": "Control Tower",
     "description": "Making it easy for companies to inspect buildings by using a drone.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/56c7a9c6808320dd9d000001/original/Converge_Logo.png",
@@ -5940,6 +5593,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/converge-industries-co",
       "twitter": "https://twitter.com/converge_co",
@@ -5951,13 +5605,12 @@
       "state_province": "California",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-chapter",
+    "source": "techstars",
     "name": "Chapter",
     "description": "Chapter is the only unbiased and tech-enabled Medicare advisor.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/557f418d740ea72fe9000002/original/chapter_logo_techstars.jpg",
@@ -5980,6 +5633,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/joinchapter",
       "twitter": "https://twitter.com/_perfectapp",
@@ -5991,13 +5645,12 @@
       "state_province": "Washington",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-carma",
+    "source": "techstars",
     "name": "Carma",
     "description": "Carma is a fully digital used car dealership, offering a large range of quality pre-owned vehicles at fixed prices, delivered to the home.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/595eedda9c66a94803000006/original/logo_carma_square.png",
@@ -6018,6 +5671,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/carma-au",
       "twitter": "https://twitter.com/FreshCarHQ",
@@ -6029,13 +5683,12 @@
       "state_province": "District of Columbia",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-atlas",
+    "source": "techstars",
     "name": "Atlas",
     "description": "Atlas is committed to building a fairer world for Authors, creating delightful and inspiring reading experiences for book lovers.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/558147eada79e06dfb000003/original/Screen_Shot_2015-06-17_at_11.04.37.png",
@@ -6055,6 +5708,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/project-atlas-app",
       "twitter": "https://twitter.com/atlastogether",
@@ -6066,13 +5720,12 @@
       "state_province": "New York",
       "country": "United States"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "United States",
     "alsoIn": []
   },
   {
     "id": "techstars-aman",
+    "source": "techstars",
     "name": "Aman",
     "description": "Supercharge Your Employee Health Benefits with Aman!",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/un2fewcmgodtmfei7njz",
@@ -6092,6 +5745,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "founders": [],
     "social": {
       "linkedin": "https://linkedin.com/company/liveaman",
       "twitter": "",
@@ -6102,9 +5756,45 @@
       "city": "Jakarta",
       "country": "Indonesia"
     },
-    "source": "techstars",
-    "founders": [],
     "country": "Indonesia",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-insaio",
+    "source": "techstars",
+    "name": "Insaio",
+    "description": "Insaio is the customer interaction operating system for insurance and finance -- AI-driven and human-led conversations that fill calendars, sharpen advice, and protect portfolios.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4f30517377bb199efefcafea1.png",
+    "website": "https://insaio.com",
+    "location": "Hamburg, Hamburg, Germany",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Fintech",
+      "Insurtech"
+    ],
+    "year": 2026,
+    "program": "ABN AMRO & Techstars Future of Finance Accelerator",
+    "programSlugs": [
+      "abn-amro-techstars-future-of-finance-accelerator"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Hamburg",
+      "state_province": "Hamburg",
+      "country": "Germany"
+    },
+    "country": "Germany",
     "alsoIn": []
   },
   {
