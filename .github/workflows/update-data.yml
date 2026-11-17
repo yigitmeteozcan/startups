@@ -46,9 +46,13 @@ jobs:
         env:
           # Optional. Without it, Techstars is scraped in a headless browser.
           TYPESENSE_API_KEY: ${{ secrets.TYPESENSE_API_KEY }}
+          # all.xlsx is a large binary git can't delta-compress: rewrite it
+          # weekly on scheduled runs (manual runs always rewrite it).
+          XLSX_REFRESH: ${{ github.event_name == 'workflow_dispatch' && 'always' || 'weekly' }}
         run: npm run fetch:data
 
       - name: Commit updated data
+        id: commit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
@@ -68,6 +72,7 @@ jobs:
           for attempt in 1 2 3 4 5; do
             if git push origin "HEAD:${BRANCH}"; then
               echo "Pushed on attempt $attempt."
+              echo "pushed=true" >> "$GITHUB_OUTPUT"
               exit 0
             fi
             echo "Push rejected (attempt $attempt) — rebasing on origin/${BRANCH} and retrying..."
@@ -76,6 +81,21 @@ jobs:
           done
           echo "::error::Could not push the dataset after 5 attempts."
           exit 1
+
+      # jsDelivr caches @main for up to 12 hours; purge the most-used files so
+      # the API serves today's data right away. Best effort — never fails.
+      - name: Refresh CDN cache
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          for f in all.json all.csv all.xlsx stats.json meta.json unicorns.json exits.json b-corps.json current.json \
+                   by-source/index.json by-year/index.json by-program/index.json by-region/index.json \
+                   by-country/index.json by-industry/index.json; do
+            curl -fsS -m 30 -o /dev/null "https://purge.jsdelivr.net/gh/${REPO}@${BRANCH}/data/${f}" \
+              || echo "::warning::Could not purge ${f} from jsDelivr"
+          done
 
       # Runs after the commit, so fresh data from healthy sources is never held
       # back. Fails the run (GitHub emails the owner) when a source has not been

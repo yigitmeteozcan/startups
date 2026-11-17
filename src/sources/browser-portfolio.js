@@ -235,7 +235,7 @@ async function scrapeSite(config, { debug = false } = {}) {
       const type = response.headers()['content-type'] || '';
       if (!type.includes('application/json')) return;
       try {
-        captured.push(await response.json());
+        captured.push({ url: response.url(), json: await response.json() });
       } catch (_) {}
     });
 
@@ -245,12 +245,37 @@ async function scrapeSite(config, { debug = false } = {}) {
     await page.waitForTimeout(1500);
 
     let apiArray = null;
-    for (const json of captured) {
+    for (const { json } of captured) {
       const arr = findCompanyArray(json);
       if (arr && (!apiArray || arr.length > apiArray.length)) apiArray = arr;
     }
 
     const domCards = await extractCards(page);
+
+    // A tiny result usually means the site changed where its data comes from.
+    // Log the JSON endpoints the page loaded (path only — query strings can
+    // carry keys) so the CI log shows where to point the fetcher next.
+    if (Math.max(apiArray ? apiArray.length : 0, domCards.length) < 50) {
+      const largestArray = (v, d = 0) => {
+        if (d > 6 || v == null || typeof v !== 'object') return 0;
+        if (Array.isArray(v)) return Math.max(v.length, ...v.slice(0, 50).map((x) => largestArray(x, d + 1)));
+        return Math.max(0, ...Object.values(v).map((x) => largestArray(x, d + 1)));
+      };
+      const seen = captured
+        .map(({ url: u, json }) => {
+          let where = u;
+          try {
+            const p = new URL(u);
+            where = `${p.origin}${p.pathname}`;
+          } catch (_) {}
+          return `${where} (largest array: ${largestArray(json)})`;
+        })
+        .slice(0, 15);
+      console.log(
+        `    ↳ ${source} browser scrape found only ${domCards.length} cards / ${apiArray ? apiArray.length : 0} API rows. ` +
+          `JSON endpoints seen: ${seen.length ? `\n      ${seen.join('\n      ')}` : 'none'}`
+      );
+    }
 
     const useApi = apiArray && apiArray.length >= domCards.length && apiArray.length > 0;
     const rows = useApi ? apiArray : domCards;

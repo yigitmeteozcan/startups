@@ -21,6 +21,15 @@ const { writeDataset, writeXlsx } = require('../src/dataset');
 
 const STALE_ALERT_DAYS = Number(process.env.STALE_ALERT_DAYS || 3);
 
+// all.xlsx is a ~5 MB binary that git cannot delta-compress, so rewriting it
+// every day was the main source of repository growth. XLSX_REFRESH=weekly
+// (used by the scheduled workflow) rewrites it on Mondays (UTC) or when it is
+// missing; the default "always" keeps the old behaviour for local builds.
+function shouldWriteXlsx(file, mode = process.env.XLSX_REFRESH || 'always', now = new Date()) {
+  if (mode !== 'weekly') return true;
+  return !fs.existsSync(file) || now.getUTCDay() === 1;
+}
+
 function parseList(v) {
   return String(v || '')
     .split(',')
@@ -71,7 +80,12 @@ async function main() {
   }
 
   const stats = writeDataset(companies, { rootDir: root, sourceStatus: statuses });
-  await writeXlsx(companies, path.join(root, 'data', 'all.xlsx'));
+  const xlsxFile = path.join(root, 'data', 'all.xlsx');
+  if (shouldWriteXlsx(xlsxFile)) {
+    await writeXlsx(companies, xlsxFile);
+  } else {
+    console.log('   all.xlsx kept (XLSX_REFRESH=weekly; next refresh on Monday UTC).');
+  }
 
   console.log(`\n✅ Wrote dataset to data/ (${stats.total} companies)`);
   console.log(
@@ -101,4 +115,4 @@ if (require.main === module) {
     });
 }
 
-module.exports = { main, staleSources };
+module.exports = { main, staleSources, shouldWriteXlsx };
