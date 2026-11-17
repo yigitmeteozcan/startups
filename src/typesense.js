@@ -20,8 +20,8 @@ const API_KEY = process.env.TYPESENSE_API_KEY || '';
 const QUERY_BY =
   'company_name,brief_description,city,state_province,country,worldregion,program_names,industry_vertical';
 
-function buildSearchUrl({ page, perPage }) {
-  const url = new URL(`${HOST}/collections/${COLLECTION}/documents/search`);
+function buildSearchUrl({ page, perPage, host = HOST, collection = COLLECTION }) {
+  const url = new URL(`${host}/collections/${collection}/documents/search`);
   url.searchParams.set('q', '');
   url.searchParams.set('query_by', QUERY_BY);
   url.searchParams.set('filter_by', 'is_accelerator_company:=true');
@@ -32,7 +32,7 @@ function buildSearchUrl({ page, perPage }) {
 }
 
 // Fetch every company from Typesense, paging through all results.
-async function fetchAllCompanies({ apiKey = API_KEY, perPage = 250 } = {}) {
+async function fetchAllCompanies({ apiKey = API_KEY, perPage = 250, host = HOST, collection = COLLECTION } = {}) {
   if (!apiKey) {
     throw new Error(
       'No Typesense API key. Set TYPESENSE_API_KEY (the public search-only key from the portfolio page).'
@@ -45,7 +45,7 @@ async function fetchAllCompanies({ apiKey = API_KEY, perPage = 250 } = {}) {
   let found = Infinity;
 
   while (all.length < found && page <= 1000) {
-    const res = await fetchWithTimeout(buildSearchUrl({ page, perPage }), { headers });
+    const res = await fetchWithTimeout(buildSearchUrl({ page, perPage, host, collection }), { headers });
     if (!res.ok) {
       const body = await res.text().catch(() => '');
       throw new Error(`Typesense ${res.status} on page ${page}: ${body.slice(0, 200)}`);

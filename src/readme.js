@@ -305,7 +305,7 @@ Guard rails keep a bad scrape from damaging the data:
 - **Junk filter** — records without a name plus at least one real attribute are rejected.
 - **Shrink guard** — if a source suddenly returns far fewer companies than are already committed (below 80%), the live result is treated as broken and the committed records are kept.
 - **Fallback** — any source that fails keeps its previously committed records, and the table above shows it as "cached".
-- **Alerting** — the job fails (and GitHub emails the owner) when a source has not been fetched live for 3+ days.
+- **Alerting** — the job fails (and GitHub emails the owner) on the day a source goes 3+ days without a live fetch, then weekly while it stays that way.
 
 ## 🛠️ Run it yourself
 

@@ -120,7 +120,10 @@ async function fetchPlugAndPlay({ limit = 1000, maxPages = 20 } = {}) {
       if (offset >= total) break;
       const res = await fetchWithTimeout(buildUrl(offset, limit), { headers: HEADERS });
       if (!res.ok) {
-        if (page === 0) throw new Error(`HTTP ${res.status} from ${API}`);
+        if (page === 0) {
+          const body = (await res.text().catch(() => '')).replace(/\s+/g, ' ').slice(0, 120);
+          throw new Error(`HTTP ${res.status} from ${API}${body ? `: ${body}` : ''}`);
+        }
         break;
       }
       const json = await res.json();

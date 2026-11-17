@@ -1,6 +1,7 @@
 const { chromium } = require('playwright');
 const { normalizeCompany } = require('./normalize');
 const { fetchWithTimeout } = require('./http');
+const { fetchAllCompanies } = require('./typesense');
 
 const PORTFOLIO_URL = 'https://www.techstars.com/portfolio';
 
@@ -202,20 +203,28 @@ async function interceptApiResponse(page) {
   // The Techstars portfolio is backed by a Typesense search cluster. Capture
   // the request so we can replay it directly (with the search-only API key,
   // which the site exposes client-side) and page through every company.
+  // Both request styles are handled: GET .../documents/search and the
+  // POST /multi_search used by Typesense's InstantSearch adapter.
   page.on('request', (request) => {
     const url = request.url();
-    if (url.includes('typesense.net') && url.includes('/documents/search')) {
-      const headers = request.headers();
-      typesense = {
-        url,
-        apiKey:
-          headers['x-typesense-api-key'] ||
-          new URL(url).searchParams.get('x-typesense-api-key') ||
-          null,
-        method: request.method(),
-        postData: request.postData() || null,
-      };
-    }
+    const isSearch = url.includes('/documents/search');
+    const isMulti = url.includes('/multi_search');
+    if (!(isSearch || isMulti)) return;
+    const headers = request.headers();
+    let apiKey = headers['x-typesense-api-key'] || null;
+    try {
+      apiKey = apiKey || new URL(url).searchParams.get('x-typesense-api-key');
+    } catch (_) {}
+    if (!apiKey) return;
+    // Prefer a plain documents/search request if we see one.
+    if (typesense && typesense.kind === 'search' && isMulti) return;
+    typesense = {
+      url,
+      apiKey,
+      kind: isSearch ? 'search' : 'multi',
+      method: request.method(),
+      postData: request.postData() || null,
+    };
   });
 
   page.on('response', async (response) => {
@@ -236,6 +245,17 @@ async function interceptApiResponse(page) {
 // Replay the Typesense search directly, paging through all results.
 async function fetchAllFromTypesense(ts) {
   if (!ts || !ts.apiKey) return null;
+
+  // multi_search: reuse the captured host + collection with our own query.
+  if (ts.kind === 'multi') {
+    const host = new URL(ts.url).origin;
+    let collection;
+    try {
+      collection = JSON.parse(ts.postData || '{}').searches?.[0]?.collection;
+    } catch (_) {}
+    const companies = await fetchAllCompanies({ apiKey: ts.apiKey, host, ...(collection ? { collection } : {}) });
+    return companies.map((c) => c.extra || c);
+  }
 
   const base = new URL(ts.url);
   base.searchParams.set('per_page', '250'); // Typesense max page size
@@ -344,7 +364,10 @@ async function scrapePortfolio({ filters = {}, debug = false } = {}) {
 
     // FAST PATH: replay the Typesense search directly and page through everything.
     const ts = getTypesense();
-    const direct = await fetchAllFromTypesense(ts).catch(() => null);
+    const direct = await fetchAllFromTypesense(ts).catch((err) => {
+      console.log(`    ↳ Techstars Typesense replay failed: ${String(err.message).split('\n')[0].slice(0, 200)}`);
+      return null;
+    });
     if (direct && direct.length > 0) {
       const companies = direct.map(normalizeCompany);
       const result = { source: 'typesense', count: companies.length, companies };
@@ -359,12 +382,28 @@ async function scrapePortfolio({ filters = {}, debug = false } = {}) {
     }
 
     // FALLBACK: scroll to trigger lazy-load, then use intercepted JSON or DOM.
+    console.log(
+      `    ↳ Techstars fast path unavailable (search key ${ts && ts.apiKey ? `captured from ${ts.kind} request` : 'not seen'}) — falling back to page scraping`
+    );
     await autoScroll(page);
     await page.waitForTimeout(2000);
 
     const normalized = normalizeApiData(captured);
     const apiCount = normalized ? normalized.length : 0;
     const domCompanies = await extractCompanies(page);
+
+    if (Math.max(apiCount, domCompanies.length) < 100) {
+      // Path only: query strings can carry keys.
+      const seen = [...new Set(endpoints.map((u) => {
+        try {
+          const p = new URL(u);
+          return `${p.origin}${p.pathname}`;
+        } catch (_) {
+          return u;
+        }
+      }))].slice(0, 15);
+      console.log(`    ↳ Techstars page scrape found ${domCompanies.length} cards. JSON endpoints seen: ${seen.length ? `\n      ${seen.join('\n      ')}` : 'none'}`);
+    }
 
     const useApi = apiCount >= domCompanies.length && apiCount > 0;
     const result = useApi
@@ -386,4 +425,4 @@ async function scrapePortfolio({ filters = {}, debug = false } = {}) {
   }
 }
 
-module.exports = { scrapePortfolio };
+module.exports = { scrapePortfolio, fetchAllFromTypesense };

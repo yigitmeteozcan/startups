@@ -46,6 +46,17 @@ function staleSources(metaSources, now = Date.now()) {
   });
 }
 
+// Which stale sources should fail the run (and email the owner). A source
+// that stays blocked would otherwise fail every single day, so: alert on the
+// first day it goes stale, then once a week (Mondays UTC) as a reminder.
+// Warnings and the job summary still report every stale source daily.
+function sourcesToAlert(stale, now = new Date()) {
+  const day = 24 * 3600 * 1000;
+  const limit = STALE_ALERT_DAYS * day;
+  if (now.getUTCDay() === 1) return stale;
+  return stale.filter((s) => s.lastLiveFetch && now - Date.parse(s.lastLiveFetch) <= limit + day);
+}
+
 function writeGithubSummary(metaSources, stale, stats) {
   const file = process.env.GITHUB_STEP_SUMMARY;
   if (!file) return;
@@ -102,7 +113,11 @@ async function main() {
   }
   writeGithubSummary(stats.sources, stale, stats);
   if (process.env.GITHUB_OUTPUT) {
-    fs.appendFileSync(process.env.GITHUB_OUTPUT, `stale=${stale.map((s) => s.name).join(',')}\n`);
+    const alert = sourcesToAlert(stale);
+    fs.appendFileSync(
+      process.env.GITHUB_OUTPUT,
+      `stale=${stale.map((s) => s.name).join(',')}\nalert=${alert.map((s) => s.name).join(',')}\n`
+    );
   }
 }
 
@@ -115,4 +130,4 @@ if (require.main === module) {
     });
 }
 
-module.exports = { main, staleSources, shouldWriteXlsx };
+module.exports = { main, staleSources, sourcesToAlert, shouldWriteXlsx };
