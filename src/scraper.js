@@ -1,13 +1,15 @@
 const { chromium } = require('playwright');
-const { toArray, normalizeCompany } = require('./normalize');
+const { normalizeCompany } = require('./normalize');
+const { fetchWithTimeout } = require('./http');
 
 const PORTFOLIO_URL = 'https://www.techstars.com/portfolio';
 
+// Playwright disables the Chromium sandbox by default (required on CI runners);
+// set CHROMIUM_SANDBOX=1 to enable it where the host supports it.
 const LAUNCH_OPTIONS = {
   headless: true,
+  chromiumSandbox: process.env.CHROMIUM_SANDBOX === '1',
   args: [
-    '--no-sandbox',
-    '--disable-setuid-sandbox',
     '--disable-blink-features=AutomationControlled',
     '--disable-infobars',
     '--window-size=1920,1080',
@@ -247,7 +249,7 @@ async function fetchAllFromTypesense(ts) {
 
   while (all.length < found && page <= 500) {
     base.searchParams.set('page', String(page));
-    const res = await fetch(base.toString(), { headers });
+    const res = await fetchWithTimeout(base.toString(), { headers });
     if (!res.ok) {
       if (page === 1) return null; // couldn't start -> let caller fall back
       break;

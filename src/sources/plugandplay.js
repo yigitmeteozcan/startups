@@ -7,6 +7,7 @@
 
 const { makeBrowserSource } = require('./browser-portfolio');
 const { addHttps } = require('../normalize');
+const { fetchWithTimeout } = require('../http');
 
 // The delivery endpoint that serves the unfiltered startup list (offset/limit
 // paginated, total ~2,400). Overridable in case the node path changes.
@@ -117,8 +118,11 @@ async function fetchPlugAndPlay({ limit = 1000, maxPages = 20 } = {}) {
     for (let page = 0; page < maxPages; page++) {
       const offset = page * limit;
       if (offset >= total) break;
-      const res = await fetch(buildUrl(offset, limit), { headers: HEADERS });
-      if (!res.ok) break;
+      const res = await fetchWithTimeout(buildUrl(offset, limit), { headers: HEADERS });
+      if (!res.ok) {
+        if (page === 0) throw new Error(`HTTP ${res.status} from ${API}`);
+        break;
+      }
       const json = await res.json();
       const results = json.results || [];
       if (results.length === 0) break;
@@ -128,8 +132,9 @@ async function fetchPlugAndPlay({ limit = 1000, maxPages = 20 } = {}) {
     }
     const companies = all.filter((c) => c.name);
     if (companies.length > 0) return companies;
-  } catch (_) {
-    // fall through to the browser scraper
+    throw new Error('API returned no companies');
+  } catch (err) {
+    console.log(`    ↳ Plug and Play API unavailable (${err.message}) — trying the browser scraper`);
   }
   return browser.fetch();
 }

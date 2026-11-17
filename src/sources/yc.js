@@ -6,6 +6,7 @@
 // source, with the original record preserved under `extra`.
 
 const { toArray, addHttps } = require('../normalize');
+const { fetchWithTimeout } = require('../http');
 
 const YC_URL =
   process.env.YC_API_URL ||
@@ -19,6 +20,14 @@ function batchYear(batch) {
   return y >= 2000 && y <= 2100 ? y : '';
 }
 
+// YC uses a site-relative placeholder ("/company/thumb/missing.png") for
+// companies without a logo; make every logo an absolute URL.
+function absoluteLogo(url) {
+  if (!url) return '';
+  if (url.startsWith('/') && !url.startsWith('//')) return `https://www.ycombinator.com${url}`;
+  return addHttps(url);
+}
+
 function normalizeYc(d) {
   const tags = [...new Set([...toArray(d.industries), ...toArray(d.tags)])];
   const batch = d.batch && d.batch !== 'Unspecified' ? d.batch : '';
@@ -27,7 +36,7 @@ function normalizeYc(d) {
     source: 'yc',
     name: d.name || '',
     description: d.one_liner || d.long_description || '',
-    logo: d.small_logo_thumb_url || '',
+    logo: absoluteLogo(d.small_logo_thumb_url || ''),
     website: addHttps(d.website || ''),
     location: d.all_locations || '',
     region: toArray(d.regions)[0] || '',
@@ -55,7 +64,7 @@ function normalizeYc(d) {
 }
 
 async function fetchYc({ url = YC_URL } = {}) {
-  const res = await fetch(url);
+  const res = await fetchWithTimeout(url);
   if (!res.ok) {
     const body = await res.text().catch(() => '');
     throw new Error(`YC fetch ${res.status}: ${body.slice(0, 200)}`);
@@ -65,4 +74,4 @@ async function fetchYc({ url = YC_URL } = {}) {
   return raw.map(normalizeYc);
 }
 
-module.exports = { fetchYc, normalizeYc, YC_URL };
+module.exports = { fetchYc, normalizeYc, absoluteLogo, YC_URL };

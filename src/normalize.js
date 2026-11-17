@@ -6,9 +6,69 @@ function toArray(v) {
   return Array.isArray(v) ? v.filter(Boolean) : [v].filter(Boolean);
 }
 
+// Schemes that must never end up in an href (they execute or embed content).
+const UNSAFE_SCHEME = /^(?:javascript|data|vbscript|file|blob):/i;
+
+// Normalize a scraped URL to an absolute http(s) URL.
+//   "acme.com"                 -> "https://acme.com"
+//   "Https://acme.com"         -> "https://acme.com"   (old check was case-sensitive)
+//   "https://https://acme.com" -> "https://acme.com"   (doubled scheme)
+//   "//acme.com"               -> "https://acme.com"
+//   "javascript:alert(1)"      -> ""                   (never emit executable URLs)
+// Plain-http URLs stay http.
 function addHttps(url) {
-  if (!url) return '';
-  return url.startsWith('http') ? url : `https://${url}`;
+  let u = String(url == null ? '' : url).trim();
+  if (!u) return '';
+  let scheme = '';
+  // Strip any run of leading schemes (incl. malformed "https//"), remembering the first.
+  u = u.replace(/^(?:(https?):?\/\/)+/i, (m, first) => {
+    scheme = first.toLowerCase();
+    return '';
+  });
+  if (!scheme) u = u.replace(/^\/\//, '');
+  if (!u || UNSAFE_SCHEME.test(u)) return '';
+  return `${scheme || 'https'}://${u}`;
+}
+
+// A record is only kept if it has a name plus at least one real attribute.
+// This is what stops a scraper that latched onto the wrong JSON (e.g. the
+// HubSpot form config that replaced 5,508 Plug and Play companies with 7 rows
+// named "disableCookieSubmission", "renderRawHtml", ...) from entering the data.
+function isPlausibleCompany(c) {
+  if (!c || typeof c !== 'object') return false;
+  const name = typeof c.name === 'string' ? c.name.trim() : '';
+  if (!name || name.length > 200) return false;
+  return Boolean(
+    c.description ||
+      c.website ||
+      c.logo ||
+      c.location ||
+      (Array.isArray(c.tags) && c.tags.length) ||
+      (Array.isArray(c.founders) && c.founders.length) ||
+      c.year
+  );
+}
+
+function collapseSpaces(s) {
+  return String(s == null ? '' : s).replace(/\s+/g, ' ').trim();
+}
+
+// Free-text team descriptions (Alchemist) sometimes hold two people separated
+// by a double space: "Edith Harbaugh  John Kodumal", "A B  and C D". Split only
+// when every part looks like a full name (capitalised, 2-5 words, no digits or
+// brackets), so text like "Team: Michele  Lunati" is kept intact. Nothing is
+// ever removed except leading bullet characters and repeated whitespace.
+function splitFounderNames(raw) {
+  const text = String(raw == null ? '' : raw).replace(/^[\s*•\-–]+/, '');
+  const looksLikeName = (s) =>
+    /^\p{Lu}/u.test(s) && !/[()\[\]:\d]/.test(s) && s.split(' ').length >= 2 && s.split(' ').length <= 5;
+  const parts = text
+    .split(/\s{2,}/)
+    .map((p) => collapseSpaces(p.replace(/^(?:and|&)\s+/i, '')))
+    .filter(Boolean);
+  if (parts.length > 1 && parts.every(looksLikeName)) return parts;
+  const whole = collapseSpaces(text);
+  return whole ? [whole] : [];
 }
 
 // Tags that aren't industries — business models, funding stages, work-styles,
@@ -124,4 +184,12 @@ function normalizeCompany(raw, source = 'techstars') {
   };
 }
 
-module.exports = { toArray, addHttps, normalizeCompany, cleanTags };
+module.exports = {
+  toArray,
+  addHttps,
+  normalizeCompany,
+  cleanTags,
+  isPlausibleCompany,
+  collapseSpaces,
+  splitFounderNames,
+};

@@ -16,7 +16,10 @@ const PORTFOLIO_URL = 'https://www.techstars.com/portfolio';
 
 (async () => {
   console.log('Opening Techstars portfolio page…');
-  const browser = await chromium.launch({ headless: true, args: ['--no-sandbox'] });
+  const browser = await chromium.launch({
+    headless: true,
+    chromiumSandbox: process.env.CHROMIUM_SANDBOX === '1',
+  });
   const ctx = await browser.newContext({
     userAgent:
       'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -55,7 +58,8 @@ const PORTFOLIO_URL = 'https://www.techstars.com/portfolio';
 
   if (!key) {
     console.error('❌ Could not capture the Typesense key (page may have blocked the request).');
-    console.error('   Try running: npm run build:data  (it will print the key in verbose mode)');
+    console.error('   Try again from a residential connection, or run `npm run fetch:data` —');
+    console.error('   without a key it scrapes the page in a browser and captures the key itself.');
     process.exit(1);
   }
 })();

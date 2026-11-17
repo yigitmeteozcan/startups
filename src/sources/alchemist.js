@@ -5,6 +5,8 @@
 // fetch it directly; fall back to the browser scraper if blocked.
 
 const { makeBrowserSource } = require('./browser-portfolio');
+const { splitFounderNames } = require('../normalize');
+const { fetchWithTimeout } = require('../http');
 
 const API = process.env.ALCHEMIST_API_URL || 'https://vault.alchemistaccelerator.com/api/v1/alchemist_companies';
 
@@ -50,14 +52,17 @@ function parseFounders(teamDescription) {
   const out = [];
   const seen = new Set();
   for (const part of s.split(/[;\n]+/)) {
-    let name = part.replace(/^[\s\-–• ]+/, '');
-    name = name.split(/\s[-–]\s|,/)[0].trim(); // cut at " - " / comma (bio start)
-    if (!name || name.length > 50 || !/[A-Za-z]/.test(name)) continue;
-    if (name.split(/\s+/).length > 5) continue; // too long to be a name
-    const key = name.toLowerCase();
-    if (seen.has(key)) continue;
-    seen.add(key);
-    out.push({ name, role: '', linkedin: '' });
+    let chunk = part.replace(/^[\s\-–•*  ]+/, '');
+    chunk = chunk.split(/\s[-–]\s|,/)[0]; // cut at " - " / comma (bio start)
+    // "Edith Harbaugh  John Kodumal" is two people separated by a double space.
+    for (const name of splitFounderNames(chunk)) {
+      if (!name || name.length > 50 || !/[A-Za-z]/.test(name)) continue;
+      if (name.split(/\s+/).length > 5) continue; // too long to be a name
+      const key = name.toLowerCase();
+      if (seen.has(key)) continue;
+      seen.add(key);
+      out.push({ name, role: '', linkedin: '' });
+    }
   }
   return out;
 }
@@ -97,8 +102,11 @@ async function fetchAlchemist({ size = 200, maxPages = 60 } = {}) {
     const all = [];
     let lastPage = Infinity;
     for (let page = 1; page <= Math.min(lastPage, maxPages); page++) {
-      const res = await fetch(buildUrl(page, size), { headers: HEADERS });
-      if (!res.ok) break;
+      const res = await fetchWithTimeout(buildUrl(page, size), { headers: HEADERS });
+      if (!res.ok) {
+        if (page === 1) throw new Error(`HTTP ${res.status}`);
+        break;
+      }
       const json = await res.json();
       const data = json.data || [];
       if (data.length === 0) break;
@@ -113,10 +121,11 @@ async function fetchAlchemist({ size = 200, maxPages = 60 } = {}) {
     }
     const companies = all.filter((c) => c.name);
     if (companies.length > 0) return companies;
-  } catch (_) {
-    // fall through to the browser scraper
+    throw new Error('API returned no companies');
+  } catch (err) {
+    console.log(`    ↳ Alchemist API unavailable (${err.message}) — trying the browser scraper`);
   }
   return browser.fetch();
 }
 
-module.exports = { fetchAlchemist, normalizeAlchemist, scrapeAlchemist: browser.scrape, API };
+module.exports = { parseFounders, fetchAlchemist, normalizeAlchemist, scrapeAlchemist: browser.scrape, API };

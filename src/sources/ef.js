@@ -8,6 +8,7 @@
 // Falls back to the shared stealth-browser scraper if everything is blocked.
 
 const { normalizeRecord, makeBrowserSource } = require('./browser-portfolio');
+const { fetchWithTimeout } = require('../http');
 
 const BASE_URL = process.env.EF_PORTFOLIO_URL || 'https://www.joinef.com/portfolio/';
 const AJAX_URL = process.env.EF_AJAX_URL || 'https://www.joinef.com/wp-admin/admin-ajax.php';
@@ -118,7 +119,7 @@ function parseTiles(html) {
 }
 
 async function getText(url, opts = {}) {
-  const res = await fetch(url, opts).catch(() => null);
+  const res = await fetchWithTimeout(url, opts).catch(() => null);
   if (!res || !res.ok) return null;
   return res.text();
 }
@@ -180,7 +181,10 @@ async function fetchEf({ maxPages = MAX_PAGES } = {}) {
     if (add(parseTiles(html)) === 0) break; // nothing new -> end of list
   }
 
-  if (all.length === 0) return browser.fetch(); // everything blocked -> browser
+  if (all.length === 0) {
+    console.log('    ↳ EF pages unavailable — trying the browser scraper');
+    return browser.fetch(); // everything blocked -> browser
+  }
   return all.map((d) => normalizeRecord(d, { source: 'ef', program: 'Entrepreneur First' }));
 }
 

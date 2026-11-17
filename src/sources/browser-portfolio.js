@@ -19,11 +19,13 @@ function getChromium() {
   return require('playwright').chromium;
 }
 
+// Playwright already disables the Chromium sandbox by default (needed on CI
+// runners / containers). Set CHROMIUM_SANDBOX=1 to turn it on where supported,
+// e.g. when running the scraper on a long-lived server.
 const LAUNCH_OPTIONS = {
   headless: true,
+  chromiumSandbox: process.env.CHROMIUM_SANDBOX === '1',
   args: [
-    '--no-sandbox',
-    '--disable-setuid-sandbox',
     '--disable-blink-features=AutomationControlled',
     '--disable-infobars',
     '--window-size=1920,1080',
@@ -94,10 +96,21 @@ function normalizeRecord(raw, { source, program }) {
   };
 }
 
+// A JSON object only counts as a company if it has a name AND at least one
+// company-ish attribute. Matching on a bare `name` key let a HubSpot form's
+// config (objects like { name: "renderRawHtml", ... }) pass as companies.
+const NAME_KEYS = ['name', 'company_name', 'title'];
+const META_KEYS = [
+  'website', 'url', 'homepage', 'company_url', 'logo', 'logo_url', 'image', 'image_url',
+  'description', 'one_liner', 'tagline', 'summary', 'blurb', 'location', 'city', 'country',
+  'industry', 'industries', 'sector', 'sectors', 'founders',
+];
 function looksLikeCompany(o) {
-  if (!o || typeof o !== 'object') return false;
-  const keys = Object.keys(o).map((k) => k.toLowerCase());
-  return keys.some((k) => ['name', 'company_name', 'title'].includes(k));
+  if (!o || typeof o !== 'object' || Array.isArray(o)) return false;
+  const nameKey = Object.keys(o).find((k) => NAME_KEYS.includes(k.toLowerCase()));
+  if (!nameKey || typeof o[nameKey] !== 'string' || !o[nameKey].trim()) return false;
+  const filled = (v) => v != null && v !== '' && !(Array.isArray(v) && v.length === 0);
+  return Object.keys(o).some((k) => META_KEYS.includes(k.toLowerCase()) && filled(o[k]));
 }
 
 // Recursively find the largest array of company-like records in any JSON value.
@@ -178,9 +191,11 @@ async function extractCards(page) {
         card.querySelector('[class*="name"], [class*="title"], h2, h3, h4')?.innerText?.trim() ||
         logoEl?.alt?.trim() ||
         '';
+      // First description-like element whose text isn't just the name again.
       const description =
-        card.querySelector('[class*="description"], [class*="desc"], [class*="excerpt"], p')
-          ?.innerText?.trim() || '';
+        Array.from(card.querySelectorAll('[class*="description"], [class*="desc"], [class*="excerpt"], p'))
+          .map((el) => el.innerText?.trim() || '')
+          .find((t) => t && t !== name) || '';
       const location =
         card.querySelector('[class*="location"], [class*="country"], [class*="city"]')
           ?.innerText?.trim() || '';
@@ -261,4 +276,4 @@ function makeBrowserSource(config) {
   };
 }
 
-module.exports = { scrapeSite, makeBrowserSource, normalizeRecord, findCompanyArray };
+module.exports = { scrapeSite, makeBrowserSource, normalizeRecord, findCompanyArray, looksLikeCompany, LAUNCH_OPTIONS };

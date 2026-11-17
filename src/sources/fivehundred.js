@@ -4,7 +4,8 @@
 // real fields live under `organization`. Falls back to the browser scraper if
 // the API is blocked.
 
-const { addHttps, toArray } = require('../normalize');
+const { addHttps, toArray, collapseSpaces } = require('../normalize');
+const { fetchWithTimeout } = require('../http');
 const { makeBrowserSource } = require('./browser-portfolio');
 
 const API_URL = process.env.FIVEHUNDRED_API_URL || 'https://500.co/api/startups';
@@ -68,7 +69,7 @@ function normalize500(d) {
       .map((p) => p && p.person)
       .filter(Boolean)
       .map((person) => ({
-        name: [person.firstName, person.lastName].filter(Boolean).join(' ').trim(),
+        name: collapseSpaces([person.firstName, person.lastName].filter(Boolean).join(' ')),
         role: '',
         linkedin: '',
       }))
@@ -85,15 +86,15 @@ function normalize500(d) {
 
 async function fetch500() {
   try {
-    const res = await fetch(API_URL, { headers: HEADERS });
-    if (res.ok) {
-      const json = await res.json();
-      const arr = Array.isArray(json) ? json : json.res || json.startups || json.data || [];
-      const companies = arr.map(normalize500).filter((c) => c.name);
-      if (companies.length > 0) return companies;
-    }
-  } catch (_) {
-    // fall through to the browser scraper
+    const res = await fetchWithTimeout(API_URL, { headers: HEADERS });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const json = await res.json();
+    const arr = Array.isArray(json) ? json : json.res || json.startups || json.data || [];
+    const companies = arr.map(normalize500).filter((c) => c.name);
+    if (companies.length > 0) return companies;
+    throw new Error('API returned no companies');
+  } catch (err) {
+    console.log(`    ↳ 500 API unavailable (${err.message}) — trying the browser scraper`);
   }
   return browser.fetch();
 }

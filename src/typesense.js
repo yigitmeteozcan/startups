@@ -4,6 +4,7 @@
 // query it directly from anywhere — including CI runners — without a browser.
 
 const { normalizeCompany } = require('./normalize');
+const { fetchWithTimeout } = require('./http');
 
 // Defaults captured from the live portfolio page. Override via env if they change.
 const HOST =
@@ -11,8 +12,9 @@ const HOST =
   'https://8gbms7c94riane0lp-1.a1.typesense.net';
 const COLLECTION = process.env.TYPESENSE_COLLECTION || 'companies';
 
-// The search-only key is public (it ships in the page's JS). Prefer env so it
-// can be rotated without a code change; fall back to the committed default.
+// The search-only key is public (it ships in the page's JS), but it is read from
+// the environment (TYPESENSE_API_KEY) so it can be rotated without a code change.
+// Without it, the build captures the key by loading the page in a browser.
 const API_KEY = process.env.TYPESENSE_API_KEY || '';
 
 const QUERY_BY =
@@ -43,7 +45,7 @@ async function fetchAllCompanies({ apiKey = API_KEY, perPage = 250 } = {}) {
   let found = Infinity;
 
   while (all.length < found && page <= 1000) {
-    const res = await fetch(buildSearchUrl({ page, perPage }), { headers });
+    const res = await fetchWithTimeout(buildSearchUrl({ page, perPage }), { headers });
     if (!res.ok) {
       const body = await res.text().catch(() => '');
       throw new Error(`Typesense ${res.status} on page ${page}: ${body.slice(0, 200)}`);
