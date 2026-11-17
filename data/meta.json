@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T19:37:49.630Z",
+  "generatedAt": "2026-11-17T23:38:44.588Z",
   "sources": [
     {
       "name": "500",
@@ -7,7 +7,7 @@
       "site": "https://500.co/portfolio",
       "count": 2243,
       "status": "live",
-      "lastLiveFetch": "2026-11-17T16:12:26.155Z",
+      "lastLiveFetch": "2026-11-17T23:38:44.588Z",
       "note": ""
     },
     {
@@ -16,7 +16,7 @@
       "site": "https://www.ycombinator.com/companies",
       "count": 6398,
       "status": "live",
-      "lastLiveFetch": "2026-11-17T16:12:26.155Z",
+      "lastLiveFetch": "2026-11-17T23:38:44.588Z",
       "note": ""
     },
     {
@@ -26,7 +26,7 @@
       "count": 5508,
       "status": "cached",
       "lastLiveFetch": "2026-11-09T16:38:22.000Z",
-      "note": "live scrape returned 7 junk rows from 2026-11-10; restored 5,508 companies from cd6e6e2"
+      "note": "returned no usable companies"
     },
     {
       "name": "techstars",
@@ -35,7 +35,7 @@
       "count": 5105,
       "status": "cached",
       "lastLiveFetch": null,
-      "note": "TYPESENSE_API_KEY secret was empty, so CI reused committed data; the browser fallback now runs instead"
+      "note": "returned only 24 companies vs 5105 committed (below 80%) — looks like a broken scrape"
     },
     {
       "name": "antler",
@@ -43,7 +43,7 @@
       "site": "https://www.antler.co/portfolio",
       "count": 1086,
       "status": "live",
-      "lastLiveFetch": "2026-11-17T16:12:26.155Z",
+      "lastLiveFetch": "2026-11-17T23:38:44.588Z",
       "note": ""
     },
     {
@@ -52,7 +52,7 @@
       "site": "https://www.joinef.com/portfolio/",
       "count": 545,
       "status": "live",
-      "lastLiveFetch": "2026-11-17T16:12:26.155Z",
+      "lastLiveFetch": "2026-11-17T23:38:44.588Z",
       "note": ""
     },
     {
@@ -61,7 +61,7 @@
       "site": "https://www.alchemistaccelerator.com/portfolio",
       "count": 514,
       "status": "live",
-      "lastLiveFetch": "2026-11-17T16:12:26.155Z",
+      "lastLiveFetch": "2026-11-17T23:38:44.588Z",
       "note": ""
     }
   ],

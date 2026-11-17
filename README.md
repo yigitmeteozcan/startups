@@ -48,7 +48,7 @@ Accelerator portfolios are scattered across seven different websites, each with 
 - **342** accelerator programs / cohorts
 - **462** industry verticals
 - **119** countries · **104** world regions, across **23** cohort years
-- 🦄 **156** unicorns · 💰 **2,804** exits · 🌱 **29** B Corps · 👤 **7,346** founder profiles
+- 🦄 **156** unicorns · 💰 **2,804** exits · 🌱 **29** B Corps · 👤 **7,354** founder profiles
 
 ### Source freshness
 
