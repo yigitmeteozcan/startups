@@ -3,485 +3,124 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+<!--
+  Strict CSP: only our own script/styles run; data is fetched from GitHub /
+  jsDelivr; SheetJS is the only third-party script and is loaded on demand
+  when someone clicks "Export Excel". Scraped data can never inject script.
+-->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' https://cdn.sheetjs.com; style-src 'self'; img-src https: data:; connect-src https://raw.githubusercontent.com https://cdn.jsdelivr.net; base-uri 'none'; form-action 'none'; upgrade-insecure-requests" />
+<meta name="referrer" content="strict-origin-when-cross-origin" />
+<meta name="color-scheme" content="dark light" />
 <title>Startup Portfolios Explorer</title>
 <meta name="description" content="Search and filter every Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, and Plug and Play portfolio company — free open dataset." />
-<!-- SheetJS for in-browser Excel export -->
-<script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
-<style>
-  :root {
-    --bg:#0d1117; --panel:#161b22; --border:#30363d; --text:#e6edf3;
-    --muted:#8b949e; --accent:#58a6ff; --chip:#21262d; --hover:#1f2937;
-    --uni:#d29922; --exit:#3fb950; --bcorp:#2f81f7; --sel:#1c2d3f;
-  }
-  *{box-sizing:border-box;margin:0;padding:0;}
-  body{background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
-  a{color:var(--accent);text-decoration:none;}
-  a:hover{text-decoration:underline;}
-
-  /* ── Layout ── */
-  header{padding:28px 20px 0;max-width:1140px;margin:0 auto;}
-  h1{font-size:24px;font-weight:700;margin-bottom:4px;}
-  .sub{color:var(--muted);margin-bottom:18px;font-size:14px;}
-  main{max-width:1140px;margin:0 auto;padding:0 20px 80px;}
-
-  /* ── Stat pills ── */
-  .stats{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:18px;}
-  .stat{background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:10px 16px;min-width:100px;}
-  .stat b{display:block;font-size:20px;}
-  .stat span{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.05em;}
-
-  /* ── Controls ── */
-  .controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;}
-  input,select{background:var(--panel);color:var(--text);border:1px solid var(--border);
-    border-radius:8px;padding:9px 12px;font-size:14px;outline:none;}
-  input:focus,select:focus{border-color:var(--accent);}
-  input[type=search]{flex:1 1 240px;min-width:180px;}
-  .toggles{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
-  .toggle{background:var(--chip);border:1px solid var(--border);border-radius:20px;
-    padding:6px 13px;cursor:pointer;font-size:13px;user-select:none;transition:all .15s;}
-  .toggle:hover{border-color:var(--accent);}
-  .toggle.on{background:var(--accent);color:#0d1117;border-color:var(--accent);font-weight:600;}
-
-  /* ── Toolbar (select + export) ── */
-  .toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;
-    background:var(--panel);border:1px solid var(--border);border-radius:10px;
-    padding:10px 14px;margin-bottom:12px;}
-  .toolbar-left{display:flex;gap:8px;align-items:center;flex:1;}
-  .cb-all{width:17px;height:17px;cursor:pointer;accent-color:var(--accent);}
-  .sel-label{font-size:13px;color:var(--muted);}
-  .sel-label b{color:var(--text);}
-  .btn{display:inline-flex;align-items:center;gap:6px;padding:7px 14px;border-radius:8px;
-    font-size:13px;font-weight:600;cursor:pointer;border:1px solid var(--border);
-    background:var(--chip);color:var(--text);transition:all .15s;}
-  .btn:hover:not(:disabled){background:var(--hover);border-color:var(--accent);color:var(--accent);}
-  .btn:disabled{opacity:.4;cursor:not-allowed;}
-  .btn-csv{background:#21343c;border-color:#3fb950;color:#3fb950;}
-  .btn-csv:hover:not(:disabled){background:#1a3028;}
-  .btn-xl{background:#1e2d4a;border-color:#58a6ff;color:#58a6ff;}
-  .btn-xl:hover:not(:disabled){background:#162038;}
-  .count-badge{font-size:13px;color:var(--muted);}
-
-  /* ── Company cards ── */
-  .list{display:grid;gap:8px;}
-  .card{background:var(--panel);border:1px solid var(--border);border-radius:12px;
-    padding:12px 14px;display:flex;gap:12px;align-items:flex-start;transition:border-color .15s;cursor:default;}
-  .card.selected{background:var(--sel);border-color:var(--accent);}
-  .card:hover{border-color:#484f58;}
-  .card-cb{margin-top:3px;width:16px;height:16px;flex:none;cursor:pointer;accent-color:var(--accent);}
-  .logo{width:42px;height:42px;border-radius:8px;object-fit:contain;background:#fff;flex:none;}
-  .logo.ph{background:var(--chip);display:grid;place-items:center;color:var(--muted);font-weight:700;font-size:14px;}
-  .body{min-width:0;flex:1;}
-  .name{font-weight:600;font-size:15px;margin-bottom:2px;}
-  .desc{color:var(--muted);font-size:13px;margin-bottom:7px;
-    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
-  .founders{font-size:12px;color:var(--muted);margin-bottom:6px;}
-  .founders a{color:var(--accent);}
-  .meta{display:flex;gap:6px;flex-wrap:wrap;font-size:12px;color:var(--muted);align-items:center;}
-  .chip{background:var(--chip);border:1px solid var(--border);border-radius:5px;padding:1px 7px;}
-  .chip-src{text-transform:capitalize;font-weight:600;background:#1d4ed8;color:#fff;border-color:#1d4ed8;}
-  .badge{border-radius:5px;padding:1px 7px;font-weight:600;color:#0d1117;}
-  .b-uni{background:var(--uni);}
-  .b-exit{background:var(--exit);}
-  .b-bcorp{background:var(--bcorp);color:#fff;}
-
-  /* ── Pagination ── */
-  .pager{display:flex;gap:10px;justify-content:center;align-items:center;margin-top:20px;}
-  .pager button{background:var(--panel);color:var(--text);border:1px solid var(--border);
-    border-radius:8px;padding:7px 16px;cursor:pointer;font-size:14px;}
-  .pager button:hover:not(:disabled){border-color:var(--accent);}
-  .pager button:disabled{opacity:.4;cursor:not-allowed;}
-
-  .loading{text-align:center;color:var(--muted);padding:60px 0;font-size:15px;}
-  footer{text-align:center;color:var(--muted);font-size:12px;padding:20px;}
-</style>
+<link rel="stylesheet" href="style.css" />
+<script src="app.js" defer></script>
 </head>
 <body>
-<header>
+<a class="skip" href="#results">Skip to results</a>
+<header class="wrap">
   <h1>Startup Portfolios Explorer</h1>
   <p class="sub">
     Every Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, and Plug and Play portfolio company, searchable and filterable.
     Data via the open <a href="https://github.com/yigitmeteozcan/startups">Startup Portfolios API</a>.
   </p>
-  <div class="stats" id="stats"></div>
-  <div class="controls">
-    <input type="search" id="q" placeholder="Search name or description…" autocomplete="off" />
-    <select id="source"><option value="">All sources</option></select>
-    <select id="region"><option value="">All regions</option></select>
-    <select id="yearFrom"><option value="">Year from</option></select>
-    <select id="yearTo"><option value="">Year to</option></select>
-    <select id="industry"><option value="">All industries</option></select>
-    <select id="sort">
-      <option value="">Sort: default</option>
-      <option value="year-desc">Year: newest first</option>
-      <option value="year-asc">Year: oldest first</option>
-      <option value="name-asc">Name: A → Z</option>
-      <option value="name-desc">Name: Z → A</option>
-    </select>
+  <div class="stats" id="stats" aria-label="Dataset totals"></div>
+
+  <div class="search-row">
+    <label class="sr-only" for="q">Search companies</label>
+    <input type="search" id="q" placeholder="Search names, descriptions, founders, industries…" autocomplete="off" />
+    <button type="button" class="btn filters-btn" id="filters-btn" aria-expanded="false" aria-controls="filters">
+      Filters <span class="pill" id="filters-count" hidden></span>
+    </button>
   </div>
-  <div class="toggles">
-    <span class="toggle" data-flag="isUnicorn">🦄 Unicorns</span>
-    <span class="toggle" data-flag="isExit">💰 Exits</span>
-    <span class="toggle" data-flag="isBCorp">🌱 B Corps</span>
+
+  <div class="filters" id="filters">
+    <div class="field">
+      <label for="source">Source</label>
+      <select id="source"><option value="">All sources</option></select>
+    </div>
+    <div class="field">
+      <label for="country">Country</label>
+      <select id="country"><option value="">All countries</option></select>
+    </div>
+    <div class="field">
+      <label for="region">Region</label>
+      <select id="region"><option value="">All regions</option></select>
+    </div>
+    <div class="field">
+      <label for="industry">Industry</label>
+      <select id="industry"><option value="">All industries</option></select>
+    </div>
+    <div class="field field-years">
+      <label for="yearFrom">Years</label>
+      <div class="years">
+        <select id="yearFrom" aria-label="Year from"><option value="">From</option></select>
+        <select id="yearTo" aria-label="Year to"><option value="">To</option></select>
+      </div>
+    </div>
+    <div class="field">
+      <label for="sort">Sort</label>
+      <select id="sort">
+        <option value="">Default</option>
+        <option value="year-desc">Year: newest first</option>
+        <option value="year-asc">Year: oldest first</option>
+        <option value="name-asc">Name: A → Z</option>
+        <option value="name-desc">Name: Z → A</option>
+      </select>
+    </div>
+    <div class="toggles" role="group" aria-label="Only show">
+      <button type="button" class="toggle" data-flag="isUnicorn" aria-pressed="false">🦄 Unicorns</button>
+      <button type="button" class="toggle" data-flag="isExit" aria-pressed="false">💰 Exits</button>
+      <button type="button" class="toggle" data-flag="isBCorp" aria-pressed="false">🌱 B Corps</button>
+      <button type="button" class="toggle" data-flag="hasFounders" aria-pressed="false">👤 Has founders</button>
+      <button type="button" class="btn btn-link" id="reset">Reset filters</button>
+    </div>
   </div>
 </header>
 
-<main>
-  <!-- Toolbar -->
+<main class="wrap">
   <div class="toolbar">
     <div class="toolbar-left">
-      <input type="checkbox" class="cb-all" id="cb-all" title="Select / deselect all on this page" />
-      <span class="sel-label" id="sel-label">Select all on page</span>
+      <input type="checkbox" class="cb" id="cb-all" />
+      <label class="sel-label" id="sel-label" for="cb-all">Select all on page</label>
     </div>
-    <span class="count-badge" id="count-badge"></span>
-    <button class="btn btn-csv" id="btn-csv" disabled>⬇ Export CSV</button>
-    <button class="btn btn-xl"  id="btn-xl"  disabled>⬇ Export Excel</button>
-    <button class="btn" id="btn-clear" disabled>✕ Clear selection</button>
+    <span class="count" id="count" role="status" aria-live="polite"></span>
+    <div class="toolbar-actions">
+      <button type="button" class="btn btn-csv" id="btn-csv" disabled>⬇ CSV</button>
+      <button type="button" class="btn btn-xl" id="btn-xl" disabled>⬇ Excel</button>
+      <button type="button" class="btn" id="btn-clear" disabled>✕ Clear<span class="hide-sm">selection</span></button>
+    </div>
   </div>
 
-  <div class="list" id="list"><div class="loading">Loading 5,000+ companies…</div></div>
-  <div class="pager" id="pager"></div>
+  <div class="list" id="results" tabindex="-1">
+    <div class="loading" id="loading">Loading companies…</div>
+  </div>
+  <nav class="pager" id="pager" aria-label="Pagination" hidden>
+    <button type="button" class="btn" id="first" aria-label="First page">«</button>
+    <button type="button" class="btn" id="prev">← Prev</button>
+    <span class="page-of">
+      <label for="page-input">Page</label>
+      <input type="number" id="page-input" min="1" value="1" inputmode="numeric" />
+      <span>of <span id="page-total">1</span></span>
+    </span>
+    <button type="button" class="btn" id="next">Next →</button>
+    <button type="button" class="btn" id="last" aria-label="Last page">»</button>
+  </nav>
 </main>
 
-<footer>
-  Data: <a href="https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json">all.json</a> ·
-  Sources: <a href="https://www.techstars.com/portfolio">Techstars</a>,
-  <a href="https://www.ycombinator.com/companies">Y Combinator</a>,
-  <a href="https://www.antler.co/portfolio">Antler</a>,
-  <a href="https://500.co/portfolio">500 Global</a>,
-  <a href="https://www.joinef.com/portfolio/">Entrepreneur First</a>,
-  <a href="https://www.alchemistaccelerator.com/portfolio">Alchemist</a>,
-  <a href="https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups">Plug and Play</a> ·
-  Not affiliated with any of them.
+<footer class="wrap">
+  <p>
+    <span id="updated"></span>
+    Data: <a href="https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/meta.json">API catalog</a> ·
+    Sources: <a href="https://www.techstars.com/portfolio">Techstars</a>,
+    <a href="https://www.ycombinator.com/companies">Y Combinator</a>,
+    <a href="https://www.antler.co/portfolio">Antler</a>,
+    <a href="https://500.co/portfolio">500 Global</a>,
+    <a href="https://www.joinef.com/portfolio/">Entrepreneur First</a>,
+    <a href="https://www.alchemistaccelerator.com/portfolio">Alchemist</a>,
+    <a href="https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups">Plug and Play</a> ·
+    Not affiliated with any of them.
+  </p>
 </footer>
-
-<script>
-const CDN = "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data";
-// Fallback if jsDelivr is cold/lagging — raw GitHub is immediate for public repos.
-const RAW = "https://raw.githubusercontent.com/yigitmeteozcan/startups/main/data";
-const PER_PAGE = 30;
-
-let companies = [], filtered = [], page = 0;
-let selected = new Set(); // stores company names as unique keys
-const flags = { isUnicorn: false, isExit: false, isBCorp: false };
-
-const $ = id => document.getElementById(id);
-const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const uid = c => c.name + "||" + (c.website || "");
-
-// ── Load ────────────────────────────────────────────────────────────────────
-// Load straight from GitHub first (updates within minutes of a data push, no
-// CDN cache to purge); fall back to the jsDelivr CDN if raw GitHub is rate-
-// limited or unreachable. A cache-busting param avoids any browser/proxy cache.
-async function getJson(file) {
-  const bust = `?t=${Date.now()}`;
-  for (const base of [RAW, CDN]) {
-    try {
-      const r = await fetch(`${base}/${file}${bust}`, { cache: "no-store" });
-      if (r.ok) return await r.json();
-    } catch (_) { /* try next base */ }
-  }
-  throw new Error(`Could not load ${file} from GitHub or jsDelivr.`);
-}
-
-async function load() {
-  try {
-    const [all, stats] = await Promise.all([
-      getJson("all.json"),
-      getJson("stats.json").catch(() => null),
-    ]);
-    companies = all;
-    renderStats(stats);
-    buildFilters();
-    apply();
-  } catch (err) {
-    $("list").innerHTML =
-      `<div class="loading">Couldn't load the dataset.<br><small>${esc(err.message)} ` +
-      `If the repo was just made public, jsDelivr can take a few minutes — try a hard refresh.</small></div>`;
-  }
-}
-
-function renderStats(s) {
-  const n = x => Number(x ?? 0).toLocaleString();
-  const stat = (val, label) => `<div class="stat"><b>${n(val)}</b><span>${label}</span></div>`;
-  $("stats").innerHTML =
-    stat(s?.total ?? companies.length, "companies") +
-    stat(s?.unicorns ?? companies.filter(c=>c.isUnicorn).length, "🦄 unicorns") +
-    stat(s?.exits ?? companies.filter(c=>c.isExit).length, "💰 exits") +
-    stat(s?.bCorps ?? companies.filter(c=>c.isBCorp).length, "🌱 B corps");
-}
-
-// ── Filters ──────────────────────────────────────────────────────────────────
-function uniq(fn, numeric) {
-  const s = new Set();
-  for (const c of companies) for (const v of [].concat(fn(c)).filter(Boolean)) s.add(v);
-  const a = [...s];
-  return a.sort(numeric ? (a,b) => b-a : (a,b) => String(a).localeCompare(String(b)));
-}
-
-function buildFilters() {
-  for (const s of uniq(c => c.source)) $("source").insertAdjacentHTML("beforeend",`<option>${esc(s)}</option>`);
-  for (const r of uniq(c => c.region)) $("region").insertAdjacentHTML("beforeend",`<option>${esc(r)}</option>`);
-  // Year range: oldest → newest, shared by both the "from" and "to" selects.
-  const years = uniq(c => c.year, true).filter(y => /^\d{4}$/.test(String(y))).sort((a,b)=>a-b);
-  for (const y of years) {
-    $("yearFrom").insertAdjacentHTML("beforeend",`<option>${esc(y)}</option>`);
-    $("yearTo").insertAdjacentHTML("beforeend",`<option>${esc(y)}</option>`);
-  }
-  for (const t of uniq(c => c.tags)) $("industry").insertAdjacentHTML("beforeend",`<option>${esc(t)}</option>`);
-}
-
-function apply() {
-  const q = $("q").value.trim().toLowerCase();
-  const source = $("source").value, region = $("region").value, industry = $("industry").value;
-  const from = parseInt($("yearFrom").value, 10), to = parseInt($("yearTo").value, 10);
-  filtered = companies.filter(c => {
-    if (q && !(`${c.name} ${c.description}`.toLowerCase().includes(q))) return false;
-    if (source && c.source !== source) return false;
-    if (region && c.region !== region) return false;
-    // Year range. Companies without a year are excluded once a bound is set.
-    if (!Number.isNaN(from) || !Number.isNaN(to)) {
-      const y = parseInt(c.year, 10);
-      if (Number.isNaN(y)) return false;
-      if (!Number.isNaN(from) && y < from) return false;
-      if (!Number.isNaN(to) && y > to) return false;
-    }
-    if (industry && !(c.tags||[]).includes(industry)) return false;
-    for (const f in flags) if (flags[f] && !c[f]) return false;
-    return true;
-  });
-  sortFiltered();
-  page = 0;
-  render();
-}
-
-function sortFiltered() {
-  const mode = $("sort").value;
-  if (!mode) return;
-  const yr = c => { const y = parseInt(c.year, 10); return Number.isNaN(y) ? null : y; };
-  const byName = (a,b) => String(a.name||"").localeCompare(String(b.name||""), undefined, { sensitivity:"base" });
-  // Undated companies always sink to the bottom, in both sort directions.
-  const byYear = dir => (a,b) => {
-    const ya = yr(a), yb = yr(b);
-    if (ya === null && yb === null) return 0;
-    if (ya === null) return 1;
-    if (yb === null) return -1;
-    return dir * (ya - yb);
-  };
-  if (mode === "name-asc")  filtered.sort(byName);
-  if (mode === "name-desc") filtered.sort((a,b) => byName(b,a));
-  if (mode === "year-asc")  filtered.sort(byYear(1));
-  if (mode === "year-desc") filtered.sort(byYear(-1));
-}
-
-// ── Render ────────────────────────────────────────────────────────────────────
-function render() {
-  const start = page * PER_PAGE;
-  const slice = filtered.slice(start, start + PER_PAGE);
-
-  $("list").innerHTML = slice.length
-    ? slice.map(card).join("")
-    : `<div class="loading">No matches.</div>`;
-
-  // bind card checkboxes
-  for (const cb of document.querySelectorAll(".card-cb")) {
-    cb.addEventListener("change", e => {
-      const key = e.target.dataset.key;
-      if (e.target.checked) selected.add(key); else selected.delete(key);
-      updateCard(key, e.target.checked);
-      syncPageCheckbox(slice);
-      updateToolbar();
-    });
-    // set initial state
-    const card = cb.closest(".card");
-    if (selected.has(cb.dataset.key)) { cb.checked = true; card.classList.add("selected"); }
-  }
-
-  renderPager();
-  syncPageCheckbox(slice);
-  updateToolbar();
-  window.scrollTo({ top: 0 });
-}
-
-function card(c) {
-  const key = esc(uid(c));
-  const init = esc((c.name||"?").slice(0,2).toUpperCase());
-  const logo = c.logo
-    ? `<img class="logo" src="${esc(c.logo)}" alt="" loading="lazy" onerror="this.outerHTML='<div class=&quot;logo ph&quot;>${init}</div>'" />`
-    : `<div class="logo ph">${init}</div>`;
-  const badges = [
-    c.isUnicorn ? `<span class="badge b-uni">🦄 Unicorn</span>` : "",
-    c.isExit    ? `<span class="badge b-exit">💰 Exit</span>`    : "",
-    c.isBCorp   ? `<span class="badge b-bcorp">🌱 B Corp</span>` : "",
-  ].join("");
-  const tags = (c.tags||[]).slice(0,3).map(t=>`<span class="chip">${esc(t)}</span>`).join("");
-  const soc = c.social||{};
-  const lnk = (url,label) => url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${label}</a>` : "";
-  const social = [lnk(soc.linkedin,"in"), lnk(soc.twitter,"𝕏"), lnk(soc.crunchbase,"cb")].filter(Boolean).join(" · ");
-  const title = c.website ? `<a href="${esc(c.website)}" target="_blank" rel="noopener">${esc(c.name)}</a>` : esc(c.name);
-  const founders = (c.founders||[]).map(f => {
-    const label = (f.role ? `${f.role}: ` : "") + (f.name||"");
-    return f.linkedin
-      ? `<a href="${esc(f.linkedin)}" target="_blank" rel="noopener">${esc(label)}</a>`
-      : esc(label);
-  }).filter(Boolean).join(" · ");
-  return `<div class="card" data-key="${key}">
-    <input type="checkbox" class="card-cb" data-key="${key}" />
-    ${logo}
-    <div class="body">
-      <div class="name">${title} ${badges}</div>
-      <div class="desc">${esc(c.description)}</div>
-      ${founders ? `<div class="founders">👤 ${founders}</div>` : ""}
-      <div class="meta">
-        ${c.source ? `<span class="chip chip-src">${esc(c.source)}</span>` : ""}
-        ${c.location ? `<span>📍 ${esc(c.location)}</span>` : ""}
-        ${c.year ? `<span class="chip">${esc(c.year)}</span>` : ""}
-        ${c.program ? `<span class="chip">${esc(c.program)}</span>` : ""}
-        ${tags}
-        ${social ? `<span style="margin-left:4px">${social}</span>` : ""}
-      </div>
-    </div>
-  </div>`;
-}
-
-function updateCard(key, sel) {
-  const card = document.querySelector(`.card[data-key="${CSS.escape(key)}"]`);
-  if (card) card.classList.toggle("selected", sel);
-}
-
-// ── Select all (page) checkbox ─────────────────────────────────────────────
-function syncPageCheckbox(slice) {
-  const all = slice.every(c => selected.has(uid(c)));
-  const some = slice.some(c => selected.has(uid(c)));
-  const cb = $("cb-all");
-  cb.checked = all && slice.length > 0;
-  cb.indeterminate = some && !all;
-}
-
-$("cb-all").addEventListener("change", e => {
-  const start = page * PER_PAGE;
-  const slice = filtered.slice(start, start + PER_PAGE);
-  for (const c of slice) {
-    if (e.target.checked) selected.add(uid(c)); else selected.delete(uid(c));
-  }
-  render();
-});
-
-// ── Toolbar ───────────────────────────────────────────────────────────────────
-function updateToolbar() {
-  const n = selected.size;
-  const src = n > 0 ? n + " selected" : "all filtered (" + filtered.length.toLocaleString() + ")";
-  $("sel-label").innerHTML = n > 0
-    ? `<b>${n}</b> compan${n===1?"y":"ies"} selected`
-    : `Select all on page`;
-  $("count-badge").textContent = filtered.length.toLocaleString() + " companies shown";
-  const hasData = n > 0 || filtered.length > 0;
-  $("btn-csv").disabled = !hasData;
-  $("btn-xl").disabled  = !hasData;
-  $("btn-clear").disabled = n === 0;
-}
-
-$("btn-clear").addEventListener("click", () => { selected.clear(); render(); });
-
-// ── Export helpers ────────────────────────────────────────────────────────────
-function exportData() {
-  // If any are selected, export those; otherwise export all filtered.
-  if (selected.size > 0) {
-    const keys = selected;
-    return companies.filter(c => keys.has(uid(c)));
-  }
-  return filtered;
-}
-
-function toRows(data) {
-  return data.map(c => ({
-    Source: c.source || "",
-    Name: c.name || "",
-    Description: c.description || "",
-    Website: c.website || "",
-    Location: c.location || "",
-    Region: c.region || "",
-    Subregion: c.subregion || "",
-    Industries: (c.tags||[]).join("; "),
-    Year: c.year || "",
-    Program: c.program || "",
-    Founders: (c.founders||[]).map(f => f.role ? `${f.name} (${f.role})` : f.name).filter(Boolean).join("; "),
-    IsExit: c.isExit ? "Yes" : "No",
-    IsUnicorn: c.isUnicorn ? "Yes" : "No",
-    IsBCorp: c.isBCorp ? "Yes" : "No",
-    IsCurrentSession: c.isCurrentSession ? "Yes" : "No",
-    LinkedIn: (c.social||{}).linkedin || "",
-    Twitter: (c.social||{}).twitter || "",
-    Facebook: (c.social||{}).facebook || "",
-    Crunchbase: (c.social||{}).crunchbase || "",
-    Logo: c.logo || "",
-  }));
-}
-
-// CSV export (no dependencies)
-$("btn-csv").addEventListener("click", () => {
-  const rows = toRows(exportData());
-  if (!rows.length) return;
-  const cols = Object.keys(rows[0]);
-  const esc = v => { const s = v == null ? "" : String(v); return /[",\n]/.test(s) ? `"${s.replace(/"/g,'""')}"` : s; };
-  const csv = [cols.join(","), ...rows.map(r => cols.map(c => esc(r[c])).join(","))].join("\n");
-  download(new Blob([csv], { type: "text/csv" }), `startups-${label()}.csv`);
-});
-
-// Excel export (SheetJS)
-$("btn-xl").addEventListener("click", () => {
-  const rows = toRows(exportData());
-  if (!rows.length) return;
-  const wb = XLSX.utils.book_new();
-  const ws = XLSX.utils.json_to_sheet(rows);
-  // freeze header row, set column widths
-  ws["!freeze"] = { xSplit: 0, ySplit: 1 };
-  ws["!cols"] = [12,30,60,30,30,15,18,40,8,50,8,10,8,15,35,35,35,35,35].map(w => ({ wch: w }));
-  XLSX.utils.book_append_sheet(wb, ws, "Startups");
-  XLSX.writeFile(wb, `startups-${label()}.xlsx`);
-});
-
-function label() {
-  const q = $("q").value.trim();
-  const s = $("source").value, r = $("region").value, i = $("industry").value;
-  const from = $("yearFrom").value, to = $("yearTo").value;
-  const yr = (from || to) ? `${from||"all"}-${to||"now"}` : "";
-  const parts = [q,s,r,yr,i].filter(Boolean);
-  return parts.length ? parts.join("-").toLowerCase().replace(/[^a-z0-9-]/g,"-") : "portfolio";
-}
-
-function download(blob, name) {
-  const a = document.createElement("a");
-  a.href = URL.createObjectURL(blob);
-  a.download = name;
-  a.click();
-  URL.revokeObjectURL(a.href);
-}
-
-// ── Pagination ─────────────────────────────────────────────────────────────────
-function renderPager() {
-  const pages = Math.ceil(filtered.length / PER_PAGE) || 1;
-  $("pager").innerHTML = `
-    <button id="prev" ${page===0?"disabled":""}>← Prev</button>
-    <span style="color:var(--muted);font-size:13px">Page ${page+1} of ${pages}</span>
-    <button id="next" ${page>=pages-1?"disabled":""}>Next →</button>`;
-  $("prev")?.addEventListener("click", ()=>{ page--; render(); });
-  $("next")?.addEventListener("click", ()=>{ page++; render(); });
-}
-
-// ── Event wiring ──────────────────────────────────────────────────────────────
-let t;
-$("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(apply, 150); });
-["source","region","yearFrom","yearTo","industry","sort"].forEach(id => $(id).addEventListener("change", apply));
-document.querySelectorAll(".toggle").forEach(btn => btn.addEventListener("click", () => {
-  const f = btn.dataset.flag;
-  flags[f] = !flags[f];
-  btn.classList.toggle("on", flags[f]);
-  apply();
-}));
-
-load().catch(err => {
-  $("list").innerHTML = `<div class="loading">Failed to load: ${esc(err.message)}</div>`;
-});
-</script>
 </body>
 </html>
