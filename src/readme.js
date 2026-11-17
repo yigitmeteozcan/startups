@@ -23,6 +23,7 @@ function renderReadme(meta, stats) {
   });
   const tIndustry = collectionTable(meta, 'by-industry', 'Industry');
   const tRegion = collectionTable(meta, 'by-region', 'Region');
+  const tCountry = collectionTable(meta, 'by-country', 'Country');
   const tProgram = collectionTable(meta, 'by-program', 'Program');
 
   const sources = meta.sources || [];
@@ -36,6 +37,19 @@ function renderReadme(meta, stats) {
   const cYear = (meta.collections['by-year'] || []).length;
   const cIndustry = (meta.collections['by-industry'] || []).length;
   const cRegion = (meta.collections['by-region'] || []).length;
+  const cCountry = (meta.collections['by-country'] || []).length;
+  const freshness = sources.length
+    ? '| Source | Companies | Status | Last live fetch |\n|---|---|---|---|\n' +
+      sources
+        .slice()
+        .sort((a, b) => b.count - a.count)
+        .map((s) => {
+          const label = s.status === 'live' ? '✅ live' : s.status === 'failed' ? '❌ failed' : '⚠️ cached';
+          const when = s.lastLiveFetch ? s.lastLiveFetch.slice(0, 10) : 'unknown';
+          return `| [${s.label || s.name}](${s.site}) | ${n(s.count)} | ${label} | ${when} |`;
+        })
+        .join('\n')
+    : '';
   const cProgram = (meta.collections['by-program'] || []).length;
 
   return `# Startup Portfolios API
@@ -48,7 +62,7 @@ The open API for every company across multiple startup portfolios — [Techstars
 [![updated](https://img.shields.io/badge/dynamic/json?url=${B}/stats.json&query=$.generatedAt&label=updated)](STATS.md)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-**[🔎 Live explorer →](https://yigitmeteozcan.github.io/startups/)** · search, filter (by source, region, industry, year range), sort, and export all ${n(stats.total)} companies in your browser.
+**[🔎 Live explorer →](https://yigitmeteozcan.github.io/startups/)** · search (names, descriptions, founders, industries), filter (by source, country, region, industry, year range), sort, share a filtered view by link, and export all ${n(stats.total)} companies in your browser.
 
 ## ℹ️ Metadata
 
@@ -57,8 +71,10 @@ The open API for every company across multiple startup portfolios — [Techstars
 - **${n(stats.total)}** companies across **${sources.length}** portfolio sources
 - **${cProgram}** accelerator programs / cohorts
 - **${cIndustry}** industry verticals
-- **${cRegion}** world regions, across **${cYear}** cohort years
-- 🦄 **${stats.unicorns}** unicorns · 💰 **${stats.exits}** exits · 🌱 **${stats.bCorps}** B Corps
+- **${cCountry}** countries · **${cRegion}** world regions, across **${cYear}** cohort years
+- 🦄 **${stats.unicorns}** unicorns · 💰 **${stats.exits}** exits · 🌱 **${stats.bCorps}** B Corps · 👤 **${n(stats.founders)}** founder profiles
+
+${freshness ? `### Source freshness\n\n${freshness}\n\n_"cached" means the last live fetch failed or looked broken, so the previously committed records were kept rather than dropped._` : ''}
 
 ## 🚀 Quick start
 
@@ -157,6 +173,15 @@ ${tRegion}
 
 </details>
 
+### 🗺️ By country
+
+<details>
+<summary>${cCountry} countries — <a href="${B}/by-country/index.json">index.json</a></summary>
+
+${tCountry}
+
+</details>
+
 ### 🏷️ By program
 
 <details>
@@ -174,12 +199,14 @@ Each company is an object with the following fields:
 
 | Field | Type | Description |
 |---|---|---|
+| \`id\` | string | Stable unique id, e.g. \`yc-airbnb\` |
 | \`source\` | string | Portfolio source (\`techstars\`, \`yc\`, \`antler\`, \`500\`, \`ef\`, \`alchemist\`, \`plugandplay\`) |
 | \`name\` | string | Company name |
 | \`description\` | string | Short description |
 | \`website\` | string | Company website URL |
 | \`logo\` | string | Logo image URL |
 | \`location\` | string | \`City, State, Country\` |
+| \`country\` | string | Normalized country name (e.g. \`USA\` → \`United States\`) |
 | \`region\` | string | World region (e.g. Americas) |
 | \`subregion\` | string | World subregion (e.g. North America) |
 | \`tags\` | string[] | Industry verticals / tags |
@@ -192,7 +219,10 @@ Each company is an object with the following fields:
 | \`isBCorp\` | boolean | Certified B Corp |
 | \`isCurrentSession\` | boolean | In the current session |
 | \`social\` | object | \`linkedin\`, \`twitter\`, \`facebook\`, \`crunchbase\` URLs |
+| \`alsoIn\` | string[] | Other portfolios the same company (same website) is in |
 | \`extra\` | object | Selected raw source fields (\`city\`, \`state_province\`, \`country\`, \`investor\`) |
+
+> **CSV note:** \`all.csv\` keeps its original 22 columns in the same order and appends \`id\`, \`location\`, \`founder_roles\`, \`founder_linkedins\`, \`investor\` and \`also_in\`. Cells that would start with \`=\`, \`+\`, \`-\` or \`@\` are prefixed with \`'\` so spreadsheet apps don't run them as formulas; the JSON is never altered.
 
 ### Example
 
@@ -226,26 +256,55 @@ See **[STATS.md](STATS.md)** for charts — companies per year, top countries an
 
 ## 🔄 How it stays fresh
 
-A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, 500 Global, Entrepreneur First, Alchemist, and Plug and Play from their public JSON endpoints, and Antler via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result. If a source is briefly unreachable, its previously committed records are kept so a transient failure never drops it from the dataset. So the data here tracks the live portfolios without any manual work.
+A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, 500 Global, Entrepreneur First, Alchemist, and Plug and Play from their public JSON endpoints, and Antler via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result.
+
+Guard rails keep a bad scrape from damaging the data:
+
+- **Junk filter** — records without a name plus at least one real attribute are rejected.
+- **Shrink guard** — if a source suddenly returns far fewer companies than are already committed (below 80%), the live result is treated as broken and the committed records are kept.
+- **Fallback** — any source that fails keeps its previously committed records, and the table above shows it as "cached".
+- **Alerting** — the job fails (and GitHub emails the owner) when a source has not been fetched live for 3+ days.
 
 ## 🛠️ Run it yourself
 
 \`\`\`bash
-npm install
-npm run install:browsers
-npm run build:data        # rebuild data/ + README locally
-
-npm start                 # REST API
-#   GET /portfolio          all companies (paginated, filterable)
-#   GET /portfolio.xlsx     download as Excel
-#   GET /portfolio/:name    lookup by name
-
-npm run export            # one-off Excel export
+npm ci
+npm run install:browsers  # Chromium, for the browser-based sources
+npm run fetch:data        # fetch every source live and rebuild data/ + README
+npm run rebuild           # re-render data/ from the committed all.json (no network)
+npm test                  # run the test suite
 \`\`\`
+
+\`npm run build:data\` is an alias of \`fetch:data\`. Set \`TYPESENSE_API_KEY\` for the fast Techstars path; without it Techstars is scraped in a headless browser (which captures the public search key itself).
+
+If a source is ever wiped by a bad upstream change, restore it from any earlier commit:
+
+\`\`\`bash
+npm run restore -- plugandplay <commit-sha>
+\`\`\`
+
+### REST API server
+
+\`\`\`bash
+npm start                 # http://localhost:3000
+\`\`\`
+
+Serves the full multi-source dataset from \`data/all.json\` (or from \`DATA_URL\`, e.g. the CDN, if set):
+
+| Endpoint | Description |
+|---|---|
+| \`GET /portfolio\` | Companies, paginated (\`page\`, \`limit\` ≤ 500) and filterable: \`search\`, \`source\`, \`industry\`, \`tag\`, \`country\`, \`region\`, \`location\`, \`program\`, \`year\`, \`yearFrom\`, \`yearTo\`, \`unicorn\`, \`exit\`, \`bcorp\`, \`current\`, \`hasFounders\`, \`sort\` (\`name-asc\`, \`name-desc\`, \`year-asc\`, \`year-desc\`) |
+| \`GET /portfolio.csv\` / \`GET /portfolio.xlsx\` | Same filters, as a download |
+| \`GET /portfolio/:idOrName\` | One company by id (\`yc-airbnb\`) or name |
+| \`GET /facets\` | Every filter value with counts |
+| \`GET /stats\`, \`GET /meta\`, \`GET /sources\`, \`GET /health\` | Stats, endpoint catalog, source freshness, health |
+| \`DELETE /cache\`, \`POST /admin/rebuild\` | Admin only: \`Authorization: Bearer $ADMIN_TOKEN\` (or localhost when no token is set) |
+
+\`npm run export -- [file.xlsx] [--source=yc] [--live]\` writes an Excel file of the dataset (\`--live\` re-scrapes Techstars first).
 
 ## 📄 License
 
-[MIT](LICENSE). Data is sourced from the public Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, and Plug and Play portfolios; please respect each provider's terms when using it. This project is not affiliated with or endorsed by any of them.
+The code is [MIT](LICENSE)-licensed. The data is sourced from the public Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, and Plug and Play portfolios and remains subject to each provider's terms — the MIT license covers the code, not their data. This project is not affiliated with or endorsed by any of them. To request a correction to a company or founder record, [open an issue](https://github.com/yigitmeteozcan/startups/issues/new?template=data-issue.md).
 `;
 }
 

@@ -1,33 +1,54 @@
 const ExcelJS = require('exceljs');
 
+// XML 1.0 forbids most control characters; one stray \x0B in a scraped
+// description makes Excel report the whole file as corrupt.
+const XML_INVALID = /[\u0000-\u0008\u000B\u000C\u000E-\u001F\uFFFE\uFFFF]/g;
+// Excel's hard limit for a single cell.
+const MAX_CELL = 32767;
+
+function text(v) {
+  const s = v == null ? '' : String(v).replace(XML_INVALID, '');
+  return s.length > MAX_CELL ? s.slice(0, MAX_CELL) : s;
+}
+
+const yesNo = (b) => (b ? 'Yes' : 'No');
+
 // Flatten a normalized company into a single spreadsheet row.
 function toRow(c) {
   const d = c.extra || {};
+  const founders = (c.founders || []).filter((f) => f && f.name);
   return {
-    name: c.name || '',
-    description: c.description || '',
-    website: c.website || '',
-    city: d.city || '',
-    state: d.state_province || '',
-    country: d.country || '',
-    region: c.region || '',
-    subregion: c.subregion || '',
-    tags: (c.tags || []).join(', '),
+    source: text(c.source),
+    name: text(c.name),
+    description: text(c.description),
+    website: text(c.website),
+    city: text(d.city),
+    state: text(d.state_province),
+    country: text(c.country || d.country),
+    region: text(c.region),
+    subregion: text(c.subregion),
+    tags: text((c.tags || []).join(', ')),
     year: c.year || '',
-    program: c.program || '',
-    isExit: c.isExit ? 'Yes' : 'No',
-    isUnicorn: c.isUnicorn ? 'Yes' : 'No',
-    isBCorp: c.isBCorp ? 'Yes' : 'No',
-    isCurrentSession: c.isCurrentSession ? 'Yes' : 'No',
-    linkedin: c.social?.linkedin || '',
-    twitter: c.social?.twitter || '',
-    facebook: c.social?.facebook || '',
-    crunchbase: c.social?.crunchbase || '',
-    logo: c.logo || '',
+    program: text(c.program),
+    founders: text(founders.map((f) => (f.role ? `${f.name} (${f.role})` : f.name)).join('; ')),
+    founderLinkedins: text(founders.map((f) => f.linkedin).filter(Boolean).join('; ')),
+    investor: text(d.investor),
+    isExit: yesNo(c.isExit),
+    isUnicorn: yesNo(c.isUnicorn),
+    isBCorp: yesNo(c.isBCorp),
+    isCurrentSession: yesNo(c.isCurrentSession),
+    linkedin: text(c.social?.linkedin),
+    twitter: text(c.social?.twitter),
+    facebook: text(c.social?.facebook),
+    crunchbase: text(c.social?.crunchbase),
+    logo: text(c.logo),
+    alsoIn: text((c.alsoIn || []).join(', ')),
+    id: text(c.id),
   };
 }
 
 const COLUMNS = [
+  { header: 'Source', key: 'source', width: 12 },
   { header: 'Company', key: 'name', width: 30 },
   { header: 'Description', key: 'description', width: 60 },
   { header: 'Website', key: 'website', width: 30 },
@@ -39,6 +60,9 @@ const COLUMNS = [
   { header: 'Industry/Tags', key: 'tags', width: 35 },
   { header: 'Year', key: 'year', width: 8 },
   { header: 'Program', key: 'program', width: 35 },
+  { header: 'Founders', key: 'founders', width: 40 },
+  { header: 'Founder LinkedIn', key: 'founderLinkedins', width: 45 },
+  { header: 'Investor / Acquirer', key: 'investor', width: 25 },
   { header: 'Exit?', key: 'isExit', width: 8 },
   { header: 'Unicorn ($1B)?', key: 'isUnicorn', width: 14 },
   { header: 'B Corp?', key: 'isBCorp', width: 10 },
@@ -48,12 +72,14 @@ const COLUMNS = [
   { header: 'Facebook', key: 'facebook', width: 35 },
   { header: 'Crunchbase', key: 'crunchbase', width: 40 },
   { header: 'Logo URL', key: 'logo', width: 50 },
+  { header: 'Also In', key: 'alsoIn', width: 16 },
+  { header: 'ID', key: 'id', width: 30 },
 ];
 
 // Build an ExcelJS workbook from a list of normalized companies.
 function buildWorkbook(companies) {
   const workbook = new ExcelJS.Workbook();
-  workbook.creator = 'techstars-portfolio-api';
+  workbook.creator = 'startup-portfolios-api';
   workbook.created = new Date();
 
   const sheet = workbook.addWorksheet('Portfolio', {
@@ -82,4 +108,4 @@ function buildWorkbook(companies) {
   return workbook;
 }
 
-module.exports = { buildWorkbook };
+module.exports = { buildWorkbook, toRow, COLUMNS };
