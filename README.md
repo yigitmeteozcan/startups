@@ -1,14 +1,44 @@
-# Startup Portfolios API
+<h1 align="center">Startup Portfolios API</h1>
 
-The open API for every company across multiple startup portfolios — [Techstars](https://www.techstars.com/portfolio), [Y Combinator](https://www.ycombinator.com/companies), [Antler](https://www.antler.co/portfolio), [500 Global](https://500.co/portfolio), [Entrepreneur First](https://www.joinef.com/portfolio/), [Alchemist](https://www.alchemistaccelerator.com/portfolio), and [Plug and Play](https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups). Every record carries a `source` field, so you can query one combined dataset or filter to a single program. The data is refreshed automatically every day and served as static JSON, CSV, and XLSX over the jsDelivr CDN — no key, no rate limits, no setup.
+<p align="center">
+  <b>The free, open API for 21,399 startups funded by the world's top accelerators.</b><br>
+  Y Combinator · Techstars · 500 Global · Antler · Plug and Play · Entrepreneur First · Alchemist<br>
+  JSON, CSV and Excel — with founders, industries, countries and exits. Refreshed daily. No key, no rate limits.
+</p>
 
-**Sources:** [yc](https://www.ycombinator.com/companies) (6,398) · [plugandplay](https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups) (5,508) · [techstars](https://www.techstars.com/portfolio) (5,105) · [500](https://500.co/portfolio) (2,243) · [antler](https://www.antler.co/portfolio) (1,086) · [ef](https://www.joinef.com/portfolio/) (545) · [alchemist](https://www.alchemistaccelerator.com/portfolio) (514)
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json"><img alt="companies" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fyigitmeteozcan%2Fstartups%40main%2Fdata%2Fstats.json&query=%24.total&label=companies&color=blue"></a>
+  <a href="https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json"><img alt="founders" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fyigitmeteozcan%2Fstartups%40main%2Fdata%2Fstats.json&query=%24.founders&label=founders&color=blueviolet"></a>
+  <a href="STATS.md"><img alt="updated" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fyigitmeteozcan%2Fstartups%40main%2Fdata%2Fstats.json&query=%24.generatedAt&label=updated&color=informational"></a>
+  <a href="https://github.com/yigitmeteozcan/startups/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/yigitmeteozcan/startups?style=flat&color=yellow"></a>
+  <a href="https://github.com/yigitmeteozcan/startups/actions/workflows/test.yml"><img alt="Tests" src="https://github.com/yigitmeteozcan/startups/actions/workflows/test.yml/badge.svg"></a>
+  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-green"></a>
+</p>
 
-[![companies](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/stats.json&query=$.total&label=companies&color=blue)](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json)
-[![updated](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/stats.json&query=$.generatedAt&label=updated)](STATS.md)
-[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+<p align="center">
+  <a href="https://yigitmeteozcan.github.io/startups/"><b>🔎 Open the live explorer</b></a> ·
+  <a href="#-quick-start">Quick start</a> ·
+  <a href="#-apis">All endpoints</a> ·
+  <a href="#-schema">Schema</a> ·
+  <a href="#rest-api-server">REST server</a>
+</p>
 
-**[🔎 Live explorer →](https://yigitmeteozcan.github.io/startups/)** · search (names, descriptions, founders, industries), filter (by source, country, region, industry, year range), sort, share a filtered view by link, and export all 21,399 companies in your browser.
+<p align="center">
+  <a href="https://yigitmeteozcan.github.io/startups/"><img src="docs/screenshot.png" alt="Startup Portfolios Explorer — search, filter and export every accelerator-backed startup" width="860"></a>
+</p>
+
+> ⭐ **Find this useful? [Star the repo](https://github.com/yigitmeteozcan/startups)** — it's how other founders, investors and researchers discover it.
+
+## ✨ Why this exists
+
+Accelerator portfolios are scattered across seven different websites, each with its own format, filters and gaps. This project pulls them all into **one clean, consistent dataset** every day and serves it as static files on a CDN, so you can:
+
+- **Build lead lists** — every YC, Techstars or Antler company in a country or industry, with founder names and LinkedIn profiles.
+- **Research markets and investors** — which accelerators back which sectors, how cohorts have shifted year by year, who exited.
+- **Ship apps and dashboards** — a free, stable JSON API with no key, no rate limits and no scraping on your side.
+- **Train and evaluate models** — a labelled dataset of real companies with descriptions, industries and outcomes (companies in several portfolios are linked via `alsoIn`).
+
+**Sources:** [Y Combinator](https://www.ycombinator.com/companies) (6,398) · [Plug and Play](https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups) (5,508) · [Techstars](https://www.techstars.com/portfolio) (5,105) · [500 Global](https://500.co/portfolio) (2,243) · [Antler](https://www.antler.co/portfolio) (1,086) · [Entrepreneur First](https://www.joinef.com/portfolio/) (545) · [Alchemist](https://www.alchemistaccelerator.com/portfolio) (514)
 
 ## ℹ️ Metadata
 
@@ -18,7 +48,7 @@ The open API for every company across multiple startup portfolios — [Techstars
 - **342** accelerator programs / cohorts
 - **462** industry verticals
 - **119** countries · **104** world regions, across **23** cohort years
-- 🦄 **156** unicorns · 💰 **2804** exits · 🌱 **29** B Corps · 👤 **7,346** founder profiles
+- 🦄 **156** unicorns · 💰 **2,804** exits · 🌱 **29** B Corps · 👤 **7,346** founder profiles
 
 ### Source freshness
 
@@ -68,6 +98,13 @@ fintech = [c for c in unicorns if "Fintech" in c["tags"]]
 # Every company from a single program
 boulder = requests.get(f"{base}/by-program/techstars-boulder-accelerator.json").json()
 
+# Founders with LinkedIn profiles, e.g. for outreach
+companies = requests.get(f"{base}/all.json").json()
+founders = [(c["name"], f["name"], f["linkedin"]) for c in companies for f in c["founders"] if f["linkedin"]]
+
+# Every startup in one country
+germany = requests.get(f"{base}/by-country/germany.json").json()
+
 # Discover every endpoint and its count
 meta = requests.get(f"{base}/meta.json").json()
 print(meta["collections"]["by-industry"][:3])
@@ -87,7 +124,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/
 |---|---|
 | All companies | [`all.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json) |
 | All companies (CSV) | [`all.csv`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.csv) |
-| All companies (Excel) | [`all.xlsx`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx) |
+| All companies (Excel, refreshed weekly) | [`all.xlsx`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx) |
 | Unicorns (valued $1B+) | [`unicorns.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/unicorns.json) |
 | Exited companies | [`exits.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/exits.json) |
 | Certified B Corps | [`b-corps.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/b-corps.json) |
@@ -1322,6 +1359,14 @@ Serves the full multi-source dataset from `data/all.json` (or from `DATA_URL`, e
 | `DELETE /cache`, `POST /admin/rebuild` | Admin only: `Authorization: Bearer $ADMIN_TOKEN` (or localhost when no token is set) |
 
 `npm run export -- [file.xlsx] [--source=yc] [--live]` writes an Excel file of the dataset (`--live` re-scrapes Techstars first).
+
+## 🤝 Contributing
+
+Spotted a wrong or missing company? [Open a data issue](https://github.com/yigitmeteozcan/startups/issues/new?template=data-issue.md). Want another accelerator added? [Request it](https://github.com/yigitmeteozcan/startups/issues/new?template=feature-request.md). Code contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). If you use the data in research, GitHub's **"Cite this repository"** button gives you a ready-made citation.
+
+## ⭐ Star history
+
+<a href="https://star-history.com/#yigitmeteozcan/startups&Date"><img src="https://api.star-history.com/svg?repos=yigitmeteozcan/startups&type=Date" alt="Star history chart" width="600"></a>
 
 ## 📄 License
 

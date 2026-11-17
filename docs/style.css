@@ -31,7 +31,10 @@ a:hover { text-decoration: underline; }
 /* ── Layout ── */
 .wrap { max-width: 1140px; margin: 0 auto; padding-left: 16px; padding-right: 16px; }
 header.wrap { padding-top: 28px; }
-h1 { font-size: 24px; font-weight: 700; margin-bottom: 4px; }
+h1 { font-size: 24px; font-weight: 700; }
+.title-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 4px; }
+.btn-star { text-decoration: none; }
+.btn-star:hover { text-decoration: none; }
 .sub { color: var(--muted); margin-bottom: 18px; font-size: 14px; }
 main.wrap { padding-bottom: 60px; }
 
