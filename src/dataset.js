@@ -76,6 +76,9 @@ const CSV_COLUMNS = [
   ['founder_linkedins', (c) => (c.founders || []).filter((f) => f.name).map((f) => f.linkedin || '').join('; ')],
   ['investor', (c) => c.extra?.investor || ''],
   ['also_in', (c) => (c.alsoIn || []).join('; ')],
+  ['listed', (c) => c.listed !== false],
+  ['delisted_at', (c) => (c.listed === false ? c.delistedAt || '' : '')],
+  ['former_names', (c) => (c.formerNames || []).join('; ')],
 ];
 
 function toCsv(companies) {
@@ -103,6 +106,7 @@ function computeStats(companies) {
     exits: companies.filter((c) => c.isExit).length,
     bCorps: companies.filter((c) => c.isBCorp).length,
     currentSession: companies.filter((c) => c.isCurrentSession).length,
+    delisted: companies.filter((c) => c.listed === false).length,
     founders: companies.reduce((n, c) => n + (c.founders || []).length, 0),
     byYear: Object.fromEntries(countBy(companies, (c) => c.year).sort((a, b) => a[0] - b[0])),
     topCountries: countBy(companies, (c) => c.country || c.extra?.country).slice(0, 15),

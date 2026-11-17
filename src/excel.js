@@ -43,6 +43,7 @@ function toRow(c) {
     crunchbase: text(c.social?.crunchbase),
     logo: text(c.logo),
     alsoIn: text((c.alsoIn || []).join(', ')),
+    listed: c.listed === false ? `No (since ${c.delistedAt || '?'})` : 'Yes',
     id: text(c.id),
   };
 }
@@ -73,6 +74,7 @@ const COLUMNS = [
   { header: 'Crunchbase', key: 'crunchbase', width: 40 },
   { header: 'Logo URL', key: 'logo', width: 50 },
   { header: 'Also In', key: 'alsoIn', width: 16 },
+  { header: 'Still Listed?', key: 'listed', width: 20 },
   { header: 'ID', key: 'id', width: 30 },
 ];
 

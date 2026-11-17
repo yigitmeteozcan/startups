@@ -107,7 +107,7 @@ Accelerator portfolios are scattered across seven different websites, each with 
 - **${cProgram}** accelerator programs / cohorts
 - **${cIndustry}** industry verticals
 - **${cCountry}** countries · **${cRegion}** world regions, across **${cYear}** cohort years
-- 🦄 **${stats.unicorns}** unicorns · 💰 **${n(stats.exits)}** exits · 🌱 **${stats.bCorps}** B Corps · 👤 **${n(stats.founders)}** founder profiles
+- 🦄 **${stats.unicorns}** unicorns · 💰 **${n(stats.exits)}** exits · 🌱 **${stats.bCorps}** B Corps · 👤 **${n(stats.founders)}** founder profiles${stats.delisted ? `\n- 📦 **${n(stats.delisted)}** companies no longer listed by their source are kept (\`listed: false\`) — nothing is ever deleted` : ''}
 
 ${freshness ? `### Source freshness\n\n${freshness}\n\n_"cached" means the last live fetch failed or looked broken, so the previously committed records were kept rather than dropped._` : ''}
 
@@ -262,9 +262,12 @@ Each company is an object with the following fields:
 | \`isCurrentSession\` | boolean | In the current session |
 | \`social\` | object | \`linkedin\`, \`twitter\`, \`facebook\`, \`crunchbase\` URLs |
 | \`alsoIn\` | string[] | Other portfolios the same company (same website) is in |
+| \`listed\` | boolean | Only present (as \`false\`) when the company no longer appears in its source portfolio — it is kept, never deleted |
+| \`formerNames\` | string[] | Previous names, when a company was renamed in its source portfolio (only present if renamed) |
+| \`delistedAt\` | string | Date the company was first missing from its source portfolio (with \`listed: false\`) |
 | \`extra\` | object | Selected raw source fields (\`city\`, \`state_province\`, \`country\`, \`investor\`) |
 
-> **CSV note:** \`all.csv\` keeps its original 22 columns in the same order and appends \`id\`, \`location\`, \`founder_roles\`, \`founder_linkedins\`, \`investor\` and \`also_in\`. Cells that would start with \`=\`, \`+\`, \`-\` or \`@\` are prefixed with \`'\` so spreadsheet apps don't run them as formulas; the JSON is never altered.
+> **CSV note:** \`all.csv\` keeps its original 22 columns in the same order and appends \`id\`, \`location\`, \`founder_roles\`, \`founder_linkedins\`, \`investor\`, \`also_in\`, \`listed\`, \`delisted_at\` and \`former_names\`. Cells that would start with \`=\`, \`+\`, \`-\` or \`@\` are prefixed with \`'\` so spreadsheet apps don't run them as formulas; the JSON is never altered.
 
 ### Example
 
@@ -305,6 +308,7 @@ Guard rails keep a bad scrape from damaging the data:
 - **Junk filter** — records without a name plus at least one real attribute are rejected.
 - **Shrink guard** — if a source suddenly returns far fewer companies than are already committed (below 80%), the live result is treated as broken and the committed records are kept.
 - **Fallback** — any source that fails keeps its previously committed records, and the table above shows it as "cached".
+- **Nothing is deleted** — a company that disappears from its source portfolio stays in the dataset, flagged \`listed: false\` with the date it was first missed.
 - **Alerting** — the job fails (and GitHub emails the owner) on the day a source goes 3+ days without a live fetch, then weekly while it stays that way.
 
 ## 🛠️ Run it yourself

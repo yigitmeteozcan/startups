@@ -86,6 +86,14 @@ function repairFounders(founders, source) {
   return out;
 }
 
+function fixAntlerWebsite(url) {
+  const m = String(url || '').match(/^https?:\/\/(?:www\.)?antler\.co\/(.*)$/i);
+  if (!m) return url || '';
+  const rest = m[1].replace(/[#?].*$/, '');
+  // "www.buildas.io", "buildas.io/path" -> the real site; "portfolio" -> none.
+  return /^[a-z0-9-]+(\.[a-z0-9-]+)+(\/.*)?$/i.test(rest) && /\.[a-z]{2,}(\/|$)/i.test(rest) ? rest : '';
+}
+
 function repairCompany(c) {
   const out = { ...c };
   out.name = collapseSpaces(c.name);
@@ -102,7 +110,15 @@ function repairCompany(c) {
     out.location = '';
   }
 
-  out.website = addHttps(c.website);
+  // Same scrape: the tagline also lands in `location`, and scheme-less links
+  // ("www.buildas.io") were resolved against Antler's own page, giving
+  // "https://www.antler.co/www.buildas.io" (or ".../portfolio#" for none).
+  if (out.source === 'antler') {
+    if (out.location && collapseSpaces(out.location) === collapseSpaces(out.description)) out.location = '';
+    out.website = fixAntlerWebsite(c.website);
+  }
+
+  out.website = addHttps(out.source === 'antler' ? out.website : c.website);
   out.logo = fixLogo(c.logo, c.source);
   const social = c.social || {};
   out.social = {
@@ -233,5 +249,6 @@ module.exports = {
   idSlug,
   slimExtra,
   fixLogo,
+  fixAntlerWebsite,
   SHARED_HOSTS,
 };

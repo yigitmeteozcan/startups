@@ -24,8 +24,10 @@ const { fetch500 } = require('./fivehundred');
 const { fetchEf } = require('./ef');
 const { fetchAlchemist } = require('./alchemist');
 const { fetchPlugAndPlay } = require('./plugandplay');
-const { isPlausibleCompany } = require('../normalize');
+const { isPlausibleCompany, collapseSpaces } = require('../normalize');
 const { withTimeout } = require('../http');
+const { domainOf } = require('../data/unicorns');
+const { SHARED_HOSTS } = require('../finalize');
 
 const DEFAULT_COMMITTED_FILE = path.resolve(__dirname, '../../data/all.json');
 const MIN_RATIO = Number(process.env.SOURCE_MIN_RATIO || 0.8);
@@ -97,6 +99,119 @@ function vetLiveResult(name, fetched, prior, { minRatio = MIN_RATIO } = {}) {
   return { ok: true, companies: valid, junk };
 }
 
+// Nothing is ever deleted: a company that was in the dataset but is missing
+// from today's live fetch (the source took it off its portfolio page, or
+// renamed it) is kept, flagged `listed: false` with the date it was first
+// missed. A record counts as still present when a live record has the same
+// name or the same (non-shared) website domain. If it reappears, the live
+// record replaces it and it is listed again.
+// Pair live records with committed ones, one-to-one, in priority order:
+//   1. same name and same website (or both without a website)
+//   2. same website, different name   -> a rename
+//   3. same name, different website   -> a website change
+// One-to-one matters: sources list some companies twice (Plug and Play has
+// two "folio" entries), and duplicates must not borrow each other's data.
+function matchPrior(prior, live) {
+  const norm = (s) => collapseSpaces(s).toLowerCase();
+  const dom = (c) => {
+    const d = domainOf(c.website);
+    return d && !SHARED_HOSTS.has(d) ? d : '';
+  };
+  const used = new Set();
+  const pairs = new Array(live.length).fill(null);
+  const index = (keyFn) => {
+    const m = new Map();
+    prior.forEach((p, i) => {
+      const k = keyFn(p);
+      if (!k) return;
+      if (!m.has(k)) m.set(k, []);
+      m.get(k).push(i);
+    });
+    return m;
+  };
+  const tiers = [
+    [index((p) => `${norm(p.name)}|${dom(p)}`), (c) => `${norm(c.name)}|${dom(c)}`],
+    [index((p) => dom(p)), (c) => dom(c)],
+    [index((p) => norm(p.name)), (c) => norm(c.name)],
+  ];
+  for (const [map, keyOf] of tiers) {
+    live.forEach((c, li) => {
+      if (pairs[li]) return;
+      const k = keyOf(c);
+      if (!k) return;
+      const i = (map.get(k) || []).find((j) => !used.has(j));
+      if (i === undefined) return;
+      used.add(i);
+      pairs[li] = prior[i];
+    });
+  }
+  return { pairs, unmatched: prior.filter((_, i) => !used.has(i)) };
+}
+
+// Records in `prior` with no counterpart in `live`.
+function missingFrom(prior, live) {
+  return matchPrior(prior, live).unmatched;
+}
+
+// Merge each live record with its committed counterpart (matched by website
+// first, then by name) so no known information is lost:
+//  - name history: a rename ("TawkitAI" -> "CopilotKit") adds the old name to
+//    `formerNames`; existing former names are carried forward.
+//  - blanked fields: if the source now returns an empty value for something we
+//    already knew (Techstars blanked 127 websites in one day), the known value
+//    is kept. Non-empty live values always win, so real updates still apply.
+//  - tags: earlier categories are kept alongside the source's new ones.
+//  - founders: people missing from the live record are kept.
+//  - exit / unicorn flags, once set, stay set.
+const BACKFILL_FIELDS = ['description', 'website', 'logo', 'location', 'region', 'subregion', 'year', 'program'];
+const SOCIAL_FIELDS = ['linkedin', 'twitter', 'facebook', 'crunchbase'];
+const EXTRA_FIELDS = ['city', 'state_province', 'country', 'investor'];
+const empty = (v) => v == null || v === '' || (Array.isArray(v) && v.length === 0);
+
+function mergeWithPrior(prior, live) {
+  const norm = (s) => collapseSpaces(s).toLowerCase();
+  const { pairs } = matchPrior(prior, live);
+  return live.map((c, li) => {
+    const match = pairs[li];
+    if (!match) return c;
+    const out = { ...c };
+
+    const names = new Set([...(c.formerNames || []), ...(match.formerNames || [])]);
+    if (norm(match.name) !== norm(c.name)) names.add(collapseSpaces(match.name));
+    names.delete(collapseSpaces(c.name));
+    if (names.size) out.formerNames = [...names];
+
+    for (const f of BACKFILL_FIELDS) if (empty(out[f]) && !empty(match[f])) out[f] = match[f];
+    // Tags: keep earlier categories too (sources re-categorise over time).
+    if (!empty(match.tags)) {
+      const seen = new Set((out.tags || []).map((t) => String(t).toLowerCase()));
+      out.tags = [...(out.tags || []), ...match.tags.filter((t) => !seen.has(String(t).toLowerCase()))];
+    }
+    if (match.social) {
+      out.social = { ...(c.social || {}) };
+      for (const f of SOCIAL_FIELDS) if (empty(out.social[f]) && !empty(match.social[f])) out.social[f] = match.social[f];
+    }
+    if (match.extra) {
+      out.extra = { ...(c.extra || {}) };
+      for (const f of EXTRA_FIELDS) if (empty(out.extra[f]) && !empty(match.extra[f])) out.extra[f] = match.extra[f];
+    }
+    const liveFounders = Array.isArray(c.founders) ? c.founders : [];
+    const have = new Set(liveFounders.map((f) => norm(f && f.name)));
+    const keptFounders = (match.founders || []).filter((f) => f && f.name && !have.has(norm(f.name)));
+    if (keptFounders.length) out.founders = [...liveFounders, ...keptFounders];
+    for (const flag of ['isExit', 'isUnicorn']) if (match[flag] && !out[flag]) out[flag] = true;
+    return out;
+  });
+}
+
+// Backwards-compatible name.
+const carryOverHistory = mergeWithPrior;
+
+function carryOverDelisted(prior, live, now = new Date()) {
+  const today = now.toISOString().slice(0, 10);
+  return missingFrom(prior, live).map((p) => ({ ...p, listed: false, delistedAt: p.delistedAt || today }));
+}
+
 async function gatherAll({
   sources = DEFAULT_SOURCES,
   onLog = console.log,
@@ -134,10 +249,15 @@ async function gatherAll({
       try {
         onLog(`  → Fetching ${name}...`);
         const fetched = await withTimeout(Promise.resolve().then(fetcher), sourceTimeoutMs, name);
-        const vet = vetLiveResult(name, fetched, prior, { minRatio });
+        // The shrink guard compares against companies still listed upstream.
+        const vet = vetLiveResult(name, fetched, prior.filter((c) => c.listed !== false), { minRatio });
         if (!vet.ok) throw new Error(vet.reason);
-        companies = vet.companies;
-        status = { status: 'live', reason: vet.junk ? `${vet.junk} junk records rejected` : '' };
+        const kept = carryOverDelisted(prior, vet.companies);
+        companies = [...mergeWithPrior(prior, vet.companies), ...kept];
+        const notes = [];
+        if (vet.junk) notes.push(`${vet.junk} junk records rejected`);
+        if (kept.length) notes.push(`${kept.length} no longer listed upstream (kept, flagged listed:false)`);
+        status = { status: 'live', reason: notes.join('; ') };
       } catch (err) {
         // First line only: e.g. Playwright errors append a multi-line banner.
         const reason = String((err && err.message) || err).split('\n')[0].trim().slice(0, 300);
@@ -171,6 +291,11 @@ module.exports = {
   fetchTechstars,
   committedFor,
   vetLiveResult,
+  carryOverDelisted,
+  carryOverHistory,
+  mergeWithPrior,
+  matchPrior,
+  missingFrom,
   readCommitted,
   SOURCES,
   DEFAULT_SOURCES,

@@ -90,7 +90,7 @@
       if (!Array.isArray(all)) throw new Error("Unexpected data format");
       companies = all;
       haystacks = companies.map((c) =>
-        [c.name, c.description, (c.tags || []).join(" "), c.location, c.country, c.program,
+        [c.name, (c.formerNames || []).join(" "), c.description, (c.tags || []).join(" "), c.location, c.country, c.program,
           (c.founders || []).map((f) => f && f.name).join(" ")]
           .filter(Boolean).join("\n").toLowerCase()
       );
@@ -294,6 +294,7 @@
       c.isUnicorn && h("span", { class: "badge b-uni" }, "🦄 Unicorn"),
       c.isExit && h("span", { class: "badge b-exit" }, "💰 Exit"),
       c.isBCorp && h("span", { class: "badge b-bcorp" }, "🌱 B Corp"),
+      c.listed === false && h("span", { class: "badge b-delisted", title: `No longer on the ${sourceLabel(c.source)} portfolio page${c.delistedAt ? ` (since ${c.delistedAt})` : ""}` }, "No longer listed"),
     ];
 
     const founders = (c.founders || []).filter((f) => f && f.name).map((f) => {
@@ -326,7 +327,7 @@
       cb,
       logo,
       h("div", { class: "body" },
-        h("div", { class: "name" }, title, badges),
+        h("div", { class: "name" }, title, (c.formerNames || []).length > 0 && h("span", { class: "formerly" }, `formerly ${c.formerNames.join(", ")}`), badges),
         c.description && h("div", { class: "desc" }, c.description),
         founderLine,
         meta,
@@ -412,6 +413,7 @@
         Crunchbase: c.social?.crunchbase || "",
         Logo: c.logo || "",
         "Also In": (c.alsoIn || []).map(sourceLabel).join("; "),
+        "Still Listed": c.listed === false ? `No (since ${c.delistedAt || "?"})` : "Yes",
         ID: c.id || "",
       };
     });
@@ -462,7 +464,7 @@
       const XLSX = await loadSheetJs();
       const wb = XLSX.utils.book_new();
       const ws = XLSX.utils.json_to_sheet(rows);
-      ws["!cols"] = [14, 30, 60, 30, 30, 18, 15, 18, 40, 8, 40, 50, 50, 25, 8, 10, 8, 15, 35, 35, 35, 35, 35, 18, 28].map((w) => ({ wch: w }));
+      ws["!cols"] = [14, 30, 60, 30, 30, 18, 15, 18, 40, 8, 40, 50, 50, 25, 8, 10, 8, 15, 35, 35, 35, 35, 35, 18, 20, 28].map((w) => ({ wch: w }));
       XLSX.utils.book_append_sheet(wb, ws, "Startups");
       XLSX.writeFile(wb, `startups-${fileLabel()}.xlsx`);
     } catch (err) {

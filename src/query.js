@@ -36,6 +36,7 @@ function int(v) {
 function haystack(c) {
   return [
     c.name,
+    (c.formerNames || []).join(' '),
     c.description,
     (c.tags || []).join(' '),
     c.location,

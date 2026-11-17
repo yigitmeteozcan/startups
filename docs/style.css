@@ -122,6 +122,8 @@ input:focus, select:focus { border-color: var(--accent); outline: none; }
 .b-uni { background: var(--uni); }
 .b-exit { background: var(--exit); color: #fff; }
 .b-bcorp { background: var(--bcorp); color: #fff; }
+.formerly { font-size: 12px; font-weight: 400; color: var(--muted); }
+.b-delisted { background: var(--chip); color: var(--muted); border: 1px solid var(--border); font-weight: 500; }
 .social { display: inline-flex; gap: 8px; margin-left: 2px; }
 
 /* ── Pagination ── */

@@ -12,6 +12,7 @@ test('addHttps repairs scraped URLs', () => {
   assert.equal(addHttps(''), '');
   assert.equal(addHttps(null), '');
   assert.equal(addHttps('http://'), '');
+  assert.equal(addHttps('https:// https://www.linkedin.com/in/x/'), 'https://www.linkedin.com/in/x/');
 });
 
 test('addHttps never emits executable URLs', () => {

@@ -21,7 +21,7 @@ function addHttps(url) {
   if (!u) return '';
   let scheme = '';
   // Strip any run of leading schemes (incl. malformed "https//"), remembering the first.
-  u = u.replace(/^(?:(https?):?\/\/)+/i, (m, first) => {
+  u = u.replace(/^(?:(https?):?\/\/\s*)+/i, (m, first) => {
     scheme = first.toLowerCase();
     return '';
   });
