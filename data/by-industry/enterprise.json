@@ -2427,7 +2427,7 @@
     "name": "Leafpress",
     "description": "AI Energy Management",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8b397defdcecf4c281122216507cb5239f88b392.png",
-    "website": "https://www.trycardinal.ai/",
+    "website": "",
     "location": "",
     "region": "Unspecified",
     "subregion": "",
@@ -3896,7 +3896,7 @@
   {
     "source": "yc",
     "name": "Elimentary",
-    "description": "Agents that run middle/back-office operations for Private Capital",
+    "description": "AI Agents that run back-office operations for private credit funds",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5345725230878bce19968d49bf36c1acda691f77.png",
     "website": "https://www.elimentary.com",
     "location": "New York City, NY, USA",
@@ -3904,9 +3904,8 @@
     "subregion": "",
     "tags": [
       "Fintech",
-      "Asset Management",
-      "FinOps",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -3960,7 +3959,7 @@
   {
     "source": "yc",
     "name": "0.security",
-    "description": "The autonomous cybersecurity team",
+    "description": "Open-source AI security agents for enterprise",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
     "website": "https://0.security",
     "location": "San Francisco, CA, USA",
@@ -4029,7 +4028,7 @@
     "source": "yc",
     "name": "Plyxl",
     "description": "The workspace that does the work",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f11b86229c223b308077ff5287d39738a4aad756.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1d468d354f426da820fcb703f4377d877510140e.png",
     "website": "https://plyxl.com/",
     "location": "",
     "region": "Unspecified",
@@ -4672,6 +4671,55 @@
   },
   {
     "source": "500",
+    "name": "Obie",
+    "description": "Provider of a Slackbot platform created for team collaboration and on boarding. The company's platform provides a web virtual assistant to help teams collaborate and make faster decisions, enabling them to be informed of team members and save time and effort in decision making.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/1e4034e2-6150-42eb-bf49-e371094be922.png",
+    "website": "https://obie.ai",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "AI/Machine Learning",
+      "Enterprise"
+    ],
+    "year": 2017,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alexander Sopinka",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Chris Buttenham",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ravinda Seunath",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
     "name": "Avocode",
     "description": "Developer of a file-sharing software designed to facilitate collaboration between designers and developers. The company's software exports images without preparing layers from Photoshop and Sketch designs, including colors, image assets, fonts, text, sizes, and dimensions, enabling customers to work on the web and mobile projects efficiently.",
     "logo": "",
@@ -4723,55 +4771,6 @@
     },
     "extra": {
       "country": "United States"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Obie",
-    "description": "Provider of a Slackbot platform created for team collaboration and on boarding. The company's platform provides a web virtual assistant to help teams collaborate and make faster decisions, enabling them to be informed of team members and save time and effort in decision making.",
-    "logo": "https://founder-hub-public.s3.amazonaws.com/1e4034e2-6150-42eb-bf49-e371094be922.png",
-    "website": "https://obie.ai",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "AI/Machine Learning",
-      "Enterprise"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alexander Sopinka",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Chris Buttenham",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ravinda Seunath",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
     }
   }
 ]

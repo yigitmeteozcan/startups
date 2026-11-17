@@ -5037,7 +5037,7 @@
     "name": "SnapBite",
     "description": "TBD",
     "logo": "/company/thumb/missing.png",
-    "website": "https://cyborg6.com",
+    "website": "",
     "location": "",
     "region": "Unspecified",
     "subregion": "",
@@ -13365,7 +13365,7 @@
     "name": "Necto",
     "description": "ISP starter kit",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fe1dec1da87d011bdd6e9ab33b74b859fda878b0.png",
-    "website": "http://joinnecto.com",
+    "website": "",
     "location": "New York City, NY, USA; San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -13430,7 +13430,7 @@
     "name": "SRTX",
     "description": "Powering a better future for textiles.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8f27e765f9d63d4654849ec852c4f841e0eadcf.png",
-    "website": "https://www.srtxlabs.com/",
+    "website": "",
     "location": "Toronto, ON, Canada; Montreal, QC, Canada",
     "region": "Canada",
     "subregion": "",
@@ -27332,7 +27332,7 @@
   {
     "source": "yc",
     "name": "Fluently",
-    "description": "Speaking coach for non-native English professionals",
+    "description": "AI language tutor for speaking practice with instant feedback",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ac751ae51071034b75af18536b15a7ec51b6c117.png",
     "website": "https://getfluently.app/",
     "location": "San Francisco, CA, USA; Remote",
@@ -28929,7 +28929,7 @@
     "source": "yc",
     "name": "Swerve",
     "description": "AI Chat & Stories",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4cd4e09aaeb1f46dcf793d0eae3575ece7ac1c84.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fff60eea85b9ade2d36bcbadce6b69ecf3141b25.png",
     "website": "https://www.getswerve.com/",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -29961,7 +29961,7 @@
   {
     "source": "yc",
     "name": "Digipals",
-    "description": "The future of Social in the age of AI",
+    "description": "AI to enhance human creativity",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a100705513555f60b674edacd7874b01e7bef2df.png",
     "website": "https://www.digipals.app/",
     "location": "San Francisco, CA, USA",
@@ -29969,9 +29969,10 @@
     "subregion": "",
     "tags": [
       "Consumer",
-      "Social",
-      "Social Media",
-      "Social Network",
+      "Content",
+      "Entertainment",
+      "Gaming",
+      "Media",
       "AI"
     ],
     "year": 2025,
@@ -30901,21 +30902,22 @@
   {
     "source": "yc",
     "name": "Light Anchor",
-    "description": "AI-native growth agency for consumer brands",
+    "description": "Building the AI-native P&G",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3e90f1f997478761cc013525bd81b5fc23984166.png",
     "website": "https://lightanchor.ai",
-    "location": "Seoul, Seoul, South Korea",
-    "region": "South Korea",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Consumer",
       "E-commerce",
+      "Consumer Products",
       "AI"
     ],
     "year": 2026,
-    "program": "YC Spring 2026",
+    "program": "YC Fall 2026",
     "programSlugs": [
-      "yc-spring-2026"
+      "yc-fall-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -31417,7 +31419,7 @@
     "source": "yc",
     "name": "Mochi",
     "description": "Watch and create anime",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/49a6b24fc91b9bae1c825be608651c20ecb90c31.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5a4ff579d9f8641bf83c3972b8109496f901b4ac.png",
     "website": "https://www.mochi.tv/",
     "location": "Los Angeles, CA, USA",
     "region": "United States of America",
@@ -31884,39 +31886,6 @@
   },
   {
     "source": "yc",
-    "name": "Shire Intelligence",
-    "description": "Shire uses CCTV to run restaurants in real time.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ddb902daa9bf41440f3e332ac02be9ee50de271c.png",
-    "website": "https://shireintelligence.com/",
-    "location": "Myrtle Beach, SC, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Consumer",
-      "Food and Beverage",
-      "Deep Learning",
-      "Food Tech"
-    ],
-    "year": 2026,
-    "program": "YC Fall 2026",
-    "programSlugs": [
-      "yc-fall-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {}
-  },
-  {
-    "source": "yc",
     "name": "antimattr",
     "description": "voice-first hardware interface for human-agent interaction",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3266646a9815f7e3ed31c088c4008df6e8fb0101.png",
@@ -31953,8 +31922,8 @@
   {
     "source": "yc",
     "name": "Vyra",
-    "description": "Personal video editing agent for shortform content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7ad073b0df3558383dd73b1125d5e326d63c3e12.png",
+    "description": "Personal content agent for creators and businesses",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a2c22def8dbde1bd39b39d00f877d63c3b40e504.png",
     "website": "https://usevyra.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -31963,8 +31932,10 @@
       "Consumer",
       "Content",
       "Video",
+      "Marketing",
       "Automation",
-      "SMB"
+      "SMB",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -32019,7 +31990,7 @@
   {
     "source": "yc",
     "name": "Versine",
-    "description": "Let your agents send and receive money. We're Venmo for agents.",
+    "description": "The agent-first consumer bank.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/586c3fb683e34649e1401cfc1d48117092317176.png",
     "website": "https://versine.com/",
     "location": "San Francisco, CA, USA",
@@ -32053,7 +32024,7 @@
   {
     "source": "yc",
     "name": "Melty",
-    "description": "Mashup any game",
+    "description": "Programmable games for RL and evals",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7f04b686429aece5fee0ca691cbdb211b8619d31.png",
     "website": "https://www.melty.gg",
     "location": "San Francisco, CA, USA",
@@ -36214,6 +36185,46 @@
   },
   {
     "source": "500",
+    "name": "CraftCoffee",
+    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
+    "website": "https://craftcoffee.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Direct to Consumer",
+      "Subscription",
+      "Consumer"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Michael Horn",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
     "name": "Clarity",
     "description": "Provider of website that connects people with financial advisors. The company connects advisers with advice seekers for one on one calls.",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e772c84e-f97e-450b-9512-62139b61e751.png",
@@ -36253,46 +36264,6 @@
     },
     "extra": {
       "country": "Canada"
-    }
-  },
-  {
-    "source": "500",
-    "name": "CraftCoffee",
-    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
-    "website": "https://craftcoffee.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Direct to Consumer",
-      "Subscription",
-      "Consumer"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Michael Horn",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
     }
   },
   {

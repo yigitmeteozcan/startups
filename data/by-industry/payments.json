@@ -5244,7 +5244,7 @@
     "name": "Pivo Technology Inc",
     "description": "Digital Bank for Freight Carriers in Africa.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7420fcdf5d2a549094588e1723a574be25f57e2e.png",
-    "website": "http://www.pivo.africa",
+    "website": "",
     "location": "Lagos, LA, Nigeria; LA, Nigeria",
     "region": "Nigeria",
     "subregion": "",
@@ -8173,17 +8173,18 @@
   },
   {
     "source": "500",
-    "name": "Pokkt",
-    "description": "Provider of a mobile video advertising platform intended to serve the application developers and publishers. The company's platform offers to make free purchases through multiple alternative monetization tools such as watching videos, subscribing to services, installing applications and participation in surveys, enabling clients to get connected with the right audiences.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/75119f88-6e1f-4a2f-baa9-101bf02e4793.png",
-    "website": "https://pokkt.com",
-    "location": "Singapore",
-    "region": "South Asia",
+    "name": "Omise",
+    "description": "Operator of full-featured payment management platform designed to connect millions of customers across the world. The company's payment management platform is easy to setup and works seamlessly across multiple devices, providing fraud detection, data privacy and highly secured transactions, enabling users to manage their funds whenever they want.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/78865fd6-3d80-4138-8bdd-916ebb5fb8b3.png",
+    "website": "https://www.opn.ooo",
+    "location": "Japan",
+    "region": "North Asia",
     "subregion": "",
     "tags": [
+      "FinTech",
       "Payments"
     ],
-    "year": 2013,
+    "year": 2016,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -8194,22 +8195,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Vaibhav Odhekar",
+        "name": "Ezra Don Harinsut",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Manish Tewari",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sharad Ingule",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Rohit Sharma",
+        "name": "Jun Hasegawa",
         "role": "",
         "linkedin": ""
       }
@@ -8221,58 +8212,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Singapore"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Payment24",
-    "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
-    "website": "https://payment24.co",
-    "location": "South Africa",
-    "region": "Africa",
-    "subregion": "",
-    "tags": [
-      "CloudTech",
-      "FinTech",
-      "Payments",
-      "Mobility"
-    ],
-    "year": 2018,
-    "program": "GA 22",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Janko Milunovic",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Nolan Daniel",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Shadab Rahil",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "South Africa"
+      "country": "Japan"
     }
   },
   {
@@ -8368,12 +8308,63 @@
   },
   {
     "source": "500",
-    "name": "ShopGo",
-    "description": "Provider of software platform designed to create e-commerce Websites. The company's software platform provides local support to its merchants and their changing needs at every stage, enabling merchants to succeed in their online business.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/017c6531-a0a4-4b90-a3b6-81832b6c42e1.png",
-    "website": "https://shopgo.me",
-    "location": "British Virgin Islands",
+    "name": "Payment24",
+    "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
+    "website": "https://payment24.co",
+    "location": "South Africa",
     "region": "Africa",
+    "subregion": "",
+    "tags": [
+      "CloudTech",
+      "FinTech",
+      "Payments",
+      "Mobility"
+    ],
+    "year": 2018,
+    "program": "GA 22",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Janko Milunovic",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Nolan Daniel",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Shadab Rahil",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "South Africa"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Pokkt",
+    "description": "Provider of a mobile video advertising platform intended to serve the application developers and publishers. The company's platform offers to make free purchases through multiple alternative monetization tools such as watching videos, subscribing to services, installing applications and participation in surveys, enabling clients to get connected with the right audiences.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/75119f88-6e1f-4a2f-baa9-101bf02e4793.png",
+    "website": "https://pokkt.com",
+    "location": "Singapore",
+    "region": "South Asia",
     "subregion": "",
     "tags": [
       "Payments"
@@ -8389,7 +8380,22 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Mohanad Ghashim",
+        "name": "Vaibhav Odhekar",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Manish Tewari",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sharad Ingule",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rohit Sharma",
         "role": "",
         "linkedin": ""
       }
@@ -8401,7 +8407,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "British Virgin Islands"
+      "country": "Singapore"
     }
   },
   {
@@ -8493,6 +8499,44 @@
     },
     "extra": {
       "country": "Canada"
+    }
+  },
+  {
+    "source": "500",
+    "name": "ShopGo",
+    "description": "Provider of software platform designed to create e-commerce Websites. The company's software platform provides local support to its merchants and their changing needs at every stage, enabling merchants to succeed in their online business.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/017c6531-a0a4-4b90-a3b6-81832b6c42e1.png",
+    "website": "https://shopgo.me",
+    "location": "British Virgin Islands",
+    "region": "Africa",
+    "subregion": "",
+    "tags": [
+      "Payments"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mohanad Ghashim",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "British Virgin Islands"
     }
   },
   {
@@ -8616,50 +8660,6 @@
     },
     "extra": {
       "country": "Singapore"
-    }
-  },
-  {
-    "source": "500",
-    "name": "Omise",
-    "description": "Operator of full-featured payment management platform designed to connect millions of customers across the world. The company's payment management platform is easy to setup and works seamlessly across multiple devices, providing fraud detection, data privacy and highly secured transactions, enabling users to manage their funds whenever they want.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/78865fd6-3d80-4138-8bdd-916ebb5fb8b3.png",
-    "website": "https://www.opn.ooo",
-    "location": "Japan",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "FinTech",
-      "Payments"
-    ],
-    "year": 2016,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ezra Don Harinsut",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jun Hasegawa",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
     }
   },
   {
