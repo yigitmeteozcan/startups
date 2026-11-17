@@ -1,5 +1,45 @@
 [
   {
+    "id": "techstars-sphero",
+    "source": "techstars",
+    "name": "Sphero",
+    "description": "We create amazing connected toys.",
+    "logo": "https://apimg.techstars.com/connect/perks/image_files/535ebff6766fc3d1a0000002/original/W2-W6saw_400x400.jpg",
+    "website": "https://sphero.com",
+    "location": "Boulder, Colorado, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Edtech",
+      "Robotics and Drones",
+      "Mobile",
+      "Virtual reality"
+    ],
+    "year": 2010,
+    "program": "Disney Accelerator, powered by Techstars, Techstars Boulder Accelerator",
+    "programSlugs": [
+      "boulder"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/1199924",
+      "twitter": "https://twitter.com/littleBits",
+      "facebook": "https://facebook.com/GoSphero",
+      "crunchbase": "https://crunchbase.com/organization/orbotix"
+    },
+    "extra": {
+      "city": "Boulder",
+      "state_province": "Colorado",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-appliedvr",
     "source": "techstars",
     "name": "AppliedVR",
@@ -49,7 +89,8 @@
     "tags": [
       "Augmented reality",
       "SaaS",
-      "Virtual reality"
+      "Virtual reality",
+      "Mobile"
     ],
     "year": 2017,
     "program": "Techstars Chicago City Accelerator",
@@ -74,6 +115,120 @@
     "alsoIn": []
   },
   {
+    "id": "techstars-vermeer",
+    "source": "techstars",
+    "name": "Vermeer",
+    "description": "AR-powered marketplace for frictionless aerial footage.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5e95b63e34a60d416d000154/original/vermeer_2.jpg",
+    "website": "https://getvermeer.com",
+    "location": "Queens, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Robotics and Drones",
+      "Virtual reality"
+    ],
+    "year": 2020,
+    "program": "Air Force Accelerator Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/47843",
+      "twitter": "https://twitter.com/vermeerapp",
+      "facebook": "https://facebook.com/vermeerapp/",
+      "crunchbase": "https://crunchbase.com/organization/vermeer-ff96"
+    },
+    "extra": {
+      "city": "Queens",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-didimo",
+    "source": "techstars",
+    "name": "Didimo",
+    "description": "Didimo creates Virtual Avatars ready to be animated with one photo.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/57c813d5a93e9f9611000004/original/logo_black_square-01.jpg",
+    "website": "https://mydidimo.com",
+    "location": "Leca Da Palmeira, Portugal",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Gaming",
+      "Mobile",
+      "Virtual reality"
+    ],
+    "year": 2016,
+    "program": "Techstars London Accelerator",
+    "programSlugs": [
+      "london"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/didimo",
+      "twitter": "https://twitter.com/my_didimo",
+      "facebook": "https://facebook.com/DidimoInc",
+      "crunchbase": "https://crunchbase.com/organization/mydidimo#section-overview"
+    },
+    "extra": {
+      "city": "Leca Da Palmeira",
+      "country": "Portugal"
+    },
+    "country": "Portugal",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-eyelights",
+    "source": "techstars",
+    "name": "EyeLights",
+    "description": "EyeLights makes your motorcycle helmet  smart. Augmented biker, now.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/59b67c67c9aec71604000012/original/linkedin.png",
+    "website": "https://eye-lights.com",
+    "location": "Labège, France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Augmented reality",
+      "Internet of Things",
+      "Mobile",
+      "Mobility tech",
+      "Virtual reality"
+    ],
+    "year": 2017,
+    "program": "Techstars Paris Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/eyelights-sas",
+      "twitter": "https://twitter.com/EyelightsFR",
+      "facebook": "https://facebook.com/EyeLights.motorcycles/",
+      "crunchbase": "https://crunchbase.com/organization/eyelights"
+    },
+    "extra": {
+      "city": "Labège",
+      "country": "France"
+    },
+    "country": "France",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-liv",
     "source": "techstars",
     "name": "Liv",
@@ -86,7 +241,9 @@
     "tags": [
       "Augmented reality",
       "Gaming",
-      "Virtual reality"
+      "Virtual reality",
+      "Fintech",
+      "Lifestyles of Health and Sustainability and wellness"
     ],
     "year": 2017,
     "program": "Techstars Space Accelerator",
@@ -150,6 +307,45 @@
       "country": "Canada"
     },
     "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-oriient",
+    "source": "techstars",
+    "name": "Oriient",
+    "description": "The Indoor GPS Company.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/594d9fc3c9aec70a9b000065/original/logo_-_square.png",
+    "website": "https://oriient.me",
+    "location": "Tel Aviv, Israel",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Internet of Things",
+      "Mobile",
+      "SaaS",
+      "Infrastructure",
+      "Virtual reality"
+    ],
+    "year": 2017,
+    "program": "METRO Retail Accelerator powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/10693382",
+      "twitter": "https://twitter.com/oriient_me",
+      "facebook": "https://facebook.com/oriient.me",
+      "crunchbase": "https://crunchbase.com/organization/oriient"
+    },
+    "extra": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "country": "Israel",
     "alsoIn": []
   },
   {
@@ -230,6 +426,43 @@
     "alsoIn": []
   },
   {
+    "id": "techstars-swingvision",
+    "source": "techstars",
+    "name": "SwingVision",
+    "description": "A.I. Training Platform for Athletes",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5edfd477a36c111964000001/original/Swing_Vision_Logo_Circular.png",
+    "website": "https://swing.tennis",
+    "location": "Milpitas, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Mobile",
+      "Virtual reality"
+    ],
+    "year": 2020,
+    "program": "Techstars SportsTech Melbourne Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/swing-vision",
+      "twitter": "https://twitter.com/swingtennis",
+      "facebook": "https://facebook.com/swingtennis",
+      "crunchbase": "https://crunchbase.com/organization/swingvision"
+    },
+    "extra": {
+      "city": "Milpitas",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-rad",
     "source": "techstars",
     "name": "Rad.",
@@ -279,7 +512,8 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Gaming",
-      "Virtual reality"
+      "Virtual reality",
+      "Cryptocurrency/Blockchain"
     ],
     "year": 2019,
     "program": "Alchemist Blockchain Techstars Accelerator",
@@ -316,7 +550,8 @@
     "tags": [
       "Augmented reality",
       "Gaming",
-      "Virtual reality"
+      "Virtual reality",
+      "Mobile"
     ],
     "year": 2014,
     "program": "Disney Accelerator, powered by Techstars",
@@ -335,6 +570,45 @@
     "extra": {
       "city": "West Hollywood",
       "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-driver",
+    "source": "techstars",
+    "name": "Driver",
+    "description": "Driver is a hardware-free mobile app and data platform that allows users to video record their trip while receiving forward collision and drowsiness alerts.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5b4bbc8234a60d4a5d000120/original/Driver_App_Icon.png",
+    "website": "https://trydriver.com",
+    "location": "Brooklyn, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Insurtech",
+      "Mobile",
+      "Mobility tech",
+      "Virtual reality"
+    ],
+    "year": 2018,
+    "program": "Techstars Detroit Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/driverinc",
+      "twitter": "https://twitter.com/driverinc",
+      "facebook": "https://facebook.com/TryDriver/",
+      "crunchbase": "https://crunchbase.com/organization/driver-technologies"
+    },
+    "extra": {
+      "city": "Brooklyn",
+      "state_province": "New York",
       "country": "United States"
     },
     "country": "United States",
@@ -430,7 +704,10 @@
       "Augmented reality",
       "Cloudtech and DevOps",
       "SaaS",
-      "Virtual reality"
+      "Virtual reality",
+      "Gaming",
+      "Infrastructure",
+      "Technology, media and telecommunications"
     ],
     "year": 2019,
     "program": "Techstars Anywhere Accelerator",
@@ -497,6 +774,88 @@
     ]
   },
   {
+    "id": "techstars-biointeractive-technologies",
+    "source": "techstars",
+    "name": "BioInteractive Technologies",
+    "description": "Tenzr Health helps healthcare organizations improve access and patient flow through remote monitoring, education, and gamified digital care.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5a4c067dc9aec7192d000049/original/20171124-VC_RENDERS-3.png",
+    "website": "https://tenzrhealth.com",
+    "location": "Vancouver, British Columbia, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Digital health",
+      "Healthtech",
+      "Internet of Things",
+      "SaaS",
+      "Virtual reality"
+    ],
+    "year": 2018,
+    "program": "Techstars Anywhere Accelerator",
+    "programSlugs": [
+      "anywhere"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/17973286",
+      "twitter": "https://twitter.com/BioIntTech",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/biointeractive-technologies"
+    },
+    "extra": {
+      "city": "Vancouver",
+      "state_province": "British Columbia",
+      "country": "Canada"
+    },
+    "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-retrocausal",
+    "source": "techstars",
+    "name": "Retrocausal",
+    "description": "Visual Mistake-Proofing for Manual Assembly",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5e0e5dfda36c1120460000c7/original/Retrocausal_logo_squared.png",
+    "website": "https://retrocausal.ai",
+    "location": "Redmond, Washington, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Manufacturing",
+      "SaaS",
+      "Internet of Things",
+      "Virtual reality"
+    ],
+    "year": 2020,
+    "program": "Techstars Seattle Accelerator",
+    "programSlugs": [
+      "seattle"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/retrocausal-ai",
+      "twitter": "https://twitter.com/RetrocausalAI",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/retrocausal"
+    },
+    "extra": {
+      "city": "Redmond",
+      "state_province": "Washington",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-fantasmo",
     "source": "techstars",
     "name": "Fantasmo",
@@ -545,7 +904,9 @@
     "subregion": "North America",
     "tags": [
       "Gaming",
-      "Virtual reality"
+      "Virtual reality",
+      "Artificial intelligence and machine learning",
+      "Mobile"
     ],
     "year": 2019,
     "program": "Techstars Seattle Accelerator",
@@ -613,6 +974,215 @@
     "alsoIn": []
   },
   {
+    "id": "techstars-yoona-ai",
+    "source": "techstars",
+    "name": "Yoona.ai",
+    "description": "Puma, Vaude, and Vogue Magazine are already using Yoona.ai to shorten their design processes.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/606b6116801c6f00087b14b3/original/Social-Media-Profile-Image.png",
+    "website": "https://yoona.ai",
+    "location": "Berlin, Germany",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "E-commerce",
+      "SaaS",
+      "Climate tech",
+      "Virtual reality"
+    ],
+    "year": 2021,
+    "program": "Techstars Berlin Accelerator",
+    "programSlugs": [
+      "berlin"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/yoonaai",
+      "twitter": "https://twitter.com/yoona",
+      "facebook": "https://facebook.com/YOONAtech",
+      "crunchbase": "https://crunchbase.com/organization/yoona-technology"
+    },
+    "extra": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "country": "Germany",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-volta",
+    "source": "techstars",
+    "name": "Volta",
+    "description": "Volta is a self-serve, free-to-use platform that lets creators and artists design and broadcast a 3D world in minutes, that comes alive as they perform.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/606e0309801c6f00087b14c0/original/Untitled-1.jpg",
+    "website": "https://volta-xr.com",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Marketing tech",
+      "SaaS",
+      "Technology, media and telecommunications",
+      "Virtual reality"
+    ],
+    "year": 2021,
+    "program": "Techstars Music Accelerator",
+    "programSlugs": [
+      "music"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/volta-capital",
+      "twitter": "https://twitter.com/experiencevolta",
+      "facebook": "https://facebook.com/ExperienceVolta",
+      "crunchbase": "https://crunchbase.com/organization/volta-e157"
+    },
+    "extra": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-novel-effect",
+    "source": "techstars",
+    "name": "Novel Effect",
+    "description": "Seattle-based Novel Effect is the leader in voice-driven media and entertainment across books, video, toys and games.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5c8a68c534a60d0aec000023/original/Full_Logo_Square_WhiteBG.png",
+    "website": "https://noveleffect.com",
+    "location": "Seattle, Washington, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Audiotech",
+      "Edtech",
+      "Mobile",
+      "Fintech",
+      "Gaming",
+      "Internet of Things",
+      "Virtual reality"
+    ],
+    "year": 2017,
+    "program": "Alexa Accelerator, Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/novel-effect-inc-",
+      "twitter": "https://twitter.com/Novel_Effect",
+      "facebook": "https://facebook.com/noveleffect",
+      "crunchbase": "https://crunchbase.com/organization/novel-effect-inc#/entity"
+    },
+    "extra": {
+      "city": "Seattle",
+      "state_province": "Washington",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-partsimony",
+    "source": "techstars",
+    "name": "Partsimony",
+    "description": "Partsimony is your manufacturing supply chain superpower in a world of uncertainty.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/624f8ef81d115c14cc85f697/original/parts-social-ico-w-b_2x.png",
+    "website": "https://partsimony.com",
+    "location": "Brooklyn, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Manufacturing",
+      "SaaS",
+      "Supply chain technology",
+      "Cleantech",
+      "Fintech",
+      "Infrastructure",
+      "Mobile",
+      "Oil and gas",
+      "Robotics and Drones",
+      "Virtual reality"
+    ],
+    "year": 2018,
+    "program": "STANLEY+Techstars Accelerator",
+    "programSlugs": [
+      "stanley"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/partsimony",
+      "twitter": "https://twitter.com/partsimony",
+      "facebook": "https://facebook.com/inventaprint/",
+      "crunchbase": "https://crunchbase.com/organization/partsimony"
+    },
+    "extra": {
+      "city": "Brooklyn",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-zoog",
+    "source": "techstars",
+    "name": "Zoog",
+    "description": "Zoog is an asynchronous-first communication platform for families, powered by immersive AR content and activities.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/61832498eec0376dc140c8d7/original/Screen_Shot_2021-11-03_at_8.08.16_PM.png",
+    "website": "https://getzoog.com",
+    "location": "Even Yehuda, Israel",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Augmented reality",
+      "Edtech",
+      "Mobile",
+      "Fintech",
+      "Gaming",
+      "Virtual reality"
+    ],
+    "year": 2021,
+    "program": "Comcast NBCUniversal LIFT Labs Accelerator Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/zooghq",
+      "twitter": "https://twitter.com/zooghq",
+      "facebook": "https://facebook.com/zoogHQ/",
+      "crunchbase": "https://crunchbase.com/organization/zoog"
+    },
+    "extra": {
+      "city": "Even Yehuda",
+      "country": "Israel"
+    },
+    "country": "Israel",
+    "alsoIn": [
+      "500"
+    ]
+  },
+  {
     "id": "techstars-rephrase-ai",
     "source": "techstars",
     "name": "Rephrase.ai",
@@ -646,6 +1216,47 @@
       "country": "India"
     },
     "country": "India",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-tagspace",
+    "source": "techstars",
+    "name": "tagSpace",
+    "description": "Locational AR for Festivals, Tourism and Big Events. No code required!",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5d16f34f34a60d202d0000e6/original/tagSpace_drk_logo.png",
+    "website": "https://tagspace.com",
+    "location": "Byron Bay, New South Wales, Australia",
+    "region": "Oceania",
+    "subregion": "Oceania",
+    "tags": [
+      "Augmented reality",
+      "Cryptocurrency/Blockchain",
+      "Marketing tech",
+      "Mobile",
+      "Adtech",
+      "Lifestyles of Health and Sustainability and wellness",
+      "Virtual reality"
+    ],
+    "year": 2019,
+    "program": "Techstars Lisbon in Partnership with Semapa Next",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/in/paulsimonmartin",
+      "twitter": "https://twitter.com/tagSpaceCo",
+      "facebook": "https://facebook.com/tagSpaceCo",
+      "crunchbase": "https://crunchbase.com/organization/tagspace"
+    },
+    "extra": {
+      "city": "Byron Bay",
+      "state_province": "New South Wales",
+      "country": "Australia"
+    },
+    "country": "Australia",
     "alsoIn": []
   },
   {
@@ -3335,7 +3946,7 @@
     "name": "Veesual",
     "description": "Mix&Match Styling Experience for fashion e-commerce. Powered by Generative AI.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6287b919cd87f60008d498a5/original/Black_bg_-_Logo_only_-_Squre.jpg",
-    "website": "",
+    "website": "https://veesual.ai",
     "location": "Paris, France",
     "region": "Europe",
     "subregion": "Western Europe",
@@ -4236,7 +4847,7 @@
     "name": "Dynepic",
     "description": "Platform of Platforms Powering the Future of Knowledge",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4128a18ddc8566988547ddc14.jpeg",
-    "website": "",
+    "website": "https://dynepic.com",
     "location": "Folly Beach, South Carolina, United States",
     "region": "Americas",
     "subregion": "North America",
@@ -4530,6 +5141,87 @@
     },
     "country": "Israel",
     "alsoIn": []
+  },
+  {
+    "id": "techstars-hosta-a-i",
+    "name": "Hosta a.i.",
+    "description": "Hosta leverages A.I. to provide the most efficient and insightful structural assessment of interior spaces.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5ea5a4a0a36c1125a6000023/original/HostaLogo-1-1-150x150.png",
+    "website": "https://hosta.ai",
+    "location": "Cambridge, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Insurtech",
+      "Virtual reality"
+    ],
+    "year": 2020,
+    "program": "Techstars Allied Space Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/hostalabs-ai",
+      "twitter": "https://twitter.com/hostalabs",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/hosta-a-i-6fce"
+    },
+    "extra": {
+      "city": "Cambridge",
+      "state_province": "Massachusetts",
+      "country": "United States"
+    },
+    "source": "techstars",
+    "founders": [],
+    "country": "United States",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-17"
+  },
+  {
+    "id": "techstars-between",
+    "name": "Between",
+    "description": "Call from Anywhere, Sound like You're in the Room",
+    "logo": "https://apimg.techstars.com/profiles/1667248020670_355895.png",
+    "website": "https://between.co",
+    "location": "Toronto, Ontario, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Audiotech",
+      "HRtech",
+      "Infrastructure",
+      "Technology, media and telecommunications",
+      "Virtual reality"
+    ],
+    "year": 2020,
+    "program": "Techstars Korea Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/betweenco",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/betweenco"
+    },
+    "extra": {
+      "city": "Toronto",
+      "state_province": "Ontario",
+      "country": "Canada"
+    },
+    "source": "techstars",
+    "founders": [],
+    "country": "Canada",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-17"
   },
   {
     "id": "yc-resolve",

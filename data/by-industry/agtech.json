@@ -13,7 +13,8 @@
       "Agtech",
       "Big Data",
       "Climate tech",
-      "Space tech"
+      "Space tech",
+      "Cleantech"
     ],
     "year": 2019,
     "program": "Techstars Starburst Space Accelerator",
@@ -126,7 +127,8 @@
     "tags": [
       "Agtech",
       "Artificial intelligence and machine learning",
-      "Climate tech"
+      "Climate tech",
+      "Internet of Things"
     ],
     "year": 2018,
     "program": "Techstars Montréal AI Accelerator",
@@ -162,7 +164,8 @@
     "tags": [
       "Agtech",
       "Climate tech",
-      "Foodtech"
+      "Foodtech",
+      "Technology, media and telecommunications"
     ],
     "year": 2017,
     "program": "Techstars Anywhere Accelerator",
@@ -201,7 +204,8 @@
     "tags": [
       "Agtech",
       "SaaS",
-      "Supply chain technology"
+      "Supply chain technology",
+      "Mobile"
     ],
     "year": 2020,
     "program": "Techstars Future of Food Powered by Ecolab",
@@ -355,7 +359,13 @@
       "Agtech",
       "Big Data",
       "SaaS",
-      "Supply chain technology"
+      "Supply chain technology",
+      "Artificial intelligence and machine learning",
+      "Climate tech",
+      "Fintech",
+      "Foodtech",
+      "Impact investing",
+      "Insurtech"
     ],
     "year": 2020,
     "program": "Techstars Future of Food Powered by Ecolab",
@@ -394,7 +404,8 @@
     "tags": [
       "Agtech",
       "Artificial intelligence and machine learning",
-      "Internet of Things"
+      "Internet of Things",
+      "Climate tech"
     ],
     "year": 2022,
     "program": "Techstars Berlin Accelerator",
@@ -509,7 +520,8 @@
     "tags": [
       "Agtech",
       "Climate tech",
-      "Foodtech"
+      "Foodtech",
+      "Cleantech"
     ],
     "year": 2019,
     "program": "Techstars Sustainability in Partnership with The Nature Conservancy",
@@ -546,7 +558,8 @@
     "tags": [
       "Agtech",
       "SaaS",
-      "Supply chain technology"
+      "Supply chain technology",
+      "Mobile"
     ],
     "year": 2018,
     "program": "Techstars Future of Food Powered by Ecolab",
@@ -588,7 +601,10 @@
       "Agtech",
       "E-commerce",
       "Industrials",
-      "Supply chain technology"
+      "Supply chain technology",
+      "Infrastructure",
+      "Manufacturing",
+      "Robotics and Drones"
     ],
     "year": 2020,
     "program": "Techstars Future of Food Powered by Ecolab",
@@ -626,7 +642,8 @@
     "subregion": "North America",
     "tags": [
       "Agtech",
-      "Climate tech"
+      "Climate tech",
+      "Infrastructure"
     ],
     "year": 2022,
     "program": "Techstars Alabama EnergyTech Accelerator",
@@ -664,7 +681,9 @@
     "subregion": "Middle East",
     "tags": [
       "Agtech",
-      "Fintech"
+      "Fintech",
+      "Cryptocurrency/Blockchain",
+      "Insurtech"
     ],
     "year": 2017,
     "program": "Barclays Accelerator, Powered by Techstars - Cape Town",
@@ -2937,7 +2956,7 @@
     "name": "Masa",
     "description": "Farmers market made simple",
     "logo": "https://apimg.techstars.com/connect/images/image_files/624526c0fe8b4800149b4a7f/original/masa_logo_final_update_0322_DARK.png",
-    "website": "",
+    "website": "https://masafresh.com",
     "location": "Portland, Oregon, United States",
     "region": "Americas",
     "subregion": "North America",
@@ -3014,7 +3033,7 @@
     "name": "Biomod AI",
     "description": "AI Assistant for Biotech R&D",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d2e6309ad3875da9aeffbbdfb.png",
-    "website": "",
+    "website": "https://biomodai.com",
     "location": "Zuid-Scharwoude, Netherlands",
     "region": "Europe",
     "subregion": "Western Europe",
@@ -3126,6 +3145,45 @@
     },
     "country": "Canada",
     "alsoIn": []
+  },
+  {
+    "id": "techstars-beesage",
+    "name": "BeeSage",
+    "description": "Beehive monitoring system that provides real-time data to beekeepers, saving time and reducing bee mortality.",
+    "logo": "https://apimg.techstars.com/profiles/1658820996215_38969.png",
+    "website": "https://beesage.co",
+    "location": "Amsterdam, Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Agtech",
+      "Internet of Things"
+    ],
+    "year": 2022,
+    "program": "Sustainability Paris Techstars Accelerator",
+    "programSlugs": [
+      "paris"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/beesage",
+      "twitter": "https://twitter.com/BeeSageCo",
+      "facebook": "https://facebook.com/beesageco",
+      "crunchbase": "https://crunchbase.com/organization/beesage"
+    },
+    "extra": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "source": "techstars",
+    "founders": [],
+    "country": "Netherlands",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-17"
   },
   {
     "id": "500-agrapp",

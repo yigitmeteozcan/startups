@@ -1,5 +1,43 @@
 [
   {
+    "id": "techstars-fig",
+    "source": "techstars",
+    "name": "Fig",
+    "description": "Private banking for the underbanked",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5730eed1bbe36f770000000e/original/fig-loans-logo.png",
+    "website": "https://figloans.com",
+    "location": "Sugar Land, Texas, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Fintech",
+      "Gaming"
+    ],
+    "year": 2016,
+    "program": "Techstars Seattle Accelerator",
+    "programSlugs": [
+      "seattle"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": true,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/fig-tech",
+      "twitter": "https://twitter.com/figloans",
+      "facebook": "https://facebook.com/playfig",
+      "crunchbase": "https://crunchbase.com/organization/fig-loans"
+    },
+    "extra": {
+      "city": "Sugar Land",
+      "state_province": "Texas",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-playq",
     "source": "techstars",
     "name": "PlayQ",
@@ -50,7 +88,8 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Audiotech",
-      "Gaming"
+      "Gaming",
+      "Mobile"
     ],
     "year": 2017,
     "program": "Techstars Music Accelerator",
@@ -88,7 +127,8 @@
     "subregion": "Western Europe",
     "tags": [
       "Fintech",
-      "Gaming"
+      "Gaming",
+      "Mobile"
     ],
     "year": 2017,
     "program": "London Barclays Accelerator, powered by Techstars",
@@ -112,6 +152,46 @@
     "alsoIn": []
   },
   {
+    "id": "techstars-rallyware",
+    "source": "techstars",
+    "name": "Rallyware",
+    "description": "Driving action for the enterprise",
+    "logo": "https://apimg.techstars.com/profiles/1660911953448_498589.png",
+    "website": "https://rallyware.com",
+    "location": "Mountain View, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "HRtech",
+      "Mobile",
+      "SaaS",
+      "Gaming"
+    ],
+    "year": 2013,
+    "program": "Techstars Boston Accelerator",
+    "programSlugs": [
+      "boston"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/rallyware",
+      "twitter": "https://twitter.com/rallywareSF",
+      "facebook": "https://facebook.com/rallyware",
+      "crunchbase": "https://crunchbase.com/organization/rallyware"
+    },
+    "extra": {
+      "city": "Mountain View",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-didimo",
     "source": "techstars",
     "name": "Didimo",
@@ -123,7 +203,9 @@
     "subregion": "Southern Europe",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Gaming"
+      "Gaming",
+      "Mobile",
+      "Virtual reality"
     ],
     "year": 2016,
     "program": "Techstars London Accelerator",
@@ -161,7 +243,9 @@
     "tags": [
       "Augmented reality",
       "Gaming",
-      "Virtual reality"
+      "Virtual reality",
+      "Fintech",
+      "Lifestyles of Health and Sustainability and wellness"
     ],
     "year": 2017,
     "program": "Techstars Space Accelerator",
@@ -200,7 +284,8 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Gaming",
-      "Virtual reality"
+      "Virtual reality",
+      "Cryptocurrency/Blockchain"
     ],
     "year": 2019,
     "program": "Alchemist Blockchain Techstars Accelerator",
@@ -237,7 +322,8 @@
     "tags": [
       "Augmented reality",
       "Gaming",
-      "Virtual reality"
+      "Virtual reality",
+      "Mobile"
     ],
     "year": 2014,
     "program": "Disney Accelerator, powered by Techstars",
@@ -298,6 +384,128 @@
       "country": "United States"
     },
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-i-brain-tech",
+    "source": "techstars",
+    "name": "i-Brain Tech",
+    "description": "i-BrainTech is a novel AI-powered brain-training solution to enhance the KPIs of individual athletes and to empower coaches with unique neuro-sport insights.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5f154508a36c111b22000027/original/i-BrainTech_logo.png",
+    "website": "https://i-brain.tech",
+    "location": "Ramat Gan, Israel",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Healthtech",
+      "Lifestyles of Health and Sustainability and wellness",
+      "Gaming",
+      "Robotics and Drones"
+    ],
+    "year": 2020,
+    "program": "Techstars Tel Aviv Accelerator",
+    "programSlugs": [
+      "tel-aviv"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/i-braintech",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/i-brain-aa5b"
+    },
+    "extra": {
+      "city": "Ramat Gan",
+      "country": "Israel"
+    },
+    "country": "Israel",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-echo3d",
+    "source": "techstars",
+    "name": "echo3D",
+    "description": "Cloud platform for augmented and virtual reality (AR/VR) apps that provides tools & server-side infrastructure to help companies build better 3D apps.",
+    "logo": "https://apimg.techstars.com/profiles/1661891558695_186805.png",
+    "website": "https://echo3d.co",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Augmented reality",
+      "Cloudtech and DevOps",
+      "SaaS",
+      "Virtual reality",
+      "Gaming",
+      "Infrastructure",
+      "Technology, media and telecommunications"
+    ],
+    "year": 2019,
+    "program": "Techstars Anywhere Accelerator",
+    "programSlugs": [
+      "anywhere"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/echo3D",
+      "twitter": "https://twitter.com/_echoAR_",
+      "facebook": "https://facebook.com/echo3DInc/",
+      "crunchbase": "https://crunchbase.com/organization/echo3d"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-inthegame",
+    "source": "techstars",
+    "name": "Inthegame",
+    "description": "Engagement and monitization platform for broadcasters and video content owners",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5f4d246ea36c11609e000048/original/Logo_Inthegame_-_Aviram_Sharon.png",
+    "website": "https://inthegame.io",
+    "location": "Tel Aviv, Israel",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Adtech",
+      "Technology, media and telecommunications",
+      "Artificial intelligence and machine learning",
+      "Gaming"
+    ],
+    "year": 2020,
+    "program": "Techstars Tel Aviv Accelerator",
+    "programSlugs": [
+      "tel-aviv"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/inthegame-io",
+      "twitter": "https://twitter.com/inthegameapp",
+      "facebook": "https://facebook.com/inthegame.io/",
+      "crunchbase": "https://crunchbase.com/organization/inthegame"
+    },
+    "extra": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "country": "Israel",
     "alsoIn": []
   },
   {
@@ -390,7 +598,8 @@
     "tags": [
       "Adtech",
       "Gaming",
-      "Mobile"
+      "Mobile",
+      "Big Data"
     ],
     "year": 2017,
     "program": "Techstars Atlanta powered by Cox Enterprises",
@@ -410,6 +619,48 @@
     },
     "extra": {
       "city": "San Francisco",
+      "state_province": "California",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-edge-sound-research",
+    "source": "techstars",
+    "name": "EDGE Sound Research",
+    "description": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6188ad05ab003f73c25591de/original/ESR_Icon_%282%29.png",
+    "website": "https://edgesoundresearch.com",
+    "location": "Riverside, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Audiotech",
+      "Technology, media and telecommunications",
+      "Cryptocurrency/Blockchain",
+      "Gaming",
+      "Internet of Things"
+    ],
+    "year": 2021,
+    "program": "The Minnesota Twins Accelerator by Techstars",
+    "programSlugs": [
+      "minnesota-twins"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/edge-sound-research",
+      "twitter": "https://twitter.com/official_esr_",
+      "facebook": "https://facebook.com/edgesoundresearch/",
+      "crunchbase": "https://crunchbase.com/organization/edge-sound-research"
+    },
+    "extra": {
+      "city": "Riverside",
       "state_province": "California",
       "country": "United States"
     },
@@ -456,6 +707,43 @@
     "alsoIn": []
   },
   {
+    "id": "techstars-str8bat",
+    "source": "techstars",
+    "name": "str8bat",
+    "description": "str8bat sits on your sports equipment & gives you actionable insights to help you PLAY BETTER, connects you to worlds best coaches and your peers.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5f3132bca36c113b600000e2/original/str8bat_logo_2.jpg",
+    "website": "https://str8bat.com",
+    "location": "Bengaluru, Karnataka, India",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "tags": [
+      "Internet of Things",
+      "Mobile",
+      "Gaming"
+    ],
+    "year": 2020,
+    "program": "Techstars SportsTech Melbourne Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/str8bat-sport-tech-solutions-pvt.-ltd.",
+      "twitter": "https://twitter.com/Str8Bat",
+      "facebook": "https://facebook.com/str8bat/",
+      "crunchbase": "https://crunchbase.com/organization/str8bat-sport-tech-solutions-pvt-ltd"
+    },
+    "extra": {
+      "city": "Bengaluru",
+      "state_province": "Karnataka",
+      "country": "India"
+    },
+    "country": "India",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-ftn-network",
     "source": "techstars",
     "name": "FTN Network",
@@ -468,7 +756,8 @@
     "tags": [
       "Big Data",
       "Gaming",
-      "Technology, media and telecommunications"
+      "Technology, media and telecommunications",
+      "Fintech"
     ],
     "year": 2022,
     "program": "Techstars Sports Accelerator Powered by Indy",
@@ -544,7 +833,9 @@
     "subregion": "North America",
     "tags": [
       "Gaming",
-      "Virtual reality"
+      "Virtual reality",
+      "Artificial intelligence and machine learning",
+      "Mobile"
     ],
     "year": 2019,
     "program": "Techstars Seattle Accelerator",
@@ -583,7 +874,9 @@
     "tags": [
       "Adtech",
       "Gaming",
-      "Mobile"
+      "Mobile",
+      "Artificial intelligence and machine learning",
+      "Fintech"
     ],
     "year": 2021,
     "program": "Techstars London Accelerator",
@@ -726,6 +1019,46 @@
     "alsoIn": []
   },
   {
+    "id": "techstars-weplayed",
+    "source": "techstars",
+    "name": "WePlayed",
+    "description": "WePlayed is a community-driven video platform for all college sports. When the game ends, the story begins.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5ce6d5ea34a60d4134000010/original/Artboard_1_3x.png",
+    "website": "https://weplayed.com",
+    "location": "Boston, Massachusetts, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "SaaS",
+      "Technology, media and telecommunications",
+      "Gaming"
+    ],
+    "year": 2019,
+    "program": "Techstars Sports Accelerator Powered by Indy",
+    "programSlugs": [
+      "indy-sports"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/weplayedsports",
+      "twitter": "https://twitter.com/weplayed",
+      "facebook": "https://facebook.com/weplayedinc",
+      "crunchbase": "https://crunchbase.com/organization/weplayed"
+    },
+    "extra": {
+      "city": "Boston",
+      "state_province": "Massachusetts",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-unruly-studios",
     "source": "techstars",
     "name": "Unruly Studios",
@@ -738,7 +1071,8 @@
     "tags": [
       "Edtech",
       "Gaming",
-      "Internet of Things"
+      "Internet of Things",
+      "Mobile"
     ],
     "year": 2018,
     "program": "Alexa Accelerator, Powered by Techstars",
@@ -757,6 +1091,47 @@
     "extra": {
       "city": "Jamaica Plain",
       "state_province": "Massachusetts",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-novel-effect",
+    "source": "techstars",
+    "name": "Novel Effect",
+    "description": "Seattle-based Novel Effect is the leader in voice-driven media and entertainment across books, video, toys and games.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5c8a68c534a60d0aec000023/original/Full_Logo_Square_WhiteBG.png",
+    "website": "https://noveleffect.com",
+    "location": "Seattle, Washington, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Audiotech",
+      "Edtech",
+      "Mobile",
+      "Fintech",
+      "Gaming",
+      "Internet of Things",
+      "Virtual reality"
+    ],
+    "year": 2017,
+    "program": "Alexa Accelerator, Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/novel-effect-inc-",
+      "twitter": "https://twitter.com/Novel_Effect",
+      "facebook": "https://facebook.com/noveleffect",
+      "crunchbase": "https://crunchbase.com/organization/novel-effect-inc#/entity"
+    },
+    "extra": {
+      "city": "Seattle",
+      "state_province": "Washington",
       "country": "United States"
     },
     "country": "United States",
@@ -796,6 +1171,48 @@
     },
     "country": "India",
     "alsoIn": []
+  },
+  {
+    "id": "techstars-zoog",
+    "source": "techstars",
+    "name": "Zoog",
+    "description": "Zoog is an asynchronous-first communication platform for families, powered by immersive AR content and activities.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/61832498eec0376dc140c8d7/original/Screen_Shot_2021-11-03_at_8.08.16_PM.png",
+    "website": "https://getzoog.com",
+    "location": "Even Yehuda, Israel",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Augmented reality",
+      "Edtech",
+      "Mobile",
+      "Fintech",
+      "Gaming",
+      "Virtual reality"
+    ],
+    "year": 2021,
+    "program": "Comcast NBCUniversal LIFT Labs Accelerator Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/zooghq",
+      "twitter": "https://twitter.com/zooghq",
+      "facebook": "https://facebook.com/zoogHQ/",
+      "crunchbase": "https://crunchbase.com/organization/zoog"
+    },
+    "extra": {
+      "city": "Even Yehuda",
+      "country": "Israel"
+    },
+    "country": "Israel",
+    "alsoIn": [
+      "500"
+    ]
   },
   {
     "id": "techstars-gamesight",
@@ -5053,7 +5470,7 @@
     "name": "Replica Studios",
     "description": "Replica uses Artificial Intelligence to create voices for the next generation of games, films, and other media.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/6347507d782a4900082519f8/original/oGVqhs0l_400x400.jpg",
-    "website": "",
+    "website": "https://replicastudios.com",
     "location": "Brisbane, Queensland, Australia",
     "region": "Oceania",
     "subregion": "Oceania",
@@ -5535,7 +5952,7 @@
     "name": "MegaFans",
     "description": "Mobile esports platform bridging web2 to web3 for gamers and enabling game developers to increase their player lifetime value.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/624c756df01b4e14f48b3605/original/Screenshot_2022-04-05_at_17.59.15.png",
-    "website": "",
+    "website": "https://megafans.com",
     "location": "Carlsbad, California, United States",
     "region": "Americas",
     "subregion": "North America",
@@ -6215,7 +6632,7 @@
     "name": "Esportudo",
     "description": "Esportudo is a sports media brand giving latinos the most complete coverage on their favorite players, teams, and leagues through personalized content and apps",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f31adcda36c113b600000eb/original/ES_ProfilePics_360x360.png",
-    "website": "",
+    "website": "https://esportudo.com",
     "location": "Boston, Massachusetts, United States",
     "region": "Americas",
     "subregion": "North America",
@@ -6328,7 +6745,7 @@
     "name": "Datawisp",
     "description": "StatsHelix is a gametech company that creates interactive engagement layers and broadcast tools for the gaming industry.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f06019fa36c1154930000e5/original/StatsHelix_Super_High_Res.png",
-    "website": "",
+    "website": "https://datawisp.io",
     "location": "Hempstead, New York, United States",
     "region": "Americas",
     "subregion": "North America",
@@ -6707,7 +7124,7 @@
     "name": "8LAB",
     "description": "8LAB is the members-only hub where creatives and tech pros connect and innovate with guidance from industry leaders + AI, Agent 8.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9724ef1317d545b9231ab49bc.jpeg",
-    "website": "",
+    "website": "https://8lab.ai",
     "location": "Los Angeles, California, United States",
     "region": "Americas",
     "subregion": "North America",
