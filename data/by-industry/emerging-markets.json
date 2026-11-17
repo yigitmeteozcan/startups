@@ -1,9 +1,10 @@
 [
   {
+    "id": "yc-lynks",
     "source": "yc",
     "name": "Lynks",
     "description": "Lynks is an e-commerce company that makes high demand products…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "https://www.lynks.com/",
     "location": "Cairo, Cairo Governorate, Egypt; Alexandria Governorate, Egypt",
     "region": "Egypt",
@@ -11,7 +12,7 @@
     "tags": [
       "Consumer",
       "Apparel and Cosmetics",
-      "E-Commerce",
+      "E-commerce",
       "Emerging Markets"
     ],
     "year": 2016,
@@ -30,13 +31,18 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Egypt",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "yc-mosaix-ai",
     "source": "yc",
     "name": "Mosaix.ai",
     "description": "Mosaix builds the NLP for the local languages at the emerging markets.",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "https://mosaix.ai",
     "location": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "region": "United States of America",
@@ -63,9 +69,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-outtalent",
     "source": "yc",
     "name": "Outtalent",
     "description": "We help top engineers from emerging markets get jobs abroad at…",
@@ -95,9 +104,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Kyrgyzstan",
+    "alsoIn": []
   },
   {
+    "id": "yc-popl",
     "source": "yc",
     "name": "Popl",
     "description": "Your AI GTM platform for In-Person Events",
@@ -127,9 +139,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-waza",
     "source": "yc",
     "name": "Waza",
     "description": "B2B payments platform for emerging markets.",
@@ -159,9 +174,14 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Nigeria",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "yc-cleva",
     "source": "yc",
     "name": "Cleva",
     "description": "Global neobank for emerging markets",
@@ -193,9 +213,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-paasa",
     "source": "yc",
     "name": "Paasa",
     "description": "Invest in Global Equities from India",
@@ -227,9 +250,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "India",
+    "alsoIn": []
   },
   {
+    "id": "yc-karsa",
     "source": "yc",
     "name": "Karsa",
     "description": "Stablecoin neobank for emerging markets",
@@ -259,9 +285,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-kita",
     "source": "yc",
     "name": "Kita",
     "description": "Underwrite borrowers around the world in minutes",
@@ -292,6 +321,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-idialogue",
     "source": "500",
     "name": "iDialogue",
     "description": "Developer of an online learning platform intended to connect students with teachers and peers from around the world. The company's platform provides micro-tutoring and tools for self-paced learning combined with on-demand interactive learning activities, such as virtual field trips and workshops with experts, guest speakers and professionals from different areas, enabling students to receive an immersive learning experience.",
@@ -35,9 +36,12 @@
     },
     "extra": {
       "country": "Turkey"
-    }
+    },
+    "country": "Turkey",
+    "alsoIn": []
   },
   {
+    "id": "500-kings",
     "source": "500",
     "name": "Kings",
     "description": "Operator of an online learning platform intended to improve students' academic skills. The company provides an online diagnostic test to analyze student performance and provide information about their academic abilities as well as collaboration tools to allow students to work together on projects and assignments, enabling students to learn at their own pace with the opportunity to interact with other students and instructors to get feedback on their work.",
@@ -73,6 +77,8 @@
     },
     "extra": {
       "country": "Lithuania"
-    }
+    },
+    "country": "Lithuania",
+    "alsoIn": []
   }
 ]

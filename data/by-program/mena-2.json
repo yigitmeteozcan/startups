@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-physiohome",
     "source": "500",
     "name": "Physiohome",
     "description": "Provider of home physiotherapy services intended to reduce pain and improve physical health. The company provides physiotherapy of bones and muscles, neurology, athletes and pediatric physiotherapy, enabling patients to have physical therapy at their home.",
@@ -47,22 +48,12 @@
         "linkedin": ""
       },
       {
-        "name": "Ahmed  Sidam",
+        "name": "Mohammed Alsuliman",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Mohammed  Alsuliman",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mahmoud Aboulnaga",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Aram  Alsumiry",
+        "name": "Aram Alsumiry",
         "role": "",
         "linkedin": ""
       }
@@ -75,9 +66,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-bringy",
     "source": "500",
     "name": "Bringy",
     "description": "Developer of a mobile insurance application designed to provide end-to-end insurance services instantly with fully digital steps. The company's platform offers insurance for funeral expenses, cancer risks, personal accidents, small businesses, cars, and much more, enabling customers to receive and claim insurance in minutes in an easy, fast, and secure manner.",
@@ -87,7 +81,7 @@
     "region": "Middle East & Africa",
     "subregion": "",
     "tags": [
-      "InsurTech"
+      "Insurtech"
     ],
     "year": 2022,
     "program": "Mena 2",
@@ -100,12 +94,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Ahmed  Ossama",
+        "name": "Ahmed Ossama",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Shady  Daniel",
+        "name": "Shady Daniel",
         "role": "",
         "linkedin": ""
       }
@@ -118,9 +112,12 @@
     },
     "extra": {
       "country": "Egypt"
-    }
+    },
+    "country": "Egypt",
+    "alsoIn": []
   },
   {
+    "id": "500-jingle-pay",
     "source": "500",
     "name": "Jingle Pay",
     "description": "Developer of a social payment system designed to serve enterprise and individual accounts. The company's mobile payment platform offers financial services in partnership with established financial institutions and technology companies and provides multi-currency account and card, remittance, instant, and free money transfer services in addition to other value-added services, empowering users with easy access to bank accounts and financial services.",
@@ -130,7 +127,7 @@
     "region": "Middle East & Africa",
     "subregion": "",
     "tags": [
-      "FinTech"
+      "Fintech"
     ],
     "year": 2021,
     "program": "Mena 2",
@@ -156,9 +153,14 @@
     },
     "extra": {
       "country": "United Arab Emirates"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "500-juleb",
     "source": "500",
     "name": "Juleb",
     "description": "The company develops and provides integrated cloud platforms specifically designed for the healthcare sector, aiming to enhance efficiency and innovation. The company's platform features pharmacies and their interactions with connected entities, focusing on ease of use, cost-effectiveness, and adherence to local and international standards specific to each regional healthcare landscape, enabling pharmacies to optimize their performance and deliver improved value within the broader healthcare ecosystem.",
@@ -191,7 +193,7 @@
         "linkedin": ""
       },
       {
-        "name": "Yousuf  Jamjoom",
+        "name": "Yousuf Jamjoom",
         "role": "",
         "linkedin": ""
       }
@@ -204,9 +206,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-letswork",
     "source": "500",
     "name": "Letswork",
     "description": "Letswork is a global platform that connects people to flexible workspaces, meeting rooms, and private offices, enabling productive work from anywhere.",
@@ -230,12 +235,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Hamza  Khan",
+        "name": "Hamza Khan",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Omar  AlMheiri",
+        "name": "Omar AlMheiri",
         "role": "",
         "linkedin": ""
       }
@@ -248,9 +253,12 @@
     },
     "extra": {
       "country": "United Arab Emirates"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   },
   {
+    "id": "500-gonitro",
     "source": "500",
     "name": "GoNitro",
     "description": "Developer of shipping software designed to manage and ship orders. The company's platform specializes in multi-carrier shipping management operations in one place to set up products and order delivery, enabling the online retailer to create and print shipping labels, automatically update customers and connect to all shipping carriers.",
@@ -301,9 +309,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-playbook",
     "source": "500",
     "name": "Playbook",
     "description": "Developer of education platform designed to bridge the global gender gap and get more women into leadership roles. The company specializes in providing edutainment packages and diverse digital masterclasses led by women leaders, enabling women to get unstuck in their personal and professional lives and navigate pain points with much more clarity and perspective as they learn from real-world scenarios and tactics.",
@@ -342,16 +353,6 @@
         "linkedin": ""
       },
       {
-        "name": "Wafa AlObaidat",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Shreya  Rammohan",
-        "role": "",
-        "linkedin": ""
-      },
-      {
         "name": "Ismahan Al Saad",
         "role": "",
         "linkedin": ""
@@ -370,9 +371,12 @@
     },
     "extra": {
       "country": "Bahrain"
-    }
+    },
+    "country": "Bahrain",
+    "alsoIn": []
   },
   {
+    "id": "500-no-diet",
     "source": "500",
     "name": "No Diet",
     "description": "Developer of personal hygiene products intended for a simple and effective hygiene routine for men. The company specializes in making deodorant with anti-antiperspirant properties that get absorbed quickly, do not cause allergic reactions, and prevent bad odors, providing customers with male hygiene products, and accessories to cleanse, moisturize, and deodorize and form a simple male grooming routine and prevent health and order issues.",
@@ -405,17 +409,7 @@
         "linkedin": ""
       },
       {
-        "name": "Saud  Alwithinani",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saleh  Alnanih",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saleh  Altuwaijri",
+        "name": "Saleh Alnanih",
         "role": "",
         "linkedin": ""
       },
@@ -438,9 +432,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-teamup",
     "source": "500",
     "name": "TeamUp",
     "description": "Developer of an online sports leagues and tournaments management application designed to track individual players' stats. The company's platform follows a multiple-tier revenue model based on subscriptions, commissions, advertising and monetization of big data, enabling customers to get a big enough pool of players, and enough data, to begin their scouting activities.",
@@ -486,9 +483,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-twinn-health",
     "source": "500",
     "name": "Twinn Health",
     "description": "Developer of healthcare tools intended for early disease detection using imaging and AI tools to extend a healthy human lifespan. The company's platform uses MRI scanning and AI to get information about metabolism and body composition, enabling healthcare professionals to look for warning signs of potential inflammation, damage, and disease in major organs, muscles, and bones.",
@@ -524,6 +524,8 @@
     },
     "extra": {
       "country": "United Kingdom"
-    }
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
   }
 ]

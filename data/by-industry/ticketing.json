@@ -1,9 +1,10 @@
 [
   {
+    "id": "yc-eventjoy",
     "source": "yc",
     "name": "Eventjoy",
     "description": "Fee-free ticketing, optimized for mobile.",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://eventjoy.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -28,9 +29,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-livement",
     "source": "yc",
     "name": "Livement",
     "description": "Livement makes selling tickets for events easy and safe for organizers",
@@ -59,9 +63,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-qubit-smart-tickets",
     "source": "500",
     "name": "Qubit Smart Tickets",
     "description": "Developer of blockchain-based event ticket system designed for companies dedicated to artistic entertainment and recreation activities. The company's system offers features such as anti-fraud security, frictionless mobile transfers, resale control, and a unique ability to generate new revenue and communication opportunities, enabling large companies and SMEs dedicated to artistic entertainment and recreation activities to control, display and manage smart digital tickets, generating trust and maximizing the transactional experience.",
@@ -103,9 +110,12 @@
     },
     "extra": {
       "country": "Colombia"
-    }
+    },
+    "country": "Colombia",
+    "alsoIn": []
   },
   {
+    "id": "500-the-ticket-fairy",
     "source": "500",
     "name": "The Ticket Fairy",
     "description": "Ticket Fairy is Salesforce meets Eventbrite - AI-enabled vertical SaaS for events and venues that skyrockets their revenues and accelerates their path to profitability!",
@@ -158,6 +168,10 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
   }
 ]

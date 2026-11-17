@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-brandtrack",
     "source": "500",
     "name": "Brandtrack",
     "description": "Operator of a background music platform intended to help in creating and composing background music. The company's platform helps in managing the musicalization of multiple commercial spaces and is offered in conjunction with a personalized musical selection that seeks to enhance consumer experiences, enabling businesses to choose and compose background pieces of music while showcasing their products and attracting more customers.",
@@ -32,11 +33,6 @@
         "linkedin": ""
       },
       {
-        "name": "Santiago Lagier",
-        "role": "",
-        "linkedin": ""
-      },
-      {
         "name": "Juan Villani",
         "role": "",
         "linkedin": ""
@@ -55,9 +51,12 @@
     },
     "extra": {
       "country": "Argentina"
-    }
+    },
+    "country": "Argentina",
+    "alsoIn": []
   },
   {
+    "id": "500-clip",
     "source": "500",
     "name": "Clip",
     "description": "Developer of a digital payment platform designed to help businesses increase sales and grow their business. The company's platform offers an application that lets businesses accept payments with all credit and debit cards, contactless technology and Samsung Pay without complicated paperwork, monthly fees or minimal sales, enabling customers to pay anytime at their fingertips and businesses to accept payments easily.",
@@ -67,7 +66,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "FinTech"
+      "Fintech"
     ],
     "year": 2013,
     "program": "Lucha 4",
@@ -98,9 +97,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-konfio",
     "source": "500",
     "name": "Konfio",
     "description": "Developer of an online lending platform designed to offer micro-business loans. The company's platform complements traditional financial analysis and helps clients achieve economic growth through access to credit options with a proprietary algorithm that combines data and technology to measure creditworthiness, providing convenience and affordability to customers who are creditworthy but historically under-served by traditional banking, enabling small businesses to grow their operations and businesses with competitive rates.",
@@ -110,7 +112,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "FinTech"
+      "Fintech"
     ],
     "year": 2014,
     "program": "Lucha 4",
@@ -131,11 +133,6 @@
         "name": "David Arana",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "David Arana",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -146,9 +143,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-zolvers-srl",
     "source": "500",
     "name": "Zolvers SRL",
     "description": "Operator of an online platform intended to connect customers with service providers for errands. The company's marketplace helps people to outsource errands such as cleaning, home or office maintenance, and any short pending task, enabling people to complete housework at a reasonable cost.",
@@ -158,7 +158,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "FinTech"
+      "Fintech"
     ],
     "year": 2014,
     "program": "Lucha 4",
@@ -184,11 +184,6 @@
         "name": "Fernando Cammarota",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Cecilia Retegui",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -199,6 +194,8 @@
     },
     "extra": {
       "country": "Argentina"
-    }
+    },
+    "country": "Argentina",
+    "alsoIn": []
   }
 ]

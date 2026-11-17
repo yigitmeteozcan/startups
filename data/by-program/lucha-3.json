@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-facturama",
     "source": "500",
     "name": "Facturama",
     "description": "Developer of an electronic invoicing platform designed to manage a company's billing process. The company's product features the issuance, receipt and validation of invoices, payroll, payment complements, fee receipts, lease receipts, consignment notes, deductible donation receipts and credit notes, thereby enabling individuals and small and medium-sized enterprises to have control over their daily business.",
@@ -9,7 +10,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "FinTech"
+      "Fintech"
     ],
     "year": 2014,
     "program": "Lucha 3",
@@ -50,9 +51,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-firstjob-me",
     "source": "500",
     "name": "Firstjob.me",
     "description": "We connect students and recent graduates with the best companies to work for in Latin America",
@@ -103,9 +107,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-nubity",
     "source": "500",
     "name": "Nubity",
     "description": "Developer of a centralized platform designed to integrate public and private cloud services. The company's platform integrates all the clouds and servers in a single interface that facilitates to management and monitor the infrastructure, enabling companies to monitor and delegate the administration and management of information technology infrastructure.",
@@ -138,17 +145,7 @@
         "linkedin": ""
       },
       {
-        "name": "Dario Peña",
-        "role": "",
-        "linkedin": ""
-      },
-      {
         "name": "Dario Pena",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dario Peña",
         "role": "",
         "linkedin": ""
       }
@@ -161,9 +158,12 @@
     },
     "extra": {
       "country": "Argentina"
-    }
+    },
+    "country": "Argentina",
+    "alsoIn": []
   },
   {
+    "id": "500-autochilango",
     "source": "500",
     "name": "AutoChilango",
     "description": "Provider of legal and bureaucracy assistance for cars. The company engages in development of a mobile phone application that provides traffic alerts, insurance management and other vital information that helps people to manage everything that is necessary with having a car in Mexico City.",
@@ -173,8 +173,8 @@
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech",
-      "InsurTech",
+      "Fintech",
+      "Insurtech",
       "Mobile"
     ],
     "year": 2013,
@@ -206,6 +206,8 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   }
 ]

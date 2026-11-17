@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-apphive",
     "source": "500",
     "name": "Apphive",
     "description": "Developer of a mobile application builder platform intended to help users to create easy-friendly applications without any coding knowledge. The company's platform offers components like a database, GPS, camera, and geolocation that can be dragged, dropped, customized, and published at one's convenience, enabling clients to easily create applications needed for their business.",
@@ -35,9 +36,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-baubap",
     "source": "500",
     "name": "Baubap",
     "description": "Developer of a microlending financial platform intended to offer personal loans. The company's platform offers instant loans to customers through its application without the need for documents or convoluted processes, enabling users to apply for a loan anytime and anywhere without any hassle.",
@@ -47,7 +51,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "FinTech"
+      "Fintech"
     ],
     "year": 2019,
     "program": "Lucha 10",
@@ -73,9 +77,14 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-net-worth",
     "source": "500",
     "name": "Net Worth",
     "description": "Operator of a financial platform intended to help professionals in managing their investments. The company's platform facilitates trading in stocks and funds and has advisors who provide financial planning services, promote the stock market, and guide towards a responsible credit culture, enabling clients to meet their goals and maintain financial security.",
@@ -85,7 +94,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "FinTech"
+      "Fintech"
     ],
     "year": 2019,
     "program": "Lucha 10",
@@ -121,9 +130,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-slik",
     "source": "500",
     "name": "Slik",
     "description": "We provide organizations with cloud-based surveys and analytics to measure and improve employee engagement. ",
@@ -169,9 +181,12 @@
     },
     "extra": {
       "country": "Argentina"
-    }
+    },
+    "country": "Argentina",
+    "alsoIn": []
   },
   {
+    "id": "500-vico",
     "source": "500",
     "name": "Vico",
     "description": "Operator of a room and apartment searching platform designed to help students find their shared housing. The company's platform offers a wide variety of places to choose from according to preferences and conditions that are verified by a lease contract, allowing young professionals to find their new shared home and integrate themselves into the new culture.",
@@ -212,6 +227,8 @@
     },
     "extra": {
       "country": "Colombia"
-    }
+    },
+    "country": "Colombia",
+    "alsoIn": []
   }
 ]

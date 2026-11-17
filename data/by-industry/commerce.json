@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-cakeshop",
     "source": "500",
     "name": "Cakeshop",
     "description": "Operator of a skincare marketplace intended to empower the skincare journey. The company's marketplace provides recommendations, trail sampling, and connects for advice from skin influencers, aestheticians, and dermatologists, enabling customers to have a constant guide for their skincare regime.",
@@ -9,7 +10,7 @@
     "region": "South Asia",
     "subregion": "",
     "tags": [
-      "AdTech",
+      "Adtech",
       "Beauty",
       "Commerce"
     ],
@@ -37,9 +38,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-baycon",
     "source": "500",
     "name": "BAYCON",
     "description": "Operator of a B2C and B2B eSIM platform called 'eSIM Easy\" with an emphasis on elevating roaming services for inbound and outbound travelers globally.",
@@ -87,9 +91,12 @@
     },
     "extra": {
       "country": "South Korea"
-    }
+    },
+    "country": "South Korea",
+    "alsoIn": []
   },
   {
+    "id": "500-circulo-de-belleza",
     "source": "500",
     "name": "Circulo de Belleza",
     "description": "Omnichannel distribution platform bringing global beauty brands to salons and professionals across Mexico.",
@@ -127,9 +134,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-curie",
     "source": "500",
     "name": "Curie",
     "description": "Developer of a 3D product generation platform designed to offer 3D shopping assistance. The company's platform allows shoppers to discover the best reviews and product news at the point of a camera, enabling customers to instantly educate and consense information and make purchases.",
@@ -173,9 +183,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-heartthis",
     "source": "500",
     "name": "HeartThis",
     "description": "Provider of an online shopping platform. The company provides users with an online platform to purchase goods and accessories of various brands, with home delivery.",
@@ -222,9 +235,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-uncodie",
     "source": "500",
     "name": "Uncodie",
     "description": "AI OS for Revops",
@@ -277,9 +293,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-popsa",
     "source": "500",
     "name": "Popsa",
     "description": "Provider of automated photo book printing services intended to bring customizable printed goods to audiences using technology. The company's application uses narrow AI technology which auto-generates photo books with the selected photos and provides editing options, enabling users to create personalized prints such as photo books, calendars, and boxes of prints.",
@@ -321,9 +340,12 @@
     },
     "extra": {
       "country": "United Kingdom"
-    }
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
   },
   {
+    "id": "500-shiptag",
     "source": "500",
     "name": "ShipTag",
     "description": "ShipTag helps e-commerce brands sell globally by handling cross-border operations end-to-end—localization, duties/taxes, payments, and shipping integrations. ",
@@ -333,7 +355,7 @@
     "region": "",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "Logistics",
       "Commerce"
     ],
@@ -366,9 +388,12 @@
     },
     "extra": {
       "country": "UNITED STATES"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-the-ticket-fairy",
     "source": "500",
     "name": "The Ticket Fairy",
     "description": "Ticket Fairy is Salesforce meets Eventbrite - AI-enabled vertical SaaS for events and venues that skyrockets their revenues and accelerates their path to profitability!",
@@ -421,6 +446,10 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
   }
 ]

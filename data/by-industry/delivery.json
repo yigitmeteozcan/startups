@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-caviar",
     "source": "yc",
     "name": "Caviar",
     "description": "Uber for food.",
@@ -30,9 +31,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-instacart",
     "source": "yc",
     "name": "Instacart",
     "description": "Marketplace for grocery delivery and pickup",
@@ -64,9 +68,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-swapbox",
     "source": "yc",
     "name": "Swapbox",
     "description": "Stop missing deliveries. Ship to Swapbox and pick up at our kiosks.",
@@ -98,9 +105,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-bloomthat",
     "source": "yc",
     "name": "BloomThat",
     "description": "Uber for Flowers.",
@@ -130,13 +140,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-spoonrocket",
     "source": "yc",
     "name": "SpoonRocket",
     "description": "Meals Delivered in 10 Minutes",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://spoonrocket.com",
     "location": "San Francisco, CA, USA; Berkeley, CA, USA",
     "region": "United States of America",
@@ -163,13 +176,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-rickshaw",
     "source": "yc",
     "name": "Rickshaw",
     "description": "Same day local delivery, via API. Currently operating in SF.",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://gorickshaw.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -196,13 +212,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-zoomer",
     "source": "yc",
     "name": "Zoomer",
     "description": "Outsourced, high volume food delivery.\r\n\r\n",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "",
     "location": "Philadelphia, PA, USA",
     "region": "United States of America",
@@ -230,9 +249,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-cleanly",
     "source": "yc",
     "name": "Cleanly",
     "description": "Laundry & Dry Cleaning delivered.",
@@ -263,9 +285,14 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [
+      "500"
+    ]
   },
   {
+    "id": "yc-flirtey-skydrop",
     "source": "yc",
     "name": "Flirtey (SkyDrop)",
     "description": "Flirtey is the world’s first commercial drone delivery service",
@@ -295,13 +322,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "yc-envyl",
     "source": "yc",
     "name": "Envyl",
     "description": "Envyl enables a fast, reliable and cost effective peer to peer…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://www.envyl.com",
     "location": "New York City, NY, USA; Brooklyn, NY, USA",
     "region": "United States of America",
@@ -310,7 +340,7 @@
       "Consumer",
       "Home and Personal",
       "Delivery",
-      "E-Commerce",
+      "E-commerce",
       "Logistics"
     ],
     "year": 2016,
@@ -329,9 +359,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-rappi",
     "source": "yc",
     "name": "Rappi",
     "description": "On-demand delivery and financial services for Latin America.",
@@ -362,13 +395,18 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Colombia",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "yc-farmstead",
     "source": "yc",
     "name": "Farmstead",
     "description": "An AI-powered digital grocer that delivers in under 60 mins.",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://farmsteadapp.com",
     "location": "San Francisco, CA, USA; San Mateo, CA, USA",
     "region": "United States of America",
@@ -396,13 +434,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-symple",
     "source": "yc",
     "name": "Symple",
     "description": "Last mile logistics for delivery & service teams. We bring real-time…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://www.getsymple.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -428,13 +469,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-sycamore",
     "source": "yc",
     "name": "Sycamore",
     "description": "Marketplace for companies to add a delivery driver in 5 minutes.",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "https://www.mysycamore.com/",
     "location": "",
     "region": "Unspecified",
@@ -461,9 +505,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "yc-supr-daily",
     "source": "yc",
     "name": "Supr Daily",
     "description": "Daily grocery delivery service in India",
@@ -495,9 +542,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "India",
+    "alsoIn": []
   },
   {
+    "id": "yc-feather-livefeather-com",
     "source": "yc",
     "name": "Feather",
     "description": "Furniture rental for consumers and businesses.",
@@ -529,9 +579,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-pop-meals",
     "source": "yc",
     "name": "Pop Meals",
     "description": "Pop Meals is a restaurant chain without chefs. All recipes are…",
@@ -563,9 +616,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Malaysia",
+    "alsoIn": []
   },
   {
+    "id": "yc-purple-plate",
     "source": "yc",
     "name": "Purple Plate",
     "description": "We license brands for delivery and pick-up",
@@ -596,9 +652,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-simmer",
     "source": "yc",
     "name": "Simmer",
     "description": "We do reviews for dishes. Our app helps users find the very best…",
@@ -630,9 +689,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-bensen",
     "source": "yc",
     "name": "Bensen",
     "description": "Online and phone ordering for restaurant takeout and delivery",
@@ -663,9 +725,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-lezzoo",
     "source": "yc",
     "name": "Lezzoo",
     "description": "Lezzoo is an on-demand delivery Superapp for Iraq. ",
@@ -697,9 +762,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Iraq",
+    "alsoIn": []
   },
   {
+    "id": "yc-first",
     "source": "yc",
     "name": "FIRST",
     "description": "The best way for any business to offer delivery. ",
@@ -730,9 +798,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-curri",
     "source": "yc",
     "name": "Curri",
     "description": "Construction & industrial logistics platform.",
@@ -764,9 +835,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-breadfast",
     "source": "yc",
     "name": "Breadfast",
     "description": "Household needs, from bread to everything.",
@@ -798,9 +872,14 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Egypt",
+    "alsoIn": [
+      "500"
+    ]
   },
   {
+    "id": "yc-racer",
     "source": "yc",
     "name": "Racer",
     "description": "15-minute food delivery",
@@ -831,9 +910,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-duffl",
     "source": "yc",
     "name": "Duffl",
     "description": "10-minute delivery service for college students.",
@@ -864,9 +946,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-orchata",
     "source": "yc",
     "name": "Orchata",
     "description": "Groceries delivered in 20 min in Latinamerica",
@@ -897,9 +982,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "yc-farmako-healthcare",
     "source": "yc",
     "name": "Farmako Healthcare",
     "description": "India's fastest medicine delivery in just 30 minutes",
@@ -913,7 +1001,7 @@
       "Healthcare IT",
       "Health Tech",
       "Delivery",
-      "Digital Health"
+      "Digital health"
     ],
     "year": 2020,
     "program": "YC Summer 2020",
@@ -931,9 +1019,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "India",
+    "alsoIn": []
   },
   {
+    "id": "yc-justo",
     "source": "yc",
     "name": "Justo",
     "description": "Helps restaurants take online orders directly from customers",
@@ -964,9 +1055,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Chile",
+    "alsoIn": []
   },
   {
+    "id": "yc-tyltgo",
     "source": "yc",
     "name": "TyltGO",
     "description": "TyltGO powers retailers with same-day delivery.",
@@ -996,9 +1090,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Canada",
+    "alsoIn": []
   },
   {
+    "id": "yc-fancy",
     "source": "yc",
     "name": "Fancy",
     "description": "Essentials delivered in 30 minutes.",
@@ -1029,9 +1126,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United Kingdom",
+    "alsoIn": []
   },
   {
+    "id": "yc-byte",
     "source": "yc",
     "name": "Byte",
     "description": "On-demand food delivery from dark kitchens in Pakistan.",
@@ -1063,9 +1163,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Pakistan",
+    "alsoIn": []
   },
   {
+    "id": "yc-unfurl",
     "source": "yc",
     "name": "Unfurl",
     "description": "A virtual food hall that delivers",
@@ -1096,9 +1199,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-zepto",
     "source": "yc",
     "name": "Zepto",
     "description": "10-Minute Grocery Delivery in India",
@@ -1129,9 +1235,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "India",
+    "alsoIn": []
   },
   {
+    "id": "yc-logisticsos",
     "source": "yc",
     "name": "LogisticsOS",
     "description": "World's fastest and most optimal route optimization engine",
@@ -1164,9 +1273,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-taste",
     "source": "yc",
     "name": "Taste",
     "description": "Online marketplace for dinners shipped from great restaurants",
@@ -1198,9 +1310,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-yummy",
     "source": "yc",
     "name": "Yummy",
     "description": "The everything app for LATAM",
@@ -1232,9 +1347,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-nino-foods",
     "source": "yc",
     "name": "Nino Foods",
     "description": "Building India's fast food empire",
@@ -1267,9 +1385,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "India",
+    "alsoIn": []
   },
   {
+    "id": "yc-locale",
     "source": "yc",
     "name": "Locale",
     "description": "Organic and gourmet high-protein meals, designed for longevity.",
@@ -1302,9 +1423,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-shipblu",
     "source": "yc",
     "name": "ShipBlu",
     "description": "Amazon Level Logistics for eCommerce Companies in MENA.",
@@ -1334,9 +1458,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Egypt",
+    "alsoIn": []
   },
   {
+    "id": "yc-membo",
     "source": "yc",
     "name": "Membo",
     "description": "Groceries fresher than a farmer’s market, delivered to you (EU)",
@@ -1368,9 +1495,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Estonia",
+    "alsoIn": []
   },
   {
+    "id": "yc-cache",
     "source": "yc",
     "name": "Cache",
     "description": "Online convenience stores fulfilled by tiny, automated dark stores.",
@@ -1401,9 +1531,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-titipku",
     "source": "yc",
     "name": "Titipku",
     "description": "Super Hyperlocal Marketplace for SMEs in Indonesia",
@@ -1434,9 +1567,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Indonesia",
+    "alsoIn": []
   },
   {
+    "id": "yc-nash-usenash-com",
     "source": "yc",
     "name": "Nash",
     "description": "Nash is the digital logistics infrastructure for commerce",
@@ -1468,9 +1604,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-lightmeter",
     "source": "yc",
     "name": "Lightmeter",
     "description": "Managed Sales Email Delivery For Cold Outreach",
@@ -1500,9 +1639,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Germany",
+    "alsoIn": []
   },
   {
+    "id": "yc-ole",
     "source": "yc",
     "name": "Ole",
     "description": "Fashion shopping with delivery and return on demand",
@@ -1514,7 +1656,7 @@
     "tags": [
       "Consumer",
       "Delivery",
-      "E-Commerce",
+      "E-commerce",
       "Fashion"
     ],
     "year": 2022,
@@ -1533,9 +1675,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Israel",
+    "alsoIn": []
   },
   {
+    "id": "yc-bakool",
     "source": "yc",
     "name": "Bakool",
     "description": "Group buying for Fresh in Indonesia's tier 2 cities",
@@ -1567,9 +1712,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Indonesia",
+    "alsoIn": []
   },
   {
+    "id": "yc-quik",
     "source": "yc",
     "name": "QUIK",
     "description": "Building the operating system for business in LATAM",
@@ -1600,9 +1748,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Venezuela",
+    "alsoIn": []
   },
   {
+    "id": "yc-beu-delivery",
     "source": "yc",
     "name": "beU delivery",
     "description": "Food delivery service in Africa",
@@ -1634,9 +1785,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Ethiopia",
+    "alsoIn": []
   },
   {
+    "id": "yc-foodcourt",
     "source": "yc",
     "name": "FoodCourt",
     "description": "Virtual Restaurants & Stores for Africa",
@@ -1668,9 +1822,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Nigeria",
+    "alsoIn": []
   },
   {
+    "id": "yc-krave-mart",
     "source": "yc",
     "name": "Krave Mart",
     "description": "Grocery Delivery in Pakistan",
@@ -1703,9 +1860,14 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Pakistan",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "yc-sanvivo",
     "source": "yc",
     "name": "Sanvivo",
     "description": "Shopify for pharmacies in Europe",
@@ -1738,9 +1900,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Germany",
+    "alsoIn": []
   },
   {
+    "id": "yc-truemetrics",
     "source": "yc",
     "name": "truemetrics",
     "description": "We show couriers where to park and enter a building.",
@@ -1772,9 +1937,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Germany",
+    "alsoIn": []
   },
   {
+    "id": "yc-getcho",
     "source": "yc",
     "name": "Getcho",
     "description": "Same day delivery and shipping for stores, brands and 3PLs",
@@ -1807,6 +1975,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   }
 ]

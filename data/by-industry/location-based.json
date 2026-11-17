@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-fobo",
     "source": "yc",
     "name": "Fobo",
     "description": "Sell to people nearby.",
@@ -11,7 +12,7 @@
     "tags": [
       "Consumer",
       "Home and Personal",
-      "E-Commerce",
+      "E-commerce",
       "Location-based"
     ],
     "year": 2011,
@@ -30,13 +31,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-grabb-it",
     "source": "yc",
     "name": "Grabb-It",
     "description": "Grabb-It is a location based Dynamic Digital - OOH advertising…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "https://grabb-it.io",
     "location": "Milpitas, CA, USA",
     "region": "United States of America",
@@ -62,9 +66,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-mireye",
     "source": "yc",
     "name": "Mireye",
     "description": "Search Engine for the Physical World",
@@ -95,6 +102,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   }
 ]

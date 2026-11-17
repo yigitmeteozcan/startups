@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-avify",
     "source": "500",
     "name": "Avify",
     "description": "CRM for SBMs in LATAM",
@@ -40,9 +41,12 @@
     },
     "extra": {
       "country": "Costa Rica"
-    }
+    },
+    "country": "Costa Rica",
+    "alsoIn": []
   },
   {
+    "id": "500-backstartup",
     "source": "500",
     "name": "Backstartup",
     "description": "Developer of accounting and legal automation platform designed to aid in the management of business activities. The company's platform offers the processing of documents and generating financial statements while liquidating national and municipal taxes in time and also provides legal advice and monthly payroll calculation of employees, enabling businesses to focus on the core activities of the company while maintaining productivity.",
@@ -93,9 +97,12 @@
     },
     "extra": {
       "country": "Colombia"
-    }
+    },
+    "country": "Colombia",
+    "alsoIn": []
   },
   {
+    "id": "500-bonum-coaching",
     "source": "500",
     "name": "Bonum Coaching",
     "description": "Developer of a coaching platform designed for the development of leaders and companies. The company offers an executive coach, leadership evaluations that allow measuring progress towards the objectives set and coaching services that grow with the organization and adapt to all employees, enabling companies to improve results by developing employees and aligning with the values of the organization.",
@@ -136,9 +143,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-ejen2u",
     "source": "500",
     "name": "Ejen2u",
     "description": "Developer of a reseller ecosystem platform intended to help business owners manage resellers like stockists, agents, and dropships. The company's platform is integrated, digitalized, and data-driven and offers systematic product ordering, detailed reporting, commissions, reward systems, databases, and performance monitoring among others, enabling businesses to improve productivity and profitability.",
@@ -186,9 +196,12 @@
     },
     "extra": {
       "country": "Malaysia"
-    }
+    },
+    "country": "Malaysia",
+    "alsoIn": []
   },
   {
+    "id": "500-gestarcoop",
     "source": "500",
     "name": "Gestarcoop",
     "description": "Developer of billing management system intended for cooperatives. The company's software is a comprehensive management solution that allows it to speed up the daily work and automates accounting processes, enabling clients to manage finances, administration, and client information through a single platform.",
@@ -229,9 +242,12 @@
     },
     "extra": {
       "country": "Peru"
-    }
+    },
+    "country": "Peru",
+    "alsoIn": []
   },
   {
+    "id": "500-get-on-board",
     "source": "500",
     "name": "Get On Board",
     "description": "Operator of an online job portal intended to connect the startups and tech companies of the world with fresh talents around the globe. The company's platform filters and curates jobs in the fields of sales, designing, human resources, cybersecurity, and many more in several locations, enabling job seekers to find jobs as per their requirements efficiently.",
@@ -278,9 +294,12 @@
     },
     "extra": {
       "country": "Chile"
-    }
+    },
+    "country": "Chile",
+    "alsoIn": []
   },
   {
+    "id": "500-komerce",
     "source": "500",
     "name": "Komerce",
     "description": "Operator of an end-to-end e-commerce platform designed for effective and integrated online business development. The company platform provides e-commerce talents and helps improve sales performance by providing trained talent support, order delivery platforms, and warehouse management, enabling small and medium enterprises to recruit for their internet commerce operations.",
@@ -326,9 +345,12 @@
     },
     "extra": {
       "country": "Indonesia"
-    }
+    },
+    "country": "Indonesia",
+    "alsoIn": []
   },
   {
+    "id": "500-meitre",
     "source": "500",
     "name": "Meitre",
     "description": "Developer of a guest reservation management platform designed to offer restaurant table booking services to clients. The company's platform leverages technology to book tables based on demand trends rotate tables efficiently, introduce dynamic pricing techniques, and host events, enabling clients to eliminate no-shows, lower cancellation rates, and allocate demand efficiently.",
@@ -364,9 +386,14 @@
     },
     "extra": {
       "country": "Uruguay"
-    }
+    },
+    "country": "Uruguay",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-ovation",
     "source": "500",
     "name": "Ovation",
     "description": "Developer of an actionable guest feedback platform designed to drive revenue for multi-unit restaurants. The company's platform tracks and figures out the enterprise's loyal customers and assists them in leaving positive online reviews, as well as provides customer feedback and increases social media following, enabling businesses to monitor and measure their web presence and engage increased customers by improving their online marketing strategies.",
@@ -414,9 +441,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-replyr-ai",
     "source": "500",
     "name": "Replyr.ai",
     "description": "Developer of a buy now pay later platform designed to change the way people finance their purchases. The company's platform integrates with websites or applications to give people the ability to split their costs and manage them through installment payments, enabling businesses to offer their customers the choice of paying in interest-free installments.",
@@ -449,11 +479,6 @@
         "name": "Vishvesh Suriyanarayanan",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Dylan Tan",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -464,9 +489,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-ruka-ai",
     "source": "500",
     "name": "Ruka.ai",
     "description": "AI agents automating SMBs",
@@ -509,6 +537,8 @@
     },
     "extra": {
       "country": "Chile"
-    }
+    },
+    "country": "Chile",
+    "alsoIn": []
   }
 ]

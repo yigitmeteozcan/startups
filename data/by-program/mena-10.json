@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-edufi-pte-ltd",
     "source": "500",
     "name": "EDUFI PTE. LTD",
     "description": "",
@@ -33,9 +34,12 @@
     },
     "extra": {
       "country": "SINGAPORE"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-governata",
     "source": "500",
     "name": "Governata",
     "description": "",
@@ -84,9 +88,12 @@
     },
     "extra": {
       "country": "UNITED ARAB EMIRATES"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   },
   {
+    "id": "500-local",
     "source": "500",
     "name": "Local",
     "description": "Local is a QR payments platform helping businesses that serve customers on site get paid in just 10 seconds.",
@@ -133,9 +140,12 @@
     },
     "extra": {
       "country": "UNITED ARAB EMIRATES"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   },
   {
+    "id": "500-maison-safqa-holdings-limited",
     "source": "500",
     "name": "Maison Safqa Holdings Limited",
     "description": "",
@@ -169,9 +179,12 @@
     },
     "extra": {
       "country": "UNITED ARAB EMIRATES"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   },
   {
+    "id": "500-raspire",
     "source": "500",
     "name": "RASPIRE",
     "description": "A no-code platform that helps businesses secure their mobile apps and protect user data against cyber threats.",
@@ -208,9 +221,14 @@
     },
     "extra": {
       "country": "Egypt"
-    }
+    },
+    "country": "Egypt",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-seen-hq-inc",
     "source": "500",
     "name": "Seen HQ Inc.",
     "description": "",
@@ -244,9 +262,12 @@
     },
     "extra": {
       "country": "UNITED STATES"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-shiptag",
     "source": "500",
     "name": "ShipTag",
     "description": "ShipTag helps e-commerce brands sell globally by handling cross-border operations end-to-end—localization, duties/taxes, payments, and shipping integrations. ",
@@ -256,7 +277,7 @@
     "region": "",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "Logistics",
       "Commerce"
     ],
@@ -289,9 +310,12 @@
     },
     "extra": {
       "country": "UNITED STATES"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-wow-ai-ltd",
     "source": "500",
     "name": "Wow AI LTD",
     "description": "",
@@ -322,11 +346,6 @@
         "name": "Sherif Makhlouf",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Sherif Makhlouf",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -337,6 +356,8 @@
     },
     "extra": {
       "country": "CAYMAN ISLANDS"
-    }
+    },
+    "country": "Cayman Islands",
+    "alsoIn": []
   }
 ]

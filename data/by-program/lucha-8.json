@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-gestarcoop",
     "source": "500",
     "name": "Gestarcoop",
     "description": "Developer of billing management system intended for cooperatives. The company's software is a comprehensive management solution that allows it to speed up the daily work and automates accounting processes, enabling clients to manage finances, administration, and client information through a single platform.",
@@ -40,9 +41,12 @@
     },
     "extra": {
       "country": "Peru"
-    }
+    },
+    "country": "Peru",
+    "alsoIn": []
   },
   {
+    "id": "500-mienvio",
     "source": "500",
     "name": "Mienvío",
     "description": "Developer of a multi-carrier shipping platform designed to manage logistics operations. The company's platform offers access to official accounts from the carriers, aggregates prices for multiple courier services and allows customers to compare and book courier services as well as provides collection services from home, and also offers functionalities like shipment tracking and invoice creation, enabling small businesses and independent people to ship their parcels more efficiently.",
@@ -98,9 +102,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-atexto",
     "source": "500",
     "name": "Atexto",
     "description": "Provider of transcription services intended to offer speech-to-text transcriptions. The company's platform offers audio transcription service to train, test and tune voice machines, creating folders for each file or project and accessing live visibility about transcript progression and downloading them when they are ready, enabling companies to access their platform to load recording files to transcribe at any time and at a low cost.",
@@ -137,6 +144,8 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   }
 ]

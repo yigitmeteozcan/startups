@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-influxdata",
     "source": "yc",
     "name": "InfluxData",
     "description": "The platform for building and operating time series applications.",
@@ -31,13 +32,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-pipelinedb",
     "source": "yc",
     "name": "PipelineDB",
     "description": "Open-source time-series data analytics extension for PostgreSQL",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "",
     "location": "Los Angeles, CA, USA",
     "region": "United States of America",
@@ -63,9 +67,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-questdb",
     "source": "yc",
     "name": "QuestDB",
     "description": "Data platform for mission-critical real-time workloads",
@@ -97,6 +104,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United Kingdom",
+    "alsoIn": []
   }
 ]

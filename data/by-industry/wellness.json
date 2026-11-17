@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-physiohome",
     "source": "500",
     "name": "Physiohome",
     "description": "Provider of home physiotherapy services intended to reduce pain and improve physical health. The company provides physiotherapy of bones and muscles, neurology, athletes and pediatric physiotherapy, enabling patients to have physical therapy at their home.",
@@ -47,22 +48,12 @@
         "linkedin": ""
       },
       {
-        "name": "Ahmed  Sidam",
+        "name": "Mohammed Alsuliman",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Mohammed  Alsuliman",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mahmoud Aboulnaga",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Aram  Alsumiry",
+        "name": "Aram Alsumiry",
         "role": "",
         "linkedin": ""
       }
@@ -75,9 +66,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-ample",
     "source": "500",
     "name": "Ample",
     "description": "Producer of nutritional food supplement products intended to provide a complete meal-in-a-bottle drink. The company's products are nutritious, full drinkable meals made from real food ingredients and organic materials including sweet potato starch, macadamia nut, and chia seeds, enabling consumers to get access to complete meal replacement that makes it easy and fast to achieve optimal nutrition on the go.",
@@ -113,9 +107,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-avioneta",
     "source": "500",
     "name": "Avioneta",
     "description": "Provider of healthcare services intended to help patients get rid of their alcohol addiction. The company offers a monthly subscription program that accompanies the consumer or their loved one through different services, as they progress with the program, they are able to have a healthier relationship with alcohol under measurable success criteria, providing patients with information based on science and medicine in a fresh, dignified and respectful way to control their alcohol addiction.",
@@ -167,9 +164,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-caps",
     "source": "500",
     "name": "CAPS",
     "description": "Operator of clinic chain management business intended to offer health management support services. The company's services include operating the clock fitness gym, online health counseling services and medical institution management promotion services, enabling healthcare organizations to help improve patient satisfaction.",
@@ -211,9 +211,12 @@
     },
     "extra": {
       "country": "Japan"
-    }
+    },
+    "country": "Japan",
+    "alsoIn": []
   },
   {
+    "id": "500-clinikk",
     "source": "500",
     "name": "Clinikk",
     "description": "Developer of a digital healthcare platform designed to make quality medical care accessible and affordable to neo-middle-class Indians. The company's platform including services like consultation, diagnostics tests, and EMR with doctors available around the clock and affordable health plans, enabling customers to get affordable and accessible services on demand.",
@@ -261,9 +264,12 @@
     },
     "extra": {
       "country": "India"
-    }
+    },
+    "country": "India",
+    "alsoIn": []
   },
   {
+    "id": "500-hykso",
     "source": "500",
     "name": "Hykso",
     "description": "Developer of a wearable motion tracker designed to monitor and view a fighter's punch output in real-time. The company's tracker tracks a hand's movement several times per second to detect the number, type, and velocity of all the punches, and its application permits measuring daily, weekly, and monthly progression, enabling fighters to compare their speed, punch count, and intensity compared to other fighters to better know their strengths and weaknesses.",
@@ -295,11 +301,6 @@
         "name": "Khalil Zahar",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Khalil Zahar",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -310,9 +311,14 @@
     },
     "extra": {
       "country": "Canada"
-    }
+    },
+    "country": "Canada",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-fitco",
     "source": "500",
     "name": "FITCO",
     "description": "Developer of a gym management and retention software designed to help fitness boutiques and sports centers grow their business. The company's gym management allows complete administration of fitness centers, including management of sales and monitoring of current customers, enabling customers to increase sales, grow their brand, and attract more clients.",
@@ -358,9 +364,14 @@
     },
     "extra": {
       "country": "Peru"
-    }
+    },
+    "country": "Peru",
+    "alsoIn": [
+      "techstars"
+    ]
   },
   {
+    "id": "500-focused-space",
     "source": "500",
     "name": "Focused Space",
     "description": "Developer of a productivity platform designed to help people create healthy work routines, build momentum, and accomplish their most important goals. The company's platform offers daily support through facilitated morning planning calls and deep work sessions, as well as helping people break down and prioritize their most important goals each day, and much more.",
@@ -408,9 +419,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-gowabi",
     "source": "500",
     "name": "GoWabi",
     "description": "Operator of aB2C and B2B applications to find and book health, wellness, fitness, beauty services in South-East Asia, supporting multiple payment options (Creditcard, Alipay, BNPL). The company's portal permits users to find a salon near them and book their appointment accordingly as well as offers cashback on every booking made to redeem for a cash discount, enabling users to search for top service providers of beauty and wellness all over Thailand and book online with discounts.",
@@ -453,9 +467,12 @@
     },
     "extra": {
       "country": "Thailand"
-    }
+    },
+    "country": "Thailand",
+    "alsoIn": []
   },
   {
+    "id": "500-grinta",
     "source": "500",
     "name": "Grinta",
     "description": "Operator of a marketplace platform intended to modernize the pharmaceutical supply chain. The company works with all stakeholders including manufacturers, distributors, wholesalers, and pharmacies across the pharmaceutical value chain to build a data-driven, reliable, and efficient pharmaceutical supply chain by integrating artificial intelligence and machine learning technologies on its platform, enabling customers with a user-friendly experience and giving access to the full spectrum of traceable and trackable pharmaceutical and medical products from multiple vendors.",
@@ -491,9 +508,12 @@
     },
     "extra": {
       "country": "Egypt"
-    }
+    },
+    "country": "Egypt",
+    "alsoIn": []
   },
   {
+    "id": "500-gymnadz",
     "source": "500",
     "name": "GymNadz",
     "description": "Developer of a fitness application designed to help users get in shape, eat clean and stay on track. The company's application offers short real-time workouts that require very little equipment, clean easy-to-make recipes, and the guidance of a fitness professional, enabling women to monitor their progress and achieve specific fitness goals.",
@@ -529,9 +549,12 @@
     },
     "extra": {
       "country": "Kuwait"
-    }
+    },
+    "country": "Kuwait",
+    "alsoIn": []
   },
   {
+    "id": "500-instabeat",
     "source": "500",
     "name": "Instabeat",
     "description": "Developer of goggle-mounted sensor products designed to enhance swimming performance in real time. The company offers swimming goggles that capture real-time heart rate, stroke detection, laps and instant heart rate information that are presented through a mobile application, enabling swimmers to get accurate information related to their performance and their improvement insights after training.",
@@ -568,9 +591,12 @@
     },
     "extra": {
       "country": "Lebanon"
-    }
+    },
+    "country": "Lebanon",
+    "alsoIn": []
   },
   {
+    "id": "500-labdoor",
     "source": "500",
     "name": "LabDoor",
     "description": "Provider of health supplement information services intended to offer reliable scientific reviews and shopping options for quality-tested supplements. The company publishes reports and information based on analysis of the purity and potency of dietary supplements and energy drinks by sending a sample of each product to a registered laboratory for detailed chemical analysis, enabling consumers to purchase tested supplements that improve and benefit their health.",
@@ -621,9 +647,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-filsekka",
     "source": "500",
     "name": "FilSekka",
     "description": "Developer of a mobile application for new mothers designed for educating them about their pregnancy and motherhood journeys. The company offers all medical and non-medical services and products that they would need to look after themselves as well as their babies, enabling mothers to provide them with everything she needs during this period and to be the best partner in this arduous journey.",
@@ -654,16 +685,6 @@
         "name": "Ahmed Ibrahim",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Ahmed  Ibrahim",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ibrahim Gamal",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -674,9 +695,12 @@
     },
     "extra": {
       "country": "Egypt"
-    }
+    },
+    "country": "Egypt",
+    "alsoIn": []
   },
   {
+    "id": "500-meetash",
     "source": "500",
     "name": "MeetAsh",
     "description": "Operator of a software and logistics remote diagnostics company intended to offer at-home self-collected diagnostic testing services. The company integrates with clients so that they can offer at-home testing kits on behalf of patients to collect samples at home and send them back to partner labs, that are reviewed by licensed clinicians, thereby enabling customers to access remote diagnostics with secure infrastructure or preferred tech stack.",
@@ -727,9 +751,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "500-miri",
     "source": "500",
     "name": "Miri",
     "description": "Developer of a wellness platform designed to offer comprehensive support sourced from top health experts. The company's app helps with tailored support, expert knowledge, and high interactivity for health journeys to give actionable cutting-edge guidance using AI, enabling users to maintain a healthy lifestyle to better protect themselves against chronic illness in the future.",
@@ -770,9 +799,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-my-china-roots",
     "source": "500",
     "name": "My China Roots",
     "description": "We empower Asians to trace their ancestry and connect with roots & relatives; starting with Overseas Chinese. ",
@@ -811,9 +843,12 @@
     },
     "extra": {
       "country": "China"
-    }
+    },
+    "country": "China",
+    "alsoIn": []
   },
   {
+    "id": "500-pluto-brand",
     "source": "500",
     "name": "Pluto Brand",
     "description": "Manufacturer of customized pillows intended to cater to individuals' body stats and sleep patterns. The company designs pillows after collecting data from customers through a questionnaire and uses proprietary algorithms to create custom pillows for their unique sleep profiles, enabling customers to find pillows that suit their sleep styles.",
@@ -854,9 +889,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-pura-mente",
     "source": "500",
     "name": "Pura Mente",
     "description": "Developer of a wellness application designed to learn how to meditate and maintain a healthy life balance. The company's platform teaches how to meditate as well as offers free guided sessions, and intermediate and advanced courses, and also offers company-based plans for employees, enabling corporate clients and users to reduce stress levels, and anxiety and increase productivity.",
@@ -909,9 +947,12 @@
     },
     "extra": {
       "country": "Argentina"
-    }
+    },
+    "country": "Argentina",
+    "alsoIn": []
   },
   {
+    "id": "500-purely-b",
     "source": "500",
     "name": "Purely B",
     "description": "Provider of an online content-based fitness and wellness portal designed to help women lead sustainable and healthy lifestyle. The company's fitness and wellness portal offers articles on living written by health and wellness experts, as well as a range of healthy and wholesome recipes created by a community of nutrition experts, enabling consumers to connect and share healthy living experiences and tips with other like-minded individuals, and purchase health and wellness products from an online platform.",
@@ -947,11 +988,6 @@
         "name": "Marissa Parry",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Jesrina Arshad",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -962,9 +998,12 @@
     },
     "extra": {
       "country": "Malaysia"
-    }
+    },
+    "country": "Malaysia",
+    "alsoIn": []
   },
   {
+    "id": "500-saib-co",
     "source": "500",
     "name": "SAIB & Co.",
     "description": "Manufacturer of intimate cosmetics intended to tackle the entrenched cultural taboos around female sexuality. The company's offerings include sexual wellness products like a condom made from plant latex without unnecessary additives and artificial pigments designed from the perspective of women, enabling women to feel comfortable and proud to carry them without any shame or stigma.",
@@ -1004,14 +1043,17 @@
     },
     "extra": {
       "country": "South Korea"
-    }
+    },
+    "country": "South Korea",
+    "alsoIn": []
   },
   {
+    "id": "500-scape",
     "source": "500",
     "name": "Scape",
     "description": "B2B2C wellness tech marketplace in Latin America (soon US)",
     "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/af2e2026-25c0-49c9-a8f7-c454402f84ba.png",
-    "website": "https://Https://scape.mx",
+    "website": "https://scape.mx",
     "location": "Mexico",
     "region": "Latin America",
     "subregion": "",
@@ -1053,9 +1095,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-silk-and-sonder",
     "source": "500",
     "name": "Silk and Sonder",
     "description": "Provider of subscription-based handcrafted monthly planners intended to help in mental wellness. The company provides themed monthly wellness planners and designed monthly planners, compactly sized with guided formats, empowering customers to be their convenient selves through self-reflection and self-discovery.",
@@ -1091,9 +1136,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-trubrain",
     "source": "500",
     "name": "truBrain",
     "description": "Producer of a brain-stimulating drink intended to assist people in reaching their peak mental performance. The company's product addresses the fundamental components of brain chemistry by stimulating blood flow to deliver oxygen and nourishment to the brain and create optimal conditions for attention span, memory, sustained energy, and complex reasoning, enabling consumers to increase their verbal fluency, avoid distractions, and improve mental endurance.",
@@ -1139,9 +1187,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-truelli",
     "source": "500",
     "name": "Truelli",
     "description": "Provider of pre-diagnostics menstrual pad intended to offer women instant health insights. The company develops pads that are designed to be worn like a menstrual pad and contain a small sensor that collects blood samples that are then analyzed by its cloud-based platform, enabling customers to get alerts instantly via mobile application.",
@@ -1177,9 +1228,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-vivoo",
     "source": "500",
     "name": "Vivoo",
     "description": "Developer of a wellness application designed for personalized nutrition and lifestyle advice based on urine sample analysis. The company's application guides users to make healthier choices by tracking parameters such as vitamin C, magnesium, calcium, salinity, oxidative stress, hydration, ketones, and protein straight to their phone in seconds based on weekly at-home urine tests, enabling users to track and know their bodies and health conditions.",
@@ -1227,9 +1281,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "techstars"
+    ]
   },
   {
+    "id": "500-wefitter",
     "source": "500",
     "name": "WeFitter",
     "description": "Developer of fitness gaming platform designed to turn business into an engaged and healthy community. The company's platform assists digital health developers to integrate data and improve user engagement to track their calorie count and complete fitness challenges, enabling employees to improve their health by combining activity tracker data with gamification.",
@@ -1270,9 +1329,12 @@
     },
     "extra": {
       "country": "Spain"
-    }
+    },
+    "country": "Spain",
+    "alsoIn": []
   },
   {
+    "id": "500-caer",
     "source": "500",
     "name": "Caer",
     "description": "Manufacturer of baby food products intended to provide science-based early childhood meals and vitamins for brain development. The company offers fresh, nutrient-dense, low-sugar baby food tailored to the diets of different age groups, enabling parents to provide their children with sufficient nutrition, particularly during their first few years of life.",
@@ -1323,9 +1385,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-health-co-stealth",
     "source": "500",
     "name": "Health Co (Stealth)",
     "description": "Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.",
@@ -1368,9 +1433,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-fitocracy",
     "source": "500",
     "name": "Fitocracy",
     "description": "Developer of a fitness based online gaming platform. The company's gaming platform imparts fitness by bringing the gaming reward system to workout routines. It enables users to track their workouts, earn points, unlock achievements and access fitness coach.",
@@ -1411,9 +1481,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-you-app",
     "source": "500",
     "name": "YOU-app",
     "description": "Provider of a social wellness application designed to coach people for a happier and healthier life. The company provides a smartphone application that combines social media features and well-being, through a list of daily micro-actions including focus on food, mindfulness, taking a break and other small healthful activities that users complete by taking a picture and sharing it with their friends and followers enabling users maintain high levels of personal wellness.",
@@ -1469,9 +1542,12 @@
     },
     "extra": {
       "country": "Finland"
-    }
+    },
+    "country": "Finland",
+    "alsoIn": []
   },
   {
+    "id": "500-hamama",
     "source": "500",
     "name": "HAMAMA",
     "description": "Provider of microgreen kits intended to grow food at home. The company's kits offer plants like wheatgrass, cat grass, seed quilts and other related plants, enabling customers to live a healthy life by growing superfoods at home.",
@@ -1512,9 +1588,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-your-superfoods",
     "source": "500",
     "name": "Your Superfoods",
     "description": "Provider of an online marketplace intended to provide organic food powder mixes. The company's marketplace offers organic oats containing antioxidants and vegan protein, enabling customers to get a nutritious boost in smoothies, juices, yogurt, muesli and snacks.",
@@ -1555,9 +1634,12 @@
     },
     "extra": {
       "country": "Germany"
-    }
+    },
+    "country": "Germany",
+    "alsoIn": []
   },
   {
+    "id": "500-humanco",
     "source": "500",
     "name": "Humanco",
     "description": "Developer of an all-day activity tracking application. The company provides a mobile all-day activity tracker that motivates users to be more active and helps analyze and improve one's daily level of activity.",
@@ -1594,9 +1676,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-clicky",
     "source": "500",
     "name": "Clicky",
     "description": "Provider of an online reservation platform for sport facilities. The company helps amateur sport players to find sport venues available on real time and sport facility owners to optimise their field rental.",
@@ -1642,9 +1727,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-platejoy",
     "source": "500",
     "name": "PlateJoy",
     "description": "Provider of online platform intended to offer personalized nutrition plan and grocery list guides. The company's online platform offers information on customized shopping lists and simple recipes, enabling users maintain a healthy diet for weight loss and dietary improvements inspite of their busy schedule.",
@@ -1680,9 +1768,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-yacob",
     "source": "500",
     "name": "Yacob",
     "description": "Developer of nutrition management platform intended to combat childhood obesity rates. The company's platform is an AI-enabled nutrition recommendation engine for the school food ecosystem, enabling parents to monitor and manage children's dietary requirements.",
@@ -1718,6 +1811,8 @@
     },
     "extra": {
       "country": "United Arab Emirates"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   }
 ]

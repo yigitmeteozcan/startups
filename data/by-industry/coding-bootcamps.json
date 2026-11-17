@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-make-school",
     "source": "yc",
     "name": "Make School",
     "description": "Make School is redesigning college for the 21st century. Students…",
@@ -28,9 +29,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-fullstack-academy",
     "source": "yc",
     "name": "Fullstack Academy",
     "description": "Pioneer in immersive code education. Acquired by Zovio (NASDAQ: ZVO)…",
@@ -59,6 +63,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [
+      "500"
+    ]
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-industrial-microbes",
     "source": "yc",
     "name": "Industrial Microbes",
     "description": "We design and build microbes to make chemicals greener at lower cost.",
@@ -31,13 +32,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-genecis-bio",
     "source": "yc",
     "name": "Genecis Bio",
     "description": "Makes guilt-free plastics from food waste",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "https://www.genecis.co/",
     "location": "Toronto, ON, Canada",
     "region": "Canada",
@@ -66,9 +70,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Canada",
+    "alsoIn": []
   },
   {
+    "id": "yc-alt-tex",
     "source": "yc",
     "name": "ALT TEX",
     "description": "Biodegradable and carbon neutral textiles, engineered from food waste.",
@@ -101,6 +108,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Canada",
+    "alsoIn": []
   }
 ]

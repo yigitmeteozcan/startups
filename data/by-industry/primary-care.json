@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-circle-medical",
     "source": "yc",
     "name": "Circle Medical",
     "description": "Modern primary care via video and in-person",
@@ -30,9 +31,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "yc-heydoctor",
     "source": "yc",
     "name": "HeyDoctor",
     "description": "HeyDoctor provides online primary care (like refilling birth control,…",
@@ -45,7 +49,7 @@
       "Healthcare",
       "Healthcare IT",
       "Telehealth",
-      "Digital Health",
+      "Digital health",
       "Primary Care"
     ],
     "year": 2018,
@@ -64,13 +68,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-pnoe",
     "source": "yc",
     "name": "PNOĒ",
     "description": "Enabling health professionals to prescribe clinical-grade wellness…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "",
     "location": "Athens, Greece; Miami, FL, USA",
     "region": "Greece",
@@ -79,7 +86,7 @@
       "Healthcare",
       "Healthcare Services",
       "Medical Devices",
-      "Digital Health",
+      "Digital health",
       "Telemedicine",
       "Diagnostics",
       "Primary Care"
@@ -100,9 +107,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Greece",
+    "alsoIn": []
   },
   {
+    "id": "yc-loop-health",
     "source": "yc",
     "name": "Loop Health",
     "description": "Modern & comprehensive health insurance plan for employees in India",
@@ -133,9 +143,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "India",
+    "alsoIn": []
   },
   {
+    "id": "yc-rinse",
     "source": "yc",
     "name": "Rinse",
     "description": "We're building the One Medical for dental",
@@ -148,7 +161,7 @@
       "Healthcare",
       "Consumer Health and Wellness",
       "Consumer Health Services",
-      "Digital Health",
+      "Digital health",
       "Telemedicine",
       "Primary Care"
     ],
@@ -168,9 +181,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-okani",
     "source": "yc",
     "name": "Okani",
     "description": "Preventive healthcare app for Latam.",
@@ -201,9 +217,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "yc-tuli-health",
     "source": "yc",
     "name": "Tuli Health",
     "description": "Transforming pharmacies in the UK into diagnostic centers",
@@ -234,9 +253,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United Kingdom",
+    "alsoIn": []
   },
   {
+    "id": "yc-nest-genomics",
     "source": "yc",
     "name": "Nest Genomics",
     "description": "Software to launch and integrate genetics into clinical care",
@@ -250,7 +272,7 @@
       "Healthcare IT",
       "SaaS",
       "Health Tech",
-      "Digital Health",
+      "Digital health",
       "Genomics",
       "Primary Care"
     ],
@@ -270,6 +292,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   }
 ]

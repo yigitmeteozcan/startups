@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-11-17T16:12:26.155Z",
-  "total": 15898,
+  "generatedAt": "2026-11-17T19:37:49.630Z",
+  "total": 21399,
   "bySource": {
     "500": 2243,
     "yc": 6398,
+    "plugandplay": 5508,
     "techstars": 5105,
     "antler": 1086,
     "ef": 545,
-    "alchemist": 514,
-    "plugandplay": 7
+    "alchemist": 514
   },
-  "unicorns": 75,
-  "exits": 2248,
+  "unicorns": 156,
+  "exits": 2804,
   "bCorps": 29,
   "currentSession": 0,
+  "founders": 7346,
   "byYear": {
     "2005": 8,
     "2006": 17,
@@ -42,84 +43,92 @@
   "topCountries": [
     [
       "United States",
-      4316
+      11133
+    ],
+    [
+      "Japan",
+      2700
     ],
     [
       "United Kingdom",
-      427
-    ],
-    [
-      "USA",
-      394
+      830
     ],
     [
       "Canada",
-      337
-    ],
-    [
-      "Israel",
-      141
-    ],
-    [
-      "Singapore",
-      141
-    ],
-    [
-      "Germany",
-      123
-    ],
-    [
-      "Mexico",
-      122
+      712
     ],
     [
       "India",
-      116
+      341
     ],
     [
-      "UNITED STATES",
-      104
+      "Germany",
+      334
     ],
     [
       "France",
-      102
+      264
+    ],
+    [
+      "Singapore",
+      243
+    ],
+    [
+      "Mexico",
+      230
+    ],
+    [
+      "Israel",
+      223
     ],
     [
       "United Arab Emirates",
-      90
-    ],
-    [
-      "Saudi Arabia",
-      82
-    ],
-    [
-      "Australia",
-      80
+      146
     ],
     [
       "South Korea",
-      73
+      128
+    ],
+    [
+      "Nigeria",
+      119
+    ],
+    [
+      "Australia",
+      113
+    ],
+    [
+      "Italy",
+      109
     ]
   ],
   "topCities": [
+    [
+      "Tokyo",
+      2781
+    ],
+    [
+      "Silicon Valley",
+      1643
+    ],
     [
       "New York City",
       398
     ],
     [
       "London",
-      288
+      303
     ],
     [
       "San Francisco",
       176
     ],
     [
-      "Boston",
-      122
+      "Los Angeles",
+      136
     ],
     [
-      "Los Angeles",
+      "Boston",
       122
     ],
     [
@@ -135,8 +144,16 @@
       109
     ],
     [
+      "Paris",
+      107
+    ],
+    [
       "Toronto",
       98
+    ],
+    [
+      "Alberta",
+      87
     ],
     [
       "Brooklyn",
@@ -145,32 +162,20 @@
     [
       "Boulder",
       79
-    ],
-    [
-      "Denver",
-      78
-    ],
-    [
-      "Atlanta",
-      76
-    ],
-    [
-      "Tel Aviv",
-      72
-    ],
-    [
-      "Cambridge",
-      71
     ]
   ],
   "byRegion": [
+    [
+      "Americas",
+      5593
+    ],
     [
       "United States of America",
       4772
     ],
     [
-      "Americas",
-      3749
+      "Asia",
+      2990
     ],
     [
       "Europe",
@@ -179,6 +184,10 @@
     [
       "North America",
       902
+    ],
+    [
+      "EMEA",
+      802
     ],
     [
       "Middle East & Africa",
@@ -207,10 +216,6 @@
     [
       "Middle East",
       159
-    ],
-    [
-      "Asia",
-      142
     ],
     [
       "Unspecified",
@@ -579,6 +584,10 @@
   ],
   "topPrograms": [
     [
+      "Plug and Play",
+      5508
+    ],
+    [
       "500 Global",
       1403
     ],
@@ -633,16 +642,12 @@
     [
       "YC Winter 2020",
       229
-    ],
-    [
-      "YC Summer 2026",
-      226
     ]
   ],
   "topIndustries": [
     [
       "Fintech",
-      2075
+      2832
     ],
     [
       "AI",
@@ -681,44 +686,44 @@
       675
     ],
     [
+      "Health",
+      663
+    ],
+    [
       "Engineering, Product and Design",
       635
+    ],
+    [
+      "Insurtech",
+      551
+    ],
+    [
+      "Deeptech",
+      531
+    ],
+    [
+      "Brand & Retail",
+      474
+    ],
+    [
+      "Energy",
+      443
     ],
     [
       "Healthtech",
       440
     ],
     [
+      "Mobility & Physical AI",
+      409
+    ],
+    [
+      "Supply Chain",
+      406
+    ],
+    [
       "Productivity",
       391
-    ],
-    [
-      "Lifestyles of Health and Sustainability and wellness",
-      384
-    ],
-    [
-      "Internet of Things",
-      384
-    ],
-    [
-      "Enterprise Software & SaaS",
-      383
-    ],
-    [
-      "Climate tech",
-      360
-    ],
-    [
-      "Marketplace",
-      355
-    ],
-    [
-      "Cleantech",
-      339
-    ],
-    [
-      "HRtech",
-      332
     ]
   ]
 }

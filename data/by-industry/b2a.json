@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-agora-io",
     "source": "500",
     "name": "Agora.io",
     "description": "Agora Inc provides real-time communication solutions. The company offers real-time video calling, voice calling, live audio and video streaming, recording, and real-time messaging. It serves the gaming, retail, and education industries. The company operates in the People's Republic of China and the United States of America and the majority of its revenue is derived from the People's Republic of China.",
@@ -36,9 +37,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-alluva",
     "source": "500",
     "name": "Alluva",
     "description": "Developer of an analyst marketplace designed to discover investment opportunities. The company's platform quantitatively and qualitatively rates cryptocurrencies by using a contributor model that rewards users for correct calls, enabling investors with an improved market movement understanding.",
@@ -75,9 +79,12 @@
     },
     "extra": {
       "country": "China"
-    }
+    },
+    "country": "China",
+    "alsoIn": []
   },
   {
+    "id": "500-block",
     "source": "500",
     "name": "Block",
     "description": "Developer of a blockchain lab platform designed to make non-fungible tokens (NFTs) and Decentralized Autonomous organizations (DAOs). The company offers a vehicle for funding innovative projects that will develop the ecosystem, simple documents, signed with crypto wallets, optional Twitter and Discord handles, guestbooks, and even contracts with partners and freelancers, allowing users to play games and earn NFTs for using their products.",
@@ -119,9 +126,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-bloxtel",
     "source": "500",
     "name": "Bloxtel",
     "description": "Operator of a telecommunications software company intended to develop innovative 5G network solutions using blockchain technology and connect users with mobile operators. The company's platform is building tools that help users to improve and maintain their network access points to quality-of-service levels required by operators in the US and around the world, enabling telecom industries to make connectivity accessible and affordable to people.",
@@ -158,9 +168,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-canopy-heycanopy-com",
     "source": "500",
     "name": "Canopy",
     "description": "Developer of a fintech platform designed to simplify and manage co-investments. The company's platform offers allocation management, streamlined deal creation, real-time data room, customizable terms, fund administration, and reporting, enabling investors to efficiently create, share, and manage special purpose vehicles and co-investment opportunities with their limited partners.",
@@ -170,7 +183,7 @@
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2022,
@@ -197,9 +210,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-careguide",
     "source": "500",
     "name": "CareGuide",
     "description": "Operator of an online care provider marketplace intended to match families with care providers through a portfolio of websites. The company's marketplace offers senior care, child care, pet care and home care services, enabling customers to find local care providers, including nannies, babysitters, pet sitters, elder-care providers and house sitters.",
@@ -236,9 +254,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-carelulu",
     "source": "500",
     "name": "Carelulu",
     "description": "Operator of an online marketplace designed to ensure every child has access to safe, affordable, high-quality child care and early education. The company's marketplace connects parents to licensed daycares and preschools and offers a criteria-based search and detailed information on childcare providers such as cost, hours, photos, and verified reviews, enabling parents to find safe and affordable childcare and early education for their kids.",
@@ -285,9 +306,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-clivi",
     "source": "500",
     "name": "Clivi",
     "description": "Operator of a digital clinic intended to improve the treatment of diabetes. The company's platform provides affordable and accessible healthcare for those living with diabetes and offers comprehensive treatment driven by digital tools such as configuring a messaging plan to monitor patients' glucose and step-by-step consultations provided by health specialists, enabling diabetic patients to receive treatment as and when required.",
@@ -334,9 +358,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-coded",
     "source": "500",
     "name": "Coded",
     "description": "Provider of boot camp program services intended to offer coding technology for building a tech startup. The company's program requires basic computer science background having a course curriculum in Python, web designing, Django, java, and software project management that are designed by industry experts and qualified instructors, enabling students and professionals to deploy applications into a production environment easily and prepare for a demanding job market.",
@@ -378,9 +405,12 @@
     },
     "extra": {
       "country": "Kuwait"
-    }
+    },
+    "country": "Kuwait",
+    "alsoIn": []
   },
   {
+    "id": "500-creative-market",
     "source": "500",
     "name": "Creative Market",
     "description": "Operator of an online design marketplace intended to sell ready-to-use design content from independent creators around the world. The company's marketplace assists people to bring their creative projects to life with ready-to-use design assets like fonts, graphics, photos and more, enabling designers to buy and sell their works across the web and turn passion into opportunity.",
@@ -416,9 +446,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-dimension",
     "source": "500",
     "name": "Dimension",
     "description": "Developer of an on-demand waste management platform designed to make public spaces clean and tidy and make waste disposal accessible. The company's platform offers customizable junk removal, dumpster rentals, recycling and hazardous waste disposal, enabling customers to declutter with peace of mind and contribute to a greener environment.",
@@ -428,7 +463,7 @@
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Climate Tech",
+      "Climate tech",
       "B2A"
     ],
     "year": 2019,
@@ -465,9 +500,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-eatsii",
     "source": "500",
     "name": "Eatsii",
     "description": "Provider of online catering services intended for daily and eventual meals from white-collar workers working in central business district areas to the modern housewives. The company's serving includes Indonesian, Asian, Western and Japanese dishes with high-quality chefs and prioritizing delicious and hygienic flavors, providing meals that are tasty, clean and affordable for everyone to purchase.",
@@ -504,9 +542,12 @@
     },
     "extra": {
       "country": "Indonesia"
-    }
+    },
+    "country": "Indonesia",
+    "alsoIn": []
   },
   {
+    "id": "500-emq",
     "source": "500",
     "name": "EMQ",
     "description": "Operator of a financial settlement network intended to optimize cross-border remittances. The company operates a cross-border settlement network that provides affordable, efficient and transparent financial settlement for global businesses, enabling users to have a settlement network that makes cross-border remittances streamlined, neutral, low-cost, secure, and real-time.",
@@ -516,7 +557,7 @@
     "region": "North Asia",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2018,
@@ -553,9 +594,12 @@
     },
     "extra": {
       "country": "Hong Kong"
-    }
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
   },
   {
+    "id": "500-energaia",
     "source": "500",
     "name": "EnerGaia",
     "description": "Producer of algae products intended to provide a clean, healthy, and sustainable food source. The company offers a wide range of Spirulina-based products ranging from fresh powder, energy balls, and pasta, enabling consumers to get fresh and sustainable algae products.",
@@ -597,9 +641,12 @@
     },
     "extra": {
       "country": "Thailand"
-    }
+    },
+    "country": "Thailand",
+    "alsoIn": []
   },
   {
+    "id": "500-favstay",
     "source": "500",
     "name": "FavStay",
     "description": "Operator of a vacation home rental platform designed to help people to list, find, and book accommodations completely. The company's platform offers a curated list of a wide variety of accommodations, enabling users to find rent hotels and rooms from local hosts.",
@@ -646,9 +693,12 @@
     },
     "extra": {
       "country": "Thailand"
-    }
+    },
+    "country": "Thailand",
+    "alsoIn": []
   },
   {
+    "id": "500-fintor",
     "source": "500",
     "name": "Fintor",
     "description": "Operator of a fractional real estate investing platform intended to offer a simpler, smarter, and more reliable way to invest money. The company's software allows individual real estate investors or bigger real estate development firms to list their properties and give people the opportunity to buy shares, enabling investors to invest in the real estate markets.",
@@ -658,7 +708,7 @@
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "Real Estate",
       "B2A"
     ],
@@ -696,9 +746,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-fortu",
     "source": "500",
     "name": "Fortu",
     "description": "Provider of digital private banking services intended to design a borderless, private and personal finance remedy. The company provides financing options for high-net-worth individuals and businesses requiring secure, reliable and international financial reach by offering multicurrency payment accounts with easy access to financial services, enabling HNIs and customers to enjoy financial freedom and gain complete control over their finances.",
@@ -735,9 +788,12 @@
     },
     "extra": {
       "country": "United Kingdom"
-    }
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
   },
   {
+    "id": "500-funding-societies-modalku",
     "source": "500",
     "name": "Funding Societies | Modalku",
     "description": "Developer of a peer-to-peer lending platform designed to specialize in short-term financing for small and medium enterprises. The company's platform provides fast and flexible financing options including microloans, term loans and invoice financing, enabling clients to capitalize on businesses that often struggle to secure loans from banks and traditional providers.",
@@ -747,7 +803,7 @@
     "region": "South Asia",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2021,
@@ -779,9 +835,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-gaspack",
     "source": "500",
     "name": "Gaspack",
     "description": "Developer of nonfungible token launchpad intended to empower creators, artists, and brands to generate extra income. The company's launchpad helps content creators and artists build their internet protocol into nonfungible token projects, from the development phase to the launching, scaling, and maintaining them as sustainable businesses, providing artists and brands with full tech stack support, community management, and creative consultancy to help them embark in their content creation journey.",
@@ -818,9 +877,12 @@
     },
     "extra": {
       "country": "United Kingdom"
-    }
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
   },
   {
+    "id": "500-get-on-board",
     "source": "500",
     "name": "Get On Board",
     "description": "Operator of an online job portal intended to connect the startups and tech companies of the world with fresh talents around the globe. The company's platform filters and curates jobs in the fields of sales, designing, human resources, cybersecurity, and many more in several locations, enabling job seekers to find jobs as per their requirements efficiently.",
@@ -867,9 +929,12 @@
     },
     "extra": {
       "country": "Chile"
-    }
+    },
+    "country": "Chile",
+    "alsoIn": []
   },
   {
+    "id": "500-go-x",
     "source": "500",
     "name": "Go X",
     "description": "Provider of an electronic scooter-sharing service intended to help users travel within cities. The company's scooters are capable of going up to twenty-five mph and a full day on a single charge, enabling customers to travel locally in a faster, cheaper, and environmentally friendly manner.",
@@ -906,9 +971,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-graffer",
     "source": "500",
     "name": "Graffer",
     "description": "Developer of a compliance platform designed to simplify the process of submitting commercial documents to the government in Japan. The company's platform offers a corporate and regulation directory and procedural guides by digitizing government paperwork, enabling Japanese business owners to file regulatory documents and receive guidance on complex issues through a single platform.",
@@ -950,9 +1018,14 @@
     },
     "extra": {
       "country": "Japan"
-    }
+    },
+    "country": "Japan",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "500-halogen-capital",
     "source": "500",
     "name": "Halogen Capital",
     "description": "Developer of a digital platform designed to help investors gain exposure safely to the new asset classes. The company specializes in digital assets and combines traditional capital market expertise with deep technology knowledge, enabling clients to access digital assets, and help with private key management, tax uncertainties, and inconsistent fund reporting.",
@@ -999,9 +1072,12 @@
     },
     "extra": {
       "country": "Malaysia"
-    }
+    },
+    "country": "Malaysia",
+    "alsoIn": []
   },
   {
+    "id": "500-mirza",
     "source": "500",
     "name": "Mirza",
     "description": "Developer of a fintech platform designed to deliver tax-efficient employer stipends to a network of caregivers. The company's tools integrate family financial planning and childcare funding, and also provide assistance in corporate policies for parental leave, fertility options, and modern parenting advice for employees, helping working professionals to work towards achieving their financial goals.",
@@ -1048,9 +1124,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-hopae",
     "source": "500",
     "name": "Hopae",
     "description": "Stripe for Digital Identity. Hopae helps enterprises seamlessly integrate sophisticated wallet/eID verification systems worldwide without prior knowledge of DID technology or regulatory compliance.",
@@ -1098,9 +1177,12 @@
     },
     "extra": {
       "country": "South Korea"
-    }
+    },
+    "country": "South Korea",
+    "alsoIn": []
   },
   {
+    "id": "500-idx",
     "source": "500",
     "name": "IDX",
     "description": "Designer of a trading and investing platform designed for fans and investors to easily buy, sell, and trade shares in stocks of creative projects, media rights, and intellectual properties. The company's platform offers features like selling, investing, and trading in various creative works, establishing IP rights, and connecting with potential investors and collaborators, offering users a space to share, collaborate, and support each other and share intellectual property values within a dynamic marketplace.",
@@ -1110,7 +1192,7 @@
     "region": "North America",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2023,
@@ -1137,9 +1219,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-p2p-inc",
     "source": "500",
     "name": "P2P, Inc.",
     "description": "Provider of insurance services intended to offer small and short-term insurance services. The company offers mobile-native, data-driven innovative insurance products and digital platforms which connect insurance products to various services, enabling clients to get insurance easily and provide new products to the market with new technologies, creating an impact on society.",
@@ -1149,7 +1234,7 @@
     "region": "North Asia",
     "subregion": "",
     "tags": [
-      "InsurTech",
+      "Insurtech",
       "B2A"
     ],
     "year": 2019,
@@ -1176,9 +1261,14 @@
     },
     "extra": {
       "country": "Japan"
-    }
+    },
+    "country": "Japan",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "500-khmer-home",
     "source": "500",
     "name": "Khmer Home",
     "description": "Developer of a real estate platform designed to offer property management services. The company's platform offers a new way to find houses, apartments, commercial properties and lands both for sale or rent, enabling people to make hassle-free real estate transactions.",
@@ -1220,9 +1310,12 @@
     },
     "extra": {
       "country": "Cambodia"
-    }
+    },
+    "country": "Cambodia",
+    "alsoIn": []
   },
   {
+    "id": "500-kita-bisa",
     "source": "500",
     "name": "Kita Bisa",
     "description": "Operator of an online fundraising and donation platform intended to facilitate crowdfunding. The company's platform connects fundraisers with donors and offers transparent and accountable fundraising, enabling users to launch crowdfunding campaigns or donate to social causes online.",
@@ -1232,7 +1325,7 @@
     "region": "South Asia",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2016,
@@ -1269,9 +1362,12 @@
     },
     "extra": {
       "country": "Indonesia"
-    }
+    },
+    "country": "Indonesia",
+    "alsoIn": []
   },
   {
+    "id": "500-switch",
     "source": "500",
     "name": "Switch",
     "description": "Provider of personal training services intended to develop new fitness habits. The company's virtual sessions provide a cultural mix of instructors and round-the-clock coverage for members in various time zones with the convenience of live video technology and ongoing support, enabling fitness lovers to create new fitness habits that can fit into their busy lives.",
@@ -1308,9 +1404,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-long-term-stock-exchange",
     "source": "500",
     "name": "Long-Term Stock Exchange",
     "description": "Operator of an SEC-regulated national securities exchange intended to align companies and long-term investors with shared goals. The company's exchange provides software tools that help companies capitalize, hire, compensate, and grow from startup to initial public offering and beyond, enabling clients to raise capital while keeping their focus on long-term instead of short-term results.",
@@ -1321,7 +1420,7 @@
     "subregion": "",
     "tags": [
       "Credit & Lending",
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2016,
@@ -1353,9 +1452,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-lootex",
     "source": "500",
     "name": "Lootex",
     "description": "Developer of a cross-chain trading platform intended to liberate game asset ownership and connect blockchain games to traditional players. The company specializes in providing a game-oriented NFT marketplace and fraud-free ecosystem, enabling users to trade and discover the assets in the metaverse and also make virtual assets real by helping digital creators to protect their works.",
@@ -1409,9 +1513,12 @@
     },
     "extra": {
       "country": "Taiwan"
-    }
+    },
+    "country": "Taiwan",
+    "alsoIn": []
   },
   {
+    "id": "500-lo-que-necesito",
     "source": "500",
     "name": "Lo Que Necesito",
     "description": "Developer of a property search engine designed to choose housing credit options. The company's platform accompanies and advises the buyer and seller throughout their search and negotiation process and provides a list of property details and accompanies buyers in the process of acquiring credit and reducing the time from the request to its disbursement, enabling buyers and sellers to save time, and money and increase the effectiveness of closing businesses.",
@@ -1421,7 +1528,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "PropTech",
+      "Proptech",
       "B2A"
     ],
     "year": 2018,
@@ -1443,11 +1550,6 @@
         "name": "Manuel Zabaleta",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Andres Perez",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -1458,9 +1560,12 @@
     },
     "extra": {
       "country": "Colombia"
-    }
+    },
+    "country": "Colombia",
+    "alsoIn": []
   },
   {
+    "id": "500-maker-me",
     "source": "500",
     "name": "Maker.me",
     "description": "Developer of a content marketing platform designed to create and deliver engaging marketing campaigns. The company's platform combines design, web-publishing, and analytics tools in a single interface that can enhance any existing site to create, publish and optimize content for their landing and product pages, enabling clients to enrich their sites, increasing engagement, conversion, and revenue growth.",
@@ -1497,9 +1602,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-markhor",
     "source": "500",
     "name": "Markhor",
     "description": "Manufacturer of leather footwear intended to provide bespoke leather goods to customers. The company's footwear includes shoes for men and women, sandals, and electronic gadget covers that are made from pure leather which is sourced from selected local tanneries, enabling customers to get handmade products that reflect traditional craftsmanship.",
@@ -1541,9 +1649,14 @@
     },
     "extra": {
       "country": "Pakistan"
-    }
+    },
+    "country": "Pakistan",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-memorick",
     "source": "500",
     "name": "Memorick",
     "description": "Operator of a photographer booking platform intended to connect travelers and local photographers. The company's platform offers vacation photo-shoot services, connecting tourists with local photographers at affordable prices, enabling tourists to ensure that they get their good pictures clicked and turn those memories into a souvenir.",
@@ -1580,9 +1693,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-mhub",
     "source": "500",
     "name": "MHub",
     "description": "Developer of a real-estate fin-tech platform designed for property developers, agents and bankers. The company's platform brings together real estate developers, sales teams, bankers, lawyers and buyers, enabling clients to avoid long and arduous property sales journeys.",
@@ -1592,7 +1708,7 @@
     "region": "South Asia",
     "subregion": "",
     "tags": [
-      "PropTech",
+      "Proptech",
       "B2A"
     ],
     "year": 2020,
@@ -1639,9 +1755,12 @@
     },
     "extra": {
       "country": "Malaysia"
-    }
+    },
+    "country": "Malaysia",
+    "alsoIn": []
   },
   {
+    "id": "500-monnai",
     "source": "500",
     "name": "Monnai",
     "description": "Developer of a financial platform designed to let individuals and businesses access financial services at an affordable rate. The company's platform offers financial data APIs to offer financial services such as real-time credit decisions, aggregated financial and digital insights, and streamlines onboarding and processes, enabling businesses to grow their assets and revenue.",
@@ -1683,9 +1802,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-myu",
     "source": "500",
     "name": "Myu",
     "description": "Developer of a communication platform designed to facilitate proper communication with the school community. The company's application lets users communicate with their students by sending announcements and notifications to any mobile at any time along with attaching photos and voice notifications, enabling teachers to connect with the community without the need of sharing a phone number.",
@@ -1722,9 +1844,12 @@
     },
     "extra": {
       "country": "Kuwait"
-    }
+    },
+    "country": "Kuwait",
+    "alsoIn": []
   },
   {
+    "id": "500-nas-academy",
     "source": "500",
     "name": "Nas Academy",
     "description": "Operator of a production studio intended to create impactful stories for social media. The company's site shares a list of trending blogs, one-minute videos, journals, and articles on life, culture, travel, and food and also offers a content creation platform, providing viewers with various stories from the world and empowering creators to become educators.",
@@ -1771,9 +1896,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-neo-success",
     "source": "500",
     "name": "NEO Success",
     "description": "Developer of a financial coaching platform intended to help people handle money wisely and obtain financial freedom. The company's platform allows users to consolidate credit card debt, cash card and personal loans, build good credit, and plan for financial goals, thereby enabling customers to have a clear route towards financial independence.",
@@ -1783,7 +1911,7 @@
     "region": "South Asia",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "Real Estate",
       "Consumer",
       "B2A"
@@ -1817,9 +1945,12 @@
     },
     "extra": {
       "country": "Thailand"
-    }
+    },
+    "country": "Thailand",
+    "alsoIn": []
   },
   {
+    "id": "500-nftgo",
     "source": "500",
     "name": "NFTgo",
     "description": "Developer of non-fungible token data aggregation platform designed to track, analyze, and discover valuable NFTs. The company's platform uses a self-developed stable blockchain data collection engine to obtain the latest on-chain transaction data from the blockchain and parses it into readable NFT transaction and market data, enabling NFT project parties to accurately acquire customers, and helping users better obtain the new NFT market trends.",
@@ -1866,9 +1997,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-nobueno",
     "source": "500",
     "name": "NoBueno",
     "description": "Developer of a job-hunting platform designed to pair the right companies with the right candidates. The company's platform helps to enter the education details, and career preferences to provide relevant related role jobs along with one-on-one chat support to connect with prospective employers, enabling users to increase the job selection possibility.",
@@ -1900,11 +2034,6 @@
         "name": "Fredd Bezerra",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Fredd Bezerra",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -1915,9 +2044,12 @@
     },
     "extra": {
       "country": "United Arab Emirates"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   },
   {
+    "id": "500-canopy-oasislabs-com",
     "source": "500",
     "name": "Canopy",
     "description": "Developer of a cloud computing platform designed to build smart contract applications. The company's platform permits privacy-preserving contracts, performance, and scalability for real-world complex applications and governs how data is moved and used across businesses, enabling companies to overcome performance, security, and privacy limitations that may have hampered blockchain adoption.",
@@ -1969,9 +2101,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-worknmates",
     "source": "500",
     "name": "Worknmates",
     "description": "Operator of a B2B marketplace for remote workers intended to provide companies with a comprehensive solution for remote and hybrid work. The company allows companies and individuals to easily find or rent out available office spaces and have the option to give their employees access to book workspaces in any part of the world on their behalf, in a buy now pay later business model, enabling clients to manage their remote workforce efficiently.",
@@ -2013,9 +2148,12 @@
     },
     "extra": {
       "country": "Argentina"
-    }
+    },
+    "country": "Argentina",
+    "alsoIn": []
   },
   {
+    "id": "500-onmygrad",
     "source": "500",
     "name": "Onmygrad",
     "description": "Developer of a talent solution platform for campus recruitment and talent onboarding. The company's platform connects university students with potential employers, enabling fresh graduates to seek career opportunities easily online.",
@@ -2039,7 +2177,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Anthony  So",
+        "name": "Anthony So",
         "role": "",
         "linkedin": ""
       },
@@ -2057,9 +2195,12 @@
     },
     "extra": {
       "country": "Hong Kong"
-    }
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
   },
   {
+    "id": "500-orchard-labs",
     "source": "500",
     "name": "Orchard Labs",
     "description": "Developer of an online phone-based retail platform intended to make devices accessible to people. The company's platform connects buyers and sellers of used phones and helps bring down the cost of ownership by providing an inclusive return to someone selling their device, helping customers get an affordable option, and transact in a safe and hassle-free manner.",
@@ -2097,9 +2238,12 @@
     },
     "extra": {
       "country": "Canada"
-    }
+    },
+    "country": "Canada",
+    "alsoIn": []
   },
   {
+    "id": "500-peoplefund-perfect-technologies",
     "source": "500",
     "name": "PeopleFund, Perfect Technologies",
     "description": "Developer of a lending platform designed to process all loans through a bank-integrated system. The company's platform operates with banks and other financial institutions to ease the lending process and the loan is made available via various third-party applications as well, enabling customers to get a personal loan at a low-interest rate.",
@@ -2110,7 +2254,7 @@
     "subregion": "",
     "tags": [
       "AI/Machine Learning",
-      "FinTech",
+      "Fintech",
       "Consumer",
       "B2A"
     ],
@@ -2168,9 +2312,12 @@
     },
     "extra": {
       "country": "South Korea"
-    }
+    },
+    "country": "South Korea",
+    "alsoIn": []
   },
   {
+    "id": "500-pko",
     "source": "500",
     "name": "PKO",
     "description": "collective of Founders, Creators, Execs, Artists, Angels & Investors at the intersection of Tech & Entertainment",
@@ -2202,11 +2349,6 @@
         "name": "Patrick Lee",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Patrick Lee",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -2217,9 +2359,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-playbook",
     "source": "500",
     "name": "Playbook",
     "description": "Developer of education platform designed to bridge the global gender gap and get more women into leadership roles. The company specializes in providing edutainment packages and diverse digital masterclasses led by women leaders, enabling women to get unstuck in their personal and professional lives and navigate pain points with much more clarity and perspective as they learn from real-world scenarios and tactics.",
@@ -2258,16 +2403,6 @@
         "linkedin": ""
       },
       {
-        "name": "Wafa AlObaidat",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Shreya  Rammohan",
-        "role": "",
-        "linkedin": ""
-      },
-      {
         "name": "Ismahan Al Saad",
         "role": "",
         "linkedin": ""
@@ -2286,9 +2421,12 @@
     },
     "extra": {
       "country": "Bahrain"
-    }
+    },
+    "country": "Bahrain",
+    "alsoIn": []
   },
   {
+    "id": "500-playht",
     "source": "500",
     "name": "PlayHT",
     "description": "Developer of an audio platform designed to create realistic voiceovers from text instantly in multiple languages. The company's platform offers various features such as a text-to-voice editor, audio widgets, podcasts, audio articles and phonetics, enabling media companies to scale and automate their content creation with realistic and fidelity generative voices.",
@@ -2330,9 +2468,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-blocto",
     "source": "500",
     "name": "Blocto",
     "description": "Developer of dApp browser Blocto. The company aims to bring block chain usage to the masses through its seamless dApp browser Blocto, enabling users to purchase and utilize crypto assets.",
@@ -2380,9 +2521,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-prevenotics",
     "source": "500",
     "name": "Prevenotics",
     "description": "Developer of an AI medical diagnosis software designed to detect cancer or precancerous stages based on endoscopic data. The company's AI technology helps accurately diagnose cancer and predict conditions and diseases that can spread to cancer in advance, enabling patients in need of preventive management to actively manage their disease.",
@@ -2434,9 +2578,12 @@
     },
     "extra": {
       "country": "South Korea"
-    }
+    },
+    "country": "South Korea",
+    "alsoIn": []
   },
   {
+    "id": "500-project-a",
     "source": "500",
     "name": "Project A",
     "description": "Project A is a software development company that specializes in building trading infrastructure for the financial market. The company aggregates, normalizes, and unifies financial market information and access through a single API.",
@@ -2478,9 +2625,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-junomedical",
     "source": "500",
     "name": "Junomedical",
     "description": "Developer of a digital medical platform intended to connect patients with the doctors easily. The company's platform allows users to search for desired treatment and browse through the hospitals offering the procedure by country, enabling patients to get full information about procedures, doctors, hospitals, pricing, and destinations.",
@@ -2522,9 +2672,12 @@
     },
     "extra": {
       "country": "Germany"
-    }
+    },
+    "country": "Germany",
+    "alsoIn": []
   },
   {
+    "id": "500-renotag-inc",
     "source": "500",
     "name": "Renotag, Inc.",
     "description": "Renotag is a renovation cost calculator gives you accurate market pricing for your project — like having a contractor in your pocket.",
@@ -2534,8 +2687,8 @@
     "region": "Canada",
     "subregion": "",
     "tags": [
-      "FinTech",
-      "PropTech",
+      "Fintech",
+      "Proptech",
       "B2A"
     ],
     "year": 2022,
@@ -2567,9 +2720,12 @@
     },
     "extra": {
       "country": "Canada"
-    }
+    },
+    "country": "Canada",
+    "alsoIn": []
   },
   {
+    "id": "500-salary-hero-pte",
     "source": "500",
     "name": "SALARY HERO PTE.",
     "description": "Developer of an employee wellness platform designed to offer financial health solutions for corporate employees. The company's platform provides access to quick liquidity when and where needed, reduces financial stress, increases savings via reduced employee turnover, improves staff financial health and independence, hassle-free payroll process for the HR team, and more, enabling firms to drive positive economic outcomes for both employers and employees.",
@@ -2579,7 +2735,7 @@
     "region": "South Asia",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2022,
@@ -2611,9 +2767,12 @@
     },
     "extra": {
       "country": "Thailand"
-    }
+    },
+    "country": "Thailand",
+    "alsoIn": []
   },
   {
+    "id": "500-sanad-cash",
     "source": "500",
     "name": "Sanad Cash",
     "description": "Developer of an all-in-one spending management platform intended to track all spending from one single dashboard. The company's platform tracks all business transactions with instant corporate card issuing to control spending and instantly issue multi-currencies corporate cards for employees, enabling startups, small and medium enterprises and corporates to reduce fraud and save time collecting expense receipts.",
@@ -2662,9 +2821,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-sciket",
     "source": "500",
     "name": "Sciket",
     "description": "Developer of an online shopping platform intended for the purchase and sale of scientific research commodities by researchers. The company's platform offers multiple payment options, cross-device compatibility, price transparency, commodity consulting service and artificial intelligence-backed recommendations for each user's needs, enabling research practitioners to find their desired products with accuracy, speed and convenience and have an innovative research shopping experience.",
@@ -2701,9 +2863,12 @@
     },
     "extra": {
       "country": "Taiwan"
-    }
+    },
+    "country": "Taiwan",
+    "alsoIn": []
   },
   {
+    "id": "500-scouter",
     "source": "500",
     "name": "Scouter",
     "description": "Operator of an online property rental platform intended to provide vacation properties. The company's platform offers properties for various events such as workshops, parties, shooting, etc, and also allows owners to rent out their property via its platform, enabling users to book properties according to their requirements.",
@@ -2752,9 +2917,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-shiplyst",
     "source": "500",
     "name": "Shiplyst",
     "description": "Operator of a managed ocean freight procurement marketplace intended to let people search and compare ocean freight rates from various shipping lines. The company's platform offers transparent and real-time tracking, data security through industrial-grade encryption, global marketplace to choose freight forwarders of choice, enabling clients to receive end-to-end container shipment service at reduced costs, thereby increasing efficiency.",
@@ -2791,9 +2959,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-sols-energy",
     "source": "500",
     "name": "SOLS Energy",
     "description": "Provider of solar energy products and services intended to promote the use of green energy. The company offers grid-tied, off-grid, and hybrid solar thermal and water pump systems that facilitate reducing carbon dioxide emissions, enabling customers to get cost-effective access to clean energy.",
@@ -2803,7 +2974,7 @@
     "region": "South Asia",
     "subregion": "",
     "tags": [
-      "Climate Tech",
+      "Climate tech",
       "Energy",
       "B2A"
     ],
@@ -2856,9 +3027,12 @@
     },
     "extra": {
       "country": "Malaysia"
-    }
+    },
+    "country": "Malaysia",
+    "alsoIn": []
   },
   {
+    "id": "500-speero",
     "source": "500",
     "name": "Speero",
     "description": "Operator of an online marketplace intended to provide automotive spare parts. The company's marketplace covers used and new parts in one single platform with direct integrations with repair shops, insurance companies, and other businesses and also allows users to compare price quotes from suppliers and make an order through the platform or app, enabling users to get automotive parts at low cost and clients to reduce their cost, increase efficiency, eliminate fraud, and discover new opportunities while running their businesses.",
@@ -2910,9 +3084,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-spext-labs-spext",
     "source": "500",
     "name": "Spext Labs, Spext",
     "description": "Developer of an online platform designed to make voice media creation as easy and ubiquitous as text. The company's platform uses artificial intelligence to fuse speech and text to automate transcription, voice editing, and repurposing of voice content, enabling users to convert recorded content into useful content faster.",
@@ -2950,9 +3127,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-springcoin",
     "source": "500",
     "name": "Springcoin",
     "description": "Developer of a decentralized network designed to permit participants to share and exchange information about financial data. The company's network leverages the security, scalability, transparency, and efficiency of blockchain technology to provide financial institutions and lenders with greater data control and flexibility for the credit system, enabling clients to improve the protection and security of their credit information.",
@@ -2963,7 +3143,7 @@
     "subregion": "",
     "tags": [
       "Crypto",
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2018,
@@ -2995,9 +3175,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-stitch",
     "source": "500",
     "name": "Stitch",
     "description": "Operator of a financial API platform intended to securely link bank accounts with a lightweight single sign-on experience. The company's platform connects directly to the existing infrastructure of banks for seamless integration with compliance, enabling clients to have a seamless user experience, one-click, fraud-free bank payments and easy access to financial data.",
@@ -3034,9 +3217,12 @@
     },
     "extra": {
       "country": "South Africa"
-    }
+    },
+    "country": "South Africa",
+    "alsoIn": []
   },
   {
+    "id": "500-string-technology",
     "source": "500",
     "name": "String Technology",
     "description": "Developer of a digital platform designed to integrate fiat payments into Web3 games. The company's platform builds credit card and bank payments for NFTs and tokens directly into your game environment, enabling clients to have full control over their experience and lets games own the user journey from end-to-end.",
@@ -3073,9 +3259,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-sudowrite",
     "source": "500",
     "name": "Sudowrite",
     "description": "Developer of an AI tool designed for writers to generate endless possibilities based on their plots. The company's platform is an Open AI Foundation's GPT-3 and other natural language processing models that generate more vivid descriptions, bust through writer's block, and invent clever narrative twists, enabling fiction writers to unleash their creative potential using the writing AI collaborator tool.",
@@ -3117,9 +3306,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-vlogeasy",
     "source": "500",
     "name": "VlogEasy",
     "description": "Developer of video editing software designed to save the editing hours for video loggers. The company's software offers a wide range of features including unlimited cloud storage, the ability to import 4k footage, a jumpcut feature along with a cross-platform service, and automatically edit vlogs for users in real-time, enabling users to make and edit videos while reducing costs.",
@@ -3166,9 +3358,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-tealet",
     "source": "500",
     "name": "Tealet",
     "description": "Operator of an online retail platform designed to connect tea buyers directly with small family farms around the world. The company's platform uses technology and media to help people learn about a variety of teas, and offers videos from tea gardens and detailed profiles of farms, allowing customers to browse, preview, and purchase teas from individual growers.",
@@ -3210,9 +3405,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-transfercar",
     "source": "500",
     "name": "Transfercar",
     "description": "Operator of rental cars and campervans intended to reduce costs in freight services. The company matches those in need of a free rental car with rental car companies that need to reposition their fleet and delivers financial benefits to both rental car companies and flexible travelers, enabling customers to book cars at competitive fares.",
@@ -3249,9 +3447,12 @@
     },
     "extra": {
       "country": "New Zealand"
-    }
+    },
+    "country": "New Zealand",
+    "alsoIn": []
   },
   {
+    "id": "500-ux-magic-ai",
     "source": "500",
     "name": "UX Magic AI",
     "description": "",
@@ -3283,11 +3484,6 @@
         "name": "Adarsh Singh",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Ronak Daga",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -3298,9 +3494,12 @@
     },
     "extra": {
       "country": "UNITED STATES"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-voyceme",
     "source": "500",
     "name": "VoyceMe",
     "description": "Developer a social creator platform designed to allow social interaction among fans and authors. The company offers original manga, webcomics, and web novels, by giving historically underserved creators new ways to tell their stories, generate revenue, and engage with their fans, enabling readers to find new stories and the ability to experience them through immersive storytelling and helping authors monetize their stories and build and engage their fan base.",
@@ -3338,9 +3537,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-wizerme",
     "source": "500",
     "name": "WizerMe",
     "description": "Developer of an online student engagement platform designed to help teachers to create their own interactive worksheets, and find relevant materials. The company's platform provides insights into the child's progress and status, offering immediate feedback and encouragement, enabling teachers to leverage a social and gamified learning experience for their students.",
@@ -3382,9 +3584,12 @@
     },
     "extra": {
       "country": "Israel"
-    }
+    },
+    "country": "Israel",
+    "alsoIn": []
   },
   {
+    "id": "500-yo-fio",
     "source": "500",
     "name": "Yo Fio",
     "description": "Developer of microcredit application designed for purchases at informal corner stores. The company's application scans QR codes to show the details of the products being bought and authorizes the purchase by notifying the store and provides credit facilities to corner stores through the app and in partnership with the store gives credit lines to the store customers, enabling customers to buy today and pay in a month.",
@@ -3394,7 +3599,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2020,
@@ -3431,9 +3636,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-zeabur",
     "source": "500",
     "name": "Zeabur",
     "description": "",
@@ -3469,9 +3677,12 @@
     },
     "extra": {
       "country": "UNITED STATES"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-zentist",
     "source": "500",
     "name": "Zentist",
     "description": "Developer of a dental care platform designed to connect patients with dental care providers. The company's platform offers transparent prices and quality information about all procedures and treatments, enabling patients to book appointments and share medical records with dentists.",
@@ -3513,9 +3724,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-plancast",
     "source": "500",
     "name": "Plancast",
     "description": "Developer of software for social web applications. The company is known for creating the social event discovery service Plancast.",
@@ -3547,9 +3761,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-smart-reno",
     "source": "500",
     "name": "Smart Reno",
     "description": "Provider of a resource platform designed to change the way homeowners look for contractors. The company's resource platform helps to describe renovation project in one place, then receive within 24 hours, completely free of charge, several contractors who are best qualified and available to quote and execute the project, enabling users to get qualified potential clients based on their expertise and criteria, saving them on marketing efforts and spent.",
@@ -3591,9 +3808,12 @@
     },
     "extra": {
       "country": "Canada"
-    }
+    },
+    "country": "Canada",
+    "alsoIn": []
   },
   {
+    "id": "500-backlotcars",
     "source": "500",
     "name": "Backlotcars",
     "description": "Provider of a subscription based online wholesale marketplace for the wholesale auto industry designed to make buying wholesale easy, transparent and enjoyable. The company's wholesale marketplace provides direct access to true wholesale inventory from new car stores, enabling car dealers, auto finance companies and rental car companies to liquidate inventory direct to their end-market without having to go to physical auctions.",
@@ -3640,9 +3860,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-anglers",
     "source": "500",
     "name": "Anglers",
     "description": "Anglers is an app that connect fishermen whose keen on recording and sharing their latest catch of the sea.",
@@ -3679,9 +3902,12 @@
     },
     "extra": {
       "country": "Japan"
-    }
+    },
+    "country": "Japan",
+    "alsoIn": []
   },
   {
+    "id": "500-ostaz",
     "source": "500",
     "name": "Ostaz",
     "description": "Developer of a mobile-based tutoring platform intended to connect students seeking help in a specific course to private tutors. The company's tutoring platform connects students to tutors based on their preferences such as location, rating, availability, and other related factors, enabling students to enhance their academic performance.",
@@ -3728,9 +3954,12 @@
     },
     "extra": {
       "country": "Lebanon"
-    }
+    },
+    "country": "Lebanon",
+    "alsoIn": []
   },
   {
+    "id": "500-workamerica",
     "source": "500",
     "name": "WorkAmerica",
     "description": "Provider of an online recruitment platform designed to connect employers in the skilled trades with trained and credentialed talent. The company's platform includes community colleges, vocational schools and credentialing agencies to help employers build a quality talent pipeline nationwide, enabling them to save time and find the right candidate easily.",
@@ -3782,9 +4011,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-cybavo",
     "source": "500",
     "name": "CYBAVO",
     "description": "Operator of a crypto custody firm intended to provide advanced digital asset custody by developing a custom operating system. The company provides blockchain security solutions via a patented encryption technology, and a highly secure sandboxed environment to deliver its suite of solutions, thereby helping clients easily manage digital assets and prevent malicious attacks, theft, and loss.",
@@ -3832,9 +4064,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-fazwaz",
     "source": "500",
     "name": "FazWaz",
     "description": "Operator of a property search portal designed to find desirable properties in a hassle-free manner. The company's portal uses the latest technologies and up-to-date market data to capture leads, analyze trends and investment opportunities quickly scale across new markets, enabling customers to find properties of their choice in a hassle-free manner.",
@@ -3858,7 +4093,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Paul  Trayman",
+        "name": "Paul Trayman",
         "role": "",
         "linkedin": ""
       }
@@ -3871,9 +4106,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-tapastic",
     "source": "500",
     "name": "Tapastic",
     "description": "Developer of an online portal designed to connect readers with writers and comic artists. The company's platform allows creators to publish their work on the website and app, helping creators gain an audience and readers with new content.",
@@ -3911,9 +4149,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-hipflat",
     "source": "500",
     "name": "Hipflat",
     "description": "Provider of a real estate search platform designed to help people find the right home. The company's online real estate portal uses a smart automated system for collection, extraction and processing of real estate pricing data from hundreds of unstructured sources, which includes asking prices for over 2,500 projects going back as far as eight years, achievable rental yields and pricing trends, all at no cost to buyers, enabling property buyers and renters to do their research and make an informed decision about property purchases or sales.",
@@ -3955,9 +4196,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-forrst",
     "source": "500",
     "name": "Forrst",
     "description": "Provider of online community for website developers and designers. The company offers its community to help themselves and others get better at their craft by providing critiques and sharing their knowledge to build applications and websites.",
@@ -3995,9 +4239,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-nanogrid",
     "source": "500",
     "name": "Nanogrid",
     "description": "Provider of an online platform intended to offer electrification through software intelligence for electric vehicle owners.The company's platform features centralized intelligence for distributed energy devices through benchmarking, prediction and improved performance, allowing customers to set up their homes to gain cheap, green electricity for their electric vehicle.",
@@ -4039,9 +4286,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-vivareal",
     "source": "500",
     "name": "VivaReal",
     "description": "Provider of an online real estate marketplace designed to help thousands of people to find their dream house. The company's online real estate marketplace connects buyers, sellers and renters with the properties they are interested in, enabling them to avail profitable real estate deals.",
@@ -4098,9 +4348,12 @@
     },
     "extra": {
       "country": "Cayman Islands"
-    }
+    },
+    "country": "Cayman Islands",
+    "alsoIn": []
   },
   {
+    "id": "500-paynas",
     "source": "500",
     "name": "Paynas",
     "description": "Developer of a payroll enrollment platform designed to provide banking services and benefits to small-sized companies and their employees. The company's platform provides multiple HR features such as employee and payroll management, recruitment management, task management, attendance management with a time logging track system, enabling clients to provide its employees hassle-free banking, HR management, and employee benefits in one place, and in a single workflow.",
@@ -4110,7 +4363,7 @@
     "region": "Europe",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2019,
@@ -4134,7 +4387,7 @@
         "linkedin": ""
       },
       {
-        "name": "Ahmed  Raslan",
+        "name": "Ahmed Raslan",
         "role": "",
         "linkedin": ""
       },
@@ -4152,9 +4405,12 @@
     },
     "extra": {
       "country": "Netherlands"
-    }
+    },
+    "country": "Netherlands",
+    "alsoIn": []
   },
   {
+    "id": "500-zipmatch",
     "source": "500",
     "name": "ZipMatch",
     "description": "Provider of a real estate brokerage and listing platform designed to offer real estate trends information. The company's real estate brokerage and listing platform offers interactive visual content like 360-degreemore",
@@ -4196,9 +4452,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-proven",
     "source": "500",
     "name": "Proven",
     "description": "Provider of an employment application software designed to help small businesses to hire. The company's employment application software offers to post jobs to craigslist and then search, sort and contact, enabling businesses to search candidates directly from a smartphone or tablet.",
@@ -4240,9 +4499,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-bankiom",
     "source": "500",
     "name": "Bankiom",
     "description": "Developer of a financial platform dedicated to providing a hassle-free banking experience. The company's platform offers digital banking and money management services, loan approvals as well as unparalleled customer support, enabling customers to organize their finances in a simplified manner.",
@@ -4252,7 +4514,7 @@
     "region": "Middle East & Africa",
     "subregion": "",
     "tags": [
-      "FinTech",
+      "Fintech",
       "B2A"
     ],
     "year": 2020,
@@ -4279,6 +4541,8 @@
     },
     "extra": {
       "country": "United Arab Emirates"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   }
 ]

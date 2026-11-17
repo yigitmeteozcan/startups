@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-curie",
     "source": "500",
     "name": "Curie",
     "description": "Developer of a 3D product generation platform designed to offer 3D shopping assistance. The company's platform allows shoppers to discover the best reviews and product news at the point of a camera, enabling customers to instantly educate and consense information and make purchases.",
@@ -43,9 +44,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-efishery",
     "source": "500",
     "name": "eFishery",
     "description": "Operator of an Internet of Things-based aquaculture company intended to serve fish and shrimp farmers to reduce social and economic inequalities. The company offers an automatic fish feeder for commercial aquaculture that uses motion sensors to measure fish appetite and feed amounts and also provides integrated services, starting from farming operations, and financing to distribution, enabling fish farmers to increase productivity and profits in fish and shrimp farming.",
@@ -55,7 +59,7 @@
     "region": "South Asia",
     "subregion": "",
     "tags": [
-      "AgTech",
+      "Agtech",
       "IoT",
       "Deep Tech"
     ],
@@ -93,9 +97,12 @@
     },
     "extra": {
       "country": "Indonesia"
-    }
+    },
+    "country": "Indonesia",
+    "alsoIn": []
   },
   {
+    "id": "500-eino",
     "source": "500",
     "name": "EINO",
     "description": "The Connectivity Digital Twin",
@@ -133,9 +140,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "techstars"
+    ]
   },
   {
+    "id": "500-gotcha-technology",
     "source": "500",
     "name": "GOTCHA Technology",
     "description": "Developer of a computer-vision-based technology designed to detect micro-emotions through the analysis of human facial behavior. The company's technology helps to detect hidden emotions and unmasks possible deception cases through the analysis of facial muscular actions, based on behavioral science research.",
@@ -172,9 +184,12 @@
     },
     "extra": {
       "country": "Armenia"
-    }
+    },
+    "country": "Armenia",
+    "alsoIn": []
   },
   {
+    "id": "500-lightspeed-photonics",
     "source": "500",
     "name": "Lightspeed Photonics",
     "description": "Manufacturer of optical interconnects intended to integrate processors with high data rate optics to build a modular compute+interconnect heterogeneous system-in-package. The company's products include modular optoelectronic processors and interconnects for data centers and near-edge computing resulting in a scalable server reducing data latency, footprint, and power consumption while increasing the data bandwidth and performance per watt, enabling clients to receive better performance at half the power.",
@@ -211,9 +226,12 @@
     },
     "extra": {
       "country": "Singapore"
-    }
+    },
+    "country": "Singapore",
+    "alsoIn": []
   },
   {
+    "id": "500-lisan",
     "source": "500",
     "name": "Lisan",
     "description": "Developer of an AI writing platform intended to help to write in the Arabic language. The company's platform specializes in providing proofreading, grammar checking, and integrated writing assistance, enabling users to maximize their productivity, create exceptional content using AI models, and automate tasks with AI accelerators.",
@@ -255,9 +273,12 @@
     },
     "extra": {
       "country": "United Arab Emirates"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   },
   {
+    "id": "500-scenariox",
     "source": "500",
     "name": "SCENARIOX",
     "description": "An AI and quantum platform empowering financial institutions to make faster, and more insightful risk decisions where traditional models fall short.",
@@ -268,7 +289,7 @@
     "subregion": "",
     "tags": [
       "Data & Analytics",
-      "FinTech",
+      "Fintech",
       "SaaS",
       "Deep Tech",
       "Artificial Intelligence / Machine Learning",
@@ -298,9 +319,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-siren",
     "source": "500",
     "name": "Siren",
     "description": "Developer of a smart sock designed to continuously measure foot temperature, an early indicator of injury that may lead to ulcers. The company's smart socks continuously track foot temperature and send information to the doctor to help them track issues related to inflammation, enabling podiatrists to detect early signs of inflammation in patients at risk of developing diabetic foot ulcers.",
@@ -348,9 +372,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "500-synervoz",
     "source": "500",
     "name": "Synervoz",
     "description": "Developer of an innovation & software studio intended to focus on audio, entertainment, and online collaboration. The company has designed, developed, and co-created apps, SDKs, and embedded products with complex audio pipelines focused on custom engineering solutions for other companies and source code that can be licensed or purchased outright, enabling clients to have access to applications that are balanced in real-time and offers non-live content that can be synchronized between parties.",
@@ -361,7 +390,7 @@
     "subregion": "",
     "tags": [
       "AI/Machine Learning",
-      "AudioTech",
+      "Audiotech",
       "Developer Tools",
       "Gaming",
       "No Code",
@@ -406,6 +435,10 @@
     },
     "extra": {
       "country": "Canada"
-    }
+    },
+    "country": "Canada",
+    "alsoIn": [
+      "techstars"
+    ]
   }
 ]

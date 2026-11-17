@@ -1,5 +1,6 @@
 [
   {
+    "id": "alchemist-moengage-inc",
     "source": "alchemist",
     "name": "MoEngage Inc.",
     "description": "Marketing Automation Platform pioneering user-level personalization and solving the problem of churn in mobile apps.",
@@ -33,9 +34,12 @@
     },
     "extra": {
       "country": ""
-    }
+    },
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-launchdarkly",
     "source": "alchemist",
     "name": "LaunchDarkly",
     "description": "Empowering all teams to deliver and control their software.",
@@ -56,7 +60,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Edith Harbaugh  John Kodumal",
+        "name": "Edith Harbaugh",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "John Kodumal",
         "role": "",
         "linkedin": ""
       }
@@ -69,9 +78,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-cobalt",
     "source": "alchemist",
     "name": "Cobalt",
     "description": "Pen Testing as a Service (PTaaS). \n\n",
@@ -105,9 +117,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-scoro-software",
     "source": "alchemist",
     "name": "Scoro Software",
     "description": "Scoro's end-to-end work management software helps professional service businesses streamline projects, automate quoting and billing, optimize utilization and much more.",
@@ -141,9 +156,12 @@
     },
     "extra": {
       "country": "Estonia"
-    }
+    },
+    "country": "Estonia",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-zipline",
     "source": "alchemist",
     "name": "Zipline",
     "description": "SaaS solution that drives sales for national retailers by improving the actionable communication between HQ and the stores.",
@@ -177,9 +195,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-carrum-health",
     "source": "alchemist",
     "name": "Carrum Health",
     "description": "Marketplace for planned healthcare procedures.\n\n",
@@ -213,9 +234,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-onemob",
     "source": "alchemist",
     "name": "OneMob",
     "description": "Supercharge your sales with OneMob: personalized microsites, 10X response boost, seamless Salesforce and MS Dynamics integration. Get started free at onemob.com.",
@@ -249,9 +273,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-nanopay-inc",
     "source": "alchemist",
     "name": "nanoPay inc",
     "description": "Next generation payments platform for online and retail. Secure, fast and lower cost.",
@@ -272,7 +299,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Laurence Cooke  & Hilton McGough",
+        "name": "Laurence Cooke",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Hilton McGough",
         "role": "",
         "linkedin": ""
       }
@@ -285,9 +317,12 @@
     },
     "extra": {
       "country": ""
-    }
+    },
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-47line",
     "source": "alchemist",
     "name": "47Line",
     "description": "Automated cloud infrastructure provisioning and management for Enterprise Data Processing.",
@@ -315,6 +350,8 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   }
 ]

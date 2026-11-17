@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-albert",
     "source": "500",
     "name": "Albert",
     "description": "Developer of a financial advisory platform designed to assist users in tracking their finances by aggregating financial data. The company's platform includes bank accounts, credit cards, property, loans, and investments, enabling clients to get personalized recommendations, such as setting up a savings account or applying for a loan with a lower interest rate easily.",
@@ -51,6 +52,10 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "plugandplay"
+    ]
   }
 ]

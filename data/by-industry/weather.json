@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-weathercheck",
     "source": "yc",
     "name": "WeatherCheck",
     "description": "WeatherCheck monitors properties for hail damage so that insurance…",
@@ -29,9 +30,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-atmo",
     "source": "yc",
     "name": "Atmo",
     "description": "Ultra-precise AI weather forecasting.",
@@ -63,9 +67,14 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "yc-care-weather",
     "source": "yc",
     "name": "Care Weather",
     "description": "The highest-accuracy global weather data from low-cost flat satellites",
@@ -99,6 +108,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   }
 ]

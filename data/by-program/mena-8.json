@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-cultivaet",
     "source": "500",
     "name": "Cultivaet",
     "description": "",
@@ -43,9 +44,12 @@
     },
     "extra": {
       "country": "UNITED ARAB EMIRATES"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   },
   {
+    "id": "500-equiptal",
     "source": "500",
     "name": "EQUIPTAL",
     "description": "Equiptal optimizes idle machinery for owners by infusing intelligence into construction operations.",
@@ -79,9 +83,14 @@
     },
     "extra": {
       "country": "UNITED ARAB EMIRATES"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "500-hakeem",
     "source": "500",
     "name": "HAKEEM",
     "description": "Hakeem Health is a mobile app that simplifies prescription medication delivery from nearby pharmacies 24/7.",
@@ -117,9 +126,12 @@
     },
     "extra": {
       "country": "UNITED ARAB EMIRATES"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   },
   {
+    "id": "500-neo-tech-mobility",
     "source": "500",
     "name": "NEO TECH MOBILITY",
     "description": "Neo Mobility offers delivery solutions and integrated electric fleet offerings to delivery and taxi mobility companies and drivers.",
@@ -145,11 +157,6 @@
         "name": "Abhishek Shah",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Abhishek Shah",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -160,9 +167,12 @@
     },
     "extra": {
       "country": "UNITED ARAB EMIRATES"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   },
   {
+    "id": "500-orbii-tech-ltd",
     "source": "500",
     "name": "Orbii Tech Ltd",
     "description": "Orbii enables B2B lenders to make instant, hyper-accurate credit decisions by uncovering real financial behavior.",
@@ -196,9 +206,12 @@
     },
     "extra": {
       "country": "UNITED ARAB EMIRATES"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
   },
   {
+    "id": "500-sahl",
     "source": "500",
     "name": "Sahl",
     "description": "Sahl helps companies who manage sensitive data achieve digital compliance quickly and inexpensively by automating time-consuming processes.",
@@ -232,9 +245,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-smart-bricks",
     "source": "500",
     "name": "Smart Bricks",
     "description": "The Smarter Way to Invest in Residential Real Estate - Powered by AI.",
@@ -244,7 +260,7 @@
     "region": "Middle East & Africa",
     "subregion": "",
     "tags": [
-      "PropTech"
+      "Proptech"
     ],
     "year": 2024,
     "program": "MENA 8",
@@ -270,11 +286,16 @@
     },
     "extra": {
       "country": "United Arab Emirates"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": [
+      "techstars"
+    ]
   },
   {
+    "id": "500-yasmina-ai-insurance",
     "source": "500",
-    "name": "Yasmina AI - Insurance ",
+    "name": "Yasmina AI - Insurance",
     "description": "Yasmina is an embedded insurance provider that allows online businesses to customize and sell policies to their users.",
     "logo": "https://founder-hub-public.s3.amazonaws.com/e8f957f0-7ef3-4dca-b305-04ed522620b7.png",
     "website": "https://www.yasmina.ai",
@@ -283,7 +304,7 @@
     "subregion": "",
     "tags": [
       "AI/Machine Learning",
-      "InsurTech"
+      "Insurtech"
     ],
     "year": 2024,
     "program": "MENA 8",
@@ -295,11 +316,6 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
-      {
-        "name": "Masoud Alhelou",
-        "role": "",
-        "linkedin": ""
-      },
       {
         "name": "Masoud Alhelou",
         "role": "",
@@ -409,6 +425,8 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "id": "alchemist-friendly",
     "source": "alchemist",
     "name": "Friendly",
     "description": "An Operating Agent for Complex Decisions in Life, Disability, Employer Benefits",
@@ -43,9 +44,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-inerrata",
     "source": "alchemist",
     "name": "Inerrata",
     "description": "Give Your Agents the Knowledge to Solve Problems Your Way",
@@ -84,6 +88,8 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-alphaus",
     "source": "500",
     "name": "Alphaus",
     "description": "Developer of a software-as-a-service platform designed to seamlessly automate the daily operations of cloud lifecycle management. The company's platform helps AWS (Amazon Web Services), Azure & Google Cloud partners, and user enterprises to understand complicated cloud spend, allocate it to each client or business unit with accuracy, and optimize it with a better way of procurement, enabling businesses to optimize their cloud costs via accounts, tags, products or departments.",
@@ -12,7 +13,7 @@
       "CloudTech",
       "DevOps",
       "Developer Tools",
-      "FinTech"
+      "Fintech"
     ],
     "year": 2015,
     "program": "GA 15",
@@ -48,9 +49,14 @@
     },
     "extra": {
       "country": "Japan"
-    }
+    },
+    "country": "Japan",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "500-crafting",
     "source": "500",
     "name": "Crafting",
     "description": "Developer of a fully managed cloud development environment platform designed to provide a full-fledged developer environment on the cloud for multi-service apps. The company's platform offers production-like development environments on cloud, up and running with one click to code, run, test, debug and preview their end-to-end product instantly and interactively on cloud, enabling customers to develop and test applications in a production-like environment, without having to worry about managing and maintaining infrastructure.",
@@ -91,9 +97,14 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "500-deben",
     "source": "500",
     "name": "Deben",
     "description": "Developer of a financial platform designed to control multiple bank accounts in real-time with one view. The company's platform offers a system that is integrated and controlled automatically through cash reporting, forecasting, analysis, reconciliation, and bank integrations, helping businesses to analyze, report, and forecast cash flow, faster through integrations with all the bank accounts.",
@@ -105,7 +116,7 @@
     "tags": [
       "Banking & Exchange",
       "CloudTech",
-      "FinTech"
+      "Fintech"
     ],
     "year": 2022,
     "program": "Mena 4",
@@ -141,9 +152,12 @@
     },
     "extra": {
       "country": "Saudi Arabia"
-    }
+    },
+    "country": "Saudi Arabia",
+    "alsoIn": []
   },
   {
+    "id": "500-hilos",
     "source": "500",
     "name": "Hilos",
     "description": "Developer of an application programming interface (API) system designed to connect WhatsApp for business purposes. The company's platform allows support, sales, and operation through an inbox and automated conversation flows, enabling businesses to drive more revenue and improve the productivity of the support team by automating repetitive tasks.",
@@ -186,9 +200,14 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": [
+      "yc"
+    ]
   },
   {
+    "id": "500-sermorpheus",
     "source": "500",
     "name": "SerMorpheus",
     "description": "Operator of a metaverse integrated platform intended to facilitate non-fungible token trading. The company's platform assists creators in launching customized non-fungible tokens to connect and engage with their fanbase and community in real-time, enabling content creators to have an easy and cost-effective medium of connecting fans.",
@@ -231,9 +250,12 @@
     },
     "extra": {
       "country": "Indonesia"
-    }
+    },
+    "country": "Indonesia",
+    "alsoIn": []
   },
   {
+    "id": "500-krunch",
     "source": "500",
     "name": "Krunch",
     "description": "Developer of cloud-based marketing analytic tool catering to its clients in Hong Kong. The company's software helps its clients to do social monitoring, channel attribution, user segmentation and predictive analytics in the developer context, helping the marketing field in analyzing the rapidly growing audience.",
@@ -276,9 +298,12 @@
     },
     "extra": {
       "country": "Hong Kong"
-    }
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
   },
   {
+    "id": "500-monak-e-services",
     "source": "500",
     "name": "Monak E-Services",
     "description": "Developer of a fintech platform intended to provide financial inclusion and life services to migrants via partnered networks in the Middle East. The company's platform aims to solve the struggles that migrants are facing coming to the Middle East by providing end-to-end life services to create a comfortable and stress-free living, enabling users to get health, beauty, payment, and delivery solutions within a single application.",
@@ -315,9 +340,12 @@
     },
     "extra": {
       "country": "Oman"
-    }
+    },
+    "country": "Oman",
+    "alsoIn": []
   },
   {
+    "id": "500-reddit",
     "source": "500",
     "name": "Reddit",
     "description": "Reddit Inc is engaged in providing internet content. The company provides online services that include gaming, sports, business, crypto, television and others.",
@@ -358,9 +386,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-wellxai",
     "source": "500",
     "name": "Wellxai",
     "description": "Opeartor of an insurance technology intended to support wellness activities. The company aims to disrupt the insurance landscape in the region by offering individuals, families, corporates, and SMEs health insurance that incentivizes engagement in various wellness activities such as gym visits, healthy eating, focusing on mental wellness, utilizing wearable tech, and also provides a third-party embedded device along with an application that monitors health, enabling users to make efficient insurance decisions.",
@@ -371,7 +402,7 @@
     "subregion": "",
     "tags": [
       "CloudTech",
-      "InsurTech",
+      "Insurtech",
       "Subscription"
     ],
     "year": 2022,
@@ -398,9 +429,14 @@
     },
     "extra": {
       "country": "United Arab Emirates"
-    }
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "500-payment24",
     "source": "500",
     "name": "Payment24",
     "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
@@ -411,7 +447,7 @@
     "subregion": "",
     "tags": [
       "CloudTech",
-      "FinTech",
+      "Fintech",
       "Payments",
       "Mobility"
     ],
@@ -449,6 +485,8 @@
     },
     "extra": {
       "country": "South Africa"
-    }
+    },
+    "country": "South Africa",
+    "alsoIn": []
   }
 ]

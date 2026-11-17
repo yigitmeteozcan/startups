@@ -1,9 +1,10 @@
 [
   {
+    "id": "yc-directed-edge",
     "source": "yc",
     "name": "Directed Edge",
     "description": "Product recommendations.",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://directededge.com",
     "location": "Berlin, Berlin, Germany; San Francisco, CA, USA",
     "region": "Germany",
@@ -31,13 +32,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Germany",
+    "alsoIn": []
   },
   {
+    "id": "yc-fanchatter",
     "source": "yc",
     "name": "Fanchatter",
     "description": "FanChatter aggregates, amplifies and empowers fan content on every…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://fanchatter.com",
     "location": "Minneapolis, MN, USA",
     "region": "United States of America",
@@ -63,9 +67,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-shaped",
     "source": "yc",
     "name": "Shaped",
     "description": "The real-time retrieval engine for search, feeds, and agents.",
@@ -96,9 +103,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-rubber-ducky-labs",
     "source": "yc",
     "name": "Rubber Ducky Labs",
     "description": "AI Powered Product Discovery",
@@ -129,6 +139,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   }
 ]

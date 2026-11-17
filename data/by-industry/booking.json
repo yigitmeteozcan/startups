@@ -1,9 +1,10 @@
 [
   {
+    "id": "yc-getgoing",
     "source": "yc",
     "name": "GetGoing",
     "description": "We are building a \"transparent opaque\" airfare and hotel booking site…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "",
     "location": "San Francisco, CA, USA; Redwood City, CA, USA",
     "region": "United States of America",
@@ -30,9 +31,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-nextravel",
     "source": "yc",
     "name": "NexTravel",
     "description": "NexTravel is a centralized travel booking platform that helps…",
@@ -62,6 +66,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [
+      "500"
+    ]
   }
 ]

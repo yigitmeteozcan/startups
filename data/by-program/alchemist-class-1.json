@@ -1,5 +1,6 @@
 [
   {
+    "id": "alchemist-selligy",
     "source": "alchemist",
     "name": "Selligy",
     "description": "Sales tools help salespeople sell and help sales teams see what's working and what's not.",
@@ -27,9 +28,12 @@
     },
     "extra": {
       "country": ""
-    }
+    },
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-mobilespan",
     "source": "alchemist",
     "name": "MobileSpan",
     "description": "-",
@@ -68,6 +72,8 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   }
 ]

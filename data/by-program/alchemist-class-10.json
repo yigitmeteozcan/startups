@@ -1,5 +1,6 @@
 [
   {
+    "id": "alchemist-mpharma",
     "source": "alchemist",
     "name": "mPharma",
     "description": "Making health accessible and affordable to all Africans.",
@@ -33,9 +34,12 @@
     },
     "extra": {
       "country": ""
-    }
+    },
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-clearmetal",
     "source": "alchemist",
     "name": "ClearMetal",
     "description": "ClearMetal is a predictive supply chain visibility company that uses AI to help the world's largest retailers, manufacturers, and suppliers manage their global inventory in transit. ClearMetal is based in San Francisco and backed by Eclipse VC, NEA, Eric Schmidt's Innovation Endeavors, SAP and the largest players in logistics. ",
@@ -69,9 +73,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-timekit",
     "source": "alchemist",
     "name": "Timekit",
     "description": "Scheduling Infrastructure Built For Developers. An API That Developers Can Use To Build Products With Calendars, Scheduling, And Appointment Flows Deeply Integrated.",
@@ -92,7 +99,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jesper Klingenberg  and Visti Kløft",
+        "name": "Jesper Klingenberg",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Visti Kløft",
         "role": "",
         "linkedin": ""
       }
@@ -105,9 +117,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-zycada-networks",
     "source": "alchemist",
     "name": "Zycada Networks",
     "description": "Mobile apps network response time is dependent on a lot of factors. Our SDK free infrastructure helps app creators to deliver high-performance experience consistently better than the vanilla experience their end users are having.",
@@ -141,9 +156,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-wholemeaning-wm",
     "source": "alchemist",
     "name": "Wholemeaning (WM)",
     "description": "Grow from conversations with your clients",
@@ -182,9 +200,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-openchannel",
     "source": "alchemist",
     "name": "OpenChannel",
     "description": "Build, brand and launch your own App Store platform",
@@ -223,9 +244,12 @@
     },
     "extra": {
       "country": "Canada"
-    }
+    },
+    "country": "Canada",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-positron-dynamics",
     "source": "alchemist",
     "name": "Positron Dynamics",
     "description": "-",
@@ -259,9 +283,12 @@
     },
     "extra": {
       "country": ""
-    }
+    },
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-nascent-objects-inc",
     "source": "alchemist",
     "name": "Nascent Objects Inc.",
     "description": "Modular Consumer Hardware Maker",
@@ -289,9 +316,12 @@
     },
     "extra": {
       "country": ""
-    }
+    },
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-aster-quanta-inc",
     "source": "alchemist",
     "name": "Aster Quanta Inc.",
     "description": "Provides value added retail solutions for shelf level compliance automation, vending automation and master data management.",
@@ -330,6 +360,8 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   }
 ]

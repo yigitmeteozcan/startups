@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-talkable",
     "source": "yc",
     "name": "Talkable",
     "description": "Online store referrals.",
@@ -10,7 +11,7 @@
     "subregion": "",
     "tags": [
       "Retail",
-      "E-Commerce",
+      "E-commerce",
       "Referrals"
     ],
     "year": 2011,
@@ -29,9 +30,14 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [
+      "500"
+    ]
   },
   {
+    "id": "yc-yesgraph",
     "source": "yc",
     "name": "YesGraph",
     "description": "YesGraph recommends exactly who a user should invite to an app. Our…",
@@ -61,6 +67,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   }
 ]

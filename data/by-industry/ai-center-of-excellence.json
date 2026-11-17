@@ -1,5 +1,6 @@
 [
   {
+    "id": "plugandplay-rubi-labs",
     "source": "plugandplay",
     "name": "rubi labs株式会社",
     "description": "AML調査におけるデータ収集と分析を自動化し、金融機関のコンプライアンス業務の効率化を実現",
@@ -31,9 +32,14 @@
       "city": "Tokyo",
       "state_province": "Japan",
       "country": "Japan"
-    }
+    },
+    "country": "Japan",
+    "alsoIn": [
+      "antler"
+    ]
   },
   {
+    "id": "plugandplay-kaguya",
     "source": "plugandplay",
     "name": "KAGUYA株式会社",
     "description": "縦型動画と対話型AIを組み合わせた「V-Talk」により、採用活動・募集広報における機会損失とミスマッチを解消",
@@ -65,9 +71,12 @@
       "city": "Tokyo",
       "state_province": "Japan",
       "country": "Japan"
-    }
+    },
+    "country": "Japan",
+    "alsoIn": []
   },
   {
+    "id": "plugandplay-crafting-inc",
     "source": "plugandplay",
     "name": "Crafting, Inc.",
     "description": "AIエージェントが自律的にコードを記述・検証・デプロイできる開発プラットフォームの開発・提供",
@@ -99,9 +108,14 @@
       "city": "",
       "state_province": "",
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": [
+      "500"
+    ]
   },
   {
+    "id": "plugandplay-syslea",
     "source": "plugandplay",
     "name": "株式会社SYSLEA",
     "description": "営業会議の記録からCRMへのデータ入力をAIで自動化し、商談データの資産化と営業生産性の向上を実現",
@@ -133,9 +147,12 @@
       "city": "Tokyo",
       "state_province": "Japan",
       "country": "Japan"
-    }
+    },
+    "country": "Japan",
+    "alsoIn": []
   },
   {
+    "id": "plugandplay-unknown-tenchijin-co-jp",
     "source": "plugandplay",
     "name": "株式会社 天地人",
     "description": "衛星データとAIによる土地解析により、インフラ管理や農業の最適化を自律化",
@@ -167,9 +184,12 @@
       "city": "Tokyo",
       "state_province": "Japan",
       "country": "Japan"
-    }
+    },
+    "country": "Japan",
+    "alsoIn": []
   },
   {
+    "id": "plugandplay-hootoflio",
     "source": "plugandplay",
     "name": "株式会社hootoflio",
     "description": "因果分析AIにより、データから「原因と結果」を可視化し、企業の科学的な意思決定を支援",
@@ -201,6 +221,8 @@
       "city": "",
       "state_province": "",
       "country": "Japan"
-    }
+    },
+    "country": "Japan",
+    "alsoIn": []
   }
 ]

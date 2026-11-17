@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-ali-tech",
     "source": "500",
     "name": "Ali Tech",
     "description": "Affordable processing power",
@@ -35,11 +36,6 @@
         "name": "Andrés Girault",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Andrés Girault",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -50,9 +46,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-calificadas",
     "source": "500",
     "name": "Calificadas",
     "description": "An AI-powered communication coach for women.",
@@ -93,9 +92,12 @@
     },
     "extra": {
       "country": "Argentina"
-    }
+    },
+    "country": "Argentina",
+    "alsoIn": []
   },
   {
+    "id": "500-invera",
     "source": "500",
     "name": "Invera",
     "description": "Developer of fintech platform intended to provide the infrastructure to embed and scale investment products to financial institutions. The company's platform expands the margins of its operations with a combination of investment platforms and automation resolutions, helping businesses access financial expertise to better understand their customers and make better business decisions.",
@@ -105,7 +107,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "FinTech"
+      "Fintech"
     ],
     "year": 2023,
     "program": "Lucha 18",
@@ -136,9 +138,12 @@
     },
     "extra": {
       "country": "Argentina"
-    }
+    },
+    "country": "Argentina",
+    "alsoIn": []
   },
   {
+    "id": "500-ledgifi",
     "source": "500",
     "name": "LedgiFi",
     "description": "Developer of a portfolio tracking platform intended to simplify cryptocurrency taxes. The company's platform specializes in syncing transactions, analyzing portfolios, and computing capital gains so users can be tax-compliant and makes the process of managing investments easy and appealing by tracking all assets, comparing investment alternatives, optimizing taxes, and allowing to share portfolios with friends, enabling people to grow their wealth and save the process of calculating payments.",
@@ -150,7 +155,7 @@
     "tags": [
       "Accounting",
       "Crypto",
-      "FinTech"
+      "Fintech"
     ],
     "year": 2023,
     "program": "Lucha 18",
@@ -181,9 +186,12 @@
     },
     "extra": {
       "country": "Chile"
-    }
+    },
+    "country": "Chile",
+    "alsoIn": []
   },
   {
+    "id": "500-price-lab",
     "source": "500",
     "name": "Price Lab",
     "description": "PRICE LAB optimizes the pricing strategy and communication in physical stores for retailers through a SaaS and hardware solution. It replaces paper prices on shelves with digital price tags that are updated in real time through a cloud platform.",
@@ -219,9 +227,12 @@
     },
     "extra": {
       "country": "Peru"
-    }
+    },
+    "country": "Peru",
+    "alsoIn": []
   },
   {
+    "id": "500-retliq",
     "source": "500",
     "name": "RetLiq",
     "description": "Reverse Logistics; simplified",
@@ -267,6 +278,8 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   }
 ]

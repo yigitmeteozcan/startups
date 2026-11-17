@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-bankjoy",
     "source": "yc",
     "name": "Bankjoy",
     "description": "An end-to-end digital banking solution for banks and credit unions",
@@ -30,9 +31,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-casca",
     "source": "yc",
     "name": "Casca",
     "description": "Make Banking Magical",
@@ -64,6 +68,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [
+      "plugandplay"
+    ]
   }
 ]

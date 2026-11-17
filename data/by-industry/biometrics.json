@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-north",
     "source": "yc",
     "name": "North",
     "description": "Wearable computing hardware: biosignal gesture recognition",
@@ -30,13 +31,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Canada",
+    "alsoIn": []
   },
   {
+    "id": "yc-whirl",
     "source": "yc",
     "name": "Whirl",
     "description": "Pay instantly with your fingerprint.",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://getwhirl.com",
     "location": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "region": "United States of America",
@@ -62,9 +66,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-entry",
     "source": "yc",
     "name": "Entry",
     "description": "Biometric sign in and identity verification platform",
@@ -95,9 +102,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-siphox-health",
     "source": "yc",
     "name": "SiPhox Health",
     "description": "At-Home health monitoring with silicon photonic chips for data centers",
@@ -131,9 +141,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-peakpath",
     "source": "yc",
     "name": "PeakPath",
     "description": "Smartwatch powered coaching to improve teams sustainable performance",
@@ -163,9 +176,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Sweden",
+    "alsoIn": []
   },
   {
+    "id": "yc-graypass",
     "source": "yc",
     "name": "GrayPass",
     "description": "Verify the expected person is still in control before sensitive…",
@@ -195,6 +211,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Canada",
+    "alsoIn": []
   }
 ]

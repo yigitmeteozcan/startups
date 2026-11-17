@@ -1,9 +1,10 @@
 [
   {
+    "id": "yc-deako",
     "source": "yc",
     "name": "Deako",
     "description": "We make beautiful connected light switches that allow you to control…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "https://www.deako.com",
     "location": "Seattle, WA, USA",
     "region": "United States of America",
@@ -30,9 +31,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-techmate",
     "source": "yc",
     "name": "Techmate",
     "description": "A technology concierge for your home. We provide on-demand support…",
@@ -64,9 +68,14 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [
+      "500"
+    ]
   },
   {
+    "id": "yc-craftwork",
     "source": "yc",
     "name": "Craftwork",
     "description": "Digital-native home painting franchise",
@@ -98,9 +107,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-piggy-robotics",
     "source": "yc",
     "name": "Piggy Robotics",
     "description": "Humanoid robots that do your chores for the price of an iPhone!",
@@ -133,6 +145,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United Kingdom",
+    "alsoIn": []
   }
 ]

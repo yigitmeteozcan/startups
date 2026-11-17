@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-pushbullet",
     "source": "yc",
     "name": "Pushbullet",
     "description": "Push things to your other things.",
@@ -29,13 +30,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-outbound",
     "source": "yc",
     "name": "Outbound",
     "description": "Create automated messages -- email, iOS/Android push, SMS and web…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://outbound.io",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -62,6 +66,8 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   }
 ]

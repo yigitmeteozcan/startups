@@ -1,5 +1,6 @@
 [
   {
+    "id": "alchemist-matternet",
     "source": "alchemist",
     "name": "Matternet",
     "description": " ",
@@ -43,9 +44,12 @@
     },
     "extra": {
       "country": ""
-    }
+    },
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-neoreach",
     "source": "alchemist",
     "name": "NeoReach",
     "description": "Influencer Marketing Software ",
@@ -66,7 +70,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Jesse Leimgruber  P.J. Leimgruber",
+        "name": "Jesse Leimgruber",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "P.J. Leimgruber",
         "role": "",
         "linkedin": ""
       }
@@ -79,9 +88,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-domos-labs",
     "source": "alchemist",
     "name": "Domos Labs",
     "description": "-",
@@ -115,9 +127,12 @@
     },
     "extra": {
       "country": ""
-    }
+    },
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-shoppinpal-fermyon",
     "source": "alchemist",
     "name": "ShoppinPal / Fermyon",
     "description": "ShoppinPal - Integrations Platform for the SME Cloud",
@@ -171,9 +186,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-badgermaps",
     "source": "alchemist",
     "name": "BadgerMaps",
     "description": "-",
@@ -207,9 +225,12 @@
     },
     "extra": {
       "country": ""
-    }
+    },
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-eventable",
     "source": "alchemist",
     "name": "Eventable",
     "description": "Our platform empowers today’s most innovative marketers to reach their customers through native calendars (Google Cal, Outlook, iOS, etc).",
@@ -243,6 +264,8 @@
     },
     "extra": {
       "country": ""
-    }
+    },
+    "country": "",
+    "alsoIn": []
   }
 ]

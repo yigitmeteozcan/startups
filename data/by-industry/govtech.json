@@ -1,5 +1,6 @@
 [
   {
+    "id": "yc-govpredict",
     "source": "yc",
     "name": "GovPredict",
     "description": "The system of record for government affairs.",
@@ -29,13 +30,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-bonfire",
     "source": "yc",
     "name": "Bonfire",
     "description": "Bonfire is reimagining RFPs & bidding for gov procurement teams",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://GoBonfire.com",
     "location": "ON, Canada",
     "region": "Canada",
@@ -62,9 +66,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Canada",
+    "alsoIn": []
   },
   {
+    "id": "yc-pigeonly",
     "source": "yc",
     "name": "Pigeonly",
     "description": "The affordable way to search, find & communicate with an incarcerated…",
@@ -94,13 +101,18 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [
+      "500"
+    ]
   },
   {
+    "id": "yc-seneca-systems",
     "source": "yc",
     "name": "Seneca Systems",
     "description": "Constituent system-of-record and service request management software…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "https://www.senecagov.com",
     "location": "San Francisco, CA, USA; Redwood City, CA, USA",
     "region": "United States of America",
@@ -125,9 +137,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-simplecitizen",
     "source": "yc",
     "name": "SimpleCitizen",
     "description": "From signup to citizenship, only SimpleCitizen guides applicants…",
@@ -160,9 +175,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-democracyos",
     "source": "yc",
     "name": "DemocracyOS",
     "description": "Online space for deliberation, policy making and democratic…",
@@ -192,9 +210,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Argentina",
+    "alsoIn": []
   },
   {
+    "id": "yc-token-transit",
     "source": "yc",
     "name": "Token Transit",
     "description": "Complete fare payment platform for public transportation",
@@ -225,9 +246,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-tolemi",
     "source": "yc",
     "name": "Tolemi",
     "description": "Data integration & insights for state and local governments",
@@ -258,9 +282,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-elucd",
     "source": "yc",
     "name": "Elucd",
     "description": "Polling through mobile ads to enable governments to make better…",
@@ -290,9 +317,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-upcodes",
     "source": "yc",
     "name": "UpCodes",
     "description": "AI platform for unifying codes, assemblies, products, and specs",
@@ -322,13 +352,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-ridealong",
     "source": "yc",
     "name": "RideAlong",
     "description": "We save lives by giving police and health workers key info to safely…",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "http://www.getridealong.com",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -354,13 +387,16 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-just-appraised",
     "source": "yc",
     "name": "Just Appraised",
     "description": "Just Appraised makes software for local governments.",
-    "logo": "/company/thumb/missing.png",
+    "logo": "https://www.ycombinator.com/company/thumb/missing.png",
     "website": "https://www.justappraised.com",
     "location": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "region": "United States of America",
@@ -386,9 +422,14 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
+    "id": "yc-promise",
     "source": "yc",
     "name": "Promise",
     "description": "Better payment systems for governments and the communities they serve.",
@@ -420,9 +461,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-cognition-ip",
     "source": "yc",
     "name": "Cognition IP",
     "description": "Flat-fee patent & trademark counsel with top firm results",
@@ -452,9 +496,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-paladin",
     "source": "yc",
     "name": "Paladin",
     "description": "We deploy autonomous drones to 911 calls. Our software gives first…",
@@ -485,9 +532,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-impactive-formerly-outvote",
     "source": "yc",
     "name": "Impactive (formerly Outvote)",
     "description": "Political/civic tech helping progressive campaigns organize & mobilize",
@@ -518,9 +568,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-trm-labs",
     "source": "yc",
     "name": "TRM Labs",
     "description": "TRM is building a safer world for billions of people.",
@@ -553,9 +606,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-lumineye",
     "source": "yc",
     "name": "Lumineye",
     "description": "X-ray Vision for First Responders ",
@@ -586,9 +642,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-recidiviz",
     "source": "yc",
     "name": "Recidiviz",
     "description": "Helping create a smaller, fairer, safer justice system",
@@ -619,9 +678,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-inevent",
     "source": "yc",
     "name": "InEvent",
     "description": "In-Person, Hybrid and Virtual Event Management Software",
@@ -651,9 +713,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-spruceid",
     "source": "yc",
     "name": "SpruceID",
     "description": "SpruceID lets users control their data across the web.",
@@ -686,9 +751,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-camp",
     "source": "yc",
     "name": "Camp",
     "description": "A Nouns DAO governance client",
@@ -719,9 +787,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "Sweden",
+    "alsoIn": []
   },
   {
+    "id": "yc-forage-joinforage-com",
     "source": "yc",
     "name": "Forage",
     "description": "Payments powering people",
@@ -751,9 +822,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-kodex",
     "source": "yc",
     "name": "Kodex",
     "description": "Easiest way for companies to process data requests from governments",
@@ -785,9 +859,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-onebrief",
     "source": "yc",
     "name": "Onebrief",
     "description": "Onebrief makes military headquarters run seamlessly",
@@ -817,9 +894,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-govly",
     "source": "yc",
     "name": "Govly",
     "description": "The #1 Market Network for Government Contractors.",
@@ -849,9 +929,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-emerge-career",
     "source": "yc",
     "name": "Emerge Career",
     "description": "All-in-one re-entry & workforce development training platform",
@@ -880,9 +963,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-permitflow",
     "source": "yc",
     "name": "PermitFlow",
     "description": "Construction's AI Platform",
@@ -914,9 +1000,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-stairs-financial",
     "source": "yc",
     "name": "Stairs Financial",
     "description": "Find a home you can actually afford",
@@ -947,9 +1036,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-govdash",
     "source": "yc",
     "name": "GovDash",
     "description": "AI platform to win and run government contracts",
@@ -980,9 +1072,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-aurelian",
     "source": "yc",
     "name": "Aurelian",
     "description": "Automating non-emergency calls for 911 centers",
@@ -1012,9 +1107,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-metalware",
     "source": "yc",
     "name": "Metalware",
     "description": "Firmware cybersecurity",
@@ -1047,9 +1145,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-cembla",
     "source": "yc",
     "name": "Cembla",
     "description": "AI for legal & government",
@@ -1079,9 +1180,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-hazel",
     "source": "yc",
     "name": "Hazel",
     "description": "AI-enabled procurement for government",
@@ -1112,9 +1216,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-edgetrace",
     "source": "yc",
     "name": "EdgeTrace",
     "description": "Describe It. Find It. Act On It.",
@@ -1145,9 +1252,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-ontra-mobility",
     "source": "yc",
     "name": "Ontra Mobility",
     "description": "AI-powered transit planning software",
@@ -1180,9 +1290,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-bluedoor",
     "source": "yc",
     "name": "Bluedoor",
     "description": "AI for public records request fulfillment",
@@ -1212,9 +1325,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-usul",
     "source": "yc",
     "name": "Usul",
     "description": "AI Platform for Winning Defense & Government Contracts",
@@ -1245,9 +1361,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-candor-usecandor-ai",
     "source": "yc",
     "name": "Candor",
     "description": "We help companies win government funding with AI",
@@ -1277,9 +1396,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-closure",
     "source": "yc",
     "name": "Closure",
     "description": "We help law enforcement solve crime",
@@ -1310,9 +1432,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-tire-swing",
     "source": "yc",
     "name": "Tire Swing",
     "description": "The AI Affordable Housing Platform",
@@ -1344,9 +1469,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-archon",
     "source": "yc",
     "name": "Archon",
     "description": "We help software companies sell to government.",
@@ -1378,9 +1506,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-permitify",
     "source": "yc",
     "name": "Permitify",
     "description": "AI co-pilot for building plan review and building code compliance",
@@ -1412,9 +1543,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-code-four",
     "source": "yc",
     "name": "Code Four",
     "description": "Modernizing the police workflow.",
@@ -1445,9 +1579,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-effigov",
     "source": "yc",
     "name": "EffiGov",
     "description": "AI Phone Agents for Local Government",
@@ -1477,9 +1614,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-lakonia",
     "source": "yc",
     "name": "Lakonia",
     "description": "Delivering AI-powered situational awareness in tactical environments.",
@@ -1510,9 +1650,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-mayflower",
     "source": "yc",
     "name": "Mayflower",
     "description": "AI plug-in that automates HR immigration screening and compliance",
@@ -1543,9 +1686,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-govguard",
     "source": "yc",
     "name": "GovGuard",
     "description": "Automating Government Workflows, starting with FOIA",
@@ -1574,9 +1720,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "",
+    "alsoIn": []
   },
   {
+    "id": "yc-verdant",
     "source": "yc",
     "name": "Verdant",
     "description": "AI Agents to Make Local Gov Efficient",
@@ -1606,9 +1755,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-capto",
     "source": "yc",
     "name": "Capto",
     "description": "Build something the government wants",
@@ -1637,9 +1789,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-locke",
     "source": "yc",
     "name": "Locke",
     "description": "The First AI Government Affairs Firm.",
@@ -1668,9 +1823,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-hillstar",
     "source": "yc",
     "name": "HillStar",
     "description": "Agents to help utilities make better buying decisions.",
@@ -1700,9 +1858,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-adalat-ai",
     "source": "yc",
     "name": "Adalat AI",
     "description": "AI OS transforming courts, accelerating justice",
@@ -1735,9 +1896,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "India",
+    "alsoIn": []
   },
   {
+    "id": "yc-capveon",
     "source": "yc",
     "name": "Capveon",
     "description": "Turning infrastructure demand into action ",
@@ -1766,9 +1930,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-particularity",
     "source": "yc",
     "name": "Particularity",
     "description": "Building the tech stack for government regulators",
@@ -1797,9 +1964,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "yc-reconero",
     "source": "yc",
     "name": "Reconero",
     "description": "Reconero helps police officers automate their workflows with AI",
@@ -1831,9 +2001,12 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {}
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-plotbox",
     "source": "500",
     "name": "PlotBox",
     "description": "Developer of cemetery management software designed to facilitate cemetery operation services. The company's software offers records management that brings all deceased records together into a quickly searchable database that includes images of headstones and paper records, generates pre and at-need contracts with ease, interprets financial data as well as manages all the administration related to burials, and cremations including finance and reporting, enabling clients to generate leads and revenue for cemeteries and improves service levels for families.",
@@ -1885,9 +2058,12 @@
     },
     "extra": {
       "country": "Ireland"
-    }
+    },
+    "country": "Ireland",
+    "alsoIn": []
   },
   {
+    "id": "500-synapsemx",
     "source": "500",
     "name": "SynapseMX",
     "description": "We help aircraft maintenance teams work better together to get planes back in the air sooner.",
@@ -1930,6 +2106,8 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   }
 ]

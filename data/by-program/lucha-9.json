@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-bonnus",
     "source": "500",
     "name": "Bonnus",
     "description": "Developer of a reward platform designed to provide real rewards for website and app usage. The company's platform features a user retention and customer satisfaction toolset for website and app developers and an incentivized ad network, enabling publishers to monetize their apps and websites through moments or actions of their users increasing engagement and interest.",
@@ -9,7 +10,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "AdTech"
+      "Adtech"
     ],
     "year": 2018,
     "program": "Lucha 9",
@@ -35,9 +36,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-custodian",
     "source": "500",
     "name": "Custodian",
     "description": "Operator of an online insurance claims management platform designed to provide assistance in claiming auto insurance claims. The company's platform assists users to access insurance documents, offers guidance on what to do during accidents and tracks the status of the vehicle at all times, enabling users to simplify the insurance process.",
@@ -47,7 +51,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "InsurTech"
+      "Insurtech"
     ],
     "year": 2018,
     "program": "Lucha 9",
@@ -73,9 +77,12 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   },
   {
+    "id": "500-fitco",
     "source": "500",
     "name": "FITCO",
     "description": "Developer of a gym management and retention software designed to help fitness boutiques and sports centers grow their business. The company's gym management allows complete administration of fitness centers, including management of sales and monitoring of current customers, enabling customers to increase sales, grow their brand, and attract more clients.",
@@ -121,9 +128,14 @@
     },
     "extra": {
       "country": "Peru"
-    }
+    },
+    "country": "Peru",
+    "alsoIn": [
+      "techstars"
+    ]
   },
   {
+    "id": "500-globalwork",
     "source": "500",
     "name": "Globalwork",
     "description": "Operator of a candidate verification platform designed to build reliable links between companies and candidates. The company's platform connects processes in real-time and administers candidates and also supports the selection process with different tests, enabling businesses and corporate clients to understand employees' strengths and potentials that can be exercised in the organization.",
@@ -169,9 +181,12 @@
     },
     "extra": {
       "country": "Colombia"
-    }
+    },
+    "country": "Colombia",
+    "alsoIn": []
   },
   {
+    "id": "500-lo-que-necesito",
     "source": "500",
     "name": "Lo Que Necesito",
     "description": "Developer of a property search engine designed to choose housing credit options. The company's platform accompanies and advises the buyer and seller throughout their search and negotiation process and provides a list of property details and accompanies buyers in the process of acquiring credit and reducing the time from the request to its disbursement, enabling buyers and sellers to save time, and money and increase the effectiveness of closing businesses.",
@@ -181,7 +196,7 @@
     "region": "Latin America",
     "subregion": "",
     "tags": [
-      "PropTech",
+      "Proptech",
       "B2A"
     ],
     "year": 2018,
@@ -203,11 +218,6 @@
         "name": "Manuel Zabaleta",
         "role": "",
         "linkedin": ""
-      },
-      {
-        "name": "Andres Perez",
-        "role": "",
-        "linkedin": ""
       }
     ],
     "social": {
@@ -218,9 +228,12 @@
     },
     "extra": {
       "country": "Colombia"
-    }
+    },
+    "country": "Colombia",
+    "alsoIn": []
   },
   {
+    "id": "500-pixyalbum",
     "source": "500",
     "name": "Pixyalbum",
     "description": "Developer of a photo album creator application intended to simplify photo book creation. The company's application features photo uploading, editing, auto sync with social network accounts, and album delivery with free shipping, enabling users to capture special occasions and make photo books easily at low prices.",
@@ -256,6 +269,8 @@
     },
     "extra": {
       "country": "Mexico"
-    }
+    },
+    "country": "Mexico",
+    "alsoIn": []
   }
 ]

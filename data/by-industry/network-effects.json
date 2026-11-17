@@ -1,5 +1,6 @@
 [
   {
+    "id": "500-boon",
     "source": "500",
     "name": "Boon",
     "description": "Boon is the world’s most agile referral hiring platform that scales across your entire community to deliver better hires, faster. ",
@@ -51,9 +52,12 @@
     },
     "extra": {
       "country": "United States"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "500-synervoz",
     "source": "500",
     "name": "Synervoz",
     "description": "Developer of an innovation & software studio intended to focus on audio, entertainment, and online collaboration. The company has designed, developed, and co-created apps, SDKs, and embedded products with complex audio pipelines focused on custom engineering solutions for other companies and source code that can be licensed or purchased outright, enabling clients to have access to applications that are balanced in real-time and offers non-live content that can be synchronized between parties.",
@@ -64,7 +68,7 @@
     "subregion": "",
     "tags": [
       "AI/Machine Learning",
-      "AudioTech",
+      "Audiotech",
       "Developer Tools",
       "Gaming",
       "No Code",
@@ -109,6 +113,10 @@
     },
     "extra": {
       "country": "Canada"
-    }
+    },
+    "country": "Canada",
+    "alsoIn": [
+      "techstars"
+    ]
   }
 ]

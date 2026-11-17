@@ -1,5 +1,6 @@
 [
   {
+    "id": "alchemist-scription",
     "source": "alchemist",
     "name": "Scription",
     "description": "Subscription Maintenance Plans for Commercial & Industrial Equipment",
@@ -48,9 +49,12 @@
     },
     "extra": {
       "country": "Canada"
-    }
+    },
+    "country": "Canada",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-prophecta-corp",
     "source": "alchemist",
     "name": "Prophecta Corp",
     "description": "AI for Fleet Optimization",
@@ -71,7 +75,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Vasily Nikolaev  and Anatoly Volkhover",
+        "name": "Vasily Nikolaev",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Anatoly Volkhover",
         "role": "",
         "linkedin": ""
       }
@@ -84,9 +93,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-juphy-ai",
     "source": "alchemist",
     "name": "Juphy AI",
     "description": "Agentic Sales Infrastructure for E-commerce",
@@ -125,9 +137,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-zignyl",
     "source": "alchemist",
     "name": "Zignyl",
     "description": "Zigy is an AI-powered platform that transforms corporate initiatives to clear goals for frontline workers. ",
@@ -166,9 +181,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-10x-immersive-inc",
     "source": "alchemist",
     "name": "10X Immersive Inc",
     "description": "Startup that will make you love your dentist. AI/XR powered patients relationship platforms that revolutionize dental experience , boost satisfaction and retention. ",
@@ -202,9 +220,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-quickr-bio",
     "source": "alchemist",
     "name": "QUiCKR Bio",
     "description": "Testing Gene Therapy Efficacy & Safety 1000x Faster ",
@@ -238,9 +259,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-arklex-ai-a-k-a-articulate-ai",
     "source": "alchemist",
     "name": "Arklex.AI (a.k.a Articulate.AI)",
     "description": "LLM Framework to Democratize Building Chatbots\n",
@@ -279,9 +303,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-pipedata-ai",
     "source": "alchemist",
     "name": "Pipedata AI",
     "description": "Autonomous CRO Platform for GTM Teams",
@@ -309,9 +336,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-ogre-run",
     "source": "alchemist",
     "name": "Ogre.run",
     "description": "Code Reproducibility Simplified",
@@ -345,9 +375,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-examol",
     "source": "alchemist",
     "name": "Examol",
     "description": "Computational Chemistry Toolbox",
@@ -391,9 +424,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-upcree",
     "source": "alchemist",
     "name": "Upcree",
     "description": "ML to Fast-Forward Solar Plant Design",
@@ -432,9 +468,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-glocate",
     "source": "alchemist",
     "name": "Glocate",
     "description": "Geo-Location Visual Illumination and AI for Delivery Companies.",
@@ -468,9 +507,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-remyx-ai",
     "source": "alchemist",
     "name": "Remyx AI",
     "description": "Agent-guided MLOps",
@@ -504,9 +546,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-kropply",
     "source": "alchemist",
     "name": "Kropply",
     "description": "AI Autocorrect for Software Runtime Errors.",
@@ -540,9 +585,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-cerevox",
     "source": "alchemist",
     "name": "Cerevox",
     "description": "Context-rich embeddings with 50% fewer tokens",
@@ -581,9 +629,12 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-worksense",
     "source": "alchemist",
     "name": "Worksense",
     "description": "Real-Time People Analytics Platform",
@@ -617,11 +668,14 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
+    "id": "alchemist-vara",
     "source": "alchemist",
-    "name": "Vara ",
+    "name": "Vara",
     "description": "Environmental Compliance AI for Manufacturers ",
     "logo": "",
     "website": "",
@@ -653,6 +707,8 @@
     },
     "extra": {
       "country": "USA"
-    }
+    },
+    "country": "United States",
+    "alsoIn": []
   }
 ]
