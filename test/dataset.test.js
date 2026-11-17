@@ -1,0 +1,94 @@
+const test = require('node:test');
+const assert = require('node:assert/strict');
+const fs = require('fs');
+const os = require('os');
+const path = require('path');
+const { writeDataset, toCsv, csvSafe } = require('../src/dataset');
+
+const company = (o) => ({
+  source: 'yc', name: 'Acme', description: 'Makes things', logo: '', website: 'https://acme.com', location: '',
+  region: 'Europe', subregion: '', tags: [], year: 2020, program: 'YC W20', programSlugs: [], isExit: false,
+  isUnicorn: false, isBCorp: false, isCurrentSession: false,
+  founders: [{ name: 'Jane Doe', role: 'CEO', linkedin: 'https://linkedin.com/in/jane' }],
+  social: { linkedin: '', twitter: '', facebook: '', crunchbase: '' }, extra: { country: 'UK' }, ...o,
+});
+
+function tmpRoot() {
+  return fs.mkdtempSync(path.join(os.tmpdir(), 'sp-data-'));
+}
+
+test('slices whose names collide on disk are merged, not overwritten', () => {
+  const root = tmpRoot();
+  writeDataset(
+    [
+      company({ name: 'A', tags: ['Fintech'] }),
+      company({ name: 'B', tags: ['FinTech'] }),
+      company({ name: 'C', tags: ['Fin-Tech'] }), // two different tags that slugify to "fin-tech"
+      company({ name: 'D', tags: ['Fin Tech'] }),
+    ],
+    { rootDir: root }
+  );
+  const dir = path.join(root, 'data', 'by-industry');
+  assert.equal(JSON.parse(fs.readFileSync(path.join(dir, 'fintech.json'))).length, 2);
+  assert.equal(JSON.parse(fs.readFileSync(path.join(dir, 'fin-tech.json'))).length, 2);
+  const index = JSON.parse(fs.readFileSync(path.join(dir, 'index.json')));
+  for (const v of Object.values(index)) {
+    assert.equal(JSON.parse(fs.readFileSync(path.join(root, 'data', v.file))).length, v.count);
+  }
+});
+
+test('stale slice files are kept unless pruning is requested', () => {
+  const root = tmpRoot();
+  const stale = path.join(root, 'data', 'by-industry', 'old-category.json');
+  fs.mkdirSync(path.dirname(stale), { recursive: true });
+  fs.writeFileSync(stale, '[]');
+  writeDataset([company({ tags: ['AI'] })], { rootDir: root, prune: false });
+  assert.ok(fs.existsSync(stale), 'not deleted by default');
+  writeDataset([company({ tags: ['AI'] })], { rootDir: root, prune: true });
+  assert.ok(!fs.existsSync(stale), 'deleted when prune=true');
+});
+
+test('all.json is compact, keeps founders, and adds id/country', () => {
+  const root = tmpRoot();
+  writeDataset([company({})], { rootDir: root });
+  const raw = fs.readFileSync(path.join(root, 'data', 'all.json'), 'utf8');
+  assert.ok(!raw.includes('\n'), 'compact');
+  const [c] = JSON.parse(raw);
+  assert.equal(c.id, 'yc-acme');
+  assert.equal(c.country, 'United Kingdom');
+  assert.deepEqual(c.founders, [{ name: 'Jane Doe', role: 'CEO', linkedin: 'https://linkedin.com/in/jane' }]);
+  assert.ok(fs.existsSync(path.join(root, 'data', 'by-country', 'united-kingdom.json')));
+});
+
+test('meta.json tracks per-source freshness', () => {
+  const root = tmpRoot();
+  writeDataset([company({})], { rootDir: root, sourceStatus: { yc: { status: 'live', reason: '' } } });
+  const m1 = JSON.parse(fs.readFileSync(path.join(root, 'data', 'meta.json')));
+  const live = m1.sources.find((s) => s.name === 'yc');
+  assert.equal(live.status, 'live');
+  assert.ok(live.lastLiveFetch);
+  // A later cached run keeps the last live timestamp.
+  writeDataset([company({})], { rootDir: root, sourceStatus: { yc: { status: 'cached', reason: 'HTTP 500' } } });
+  const m2 = JSON.parse(fs.readFileSync(path.join(root, 'data', 'meta.json')));
+  const cached = m2.sources.find((s) => s.name === 'yc');
+  assert.equal(cached.status, 'cached');
+  assert.equal(cached.lastLiveFetch, live.lastLiveFetch);
+  assert.equal(cached.note, 'HTTP 500');
+});
+
+test('CSV keeps the original 22 columns first and neutralizes formulas', () => {
+  const csv = toCsv([company({ name: '=HYPERLINK("x")', description: 'line\r\nbreak' })]);
+  const header = csv.split('\n')[0].split(',');
+  assert.deepEqual(header.slice(0, 22), [
+    'source', 'name', 'description', 'website', 'city', 'state', 'country', 'region', 'subregion', 'tags',
+    'year', 'program', 'founders', 'isExit', 'isUnicorn', 'isBCorp', 'isCurrentSession', 'linkedin',
+    'twitter', 'facebook', 'crunchbase', 'logo',
+  ]);
+  assert.ok(header.includes('founder_linkedins'));
+  assert.ok(csv.includes(`"'=HYPERLINK(""x"")"`));
+  assert.ok(csv.includes('"line\r\nbreak"'));
+  assert.equal(csvSafe('-'), '-');
+  assert.equal(csvSafe('+1 555'), "'+1 555");
+  assert.equal(csvSafe('@handle'), "'@handle");
+  assert.equal(csvSafe('Normal'), 'Normal');
+});

@@ -8,50 +8,83 @@ on:
 permissions:
   contents: write
 
+# Queue runs instead of cancelling: cancelling mid-push could lose a commit.
 concurrency:
   group: update-data
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      # Actions are pinned to exact commits (tags can be moved).
+      # Credentials are NOT persisted: npm packages and the scrapers (which load
+      # third-party pages) run without push access. Only the commit step gets
+      # the token.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          node-version: '20'
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
           cache: 'npm'
 
+      # No dependency needs an install script (only fsevents, which is macOS-only).
       - name: Install dependencies
-        run: npm ci --omit=optional
+        run: npm ci --omit=optional --ignore-scripts
 
-      - name: Install Playwright Chromium (for Antler)
+      - name: Install Playwright Chromium (browser-based sources)
         run: npx playwright install --with-deps chromium
 
-      - name: Fetch latest portfolio data (Techstars + YC + Antler)
+      - name: Run tests
+        run: npm test
+
+      - name: Fetch latest portfolio data (all sources)
+        id: fetch
         env:
+          # Optional. Without it, Techstars is scraped in a headless browser.
           TYPESENSE_API_KEY: ${{ secrets.TYPESENSE_API_KEY }}
         run: npm run fetch:data
 
       - name: Commit updated data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${REPO}.git"
           git add data STATS.md README.md
           if git diff --staged --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "chore: update startup portfolios dataset ($(date -u +%Y-%m-%d))"
-            # Rebase onto any concurrent pushes and retry, so the data commit
-            # isn't lost to a race with another push.
-            for attempt in 1 2 3 4 5; do
-              if git push; then
-                echo "Pushed on attempt $attempt."
-                break
-              fi
-              echo "Push rejected (attempt $attempt) — rebasing on origin/main and retrying..."
-              git pull --rebase --autostash origin main || exit 1
-              sleep 3
-            done
+            exit 0
           fi
+          git commit -m "chore: update startup portfolios dataset ($(date -u +%Y-%m-%d))"
+          # Rebase onto any concurrent pushes and retry, so the data commit
+          # isn't lost to a race with another push.
+          for attempt in 1 2 3 4 5; do
+            if git push origin "HEAD:${BRANCH}"; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt) — rebasing on origin/${BRANCH} and retrying..."
+            git pull --rebase origin "${BRANCH}" || exit 1
+            sleep $((attempt * 3))
+          done
+          echo "::error::Could not push the dataset after 5 attempts."
+          exit 1
+
+      # Runs after the commit, so fresh data from healthy sources is never held
+      # back. Fails the run (GitHub emails the owner) when a source has not been
+      # fetched live for STALE_ALERT_DAYS (3) days — its committed records were
+      # kept, but the source needs attention.
+      - name: Alert on stale sources
+        if: steps.fetch.outputs.stale != ''
+        env:
+          STALE: ${{ steps.fetch.outputs.stale }}
+        run: |
+          echo "::error::Not fetched live for 3+ days: ${STALE}. Committed records were kept; see the job summary for the reason."
+          exit 1

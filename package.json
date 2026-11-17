@@ -1,28 +1,31 @@
 {
   "name": "startup-portfolios-api",
   "version": "1.0.0",
-  "description": "Open API aggregating Techstars, Y Combinator, and Antler portfolio companies",
+  "description": "Open API and dataset aggregating Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist and Plug and Play portfolio companies",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
-    "export": "node scripts/export.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test",
+    "fetch:data": "node scripts/fetch-direct.js",
     "build:data": "node scripts/build-dataset.js",
     "build:all": "node scripts/fetch-direct.js",
+    "rebuild": "node scripts/rebuild.js",
+    "restore": "node scripts/restore-source.js",
     "build:readme": "node scripts/build-readme.js",
+    "export": "node scripts/export.js",
     "get-key": "node scripts/get-key.js",
-    "fetch:data": "node scripts/fetch-direct.js",
     "install:browsers": "npx playwright install chromium"
   },
   "dependencies": {
     "exceljs": "^4.4.0",
-    "express": "^4.18.2",
+    "express": "^4.22.3",
     "playwright": "^1.40.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.2"
   },
   "engines": {
     "node": ">=18.0.0"
+  },
+  "overrides": {
+    "uuid": "^11.1.1"
   }
 }
