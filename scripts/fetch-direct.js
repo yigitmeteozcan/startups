@@ -18,6 +18,7 @@ const fs = require('fs');
 const path = require('path');
 const { gatherAll, DEFAULT_SOURCES } = require('../src/sources');
 const { writeDataset, writeXlsx } = require('../src/dataset');
+const { enrichYcFounders } = require('../src/sources/yc-founders');
 
 const STALE_ALERT_DAYS = Number(process.env.STALE_ALERT_DAYS || 3);
 
@@ -88,6 +89,15 @@ async function main() {
 
   if (companies.length === 0) {
     throw new Error('No companies from any source (live or committed) — refusing to overwrite dataset.');
+  }
+
+  // Founder profiles for YC companies (incremental; failures change nothing).
+  if (process.env.YC_FOUNDERS !== '0' && (!live || live.includes('yc'))) {
+    try {
+      await enrichYcFounders(companies, { rootDir: root });
+    } catch (err) {
+      console.log(`::warning::YC founder enrichment failed: ${err.message}`);
+    }
   }
 
   const stats = writeDataset(companies, { rootDir: root, sourceStatus: statuses });

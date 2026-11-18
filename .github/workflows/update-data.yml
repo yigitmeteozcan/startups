@@ -97,6 +97,14 @@ jobs:
               || echo "::warning::Could not purge ${f} from jsDelivr"
           done
 
+      # Fetch the public endpoints the way an outside project would (CDN or raw
+      # GitHub, CORS, record counts). Warnings only — never fails the run.
+      - name: Check public API
+        if: steps.commit.outputs.pushed == 'true'
+        run: |
+          sleep 20
+          node scripts/check-api.js
+
       # Runs after the commit, so fresh data from healthy sources is never held
       # back. Fails the run (GitHub emails the owner) on the day a source first
       # goes 3+ days without a live fetch, then weekly (Mondays) while it stays

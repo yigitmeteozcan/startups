@@ -1,15 +1,20 @@
 // Renders README.md from the generated dataset (data/meta.json + data/stats.json),
 // so the headline counts and endpoint tables never drift from the data.
 
-function row(name, count, url, base) {
-  return `| ${name} | ${count} | [\`${url.replace(base + '/', '')}\`](${url}) |`;
+// Short display path for an endpoint URL (CDN or raw GitHub).
+function shortPath(url) {
+  return String(url).replace(/^.*?\/data\//, '');
+}
+
+function row(name, count, url) {
+  return `| ${name} | ${count} | [\`${shortPath(url)}\`](${url}) |`;
 }
 
 function collectionTable(meta, coll, label, { sortFn } = {}) {
   let items = meta.collections[coll] || [];
   if (sortFn) items = [...items].sort(sortFn);
   const head = `| ${label} | Companies | API |\n|---|---|---|\n`;
-  return head + items.map((i) => row(i.name, i.count, i.api, meta.cdn)).join('\n');
+  return head + items.map((i) => row(i.name, i.count, i.api)).join('\n');
 }
 
 function renderReadme(meta, stats) {
@@ -53,6 +58,11 @@ function renderReadme(meta, stats) {
   const cProgram = (meta.collections['by-program'] || []).length;
 
   const GH = 'https://github.com/yigitmeteozcan/startups';
+  const E = meta.endpoints || {};
+  const ALL = (E.all && E.all.api) || `${B}/all.json`;
+  const ALL_CSV = (E.all && E.all.csv) || `${B}/all.csv`;
+  const ALL_XLSX = (E.all && E.all.xlsx) || `${B}/all.xlsx`;
+  const allViaRaw = !ALL.startsWith(B);
   const SITE = 'https://yigitmeteozcan.github.io/startups/';
   const badge = (label, query, color) =>
     `<img alt="${label}" src="https://img.shields.io/badge/dynamic/json?url=${encodeURIComponent(`${B}/stats.json`)}&query=${encodeURIComponent(query)}&label=${encodeURIComponent(label)}&color=${color}">`;
@@ -66,8 +76,8 @@ function renderReadme(meta, stats) {
 </p>
 
 <p align="center">
-  <a href="${B}/all.json">${badge('companies', '$.total', 'blue')}</a>
-  <a href="${B}/all.json">${badge('founders', '$.founders', 'blueviolet')}</a>
+  <a href="${ALL}">${badge('companies', '$.total', 'blue')}</a>
+  <a href="${ALL}">${badge('founders', '$.founders', 'blueviolet')}</a>
   <a href="STATS.md">${badge('updated', '$.generatedAt', 'informational')}</a>
   <a href="${GH}/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/yigitmeteozcan/startups?style=flat&color=yellow"></a>
   <a href="${GH}/actions/workflows/test.yml"><img alt="Tests" src="${GH}/actions/workflows/test.yml/badge.svg"></a>
@@ -113,23 +123,31 @@ ${freshness ? `### Source freshness\n\n${freshness}\n\n_"cached" means the last 
 
 ## 🚀 Quick start
 
+Every endpoint is a plain HTTPS GET that returns JSON — no key, no sign-up, CORS enabled, so it works from a backend, a script, a notebook or straight from a web page.
+
 \`\`\`bash
-# everything
-curl ${B}/all.json
+# just Y Combinator
+curl ${B}/by-source/yc.json
 
 # just the unicorns
 curl ${B}/unicorns.json
+
+# everything (${n(stats.total)} companies)
+curl ${ALL}
 \`\`\`
 
 \`\`\`python
 import requests
-companies = requests.get("${B}/all.json").json()
-print(len(companies), "companies")
+yc = requests.get("${B}/by-source/yc.json").json()
+print(len(yc), "YC companies")
 \`\`\`
 
 \`\`\`javascript
-const companies = await fetch("${B}/all.json").then((r) => r.json());
+// works in the browser too (CORS)
+const yc = await fetch("${B}/by-source/yc.json").then((r) => r.json());
 \`\`\`
+
+${allViaRaw ? `> \`all.json\` is larger than jsDelivr's 20 MB per-file limit, so it is served from raw GitHub (no limit, also CORS-enabled). Every other file — including each source and each slice — is on the jsDelivr CDN. For production apps, prefer the per-source or per-slice files and cache them; the data changes once a day.\n` : '> The data changes once a day — cache it in your app rather than fetching on every request.\n'}
 
 ### Recipes
 
@@ -146,7 +164,7 @@ fintech = [c for c in unicorns if "Fintech" in c["tags"]]
 boulder = requests.get(f"{base}/by-program/techstars-boulder-accelerator.json").json()
 
 # Founders with LinkedIn profiles, e.g. for outreach
-companies = requests.get(f"{base}/all.json").json()
+companies = requests.get("${ALL}").json()
 founders = [(c["name"], f["name"], f["linkedin"]) for c in companies for f in c["founders"] if f["linkedin"]]
 
 # Every startup in one country
@@ -169,9 +187,9 @@ ${B}/
 
 | Description | API |
 |---|---|
-| All companies | [\`all.json\`](${B}/all.json) |
-| All companies (CSV) | [\`all.csv\`](${B}/all.csv) |
-| All companies (Excel, refreshed weekly) | [\`all.xlsx\`](${B}/all.xlsx) |
+| All companies | [\`all.json\`](${ALL}) |
+| All companies (CSV) | [\`all.csv\`](${ALL_CSV}) |
+| All companies (Excel, refreshed weekly) | [\`all.xlsx\`](${ALL_XLSX}) |
 | Unicorns (valued $1B+) | [\`unicorns.json\`](${B}/unicorns.json) |
 | Exited companies | [\`exits.json\`](${B}/exits.json) |
 | Certified B Corps | [\`b-corps.json\`](${B}/b-corps.json) |
@@ -255,7 +273,8 @@ Each company is an object with the following fields:
 | \`year\` | number | First session (cohort) year |
 | \`program\` | string | Accelerator program name |
 | \`programSlugs\` | string[] | Program slug(s) |
-| \`founders\` | object[] | Founders: \`name\`, \`role\`, \`linkedin\` (where available, e.g. EF / 500) |
+| \`founders\` | object[] | Founders: \`name\`, \`role\`, \`linkedin\`, and where available \`twitter\`, \`github\`, \`website\`, \`bio\`, \`avatar\` (YC profiles are filled in from ycombinator.com; EF, 500 and Alchemist from their portfolios) |
+| \`sourceUrl\` | string | The company's page on its source portfolio (YC) |
 | \`isExit\` | boolean | Has exited |
 | \`isUnicorn\` | boolean | Valued $1B+ |
 | \`isBCorp\` | boolean | Certified B Corp |
@@ -267,7 +286,7 @@ Each company is an object with the following fields:
 | \`delistedAt\` | string | Date the company was first missing from its source portfolio (with \`listed: false\`) |
 | \`extra\` | object | Selected raw source fields (\`city\`, \`state_province\`, \`country\`, \`investor\`) |
 
-> **CSV note:** \`all.csv\` keeps its original 22 columns in the same order and appends \`id\`, \`location\`, \`founder_roles\`, \`founder_linkedins\`, \`investor\`, \`also_in\`, \`listed\`, \`delisted_at\` and \`former_names\`. Cells that would start with \`=\`, \`+\`, \`-\` or \`@\` are prefixed with \`'\` so spreadsheet apps don't run them as formulas; the JSON is never altered.
+> **CSV note:** \`all.csv\` keeps its original 22 columns in the same order and appends \`id\`, \`location\`, \`founder_roles\`, \`founder_linkedins\`, \`investor\`, \`also_in\`, \`listed\`, \`delisted_at\`, \`former_names\`, \`founder_twitters\`, \`founder_githubs\`, \`founder_websites\` and \`source_url\`. Cells that would start with \`=\`, \`+\`, \`-\` or \`@\` are prefixed with \`'\` so spreadsheet apps don't run them as formulas; the JSON is never altered.
 
 ### Example
 

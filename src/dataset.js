@@ -79,6 +79,11 @@ const CSV_COLUMNS = [
   ['listed', (c) => c.listed !== false],
   ['delisted_at', (c) => (c.listed === false ? c.delistedAt || '' : '')],
   ['former_names', (c) => (c.formerNames || []).join('; ')],
+  // Aligned with `founders`, like founder_roles / founder_linkedins.
+  ['founder_twitters', (c) => (c.founders || []).filter((f) => f.name).map((f) => f.twitter || '').join('; ')],
+  ['founder_githubs', (c) => (c.founders || []).filter((f) => f.name).map((f) => f.github || '').join('; ')],
+  ['founder_websites', (c) => (c.founders || []).filter((f) => f.name).map((f) => f.website || '').join('; ')],
+  ['source_url', (c) => c.sourceUrl || ''],
 ];
 
 function toCsv(companies) {
@@ -177,6 +182,13 @@ ${list(stats.byRegion)}
 const CDN_BASE =
   process.env.CDN_BASE ||
   'https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data';
+// raw.githubusercontent.com has no per-file size limit (and also sends CORS
+// headers), so files too big for jsDelivr are served from here instead.
+const RAW_BASE =
+  process.env.RAW_BASE ||
+  'https://raw.githubusercontent.com/yigitmeteozcan/startups/main/data';
+// Files above this size are routed to RAW_BASE in meta.json / README.
+const CDN_SAFE_BYTES = 19.5 * 1024 * 1024;
 
 // Per-source freshness for meta.json. `lastLiveFetch` is the last time the
 // source was fetched live; it carries over from the previous meta.json while a
@@ -292,6 +304,7 @@ function writeDataset(
     generatedAt: stats.generatedAt,
     bySource: stats.bySource,
     status,
+    dataDir: base,
   });
   writeJson(path.join(base, 'meta.json'), meta);
 
@@ -336,8 +349,17 @@ const SOURCE_LABELS = {
   plugandplay: 'Plug and Play',
 };
 
-function buildMeta({ counts, groupIndexes, generatedAt, bySource = {}, status = {} }) {
-  const url = (p) => `${CDN_BASE}/${p}`;
+function buildMeta({ counts, groupIndexes, generatedAt, bySource = {}, status = {}, dataDir = null }) {
+  // jsDelivr refuses files over 20 MB; route those to raw GitHub instead.
+  const tooBigForCdn = (p) => {
+    if (!dataDir) return false;
+    try {
+      return fs.statSync(path.join(dataDir, p)).size > CDN_SAFE_BYTES;
+    } catch (_) {
+      return false;
+    }
+  };
+  const url = (p) => `${tooBigForCdn(p) ? RAW_BASE : CDN_BASE}/${p}`;
   const collection = (subdir) =>
     Object.entries(groupIndexes[subdir] || {})
       .map(([name, info]) => ({
@@ -358,6 +380,7 @@ function buildMeta({ counts, groupIndexes, generatedAt, bySource = {}, status = 
       ...(status[name] || {}),
     })),
     cdn: CDN_BASE,
+    raw: RAW_BASE,
     total: counts.all,
     endpoints: {
       all: { count: counts.all, api: url('all.json'), csv: url('all.csv'), xlsx: url('all.xlsx') },

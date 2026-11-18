@@ -297,13 +297,27 @@
       c.listed === false && h("span", { class: "badge b-delisted", title: `No longer on the ${sourceLabel(c.source)} portfolio page${c.delistedAt ? ` (since ${c.delistedAt})` : ""}` }, "No longer listed"),
     ];
 
+    // Founders: photo, name (role) and every public profile link we have.
     const founders = (c.founders || []).filter((f) => f && f.name).map((f) => {
-      const label = f.role ? `${f.name} (${f.role})` : f.name;
-      return extLink(f.linkedin, label, `${f.name} on LinkedIn`) || h("span", {}, label);
+      const avatarUrl = safeUrl(f.avatar);
+      let avatar = null;
+      if (avatarUrl) {
+        avatar = h("img", { class: "f-avatar", src: avatarUrl, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer" });
+        avatar.addEventListener("error", () => avatar.remove(), { once: true });
+      }
+      const links = [
+        extLink(f.linkedin, "LinkedIn", `${f.name} on LinkedIn`),
+        extLink(f.twitter, "X", `${f.name} on X`),
+        extLink(f.github, "GitHub", `${f.name} on GitHub`),
+        extLink(f.website, "Web", `${f.name}'s website`),
+      ].filter(Boolean);
+      return h("span", { class: "founder", title: f.bio || null },
+        avatar,
+        h("span", { class: "f-name" }, f.name),
+        f.role && h("span", { class: "f-role" }, ` (${f.role})`),
+        links.length > 0 && h("span", { class: "f-links" }, links));
     });
-    const founderLine = founders.length
-      ? h("div", { class: "founders" }, "👤 ", ...founders.flatMap((f, i) => (i ? [" · ", f] : [f])))
-      : null;
+    const founderLine = founders.length ? h("div", { class: "founders" }, founders) : null;
 
     const soc = c.social || {};
     const socialLinks = [
@@ -402,6 +416,9 @@
         Program: c.program || "",
         Founders: founders.map((f) => (f.role ? `${f.name} (${f.role})` : f.name)).join("; "),
         "Founder LinkedIn": founders.map((f) => f.linkedin).filter(Boolean).join("; "),
+        "Founder X": founders.map((f) => f.twitter).filter(Boolean).join("; "),
+        "Founder GitHub": founders.map((f) => f.github).filter(Boolean).join("; "),
+        "Founder Websites": founders.map((f) => f.website).filter(Boolean).join("; "),
         "Investor / Acquirer": c.extra?.investor || "",
         IsExit: c.isExit ? "Yes" : "No",
         IsUnicorn: c.isUnicorn ? "Yes" : "No",
@@ -464,7 +481,7 @@
       const XLSX = await loadSheetJs();
       const wb = XLSX.utils.book_new();
       const ws = XLSX.utils.json_to_sheet(rows);
-      ws["!cols"] = [14, 30, 60, 30, 30, 18, 15, 18, 40, 8, 40, 50, 50, 25, 8, 10, 8, 15, 35, 35, 35, 35, 35, 18, 20, 28].map((w) => ({ wch: w }));
+      ws["!cols"] = [14, 30, 60, 30, 30, 18, 15, 18, 40, 8, 40, 50, 50, 40, 40, 40, 25, 8, 10, 8, 15, 35, 35, 35, 35, 35, 18, 20, 28].map((w) => ({ wch: w }));
       XLSX.utils.book_append_sheet(wb, ws, "Startups");
       XLSX.writeFile(wb, `startups-${fileLabel()}.xlsx`);
     } catch (err) {

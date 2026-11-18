@@ -67,23 +67,32 @@ _"cached" means the last live fetch failed or looked broken, so the previously c
 
 ## 🚀 Quick start
 
+Every endpoint is a plain HTTPS GET that returns JSON — no key, no sign-up, CORS enabled, so it works from a backend, a script, a notebook or straight from a web page.
+
 ```bash
-# everything
-curl https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json
+# just Y Combinator
+curl https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/yc.json
 
 # just the unicorns
 curl https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/unicorns.json
+
+# everything (22,429 companies)
+curl https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json
 ```
 
 ```python
 import requests
-companies = requests.get("https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json").json()
-print(len(companies), "companies")
+yc = requests.get("https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/yc.json").json()
+print(len(yc), "YC companies")
 ```
 
 ```javascript
-const companies = await fetch("https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json").then((r) => r.json());
+// works in the browser too (CORS)
+const yc = await fetch("https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/yc.json").then((r) => r.json());
 ```
+
+> The data changes once a day — cache it in your app rather than fetching on every request.
+
 
 ### Recipes
 
@@ -100,7 +109,7 @@ fintech = [c for c in unicorns if "Fintech" in c["tags"]]
 boulder = requests.get(f"{base}/by-program/techstars-boulder-accelerator.json").json()
 
 # Founders with LinkedIn profiles, e.g. for outreach
-companies = requests.get(f"{base}/all.json").json()
+companies = requests.get("https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.json").json()
 founders = [(c["name"], f["name"], f["linkedin"]) for c in companies for f in c["founders"] if f["linkedin"]]
 
 # Every startup in one country

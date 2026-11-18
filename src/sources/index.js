@@ -163,7 +163,7 @@ function missingFrom(prior, live) {
 //  - tags: earlier categories are kept alongside the source's new ones.
 //  - founders: people missing from the live record are kept.
 //  - exit / unicorn flags, once set, stay set.
-const BACKFILL_FIELDS = ['description', 'website', 'logo', 'location', 'region', 'subregion', 'year', 'program'];
+const BACKFILL_FIELDS = ['description', 'website', 'logo', 'location', 'region', 'subregion', 'year', 'program', 'sourceUrl'];
 const SOCIAL_FIELDS = ['linkedin', 'twitter', 'facebook', 'crunchbase'];
 const EXTRA_FIELDS = ['city', 'state_province', 'country', 'investor'];
 const empty = (v) => v == null || v === '' || (Array.isArray(v) && v.length === 0);

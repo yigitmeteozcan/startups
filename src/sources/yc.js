@@ -38,6 +38,8 @@ function normalizeYc(d) {
     description: d.one_liner || d.long_description || '',
     logo: absoluteLogo(d.small_logo_thumb_url || ''),
     website: addHttps(d.website || ''),
+    // The company's page on ycombinator.com (founders are read from it).
+    sourceUrl: d.url || (d.slug ? `https://www.ycombinator.com/companies/${d.slug}` : ''),
     location: d.all_locations || '',
     region: toArray(d.regions)[0] || '',
     subregion: '',
