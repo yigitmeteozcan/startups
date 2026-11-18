@@ -82,20 +82,22 @@ jobs:
           echo "::error::Could not push the dataset after 5 attempts."
           exit 1
 
-      # jsDelivr caches @main for up to 12 hours; purge the most-used files so
-      # the API serves today's data right away. Best effort — never fails.
+      # jsDelivr caches @main for up to 12 hours; purge every data file this
+      # run changed so the API serves today's data right away (the API check
+      # below verifies it). Best effort — never fails the run.
       - name: Refresh CDN cache
         if: steps.commit.outputs.pushed == 'true'
         env:
           REPO: ${{ github.repository }}
           BRANCH: ${{ github.ref_name }}
         run: |
-          for f in all.json all.csv all.xlsx stats.json meta.json unicorns.json exits.json b-corps.json current.json \
-                   by-source/index.json by-year/index.json by-program/index.json by-region/index.json \
-                   by-country/index.json by-industry/index.json; do
-            curl -fsS -m 30 -o /dev/null "https://purge.jsdelivr.net/gh/${REPO}@${BRANCH}/data/${f}" \
-              || echo "::warning::Could not purge ${f} from jsDelivr"
-          done
+          git diff --name-only HEAD~1 HEAD -- data | grep '\.\(json\|csv\|xlsx\)$' | head -600 > /tmp/changed.txt || true
+          echo "Purging $(wc -l < /tmp/changed.txt) changed files from jsDelivr"
+          failed=0
+          while read -r f; do
+            curl -fsS -m 30 -o /dev/null "https://purge.jsdelivr.net/gh/${REPO}@${BRANCH}/${f}" || failed=$((failed + 1))
+          done < /tmp/changed.txt
+          [ "$failed" -eq 0 ] || echo "::warning::${failed} files could not be purged from jsDelivr (they refresh within 12 hours)
 
       # Fetch the public endpoints the way an outside project would (CDN or raw
       # GitHub, CORS, record counts). Warnings only — never fails the run.
