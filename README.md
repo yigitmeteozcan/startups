@@ -3,7 +3,7 @@
 <p align="center">
   <b>The free, open API for 22,436 startups funded by the world's top accelerators.</b><br>
   Y Combinator · Techstars · 500 Global · Antler · Plug and Play · Entrepreneur First · Alchemist<br>
-  JSON, CSV and Excel — with founders, industries, countries and exits. Refreshed daily. No key, no rate limits.
+  JSON, CSV and Excel — with founder profiles (LinkedIn, X, GitHub), industries, countries, coordinates and exits. Refreshed daily. No key, no rate limits.
 </p>
 
 <p align="center">
@@ -39,6 +39,14 @@ Accelerator portfolios are scattered across seven different websites, each with 
 - **Train and evaluate models** — a labelled dataset of real companies with descriptions, industries and outcomes (companies in several portfolios are linked via `alsoIn`).
 
 **Sources:** [Plug and Play](https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups) (6,444) · [Y Combinator](https://www.ycombinator.com/companies) (6,404) · [Techstars](https://www.techstars.com/portfolio) (5,199) · [500 Global](https://500.co/portfolio) (2,243) · [Antler](https://www.antler.co/portfolio) (1,087) · [Entrepreneur First](https://www.joinef.com/portfolio/) (545) · [Alchemist](https://www.alchemistaccelerator.com/portfolio) (514)
+
+### 🌍 See where they are
+
+Switch the [explorer](https://yigitmeteozcan.github.io/startups/?view=globe) to **Globe** and spin the planet: every startup is placed at its city (or its country when the city is unknown), filters apply live, and clicking a point lists the companies there. The same data is available as [`geo.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/geo.json) for your own maps.
+
+<p align="center">
+  <a href="https://yigitmeteozcan.github.io/startups/?view=globe"><img src="docs/screenshot-globe.png" alt="Globe view of the explorer: startups placed by city around the world" width="760"></a>
+</p>
 
 ## ℹ️ Metadata
 
@@ -140,6 +148,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/
 | Certified B Corps | [`b-corps.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/b-corps.json) |
 | Current accelerator session | [`current.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/current.json) |
 | Aggregate stats | [`stats.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/stats.json) |
+| Map points — companies grouped by city / country with coordinates | [`geo.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/geo.json) |
 | **Catalog of every endpoint** | [`meta.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/meta.json) |
 
 ### 🏛️ By source
@@ -1389,4 +1398,4 @@ Spotted a wrong or missing company? [Open a data issue](https://github.com/yigit
 
 ## 📄 License
 
-The code is [MIT](LICENSE)-licensed. The data is sourced from the public Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, and Plug and Play portfolios and remains subject to each provider's terms — the MIT license covers the code, not their data. This project is not affiliated with or endorsed by any of them. To request a correction to a company or founder record, [open an issue](https://github.com/yigitmeteozcan/startups/issues/new?template=data-issue.md).
+The code is [MIT](LICENSE)-licensed. The data is sourced from the public Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, and Plug and Play portfolios and remains subject to each provider's terms — the MIT license covers the code, not their data. This project is not affiliated with or endorsed by any of them. City coordinates in `geo.json` come from [GeoNames](https://www.geonames.org/) (CC BY 4.0); the globe uses [globe.gl](https://github.com/vasturiano/globe.gl) (MIT) and a NASA Earth texture (public domain). To request a correction to a company or founder record, [open an issue](https://github.com/yigitmeteozcan/startups/issues/new?template=data-issue.md).
