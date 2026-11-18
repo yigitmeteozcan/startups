@@ -10,9 +10,10 @@
   The four style hashes are the exact <style> blocks the self-hosted globe.gl
   injects (tooltip / container CSS); nothing else inline is allowed.
 -->
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' https://cdn.sheetjs.com; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-GRFgt45UbKYCV14/Fqy6H9EB3zlAwSnH4xbsYt03Q6M=' 'sha256-9xjtvxMT1ApHlgn9ohbh2FNfvK5Tqtzy94BjfXBeMSY=' 'sha256-yfc2FhpkFR0EAy3T+zDsaAFGXSP9B3ELNvaJKDzNhkk='; img-src https: data:; connect-src https://raw.githubusercontent.com https://cdn.jsdelivr.net; base-uri 'none'; form-action 'none'; upgrade-insecure-requests" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' https://cdn.sheetjs.com; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-GRFgt45UbKYCV14/Fqy6H9EB3zlAwSnH4xbsYt03Q6M=' 'sha256-9xjtvxMT1ApHlgn9ohbh2FNfvK5Tqtzy94BjfXBeMSY=' 'sha256-yfc2FhpkFR0EAy3T+zDsaAFGXSP9B3ELNvaJKDzNhkk='; img-src 'self' https: data:; font-src 'self'; connect-src 'self' https://raw.githubusercontent.com https://cdn.jsdelivr.net; base-uri 'none'; form-action 'none'; upgrade-insecure-requests" />
 <meta name="referrer" content="strict-origin-when-cross-origin" />
-<meta name="color-scheme" content="dark light" />
+<meta name="color-scheme" content="light" />
+<meta name="theme-color" content="#1827aa" />
 <title>Startup Portfolios Explorer — 20,000+ accelerator-backed startups</title>
 <meta name="description" content="Search, filter and export 20,000+ startups funded by Y Combinator, Techstars, 500 Global, Antler, Plug and Play, Entrepreneur First and Alchemist — with founders, industries, countries and exits. Free open dataset and API." />
 <link rel="canonical" href="https://yigitmeteozcan.github.io/startups/" />
@@ -29,19 +30,28 @@
 <meta name="twitter:description" content="Every YC, Techstars, 500 Global, Antler, Plug and Play, EF and Alchemist company — searchable, filterable, exportable. Free open API." />
 <meta name="twitter:image" content="https://yigitmeteozcan.github.io/startups/social-preview.png" />
 <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+<link rel="preload" href="vendor/fonts/Geist-Variable.woff2" as="font" type="font/woff2" crossorigin />
 <link rel="stylesheet" href="style.css" />
 <script src="app.js" defer></script>
 </head>
 <body>
 <a class="skip" href="#results">Skip to results</a>
-<header class="wrap">
-  <div class="title-row">
-    <h1>Startup Portfolios Explorer</h1>
+<div class="sheet">
+<span class="fold" aria-hidden="true"></span>
+<nav class="topbar wrap" aria-label="Site">
+  <a class="brand" href="./"><span class="glyph" aria-hidden="true"></span>Startup Portfolios</a>
+  <div class="topnav">
+    <a href="https://github.com/yigitmeteozcan/startups#-quick-start">API</a>
+    <a href="https://github.com/yigitmeteozcan/startups#-schema">Schema</a>
     <a class="btn btn-star" href="https://github.com/yigitmeteozcan/startups" target="_blank" rel="noopener">★ Star on GitHub</a>
   </div>
-  <p class="sub">
-    Every Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, and Plug and Play portfolio company, searchable and filterable.
-    Data via the free, open <a href="https://github.com/yigitmeteozcan/startups">Startup Portfolios API</a> — JSON, CSV and Excel, updated daily.
+</nav>
+<header class="wrap hero">
+  <h1>Every startup from the world’s top <span class="u">accelerators.</span></h1>
+  <p class="lede">
+    <span>Y Combinator, Techstars, 500 Global, Antler, Plug and Play, Entrepreneur First and Alchemist — in one place.</span>
+    <span class="quiet">Founders, industries, countries and exits for every company.</span>
+    <span>Free and open — <a href="https://github.com/yigitmeteozcan/startups">JSON, CSV and Excel API</a>, updated daily.</span>
   </p>
   <div class="stats" id="stats" aria-label="Dataset totals"></div>
 
@@ -88,10 +98,10 @@
       </select>
     </div>
     <div class="toggles" role="group" aria-label="Only show">
-      <button type="button" class="toggle" data-flag="isUnicorn" aria-pressed="false">🦄 Unicorns</button>
-      <button type="button" class="toggle" data-flag="isExit" aria-pressed="false">💰 Exits</button>
-      <button type="button" class="toggle" data-flag="isBCorp" aria-pressed="false">🌱 B Corps</button>
-      <button type="button" class="toggle" data-flag="hasFounders" aria-pressed="false">👤 Has founders</button>
+      <button type="button" class="toggle" data-flag="isUnicorn" aria-pressed="false">Unicorns</button>
+      <button type="button" class="toggle" data-flag="isExit" aria-pressed="false">Exits</button>
+      <button type="button" class="toggle" data-flag="isBCorp" aria-pressed="false">B Corps</button>
+      <button type="button" class="toggle" data-flag="hasFounders" aria-pressed="false">Has founders</button>
       <button type="button" class="btn btn-link" id="reset">Reset filters</button>
     </div>
   </div>
@@ -100,8 +110,8 @@
 <main class="wrap">
   <div class="view-row">
     <div class="view-switch" role="group" aria-label="View">
-      <button type="button" class="seg" id="view-list" aria-pressed="true">☰ List</button>
-      <button type="button" class="seg" id="view-globe" aria-pressed="false">🌍 Globe</button>
+      <button type="button" class="seg" id="view-list" aria-pressed="true">List</button>
+      <button type="button" class="seg" id="view-globe" aria-pressed="false">Globe</button>
     </div>
     <button type="button" class="place-pill" id="place-pill" hidden aria-label="Clear location filter"></button>
   </div>
@@ -113,24 +123,34 @@
     </div>
     <span class="count" id="count" role="status" aria-live="polite"></span>
     <div class="toolbar-actions">
-      <button type="button" class="btn btn-csv" id="btn-csv" disabled>⬇ CSV</button>
-      <button type="button" class="btn btn-xl" id="btn-xl" disabled>⬇ Excel</button>
+      <button type="button" class="btn btn-csv" id="btn-csv" disabled><span class="hide-sm">Download</span>CSV</button>
+      <button type="button" class="btn btn-xl" id="btn-xl" disabled><span class="hide-sm">Download</span>Excel</button>
       <button type="button" class="btn" id="btn-clear" disabled>✕ Clear<span class="hide-sm">selection</span></button>
     </div>
   </div>
 
   <section class="globe-view" id="globe-view" hidden aria-label="Globe of startup locations">
-    <div class="globe-wrap">
+    <div class="globe-wrap" id="globe-wrap">
       <div id="globe"></div>
       <div class="globe-status" id="globe-status">Loading globe…</div>
-      <div class="globe-hint">Drag to spin · scroll or pinch to zoom · click a point</div>
+      <div class="globe-tools" role="group" aria-label="Globe controls">
+        <button type="button" class="gt" id="gt-in" aria-label="Zoom in" title="Zoom in">+</button>
+        <button type="button" class="gt" id="gt-out" aria-label="Zoom out" title="Zoom out">−</button>
+        <button type="button" class="gt" id="gt-reset" aria-label="Reset view" title="Reset view">⟲</button>
+        <button type="button" class="gt" id="gt-spin" aria-pressed="true" aria-label="Auto-rotate" title="Auto-rotate">⟳</button>
+        <button type="button" class="gt" id="gt-full" aria-label="Full screen" title="Full screen">⛶</button>
+      </div>
+      <div class="globe-legend" aria-hidden="true">
+        <span><i class="lg lg-city"></i>City</span><span><i class="lg lg-country"></i>Country (city unknown)</span><span><i class="lg lg-sel"></i>Selected</span>
+      </div>
+      <div class="globe-hint">Drag to spin · scroll to zoom · click a country or a bar</div>
     </div>
     <aside class="globe-panel" aria-live="polite">
       <h2 id="gp-title">Startups around the world</h2>
       <p class="gp-sub" id="gp-sub"></p>
       <div id="gp-places" class="gp-places"></div>
       <div id="gp-list" class="gp-list"></div>
-      <button type="button" class="btn" id="gp-show" hidden>Show all in the list →</button>
+      <button type="button" class="btn btn-ink" id="gp-show" hidden>Show all in the list →</button>
     </aside>
   </section>
 
@@ -164,5 +184,6 @@
     Not affiliated with any of them.
   </p>
 </footer>
+</div>
 </body>
 </html>

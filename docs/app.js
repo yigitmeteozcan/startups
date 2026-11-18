@@ -119,9 +119,9 @@
     const count = (f) => companies.filter(f).length;
     $("stats").replaceChildren(
       stat(s?.total ?? companies.length, "companies"),
-      stat(s?.unicorns ?? count((c) => c.isUnicorn), "🦄 unicorns"),
-      stat(s?.exits ?? count((c) => c.isExit), "💰 exits"),
-      stat(s?.founders ?? companies.reduce((n, c) => n + (c.founders || []).length, 0), "👤 founders"),
+      stat(s?.unicorns ?? count((c) => c.isUnicorn), "unicorns"),
+      stat(s?.exits ?? count((c) => c.isExit), "exits"),
+      stat(s?.founders ?? companies.reduce((n, c) => n + (c.founders || []).length, 0), "founder profiles"),
       stat(Object.keys(s?.bySource || {}).length || new Set(companies.map((c) => c.source)).size, "sources"),
     );
     if (s?.generatedAt) $("updated").textContent = `Updated ${s.generatedAt.slice(0, 10)} · `;
@@ -201,7 +201,7 @@
     const pill = $("place-pill");
     const pt = place && geo ? geo.points.find((x) => x.key === place) : null;
     pill.hidden = !pt;
-    pill.textContent = pt ? `📍 ${pt.place}` : "";
+    pill.textContent = pt ? pt.place : "";
     render();
     if (view === "globe") updateGlobe();
   }
@@ -312,9 +312,9 @@
 
     const title = extLink(c.website, c.name || "(unnamed)") || h("span", {}, c.name || "(unnamed)");
     const badges = [
-      c.isUnicorn && h("span", { class: "badge b-uni" }, "🦄 Unicorn"),
-      c.isExit && h("span", { class: "badge b-exit" }, "💰 Exit"),
-      c.isBCorp && h("span", { class: "badge b-bcorp" }, "🌱 B Corp"),
+      c.isUnicorn && h("span", { class: "badge b-uni" }, "Unicorn"),
+      c.isExit && h("span", { class: "badge b-exit" }, "Exit"),
+      c.isBCorp && h("span", { class: "badge b-bcorp" }, "B Corp"),
       c.listed === false && h("span", { class: "badge b-delisted", title: `No longer on the ${sourceLabel(c.source)} portfolio page${c.delistedAt ? ` (since ${c.delistedAt})` : ""}` }, "No longer listed"),
     ];
 
@@ -353,7 +353,7 @@
     const meta = h("div", { class: "meta" },
       c.source && h("span", { class: "chip chip-src", title: sourceLabel(c.source) }, SOURCE_SHORT[c.source] || c.source),
       (c.alsoIn || []).map((s) => h("span", { class: "chip chip-also", title: `Also in the ${sourceLabel(s)} portfolio` }, `also ${SOURCE_SHORT[s] || s}`)),
-      place && h("span", {}, `📍 ${place}`),
+      place && h("span", {}, place),
       c.year && h("span", { class: "chip" }, String(c.year)),
       c.program && h("span", { class: "chip" }, c.program),
       (c.tags || []).slice(0, 3).map((t) => h("span", { class: "chip" }, t)),
@@ -497,7 +497,7 @@
     const btn = $("btn-xl");
     const rows = toRows(exportData());
     if (!rows.length) return;
-    const original = btn.textContent;
+    const original = [...btn.childNodes].map((n) => n.cloneNode(true));
     btn.disabled = true;
     btn.textContent = "Preparing…";
     try {
@@ -510,7 +510,7 @@
     } catch (err) {
       alert(`${err.message}. You can still export as CSV.`);
     } finally {
-      btn.textContent = original;
+      btn.replaceChildren(...original);
       updateToolbar();
     }
   });
@@ -605,39 +605,163 @@
   // Tooltip text is rendered as HTML by globe.gl, so escape everything.
   const escHtml = (v) => String(v).replace(/[&<>"']/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
 
+  // Paperfinch palette: paper countries on a blue desk, ink bars for cities,
+  // accent bars for country centres, amber for the selected place.
+  const POV_HOME = { lat: 28, lng: -40, altitude: 2.3 };
+  const INK = "#111318";
+  const ACCENT = "#4f5dff";
+  const SELECTED = "#fab219";
+  const isoOf = (key) => String(key || "").split("/")[0];
+  const shortPlace = (p) => (p.precision === "city" ? p.place.split(", ")[0] : p.place);
+  let countryShapes = null;            // GeoJSON features (Natural Earth 110m)
+  let isoCounts = new Map();           // "jp" -> startups in the current filter
+  let hoverIso = "";
+
+  // Same-origin fetch; on failure the globe falls back to the satellite texture.
+  function loadCountryShapes() {
+    return fetch("vendor/countries-110m.json")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((g) => (g && Array.isArray(g.features) ? g.features : null))
+      .catch(() => null);
+  }
+
+  const shapeIso = (f) => String((f && f.properties && f.properties.iso2) || "").toLowerCase();
+
+  // Mix paper -> periwinkle by how many startups a country has.
+  function capColor(f) {
+    const iso = shapeIso(f);
+    if (iso && iso === hoverIso) return "#ffffff";
+    const n = isoCounts.get(iso) || 0;
+    if (!n) return "#e6e5de";
+    const max = Math.max(1, ...isoCounts.values());
+    const t = Math.min(1, Math.log10(n + 1) / Math.log10(max + 1));
+    const mix = (a, b) => Math.round(a + (b - a) * t * 0.85);
+    return `rgb(${mix(247, 165)}, ${mix(246, 173)}, ${mix(242, 255)})`;
+  }
+
+  function polygonTip(f) {
+    const iso = shapeIso(f);
+    const n = isoCounts.get(iso) || 0;
+    const name = (f.properties && f.properties.name) || "";
+    return `<b>${escHtml(name)}</b><br>` +
+      (n ? `${n.toLocaleString()} startup${n === 1 ? "" : "s"}<br><small>Click to filter by this country</small>` : "<small>No startups in the current filter</small>");
+  }
+
+  const pointAlt = (d) => 0.014 + Math.min(0.22, Math.log10(d.count + 1) * 0.055);
+
+  // Paper name tags for the biggest places, pinned to the top of their bar.
+  // Phones get a wider view of the globe and fewer tags.
+  const narrow = () => $("globe").clientWidth < 560;
+  const homePov = () => ({ ...POV_HOME, altitude: narrow() ? 3.3 : POV_HOME.altitude });
+
+  // Only tag places well on the visible side, not ones peeking over the rim.
+  function facing(elm) {
+    if (!globe) return true;
+    const pov = globe.pointOfView();
+    const r = Math.PI / 180;
+    const a = Number(elm.dataset.lat) * r;
+    const b = pov.lat * r;
+    const dl = (Number(elm.dataset.lng) - pov.lng) * r;
+    return Math.sin(a) * Math.sin(b) + Math.cos(a) * Math.cos(b) * Math.cos(dl) > (narrow() ? 0.62 : 0.4);
+  }
+
+  function placeTag(d) {
+    const wrap = h("div", { class: "gl-tag" });
+    wrap.dataset.lat = String(d.lat);
+    wrap.dataset.lng = String(d.lng);
+    const tag = h("button", { type: "button", class: "gl-chip", title: d.place },
+      h("span", {}, shortPlace(d)), h("b", {}, d.count.toLocaleString()));
+    tag.addEventListener("click", (e) => { e.stopPropagation(); selectPlace(d.key, { fly: true }); });
+    wrap.append(tag);
+    return wrap;
+  }
+
+  // A few readable labels: the biggest places, skipping ones too close to an
+  // already-labelled place so they don't overlap.
+  function pickLabels(points) {
+    const out = [];
+    for (const p of points) {
+      if (out.length >= (narrow() ? 5 : 10)) break;
+      if (out.some((q) => Math.abs(q.lat - p.lat) < 9 && Math.abs(q.lng - p.lng) < 24)) continue;
+      out.push(p);
+    }
+    return out;
+  }
+
+  function resizeGlobe() {
+    if (!globe) return;
+    const el = $("globe");
+    if (el.clientWidth && el.clientHeight) globe.width(el.clientWidth).height(el.clientHeight);
+  }
+
+  function setSpin(on) {
+    if (globe) globe.controls().autoRotate = on;
+    $("gt-spin").setAttribute("aria-pressed", on ? "true" : "false");
+  }
+
   function ensureGlobe() {
     if (globePromise) return globePromise;
     const status = $("globe-status");
+    status.hidden = false;
+    status.textContent = "Loading globe…";
     globePromise = (async () => {
-      await ensureGeo();
+      const [, shapes] = await Promise.all([ensureGeo(), loadCountryShapes()]);
       if (!webglAvailable()) throw new Error("Your browser can't show the 3D globe (WebGL is off). The list of places on the right still works.");
       if (!window.Globe) await loadScript("vendor/globe.gl.min.js");
       const el = $("globe");
       globe = window.Globe({ animateIn: true })(el)
-        .globeImageUrl("vendor/earth-dark.jpg")
         .backgroundColor("rgba(0,0,0,0)")
         .showAtmosphere(true)
-        .atmosphereColor("#58a6ff")
-        .atmosphereAltitude(0.17)
+        .atmosphereColor("#9aa3ff")
+        .atmosphereAltitude(0.16)
         .pointLat("lat")
         .pointLng("lng")
-        .pointAltitude((d) => 0.006 + Math.min(0.32, Math.log10(d.count + 1) * 0.07))
-        .pointRadius((d) => Math.min(1.15, 0.2 + Math.sqrt(d.count) * 0.022))
-        .pointColor((d) => (d.key === selectedKey ? "#ffffff" : d.precision === "city" ? "#58a6ff" : "#d29922"))
+        .pointAltitude(pointAlt)
+        .pointRadius((d) => Math.min(0.75, 0.18 + Math.sqrt(d.count) * 0.012))
+        .pointColor((d) => (d.key === selectedKey ? SELECTED : d.precision === "city" ? INK : ACCENT))
         .pointLabel((d) =>
           `<b>${escHtml(d.place)}</b><br>${d.count.toLocaleString()} startup${d.count === 1 ? "" : "s"}` +
           (d.precision === "country" ? "<br><small>City unknown — shown at the country centre</small>" : ""))
         .onPointClick((d) => selectPlace(d.key, { fly: true }))
+        .onPointHover((d) => { el.style.cursor = d ? "pointer" : ""; })
+        .htmlLat("lat")
+        .htmlLng("lng")
+        .htmlAltitude(pointAlt)
+        .htmlElement(placeTag)
+        .htmlTransitionDuration(0)
+        .htmlElementVisibilityModifier((elm, visible) => elm.classList.toggle("off", !visible || !facing(elm)))
         .width(el.clientWidth)
         .height(el.clientHeight);
-      globe.pointOfView({ lat: 28, lng: -40, altitude: 2.3 }, 0);
+      if (shapes) {
+        countryShapes = shapes;
+        const mat = globe.globeMaterial();
+        mat.color.set("#2536c8");
+        if (mat.emissive) mat.emissive.set("#0d1670");
+        if ("shininess" in mat) mat.shininess = 6;
+        globe
+          .polygonsData(shapes)
+          .polygonAltitude(0.008)
+          .polygonCapColor(capColor)
+          .polygonSideColor(() => "rgba(17,28,134,.85)")
+          .polygonStrokeColor(() => "rgba(17,19,24,.22)")
+          .polygonLabel(polygonTip)
+          .polygonsTransitionDuration(200)
+          .onPolygonHover((f) => {
+            hoverIso = f ? shapeIso(f) : "";
+            el.style.cursor = f && isoCounts.get(hoverIso) ? "pointer" : "";
+            globe.polygonCapColor(capColor).polygonAltitude((g) => (hoverIso && shapeIso(g) === hoverIso ? 0.016 : 0.008));
+          })
+          .onPolygonClick((f) => selectCountry(shapeIso(f)));
+      } else {
+        globe.globeImageUrl("vendor/earth-dark.jpg");
+      }
+      globe.pointOfView(homePov(), 0);
       const controls = globe.controls();
-      controls.autoRotate = true;
       controls.autoRotateSpeed = 0.35;
-      controls.addEventListener("start", () => { controls.autoRotate = false; });
-      window.addEventListener("resize", () => {
-        if (globe && view === "globe") globe.width(el.clientWidth).height(el.clientHeight);
-      });
+      setSpin(true);
+      controls.addEventListener("start", () => setSpin(false));
+      if (window.ResizeObserver) new ResizeObserver(resizeGlobe).observe(el);
+      else window.addEventListener("resize", resizeGlobe);
       status.hidden = true;
       return globe;
     })();
@@ -656,7 +780,7 @@
     for (const c of filtered) {
       const pt = idToPoint && idToPoint.get(c.id);
       if (!pt) { unplaced++; continue; }
-      const e = byKey.get(pt.key) || { key: pt.key, place: pt.place, lat: pt.lat, lng: pt.lng, precision: pt.precision, count: 0 };
+      const e = byKey.get(pt.key) || { key: pt.key, place: pt.place, country: pt.country, lat: pt.lat, lng: pt.lng, precision: pt.precision, count: 0 };
       e.count++;
       byKey.set(pt.key, e);
     }
@@ -673,26 +797,72 @@
     }
     const { points, unplaced } = placeCounts();
     globePoints = points;
-    if (globe) globe.pointsData(points);
+    isoCounts = new Map();
+    for (const p of points) isoCounts.set(isoOf(p.key), (isoCounts.get(isoOf(p.key)) || 0) + p.count);
+    if (globe) {
+      globe.pointsData(points).htmlElementsData(pickLabels(points));
+      if (countryShapes) globe.polygonCapColor(capColor);
+    }
     if (selectedKey && points.some((p) => p.key === selectedKey)) selectPlace(selectedKey);
     else renderOverview(points, unplaced);
+  }
+
+  // Click a country: filter everything (list, stats, globe) to it.
+  function selectCountry(iso) {
+    if (!iso || !isoCounts.get(iso) || !geo) return;
+    const pt = geo.points.find((p) => isoOf(p.key) === iso && p.country);
+    const name = pt && pt.country;
+    const sel = $("country");
+    if (!name || ![...sel.options].some((o) => o.value === name)) return;
+    sel.value = name;
+    place = "";
+    selectedKey = "";
+    apply();
+    writeUrl(true);
+    flyToCountry(iso);
+  }
+
+  function flyToCountry(iso) {
+    const pts = globePoints.filter((p) => isoOf(p.key) === iso);
+    if (!globe || !pts.length) return;
+    const n = pts.reduce((s, p) => s + p.count, 0);
+    const lat = pts.reduce((s, p) => s + p.lat * p.count, 0) / n;
+    const lng = pts.reduce((s, p) => s + p.lng * p.count, 0) / n;
+    setSpin(false);
+    globe.pointOfView({ lat, lng, altitude: 1.4 }, 900);
   }
 
   function renderOverview(points, unplaced) {
     selectedKey = "";
     const total = points.reduce((n, p) => n + p.count, 0);
-    $("gp-title").textContent = "Startups around the world";
+    const cf = $("country").value;
+    $("gp-title").textContent = cf ? `Startups in ${cf}` : "Startups around the world";
     $("gp-sub").textContent =
-      `${total.toLocaleString()} startups in ${points.length.toLocaleString()} places` +
+      `${total.toLocaleString()} startup${total === 1 ? "" : "s"} in ${points.length.toLocaleString()} place${points.length === 1 ? "" : "s"}` +
       (unplaced ? ` · ${unplaced.toLocaleString()} without a known location` : "") +
-      ". Blue = city, amber = country (city unknown).";
-    $("gp-places").replaceChildren(
-      ...points.slice(0, 15).map((p) => {
-        const b = h("button", { type: "button", class: "gp-place" }, h("span", {}, p.place), h("span", {}, p.count.toLocaleString()));
-        b.addEventListener("click", () => selectPlace(p.key, { fly: true }));
-        return b;
-      })
-    );
+      (cf ? "." : ". Click a country to filter, or a bar to see who is there.");
+    const rows = [];
+    if (cf) {
+      const all = h("button", { type: "button", class: "gp-place gp-back" }, h("span", {}, "← All countries"), h("span", {}, ""));
+      all.addEventListener("click", () => {
+        $("country").value = "";
+        place = "";
+        apply();
+        writeUrl(true);
+        if (globe) globe.pointOfView(homePov(), 900);
+      });
+      rows.push(all);
+    }
+    const top = points.slice(0, 15);
+    const max = top.length ? top[0].count : 1;
+    for (const p of top) {
+      const bar = h("i", { class: "gp-bar" });
+      bar.style.width = `${Math.max(2, Math.round((p.count / max) * 100))}%`;
+      const b = h("button", { type: "button", class: "gp-place" }, h("span", {}, p.place), h("span", {}, p.count.toLocaleString()), bar);
+      b.addEventListener("click", () => selectPlace(p.key, { fly: true }));
+      rows.push(b);
+    }
+    $("gp-places").replaceChildren(...rows);
     $("gp-list").replaceChildren();
     $("gp-show").hidden = true;
     if (globe) globe.pointsData(globePoints);
@@ -707,7 +877,7 @@
     $("gp-sub").textContent =
       `${here.length.toLocaleString()} startup${here.length === 1 ? "" : "s"}` +
       (pt.precision === "country" ? " · city unknown, shown at the country centre" : "");
-    const back = h("button", { type: "button", class: "gp-place" }, h("span", {}, "← All places"), h("span", {}, ""));
+    const back = h("button", { type: "button", class: "gp-place gp-back" }, h("span", {}, "← All places"), h("span", {}, ""));
     back.addEventListener("click", () => { renderOverview(globePoints, placeCounts().unplaced); });
     $("gp-places").replaceChildren(back);
     $("gp-list").replaceChildren(
@@ -725,8 +895,8 @@
     if (globe) {
       globe.pointsData(globePoints);
       if (fly) {
-        globe.controls().autoRotate = false;
-        globe.pointOfView({ lat: pt.lat, lng: pt.lng, altitude: 1.5 }, 900);
+        setSpin(false);
+        globe.pointOfView({ lat: pt.lat, lng: pt.lng, altitude: 1.2 }, 900);
       }
     }
   }
@@ -741,8 +911,7 @@
     $("pager").hidden = view === "globe" || filtered.length <= PER_PAGE;
     if (view === "globe") {
       ensureGlobe().then(() => {
-        const el = $("globe");
-        globe.width(el.clientWidth).height(el.clientHeight);
+        resizeGlobe();
         updateGlobe();
       }, () => updateGlobe());
     }
@@ -765,6 +934,39 @@
     place = "";
     apply();
     writeUrl(true);
+  });
+
+  // Globe toolbar: zoom, reset, auto-rotate, full screen.
+  function zoomBy(f) {
+    if (!globe) return;
+    const p = globe.pointOfView();
+    setSpin(false);
+    globe.pointOfView({ lat: p.lat, lng: p.lng, altitude: Math.min(4.5, Math.max(0.3, p.altitude * f)) }, 450);
+  }
+  $("gt-in").addEventListener("click", () => zoomBy(0.65));
+  $("gt-out").addEventListener("click", () => zoomBy(1.5));
+  $("gt-reset").addEventListener("click", () => { if (globe) globe.pointOfView(homePov(), 900); });
+  $("gt-spin").addEventListener("click", () => setSpin($("gt-spin").getAttribute("aria-pressed") !== "true"));
+  // Real full screen where the browser allows it; otherwise (iPhone Safari) a
+  // fixed overlay that Escape or the same button closes.
+  function setOverlay(on) {
+    $("globe-wrap").classList.toggle("is-full", on);
+    document.documentElement.classList.toggle("no-scroll", on);
+    $("gt-full").setAttribute("aria-pressed", on ? "true" : "false");
+  }
+  $("gt-full").addEventListener("click", () => {
+    const wrap = $("globe-wrap");
+    if (document.fullscreenElement) document.exitFullscreen();
+    else if (wrap.classList.contains("is-full")) setOverlay(false);
+    else if (wrap.requestFullscreen) wrap.requestFullscreen().catch(() => setOverlay(true));
+    else setOverlay(true);
+  });
+  document.addEventListener("fullscreenchange", () => {
+    $("gt-full").setAttribute("aria-pressed", document.fullscreenElement ? "true" : "false");
+    resizeGlobe();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && $("globe-wrap").classList.contains("is-full")) setOverlay(false);
   });
 
   // ── Event wiring ──────────────────────────────────────────────────────────────
