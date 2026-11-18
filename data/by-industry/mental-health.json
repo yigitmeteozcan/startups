@@ -296,7 +296,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Eshan Dosani",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/eshan-dosani/",
+        "twitter": "https://x.com/EshanDosani",
+        "bio": "Co-founder & CEO, Perspectives Health.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/82b2141759123737c726fcdc466ec142c3bd40d3.jpg"
+      },
+      {
+        "name": "Kyle Jung",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kyle-hyun-woo-jung-a06814180/",
+        "bio": "I like building cool things, martial arts, and golf.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/76c7b10d44d923aa745450d3689cd0880684ef53.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

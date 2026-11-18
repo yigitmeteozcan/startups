@@ -136,7 +136,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Milo Schwartz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/miloaschwartz/",
+        "bio": "I am the co-founder of Pangolin. Previously, I worked as a founding engineer on intelligent transportation systems and connectivity and monitoring solutions for public works infrastructure.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cfe74fdf761f037c3a9639a4dab56e35fef407f6.jpg"
+      },
+      {
+        "name": "Owen Schwartz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/owenschwartz",
+        "bio": "I am the co-founder and CTO of Pangolin, an open source zero trust networking and infrastructure company. Before this, I worked as a founding engineer for 4 years on intelligent transportation systems and connectivity and monitoring solutions for public works.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b2677e06efbf7db88c5738433369649c53316dc8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

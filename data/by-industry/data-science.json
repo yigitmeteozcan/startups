@@ -621,7 +621,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Benjamin King",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/benfking",
+        "twitter": "https://twitter.com/BenFKing",
+        "bio": "American and British Luxembourger. Failed physicist. Cofounder and ex-CTO of Tumelo. Now working on Quary.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/57e5a152908e6b47ecc0300e14b991407d92bc63.jpg",
+        "active": false
+      },
+      {
+        "name": "Louis Jordan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/louis-j-52841a105",
+        "twitter": "https://twitter.com/louisjoejordan",
+        "bio": "Ex-Amazon (Data/Fintech)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/90d150f0764608d33f53599e65c132f972ce4e1f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1039,7 +1058,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jorge Guerra",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jorge-o-guerra",
+        "twitter": "https://x.com/jorgeguerrajr",
+        "bio": "Founder/CEO Lotas — quantitative trading with AI Harvard '24",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c9188857caef45433587c3241d504b930d7b6921.jpg"
+      },
+      {
+        "name": "William Nickols",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/willnickols/",
+        "bio": "Founder/CTO Lotas — quantitative trading with AI Harvard '24",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4224a64ec156b9f0c6f404911435d3f531a7524c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1077,7 +1112,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Saurav Kumar",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/sauravml",
+        "twitter": "https://twitter.com/sauravml",
+        "bio": "Optimizing and automating dispatch ops @ Fleetline",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39edd7839bf52e30dab32c05a547013c48aff70d.jpg"
+      },
+      {
+        "name": "Veer Juneja",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/veer-juneja-67255417a/",
+        "bio": "Combining LLMs with traditional advanced optimization techniques to automate trucking dispatch operations. I studied philosophy @ USC.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fdc7a7c95b217654e469b590c4c9bbc9f06ba6a4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

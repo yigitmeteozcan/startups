@@ -138,7 +138,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abdul Jamjoom",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/abduljamjoom",
+        "twitter": "https://twitter.com/abduljamjoom",
+        "bio": "Co-founder @ Arini | CS from Harvard in 2019 | Prev Threads (Acquired by Shopify)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7ba22f8dde4354da501655b7f5aa3105de20803a.jpg"
+      },
+      {
+        "name": "Rami Rustom",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/ramirustom",
+        "twitter": "https://twitter.com/rami_rustom",
+        "bio": "Building AI receptionists for dentists at Arini. Previously Eng + AI @ Threads. MIT CS 2021.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dfa8c7602086cc357a359d1c490f681e95969dfe.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

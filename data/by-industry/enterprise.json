@@ -3051,7 +3051,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chris Weaver",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/chris-weaver101",
+        "bio": "Building Onyx. In a past life: top-100 NA League of Legends player + TL at Robinhood.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d0a93d97df47cd7d3f5f3cdca5ecc1e2daf74295.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3088,7 +3096,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Di Qi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/di-qi/",
+        "twitter": "https://twitter.com/diqitally",
+        "bio": "I'm working on Lantern. We're building the best platform to develop AI applications. Before Lantern, I worked at Y Combinator, on my own startups, and at Facebook. I studied computer science at Princeton, and grew up in Americus, Georgia.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f8599f150bb5f7cff3f5a71233fc21979ae0fcd3.jpg",
+        "active": false
+      },
+      {
+        "name": "Narek Galstyan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ngalstyan",
+        "bio": "Now building the only database you'll need for your AI applications. I was an early engineer at Timescale, a billion-dollar Postgres company, where I contributed core features. I did my undergrad at Princeton, where I built a safe OS schedule in Rust for my thesis. More recently, I was a PhD Student at UC Berkeley working on distributed systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4f84260559cbc42248a77a731aa7d3d3b1acb47.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3127,7 +3153,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chris Lo",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/chrislohy",
+        "bio": "CEO and cofounder @ Tracecat",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9364ac3f992aed21a5c91ff788661feee6b346ec.jpg"
+      },
+      {
+        "name": "Daryl Lim",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/daryllimyt",
+        "bio": "Daryl Lim is the Co-Founder and Chief Technology Officer of Tracecat. Previously, he worked on various observability, data and AI infrastructure teams at AMD, Meta, and a London-based quant trading firm. He earned a Bachelors and Masters degree in Computer Engineering from Imperial College London.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fefca3125ffea270c6461ff05704f3a62c0243bb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3903,7 +3944,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonas Morgner",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jonasmorgner/",
+        "bio": "Co-Founder & CEO of Finto, building AI Accounting agents for enterprise finance teams.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7f97605372b5d0ae1ac979c3e2c7f2ed491ba373.jpg"
+      },
+      {
+        "name": "Linus Boehm",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/linus-boehm/",
+        "bio": "Co-Founder & CTO of Finto, building AI Accounting agents for enterprise finance teams. Former Engineering Lead @ Tacto - the intelligent procurement engine for enterprises. Raised a $55M Series-A from Sequoia and Index. Started there as first full time employee.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6c3067d349d15aae05c2fb6d8bb70af8203637f4.jpg"
+      },
+      {
+        "name": "Lorenz Neuner",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/lorenz-neuner/",
+        "bio": "Co-Founder & CPO of Finto, building AI Accounting agents for enterprise finance teams. Former Product Lead @ TradeLink - a supply chain management software for enterprises. Raised $15M from Insight Partners and Point Nine. Started among the first employees.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/541755a427a44a2ca6441bbce20da9487ac8ccdb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3941,7 +4004,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Evan Meyer",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/evanameyer",
+        "bio": "CEO @ Clerked Studied CS + Stats at UIUC and worked in data, ML, AI at LinkedIn and a couple of startups.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/81107bf69f7a35f50950e37d47296f47cbb3e6e0.jpg"
+      },
+      {
+        "name": "Sunjeet Chugh",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jeetchugh/",
+        "bio": "CTO @ Clerked (formerly Mod AI). On leave from studying CS & Statistics @ UIUC, previously worked on applied AI and distributed systems at Amazon, Adyen, and Retail/CPG companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/08af39a0f3c84576e9352607ed3b99f60d92d3b9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3980,7 +4058,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "William Fairbairn",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/willfairbairn/",
+        "bio": "William was UK General Manager at Agicap, one of the leading ‘Office of the CFO’ startups in Europe (valued at ~$800m). He previously was in McKinsey Tech practice, and built & exited a B2B SaaS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ec080db6feb17e7dcea5af731595718d513c4bbe.jpg"
+      },
+      {
+        "name": "Hung Hoang",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/hxuanhung/",
+        "bio": "Hung built Apple Pay products like Buy Now Pay Later, serving millions daily, and worked on AI initiatives at Apple and other AI startups (Twin.so, Gitguardian).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a54a8145817c1b3a9f8101446d01fa70ed01f395.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

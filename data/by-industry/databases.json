@@ -552,7 +552,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Di Qi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/di-qi/",
+        "twitter": "https://twitter.com/diqitally",
+        "bio": "I'm working on Lantern. We're building the best platform to develop AI applications. Before Lantern, I worked at Y Combinator, on my own startups, and at Facebook. I studied computer science at Princeton, and grew up in Americus, Georgia.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f8599f150bb5f7cff3f5a71233fc21979ae0fcd3.jpg",
+        "active": false
+      },
+      {
+        "name": "Narek Galstyan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ngalstyan",
+        "bio": "Now building the only database you'll need for your AI applications. I was an early engineer at Timescale, a billion-dollar Postgres company, where I contributed core features. I did my undergrad at Princeton, where I built a safe OS schedule in Rust for my thesis. More recently, I was a PhD Student at UC Berkeley working on distributed systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4f84260559cbc42248a77a731aa7d3d3b1acb47.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -589,7 +607,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Umur Cubukcu",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/umurc",
+        "twitter": "https://twitter.com/umurc",
+        "bio": "Previously visiting partner at YC for W23 and S23; now co-founder at Ubicloud. Co-founder and CEO of Citus Data (S11), the creators of the distributed PostgreSQL database Citus. Led the PostgreSQL product team at Azure, after Citus Data was acquired in 2019 by Microsoft.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/811b92be504c42ee56cf6aad47e9f0f260d0fc7c.jpg"
+      },
+      {
+        "name": "Ozgun Erdogan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ozgune",
+        "bio": "I’m the cofounder of Ubicloud (YC W24), an open source alternative to AWS. We're on a mission to rebuild the cloud market with different values. Previously, I was a partner at Microsoft, leading PostgreSQL engineering teams. I came to Microsoft through its acquisition of Citus Data (S11). I was the cofounder and CTO at Citus, and I learned a lot about doing startups there. Before all this, I built distributed systems at Amazon.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d633f56431a747505416d1e826a81fb1377926ee.jpg"
+      },
+      {
+        "name": "Daniel Farina",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/danfarina",
+        "bio": "I am one of the founders of Ubicloud. I've contributed to a number of control planes from an early phase, starting at Heroku, in what would become Heroku Postgres. Since then, I've serially created new control planes and infrastructure cloud products with some close colleagues, at Citus Cloud and Crunchy Bridge. Ubicloud is the fourth such system.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/18aa66df55ba80101caba48b73dd18d85d324c17.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -626,7 +667,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mac Klinkachorn",
+        "role": "Founder/Co-CEO",
+        "linkedin": "https://www.linkedin.com/in/macklink/",
+        "twitter": "https://twitter.com/MKlinkachorn",
+        "bio": "Mac is the co-founder and CEO of Trellis. Previously, he worked at the Stanford AI lab on large multimodal models for Stanford Health and built ML infrastructure at Cresta, Moveworks, and Amazon.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3b1519f0bcfd993a8dbb236c3c3623c4e3ef1818.jpg"
+      },
+      {
+        "name": "Jacky Lin",
+        "role": "Founder/President and Co-CEO",
+        "linkedin": "https://linkedin.com/in/jhslin",
+        "bio": "Jacky is a co-founder of Trellis and has taught hundreds of Stanford graduate students how to build, train, and deploy AI models in the Stanford School of Engineering & Graduate School of Business. Previously, he worked at Meta, the World Bank, and Wayfair.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/839a64adac97b949f442d82bf502f77a5cc97e42.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -871,7 +928,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shikhar Bhushan",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/shikhrr",
+        "twitter": "https://x.com/shikhrr",
+        "bio": "Making streams plentiful and serverless. Hacked on retrieval systems at Etsy, a KV store at Facebook, and Kafka Connect at Confluent.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/57590395516b13e3ef14efeeefecfc7409c09e62.jpg"
+      },
+      {
+        "name": "Stephen Balogh",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/stephen-balogh-078a4995/",
+        "twitter": "https://x.com/sgbalogh0",
+        "bio": "Loves Rust, and building systems that scale. Previously built novel infra for multi-modal product search at Etsy, and digital repository software at NYU",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/23704db7d2ff94bf5b6f5b2309970e60225a41b3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

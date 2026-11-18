@@ -5437,7 +5437,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Till Kern",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/tillkern",
+        "bio": "Builder, part-time ski instructor, Co-founder & CEO of Stitch",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fc39a1de5dfd085090b52c89fd803fd3972d8e63.jpg",
+        "active": false
+      },
+      {
+        "name": "Yuriy Oparenko",
+        "role": "Founder",
+        "linkedin": "https://uk.linkedin.com/in/oparenko",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a6a852bdfa700332c05cdd33e0576ff5bd6fe2dd.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5476,7 +5492,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Ahrens",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/maximilianahrens",
+        "bio": "Max is the Founder & CEO of Tekton Dynamics. He did his PhD and Postdoc in Machine Learning at the University of Oxford. During his Postdoc, he was also the Project Leader of a +$500,000 research grant which he was awarded by the Alan Turing Institute and the British Ministry of Defence. Previously, he worked as a consultant with McKinsey.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/80bef22695b3397da58980f1c3ebd03912d55d75.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5513,7 +5537,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Benjamin King",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/benfking",
+        "twitter": "https://twitter.com/BenFKing",
+        "bio": "American and British Luxembourger. Failed physicist. Cofounder and ex-CTO of Tumelo. Now working on Quary.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/57e5a152908e6b47ecc0300e14b991407d92bc63.jpg",
+        "active": false
+      },
+      {
+        "name": "Louis Jordan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/louis-j-52841a105",
+        "twitter": "https://twitter.com/louisjoejordan",
+        "bio": "Ex-Amazon (Data/Fintech)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/90d150f0764608d33f53599e65c132f972ce4e1f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5550,7 +5593,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sho Sugihara",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/shoalexander",
+        "twitter": "https://x.com/_ShoSugihara",
+        "bio": "Sho is a repeat founder. He co-founded and scaled a fintech startup to multi-million $ ARR within twelve months from launch and eventual profitability. Before that, he worked on data analytics projects at McKinsey for some of the largest healthcare systems in the world, including the NHS and several of the top ten private healthcare insurers. He studied at Cambridge and the Karolinska Institutet. He is originally from Japan.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f81db307d2bb516fefea44516f2cc60bcb3b3d0c.jpg"
+      },
+      {
+        "name": "Oscar Wilsby",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/oscar-wilsby-71020931",
+        "bio": "Oscar has built large-scale payments and credit data analytics models that outperformed incumbents like Experian by a significant margin. These models helped power the first startup he co-founded and scaled to a multi-million $ run rate. Before tech, Oscar was a post-doc researcher and completed an MEng and PhD in Machine Learning and Computational Physics at Cambridge. He’s worked in research divisions for companies like McLaren F1 and Dyson, applying machine learning to complex data problems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3d5b4ff871d69b8c2882ed3367af6410552b5dab.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7371,7 +7430,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tim Cherkasov",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/timcherkasov",
+        "twitter": "https://x.com/timcherkasov",
+        "bio": "Co-founder and CEO of Trace. Former product manager at Copper, a digital asset custodian, where he delivered an institutional offering for State Street. Fintech background across hedge funds and scaleups as a data scientist. Built startups since 17 in retail tech, travel, and web3.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/44c6b4427ed9b36aafd3d7aa691f504dec9e921f.jpg"
+      },
+      {
+        "name": "Artur Romanov",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/artur-romanov",
+        "twitter": "https://x.com/K1ngArtes",
+        "bio": "Co-founder and CTO of Trace. Former senior engineer at Deliveroo who built the grocery data-enrichment ML pipeline (millions of items, thousands of retailers). Multi-time founder; led backends in logistics and finance, and deployed workflow automation across engineering and ops.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f53f493a8993cf308d79af67cdb1fee7ba9dac4d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7407,7 +7483,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sean Conley",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/sean-conley-397b69b8/",
+        "bio": "Building the best way to understand consumers. Previously launching AI tools at Google, Dataiku, TrueLayer. Started professional life as a researcher at GiveWell.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c6310b686a0bf49fb24c675aa6649fe8e4b0de2.jpg"
+      },
+      {
+        "name": "Sam Stoll",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/sam-stoll-02ab1228/",
+        "bio": "Co-Founder & CTO at Motives. Ex-Palantir. Building the best way to understand consumers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a642834dbe840605902e4997f7cb1f4aec3f0827.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7442,7 +7533,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ismail Jeilani",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/jeilani",
+        "bio": "AI property manager for landlords and estate agents. 2x founder (VC backed) and ex-google.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8b2821d53f3e432faf86e3400b00f6b8adb3434d.jpg"
+      },
+      {
+        "name": "Elias Kassell",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/eliaskassell/",
+        "bio": "Automating property management. Ex-Google, ex-Dataform early hire.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/db06ea2a6d5048ea8866c05d0f827d3c2db14198.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7477,7 +7583,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Can Zehebi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/canzehebi/",
+        "twitter": "https://x.com/canz101",
+        "bio": "Founder @ Zavo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0bf5f0536863c934740c151359bc95a976a0fcba.jpg"
+      },
+      {
+        "name": "Ilkan Gezer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ilkan-gezer-4a16a6268",
+        "bio": "Founder @ Zavo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/015268ca8004cf0bec885653deea16f9656c323e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7671,7 +7793,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "William Fairbairn",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/willfairbairn/",
+        "bio": "William was UK General Manager at Agicap, one of the leading ‘Office of the CFO’ startups in Europe (valued at ~$800m). He previously was in McKinsey Tech practice, and built & exited a B2B SaaS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ec080db6feb17e7dcea5af731595718d513c4bbe.jpg"
+      },
+      {
+        "name": "Hung Hoang",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/hxuanhung/",
+        "bio": "Hung built Apple Pay products like Buy Now Pay Later, serving millions daily, and worked on AI initiatives at Apple and other AI startups (Twin.so, Gitguardian).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a54a8145817c1b3a9f8101446d01fa70ed01f395.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7703,7 +7840,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lorcan O Cathain",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/lorcan-o-cathain/",
+        "bio": "Co-Founder & CEO of Lua AI- we enable builders to launch enterprise grade AI agents quickly, reliably and at scale. Before co-founding Lua I spent 15 years building and investing in technology companies across emerging markets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/533386e98cac3014afd82d05b7c1c8db062dc2b0.jpg"
+      },
+      {
+        "name": "Stefan Kruger",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/stefan-kruger-0957b168/",
+        "bio": "Stefan Kruger is the co founder and CTO of heylua.ai, a chat-first AI platform helping businesses become AI native in a couple of clicks. Before starting Lua, he was VP of Engineering at Paystack (acquired by Stripe), where he spent nearly a decade scaling fintech infrastructure across the continent. A builder at heart, Stefan has deep experience in resilient systems, orchestration, and developer tooling, and is passionate about making AI accessible in the everyday platform",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/722b80b5ec16a0a96a83fcf205a6747d6f568740.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

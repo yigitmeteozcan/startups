@@ -737,7 +737,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yujian Yao",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/yjyao/",
+        "twitter": "https://x.com/yyjhao",
+        "bio": "Yujian was a staff engineer at Retool where he rebuilt the entire Retool runtime powering every Retool app. Before that, he was an early engineer at Asana. He’s also a gold medalist in National Olympiad Informatics, Singapore.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8e0d4160a3651f09be412d301746a264197e4261.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -775,7 +784,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jamie Sunderland",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jamesrainersunderland/",
+        "bio": "Second time YC founder. Former YC Product Engineer (I made the YC investor CRM). I like weird front end things a lot. In a former life I started Cheqout (YC W21), a QR-based ordering platform that grew to over 250 restaurants and $30M GMV during the pandemic. Before that I was a developer on Airbnb's China Risk Team.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55279d50203a8586e095775e92bc00711db83999.jpg",
+        "active": false
+      },
+      {
+        "name": "Dan Hyman",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/dan-hyman-dev/",
+        "bio": "Senior Engineer and Cloud/AWS expert with experience leading teams building enterprise applications and infrastructure. In a past life, I was a chef at a James Beard award winning restaurant.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/66c337a2349066c317e58730f0b8c9dec3f3a10b.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

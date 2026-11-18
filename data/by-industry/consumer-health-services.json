@@ -3611,7 +3611,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Claire Lee",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/claire-s-lee",
+        "bio": "Claire is the co-founder & CEO of Scritch. She studied neuroscience and machine learning at Princeton. Before Scritch, she trained neural networks as a machine learning engineer in Tesla's Autopilot AI team.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/234ea263d2ed251d052139f5141251dc5cfa6557.jpg"
+      },
+      {
+        "name": "Rachel Lee",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/rachelsylee",
+        "bio": "Rachel is the co-founder & CTO of Scritch. She studied computer science at Cornell. Prior to starting Scritch, she was a software engineer at Amazon where she worked on one of the world’s most visited pages, the Amazon detail page.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2eb766f650a0a1624d33cf7d96867ef174a87052.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3649,7 +3664,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dustin Klebe",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/dustin-klebe-679675163",
+        "bio": "I graduated from ETH Zurich with a degree in Computer Science and conducted AI research at MIT in Boston. Previously, I worked as the first ML engineer at the Series B educational tech startup Knowunity and served as president of the German Excellence Scholarship KAS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a332deaa0f688a76961b3583dcf0a64e936a408.jpg"
+      },
+      {
+        "name": "Lukas Wolf",
+        "role": "Founder/CPO",
+        "linkedin": "https://linkedin.com/in/lukas-wolf-14a992143",
+        "twitter": "https://twitter.com/lukaswolf_",
+        "bio": "I studied CS at ETH and MIT spending most of my time on research in AI and NLP. Worked in research labs (ETH, MIT), at corps (BMW), and startups.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/734fc3f735f47d37a6638fdf78a31ed6475240bb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3686,7 +3717,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Williamson",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/max-williamson-3a969a17a",
+        "twitter": "https://twitter.com/MaxXWilliamson",
+        "bio": "I'm building Aidy, a mobile app that helps people better manage chronic health conditions, starting with IBD. Previously I worked on AI and global health at The Rockefeller Foundation, served as a foreign policy fellow in the U.S. Senate, worked as the data director for a victorious Senate campaign, and helped launch a COVID testing lab in Delaware during the pandemic. I studied CS and policy at MIT, where I was named a Truman Scholar and a finalist for the Rhodes Scholarship.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d0d58b1453632e6f0e6b155e979bb40e905de2f6.jpg"
+      },
+      {
+        "name": "Peter Crocker",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/pcrocker2021",
+        "bio": "I'm building Aidy, an app that helps people understand and navigate their chronic health conditions like IBD. My background is in machine learning, where I specialized in graph neural networks and causal inference for bio and health data. I hold a BA (2020) and MEng (2021) from MIT, where I studied Electrical Engineering and Computer Science with a focus on Artificial Intelligence.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/420cf2d392d6cb4dfbd3cb46468d96311f05a668.jpg"
+      },
+      {
+        "name": "Greg Miller",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/gmmiller00",
+        "bio": "Policy entrepreneur working to create a better economic system",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b3c05e7fea61b483fecd63590a7081e3c9c328a0.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3723,7 +3778,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Steinle",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/adamsteinle",
+        "bio": "Former biomedical engineer, Goldman banker, and big tech PM going back to my roots as a founder in healthcare. Over 4 years at Facebook, I launched many successful products for Content Moderation, Community Growth, Gaming, and Creator Monetization.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/611dc2a7347cfaf64219ba06f9d5035cbf3d05e0.jpg"
+      },
+      {
+        "name": "Danielle Yoesep",
+        "role": "Founder/COO",
+        "linkedin": "https://linkedin.com/in/djyoesep",
+        "bio": "Grew up interested in science, always thinking I'd become a doctor (immigrant parents lol) but realized in university that practicing medicine actually wasn't the way I wanted to make my impact. Stayed in science, wanted to be on the cutting edge, did some research developing platform technologies that enable the synthesis of novel molecules. I helped spin a company out based on the work and built it up from (mostly) scratch. We ended up getting acquired, and now I'm doing it all over again :)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fca8dce6e7db777839d982bc833e19bbd39cc844.jpg"
+      },
+      {
+        "name": "Shuying Zhang",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/zhang-shuying/",
+        "bio": "I have a mixed background of biomedical engineering and software development. Prior to founding Hona.ai, I was a software engineer at Google and Amazon. My past work was centered on Document AI, knowledge graph and cloud infrastructure.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4a8115abe611ab823fbe0e547c30fa96cf3680c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3762,7 +3839,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Marie Schneegans",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/marie-schneegans",
+        "twitter": "https://twitter.com/marieschneegans",
+        "bio": "co-founder GloGlo.com: curing autoimmune diseases with AI, starting with type 1 diabetes",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/85a05fccd160477dc3140f8def1392421375435a.jpg"
+      },
+      {
+        "name": "Michael Fester",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/michaelfester",
+        "twitter": "https://twitter.com/michaelfester",
+        "bio": "Co-founder GloGlo.com. Previously, co-founder of Snips (AI voice platform, acquired by Sonos). Maths at Cambridge.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f1b9466bb4e820a48afa4b5e44d74254b46152d1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3878,7 +3972,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dave Zohrob",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/dzohrob/",
+        "twitter": "https://x.com/dzohrob",
+        "bio": "Cofounder/CEO Nori. Prev cofounder/CEO Chartable (acquired by Spotify) & early AngelList. Ran podcast ads product team of 150 at Spotify after acquisition. Founded AngelList talent platform (now Wellfound). Also HOTorNOT & Microsoft. My first startup was QBasic.com in 1995.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3bc73b06b948419e20267b3ba6b5fac1c65ee914.jpg"
+      },
+      {
+        "name": "Harish Agarwal",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/harish-p-agarwal/",
+        "twitter": "https://x.com/smock",
+        "bio": "Cofounder & president Nori Health (F25); previously cofounder Chartable (acquired by Spotify); previously cofounder & CEO Octopart (W07)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39a3abd00a7380cd885cc8dae01d2a7150f66b6e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3916,7 +4027,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Santosh Vallabhaneni",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/santoshvallabhaneni/",
+        "bio": "Santosh is the CEO of Rovi Health, building AI-enabled, text-based healthcare. Previously GM of Cedar’s patient affordability products, sold millions in ARR to the largest health systems in the country. Early employee at AngelList, led their GTM and Customer Success teams. Also a licensed health insurance broker.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0e62416f806e108e0d1bf4afbc158709a8f218e1.jpg"
+      },
+      {
+        "name": "Tarun Vallabhaneni",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/tvallabh/",
+        "bio": "Tarun is the CTO and co-founder of Rovi Health, building AI-enabled, text-based healthcare. Previously, Tarun was working on foundational AI models to predict extreme weather events. He holds an M.S. in Computer Science from UChicago, specializing in AI and high-performance computing, and a B.S. in Biology from Cornell.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb56912caeb61e0d6a3835792eb5e05f2c473536.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3956,7 +4082,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shivani Patel",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/shivanijpatel/",
+        "twitter": "https://x.com/shivanijpatel",
+        "bio": "quantifying every layer of the human body",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dfcd059dae3f81253fad3c346d3a059172c9de40.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -2348,7 +2348,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aaron Wang",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/aaronjwang",
+        "bio": "Before Alex AI, Aaron worked in quant finance and at Facebook AI. He studied computer science, applied math, and economics at Brown.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/71e6853c488fbfca1724e6c8e382612f34fc4b47.jpg"
+      },
+      {
+        "name": "John Rytel",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/john-rytel-955436221",
+        "bio": "Technical co-founder who just builds.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8ef282e7c673bc0b3bddb9a6ac5617ef163ddbb1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

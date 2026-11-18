@@ -1448,7 +1448,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Felix Lösch",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/felix-loesch",
+        "bio": "Co-Founder & CEO of Lunavo | Building AI that runs carrier operations Ex-McKinsey and former Managing Director at a Series A robotics logistics startup, where he scaled commercial and operations functions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3943632025f5bce2ff8c24966ec5eb97c306e1af.jpg"
+      },
+      {
+        "name": "Niclas Heun",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/heun",
+        "bio": "Co-Founder & CTO @ Lunavo | Building AI that runs carrier operations. He studied CS at the Technical University of Munich and the University of Waterloo, graduating top of his class. He previously worked as an AI researcher on model robustness and led teams developing AI for shop-floor operations for Siemens.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f9fcec95d0ff97373166d4466a58c892da81f1d2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -1296,7 +1296,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Junestrand",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/maxjunestrand",
+        "bio": "Max is the CEO and co-founder of Leya, where he focuses on developing trustworthy AI assistants for lawyers. Prior to Leya, Max contributed to growth initiatives at two Y Combinator startups, worked at McKinsey, engaged in venture capital, and served as a software developer at Abios (acquired by Kambi) and Ericsson. He earned two degrees in machine learning and business from Sweden's top two universities, KTH and SSE, in parallel whilst working full-time.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9640603f8052e7a822c52c022b01854bed23a7f8.jpg"
+      },
+      {
+        "name": "Sigge Labor",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/siggelabor",
+        "bio": "Family tech support. I can reset grandparents' forgotten email passwords, and I plug in the HDMI for siblings. Graduated from Hyper Island and worked as a full-stack developer at startups since. Founded the first-ever Mexican hops company, but currently building the future of legal work at Leya (W24).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a65c13ae62fedecf4dc68eff147637c25bf1801d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1333,7 +1348,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Katon Luaces",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/katon-luaces",
+        "bio": "Working on PointOne, automating timekeeping and billing. Previously worked on a legal tech product at Google before joining Applied Intuition where I worked on a platform for the verification and validation of autonomous vehicles.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ade18464e79fea09032d5e48f056779e0d099af9.jpg"
+      },
+      {
+        "name": "Jeremy Ben-Meir",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/jeremyben-meir",
+        "bio": "Working on PointOne to automate attorney timekeeping and billing. Was previously a software engineer at Amazon and Google where I worked on search relevance and Ads ML, respectively.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f1f53488ef7dcc820ca6ea17f1a5f98c71ad61a1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2245,7 +2275,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sayan Bhatia",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/sayanbhatia/",
+        "twitter": "https://x.com/sayanbhatia",
+        "bio": "CEO @ Kalinda. Prev. AI research at LUKA Lab. Co-founded and scaled a STEM non-profit to 7000 students worldwide. On a mission to deliver justice faster and for more in the fight against corporate negligence.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1004941d777a998f933287e5340f9fbbf60b7601.jpg"
+      },
+      {
+        "name": "Sohil Bhatia",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/sohilbhatia/",
+        "twitter": "https://x.com/sohilbhatia85",
+        "bio": "CTO @ Kalinda. Prev. AI research at Pacific Northwest National Lab. Co-founded and scaled a STEM non-profit to 7000 students worldwide. On a mission to deliver justice faster and for more in the fight against corporate negligence.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7c7fd25277fc2979b59e02420be1d24b3607d392.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2279,7 +2326,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tanner Jones",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tanner-jones-817192167/",
+        "twitter": "https://x.com/Tanner_H_Jones",
+        "bio": "Tanner studied PPE and Classics at Dartmouth. Previously, he founded and exited Downballot Solutions with Arvind Veluvali (Fresco AI, YC F24), a political campaign tech startup. Later, Tanner was the Technology and Regulatory Policy Director at Joe Lonsdale's Cicero Institute, where he was the 2024 employee of the year. Tanner also coached the 2021 speech and debate national champion, holds powerlifting records in two states, and qualified to the 2023 IPL world powerlifting championships.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/890d9cda7329b04ea252602793ab6c242c9bb32a.jpg"
+      },
+      {
+        "name": "Aleksander Mekhanik",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aleksander-mekhanik-41547b272/",
+        "bio": "Alek earned the prestigious Jack Byrne grant offered to the top math students at Dartmouth, where he studied electrical computer engineering with a focus in machine learning. Previously, Alek was a nationally competitive chess player and high school varsity athlete. He has also contributed to several startups as a machine learning engineer. Beyond Vulcan, Alek holds Ivy League and Arizona powerlifting records and qualified to USAPL collegiate nationals.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5ad77596e26bc49b796e7efe41dbe27b84d5929.jpg",
+        "active": false
+      },
+      {
+        "name": "Chris Minge",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/chrisminge",
+        "bio": "Chris studied computer science and philosophy at Princeton University, graduating in 2022. After graduating, he was a software engineer at Google, where he worked on ML infrastructure, supporting Gemini, Waymo, Vertex AI, and other services.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e12e60e49ca5697b947173d89c372b7ba546e81e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2317,7 +2388,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Leo Schuhmann",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/leo-schuhmann-324927182/",
+        "bio": "Helping enterprises win across markets. Tech & Consulting Background.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6a02c3ebd952a4ff24d89085719f812b941e2b00.jpg"
+      },
+      {
+        "name": "Moritz Moser",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/moritz-moser-99b3a320a/",
+        "bio": "Building ComplyDo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d200b6871073ea9cd8e51ca4dbba265162125516.jpg"
+      },
+      {
+        "name": "Matthias Schneider",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/matthias-schneider-134391223/",
+        "bio": "Deploying agents to automate enterprise compliance.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/33a3f0cc53ae97c4aeddb2df62bce1f7bd30ea5a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2354,7 +2447,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Harshit Garg",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/harshitgarg03/",
+        "twitter": "https://x.com/HarshitGarg03",
+        "bio": "Engineer-turned-lawyer and second-time founder. Previously led major technical and compliance projects for Fortune 500 companies before building Lexi.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4d85ce8d524c280f4fe52216a960a8317d03f2f.jpg"
+      },
+      {
+        "name": "Kiran Mohan",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kiranmohanb/",
+        "twitter": "https://x.com/bmnarik",
+        "bio": "Founding Team at Ethlas, a Sequoia-backed startup where he scaled the company to 100K+ users and $2M+ in ARR. Previously built high-frequency trading systems at Grasshopper that processed $500B+ in monthly notional volume. Now revolutionizing the legal industry with AI-powered legal associates at Lexi.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/01094d818af57ec45dfe4542ad4f866566c34238.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2391,7 +2501,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexander Stroe",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alex-stroe/",
+        "bio": "Founder @ Patent Watch | Prev day traded funded accounts, spent > $1M on ads",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/94ff65b5d68579dddef6be5fecb2e0fa4a01e7f9.jpg"
+      },
+      {
+        "name": "Andreas Stroe",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/andreasstroe/",
+        "bio": "Founder @Patent Watch | Ex Research @ Philips",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cfd385d73761d9cd87f365e5876e19941070a85d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2427,7 +2552,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chris Farestveit",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/green-c/",
+        "bio": "Prior PM and Eng. Formerly at BCG and Dapper. Currently building AI agents for law firms.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa6f131bc5780d3c07e03075bb2d8525bf4d2b70.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

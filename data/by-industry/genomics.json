@@ -1008,7 +1008,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Arvid E. Gollwitzer",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/arvid-gollwitzer/",
+        "twitter": "https://x.com/arvidgollwitzer",
+        "bio": "Founder @ Anto Bio | Researcher @ Broad, Harvard, MIT | Lecturer @ ETH Zurich",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c198f2ae79729c0ec59fbf566666e42e58082db3.jpg"
+      },
+      {
+        "name": "David de Gruijl",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/daviddegruijl",
+        "bio": "Co-founder @ Anto. Formerly Janssen Pharmaceuticals, ETH Zurich and Gastroenterology Dept. of BWH, Harvard Medical School.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b50bd83ae243af5006498387e9733112e4af827c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

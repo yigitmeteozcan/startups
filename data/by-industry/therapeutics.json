@@ -2569,7 +2569,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Elliot Tague",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/elliot-tague",
+        "bio": "I am a PhD and inventor in the fields of synthetic biology and protein engineering. I got my PhD from Boston University, spent time as a visiting graduate student in George Church's lab at Harvard, and worked in various biotech startups",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/862fd5995470be60ee9592f62023e7535f5ba456.jpg"
+      },
+      {
+        "name": "Nathan Tague",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/nathan-tague-533019198",
+        "bio": "I’m a co-founder of SynsoryBio, where we are creating therapeutics that sense-and-respond to disease. I have a background in synthetic biology and protein engineering with a PhD in Biomedical Engineering.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/64f7893e259c04691fa3d527943ce549ccc78d95.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2923,7 +2938,32 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonny Hsu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jonathanhsuuw/",
+        "twitter": "https://x.com/hsu_jonny",
+        "bio": "Working on foundation models for RNA therapeutics. I was an early employee at Valence Discovery, a biotech startup that spun out from Mila. I led product and strategy. Valence was acquired by Recursion (NASDAQ: RXRX) in May 2023. I stayed on afterwards to help build out the AI research engine of Recursion called Valence Labs. Biochemist by training | Waterloo graduate",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e344c95d233072e70c9247179c68e5bb754c8300.jpg"
+      },
+      {
+        "name": "Philip Fradkin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/philip-fradkin-330a417b/",
+        "twitter": "https://twitter.com/phil_fradkin",
+        "bio": "Building AI for the most designable molecule in the world: RNA Published at top ML & Bio conferences including best paper at Foundation models for science @ Neurips. Built self-supervised learning applications for RNA, small molecules, and phenomics. Playing long term games in ML for Biology. One of the first employees at Deep Genomics. PhD from University of Toronto.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/132a39b69c850b07a47f1abfa89bfe7925685490.jpg"
+      },
+      {
+        "name": "Ian Shi",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ruian-shi-4b5215b9/",
+        "twitter": "https://x.com/ianshi3",
+        "bio": "Building foundational models for RNA therapeutics at Blank Bio. Just defended my PhD in CS at the University of Toronto. Published at ICML, NeurIPS, Nature Comms; used 4 GPUs to pre-train an mRNA foundation model that beat competitors using months of compute on thousands of H100s. Now scaling our models to unlock new possibilities in the RNA therapeutic space. Previously at Amazon building software, interned at Pinterest and Amazon as a research scientist in between.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/623d250731fb8addca53515c234d4051d6ab00d8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

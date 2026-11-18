@@ -2136,7 +2136,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alec Howard",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/alexandermhoward",
+        "twitter": "https://x.com/alecmhoward",
+        "bio": "Co-Founder and CEO of Ruvo (formerly Cacao). Ex-Uber & previous Head of Marketing at Gauntlet AI (Lambda School, YC S17)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/12f741689b5e2b265e87df0c2977958634555a9b.jpg"
+      },
+      {
+        "name": "Michael Mason",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/mason-michael/",
+        "bio": "Co-Founder & CTO of Ruvo. Previous Co-Founder & head of Product & Engineering at Mercato.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/73844158feab0958a42472bee8f1e39e497389a8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

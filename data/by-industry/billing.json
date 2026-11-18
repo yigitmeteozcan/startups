@@ -216,7 +216,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "William Fairbairn",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/willfairbairn/",
+        "bio": "William was UK General Manager at Agicap, one of the leading ‘Office of the CFO’ startups in Europe (valued at ~$800m). He previously was in McKinsey Tech practice, and built & exited a B2B SaaS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ec080db6feb17e7dcea5af731595718d513c4bbe.jpg"
+      },
+      {
+        "name": "Hung Hoang",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/hxuanhung/",
+        "bio": "Hung built Apple Pay products like Buy Now Pay Later, serving millions daily, and worked on AI initiatives at Apple and other AI startups (Twin.so, Gitguardian).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a54a8145817c1b3a9f8101446d01fa70ed01f395.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

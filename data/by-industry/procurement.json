@@ -429,7 +429,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dr. Sabrine Obbad",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sabrineobbad",
+        "bio": "Co-founder of Alara. I'm a pediatric dentist and private practice owner who experiences first hand the procurement mess we are trying to solve. I hold a B.Sc and M.Sc in Chemistry from NYU and a D.D.S from NYU College of Dentistry. Prior to being a dentist I was a pharmaceutical and computational chemist working in the field of protein biochemistry where I helped develop cancer drugs for clinical trials.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/adcbb2df25984d2efe7971db4bbcb795ef81e62c.jpg"
+      },
+      {
+        "name": "Elyas Obbad",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/elyas-obbad-071a01176/",
+        "twitter": "https://x.com/ObbadElyas",
+        "bio": "Co-founder of Alara. I was previously at DoorDash, Google, and Meta, where I led engineering on large-scale AI systems and consumer products used by millions. I hold an M.S. in Computer Science from Stanford and a B.S. from Columbia, specializing in AI and intelligent systems. As a researcher at Stanford’s Trustworthy AI Lab, I’ve published first-author work at ICML and NeurIPS on large language model data curation and alignment.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/89c43c7de666fd4021d3bbddfc307ae77245d464.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

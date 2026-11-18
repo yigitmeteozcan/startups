@@ -1508,7 +1508,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dhruhin Kurli",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/dhruhin",
+        "bio": "Dhruhin is a lifelong full-stack engineer who graduated with a CS degree from UCSD in 2.5 years. He worked on building cutting-edge tech and new consumer experiences at Meta and Amazon. He was most recently a tech lead on Meta’s new AR line.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0ad1fc02445f30d578d9fc70e08f0ab235f505c0.jpg",
+        "active": false
+      },
+      {
+        "name": "Nikki Shah",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/nikki-a-shah",
+        "twitter": "https://twitter.com/NikkiAShah",
+        "bio": "Nikki is the co-founder and CEO of Patchwork. After graduating MIT with a degree in Computer Science, she was an engineer, engineering manager, and product lead at Pinterest, Meta, and Stripe building brand new products that often started out as small teams and grew to thousand person organizations.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b318adcc777fb5524d83e8a7fca2248ff7922812.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -1752,7 +1752,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nicole Ma",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ma06nicole/",
+        "bio": "Building Topological (YC S25). Prev. CS/MechE @ Stanford, physics simulations @ NASA",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a27a3d8667b1bb56b79f33bd09bed9589db509ef.jpg"
+      },
+      {
+        "name": "Zeyneb Kaya",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/zeyneb-kaya/",
+        "twitter": "https://x.com/zeynebnkaya",
+        "bio": "Building Topological (YC S25). Prev CS/Physics/Math @ Stanford; research in RL, pretraining, efficient algorithms, synthetic data, physics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1dd98978718ff1e9352d4f96ba5623a1a68ad954.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

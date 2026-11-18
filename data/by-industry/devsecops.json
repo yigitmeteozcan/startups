@@ -1184,7 +1184,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Srikar Dandamuraju",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/srikar-d-473390136",
+        "twitter": "https://x.com/realsreeks",
+        "bio": "Co-Founder & CEO of Alter (YC S25), a zero-trust identity and access control platform for AI agents. Former Platform Lead at Goldman Sachs, where I scaled GSAM’s post-trade infrastructure from single to multi-cluster and helped launch the GM Card. Before that, software engineer at Addepar and Clear Street.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cab46acc391807e07306cfd19067daaf2b55c346.jpg"
+      },
+      {
+        "name": "Kevan Dodhia",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/kevan-dodhia-760183129",
+        "bio": "Co-founder and CTO of Alter (YC S25), a zero-trust identity and access control platform for AI agents. Previously technical co-founder of Compute.ai, where we built a high performance SQL compute engine for highly regulated enterprises. Compute.ai was acquired by Terizza in 2025.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ab81ff957341010eea7e1ee52d81382311c83b1c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

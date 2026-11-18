@@ -482,7 +482,34 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "John Jeong",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/johntopia",
+        "twitter": "https://x.com/computeless",
+        "bio": "designing interfaces for humans and agents",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ea10a90642ece06e0d2532013e4753735870be0a.jpg"
+      },
+      {
+        "name": "Deokhaeng Lee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dklee0127",
+        "twitter": "https://x.com/duckduckhero",
+        "bio": "CS @ Duke Formerly founder @ Hyprnote (S25), engineering @ Carousel Technologies (W24)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/62062010b3f111a712747148585d18b807b525df.jpg",
+        "active": false
+      },
+      {
+        "name": "Yujong Lee",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/yujong1ee",
+        "twitter": "https://x.com/yujonglee",
+        "bio": "OSS enthusiast. Check out my work at: https://github.com/yujonglee",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/caf1a60577dd61bc87ba59b5b794090ec04fe0ed.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

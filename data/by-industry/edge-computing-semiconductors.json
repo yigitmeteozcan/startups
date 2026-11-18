@@ -100,7 +100,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rohan Joshi",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/rohan-m-joshi",
+        "twitter": "https://x.com/ron_joshi",
+        "bio": "Co-founder and CEO at Stellon Labs where we train open-source frontier speech models! We're better known as KittenML (kittenml.com) Checkout KittenTTS at https://github.com/KittenML/KittenTTS Ex-Meta Research, CMU SCS",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3681055ad6cebe46ed6a70a96243efe262959745.jpg"
+      },
+      {
+        "name": "Divam Gupta",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/divamgupta",
+        "twitter": "https://x.com/divamgupta",
+        "bio": "Packing intelligence in super-tiny AI models.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f72f7c4e597a0e56f8b85e4aaed075f04dd2589e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

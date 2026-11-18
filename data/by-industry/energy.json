@@ -2449,7 +2449,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Edward Hinson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/edward-hinson-078b15143/",
+        "bio": "Cofounder of Zephyr Fusion, an in-orbit fusion power company. 20+ years in mathematical modeling and experimental plasma physics. Former scientist at Oak Ridge National Lab and UW-Madison. PhD in Nuclear Engineering and Engineering Physics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7d140c01f06bf0f6bd2775b56bbb6dd17665d759.jpg"
+      },
+      {
+        "name": "Galen Burke",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/galen-burke-78923317/",
+        "bio": "Co-founder of Zephyr fusion, an in-orbit fusion power company. 15+ years in cutting edge diagnostics and plasma physics. Former scientist at Lawrence Livermore National Laboratory and the University of Wisconsin-Madison. PhD in Nuclear Engineering and Engineering Physics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/98c843bf90dac8ffc44e771edb2b7073905edb05.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

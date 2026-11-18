@@ -135,7 +135,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dmitry Fatkhi",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/fatkhi",
+        "twitter": "https://x.com/DmitryFatkhi",
+        "bio": "Co-founder @ Fastshot, ex AI/ML engineer @ Google, focus on multi-agent architecture and AI coding quality",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fefaad4e0511daa31be6f9fd6b9e79e591b92fa8.jpg"
+      },
+      {
+        "name": "Elvira Dzhuraeva",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/dzhuraeva",
+        "twitter": "https://x.com/elvirafortune",
+        "bio": "Co-founder @ Fastshot, ex-Google Gen AI Developer tools, ex-Kubeflow AIOps, ex-Cisco Computer Vision",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d9ce8756ab23a10d87d57a9d8ba72ca222312342.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -168,7 +168,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "James Spokes",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/james-spokes/",
+        "bio": "James is a Co-Founder of Monarcha. He holds a B.A. from the College of Arts & Sciences at Cornell University. Previously, he designed for Station-F backed startup Loop, and built a multi-agency alerts systems at Mark43. He also is an accomplished photographer, having published multiple books and won prizes at the International Photography Awards.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d6afeef09686ec8c18879e271e4c674c50088040.jpg"
+      },
+      {
+        "name": "Everett Lee",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/everett-lee-6540b41b3/",
+        "bio": "Everett is a Co-Founder of Monarcha. He graduated early from Cornell Engineering with a degree in Computer Science and began a CS master's, before dropping out to build Monarcha. He did research as part of Cornell's AI Innovation Lab and led Machine Learning Engineering at Cornell Data Science. Previously, Everett worked as an AI Engineer building computer vision models at WEX and as a Data Scientist at Avalara.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c7ba8ebb07cbf9189cc8a9f76138e37f9e66139c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

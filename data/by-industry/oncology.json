@@ -1468,7 +1468,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Elliot Tague",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/elliot-tague",
+        "bio": "I am a PhD and inventor in the fields of synthetic biology and protein engineering. I got my PhD from Boston University, spent time as a visiting graduate student in George Church's lab at Harvard, and worked in various biotech startups",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/862fd5995470be60ee9592f62023e7535f5ba456.jpg"
+      },
+      {
+        "name": "Nathan Tague",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/nathan-tague-533019198",
+        "bio": "I’m a co-founder of SynsoryBio, where we are creating therapeutics that sense-and-respond to disease. I have a background in synthetic biology and protein engineering with a PhD in Biomedical Engineering.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/64f7893e259c04691fa3d527943ce549ccc78d95.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

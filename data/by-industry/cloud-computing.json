@@ -1095,7 +1095,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Umur Cubukcu",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/umurc",
+        "twitter": "https://twitter.com/umurc",
+        "bio": "Previously visiting partner at YC for W23 and S23; now co-founder at Ubicloud. Co-founder and CEO of Citus Data (S11), the creators of the distributed PostgreSQL database Citus. Led the PostgreSQL product team at Azure, after Citus Data was acquired in 2019 by Microsoft.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/811b92be504c42ee56cf6aad47e9f0f260d0fc7c.jpg"
+      },
+      {
+        "name": "Ozgun Erdogan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ozgune",
+        "bio": "I’m the cofounder of Ubicloud (YC W24), an open source alternative to AWS. We're on a mission to rebuild the cloud market with different values. Previously, I was a partner at Microsoft, leading PostgreSQL engineering teams. I came to Microsoft through its acquisition of Citus Data (S11). I was the cofounder and CTO at Citus, and I learned a lot about doing startups there. Before all this, I built distributed systems at Amazon.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d633f56431a747505416d1e826a81fb1377926ee.jpg"
+      },
+      {
+        "name": "Daniel Farina",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/danfarina",
+        "bio": "I am one of the founders of Ubicloud. I've contributed to a number of control planes from an early phase, starting at Heroku, in what would become Heroku Postgres. Since then, I've serially created new control planes and infrastructure cloud products with some close colleagues, at Citus Cloud and Crunchy Bridge. Ubicloud is the fourth such system.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/18aa66df55ba80101caba48b73dd18d85d324c17.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1132,7 +1155,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dillon Nys",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/dillon-nys",
+        "bio": "Founder & CEO at Celest. Previously, I wrote the Amplify Flutter framework at AWS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/115197e5419648fa054955244579810145dab9d8.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1756,7 +1788,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lucas Ewing",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/lucasboewing/",
+        "bio": "I'm Lucas, born and raised in Stockholm Sweden, and moved to the US for High School and College (Harvey Mudd '23!) Currently working on Lilac, helping neoclouds operate quality GPUs at scale.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4052bd2e866b8460ca058a8fff43ad5c446f355c.jpg"
+      },
+      {
+        "name": "Ryan Ewing",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rjewing/",
+        "bio": "I'm Ryan, a software engineer with a background in building cloud and networking services at AWS. Currently working on Lilac, helping neoclouds operate quality GPUs at scale. www.getlilac.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb13aa0cdc322cde8ee75db007c6ad439670d73c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1793,7 +1840,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Catherine Jue",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/juecd",
+        "twitter": "https://twitter.com/juecd__",
+        "bio": "Co-Founder and CEO @ Kernel. Previously co-founder @ Sway Finance (S16)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/76b95b6560f6faac427383c9b5fe708d1421927d.jpg"
+      },
+      {
+        "name": "Rafael Garcia",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/rafgarcia/",
+        "twitter": "https://twitter.com/rfgarcia",
+        "bio": "Co-founder and CTO at Kernel. We're making browser infra fast. Previously co-founder and CTO at Clever (S12, exited for $500m).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/70c4b460440085cf060e26d5a87677498f80b80b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1831,7 +1895,32 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joe Fioti",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/joe-fioti-24a986189",
+        "twitter": "https://x.com/joefioti",
+        "bio": "Generating GPU kernels automatically to speed up ML models. Ex-Intel, worked on CPU microcode and ML accelerators.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0583e75ba29d754c8f1ed1c3827cf290ad883aae.jpg"
+      },
+      {
+        "name": "Matthew Gunton",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/matthewjgunton/",
+        "twitter": "https://x.com/matthewjgunton",
+        "bio": "Co-founder at Luminal AI. Ex-Amazon engineer, with globally deployed projects automatically finding issues in the Amazon fulfillment network and cost effectively fixing them",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/15de4b81bdb4fc504eb3cf421a355e8a3e6a6d8e.jpg"
+      },
+      {
+        "name": "Jake Stevens",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jake-stevens-",
+        "twitter": "https://x.com/stake_jevens",
+        "bio": "Cofounder at Luminal: generating GPU kernels automatically to speed up ML models. Ex-Apple. Talk to me about donuts or compilers or both :)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b4844719d9e9c9bd7f7cd8d3f02862f691340f0d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

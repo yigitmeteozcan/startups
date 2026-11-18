@@ -216,7 +216,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ayaan Parikh",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ayaan-parikh",
+        "bio": "Building agents to find and acquire early-stage drug assets. Stanford CS + Bio Built 3 healthtech startups (telemedicine, addiction recovery, hydroponic systems). Published 4 papers on molecular dynamics. Biotech VC and consulting experience.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ae7004ae9a37271f3847d9919c6c0cd92a310ac2.jpg"
+      },
+      {
+        "name": "Rahul Vijayan",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/rahulvijayan28/",
+        "bio": "Building agents to find and acquire early-stage drug assets. Stanford CS + Econ Built 3 healthtech startups (telemedicine, gamified recovery, hydroponic systems).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b62fd8479d819d4020ab4de6ddaa6a655eccfd2a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

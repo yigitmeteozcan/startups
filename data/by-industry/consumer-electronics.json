@@ -1323,7 +1323,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rosalind Shinkle",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/rosalind-shinkle",
+        "twitter": "https://twitter.com/ros_shinkle",
+        "bio": "Ros is the founder and CEO of Tuesday Labs. Before starting Tuesday, Ros was a Staff Robotics Engineer at Boston Dynamics, where she worked on the Spot Manipulation team. At Boston Dynamics, Ros engineered the algorithms that tell the Spot arm how to interact with the world, e.g. how to inspect manufacturing lines and place sensitive objects. Ros has a BSE in Mechanical Engineering and Applied Mechanics and a Master’s in Robotics from UPenn.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/480b24eb70dc949df4b776fbee39a4773c66c476.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1547,7 +1556,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Toussaint",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alex-toussaint-51a439189/",
+        "twitter": "https://x.com/alextoussss",
+        "bio": "Built one of the first in-air phased array sonar when I was 18. Worked on aerial guidance and navigation. Now building micro-drones that kill mosquitoes. https://alextoussaint.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3e686ab9fccb273e6202af5ff0020bbd13e1e13f.jpg"
+      },
+      {
+        "name": "Clovis Piedallu",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/clovispiedallu/",
+        "twitter": "https://x.com/ClovisPiedallu",
+        "bio": "French engineer, working on autonomous mosquito-killing micro-drones",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dc5e38c6e3ab9641c13073fea9dee85000534f00.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

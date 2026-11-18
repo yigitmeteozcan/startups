@@ -189,7 +189,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alec Olesky",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/alec-olesky/",
+        "bio": "Co-founder at RowFlow. Previously was a quant trader at Virtu Finacial and Hack VC, and before that a software engineer at Meta. I studied comp-sci at UPenn (where I met my cofounder Jack).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8d75427aa8a932c888124781295ebcbcc3713ed6.jpg"
+      },
+      {
+        "name": "Jack Bubes",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/jack-bubes/",
+        "bio": "Jack is the co-founder of RowFlow. He spent 8 years scaling marketplaces at Uber, Shef (YC19), and Faire (YC17), where he built 0-to-1 operational systems, standardized messy onboarding flows, and most recently led human-in-the-loop ML programs. He holds a degree in Statistics and Operations from Wharton, where he graduated in 2017.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9bd2d6d42c702f0649b3a9248d8017043627dcac.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -770,7 +770,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joe Kennedy",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/joekndy",
+        "twitter": "https://www.twitter.com/joekndy",
+        "bio": "Making Mixy",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9f7fc8528354984cf5755d40bdabce2a00649320.jpg"
+      },
+      {
+        "name": "Jonah Siegle",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/jonahsiegle",
+        "twitter": "https://x.com/jonahsiegle",
+        "bio": "Building Mixy, the new way to make music.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3254f9c6ea8002c211112defb0f7e93841b6e3d3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
