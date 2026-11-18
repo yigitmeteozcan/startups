@@ -1066,7 +1066,23 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chafik Belhaoues",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chafik-belhaoues-%E2%98%81-4145b320/",
+        "twitter": "https://twitter.com/ChafikBelhaoues",
+        "bio": "- Engineer with 17 years of experience on infrastructures (SRE, cloud architect, then software developer) - Former CTO of Scaleway (french cloud provider) - CEO at Brainboard.co",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da747ede5d673ae5a5f0d9fc0c7db1c435dd2634.jpg"
+      },
+      {
+        "name": "Jeremy Albinet",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jeremy-albinet/",
+        "bio": "- 10 years designing Cloud architectures and building infrastructures - co-founder of Brainboard - former SRE @Scaleway",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0c9f80e3928db234f29e441262a0149df1f3ca22.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

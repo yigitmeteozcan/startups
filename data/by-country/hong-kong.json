@@ -485,7 +485,24 @@
     "teamSize": 70,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tim Lee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tim-lee-a8676896/",
+        "twitter": "https://twitter.com/timleect",
+        "bio": "Co-founder of DimOrder. Oversees sales, strategy and direction at DimOrder. Previous life in running a cafe and a Japanese restaurant, after years in the financial field doing wealth management. Graduated from University of Warwick, studying economics. A food lover, tennis player and F1 fan.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c1287a74903b1d816b0d484c5313b5c93e7f70ac.jpg"
+      },
+      {
+        "name": "Ben Wong",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dobenwong/",
+        "twitter": "https://twitter.com/DimOrderBen",
+        "bio": "Founder of DimOrder. Oversees operation and direction of DimOrder. Ben has been in F&B industry for over 5 years, ran a 20-staff 3000sq. ft. Japanese restaurant and bubble tea shops. Ben has expertise in the financial ecosystem, especially in payment clearing, loan model, and cash management.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/247befd0218c75847f1b3fdc23d1940edc6f2f30.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -32,7 +32,16 @@
     "teamSize": 80,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Hugo Tarlé",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hugotarle",
+        "twitter": "https://twitter.com/hugotarle",
+        "bio": "Co-Founder and COO, Beyond Aero",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c1a4c38d8fa034a904aaaa01c18b4aa722bdab5b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -76,7 +85,25 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shawn Drost",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shawndrost/",
+        "twitter": "https://twitter.com/shawndrost",
+        "bio": "Shawn Drost is the co-founder and CEO at Phoenix Hydrogen. Previously: Founder @ Hack Reactor Once ran a marathon without training; big toe still clicks Dad to two toddlers (!!)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1faa257f101a58c305bbb64e82d0f47489aed028.jpg",
+        "active": false
+      },
+      {
+        "name": "Terence Vomocil",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/terence-v-a5916151/",
+        "bio": "Building green hydrogen midstream infrastructure supported by underground storage, a digital trading platform and creation of regional hydrogen hubs.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ade0de0bf8b16b47124119b3dcddccaebace3175.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

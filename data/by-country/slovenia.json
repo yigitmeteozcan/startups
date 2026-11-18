@@ -367,7 +367,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Miha Mlakar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mlakarmiha",
+        "twitter": "https://twitter.com/MihaPopsy",
+        "bio": "Co-founder at Tingles (YC W18) Co-founder at Popsy (YC S22)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3e8b5786ce744fb73dbd63049169347ea6e4d0b9.jpg"
+      },
+      {
+        "name": "Mourad Mourafiq",
+        "role": "Founder",
+        "linkedin": "https://github.com/mmourafiq",
+        "twitter": "https://twitter.com/mmourafiq",
+        "bio": "Loves building products. More info on: https://mourafiq.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/43ad0f4832d6b99f6792f7c59f3c3bf0886b3788.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

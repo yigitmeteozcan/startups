@@ -116,7 +116,23 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Myra Arshad",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/myra4/",
+        "twitter": "https://twitter.com/thealttex",
+        "bio": "Hey, I'm Myra - Co-founder and CEO of ALT TEX. Coming from a family background in textile manufacturing, I'm disrupting the $2.5 trillion fashion industry with better and more sustainable materials. Prior to ALT TEX, I held corporate roles in sales and marketing at Fortune 500 companies, before founding fluidic – a direct to consumer lifestyle brand. Prior to fluidic, I built FarmBox, a Hult Prize backed, AI micro-farming technology that enabled food sustainability in refugee camps.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a7545ee525a8ce037e02092f3887cf6713e3ead5.jpg"
+      },
+      {
+        "name": "Avneet Ghotra",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/avneet-ghotra-51284728/",
+        "bio": "Hi, I'm Avneet - Co-founder and CTO of ALT TEX. I left medical school to build ALT TEX. With education and research background in biochemistry & environmental science, I lead the R&D behind ALT TEX’s food waste to fabric mission. Prior to medical school & ALT TEX, I founded Approaching Zero, a non-profit dedicated to reducing plastic pollution through production of reusable cotton produce bags. Continuing that vision, I am now building a global solution for fashion's polyester pollution.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0b966fc74e0d1cba5fdf62f691cfb77b4d977a4a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

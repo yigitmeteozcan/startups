@@ -431,7 +431,34 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nathalie Capati",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nathaliecapati-energy/",
+        "twitter": "https://twitter.com/nathaliecapati",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/74a6409c4112f8b3bd2c60fe57c0356130ea3773.jpg",
+        "active": false
+      },
+      {
+        "name": "Dalton Combs",
+        "role": "Founder/CPO",
+        "linkedin": "http://www.linkedin.com/in/TDaltonC",
+        "twitter": "https://twitter.com/TDaltonC",
+        "bio": "Minds, Machines, Markets",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/07e30ca7ed274fd37ee0fe1d9e267088543377fd.jpg",
+        "active": false
+      },
+      {
+        "name": "Matt Mayberry",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthewmayberry",
+        "twitter": "http://www.twitter.com/mattmayberry",
+        "bio": "on a relentless mission to see what man can make of man 🏴‍☠️",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f3d6164fdd441abfdf9d1f715034fe2f643540aa.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

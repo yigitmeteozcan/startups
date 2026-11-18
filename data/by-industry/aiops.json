@@ -683,7 +683,15 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Walter Pintor",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/walter-pintor/",
+        "bio": "Walter is the CTO and co-founder of Query Vary, a startup specializing in prompt design, testing, and refinement tools, with a focus on reliability, latency reduction, and cost optimization. Prior to this, he founded Syncware, a warehouse optimization software tool. He similarly worked automating complex systems and products during his time at the largest research institute in Singapore. His background is in aerospace engineering and mechatronics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4d671c1d6eee0d94b8e6a4eb95a9505c81c1c11b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -728,7 +736,17 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Emmanuel Turlay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/emmanuelturlay/",
+        "twitter": "https://twitter.com/neutralino1",
+        "bio": "Hi, I am Emmanuel. I spent my foundational years in academia (particle physics research at CERN) then branched out into tech. I built the order and payment infrastructure at Instacart, and lead ML platform at Cruise. I am the CEO and co-founder of Sematic (S22). Reach out and say hello.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/69cdd805022f44e70ed65f68b182f02ab503f7ab.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

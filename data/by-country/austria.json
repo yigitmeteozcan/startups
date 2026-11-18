@@ -399,7 +399,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Putzer",
+        "role": "Founder",
+        "linkedin": "",
+        "bio": "dev",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4ac50a0c8e065d2f3de7f02a6d7c63fe0ab1e9b8.jpg"
+      },
+      {
+        "name": "Philipp Weber",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/philipp-weber-a8517b231/",
+        "bio": "Building Pluralith",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c679d454ea367a6d7598db186b1f76063d6e968.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

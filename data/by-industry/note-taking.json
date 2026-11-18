@@ -149,7 +149,30 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alan Chan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yu-an-chan/",
+        "twitter": "https://twitter.com/alanchan_tw",
+        "bio": "I'm the co-founder and CEO of Heptabase. I previously studied CS at Minerva University (2019), Physics & Math at National Taiwan University (2016) and voluntarily dropped out from both of them to pursue better ways of learning. I want to help people learn better, think deeper, and make sense of the massive information in our complex world. To achieve that, we're building the best learning tools that will sit on top of a global knowledge discovery platform.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b119a817a4ac00d1c9940abcaa4e6e8b855ffddb.jpg"
+      },
+      {
+        "name": "Yeefun Lin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yeefun/",
+        "bio": "I'm the co-founder and CTO of Heptabase. I studied Sociology at National Taiwan University (2019) and became a software engineer through self-learning. I believe the best knowledge management can produce the greatest ideas. Starting from Heptabase, we want to reinvent the whole knowledge management system.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/496945c39036aa8818f5dabdeca4192e3cb393ac.jpg"
+      },
+      {
+        "name": "Ethan Wu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yc-wu/",
+        "bio": "I’m the co-founder and product designer of Heptabase. Starting with my electronics engineering background in university, I ended up becoming obsessed with information design. I have a deep belief that knowledge coming from cross-disciplinary exploration plays a crucial part in human technology progress, and Heptabase’s original design began from here.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a2c595698ca716b328ff6a879dda47c0d25dde39.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

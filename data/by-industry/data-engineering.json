@@ -2480,7 +2480,16 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joseph Sciarrino",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jsciarrino12/",
+        "twitter": "https://twitter.com/JoeSciarrino",
+        "bio": "CEO, Hydra Former PM @ MSFT Azure Open-Source Databases team. Heroku (W08) and Citus Data (S11) alum",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4f798def8e78bebf37b918e014a9a4d933b47fc2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2520,7 +2529,38 @@
     "teamSize": 17,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexandros Andre Chaaraoui",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandrosandre/",
+        "bio": "I'm a Software Engineer and I love to apply AI in the industry. After obtaining a PhD in Machine Learning, I joined Google to work on Computer Vision for Android and NLP for the Google Assistant, where I owned the Weather vertical. I left to start and lead a ML Team at the 90-year old Rohde&Schwarz. There we patented and launched metrics for Data Analytics based on Deep Learning. As a founder at Trackingplan, I'm managing the technical department and people coordination.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2cfd581f2f7472b0f6cce73648bb9d1a095a0326.jpg"
+      },
+      {
+        "name": "Jose Padilla",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joserpadilla",
+        "bio": "Hi there! Trackingplan co-founder here. Our team joined because we had the need to do something. We had suffered a well-known problem: bad data. Relying on bad data to take business decisions is a pain in the ass. As we are enthusiasts in software, artificial intelligence and business, we had to do something about it. Trackingplan was born. I've built many kinds of software before, from desktop apps to home automation systems. So I'm excited about building Trackingplan and kill -9 bad_data",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/57958584b59af24275e076f412224702cb4d52f0.jpg"
+      },
+      {
+        "name": "Jose Luis Perez",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/joseluisperezgonzalez",
+        "twitter": "https://twitter.com/joseleperez",
+        "bio": "I'm born and I live in Spain. I love creating products that matter, dogs and soccer. I studied CS and founded three tech companies, where I took the role of CEO and product lead, but I try to code when my smarter fellows don't see me. At Guiomatic, we sold millions of custom travel guides to airlines At Hooks, we sent billions of notifications to millions of users. At Techstars we learned a lot. Now at Trackingplan, we help companies trust their data.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e4eb6db66a485252ca4e05bffc788ca1fe74042c.jpg"
+      },
+      {
+        "name": "Pedro Trujillano",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pedrotrujillano/",
+        "twitter": "https://twitter.com/ptrujillano",
+        "bio": "Business and technical oriented. Worked in development, product, operations and sales. 3x founder and VC.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/15c5f1e78ecdb733b04a1750f397913e7b11bf0e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2560,7 +2600,33 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vinesh Arun",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vinesharun/",
+        "bio": "Founder @ Bracket. Formerly at Shipper (YC W19) and Oliver Wyman",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cf4a3af30b304d1f27cd4ad2cbfb7a303c9d02d8.jpg",
+        "active": false
+      },
+      {
+        "name": "Kunal Garg",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kunalrgarg/",
+        "bio": "Building @ Bracket. Previously: Brokerage Ops Engineering @ Wealthfront, Product/Engineering @ Redfin, Internal Tooling Engineering @ Facebook Passionate about real estate investing, fintech/financial literacy, quality design, concussion therapy, Catan, biking and volleyball.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8b8f89b18fb9abaa0e39a7991dfd9bbbc9bc74d6.jpg",
+        "active": false
+      },
+      {
+        "name": "Ian Yanusko",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ian-yanusko-6b240591/",
+        "twitter": "https://twitter.com/IanYanusko",
+        "bio": "Building two-way data syncs @ Bracket (W22). Previously Product @ Shipper Indonesia, Fellow @ Alter Global, and Research Associate @ Cornerstone/ Passionate about bikes, mycology, Catan, and my synth.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1c621d3cf0d77ed92abaad134b555e2e0314c165.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2601,7 +2667,16 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Luke Singham",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/lukesingham",
+        "bio": "Formerly, Data Platform Engineer and data lead at Monzo, previously at Palantir working across the commercial and government sectors. Over 10 years in the data industry.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5aeccb33236c162e1e0eed45e0a9601c3e75e914.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2643,7 +2718,24 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Etienne Bernard",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/etiennebcp/",
+        "twitter": "https://twitter.com/etiennebcp",
+        "bio": "Physics PhD @ ENS & MIT Ex head of ML @ Wolfram Research Author of \"Introduction to Machine Learning\"",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/243e2ea9be95bc503ba2d1eb595aef52d47385a9.jpg"
+      },
+      {
+        "name": "Samuel Bernard",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/samuelbernardphd/",
+        "twitter": "https://twitter.com/TaXules",
+        "bio": "After a PhD in Distributed Systems, Samuel was an early employee of Criteo, the Technology Innovation leader at S4M, co-founder & CTO at Make.org, and an independent coach/advisor of start-ups & data teams. Over the years he refined his skills and became an expert in DevOps/DataOps and at managing tech teams. He is now founder & CTO at Numind.ai.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a0bad7d23931a032c19234d3534578f089ced5a3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2685,7 +2777,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dustin Lange",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dustin--lange/",
+        "bio": "Dustin is co-founder of Midplane. Dustin has 8.5 years of industry experience at Amazon as Machine Learning Scientist and Applied Science Manager. He founded a team that built tools for data quality measurement and cleaning, including Deequ (2.4k+ stars on GitHub). Dustin later owned data products powering the Amazon product search page, used by millions of users every day. Dustin holds a PhD in database systems from Hasso Plattner Institute, Potsdam, Germany.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0236f2b924cc4a53bf62faedf2455f746f33d45b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2728,7 +2828,16 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ian Eaves",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ieaves/",
+        "bio": "Ian is a recovering ex-physicist turned machine learning engineer with experience building MLE teams everywhere from startups (Bellhops) to fortune 50 companies (Centene). An active open source contributor he's written software with over 11M downloads (Visions). Grai was born from the pain of working on distributed data particularly within enterprise settings.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a0e6ffe7f84a454640193fd1395f3940c644a5db.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2771,7 +2880,23 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Wolf",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/falexwolf/",
+        "twitter": "https://twitter.com/falexwolf",
+        "bio": "Building open-source data infra for biology at Lamin. Previously, created Scanpy and led the build-up of Cellarity’s compute platform.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/534fd23c014da309d8eb5c4831d5e1693d48ddc3.jpg"
+      },
+      {
+        "name": "Sunny Sun",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/sunnyosun",
+        "twitter": "https://twitter.com/sunnyosun",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f46137e52adf8e8d65c130efd41cc0e1224d0c92.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2813,7 +2938,24 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sidney Rema",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sidney-rema-90138658/",
+        "twitter": "https://twitter.com/sidneyrema_?t=Xr0rdOT-gm2VdRYFbatHRg&s=09",
+        "bio": "Co-Founder at Patika - helping finance, marketing, operations, and revenue teams automate the manual data processes they currently do across spreadsheets, emails, PDFs, and disconnected systems. Trained as a Medical Doctor (Partly). 5 Years+ experience in Banking - Extending credit to micro & small businesses in Nairobi, Kenya. In my previous company, built payments systems with $10M+ monthly GTV across Kenya, Nigeria & Uganda.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f20e08b1b2e80d24a7c4471aaa97390f5c8c5d36.jpg"
+      },
+      {
+        "name": "Phelix Juma",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/phelix-juma-80877193/",
+        "twitter": "https://twitter.com/jumaphelix",
+        "bio": "Co-Founder & CTO at Sanifu - helping finance, marketing, operations, and revenue teams automate the repetitive work they spend hours doing manually in spreadsheets I previously helped 3 companies build payments systems that processed $10M in monthly GTV across Kenya, Uganda and Nigeria. I am an EE graduate from University of Nairobi with background in information systems, banking, payments integration and data science",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9b18e418314e77cd9e88fc431aa560d38311e408.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2854,7 +2996,29 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alan Pham",
+        "role": "Founder",
+        "linkedin": "",
+        "bio": "I graduated from UC Berkeley with Bachelors and Masters in EECS, conducting speech, systems, and machine learning research in image and natural language processing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a27a72c37109c1c901b876de9031cf673fae0a04.jpg"
+      },
+      {
+        "name": "Ivy Pham",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ivylp/",
+        "bio": "I graduated from Harvard with my B.A. in Economics and have a professional background in product management and business analytics. I'm interested in building solutions that can streamline workflows and improve efficiency.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b49108171ea04ad67b3241a46a410968686a66df.jpg"
+      },
+      {
+        "name": "Vikranth Srivatsa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vikranth-srivatsa-921067126",
+        "bio": "I graduated from UC Berkeley EECS doing systems and machine learning research. I do research as part of the UC Berkeley SKY Lab. I am interested in cloud/edge computing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3d8e2384ae9d830057dff97ffe8af9d508d6c350.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2896,7 +3060,24 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andres Paez",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andrespaezmartinez/",
+        "twitter": "https://twitter.com/APaezMx",
+        "bio": "Worked as a Software Engineer and Product Manager at Amazon Prime, Google Search and Google Cloud Platform for about 7 years. Have worked as the CTO of Casai and Valoreo for the last 3 years starting technology teams from scratch leading software engineers, hardware engineers, software managers, data engineers, data scientists, IT professionals, DevOps engineers, product managers and product designers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/224e0603789e0166a5ffd26612b9fe00f2bf79fb.jpg"
+      },
+      {
+        "name": "Edgar Cabrera",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/edgarcabrera-dev/",
+        "twitter": "https://twitter.com/aleandros",
+        "bio": "About ten years of Sofware Engineer Experience at startups of several stages. I have worked in developing products from scratch until they become scalable, robust systems. I love the feeling of my work bringing value to others.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c2dc5600f1710409129ac66012541518e8ca9acd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

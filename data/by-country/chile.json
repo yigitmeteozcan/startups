@@ -873,7 +873,30 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Antonia San Martin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/antoniasanmartinsola/",
+        "bio": "Founder at Plutto, building a verification service for businesses in Latin America.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eec5d2c3c3657fe3e4bf2fc4dd52b98666c13426.jpg"
+      },
+      {
+        "name": "Felipe Domínguez",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/fdominguezc",
+        "bio": "Fullstack Dev for some years, now co-founder @ Plutto. I spend a lot of time in the mountains.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c43fec48919ef86d4ed15645fd81c9af5c1a2280.jpg"
+      },
+      {
+        "name": "Ignacio Márquez",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ignaciomarquezc/",
+        "twitter": "https://twitter.com/iMarquezc",
+        "bio": "Graduated as Software Engineer. Worked a couple years as a full-stack developer and scrum master in Platanus, Chile. Co-founded a travel startup for 1 year. Now I'm CTO @ Plutto, building KYB solutions for Latin America.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/41ca14f3cd19638bf2b82772ff4191cae981864d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

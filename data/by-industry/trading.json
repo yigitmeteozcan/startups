@@ -238,7 +238,15 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "MJ Kim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mjkim-tech/",
+        "bio": "Founder/CEO at AYC Fund",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d54ee4060eede6474622197cd0c48975347e9f2b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -279,7 +287,25 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Zvada",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adam-zvada/",
+        "twitter": "https://twitter.com/adamzvada",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6246bed055f0895994dede7bfb72d572834643d8.jpg",
+        "active": false
+      },
+      {
+        "name": "David Mokos",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/david-mokos/",
+        "twitter": "https://twitter.com/davidmokos_",
+        "bio": "Professional vibe coder. Former AI/ML engineer. Now building steercode.com - a fully agentic way to build software.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e555fb6dd93e67b53e47ce834fd0ce225291e59.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

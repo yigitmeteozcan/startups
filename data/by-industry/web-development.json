@@ -336,7 +336,23 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Egan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-egan-4941a4145/",
+        "bio": "Co-founder of Bunting Labs, training custom AI models for GIS",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de1f5ca9527b98ffd46f3831e344b731c5337b55.jpg"
+      },
+      {
+        "name": "Brendan Ashworth",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brendanashworth/",
+        "twitter": "https://twitter.com/normconstant",
+        "bio": "Brendan studied physics + AI at MIT ('22). Previously: Software @ IBM, Minio, Node.js core team.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8f2b36903c21cccc6596ffebc13cc0dfc1a6b12f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

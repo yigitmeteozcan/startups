@@ -202,7 +202,16 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Feiszli",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/feiszli",
+        "twitter": "https://twitter.com/AFeiszli",
+        "bio": "Alex is the founder and CEO of Netmaker. Previously, Alex was a senior engineer at IBM, a consultant at Deloitte, and contracted for Red Hat. Alex has worked with over 20 enterprise clients, implementing solutions for DevOps, Kubernetes, and Multi-Cloud.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c693da00e697d8d9fb7d39c8b4fd377fac75c0a7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

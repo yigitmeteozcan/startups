@@ -235,7 +235,24 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Youssef Rizk",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/youssef-rizk-397b19107",
+        "twitter": "https://twitter.com/youssefarizk",
+        "bio": "Youssef co-founded Wondercraft after a 4 year stint at Palantir as a software engineer, where amongst other things, he led Palantir's startup practice, and met his co-founder, Dimi. Before Palantir, Youssef obtained an MEng from Imperial College London in EEE.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b0511bffdeb8b4d1ad42a2b53763f5992d38ed09.jpg"
+      },
+      {
+        "name": "Dimitris Nikolaou",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dimitris-nikolaou-29753080/",
+        "twitter": "https://twitter.com/dimireadsthings",
+        "bio": "Dimitris co-founded Wondercraft after spending 4 years as an engineer at Palantir, where he also met Youssef. Before that, he graduated with an MSc in CS from Imperial. During studies, he did a few internships as a Data Scientist and at a Hedge Fund.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e0636737dc5f948c5020c5143651d89db4ed175c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

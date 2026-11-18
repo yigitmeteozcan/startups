@@ -1084,7 +1084,22 @@
     "teamSize": 16,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Karim Saleh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/karim-saleh99/",
+        "bio": "Karim is the Co-Founder and CEO of Cerrion. Karim grew up in Egypt where he was a professional athlete and captain of Egypt's Water Polo national team. He represented his country at three world championships while simultaneously receiving an electrical engineering degree from ETH Zurich. Prior to founding Cerrion Karim has built Unicorn Labs which has helped 30+ startups build their MVPs.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cb42488af359b4f1c8fea2fff34c6605bde806f2.jpg"
+      },
+      {
+        "name": "Nikolay Kobyshev",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nkobyshev/",
+        "bio": "Nikolay is the co-founder and CPO of Cerrion. He is in charge of building a product that Cerrion's users will truly love, and customer success. He is a serial entrepreneur in the AI and CV space. Prior to Cerrion, Nikolay has built Spectando, an AI engine which generates photorealistic 3D models of real estate objects, and Assaia, a B2B Computer Vision solution which detects irregularities in airports’ ground operations. Nikolay holds PhD and MSc degrees in Computer Vision from ETH Zurich.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/70bc945d7f0dadb179d9b7b52d4fa153e09efada.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

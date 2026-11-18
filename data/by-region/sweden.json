@@ -299,7 +299,23 @@
     "teamSize": 13,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexander Björkenstam",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexander-bjorkenstam/",
+        "twitter": "https://twitter.com/BjorkenstamAlex",
+        "bio": "Hey, I’m Alex! I like building stuff 🧑‍💻",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9cb4e4af9ddcc5b2cb29fde0aee5daaa10fbf530.jpg"
+      },
+      {
+        "name": "Edvin Fernqvist",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/edvin-fernqvist-88102616a/",
+        "bio": "During the onset of the Corona pandemic I looked for ways to help out and started to source and produce PPE. Coming in contact with the hard pressed nurses and doctors working in ICUs and other facilities I soon found there were other more pressing issues to be solved. When I met my co-founders we decided to band together to create Bemlo and reverse the deteriorating situation we saw in healthcare staffing and recruiting.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/58e1543eab043a9f90b3c673a715abdf4dea6825.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

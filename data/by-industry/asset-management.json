@@ -1521,7 +1521,15 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "MJ Kim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mjkim-tech/",
+        "bio": "Founder/CEO at AYC Fund",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d54ee4060eede6474622197cd0c48975347e9f2b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1563,7 +1571,35 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shashank Khanna",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/skhanna3/",
+        "twitter": "https://x.com/shashankbuilds",
+        "bio": "Shashank runs GTM engineering at Vanta. He was previously the co-founder and CEO of Cashmere. Before starting Cashmere, he was a software engineer at Amazon and SoFi. Shashank graduated from UCLA where he studied computer science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f9912f14af274ab8b842388a63647fffddf16533.jpg",
+        "active": false
+      },
+      {
+        "name": "Rebecca Lee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rebeccablee1",
+        "twitter": "https://twitter.com/beccablee",
+        "bio": "Busy building something new. Hiring values-first people in marketing and growth. She previously founded Juicebox and Cashmere Finance. In her early career, she worked at companies of all growth stages, including Facebook, Retool, and Affirm. She attended Harvard University and Rice University, studying Psychology, Electrical Engineering, and Computer Science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ecf55c455d98e4a2654b58a7cede1dd6d3d3b576.jpg",
+        "active": false
+      },
+      {
+        "name": "Charlotte McGinn",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/charlottemcginn/",
+        "twitter": "https://twitter.com/charmcgi",
+        "bio": "Founder and CEO of Telltale, the platform that makes autoimmune disease easier to manage. Previously the CTO and co-founder of Cashmere. Graduated from UCLA with a degree in computer engineering.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/242b5969a70d8a7287c5c42d7ea0e252e6133d03.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1605,7 +1641,25 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Abusaid",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/david-abusaid/",
+        "bio": "David Abusaid holds a BS Civil Engineering from Tec de Monterrey and an MBA from IESE Business School in Barcelona. He has more than 12 years of experience providing consulting services to financial institutions, working in more than 15 countries globally with McKinsey & Company and Oliver Wyman in Mexico and Miami. David is one of the co-founders of Weltio, where he has been working for the last 9 months, leading the areas of Administration, Legal, Partnerships, Human Capital and Accounting.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/90f139859c56aa48bcf349fda30ad0f4334f77eb.jpg",
+        "active": false
+      },
+      {
+        "name": "George Marvin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gcookmarvin/",
+        "twitter": "https://twitter.com/georgecook",
+        "bio": "George has over 4 years of product managment experience in fintech, working for Klarna and Wayfair in Berlin, previously he helped tradicional financial institutions embark on their digital transformations during his 8 years of consulting at McKinsey. He holds an MBA from London Business School, and BS in mechatronics engineering from Tec de Monterrey.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/abfbfd7505780a63349dea5a8d5cfab302220375.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1647,7 +1701,24 @@
     "teamSize": 11,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Prashant Upadhyay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/prashant-upadhyay/",
+        "twitter": "https://twitter.com/prashantupd",
+        "bio": "Co-founder @ PrimeVault - turnkey technology platform for enterprises and financial institutions to launch and scale their digital assets use case: stablecoin-powered payments and issuance, RWA tokenization, crypto trading / brokerage and more. Formerly, first PM @ Rippling (YC W17) building and scaling payroll, payments, compliance, risk and accounting products. Math, payments and travel nerd.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/17bbdd3ebf93ec39702cd94d4953478a00f5aa0c.jpg"
+      },
+      {
+        "name": "Vivek Kumar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vivek-kumar-578013119/",
+        "twitter": "https://twitter.com/vivek_kumar_15",
+        "bio": "Co-founder @ PrimeVault, Former Tech lead at Rippling",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/201e6eab4b6bcbcb45124b879c90179fe3e3a9b3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

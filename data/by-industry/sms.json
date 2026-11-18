@@ -152,7 +152,26 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nick Rubin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nick-rubin-6729569a/",
+        "twitter": "https://twitter.com/nickrubin",
+        "bio": "Stanford '21. Building things since age 13, including a viral Chrome extension, an Ethereum prediction market and bots to buy streetwear. I love books and travel – ask me about my 11,000-mile train trip.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/98e8532624b6886a17d74a3ffbfcaa960edf414b.jpg",
+        "active": false
+      },
+      {
+        "name": "Daniel Lewis",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/daniel-lewis-34b9b7ba/",
+        "twitter": "https://twitter.com/snackbardan",
+        "bio": "Building tools to help creators monetize their expertise and insights. Tufts '20. DC born and raised.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/70e0518b6b0f8b59e640b7b70ed3581c43fce93a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

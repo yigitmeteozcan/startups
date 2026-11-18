@@ -431,7 +431,24 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Govinda Upadhyay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/govindaupadhyay/",
+        "twitter": "https://twitter.com/goviupadhyay",
+        "bio": "Husband | Father | Sustainability | Climate change warrior| I am is a serial entrepreneur and work in climate domain. I want to accelerate the adoption of clean tech in our society. I have a background in Physics, Smart electrical system and climate change. I studied in Sweden, Netherlands, Switzerland and India. I am an Indian, married to a Swiss/Japanese and live in Switzerland. I like food and travel. I became father recently. I want my child to live in a better world than mine.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/677648cf75273fed78d212c3681364b7bb0db406.jpg"
+      },
+      {
+        "name": "Neeraj Dasila",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/neerajkumardasila",
+        "twitter": "https://twitter.com/dasila_neeraj",
+        "bio": "Born and bred in a remote Himalayan hamlet, I learned early on how tech or even the smallest innovation can help improve the quality of life of people. With this vision, I studied Electrical Engineering at IIT Bombay and later worked on Connected Vehicles & Electric Mobility as a product manager at TATA. Then, I moved to the Govt. of India to work on sustainable energy transitions. Today, my aim is to build affordable & scalable solutions for all to tackle climate change.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c72dd3d57dc9c9fef845f45982a8d74e333b986.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -474,7 +491,24 @@
     "teamSize": 170,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Doug Barnett",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/doug-barnett-74653816/",
+        "twitter": "https://twitter.com/dbreezee1",
+        "bio": "I have worked in sales, sales operations and marketing my entire career. Most recently led Marketing for Vivint (NYSE:VVNT) which sold to NRG.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3303867e77ecb7e145493426d72ddf491d56771d.jpg"
+      },
+      {
+        "name": "Brant Choate",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brantchoate/",
+        "twitter": "https://twitter.com/brantchoate",
+        "bio": "CTO @ Remi. I've been an IC designer, engineer, and PM. Led Product @ Podium (YC W15) from $1M - $100M ARR.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a78d54bdae0a2f6d6d5d238d93dca3ef21b1ae5b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -516,7 +550,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Idan Shahar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/idan-shahar/",
+        "twitter": "https://twitter.com/sh_idan",
+        "bio": "I always operate at the forefront of technology, curious about Kubernetes, App Innovations, Cloud Native, and OSS technologies. I enjoy partnering with developers and C-level executives to realize the value of Cloud Native through, public speaking, communities, and hackathons. I've been a backend developer most of my life, and in the last few years, I helped companies build and modernize Cloud Native applications.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/72d905a5a098b2ed28329a16eb8eb3e325efa0b8.jpg"
+      },
+      {
+        "name": "Itai Peri",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/itayperry/",
+        "bio": "I'm super passionate about entrepreneurship, and have been in this area for the past 6 years. I come from a background of Software Engineering and Machine Learning, and love to solve complex problems using these two disciplines. In the past I've been CTO of a B2C startup, and as a Data Scientist in another startup led a project for identifying diseases in trees using advanced Computer Vision algorithms. Nowadays I'm working to help companies better manage their delivery pipelines.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1a61f264e74c8443fc4c1b0a0706e7c577c4c7b6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -559,7 +609,34 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nathalie Capati",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nathaliecapati-energy/",
+        "twitter": "https://twitter.com/nathaliecapati",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/74a6409c4112f8b3bd2c60fe57c0356130ea3773.jpg",
+        "active": false
+      },
+      {
+        "name": "Dalton Combs",
+        "role": "Founder/CPO",
+        "linkedin": "http://www.linkedin.com/in/TDaltonC",
+        "twitter": "https://twitter.com/TDaltonC",
+        "bio": "Minds, Machines, Markets",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/07e30ca7ed274fd37ee0fe1d9e267088543377fd.jpg",
+        "active": false
+      },
+      {
+        "name": "Matt Mayberry",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthewmayberry",
+        "twitter": "http://www.twitter.com/mattmayberry",
+        "bio": "on a relentless mission to see what man can make of man 🏴‍☠️",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f3d6164fdd441abfdf9d1f715034fe2f643540aa.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

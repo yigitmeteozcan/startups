@@ -89,7 +89,35 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shashank Khanna",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/skhanna3/",
+        "twitter": "https://x.com/shashankbuilds",
+        "bio": "Shashank runs GTM engineering at Vanta. He was previously the co-founder and CEO of Cashmere. Before starting Cashmere, he was a software engineer at Amazon and SoFi. Shashank graduated from UCLA where he studied computer science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f9912f14af274ab8b842388a63647fffddf16533.jpg",
+        "active": false
+      },
+      {
+        "name": "Rebecca Lee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rebeccablee1",
+        "twitter": "https://twitter.com/beccablee",
+        "bio": "Busy building something new. Hiring values-first people in marketing and growth. She previously founded Juicebox and Cashmere Finance. In her early career, she worked at companies of all growth stages, including Facebook, Retool, and Affirm. She attended Harvard University and Rice University, studying Psychology, Electrical Engineering, and Computer Science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ecf55c455d98e4a2654b58a7cede1dd6d3d3b576.jpg",
+        "active": false
+      },
+      {
+        "name": "Charlotte McGinn",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/charlottemcginn/",
+        "twitter": "https://twitter.com/charmcgi",
+        "bio": "Founder and CEO of Telltale, the platform that makes autoimmune disease easier to manage. Previously the CTO and co-founder of Cashmere. Graduated from UCLA with a degree in computer engineering.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/242b5969a70d8a7287c5c42d7ea0e252e6133d03.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

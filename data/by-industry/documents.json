@@ -680,7 +680,23 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Marvin Musialek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/musialek",
+        "twitter": "https://www.x.com/marvinmusialek",
+        "bio": "I started several companies and sold most of them. With my last venture, we developed a toothbrush that brushes all teeth simultaneously in 10 seconds. We raised $8mio through crowdfunding and shipped over 45k units to users. Eventually, the company tanked, but this and my previous experience with my startups gave me the right learnings and focus for building something big.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/175bf30624240c4eff1f50317233c1cb305e9f26.jpg"
+      },
+      {
+        "name": "Florian Braeuer",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/flobraeuer",
+        "bio": "For 22 years I am a developer and for 8 years a startup founder. My passion is to turn cutting-edge technology into products that change the behavior of millions 🤩 My data-analytics and full-stack dev background gives me a laser-sharp focus on how to build things fast and scalable 🚀",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ea5a4b3a449b13d1cb2b595d7008d190f539c380.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -722,7 +738,24 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Etienne Bernard",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/etiennebcp/",
+        "twitter": "https://twitter.com/etiennebcp",
+        "bio": "Physics PhD @ ENS & MIT Ex head of ML @ Wolfram Research Author of \"Introduction to Machine Learning\"",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/243e2ea9be95bc503ba2d1eb595aef52d47385a9.jpg"
+      },
+      {
+        "name": "Samuel Bernard",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/samuelbernardphd/",
+        "twitter": "https://twitter.com/TaXules",
+        "bio": "After a PhD in Distributed Systems, Samuel was an early employee of Criteo, the Technology Innovation leader at S4M, co-founder & CTO at Make.org, and an independent coach/advisor of start-ups & data teams. Over the years he refined his skills and became an expert in DevOps/DataOps and at managing tech teams. He is now founder & CTO at Numind.ai.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a0bad7d23931a032c19234d3534578f089ced5a3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -765,7 +798,16 @@
     "teamSize": 19,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Luigi La Corte",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/luigi-r-la-corte",
+        "twitter": "https://twitter.com/_luigilacorte",
+        "bio": "Luigi is the co-founder and CEO of Provision. Before co-founding Provision, he worked in the construction industry for seven years between Arup (a multi-disciplinary engineering design firm) as a civil engineer and Plenary (infrastructure developer) as a Director. He managed $3B+ of large infrastructure projects with some of the most sophisticated stakeholders across the value chain (owners, GCs, sub-contractors, facility managers).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b63b6fd552c5f9f80531f108ea4793a7cf9be3e2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -806,7 +848,36 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexander Maher",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maher-alex/",
+        "bio": "Alex started his career at a Big 4 Accounting firm as a CPA doing mostly IT audits. After teaching himself to code, he switched into an internal role at the firm managing software development teams. He left the accounting world in 2018 to become the Director of Software Development at a publicly traded telcom construction company. He worked there 4 years before leaving to start UpLink in May of 2022. Alex lives in Florida with his wife, Laura, and their two sons, Brooks (6) and Jack (2).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f04399733a06aa4accd291a026bf4ef66b0d15c.jpg"
+      },
+      {
+        "name": "Alexander Grant",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexgrant14",
+        "bio": "Alex is a strong technical leader with a passion for software development. He specializes in the end-to-end software delivery cycle, from writing scalable and understandable code to complete full-stack automated testing. Highlights of his career thus far include scaling a data acquisition platform from a dozen users in the US to 20k users globally over the course of 2 years.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/11e9e5a7a376140cbb7bd31122d0f4c9460f75ad.jpg"
+      },
+      {
+        "name": "Brady Ochse",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brady-ochse",
+        "bio": "Brady has always been obsessed with figuring out how things work, and his curiosity led him to computers. When he discovered the magic of making a machine do something with just words, he found a lifelong passion. That passion turned into disillusion when at a large company, but Brady realized software could be great with more emphasis on quality, the user, and thoughtful decision making. So, he left the corporate world to join people who share his love for building something truly great.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d6774d94bcda9b5475b1cf4b41163a273a75eaa1.jpg"
+      },
+      {
+        "name": "Nicholas Yarmesch",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nick-yarmesch",
+        "bio": "Ever since he can remember, Nick has been interested in technology. His idea of fun includes reading technical manuals for microcontrollers and reverse engineering the barcodes on Nespresso capsules. In college, he built the hardware and developed the software to retrofit his 2002 Lexus with a secure receiver that unlocked his car when he approached wearing his Apple Watch. You’re most likely to run into Nick in his blue Cayman on the trip between his house and Starbucks.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3700dc941c229df7e49eb70ffd4b245fe2497aa8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -848,7 +919,22 @@
     "teamSize": 35,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sanjay Mandava",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/sanjay-mandava/24/6aa/206",
+        "twitter": "https://twitter.com/mandava_sanjay",
+        "bio": "2x YC founder. First time with GoLorry and now Landeed. Before startups, I worked as proprietary trader/investment analyst at Knight Vinke (Activist Hedge Fund) and as a real estate developer. Currently, I am CEO and Founder of Landeed with focus on building India's (later for the developing world) fastest and most comprehensive property title search engine.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bd9c5dc6c65fb1885725a0ccba7fda256b061715.jpg"
+      },
+      {
+        "name": "J Richards",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jonathan-richards-26259bb6/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a283374f298717aae60f288d7876e8532be913ce.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

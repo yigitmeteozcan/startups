@@ -8,7 +8,7 @@ _Auto-generated from the dataset on 2026-11-18._
 | 🦄 Unicorns ($1B+) | **152** |
 | 💰 Exits | **2855** |
 | 🌱 B Corps | **29** |
-| 👤 Founder profiles | **12,766** |
+| 👤 Founder profiles | **13,515** |
 | Current session | **69** |
 
 ## By source
@@ -106,7 +106,7 @@ _Auto-generated from the dataset on 2026-11-18._
 1. **Fintech** — 2952
 2. **AI** — 1904
 3. **SaaS** — 1701
-4. **Artificial intelligence and machine learning** — 1668
+4. **Artificial intelligence and machine learning** — 1669
 5. **Mobile** — 1163
 6. **Consumer** — 1075
 7. **Healthcare** — 833

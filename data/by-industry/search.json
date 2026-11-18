@@ -180,7 +180,16 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tullie Murrell",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tullie/",
+        "twitter": "https://twitter.com/tulliemurrell",
+        "bio": "CEO of Shaped. Previously an AI researcher at Facebook AI Research (FAIR). Creator of PyTorchVideo & original core contributor to PyTorch Lightning. Passionate about anything AI, machine-learning and statistics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0b422fcadf175caaedc3de64e8d33a973558dd6e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -222,7 +231,25 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Royzen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michaelroyzen/",
+        "twitter": "https://twitter.com/michaelroyzen",
+        "bio": "Founder & CEO at Standard Signal (YC P26), building the first hedge fund where AI runs everything from research to the actual trade execution end-to-end. Previously co-founder & CEO at Phind (YC S22), where I built the first AI search engine and trained LLMs that beat GPT-4 on HumanEval (2024) and had the #1-ranked open-source coding model on Hugging Face for 6 months in 2023. UT Austin Turing Scholar '22 Previously an undergrad NLP researcher, as well as ML at Lyft, Cloudflare, and Microsoft.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/706f8f788e198ff32880b7ca40d15459d1f60a6e.jpg",
+        "active": false
+      },
+      {
+        "name": "Justin Wei",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/justinawei/",
+        "bio": "UT Austin Turing Scholar '22 Previously founder at Phind.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a72df97582d39522da4f3340edcc02a577a2b421.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -263,7 +290,22 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Austin McCoy",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/austin-mccoy-833600229/",
+        "bio": "Austin is a Caltech CS graduate with an emphasis in applied mathematics and finance. Austin has an academic background developing and publishing computer graphics technology and machine learning models at Caltech's Aerospace Robotics and Control (ARCL) laboratory. Austin also has experience launching and selling several small technology businesses ($100k - $1M ARR) centered around developing and selling B2B and B2C software products.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7e2b5d37a856a3a6ac6422a57220edd8c664fcaa.jpg"
+      },
+      {
+        "name": "Manvir Singh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/manvir-singh-abb298247/",
+        "bio": "Manvir is a self-taught software engineer who specializes in building robust and intuitive technology accessible to clients from all backgrounds. He has coordinated with his co-founder, Austin, on previous ventures and looks forward to bringing his experience to bear with Artemis.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5c1de568e5bc43f567f2cd40177ec5a5ca6092d6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

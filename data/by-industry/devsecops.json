@@ -980,7 +980,16 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Feiszli",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/feiszli",
+        "twitter": "https://twitter.com/AFeiszli",
+        "bio": "Alex is the founder and CEO of Netmaker. Previously, Alex was a senior engineer at IBM, a consultant at Deloitte, and contracted for Red Hat. Alex has worked with over 20 enterprise clients, implementing solutions for DevOps, Kubernetes, and Multi-Cloud.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c693da00e697d8d9fb7d39c8b4fd377fac75c0a7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1021,7 +1030,23 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Cory O'Daniel",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/coryodaniel",
+        "twitter": "https://twitter.com/coryodaniel",
+        "bio": "CEO / Co-founder @ Massdriver. DevTools and platform engineering enthusiast. I've been building teams/startups, developing, and managing cloud operations for over 20 years. Creator of the Bonny, an Elixir-based Kubernetes operator framework. A proponent of Friday deploys.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a1c4ea587234a794049b969c86558ea6fb4bf3d2.jpg"
+      },
+      {
+        "name": "Chris Hill",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christopher-hill-265282127/",
+        "bio": "Software developer and operations engineer with extensive experience in Kubernetes and cloud-based technologies (AWS and GCP). Passionate about scalable system design - declarative, repeatable infrastructure, automated testing, monitoring and observability.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/483145fc5021436d94399d2d6bd95afd5d10f199.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1064,7 +1089,32 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Haven",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/danielhaven",
+        "bio": "Born and Raised in Amsterdam, Currently residing in Tel Aviv. Founded ProctorExam in 2014 and led it to become one of the biggest global online proctoring company. Sold it successfully to US leading EdTech company Turnitin. Now working on Slauth.io which is aiming to simplify and secure access management for the cloud infrastructure.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a9ee555871c3eb613458e57dfac83014194ae2ed.jpg",
+        "active": false
+      },
+      {
+        "name": "Tal Auslander",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/talaus",
+        "bio": "TLV. Ex-8200. 1st CTO at ProctorExam (EdTech), acquired by TurnItIn. Chief Architect at SignifAI (AIOps), acquired by New Relic.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/00a6989a7a76f68bce48c107b9b3ff1b82757d54.jpg",
+        "active": false
+      },
+      {
+        "name": "Moti Elkayam",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/moti-elkayam-6a6a06/",
+        "bio": "Extensive SW engineering & Product background. Graduated computer science (B.Sc.) in the Technion (Israeli MIT). Leading product management in the last 10 years (inc MLNX switch software product -acquired by Nvidia). Slauth.io is our venture in the space of Identities and Access Management (IAM). We secure and streamline organizations' multi-cloud human and machine identities' permissions. Love to hike and run.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4e6915a8e37882e206cd531e4e82ccd1a25a9c25.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1105,7 +1155,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Putzer",
+        "role": "Founder",
+        "linkedin": "",
+        "bio": "dev",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4ac50a0c8e065d2f3de7f02a6d7c63fe0ab1e9b8.jpg"
+      },
+      {
+        "name": "Philipp Weber",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/philipp-weber-a8517b231/",
+        "bio": "Building Pluralith",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c679d454ea367a6d7598db186b1f76063d6e968.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

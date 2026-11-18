@@ -640,7 +640,23 @@
     "teamSize": 40,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yo Shibata",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yo-shibata-12742621/",
+        "twitter": "https://twitter.com/yoyoshibata",
+        "bio": "Yo Shibata is co-founder/CEO of Tailor. Previously, Yo founded Smapo (Acquired by Rakuten, RetailTech), Shoppi (Acquired by IMJ, mobile app), co-founded Funds (FinTech), and Watashikampo (HealthTech). Prior to being a serial entrepreneur, he worked for McKinsey.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/88a21de1bd590c0bbc682e02c046539198faafd3.jpg"
+      },
+      {
+        "name": "Misato Takahashi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mistat/",
+        "bio": "Co-founder/CTO of Tailor, previously co-founder/CTO of Speee (TSE IPO in 2020), CTO of Spotlight (Acquired by Rakuten), engineer at Rakuten and GREE, and head of R4D, a research institute at Mercari.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4e3b88574477d4937352052125fd54dd174acafa.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

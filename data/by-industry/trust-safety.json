@@ -30,7 +30,22 @@
     "teamSize": 30,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Glen Wise",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/glenwise/",
+        "bio": "ex-USG ex-Meta After graduating from Carnegie Mellon, Glen joined Facebook as a security engineer to lead the build out of their community threat intelligence platform, working directly with Phil Brennan for over 3 years. Glen started Cinder in 2021 to help other companies solve similar trust and safety problems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/be59873055180ea52150a3920e31d899baa6d113.jpg"
+      },
+      {
+        "name": "Phil Brennan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/philip-brennan-33598610a/",
+        "bio": "Phil joined Facebook in 2017 to build out their community threat intelligence team, after running counterterrorism units for the US government. Phil worked with Glen Wise for several years at Facebook before joining him to co-found Cinder.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/65ee4ef82f6bdbada3d3c0c1a2b352a237cf00f9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

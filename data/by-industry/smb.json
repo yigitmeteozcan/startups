@@ -438,7 +438,39 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Austin Petersen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/austinpetersenlovagelabs/",
+        "bio": "Austin Petersen is the co-founder and Chief Executive Officer of Lovage. Austin leads Lovage in sales and product strategy initiatives. Previously he has held positions in business development and software engineering throughout his time attending Brigham Young University in Provo, Utah. Austin previously studied Mandarin Chinese and Mathematics at Brigham Young University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7cf267090f909b6509c6362a3f3da7664a11623f.jpg",
+        "active": false
+      },
+      {
+        "name": "Robert Hinckley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/robert-hinckley/",
+        "bio": "Robert Hinckley is the co-founder and co-CTO of Lovage. Robert leads full-stack development at Lovage and builds and designs the cloud infrastructure, onboarding pipeline, dashboard, and mobile application products of Lovage’s tech stack. Previously, Robert ran a custom software consulting company with Lovage’s co-founder Alex Steffen and studied Computer Science at Brigham Young University. He grew up in Idaho and learned to speak Mandarin while volunteering with Lovage’s co-founders.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6db1ffceaad4ba45a3ec7752e02b909e53b9cc3c.jpg",
+        "active": false
+      },
+      {
+        "name": "Alexander Steffen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandersteffen/",
+        "bio": "Alexander Steffen is the co-founder and Co-CTO of Lovage Labs. Alexander leads software development and design for all of Lovage’s phone products and cloud services. Previously Alexander was studying Electrical Engineering and researching Electro-Holography at Brigham Young University in Provo, Utah. Before working at Lovage Alexander started a software consulting company with Robert Hinckley called OmniTech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f41f580b3334e87760a89ea29bea5ec0122eed16.jpg",
+        "active": false
+      },
+      {
+        "name": "Boyd Christiansen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/boydhchristiansen/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c9be5b316b142498bfb59da3cd839c96f45b1cd1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

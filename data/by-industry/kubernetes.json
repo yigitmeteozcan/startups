@@ -360,7 +360,16 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Feiszli",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/feiszli",
+        "twitter": "https://twitter.com/AFeiszli",
+        "bio": "Alex is the founder and CEO of Netmaker. Previously, Alex was a senior engineer at IBM, a consultant at Deloitte, and contracted for Red Hat. Alex has worked with over 20 enterprise clients, implementing solutions for DevOps, Kubernetes, and Multi-Cloud.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c693da00e697d8d9fb7d39c8b4fd377fac75c0a7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -401,7 +410,23 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Cory O'Daniel",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/coryodaniel",
+        "twitter": "https://twitter.com/coryodaniel",
+        "bio": "CEO / Co-founder @ Massdriver. DevTools and platform engineering enthusiast. I've been building teams/startups, developing, and managing cloud operations for over 20 years. Creator of the Bonny, an Elixir-based Kubernetes operator framework. A proponent of Friday deploys.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a1c4ea587234a794049b969c86558ea6fb4bf3d2.jpg"
+      },
+      {
+        "name": "Chris Hill",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christopher-hill-265282127/",
+        "bio": "Software developer and operations engineer with extensive experience in Kubernetes and cloud-based technologies (AWS and GCP). Passionate about scalable system design - declarative, repeatable infrastructure, automated testing, monitoring and observability.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/483145fc5021436d94399d2d6bd95afd5d10f199.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -442,7 +467,29 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alan Pham",
+        "role": "Founder",
+        "linkedin": "",
+        "bio": "I graduated from UC Berkeley with Bachelors and Masters in EECS, conducting speech, systems, and machine learning research in image and natural language processing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a27a72c37109c1c901b876de9031cf673fae0a04.jpg"
+      },
+      {
+        "name": "Ivy Pham",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ivylp/",
+        "bio": "I graduated from Harvard with my B.A. in Economics and have a professional background in product management and business analytics. I'm interested in building solutions that can streamline workflows and improve efficiency.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b49108171ea04ad67b3241a46a410968686a66df.jpg"
+      },
+      {
+        "name": "Vikranth Srivatsa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vikranth-srivatsa-921067126",
+        "bio": "I graduated from UC Berkeley EECS doing systems and machine learning research. I do research as part of the UC Berkeley SKY Lab. I am interested in cloud/edge computing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3d8e2384ae9d830057dff97ffe8af9d508d6c350.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -137,7 +137,22 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ernie Ho",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ernie-ho",
+        "twitter": "https://twitter.com/g41903",
+        "bio": "Cofounded Yamkr - a social app, got acquisition offer. Previously, working at Uber Self-Driving Car Unit. Grad student at CMU School of Computer Science. Researcher at MIT Electrical Engineering and Computer Science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/17d020a148b74f0c4841b87c66aeda910a0d1fc4.jpg"
+      },
+      {
+        "name": "John Lin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/juslin319/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b6019c136f8a417e151eb19419d03f8eeda5ca89.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

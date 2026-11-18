@@ -150,7 +150,24 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bashir Aminu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bashir-aminu-055a9987/",
+        "twitter": "https://twitter.com/scozky",
+        "bio": "CEO at Partna",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f06f7b546b193ed246d94be6fe72d9f920ea138e.jpg"
+      },
+      {
+        "name": "Hakeem Adeyemi Orewole",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/eltneg/",
+        "twitter": "https://twitter.com/Orewoley",
+        "bio": "Software engineer who loves turning ideas to reality",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/efd3f518e0b206528f8010743452b54493e6b6a2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

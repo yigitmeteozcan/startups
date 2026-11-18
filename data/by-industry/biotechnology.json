@@ -434,7 +434,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nizar Batada",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/nizar-batada",
+        "bio": "Nizar is the co-founder and CEO at EUGIT, which he started with George Church in 2022. He is an expert in cancer research, genomics and bioinformatics and has published over 25 articles in peer-reviewed journals such as Nature and has obtained nationally competitive grants. Prior to EUGIT, he was a scientist at 23andMe and a tenure track lecturer at the University of Edinburgh, UK. Nizar grew up in Toronto and obtained his PhD in Biophysics from Stanford.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa4ec5a091a22bc8ded999621c25385540ddb3cb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -478,7 +486,22 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vicki Mo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/victoriamo/",
+        "bio": "Vicki has experience ranging from finetuning SOTA machine learning models to shipping both digital and physical products. In 2015, she was the USA and French Div 1 National Champion in the sport of epee fencing. Vicki received her MS in Computer Science - Machine Learning from Columbia University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bba11094b9029c40557d8febf3160f97439c7842.jpg"
+      },
+      {
+        "name": "Ruby Yu",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/ruby-yu-h3k9",
+        "bio": "Ruby has spent the past decade investigating gene expression in organisms ranging from yeast to humans, and she is an industry-leading expert on high-throughput genetic screens for machine learning. She received both her BA and her PhD in Biological and Biomedical Sciences from Harvard University. Her extra-laboratorial activities include circus arts, climbing, and cat-sitting.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/520547d18433c0ddb6e0644e981bbeea09d899c7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

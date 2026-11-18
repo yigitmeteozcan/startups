@@ -128,7 +128,29 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "John Burnham",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/john-burnham-01190a32/",
+        "bio": "CEO @ Argument Computer Corporation",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/707a17340d12b25a619e545cf8eec68d7e83b818.jpg"
+      },
+      {
+        "name": "Gabriel Barreto",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gabriel-aquino-barreto-2b512a197/",
+        "bio": "Co-Founder and Chief Architect at Yatima Inc.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/22c528a19d49c7ab2dc98837997d92006e38a436.jpg"
+      },
+      {
+        "name": "Samuel Burnham",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/samuel-burnham/",
+        "bio": "Co-founder and Vice President at Argument",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5b65f3b1d8db7cd3ce1105900bd461e6636e07f4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

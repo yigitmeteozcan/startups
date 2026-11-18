@@ -1611,7 +1611,23 @@
     "teamSize": 33,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Oren Friedman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/oren-friedman/",
+        "bio": "Co-Founder & CEO @ Rally",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f940709e1412858643c9dceec6c7963e6d631471.jpg"
+      },
+      {
+        "name": "Alec Robins",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alecrobins/",
+        "twitter": "https://twitter.com/alecrobins",
+        "bio": "Alec is the co-founder and CTO of Rally. Before starting Rally, Alec was a Tech Lead at both Facebook and HubSpot. Alec graduated with a degree in Computer Science from Vanderbilt University and currently lives in Nashville.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b9392fce3b126db8ad9d7446e84a70e46360841b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

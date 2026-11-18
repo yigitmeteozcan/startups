@@ -198,7 +198,24 @@
     "teamSize": 85,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abhishek (AJ) Jain",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abhishek-jain9925/",
+        "twitter": "https://twitter.com/abhishekjain25",
+        "bio": "CEO @ Broccoli, Previously: Computer Science graduate from BITS Pilani. Started career at Adobe and has built companies for last nine years.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/80e856d6e2a6eaaec6dfaf1d3275571d3f264b89.jpg"
+      },
+      {
+        "name": "Aditya Ketkar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adityaketkar",
+        "twitter": "https://twitter.com/adityaketkar",
+        "bio": "CTO @ Broccoli AI, building voice agents for the trades. Previously: Computer Science graduate from BITS Pilani. Did research at the CVC lab at UAB Barcelona and worked at Microsoft before starting Telematica and then Broccoli AI.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa208fcd1c03d65ad61ff1dfe4ed2f60fbc1a4df.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

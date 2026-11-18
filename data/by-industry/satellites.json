@@ -589,7 +589,22 @@
     "teamSize": 30,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Peterson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andrew-peterson-array-labs/",
+        "bio": "Previous to being CEO at Array Labs, Andrew led teams across a number of remote sensing projects, including contributions to the Vera Rubin Observatory (largest telescope in the world), satellite constellation design, and high-resolution radar imaging systems. He holds B.S. and M.S. degrees in Aerospace Engineering.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b8ea6efedaeec1c9021ad019a4287747d4da2cea.jpg"
+      },
+      {
+        "name": "Jose Isaac Robledo",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/isaac-arraylabs",
+        "bio": "Previous to joining Array Labs, Isaac lead business development efforts and conducted financial analysis for companies such as Sunstone Properties Trust, Morgan Stanley, and JLL, improving operational efficiency and assisting in the closing of over $500M in investments. He holds a B.S. in Economics from BYU.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/87dd4684d165195d9c8e4f384c3006a0a9b0b032.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -630,7 +645,52 @@
     "teamSize": 57,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nate Hamet",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nathanhamet/",
+        "twitter": "https://twitter.com/NateHamet",
+        "bio": "I'm one of the co-founders and CEO of Quindar. I've worked in the space industry for almost a decade doing electrical, software, and mission design for Lockheed Martin, OneWeb, and Orbital Effects. At OneWeb I helped architect the TT&C ground system that operates the second largest satellite constellation today. I went to undergrad and grad school at the University of Michigan studying aerospace and meteorology. In my free time I love to cook, travel, and participate in sports.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5b9e8878237275fdc89545d82a051228d2940b55.jpg"
+      },
+      {
+        "name": "Sunny Bhagavathula",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sandilya-sunny-bhagavathula-13780b47/",
+        "twitter": "https://twitter.com/sunny_in_space",
+        "bio": "I am an astrodynamicist with experience flying telecommunication and Earth-observation satellites. After grad school at Michigan, I helped architect and build two high-fidelity flight dynamics systems with an emphasis on space sustainability. I am excited about lowering the barrier to orbit and providing tools for satellite owners to be responsible users of space through Quindar. Outside of work, I love to spend time playing and watching sports, rock climbing, cycling, and hiking.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2e5353a917b85a01793b5949f7af76b9a5eea523.jpg"
+      },
+      {
+        "name": "David Lawrence",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/david-lawrence-58663691/",
+        "bio": "Dave Lawrence studied Aerospace Engineering at Texas A&M and since then has helped design and operate satellite systems at several companies, including Boeing, Iridium, and OneWeb. He has led in-orbit commissioning and systems integration campaigns for communications and earth observations satellites. He'll bring this experience to Quindar to build a satellite operations platform that enables access to space!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3f1dce5b72f83d9ff9c068e616032bcf08e50923.jpg"
+      },
+      {
+        "name": "Zach Meza",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zach-meza-25a832262/",
+        "bio": "I am a software engineer with a B.S. in Computer Science from Stanford University with a concentration in Artificial Intelligence. Since graduating in 2016 I've worked on two satellite missions to develop the programs' mission operations software from the ground up; the software I've written to is still in use to operate the satellites and orchestrate the ground systems. At Quindar I serve as Head of Software alongside my five fellow cofounders, with whom I have worked for the last six years.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/496f0180b0b044316bff00f7ead1f64625265df5.jpg"
+      },
+      {
+        "name": "Shaishav Parekh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shaishavparekh",
+        "bio": "A software engineer with a B.S. in Computer Engineering from Virginia Tech, Shai has worked as a consultant for Red Hat and gained industry experience in Finance, Insurance, O&G and Retail industries. He helped design the OneWeb satellite operations software and went on the build the scheduling software for another Earth Observation satellite operator. Outside of work he enjoys playing tennis, watching F1 and hiking.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1f86cda1424a89db61bfd2f9b8528a51baeaa8f2.jpg"
+      },
+      {
+        "name": "Matt Regan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/matthew-regan-a0a45238",
+        "bio": "I'm an aerospace engineer by study and a software engineer by trade. Since entering the workforce I've worked at a myriad of satellite and space missions from defense satellites to mega-consteallation for global internet. I am particularly excited about participating in the latest space revolution and working towards lowering the barrier of space for all interested parties. Outside of work, I'll usually spend time with friends, playing soccer, or watching any Michigan game. Go Blue!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c716b4c3a4aaaad46ed0e5ad8a66ebc88b131469.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

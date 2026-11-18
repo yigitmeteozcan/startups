@@ -433,7 +433,22 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Deema Adada",
+        "role": "Founder",
+        "linkedin": "http://linkedIn.com/in/deema-adada/",
+        "bio": "Deema spent 15 years in leadership roles at Coyote Logistics and Uber Freight, driving significant innovation in the supply chain industry. During that time, she felt the acute challenges of siloed technology and workflows across the supply chain resulted in less than 1% of shipments could be handled without human intervention, which propelled her to found BiggerPicture.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6d98d2e1d5120d18b171fd54b25c7a283836b6db.jpg"
+      },
+      {
+        "name": "Guillaume Lo Re",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/guillaume-lo-re-786891108/",
+        "bio": "During his 13 years working at startups as well as hyper-growth companies such as Datadog and Dassault Systèmes, Guillaume developed a passion for solving complex problems with simple solutions. He takes pride in shaping and crafting stunning user experiences for high volume and critical applications.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c5b914cb6b651dd7cd12fca406db781c6b4b0af2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

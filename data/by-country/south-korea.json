@@ -552,7 +552,15 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "MJ Kim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mjkim-tech/",
+        "bio": "Founder/CEO at AYC Fund",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d54ee4060eede6474622197cd0c48975347e9f2b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -592,7 +600,23 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "SJ (Sangyong) Jung",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sangyongjung",
+        "bio": "SJ (CEO) was the co-founder and co-CEO of Sentbe (2015-2018), a fintech company offering cross-border money transfer services. At Sentbe, SJ built the first product and led the product team during the early stages. Today, Sentbe is valued at over $100M. With a background as a full-stack developer and experience in UX, SJ specializes in building small, high-performing product teams.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dff7338efa1bbb47c2e5d1405d1b8a4c1224b048.jpg"
+      },
+      {
+        "name": "Arthur (Hyun June) Kim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kimmarthur/",
+        "twitter": "https://twitter.com/kimmmarthur",
+        "bio": "Co-founder @Relate Previously Sales and Product Lead @Opensurvey",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7e301ad5b111240cb31781f336fb2aae8f632eb9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

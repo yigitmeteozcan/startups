@@ -420,7 +420,23 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Marquez",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/dayvough",
+        "twitter": "https://x.com/dayvough",
+        "bio": "CTO of Shipmates",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7477acfcec65cf52d01265f165e8b216baa81cf5.jpg"
+      },
+      {
+        "name": "Josh Supan",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/joshsupan/",
+        "bio": "CEO of Shipmates",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8f62fb389e0e85c152e883427ea3867d2d9bdf1b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

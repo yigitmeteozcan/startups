@@ -471,7 +471,22 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maca Baigorria",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maca-baigorria/",
+        "bio": "Maca is a self-taught designer who transitioned from mechanical engineering to UX/UI Design and is on a mission to make tech careers more accessible.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b2104e647c09ed30f90c4ee70e1968c8d6eadaab.jpg"
+      },
+      {
+        "name": "Alexandra Amico",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandra-amico-267559b5",
+        "bio": "Alex transitioned from Systems Engineering to Product Management and is passionate about helping people get to where they want to be in life.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1241ae239b49999428886916a539f23a7e2284a1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

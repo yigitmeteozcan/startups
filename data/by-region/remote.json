@@ -1201,7 +1201,24 @@
     "isHiring": false,
     "stage": "Early",
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rob Morris",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/robert-r-morris-phd",
+        "twitter": "https://twitter.com/RobertRMorris",
+        "bio": "Rob Morris is the co-founder of Koko — a behavioral health platform that has served 2M people, mostly adolescents. Most recently, he was a staff data scientist at Airbnb and an entrepreneur in residence at Hopelab. Rob earned his AB in psychology from Princeton University and his master's and PhD in media arts and sciences from the Massachusetts Institute of Technology.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/71597351d554b24bbdd0b87a5ece4bdfb5f21519.jpg"
+      },
+      {
+        "name": "Kareem Kouddous",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kareemk/",
+        "twitter": "https://twitter.com/kareemk",
+        "bio": "Founderd Suzy, Koko (sold to Airbnb), Airbnb Trust & Safety leadership now back to Koko as a non-profit. A few failed startups before that. Coding since grade school. Dreaming forever.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7dc07ecf65b36143ceaac054d0ce8b912d636807.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1240,7 +1257,15 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chetan Kulhari",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chetankulhari/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5e4b463043563878db81b908bc7cbba9749d10a9.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1280,7 +1305,23 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Montana Scher",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/montanascher",
+        "bio": "After studying product design + computer science at Stanford, I learned how to launch and iterate on great products at Google and Square. I moved into healthcare in order to work on problems I cared deeply about. As the first product hire at Parsley Health, I led the team that built our patient data infrastructure and the tech to launch and grow our virtual care offering. I'm starting Morf to solve the problems we faced at Parsley -- to empower the next gen of digital healthcare.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e3345494b3dd355dcf6078357918bf7a3e862116.jpg"
+      },
+      {
+        "name": "James Thompson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jamesrth/",
+        "twitter": "https://twitter.com/james_rth",
+        "bio": "I have built and managed teams at a number of early-stage companies in the highly regulated health-tech and fin-tech / data spaces. As an engineering contributor I've created simplified data models and services for complicated healthcare problems in seed and Series A+ stage companies. I have also built and managed peta-scale data pipelines. My entrepreneurial interest in health-tech was borne out of having my patented work licensed by a major UK biotech company.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a45809495e9e60629d0078038837b8fb9935f3cd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

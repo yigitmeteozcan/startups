@@ -192,7 +192,22 @@
     "teamSize": 30,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christopher Howard",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-g-howard/",
+        "bio": "Cofounder at Ekho Dealer. Previously ML at Meta. Stanford computer science bachelors and masters.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/215707100d957b9b847d17616d485c338596cf64.jpg"
+      },
+      {
+        "name": "Rowan Mockler",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rowan-mockler-198218128/",
+        "bio": "Cofounder at Ekho Dealer. Previously product at Duolingo. Stanford computer science grad.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ea056ef597e8dd2f59617ed3f56adb5d15144cbc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

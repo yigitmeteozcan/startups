@@ -315,7 +315,23 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Duc Pham",
+        "role": "Founder",
+        "linkedin": "https://sg.linkedin.com/in/duc-pham-b22b21101",
+        "bio": "Chief jogger at Marathon - we are building Vietnam's after-school metaverse, one live class at a time",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/816dc37ec950bf6a7139c5141900bace5c1d1c66.jpg",
+        "active": false
+      },
+      {
+        "name": "Tung Tran",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tranviettung/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f8f96da184b9d54eb2c930dc7291ef0e894e2c60.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -355,7 +371,15 @@
     "teamSize": 70,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Quan Nguyen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/quannguyen89/",
+        "bio": "Quan is the co-founder and CEO of GIMO - a mobile financial app for underbanked workers to get paid on-demand. Prior to GIMO, Quan was an ex-Citibank executive managing its consumer banking division and used to lead capital raising and investments valued $100Mn in Vietnam's debt market at family offices and boutique investment funds. Quan holds an Executive MBA from Shidler College of Business, University of Hawaii at Manoa.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fae776ed362bf3a96831a644d598982d1f669df9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

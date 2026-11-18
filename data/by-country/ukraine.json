@@ -254,7 +254,24 @@
     "teamSize": 22,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Artem Bugara",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/artem-bugara/",
+        "twitter": "https://twitter.com/bugaralife",
+        "bio": "Artem Bugara is the co-founder, CEO of NewsCatcher. Artem works with data and risk teams to help them integrate actionable signals from online news. Previously he ran a team of data engineers for one of the largest underwriting companies within the aviation, energy, and space insurance sectors. He earned a degree in Econometrics from Toulouse School of Economics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/717c77848f35ff3f50a1978f5ec2430ab5b55273.jpg"
+      },
+      {
+        "name": "Maksym Sugonyaka",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/msugonyaka/",
+        "twitter": "https://twitter.com/kizy625",
+        "bio": "Maksym Sugonyaka is the co-founder and CTO of NewsCatcher. After one year of a stable job, Maksym understood that the only place where he could realize his potential was entrepreneurship. Now in NewsCatcher, Maksym is the one to take key strategic and technical decisions in order to make the best News API on the market. He has a Master's Degree in Data Science and Finance from Paris Sorbonne. But then, he became a self-taught Data Engineer.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d3748b7ed0c74799452205a4a62beb4d707d66b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
