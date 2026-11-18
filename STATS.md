@@ -4,11 +4,11 @@ _Auto-generated from the dataset on 2026-11-18._
 
 | Metric | Count |
 |---|---|
-| Total companies | **22,429** |
+| Total companies | **22,436** |
 | 🦄 Unicorns ($1B+) | **152** |
-| 💰 Exits | **2854** |
+| 💰 Exits | **2855** |
 | 🌱 B Corps | **29** |
-| 👤 Founder profiles | **7,364** |
+| 👤 Founder profiles | **8,148** |
 | Current session | **69** |
 
 ## By source
@@ -16,10 +16,10 @@ _Auto-generated from the dataset on 2026-11-18._
 | Source | Companies |
 |---|---|
 | plugandplay | 6,444 |
-| yc | 6,398 |
+| yc | 6,404 |
 | techstars | 5,199 |
 | 500 | 2,243 |
-| antler | 1,086 |
+| antler | 1,087 |
 | ef | 545 |
 | alchemist | 514 |
 
@@ -46,15 +46,15 @@ _Auto-generated from the dataset on 2026-11-18._
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1495
 2024  ███████████████████████████░ 1452
-2025  ████████████████████░░░░░░░░ 1048
-2026  ████████████████████░░░░░░░░ 1071
+2025  ████████████████████░░░░░░░░ 1051
+2026  ████████████████████░░░░░░░░ 1074
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15
 ```
 
 ## Top countries
-1. **United States** — 11514
+1. **United States** — 11520
 2. **Japan** — 3140
-3. **United Kingdom** — 867
+3. **United Kingdom** — 868
 4. **Canada** — 763
 5. **Germany** — 346
 6. **India** — 345
@@ -88,7 +88,7 @@ _Auto-generated from the dataset on 2026-11-18._
 ## Top programs
 1. **Plug and Play** — 6444
 2. **500 Global** — 1403
-3. **Antler** — 1086
+3. **Antler** — 1087
 4. **Entrepreneur First** — 545
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 390
@@ -98,20 +98,20 @@ _Auto-generated from the dataset on 2026-11-18._
 10. **YC Winter 2024** — 248
 11. **YC Summer 2024** — 248
 12. **Techstars Boston Accelerator** — 239
-13. **YC Fall 2026** — 236
+13. **YC Fall 2026** — 237
 14. **YC Summer 2022** — 233
 15. **YC Winter 2020** — 229
 
 ## Top industries
 1. **Fintech** — 2952
-2. **AI** — 1900
+2. **AI** — 1904
 3. **SaaS** — 1701
 4. **Artificial intelligence and machine learning** — 1667
 5. **Mobile** — 1163
 6. **Consumer** — 1075
 7. **Healthcare** — 833
-8. **Infrastructure** — 756
-9. **Developer Tools** — 747
+8. **Infrastructure** — 759
+9. **Developer Tools** — 748
 10. **Industrials** — 694
 11. **Health & Longevity** — 691
 12. **Engineering, Product and Design** — 635
@@ -126,14 +126,14 @@ _Auto-generated from the dataset on 2026-11-18._
 
 ## By region
 1. **Americas** — 6012
-2. **United States of America** — 4772
+2. **United States of America** — 4778
 3. **Asia** — 3438
 4. **Europe** — 1028
 5. **EMEA** — 951
 6. **North America** — 902
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 220
+9. **United Kingdom** — 221
 10. **Canada** — 219
 11. **India** — 219
 12. **Latin America** — 163
@@ -181,17 +181,17 @@ _Auto-generated from the dataset on 2026-11-18._
 54. **Turkey** — 5
 55. **Panama** — 5
 56. **Saudi Arabia** — 4
-57. **Portugal** — 3
-58. **Czechia** — 3
-59. **Ghana** — 3
-60. **Morocco** — 3
-61. **South Africa** — 3
-62. **New Zealand** — 3
-63. **Estonia** — 3
-64. **Belgium** — 3
-65. **Finland** — 3
-66. **East Asia** — 3
-67. **Japan** — 2
+57. **Czechia** — 3
+58. **Ghana** — 3
+59. **Morocco** — 3
+60. **South Africa** — 3
+61. **New Zealand** — 3
+62. **Estonia** — 3
+63. **Belgium** — 3
+64. **Finland** — 3
+65. **East Asia** — 3
+66. **Japan** — 2
+67. **Portugal** — 2
 68. **Senegal** — 2
 69. **Greece** — 2
 70. **Ukraine** — 2
