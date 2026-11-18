@@ -188,7 +188,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ram Vinjamuri",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ram-vinjamuri/",
+        "twitter": "https://x.com/ramv2003",
+        "bio": "Ram is a founder of Acyclic Labs. He started in ML research: his Cambridge dissertation on transfer learning for low-resource Vedic Sanskrit beat the state of the art and was published at ACL WiNLP. At Palantir, he was an FDE shipping multi-agent systems for clinical trial design. That work convinced him there are huge gains in scaling beyond the model. At Acyclic, he is building the infrastructure that lets agent swarms turn complex, long-running tasks from days into hours.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/232c674f93e4e84353b72971c84b9fdebb331bbe.jpg"
+      },
+      {
+        "name": "Varun Latthe",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/varun-l/",
+        "twitter": "https://x.com/var1377",
+        "bio": "Co-founder of Acyclic Labs (YC F26). At Cambridge, my research focused on building an auto-parallel programming language. I then worked on agent architecture and an Excel engine at Tracelight (https://tracelight.ai). At Acyclic, I’m building infrastructure that extracts implicit parallelism from agent workflows, turning them into efficient swarms for lower cost and latency.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/748349d818f1366c42481e7045a3c41cccbffd5c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -223,7 +240,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Robin Choy",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/rbchoy/",
+        "twitter": "https://x.com/ChoyRb",
+        "bio": "Repeat founder including 2-times YC (Adside YC F26, Botdog, HireSweet YC W20) & Investor (invested in 120+ YC startups including Starcloud, Sygaldry, Mastra, Conductor, Blaxel and many other amazing companies)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/050d195a46e8a36e9650eba4ce1a34b0e0fe620f.jpg"
+      },
+      {
+        "name": "Guillaume Miara",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/guillaumemiara/",
+        "bio": "Founder/CTO at Adside.ai. Previously co-founded Botdog (GTM SaaS sold in 18 months for 7 figures). Staff Engineer at Oscar Health, where I led enrollment integrations and platform migrations. Master's in Operations Research from UC Berkeley and CentraleSupélec.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/beef686723e1d7b45c838e525bf0b94663eff05c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

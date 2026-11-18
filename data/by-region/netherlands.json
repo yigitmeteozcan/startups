@@ -459,7 +459,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abel Van Steenweghen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/abelvs/",
+        "twitter": "https://x.com/avansteenweghen",
+        "bio": "Building agents for complex engineering projects.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b13df2882133a79c726cbd96fee395ada36a8f07.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -497,7 +506,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Wilco Kruijer",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/wilcokruijer/",
+        "twitter": "https://twitter.com/WilcoKr",
+        "bio": "CEO & Co-founder at ReJot, previously worked on a distributed financial platform at Adyen. Interested in the relation between distributed data and software maintainability.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c559d7b970c16e5775029a16c951070b472d676c.jpg"
+      },
+      {
+        "name": "Jan Schutte",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jan-schutte-183145135/",
+        "twitter": "https://x.com/Jan_Schutte",
+        "bio": "CTO & Co-founder at ReJot, former Data Platform Engineer at Adyen, interested in distributed systems and database technologies. Current product is https://fragno.dev/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5b79dd57e3e607f50dbdb4bce0ff2926a9e3da01.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -949,7 +949,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Connor Jones",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/connorandrewjones/",
+        "bio": "Co-Founder & CEO @ BitBoard. Ex-Forward, BlackRock, Columbia Engineering.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5fbe6de4ee5d3c3e64dc17cf6cca43d8958dc06b.jpg"
+      },
+      {
+        "name": "Ambar Choudhury",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/ambar-choudhury-92681038",
+        "twitter": "https://x.com/ambarc",
+        "bio": "Co-Founder & CTO @ BitBoard, an AI-first analytics workbook that lets you load and transform data with SQL, python, and your favorite coding agent. Handle complex modeling and analysis 10x faster without giving up control when you need it. I was the first engineer at Forward, a national AI-enabled primary healthcare system. Before that, I worked on government-facing technology at Palantir. I like creating products that empower people, and technology that scales.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c8dde4a359f0f46f3fc9faca9f72385cc56cce9d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

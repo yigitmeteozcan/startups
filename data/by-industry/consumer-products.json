@@ -325,7 +325,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Regina Lin",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/reginaclin",
+        "bio": "Regina is the co-founder & CEO of Dex. She studied Mathematics with a concurrent master's in Computational Science at Harvard (dropped out). She previously co-founded Contour AI, a devOps tool for LLM evaluation, helped build the MVP an ecommerce marketplace with 40K+ customers and worked in various tech investment roles.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f1649147745eef3d962393e89474eb2bf7674f49.jpg"
+      },
+      {
+        "name": "Kevin Gu",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/kevinrgu",
+        "bio": "Co-founder of Dex. Prev Math & Stat at Harvard, quant/ML researcher at Jump Trading, IBM Research, QuantCo, Meta.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6d133d7e84172b6d4f5f29ea2ad4e7f6663374e4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

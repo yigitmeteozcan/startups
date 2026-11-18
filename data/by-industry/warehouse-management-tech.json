@@ -562,7 +562,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jason Wang",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jasonhy-wang/",
+        "twitter": "https://x.com/jasonhywang",
+        "bio": "Co-founder & CEO of Lark (F26). Prev founded Datost (backed by YC). Prior, I built agentic systems for the industrial supply chain at Traba and worked on the Flink control plane at Confluent. Graduated from University of Toronto, degree in computer engineering with double minor in AI and Business",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e7d88ac1e0485e69fabb44b993b739952ccefa18.jpg"
+      },
+      {
+        "name": "Michael Wang",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-wang-40061923b/",
+        "bio": "Co-Founder of Lark (YC F26). NYU Stern dropout. Founded a government-funded NGO with 10,000 volunteers. Former Team Canada badminton player, ranked top three nationally for consecutive years.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4b8dee888068ee6b615592b41f74a52459cd568e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -173,7 +173,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rahul Gudise",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/rahulgudise",
+        "bio": "Automating business visas for American employers, starting with the H-1B. Previously built Canada's first instant immigration PDF filler and automation suite. Ex NVIDIA and Tesla. CS @ Waterloo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e7a0a410936b204c87c9597359a018eb1759c945.jpg"
+      },
+      {
+        "name": "Haokun Qin",
+        "role": "Founder/CPO",
+        "linkedin": "https://linkedin.com/in/haokun-qin",
+        "bio": "Immigrated twice in the last 20 years, now building the data-driven platform for immigration. Math @ Waterloo, ex-MLE @ Viavi.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4a84027d6452f0160b9f2088a10e0a307ed3a294.jpg"
+      },
+      {
+        "name": "Rishabh Sambare",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/rishabhsamb",
+        "twitter": "https://x.com/rishabh_sambare",
+        "bio": "Currently working on simplifying the H-1B process for startups at Gale. Studied Math & CS at the University of Waterloo. Previously built automations for Canadian immigration forms, worked on energy trading at Tesla, and improved matching algorithms for the Waterloo co-op program.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d6a39e7b6c9adbc27a728562b41fc1908ba69c3c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

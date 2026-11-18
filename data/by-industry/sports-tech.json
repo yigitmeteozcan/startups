@@ -616,7 +616,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Soham Chakraborty",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/soham-ch",
+        "bio": "Cofounder at STASIS. AI researcher at Mayo Clinic. UC Berkeley M.E.T. (Bioengineering + Business). Team Canada Speech & Debate.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1919b47b816219e9c47054ae900e25ab970638de.jpg"
+      },
+      {
+        "name": "Neil Goradia",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/neil-goradia-634a40381/",
+        "bio": "Founder/CTO at STASIS (YC F26). Previously co-founded GlaucoNova Labs at 18, leading hardware development for non-invasive IOP monitoring (4 iterations to 92% accuracy. Studied EECS at UC Berkeley before dropping out. Co-author on 4 patents, IEEE published researcher.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2640d8aa6bfd3f799e01c70a2ec839b44235968e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

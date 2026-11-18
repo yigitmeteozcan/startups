@@ -686,7 +686,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tanya Verma",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tanya-verma-130a23124/",
+        "bio": "Co-founder @ Tinfoil | Systems, Cryptography and AI @ Cloudflare | CubeSats & CS @ UIUC",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/71e19f53dbd482777277fb5c1899f8ee0808a80f.jpg"
+      },
+      {
+        "name": "Jules Drean",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jdrean",
+        "twitter": "https://x.com/julesdrean",
+        "bio": "Jules has an MIT PhD in secure hardware and confidential computing. He has industry experience working at Microsoft Research and NVIDIA on the technologies underlying Tinfoil. During his PhD, Jules has built secure enclaves from the ground up and studied how to attack and defend these systems against advance microarchitectural attacks. His work also looked at using trusted hardware to securely deploy advanced cryptographic primitives such as FHE and MPC.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e2e2ad4734fda8e101f5d5cfb506c5944356a36.jpg"
+      },
+      {
+        "name": "Sacha Servan-Schreiber",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sacha-servan-schreiber-308341305",
+        "twitter": "https://x.com/sachaservan",
+        "bio": "Co-founder of Tinfoil | PhD at MIT in cryptography Personal website: sachaservanschreiber.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/33096fdaf7641b0498b900f6e2b99c126f850834.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

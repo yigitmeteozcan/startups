@@ -430,7 +430,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Margarita Groisman",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/margarita-groisman/",
+        "twitter": "https://x.com/Marg_Groisman",
+        "bio": "Worked on data center deployments at Microsoft, now my company Aravolta builds software for data centers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5150584412ea3eb0182f8e63c266e0f281c95f7c.jpg"
+      },
+      {
+        "name": "Jack Sutton",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/sutton-jack",
+        "twitter": "https://x.com/JackSutton_SF",
+        "bio": "Lifelong software engineer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8af4649e155b78aa37df060b30c652788ea65252.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

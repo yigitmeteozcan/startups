@@ -569,7 +569,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Malouf",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/agmalouf/",
+        "bio": "Co-founder of Ovlo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1345c385d416b01ae8aaf208054343a1b90db87c.jpg"
+      },
+      {
+        "name": "Amer Eid",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/amer-eid92/",
+        "twitter": "https://x.com/amereidxyz",
+        "bio": "Co-founder of Ovlo, constantly building. Previously, Staff Software Engineer at Meta, contributing to WhatsApp for iOS, and Google, enhancing Fitbit’s health and wellness features. Led the development of MENA’s #1 music streaming app, serving millions. Passionate about building impactful, user-focused experiences.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/862798c92dcc34505695f1e131f211bfedbb5e9e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

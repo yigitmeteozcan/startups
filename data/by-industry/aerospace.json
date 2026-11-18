@@ -1064,7 +1064,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Eric Button",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ericjacobbutton/",
+        "twitter": "https://x.com/ericjacobbutton",
+        "bio": "Building AI systems for aviation. Former professional pilot (2,200 hours, G280 type rating with Part 135 experience).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/23fe2f9ac9bcdee679be118784125edc6153e525.jpg"
+      },
+      {
+        "name": "Kristian Gaylord",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kaylord/",
+        "twitter": "https://x.com/kayolord",
+        "bio": "Building AI for air traffic control. FAA Private Pilot. Prev embedded computer vision for satellites @ Pilot AI (acq'd). Prev high frequency trading in Rust. Statistics & Computer Science @ Columbia",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3d997ffbbc91241def17c17986069ad8fdeb8628.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1102,7 +1119,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Stef Crum",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/spcrum/",
+        "twitter": "https://x.com/StefReditus",
+        "bio": "CEO Reditus Space - Space Systems Engineer Space Systems Engineering PhD, worked with NASA and Space Force on orbital operations and reentry. Founded Da Vinci Satellite, a satellite mission non-profit.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e5da8427c01c1ced92fb4375f6dbf2541ffdee78.jpg"
+      },
+      {
+        "name": "Will Sherman",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/willamasherman/",
+        "bio": "CTO Reditus Space - Georgia Tech PhD dropout",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6bb49f20a0b9d5d15773ae4b4ed4fb47472edf81.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1142,7 +1175,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mehul Shah",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mehulmshah22",
+        "bio": "Spent 8 years building software for my family business in PCB manufacturing. Now Co-founder & CEO of GroundControl (X25).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c066fd2aa1f87a4059440d6cc18d201337bbc4d8.jpg"
+      },
+      {
+        "name": "Matthew Noseworthy",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/matthew-noseworthy-218167106/",
+        "bio": "Childhood script kiddie, ECE Undergrad, Founded/Exited inspectAR, now CTO @ GoundControl",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5ea6a156dd22b216a1d70d2beaea7c6e6d1c2c04.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1182,7 +1230,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jacob Portukalian",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jacob-portukalian",
+        "twitter": "https://x.com/jportukalian",
+        "bio": "Cascade was founded by Jacob Portukalian, architect of comms systems at SpaceX, Tyvak, and Astra. He has assembled a team of elite space engineers to scale communications infrastructure for the next generation of space exploration companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ec0d743fbdca8073e2272c94f64f25dc2b4502bc.jpg"
+      },
+      {
+        "name": "Arlen Abraham",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/arlenabraham/",
+        "bio": "Arlen is a deep generalist who thrives at the interfaces between hardware, software/firmware, product, and business. He brings a wealth of technical and leadership experience, not only from the aerospace industry, but also from consumer goods, communications, and energy.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/33d4c97f7c373e420260fa770b8870398e382c7e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1221,7 +1285,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Cinnamon Sipper",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/cinnamonsipper",
+        "bio": "Built laptops and iPads at Apple. Built AI products for Google. Now building Godela—AI that models the physical world, for engineers and scientists everywhere.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/570e39102fe604a6a07c24ff01576933926b0869.jpg"
+      },
+      {
+        "name": "Abhijit Pranav Pamarty",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/abhijit-pranav-pamarty-6b2453152/",
+        "bio": "Researched physics-driven optimization at Harvard and generative models for fluid mechanics at Stanford. Built surrogate models for semiconductor manufacturing at Intel. Now building Godela - giving engineers and scientists their own AI model for physics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5d4db953f29142244b996d150241a0b4753b00b9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2212,7 +2291,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Parker Jamieson",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/parker-j-70644531/",
+        "bio": "Founder & CEO at Keres (YC F26). Previously served 11 years as a USAF pilot, including F-16 and U-28A Evaluator Pilot roles. Led cadet training operations at HQ AFROTC. Currently IMA to NORAD J3 in the Air Force Reserve. Educated at the U.S. Air Force Academy and École de l'air et de l'espace.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ff56386ab960118b1c61c7bb15473e6b6ecbe419.jpg"
+      },
+      {
+        "name": "Christopher Palazzolo",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/cjpalazzolo/",
+        "bio": "Co-founder/CTO at Keres (YC F26). Previously Head of Operations at H3X Technologies. Spent 4+ years at Boom Supersonic, rising from Aircraft Technician to Director of Aircraft and Production Operations for the XB-1 supersonic demonstrator. Led avionics, flight test, and manufacturing. BS in Mechanical Engineering from Oakland University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eaec462025ae167d9bbb41d77ac9fac1a28f97be.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

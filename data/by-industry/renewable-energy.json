@@ -598,7 +598,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Fuster",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alex-f-573560101/",
+        "bio": "Founder and CEO at Astro. Traded grid congestion at Citadel. Stanford BS in physics and MS in computer science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f727d7a0d23b22ac364221ad69d6a33eda2ece67.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -865,7 +873,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sam Kanner",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/sam-kanner",
+        "bio": "Helped build 100MW+ of floating wind power generation. PhD in Mechanical Engineering from UC Berkeley. Interested in all things ocean and hardtech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/183b522fd2e84ac59811f74e57934d7ee0c72755.jpg"
+      },
+      {
+        "name": "James Reeves",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/james-o-reeves/",
+        "bio": "Working with Aikido since 2020, previously designed helicopters and other flying things.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/43268cccb5d958291482a8c979c93b9f785c4bd7.jpg"
+      },
+      {
+        "name": "Bingbin Yu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bingbin-yu/",
+        "bio": "Co-founder and chief engineer at Aikido Technologies (YC F26) PhD from University of Michigan, Naval Architecture and Marine Engineering Been in the offshore wind industry for 10+ years.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a21e1adf0894c641938bb249a669f7a2f1186dfb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

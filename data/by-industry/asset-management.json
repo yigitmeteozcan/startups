@@ -2201,7 +2201,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Akshat Mittal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mittal-akshat",
+        "bio": "Goldman Sachs, Macro Hedge Fund, David Protein, UChicago",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4a6444c726ee711e807093f9dab0ddfcacbba06e.jpg"
+      },
+      {
+        "name": "Martin Pestana",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/martin-pestana/",
+        "twitter": "https://x.com/martin_pestana_",
+        "bio": "Founder at Volaren Inc. Previously Goldman Sachs, AQR Capital Management, UChicago",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a17839a51afa23198d9f617fe4ec0d28e94769f0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

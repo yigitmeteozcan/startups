@@ -634,7 +634,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Pinel Neparidze",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alex-pinel/",
+        "twitter": "https://x.com/Alex__Pinel",
+        "bio": "Building lunar landers. Co-CEO of Instinct. Graduate in Space Engineering at UCL and Aerospace engineering at QMUL. At Open Cosmos, he worked in project management on the PHISAT-2 and HAMMER Earth observation satellites, both launched in 2024 and now in orbit. Published research on the usage of machine learning for detecting Coronal Mass Ejections (CMEs) at the Mullard Space Science Laboratory.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2686a16bde1511b7fc8f5979a461225a3ce9bc36.jpg"
+      },
+      {
+        "name": "Joaquim Dickson",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/joaquim-ropd/",
+        "bio": "Building lunar landers. CTO at Instinct. Studied Physics at Imperial College London and Space Technology at UCL. Worked on the magnetometer (MAG) for NASA's IMAP spacecraft with Imperial's Fluxgate Magnetometer Laboratory. Also worked on the Solar Wind Analyser (SWA) instrument suite aboard ESA's Solar Orbiter spacecraft with UCL's Mullard Space Science Laboratory.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b6505e0e0f06bad77f9a710345a84337c3daffe1.jpg"
+      },
+      {
+        "name": "Ashwin Iyer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ashwin-iyer-626263245/",
+        "bio": "Building rideshare compatible lunar landers. Ashwin is the co-founder and co-CEO of Instinct. He studied mechanical engineering at QMUL in London and holds a Master in Industrial Systems, Manufacturing and Management from the University of Cambridge. Ashwin has also worked at Imperial College London, researching Rolls Royce jet engines as well as undertaken consulting projects as part of a team at Cambridge across a variety of industries including Venture capital, Metalworking and Electronics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eb93731bd9cfc0a59ed3ff2d5a210efdf7a84bcf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

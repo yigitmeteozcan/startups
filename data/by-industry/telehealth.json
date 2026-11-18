@@ -1056,7 +1056,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Berthelot",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/maximeberthelot",
+        "twitter": "https://x.com/Iam_maxb",
+        "bio": "Founder & CEO of Lucis - Function Health for Europe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f337e783f5b5078b1a024f4398dec8b991c2803e.jpg"
+      },
+      {
+        "name": "Baptiste Debever",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/bdebever",
+        "twitter": "https://x.com/baptistedebever",
+        "bio": "Building the AI health navigator that extends your healthspan. 🇫🇷 engineer, repeat founder. Prev engineer at Gorgias.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/33dcc92fc4a77cc0d871820e1c4d07ac58a5cae8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

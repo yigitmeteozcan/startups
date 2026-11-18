@@ -475,7 +475,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Gibbon",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/daniel-gibbon-/",
+        "bio": "CEO of Edexia. Second-time technical founder. Previously built an EdTech to 200k ARR at 18 in 1 year while achieving a perfect GPA. TEDx Speaker on AI in education. Ranked in the top 30 in my state out of high school.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9ddc48143a5db5276ad254ac68a474e7f04ca806.jpg"
+      },
+      {
+        "name": "Nathan Wang",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/nathan-wang-b73966235/",
+        "bio": "CTO of Edexia. Second-time technical founder. Previously built an EdTech to 200k ARR at 17 in 1 year while achieving a perfect GPA. Ranked in the top 200 in my state out of high school.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2569b3d8c98d012d8b5357cd20f6f32e74f0430d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

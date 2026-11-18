@@ -143,7 +143,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Johnny Chen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/johnnychen54/",
+        "bio": "2nd time founder now automating back office functions for dental clinics. Built one of the first AI B2B cold email solutions (backed by SoftBank) to $1m in ARR using GPT-J. Background in full stack engineering, operations management, and B2B marketing. Previously worked at Ford Motor’s R&D lab as a software engineer.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3bb9c5027373836a24ef758940becc0783473a2.jpg"
+      },
+      {
+        "name": "Matt Kerrigan",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/mkerrig/",
+        "bio": "2nd time technical founder at Toothy AI, where I'm working on automating back office operations for dental clinics. First journey ended in Salezilla, a LLM-based cold email campaign tool that launched before ChatGPT, it is still operating today. Before that I was in a ML role at a startup that was acquired by Nordstrom.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8ef18191243b4a9bfe0ed4a8fecb3109583b387d.jpg"
+      },
+      {
+        "name": "Tejas Konduru",
+        "role": "Founder/CRO",
+        "linkedin": "https://www.linkedin.com/in/tejas-konduru",
+        "bio": "Helping build the largest healthcare AI company!",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

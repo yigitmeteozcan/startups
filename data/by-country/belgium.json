@@ -432,7 +432,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lander Degreve",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/lander-degr%C3%A8ve/",
+        "bio": "Co-Founder & CEO at Spott. Previously worked at Bain building an AI job match tool and built a GenAI consulting-case interviewer as a side project. Background in Financial Statistics with internship in IB at JPMorgan and Master's degree at Bocconi.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/db9217de51f42f1302f54fe35ad3d737c34bac93.jpg"
+      },
+      {
+        "name": "Manu Vanderveeren",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/manuvanderveeren/",
+        "bio": "Co-Founder & COO at Spott. Previously worked at McKinsey on Strategy, Tech DD and HR projects. Background in Finance with internships in IB & PE at Morgan Stanley and CVC. Master's degree in Financial Analysis at LBS",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b653a50317da1d95d95fdb820ed02c07764a2651.jpg"
+      },
+      {
+        "name": "Samuel Smeys",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/samuelsmeys/",
+        "bio": "Co-Founder & CTO at Spott. Previously worked at BCG, building Data & ML pipelines for Recruitment Agencies in the UK, USA, EU with a wide range of industry, experience & staffing type specializations. Background in Mathematical Statistics, Machine Learning & AI. Backend, DevOps & Infra enthusiast. Master's degree in Statistics at LSE.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/966e397c46b42f03d2d4ab5edad7d8c25df0da2d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

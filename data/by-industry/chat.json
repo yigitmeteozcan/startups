@@ -143,7 +143,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Simon Farshid",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/simon-farshid",
+        "twitter": "https://twitter.com/simonfarshid",
+        "bio": "Simon is the Founder and CEO of assistant-ui. He previously co-founded READO, a book recommendation engine, and grew it to 140k MAUs. Simon started coding at age 12 and has won 8 hackathons in 5 countries.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af1d0d9c7c17a63007af5dd69ffcd511a7d9bd4e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -144,7 +144,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Noah Auerhahn",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/noahauerhahn/",
+        "bio": "Serial Entrepreneur Building Therapies and New Biz Models for Rare Disease",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4e34b75273ea4671f2164eda22e1e988ee2388da.jpg"
+      },
+      {
+        "name": "Ryan Lim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ryanlimphd",
+        "bio": "Biotech entrepreneur and biomedical scientist specializing in modeling neurological disorders using stem cells, in vivo models, and computational biology to drive breakthroughs in neurological diseases",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c15bdfc25499f8bf1197bea4e37a0939dbb6405.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

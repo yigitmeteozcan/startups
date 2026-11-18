@@ -662,7 +662,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Areg Nzsdejan",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/areg-nzsdejan-85b894a1/",
+        "bio": "Formerly Product Owner at Revolut leading Diversified Assets & Engagement teams, managing 14 engineers and launching ETFs, EU stocks and Bonds to millions of customers. Prior to that worked as a management consultant at Oliver Wyman and studied Mechanical Engineering at Imperial College London.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9f7fd47f8c5c4f18d388ea21bff8166ba6399e9e.jpg"
+      },
+      {
+        "name": "Dmytro Astakhov",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/dmytro-astakhov",
+        "bio": "Formerly Senior Software Engineer at Revolut leading development of ETFs and EU stocks to millions of customers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c4034a64643b890ed1279beeeb6d8f2690f0f651.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

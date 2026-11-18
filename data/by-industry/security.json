@@ -4351,7 +4351,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Chantavy",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alexchantavy/",
+        "twitter": "https://twitter.com/alexchantavy",
+        "bio": "Co-founder & CEO at SubImage. Former Staff Engineer at Lyft: Created https://cartography.dev, the open source security graph. Built first-of-its-kind container scanning and remediation platform. Former Security Engineer on Microsoft Red Team: did cloud hacking before it was cool. Worked on [REDACTED] at the NSA.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3f58380a1968d90842eb10d30199dc4bb3d225e2.jpg"
+      },
+      {
+        "name": "Kunaal Sikka",
+        "role": "Founder/President",
+        "linkedin": "https://www.linkedin.com/in/kunaals/",
+        "twitter": "https://x.com/kunaalsikka",
+        "bio": "Co-founder at SubImage. Previously Member of Technical Staff at Anthropic and Staff Engineer at Lyft. At Lyft, reported directly to CISO, new grad to Staff Engineer in 4 years. Architected SIEM, insider abuse, and vulnerability management platforms. Graduated from University of Washington CS in 2 years.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/18be59b9dcd7652581e0ede30067d114ecaac56f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4387,7 +4404,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ansh Gupta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gupta-ansh",
+        "bio": "Co-Founder/CTO @ Candor (https://candor.security/). We help companies protect themselves from data loss and insider threats with AI.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b5ede187d11f52f613d3711eada87cdc8a0c23b.jpg"
+      },
+      {
+        "name": "Aditya Iyengar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aditya-v-iyengar",
+        "bio": "Co-founder @ Candor. Prev SWE @ Flutterflow (W21), Uber, and NASA.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a6ea81edf6ac8bc6f2c111cae88700e84d81acdf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4424,7 +4456,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Wojciech Błaszak",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/wojciech-błaszak11/",
+        "bio": "Wojciech is the cofounder & CEO @ Golf. Wojciech started building first company at 14, scaling it to $200k rev. He dropped out of university after one semester to keep building full-time. He has previously worked on multiple AI products, including an AI SDR and infrastructure for AI agents. Wojciech also started a community for young Polish hackers and scientists.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9a5daa1c44dcd87e2763d40b6840f93abec96904.jpg"
+      },
+      {
+        "name": "Antoni Gmitruk",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/antoni-gmitruk-80a268211",
+        "bio": "Antoni is the cofounder & CTO @ Golf. Antoni started building at 15 by creating a fully automated 3D printer. He dropped out of university after one semester to keep building full-time. He has previously worked on multiple AI products, including an AI SDR and infrastructure for AI agents. Antoni also started a community for young Polish hackers and scientists.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2e0b52ea49b6bc7e7ceceb4127f248f43085852e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4460,7 +4507,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bereket Engida",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/bekacru/",
+        "twitter": "https://x.com/bekacru",
+        "bio": "I’ve spent the past few years building developer tools and contributing to open source projects, mostly in TypeScript - including libraries like Better Call, Better Fetch, Loglib and Better Auth. Before that, I worked across several products, which is where I first got obsessed with making dev infra more usable. I care a lot about good DX, clean APIs, and building things that actually ship.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da6169f6f81e9fa0e7fd8311a4df990285887bbf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4498,7 +4554,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tanya Verma",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tanya-verma-130a23124/",
+        "bio": "Co-founder @ Tinfoil | Systems, Cryptography and AI @ Cloudflare | CubeSats & CS @ UIUC",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/71e19f53dbd482777277fb5c1899f8ee0808a80f.jpg"
+      },
+      {
+        "name": "Jules Drean",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jdrean",
+        "twitter": "https://x.com/julesdrean",
+        "bio": "Jules has an MIT PhD in secure hardware and confidential computing. He has industry experience working at Microsoft Research and NVIDIA on the technologies underlying Tinfoil. During his PhD, Jules has built secure enclaves from the ground up and studied how to attack and defend these systems against advance microarchitectural attacks. His work also looked at using trusted hardware to securely deploy advanced cryptographic primitives such as FHE and MPC.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e2e2ad4734fda8e101f5d5cfb506c5944356a36.jpg"
+      },
+      {
+        "name": "Sacha Servan-Schreiber",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sacha-servan-schreiber-308341305",
+        "twitter": "https://x.com/sachaservan",
+        "bio": "Co-founder of Tinfoil | PhD at MIT in cryptography Personal website: sachaservanschreiber.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/33096fdaf7641b0498b900f6e2b99c126f850834.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4532,7 +4612,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rene Brandel",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/renebrandel",
+        "twitter": "https://x.com/renebrandel",
+        "bio": "CEO of Casco. We hack software before bad actors do.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e050496fe07bfb07ba5a2473d14c8b3d76c7438b.jpg"
+      },
+      {
+        "name": "Ian Saultz",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/iansaultz/",
+        "bio": "Founder & CTO of Casco",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f09a1e1f681563d9e2bb0167258d82041ecbef1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4570,7 +4666,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brandon Veiseh",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/brandon-veiseh-77762113a/",
+        "twitter": "https://twitter.com/bveiseh",
+        "bio": "Co-founder and CEO of MindFort AI. Previous founder, product leader in AI and Security.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6adfd0bc0deb384b42ebb12dc0a50a3df70f67ac.jpg"
+      },
+      {
+        "name": "Akul Gupta",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/akulguptax/",
+        "bio": "Co-founder and CTO of MindFort.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c33e727522c067e9599fb5756c86eb381545c180.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4607,7 +4719,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Antoine Bouchardy",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/antoinebouchardy/",
+        "bio": "Probo co-founder & CEO. Cybersecurity auditor with a data & product background.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/33fd1c4954b833c489ebb4ed6da203da5e451490.jpg"
+      },
+      {
+        "name": "Bryan Frimin",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/gearnode",
+        "twitter": "https://www.twitter.com/gearnode",
+        "bio": "CTO & Co-founder of Probo. French engineer building an open-source AI platform that simplifies SOC2/ISO27001 compliance.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4239e339bb04f3406fd6b9fe2d14cbc0625f40d3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4644,7 +4772,32 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Pollard",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mmpollard/",
+        "twitter": "https://x.com/maxpollard415",
+        "bio": "Building AI agents and infrastructure to help security teams detect threats, investigate alerts, and respond. Co-founder and CEO of Cotool. San Francisco native.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a3e5bb1453fdc94ab1ddc26b05036ed17d06b708.jpg"
+      },
+      {
+        "name": "Logan Carmody",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/logan-carmody/",
+        "twitter": "https://x.com/endorseurgirl",
+        "bio": "building Cotool for security teams hmu if you're interested in chatting (opp|app)-sec, agents, trail running or cycling",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/05e1063a714ee172a41aecc6b0eb0b25ab451463.jpg"
+      },
+      {
+        "name": "Eddie Conk",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/eddieconk",
+        "twitter": "https://x.com/eddieconkml",
+        "bio": "Building Cotool to help security teams eliminate manual & repetitive tasks.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4fae79b207cffda00fa166e58974e0c57e47421d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4681,7 +4834,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christopher Lambert",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/~chris/",
+        "twitter": "https://x.com/theriley106",
+        "bio": "Building BitPatrol — AI-powered secret detection that actually works. ex-Stripe, Tesla, Lyft.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/91f2d4b7be340fcad47a8c214790d2be665e9e90.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6122,7 +6284,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sonny Tai",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/sonny-tai-51281515/",
+        "bio": "Founder at Verdun. Previously founded and led Actuate (computer vision for physical security) as CEO for 7 years. Former US Marine Corps Captain and Afghanistan veteran.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/651db6ffa2a0fea90043f76cef39f45569718e9e.jpg"
+      },
+      {
+        "name": "Tung Thanh Hoang",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/thoang3/",
+        "bio": "Founder at Verdun. Previously Senior Software Engineer - AI at LinkedIn, where he built Function Calling for LinkedIn's 8B foundation model that outperformed GPT-4o on the Berkeley Function Calling Leaderboard. Led Continued Pre-Training and large-scale retrieval systems. PhD in Applied Mathematics from UIC.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d569b35c6e80bbfba1ca1d1478d1c4a6c0cb6f6b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6159,7 +6336,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ananay Arora",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ananay",
+        "twitter": "https://twitter.com/ananayarora",
+        "bio": "Founder/CEO at OpenHack (YC F26). Hacking for over 12 years, with bug bounties from Meta, Apple, Perplexity, YC, Department of Homeland Security and more. Author of CVE-2026-36755. Previously SWE @ Apple and Cybersecurity @ ASU.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d72b9a8183ee048345720aed35bf764c7239d713.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6194,7 +6380,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Slavko Kovačević",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/slavkokovacevic/",
+        "twitter": "https://x.com/realslavko",
+        "bio": "Founder/CEO at DeepMark (YC F26). PhD candidate in Computer Science. Cited by Meta, Microsoft, Sony, and Adobe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de19c1d8562fd357c3a264bee57209047824e480.jpg"
+      },
+      {
+        "name": "Kosta Pavlović",
+        "role": "Founder/CSO",
+        "linkedin": "https://www.linkedin.com/in/kosta-pavlovic",
+        "bio": "Founder/CSO at DeepMark (YC F26). PhD in Computer Science. Pioneer of learning-based digital audio watermarking.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/283edba47bb01fec63f8e445013165464636ab64.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

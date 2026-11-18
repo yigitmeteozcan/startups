@@ -1860,7 +1860,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Eric Button",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ericjacobbutton/",
+        "twitter": "https://x.com/ericjacobbutton",
+        "bio": "Building AI systems for aviation. Former professional pilot (2,200 hours, G280 type rating with Part 135 experience).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/23fe2f9ac9bcdee679be118784125edc6153e525.jpg"
+      },
+      {
+        "name": "Kristian Gaylord",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kaylord/",
+        "twitter": "https://x.com/kayolord",
+        "bio": "Building AI for air traffic control. FAA Private Pilot. Prev embedded computer vision for satellites @ Pilot AI (acq'd). Prev high frequency trading in Rust. Statistics & Computer Science @ Columbia",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3d997ffbbc91241def17c17986069ad8fdeb8628.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1895,7 +1912,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ben Schleuniger",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/bschleuniger/",
+        "bio": "Ben Schleungier is the Co-founder and CEO of Orbital Operations. He started his career at NASA in propulsion before moving on to SpaceX and then as an early employee at Relativity Space. He owned the fluid systems for the TM1 rocket, the complex heat exchangers on the AeonR engine, and built the Components team and the Integrated Design and Analysis teams from the ground up. Ben has an deep understanding of rocket engine design and analysis and building high performance engineering teams.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/28a37ff4551ef1583637a20fcd425212f92ae670.jpg"
+      },
+      {
+        "name": "Ross Doherty",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/ross-doherty-992a2790",
+        "bio": "Ross is the Co-founder and COO of Orbital Operations. He has spent his entire career in the aerospace industry, from Aerojet Rocketdyne, to Blue Origin, and most recently Relativity Space, where he owned all turbomachinery manufacturing and assembly for the Aeon-R engine. He was also responsible for the Flight Termination System test and qualification program for the TM-1 rocket. Ross has deep expertise in complex manufacturing processes, assembly, test, and chemical propulsion development.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a85ac49cf9e448f74a706db3c0ceae44b87fa431.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1933,7 +1965,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Stef Crum",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/spcrum/",
+        "twitter": "https://x.com/StefReditus",
+        "bio": "CEO Reditus Space - Space Systems Engineer Space Systems Engineering PhD, worked with NASA and Space Force on orbital operations and reentry. Founded Da Vinci Satellite, a satellite mission non-profit.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e5da8427c01c1ced92fb4375f6dbf2541ffdee78.jpg"
+      },
+      {
+        "name": "Will Sherman",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/willamasherman/",
+        "bio": "CTO Reditus Space - Georgia Tech PhD dropout",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6bb49f20a0b9d5d15773ae4b4ed4fb47472edf81.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1972,7 +2020,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Pinel Neparidze",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alex-pinel/",
+        "twitter": "https://x.com/Alex__Pinel",
+        "bio": "Building lunar landers. Co-CEO of Instinct. Graduate in Space Engineering at UCL and Aerospace engineering at QMUL. At Open Cosmos, he worked in project management on the PHISAT-2 and HAMMER Earth observation satellites, both launched in 2024 and now in orbit. Published research on the usage of machine learning for detecting Coronal Mass Ejections (CMEs) at the Mullard Space Science Laboratory.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2686a16bde1511b7fc8f5979a461225a3ce9bc36.jpg"
+      },
+      {
+        "name": "Joaquim Dickson",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/joaquim-ropd/",
+        "bio": "Building lunar landers. CTO at Instinct. Studied Physics at Imperial College London and Space Technology at UCL. Worked on the magnetometer (MAG) for NASA's IMAP spacecraft with Imperial's Fluxgate Magnetometer Laboratory. Also worked on the Solar Wind Analyser (SWA) instrument suite aboard ESA's Solar Orbiter spacecraft with UCL's Mullard Space Science Laboratory.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b6505e0e0f06bad77f9a710345a84337c3daffe1.jpg"
+      },
+      {
+        "name": "Ashwin Iyer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ashwin-iyer-626263245/",
+        "bio": "Building rideshare compatible lunar landers. Ashwin is the co-founder and co-CEO of Instinct. He studied mechanical engineering at QMUL in London and holds a Master in Industrial Systems, Manufacturing and Management from the University of Cambridge. Ashwin has also worked at Imperial College London, researching Rolls Royce jet engines as well as undertaken consulting projects as part of a team at Cambridge across a variety of industries including Venture capital, Metalworking and Electronics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eb93731bd9cfc0a59ed3ff2d5a210efdf7a84bcf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2010,7 +2081,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mehul Shah",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mehulmshah22",
+        "bio": "Spent 8 years building software for my family business in PCB manufacturing. Now Co-founder & CEO of GroundControl (X25).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c066fd2aa1f87a4059440d6cc18d201337bbc4d8.jpg"
+      },
+      {
+        "name": "Matthew Noseworthy",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/matthew-noseworthy-218167106/",
+        "bio": "Childhood script kiddie, ECE Undergrad, Founded/Exited inspectAR, now CTO @ GoundControl",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5ea6a156dd22b216a1d70d2beaea7c6e6d1c2c04.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2050,7 +2136,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jacob Portukalian",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jacob-portukalian",
+        "twitter": "https://x.com/jportukalian",
+        "bio": "Cascade was founded by Jacob Portukalian, architect of comms systems at SpaceX, Tyvak, and Astra. He has assembled a team of elite space engineers to scale communications infrastructure for the next generation of space exploration companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ec0d743fbdca8073e2272c94f64f25dc2b4502bc.jpg"
+      },
+      {
+        "name": "Arlen Abraham",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/arlenabraham/",
+        "bio": "Arlen is a deep generalist who thrives at the interfaces between hardware, software/firmware, product, and business. He brings a wealth of technical and leadership experience, not only from the aerospace industry, but also from consumer goods, communications, and energy.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/33d4c97f7c373e420260fa770b8870398e382c7e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2762,7 +2864,38 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Charlie Weise",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/charlieweise/",
+        "twitter": "https://x.com/_charlieweise",
+        "bio": "Chief Executive Officer: Previously worked on ESA's Argonaut Moon Lander engine and space telescope.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/82035ba1fa3819c04cf44c2df2011bd5d26c8507.jpg"
+      },
+      {
+        "name": "Matty Driesnack",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/matty-driesnack/",
+        "twitter": "https://x.com/MattyDriesnack",
+        "bio": "Founder/COO at RATLOG (YC F26). Founding team at Lio (YC S23, a16z), working closely with CEO and COO. MS Business Administration from TU Dresden.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/03cd305c416d6b285b67fb6e178047263253fb7d.jpg"
+      },
+      {
+        "name": "Felix Kelm",
+        "role": "Founder/Engineering",
+        "linkedin": "https://www.linkedin.com/in/felix-kelm-666a00407/",
+        "bio": "Founder/Engineering at RATLOG. Previously Electronics Lead at Innuendo, goal of building an air-breathing cruise missile powered by a rotating detonation engine. Developed PCB since age 16. Electrical Engineering at TU Dresden and Telecommunication at INSA Lyon.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/98f173382ff29f29da37dec1c79babddafe8b170.jpg"
+      },
+      {
+        "name": "Paul Kunhart",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/paul-kunhart-577266392/",
+        "bio": "Founder/CTO at RATLOG (YC F26). Designed rocket engine nozzles for ESA's Argonaut lunar lander at Technical University Dresden's Aerospace Institute. Previously co-founded Innuendo, leading engine design on an air-breathing cruise missile powered by a rotating detonation engine. Studying Aerospace Engineering at TU Dresden.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2b491647c0e51e6d70592ca9d0b3c7bbce37073c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

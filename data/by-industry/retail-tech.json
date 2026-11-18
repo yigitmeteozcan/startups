@@ -654,7 +654,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kaushik Mahorker",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/kaushikmahorker",
+        "twitter": "https://x.com/kaushikm_",
+        "bio": "CEO at Goodshelf. Previously, Engineering Manager at Scale AI where I led the GenAI Allocation team. Built the ecommerce enrichment engine for the largest company pilot - enriching 2.4M attributes across 400K SKUs. Former Eng at AWS Elastic File System. UCLA Masters CS and UCSB CS undergrad.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/db6f2cd82eff70fd8c93170732c84adac4e19eb2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -692,7 +701,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Samarth Malhotra",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/sam-malhotra",
+        "bio": "Founder/CEO at Theseus Robotics. Previously founded and scaled Parts World USA from sub-$100k to $3M revenue in 4 years by building global supply chains across China, India, Vietnam, Malaysia & USA. Founded Jumps Tronic (hardware manufacturing). Worked on ML at Facebook and HP. BS in Computer Science from Carnegie Mellon; Dropped out of ETH Zürich.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/403466207082fcec6636388b8a98bc53905bd948.jpg"
+      },
+      {
+        "name": "Kristof Floch",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kristof-floch",
+        "twitter": "https://x.com/kristof_floch",
+        "bio": "Founder/CTO at Theseus Robotics, developing AI for humanoids that restock shelves and pick grocery orders. Previously VP of Technology at ETH Robotics Club, leading 120 robotics students across six teams. Researched high-performance learning-based control at ETH Zürich and SZTAKI. First-author publications in IEEE TCST and at ECC. ETH Zürich Excellence Scholar in Robotics, Systems and Control.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0b4fc486294601139a191d8aea184d2510aa5880.jpg"
+      },
+      {
+        "name": "Ádám Weinhardt-Kovács",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/adam-weinhardt/",
+        "twitter": "https://x.com/AdamWeinhardt",
+        "bio": "Founder/CPO at Theseus Robotics. Previously robotics engineer at Flink Robotics, where he led deployment of a pick-and-place system at live sorting centers achieving 600 picks/hour matching human performance. Designed full robotic work-cells and built custom pneumatic grippers. Published ML research on vehicle dynamics at IFAC SYSID 2024. MA in Robotics from ETH Zürich.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/49ba95ea880e2aa533b2c69d0ea69f567dcda74d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

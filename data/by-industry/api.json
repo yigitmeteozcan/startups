@@ -4772,7 +4772,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sarthak Srinivas",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/sarthaksrinivas",
+        "twitter": "https://x.com/sarthaksrinivas",
+        "bio": "Cofounder of Quantstruct (YC W25). Building robot housekeepers for hotels. Previously shipped agent developer platform from 0 to mid-$X million as product lead while onboarding multiple Fortune 100 companies at Moveworks. Published research with Google Glass inventor (who coined “wearable computing”) at Georgia Tech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/53c8d474f7b538952351293be7419ca04ffed1f7.jpg"
+      },
+      {
+        "name": "Newman Hu",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/newmanhu/",
+        "bio": "Co-founder of Quantstruct. We're building AI agents to create the best documentation for your product. Newman previously built search infrastructure at Moveworks and Replit (YC W18), where he managed mission critical platforms powering Gen AI experiences for Fortune 500 companies. EECS @ Berkeley",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/88254d54a8617f62e7b8bcf5ecd8f107a1e630eb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4810,7 +4826,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Wilco Kruijer",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/wilcokruijer/",
+        "twitter": "https://twitter.com/WilcoKr",
+        "bio": "CEO & Co-founder at ReJot, previously worked on a distributed financial platform at Adyen. Interested in the relation between distributed data and software maintainability.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c559d7b970c16e5775029a16c951070b472d676c.jpg"
+      },
+      {
+        "name": "Jan Schutte",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jan-schutte-183145135/",
+        "twitter": "https://x.com/Jan_Schutte",
+        "bio": "CTO & Co-founder at ReJot, former Data Platform Engineer at Adyen, interested in distributed systems and database technologies. Current product is https://fragno.dev/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5b79dd57e3e607f50dbdb4bce0ff2926a9e3da01.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4847,7 +4880,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Magnus Müller",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/magnus-mueller",
+        "twitter": "https://x.com/mamagnus00",
+        "bio": "CEO of browser-use. Repeated founder. Scraping hobbyist + ML researcher. I have published for Cambridge CARES, studied Data Science at ETH Zurich, and worked in R&D for process automation companies. Since I learned to code, I have developed bots and web automations.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed8efa118458bf376ecd96aab3e4017fb16ee229.jpg"
+      },
+      {
+        "name": "Gregor Zunic",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/gregorzunic",
+        "twitter": "https://x.com/gregpr07",
+        "bio": "I love solving hard problems. Data Science masters at ETH Zurich, bachelors in Physics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e41c2f60aa7a0d2a3d38cf19d6d87d9f5c8ca3ef.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4885,7 +4935,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bernardo Simonassi",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/bernardosm",
+        "twitter": "https://x.com/bebedaselva",
+        "bio": "Co-Founder & CEO @ BlindPay — Stablecoin API for global payments. Has been shaping the stablecoin payments industry for the past 3 years, during which he developed the first payroll platform powered by stablecoins. Previously at PicPay, he developed instant payment solutions serving 60M+ users.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2e8c4b7027ac80cdbaedd402799df3c16df8960d.jpg"
+      },
+      {
+        "name": "Joao Borges",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joaoborgesjr/",
+        "twitter": "https://x.com/joaocsb",
+        "bio": "Co-Founder @ BlindPay — Stablecoin API for global payments",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c427a5e11824b6d0f01f3c6a7e625e2779a13e3.jpg"
+      },
+      {
+        "name": "Gustavo Marinho",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/gustavomarinho/",
+        "bio": "Co-Founder & CPO @ BlindPay — Stablecoin API for global payments. Specializing in consumer-facing financial products for Latin America, I bring over 8 years of experience building digital products. At PicPay (60M+ users), I led the design of a loans marketplace and instant payment initiatives, processing $1.2M in daily loans during MVP phase. As Co-founder of Dropull, I built and scaled a social gaming platform to 1M users.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8e6b7abed2477e4cfcf65814f4db9bcb93e1384e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4923,7 +4997,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Hofer",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mwhofer/",
+        "bio": "On a mission to end data monkey work. Former Bain consultant with deep expertise in enterprise data workflows and a PhD in applied ML.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9b31762b1842413440fc93f48220dba18019a750.jpg"
+      },
+      {
+        "name": "Greg Csegzi",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/gergely-csegzi-553b1aa5",
+        "bio": "Bridging reliability for AI driven extractions. Ex-Palantir, experience in life sciences, insurance, manufacturing",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/549bea3c58990168865b1ba6d92a2e2869e8a673.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4960,7 +5049,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Trehan",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/michaeltrehan",
+        "bio": "Building HABIT. Prev: SWE @ Radiant Nuclear; Investment Banking @ JP Morgan. Berkeley M.E.T. alum.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/473afbd7753b7e048826def35476749260c6fb85.jpg"
+      },
+      {
+        "name": "Harish Palani",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/harishkpalani",
+        "bio": "Building HABIT. Prev: AI/ML Research Scientist @ Amazon; led deep learning projects at Twitch. Berkeley M.E.T. alum.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b7709d4851ba41b48004b5910bd0a34dd73af38a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5661,7 +5765,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Elias Karatzas",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/thomas-karatzas-a3015a94/",
+        "twitter": "https://x.com/karatzas_thomas",
+        "bio": "Founder at Terse AI. Previously Staff Engineer at Apple for 7 years, working on Siri and Apple Intelligence. Earlier founded Know Your VC (acquired by RateMyInvestor). Software Engineering degree from McGill University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8dad0537303f1f75e956ab8e949aa67c25a10c1a.jpg"
+      },
+      {
+        "name": "Olivier Simard-Morissette",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/olism/",
+        "twitter": "https://x.com/oliviersm199",
+        "bio": "Founder at Terse AI (YC F26). Previously Principal Software Engineer at Pigeon (YC W23) and Senior Software Engineer at Squarespace and The New York Times.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de69a7c7f1f333314f2b1851a8214ce85e124b49.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5699,7 +5820,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shawn Pana",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/shawnpana/",
+        "twitter": "https://x.com/shawn_pana",
+        "bio": "Founder/CEO at Phone Harness (YC F26). Previously Head of Growth at Browser Use, leading product launches and developer partnerships. Studied Mathematics and Computer Science at UC San Diego.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c21b64c068301f68e92e3d0dfc6a04e8b403d45c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -281,7 +281,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nicole Lu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/lu-nicole/",
+        "bio": "Nicole is co-founder and CEO of sieve, which is solving data cleaning for hedge funds and investment firms. She previously worked at Citadel across Equity Quant Research, Global Trading, and Data Science groups, was a management consultant at McKinsey, and developed cancer detection algorithms at the Broad Institute.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8afeb7c737351a294c8a72c2510ef4df86a819d9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -451,7 +459,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kevin Gauthier",
+        "role": "Founder/Co-CEO",
+        "linkedin": "https://www.linkedin.com/in/kevin-gauthier-7b663b87/",
+        "twitter": "https://x.com/kgauthier15",
+        "bio": "Co-CEO at Jinko. Previously co-founder at Mowgli, grew to 450K users in 6 months with zero marketing spend before exit to Hopper. At Hopper, led European expansion from 0 to $70M GMV and $9M revenue in under 2 years. Previously co-founder at Winglet, an NDC aggregator for travel sellers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/99ae5d3db59a06faf26af3eaac81f232b07f15ae.jpg"
+      },
+      {
+        "name": "Sebastien Texier",
+        "role": "Founder/Co-CEO",
+        "linkedin": "https://www.linkedin.com/in/sebastientexier/",
+        "bio": "Co-CEO at Jinko (YC F26). Previously GM Europe at Hopper, scaling from 0 to $70M GMV and $9M revenue. Founded Mowgli, a Gen Z travel app that hit 450K users in 6 months with zero marketing spend and ranked #1 in French App Store before being acquired by Hopper. Earlier founded Winglet (raised $1.2M+, awarded most innovative travel company by IATA). 15+ years in travel including leadership roles at Air France/KLM managing $500M+ partnerships.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed7b60740d9ff78ddb437ede11924ab3a123b90f.jpg"
+      },
+      {
+        "name": "Shuai ZHANG",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/shuai-z-429a9051/",
+        "bio": "Co-founder & CTO at Jinko. Previously CTO at Mowgli, where I built a travel app in 6 months that gained significant user traction before its acquisition by Hopper. At Hopper, built the EMEA engineering team. Previously CTO at Winglet, an NDC aggregator for travel sellers. École Polytechnique alumnus with expertise in AI, data infrastructure, and travel technology. Participated in the AI Mathematical Olympiad (AIMO), fine-tuning a model for mathematical reasoning.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/649f6c605f90cbc1f81fc8fe47ae6fafe1a0886b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

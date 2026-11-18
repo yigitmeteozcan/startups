@@ -1408,7 +1408,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Iseman",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/adamiseman",
+        "bio": "I'm the CEO of Red Barn Robotics where we are building an autonomous weeding robot to help healthily feed the world.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f0eff0617da99a47f99dce8f84d7f9be22b30910.jpg"
+      },
+      {
+        "name": "Ilya Kelner",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ilyakelner/",
+        "bio": "CTO/cofounder at Red Barn Robotics. Previously worked on: Flight software and testing architecture @ Relativity Space - Flight software lead. Built: triple string fault tolerant flight computer architecture, Dockerized flight software deployments, CI/CD for HOOTL, HITL, VITL. Autonomous cars @ Nvidia. Starlink @ SpaceX. Xbox @ Microsoft. Early employee at 2 other startups in the past.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eb20e30f0c93956ebe963274bcacca8e448b5d7f.jpg"
+      },
+      {
+        "name": "Alex Neff",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/alex-neff-2245732b/",
+        "bio": "Co-founder and COO of Red Barn Robotics, building an autonomous weeding robot to help healthily feed the world. Previously Senior Product Manager at Amazon where I led the development of new ML based search algorithms.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e4b51c3e5b8f44058daf4e71f15df7ea3dad456.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

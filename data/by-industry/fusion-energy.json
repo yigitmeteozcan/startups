@@ -63,7 +63,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Justin Cohen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/justin-cohen707",
+        "bio": "Nuclear engineer and plasma physicist working on fusion reactors for defense and commercial shipping applications. Previously Tesla, SpaceX, Columbia University, Princeton Plasma Physics Laboratory, NC State.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c63b262e560db673d53a59a25f5d906a3b7acaef.jpg"
+      },
+      {
+        "name": "Jason Kaufmann",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jasonskaufmann/",
+        "bio": "I'm a hardware engineer with a passion for building cool electronics and systems. With a background in physics and computer engineering from Penn, I've worked on everything from AI hardware at Tesla to power systems for rockets at SpaceX. Currently focused on making a fusion reactor for ships.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de5bd445a30e5ded336464f26afb4873ba9b1435.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

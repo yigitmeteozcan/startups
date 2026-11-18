@@ -543,7 +543,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Li",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hey-paul/",
+        "twitter": "https://x.com/PaulTheLi",
+        "bio": "Paul is a three time founder. CS @ UWaterloo. Previously shipped coding extensions to 1.5M developers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e0d7413beeb4dafe34f215ef59323ff88d60ac1f.jpg"
+      },
+      {
+        "name": "James Jiang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jamesdreamcrafters/",
+        "bio": "Unlocking human potential with AI Serial Entrepreneur Ex-Amazon Software Developer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c8999cbcac17d038841a4908688b5d8be254bce6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

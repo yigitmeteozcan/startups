@@ -142,7 +142,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Richard Gong",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/richard-g-15852b22b/",
+        "bio": "Dropped out of medicine at Oxford to build humanoid robots for the home.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/81c7dc84e57f6a45dd2d098072df6cdf5c873de1.jpg"
+      },
+      {
+        "name": "Chenny (Qianyi) Deng",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/qianyi-deng/",
+        "twitter": "https://x.com/Chenny_Deng33",
+        "bio": "Founder @ Piggy Robotics (YC F25) ｜ PhD Candidate in Computer Science @ the University of Oxford ｜ Ex-Tencent AI researcher ｜ Founded the largest laser-tag arena in my city at age 13",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e7b598f4ae3dd0f4dd4988e9c3e4e0bdb0fc577f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

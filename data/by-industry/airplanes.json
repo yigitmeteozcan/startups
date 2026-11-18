@@ -506,7 +506,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Parker Jamieson",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/parker-j-70644531/",
+        "bio": "Founder & CEO at Keres (YC F26). Previously served 11 years as a USAF pilot, including F-16 and U-28A Evaluator Pilot roles. Led cadet training operations at HQ AFROTC. Currently IMA to NORAD J3 in the Air Force Reserve. Educated at the U.S. Air Force Academy and École de l'air et de l'espace.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ff56386ab960118b1c61c7bb15473e6b6ecbe419.jpg"
+      },
+      {
+        "name": "Christopher Palazzolo",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/cjpalazzolo/",
+        "bio": "Co-founder/CTO at Keres (YC F26). Previously Head of Operations at H3X Technologies. Spent 4+ years at Boom Supersonic, rising from Aircraft Technician to Director of Aircraft and Production Operations for the XB-1 supersonic demonstrator. Led avionics, flight test, and manufacturing. BS in Mechanical Engineering from Oakland University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eaec462025ae167d9bbb41d77ac9fac1a28f97be.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

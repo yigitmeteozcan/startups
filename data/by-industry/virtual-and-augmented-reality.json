@@ -726,7 +726,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Cayden Pierce",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/cayden-pierce/",
+        "twitter": "https://x.com/caydengineer",
+        "bio": "Worked with the inventor of smart glasses. Built the OpenSourceSmartGlasses hardware and demoed at CES. Joined MIT Media Lab to make proactive AI smart glasses. Dropped out of MIT to start Mentra.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/290607ab9db932c6e26a506f336d80a582498618.jpg"
+      },
+      {
+        "name": "Alexander Israelov",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/alexanderisraelov",
+        "twitter": "https://x.com/a_israelov",
+        "bio": "I started building smart glasses during my CS degree. Built the OpenSourceSmartGlasses hardware and proactive AI system. Worked at a spatial computing company in HK+Shenzhen to start Mentra.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9eee4da98679bc40a43bd2cf5de6567ce309487d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

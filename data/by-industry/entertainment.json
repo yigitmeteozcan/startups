@@ -1832,7 +1832,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Soroush Saryazdi",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/soroush-saryazdi-792365175",
+        "twitter": "https://twitter.com/S_Saryazdi",
+        "bio": "Soroush is co-founder of Swerve (YC W25). Previously, he led AI at Matic, building perception systems for autonomous home robots that raised $30M from the founders of Stripe, Twitter, and Nest. He co-authored Gradslam (1.4K GitHub stars) and has published at RSS. Soroush holds an M.S. in CS from Concordia University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c2f1fbfd51f754495ce3b1f2dcfec99770e60b85.jpg"
+      },
+      {
+        "name": "Jason Zhou",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jasonxzhou/",
+        "twitter": "https://x.com/jsn_zh/",
+        "bio": "Jason is co-founder of Swerve (YC W25). Previously, he led autonomy and simulation at Matic, building autonomous home robots. He holds B.S. and M.S. degrees in EECS from UC Berkeley, where he conducted robotics and AI research and was named a Siebel Scholar.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9793ba8e6b989044eb11ba0e47c55d5341997c07.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
