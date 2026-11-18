@@ -48,14 +48,14 @@ Accelerator portfolios are scattered across seven different websites, each with 
 - **343** accelerator programs / cohorts
 - **465** industry verticals
 - **119** countries · **104** world regions, across **23** cohort years
-- 🦄 **152** unicorns · 💰 **2,854** exits · 🌱 **29** B Corps · 👤 **7,354** founder profiles
+- 🦄 **152** unicorns · 💰 **2,854** exits · 🌱 **29** B Corps · 👤 **7,364** founder profiles
 - 📦 **810** companies no longer listed by their source are kept (`listed: false`) — nothing is ever deleted
 
 ### Source freshness
 
 | Source | Companies | Status | Last live fetch |
 |---|---|---|---|
-| [Plug and Play](https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups) | 6,444 | ✅ live | 2026-11-18 |
+| [Plug and Play](https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups) | 6,444 | ⚠️ cached | 2026-11-18 |
 | [Y Combinator](https://www.ycombinator.com/companies) | 6,398 | ✅ live | 2026-11-18 |
 | [Techstars](https://www.techstars.com/portfolio) | 5,199 | ✅ live | 2026-11-18 |
 | [500 Global](https://500.co/portfolio) | 2,243 | ✅ live | 2026-11-18 |

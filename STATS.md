@@ -8,7 +8,7 @@ _Auto-generated from the dataset on 2026-11-18._
 | 🦄 Unicorns ($1B+) | **152** |
 | 💰 Exits | **2854** |
 | 🌱 B Corps | **29** |
-| 👤 Founder profiles | **7,354** |
+| 👤 Founder profiles | **7,364** |
 | Current session | **69** |
 
 ## By source
