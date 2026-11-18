@@ -157,3 +157,17 @@ test('duplicate entries in a source never borrow each other\'s data', async () =
   assert.ok(r.companies.every((c) => !c.formerNames), 'no fake renames between duplicates');
   assert.equal(r.companies.length, committed.length);
 });
+
+test('an extra committed copy of a still-listed company is folded, not flagged delisted', async () => {
+  const twin = { source: 'plugandplay', name: 'Novolba', description: 'Batteries', website: 'https://novolba.com/' };
+  const committed = [...many('plugandplay', 40), twin, { ...twin, tags: ['Energy'] }, { source: 'plugandplay', name: 'Gone Co', description: 'x', website: 'https://gone.co' }];
+  const live = [...many('plugandplay', 40), { ...twin, description: '' }];
+  const r = await run({ plugandplay: async () => live }, committed);
+  const novolba = r.companies.filter((c) => c.name === 'Novolba');
+  assert.equal(novolba.length, 1, 'duplicate copy folded into the listed record');
+  assert.equal(novolba[0].listed, undefined);
+  assert.equal(novolba[0].description, 'Batteries', 'blank field backfilled');
+  assert.deepEqual(novolba[0].tags, ['Energy'], 'info from the folded copy kept');
+  assert.equal(r.companies.find((c) => c.name === 'Gone Co').listed, false, 'truly gone company still kept');
+  assert.match(r.statuses.plugandplay.reason, /^1 no longer listed/);
+});

@@ -168,40 +168,67 @@ const SOCIAL_FIELDS = ['linkedin', 'twitter', 'facebook', 'crunchbase'];
 const EXTRA_FIELDS = ['city', 'state_province', 'country', 'investor'];
 const empty = (v) => v == null || v === '' || (Array.isArray(v) && v.length === 0);
 
-function mergeWithPrior(prior, live) {
+// Merge one committed record (`match`) into one live record (`c`).
+function mergeRecord(c, match) {
   const norm = (s) => collapseSpaces(s).toLowerCase();
+  const out = { ...c };
+
+  const names = new Set([...(c.formerNames || []), ...(match.formerNames || [])]);
+  if (norm(match.name) !== norm(c.name)) names.add(collapseSpaces(match.name));
+  names.delete(collapseSpaces(c.name));
+  if (names.size) out.formerNames = [...names];
+
+  for (const f of BACKFILL_FIELDS) if (empty(out[f]) && !empty(match[f])) out[f] = match[f];
+  // Tags: keep earlier categories too (sources re-categorise over time).
+  if (!empty(match.tags)) {
+    const seen = new Set((out.tags || []).map((t) => String(t).toLowerCase()));
+    out.tags = [...(out.tags || []), ...match.tags.filter((t) => !seen.has(String(t).toLowerCase()))];
+  }
+  if (match.social) {
+    out.social = { ...(c.social || {}) };
+    for (const f of SOCIAL_FIELDS) if (empty(out.social[f]) && !empty(match.social[f])) out.social[f] = match.social[f];
+  }
+  if (match.extra) {
+    out.extra = { ...(c.extra || {}) };
+    for (const f of EXTRA_FIELDS) if (empty(out.extra[f]) && !empty(match.extra[f])) out.extra[f] = match.extra[f];
+  }
+  const liveFounders = Array.isArray(c.founders) ? c.founders : [];
+  const have = new Set(liveFounders.map((f) => norm(f && f.name)));
+  const keptFounders = (match.founders || []).filter((f) => f && f.name && !have.has(norm(f.name)));
+  if (keptFounders.length) out.founders = [...liveFounders, ...keptFounders];
+  for (const flag of ['isExit', 'isUnicorn']) if (match[flag] && !out[flag]) out[flag] = true;
+  return out;
+}
+
+function mergeWithPrior(prior, live) {
   const { pairs } = matchPrior(prior, live);
-  return live.map((c, li) => {
-    const match = pairs[li];
-    if (!match) return c;
-    const out = { ...c };
+  return live.map((c, li) => (pairs[li] ? mergeRecord(c, pairs[li]) : c));
+}
 
-    const names = new Set([...(c.formerNames || []), ...(match.formerNames || [])]);
-    if (norm(match.name) !== norm(c.name)) names.add(collapseSpaces(match.name));
-    names.delete(collapseSpaces(c.name));
-    if (names.size) out.formerNames = [...names];
-
-    for (const f of BACKFILL_FIELDS) if (empty(out[f]) && !empty(match[f])) out[f] = match[f];
-    // Tags: keep earlier categories too (sources re-categorise over time).
-    if (!empty(match.tags)) {
-      const seen = new Set((out.tags || []).map((t) => String(t).toLowerCase()));
-      out.tags = [...(out.tags || []), ...match.tags.filter((t) => !seen.has(String(t).toLowerCase()))];
-    }
-    if (match.social) {
-      out.social = { ...(c.social || {}) };
-      for (const f of SOCIAL_FIELDS) if (empty(out.social[f]) && !empty(match.social[f])) out.social[f] = match.social[f];
-    }
-    if (match.extra) {
-      out.extra = { ...(c.extra || {}) };
-      for (const f of EXTRA_FIELDS) if (empty(out.extra[f]) && !empty(match.extra[f])) out.extra[f] = match.extra[f];
-    }
-    const liveFounders = Array.isArray(c.founders) ? c.founders : [];
-    const have = new Set(liveFounders.map((f) => norm(f && f.name)));
-    const keptFounders = (match.founders || []).filter((f) => f && f.name && !have.has(norm(f.name)));
-    if (keptFounders.length) out.founders = [...liveFounders, ...keptFounders];
-    for (const flag of ['isExit', 'isUnicorn']) if (match[flag] && !out[flag]) out[flag] = true;
-    return out;
+// Full merge of a live result with the committed records for one source:
+// paired records are merged, extra committed copies of a company that is
+// still listed (sources list some companies twice) are folded into it, and
+// companies that are really gone are kept as listed:false.
+function mergeLiveWithCommitted(prior, live, now = new Date()) {
+  const norm = (s) => collapseSpaces(s).toLowerCase();
+  const twinKey = (c) => {
+    const d = domainOf(c.website);
+    return `${norm(c.name)}|${d && !SHARED_HOSTS.has(d) ? d : ''}`;
+  };
+  const { pairs, unmatched } = matchPrior(prior, live);
+  const merged = live.map((c, li) => (pairs[li] ? mergeRecord(c, pairs[li]) : c));
+  const byKey = new Map();
+  merged.forEach((c, i) => {
+    if (!byKey.has(twinKey(c))) byKey.set(twinKey(c), i);
   });
+  const today = now.toISOString().slice(0, 10);
+  const delisted = [];
+  for (const p of unmatched) {
+    const i = byKey.get(twinKey(p));
+    if (i !== undefined) merged[i] = mergeRecord(merged[i], p);
+    else delisted.push({ ...p, listed: false, delistedAt: p.delistedAt || today });
+  }
+  return { companies: [...merged, ...delisted], delisted: delisted.length, folded: unmatched.length - delisted.length };
 }
 
 // Backwards-compatible name.
@@ -252,11 +279,11 @@ async function gatherAll({
         // The shrink guard compares against companies still listed upstream.
         const vet = vetLiveResult(name, fetched, prior.filter((c) => c.listed !== false), { minRatio });
         if (!vet.ok) throw new Error(vet.reason);
-        const kept = carryOverDelisted(prior, vet.companies);
-        companies = [...mergeWithPrior(prior, vet.companies), ...kept];
+        const m = mergeLiveWithCommitted(prior, vet.companies);
+        companies = m.companies;
         const notes = [];
         if (vet.junk) notes.push(`${vet.junk} junk records rejected`);
-        if (kept.length) notes.push(`${kept.length} no longer listed upstream (kept, flagged listed:false)`);
+        if (m.delisted) notes.push(`${m.delisted} no longer listed upstream (kept, flagged listed:false)`);
         status = { status: 'live', reason: notes.join('; ') };
       } catch (err) {
         // First line only: e.g. Playwright errors append a multi-line banner.
@@ -294,6 +321,7 @@ module.exports = {
   carryOverDelisted,
   carryOverHistory,
   mergeWithPrior,
+  mergeLiveWithCommitted,
   matchPrior,
   missingFrom,
   readCommitted,
