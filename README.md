@@ -1294,7 +1294,7 @@ Each company is an object with the following fields:
 | `year` | number | First session (cohort) year |
 | `program` | string | Accelerator program name |
 | `programSlugs` | string[] | Program slug(s) |
-| `founders` | object[] | Founders: `name`, `role`, `linkedin`, and where available `twitter`, `github`, `website`, `bio`, `avatar` (YC profiles are filled in from ycombinator.com; EF, 500 and Alchemist from their portfolios) |
+| `founders` | object[] | Founders: `name`, `role`, `linkedin`, and where available `twitter`, `github`, `website`, `bio`, `avatar`, `active` (`false` for former founders) (YC profiles are filled in from ycombinator.com; EF, 500 and Alchemist from their portfolios) |
 | `sourceUrl` | string | The company's page on its source portfolio (YC) |
 | `isExit` | boolean | Has exited |
 | `isUnicorn` | boolean | Valued $1B+ |

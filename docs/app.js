@@ -335,7 +335,7 @@
       return h("span", { class: "founder", title: f.bio || null },
         avatar,
         h("span", { class: "f-name" }, f.name),
-        f.role && h("span", { class: "f-role" }, ` (${f.role})`),
+        (f.role || f.active === false) && h("span", { class: "f-role" }, ` (${[f.role, f.active === false && "former"].filter(Boolean).join(", ")})`),
         links.length > 0 && h("span", { class: "f-links" }, links));
     });
     const founderLine = founders.length ? h("div", { class: "founders" }, founders) : null;

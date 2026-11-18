@@ -113,3 +113,12 @@ test('expiring signed photo URLs are stored as stable public URLs', () => {
   const { repairFounders } = require('../src/finalize');
   assert.equal(repairFounders([{ name: 'A B', avatar: signed }], 'yc')[0].avatar, 'https://bookface-images.s3.us-west-2.amazonaws.com/avatars/abc.jpg');
 });
+
+test('former founders are marked, and unmarked if they become active again', () => {
+  const page = (active) => `<div data-page="${escapeAttr({ props: { company: { founders: [{ full_name: 'A B', title: 'CTO', linkedin_url: 'https://linkedin.com/in/ab', is_active: active }] } } })}"></div>`;
+  const former = extractFounders(page(false));
+  assert.equal(former[0].active, false);
+  assert.equal(extractFounders(page(true))[0].active, undefined);
+  const merged = mergeFounders(former, extractFounders(page(true)));
+  assert.equal('active' in merged[0], false);
+});

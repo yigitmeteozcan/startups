@@ -118,6 +118,8 @@ function toFounder(o) {
   if (website) f.website = website;
   if (bio) f.bio = bio.slice(0, 600);
   if (avatar) f.avatar = avatar;
+  // YC lists people who have left the company as former founders.
+  if (o.is_active === false) f.active = false;
   return f;
 }
 
@@ -160,6 +162,7 @@ function mergeFounders(existing, scraped) {
     const prev = old.get(norm(f.name)) || {};
     const merged = { ...prev, ...f };
     for (const [k, v] of Object.entries(prev)) if ((merged[k] == null || merged[k] === '') && v) merged[k] = v;
+    if (!('active' in f)) delete merged.active; // listed as active again
     return merged;
   });
   const have = new Set(out.map((f) => norm(f.name)));
