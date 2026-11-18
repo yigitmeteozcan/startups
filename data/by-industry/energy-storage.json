@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -64,6 +68,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -103,6 +111,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -140,6 +152,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -177,6 +193,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -216,6 +236,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 380,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -254,6 +279,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -290,7 +319,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Minh Chung Hoang",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/chung-hoang/",
+        "bio": "DeepTech founder hunting the next breakthrough. Built batteries, robots, and drones.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9b8cecebb8b12af7d8889a59ad52678d179bc15c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -330,6 +371,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -368,6 +413,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Julia Wu",
@@ -424,6 +473,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Maxim Kraft",
@@ -472,6 +525,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Borong Hu",
@@ -518,6 +575,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ashten Akemoto",
@@ -580,6 +641,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jonathan Powers",

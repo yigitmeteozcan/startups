@@ -24,7 +24,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Robert Baron",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/robertbaronmonge/",
+        "twitter": "https://twitter.com/rbaronmonge",
+        "bio": "Passionate engineer with experience across a wide range of Fintech products, Robert has been part of more than 5 different startups that today empowers Latin America countries with great tech. Specialised in blockchain | Fintech | Software architecture.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9484a3f51d0bb559ea65545bd4bacb05949da403.jpg",
+        "active": false
+      },
+      {
+        "name": "James Jara",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jamesjara",
+        "twitter": "https://twitter.com/jamesjara",
+        "bio": "AI Visibility https://brandvirality.com https://jamesjara.com Author \"Nearshoring in LATAM\" https://www.amazon.com/Nearshoring-Staff-Augmentation-Latin-America/dp/B0F5PBYF1N/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/38d2c9c87a999b1a96865fa1a5e5842a3b563798.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

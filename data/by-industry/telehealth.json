@@ -26,6 +26,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -64,6 +68,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 52,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -102,6 +110,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1000,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -142,6 +154,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -178,6 +194,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -216,6 +236,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 50,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -256,6 +280,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 35,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -294,6 +322,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 90,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -330,6 +362,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 32,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -368,6 +404,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -407,6 +447,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 115,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -446,6 +490,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -485,6 +533,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 70,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -521,6 +573,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -560,6 +616,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -599,6 +659,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -637,6 +700,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -674,6 +741,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -710,7 +781,18 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Andrew Jajack",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ajajack/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3bd2abd12c9e0a1a5cf8a753482e8530b8db4068.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -747,7 +829,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 13,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Sabih Mir",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/sabihmir",
+        "twitter": "http://twitter.com/sabihmir",
+        "bio": "I studied cognitive psych and mechanical engineering (Human Factors) at Tufts (as well as English, Philosophy) and have been in Product and UX Design for 20+ years. I was the first designer at Ginger (now Headspace Health). Born and raised just north of NYC to Kashmiri and Pakistani immigrants, I spent ~15 years in Boston and now live in Oakland, CA. My goal is to collaborate with folks that care about people and want to shape the impact technology has on humanity for the greater good.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9549cc2b2181f4dc94bc668da097b4f0d6402503.jpg"
+      },
+      {
+        "name": "Mohammed Kaleel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/drkaleel/",
+        "twitter": "https://twitter.com/mkaleel",
+        "bio": "I’m a Stanford-trained physician-founder building Mederva—longevity for the 99%. At Stanford, I taught for nearly a decade and saw elite care up close, interpreting sports medicine scans for NBA, NFL, MLB, NCAA, and Olympic athletes. I built Radiology 2.0, a #1-ranked iOS health app used by 5M clinicians, and founded DocsInTech (2,000+ physicians). Before medicine, I earned degrees in applied math & computer science. I was the founding engineer of an early cloud-based EMR out of Duke Hospital",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/120bf138cc9702078af16dee92c644909a6953f3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -785,7 +888,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Arpit Rao",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/arpit-rao",
+        "bio": "Award-winning oncologist who has led large research projects and multiple FDA approvals for cancer drugs. He founded Ankr after his patient nearly died from a preventable brain bleed because they forgot to monitor their blood pressure at home.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/941d16bf9058ff61d56bf3d10ae08cb4d90234d4.jpg"
+      },
+      {
+        "name": "Shivani Rao",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shivani-brahambhatt/",
+        "bio": "An operations mastermind who ran $135 million ARR subspecialty clinics and led telehealth deployment in a top 20 health system before joining Ankr.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fd02af16e190430cecc6aed479c03771921edc04.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -825,6 +947,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 125,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -863,6 +989,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 21,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -902,6 +1032,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -940,6 +1074,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Victor Sadauskas",
@@ -994,7 +1132,40 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Jason Kerkvliet",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jason-kerkvliet-292685107",
+        "bio": "Founder and CEO, LifestyleRx. Recovering EMR founder, Princeton grad, delivering Type 2 Diabetes reversal to thousands of patients!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a199473f09d01cbdd77dd1a2b7942a6702de78ca.jpg"
+      },
+      {
+        "name": "Brendan Byrne",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/brendan-byrne-17274b",
+        "bio": "Founder and Chief Medical Officer, LifestyleRx. Lifestyle medicine physician and serial entrepreneur. Husband, father (x3), runner, skier and outdoors enthusiast.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/49f9af9b2becb3cd6784d4cfef78aa6658b4fb5c.jpg"
+      },
+      {
+        "name": "Jack Hilliard",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jackmhilliard",
+        "bio": "Seasoned CPA with years of experience growing, scaling and exiting tech-based companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/06c95531e8c805a0a18252c352b80e8e8efe0d64.jpg"
+      },
+      {
+        "name": "Daniel Pfingstgraef",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/pfingstgraef",
+        "bio": "Founder and CTO at LifestyleRx. Built my first EMR when I was 14 for my parent's audiology practice. Studied Computer Science at Western University (London, ON).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/498d9943f27dae35b45b09a228bbec525a28d147.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1033,6 +1204,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Joanne Wang",
@@ -1081,6 +1256,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 17,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Max Berthelot",
@@ -1138,6 +1317,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Austin Stone",
@@ -1191,6 +1374,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Lloyd Armbrust",

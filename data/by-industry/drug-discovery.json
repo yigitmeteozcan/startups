@@ -26,6 +26,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "public",
+    "teamSize": 40,
+    "isHiring": true,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -66,6 +71,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 67,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -106,6 +115,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -143,6 +156,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -181,6 +198,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -217,6 +238,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -255,6 +280,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -293,6 +321,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -331,6 +363,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 52,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -370,6 +406,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -407,6 +447,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -445,6 +489,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -485,6 +533,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 17,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -522,6 +574,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -559,6 +615,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -595,6 +655,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -633,6 +697,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 16,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -671,6 +739,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -709,6 +781,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -746,7 +822,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Noah Lebovic",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/lebovic/",
+        "bio": "Noah Lebovic is the co-founder and CEO of FlowDeploy. Prior to FlowDeploy, he led software engineering at a bio startup that build an in-house platform for bioinformatics pipelines.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c9cae1d29bb5148a87e4a3e5c3e39005597dd733.jpg",
+        "active": false
+      },
+      {
+        "name": "Bryce Cai",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/bryce-cai-b1278419a",
+        "bio": "Former CTO of FlowDeploy / Toolchest (YC W22). Now working on AI-bio evals and more broadly getting involved in the AI alignment space. More than happy to help others get more involved, feel free to reach out via email if you'd like to chat!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bd3829398b25f5b0f9d0983ed8807c755e6c80fe.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -785,7 +882,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Olof Mollstedt",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/olof-mollstedt-95b4a1/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/56244742a9432a1e8ccb215b0bd26d98230bea8e.jpg"
+      },
+      {
+        "name": "Helen Chen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/helen-y-chen-7951641/",
+        "bio": "Cancer & aging researcher | entrepreneur| mentor |",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dcfd0dfa105260c79bd854eac50dc82cda36da04.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -822,6 +937,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -859,6 +978,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -898,6 +1021,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Scott Swarthout",
@@ -961,6 +1088,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jen Herbach",
@@ -1023,6 +1154,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Patrick Grossmann",
@@ -1077,6 +1212,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Emmanouela Petsolari",
@@ -1130,6 +1269,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Pouya Modareszadeh",
@@ -1185,6 +1328,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Evita Weagel",
@@ -1239,6 +1386,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "David Weinberg",
@@ -1293,6 +1444,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jose Miguel Hernandez Lobato",
@@ -1348,6 +1503,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ian Dardani",
@@ -1401,6 +1560,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ian Miller",
@@ -1448,6 +1611,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Arvid E. Gollwitzer",
@@ -1502,6 +1669,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Shaamil Karim",

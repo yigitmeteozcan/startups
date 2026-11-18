@@ -24,6 +24,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,6 +65,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 60,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -97,6 +105,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -133,6 +145,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -169,6 +185,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
+    "nonprofit": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -208,6 +229,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 45,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -246,6 +271,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -284,6 +313,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -321,6 +354,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -358,6 +395,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -394,6 +435,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Douwe Osinga",
@@ -453,6 +498,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Dr Ashish Mandavia MD",
@@ -508,7 +557,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Lucas da Costa",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/lucasfdacosta",
+        "twitter": "https://twitter.com/thewizardlucas",
+        "bio": "I'm the founder and CEO at Briefer. Previously, I worked as a senior software engineer at Elastic and led software engineering teams at an early-stage startup in London. I used to maintain large OSS projects like Chai.js and Sinon.js and contributed to many others, including Jest. As an author, I wrote \"Testing JavaScript Applications,\" published by Manning. I've also spoken in more than ten countries, and my content has been voluntarily translated into more than seven languages.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c67c3654b38517081d8943217dd52f520daa16d.jpg",
+        "active": false
+      },
+      {
+        "name": "Lucas Vieira",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/lucas-vieira-1ba001a4",
+        "twitter": "https://twitter.com/commadangle",
+        "bio": "Lucas, is a software engineer and open-source enthusiast with a decade of experience, actively contributes to numerous open source projects. He used to maintain Chai.js, a popular JavaScript testing framework with 7.8k+ GitHub stars. As the former Head of Technology at Joga, he built a product from scratch, used by thousands in dozens of countries. Now, Lucas is the CTO of Ergomake, developing a product for developers to deploy preview environments for any stack.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4b304961c58125ab235255d85217abb378470ab1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -546,7 +618,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ali Shobeiri",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ali-shobeiri",
+        "twitter": "https://twitter.com/Ali_Shobeiri",
+        "bio": "I was previously a Machine Learning Engineer at Apple owning people based recommendations across devices. Before that, I was a ML Research Intern at Unity and a Software Engineer at Microsoft.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f3b1d98183acd018ae32e0841391237a80219434.jpg",
+        "active": false
+      },
+      {
+        "name": "Sami Sahnoune",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/samisahnoune",
+        "bio": "Before Vizly, Sami built mission-critical data systems at NASA's Jet Propulsion Laboratory, architected widely-used data visualization libraries at Splunk, and worked at Plotly, a leading data visualization company with over 500 million open-source downloads. His work has consistently pushed the boundaries of data visualization and analysis, benefiting thousands of users worldwide.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2bb513e0ff0b55132c5db0962ac5fcd9ccac7e6c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -582,7 +676,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Emily Damato",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/emily-damato-36932523",
+        "twitter": "https://twitter.com/damato_emily",
+        "bio": "CEO and Co-Founder of MantleBio, modern data engineering for biotech. Previously developed software at GRAIL, Arsenal Bio, and The Broad Institute. MIT Computer Science and Biology. 10+ years at the intersection of computer science and life science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/78b9808f1e62aa083dd6d0e1a05e6d7d56f2169d.jpg",
+        "active": false
+      },
+      {
+        "name": "Madeline Schade",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/madeline-schade",
+        "twitter": "https://twitter.com/SchadeMadeline",
+        "bio": "CTO and Co-Founder of MantleBio. Previously worked as a software engineer at Google, Arsenal Bio and GRAIL.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e8c503fd7daf298aa41440bb472880783bf8898c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -620,7 +737,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Diva Avaya Sharma",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/diva-sharma",
+        "twitter": "https://twitter.com/adivawhocodes",
+        "bio": "Diva is the founder of Cognitio Labs (former Flair telehealth) and inventor of a patented remote patient monitoring device. Previous companies & projects at Ancestry.com, Facebook, Johnson & Johnson, and the Stanford School of Medicine. Alum: Stanford University (Bachelors)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/66eb801562304c65890ec479268fc5fa4cacc625.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -657,6 +787,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Benjamin King",
@@ -714,6 +848,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mehdi Boudjadja",
@@ -768,6 +906,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tejas Hosangadi",
@@ -824,6 +966,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Illiana Reed",
@@ -886,6 +1032,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Vivek Aithal",
@@ -942,6 +1092,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mihir Patil",
@@ -993,6 +1147,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Greg Volynsky",
@@ -1046,6 +1204,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Carl Peterson",
@@ -1099,6 +1261,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Vaibhav Dubey",
@@ -1144,6 +1310,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Kevin Bi",
@@ -1199,6 +1369,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jorge Guerra",
@@ -1253,6 +1427,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Saurav Kumar",
@@ -1307,6 +1485,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Gabriel Noya",
@@ -1363,6 +1545,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rick Gao",
@@ -1425,6 +1611,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Brandon Ong",
@@ -1480,6 +1670,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Harpreet Dhaliwal",
@@ -1524,6 +1718,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Shayan Chashm Jahan",

@@ -24,6 +24,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,6 +65,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -98,6 +105,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 65,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -136,6 +147,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -176,6 +191,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 125,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -212,6 +231,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -249,6 +272,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 300,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -288,6 +315,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 890,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -325,6 +356,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -362,6 +397,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -399,6 +438,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -438,7 +481,33 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 28,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Barsi Luna",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/barsi-luna/",
+        "bio": "Self started and passionate about operations optimization. With 13+ years of experience in the Travel Industry and previous travel companies created.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/56e812e3287bf67f72db34fdb02b93634bc4c740.jpg"
+      },
+      {
+        "name": "Jorge De Cordova",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jorgedecordova/",
+        "bio": "32 Year old, Mexican, Married to an amazing woman and father of a 9Month old baby. Started my college degree in advertising and communications, started working in tourism to assist my parent with college fees, and fell in-love with the travel work (I met Barsi in my very first job) 10 years in we Founded Shuttle Central and now, HERE WE ARE! :)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fa4c20858ddbe39f9f41ca1d37c859766718d1c2.jpg"
+      },
+      {
+        "name": "Luis Uicab",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/luis-fernando-uicab-escalante-591253115/",
+        "bio": ".",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a67cfca301607fa223f95eddb3cb019413ed7b58.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -478,6 +547,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Raphael Krief",

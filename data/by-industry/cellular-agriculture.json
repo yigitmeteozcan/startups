@@ -26,6 +26,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -63,6 +67,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -100,6 +108,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -138,6 +150,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -177,7 +193,33 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Sohail Gupta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sohail-gupta-b4226412/",
+        "bio": "A Stanford alumnus and Indian Institute of Technology (IIT) Delhi graduate; Patent holder; 9+ years of work exp. in food and healthcare across India, USA and Middle East (with global brands like Starbucks) and was building the world's 1st personalised food brand recently. His experience as a vegetarian and his spouse's struggle with milk during pregnancy led him to UnReal Milk - leveraging his synthetic biology education, Bio-design training at Stanford and several years of business experience.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/318614ce94883053324cd45843d019323b28fb51.jpg"
+      },
+      {
+        "name": "Avhijeet Kapoor",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/mwlite/in/avhijeet-kapoor-b68b2210",
+        "bio": "A passionate bioengineer, always eager to tackle tech hurdles and challenge dogma! Trained in Biotechnology with minors in Computer Science at IIT Delhi; worked at Harvard and CEA Paris; and experienced with control systems and reactor design for robust bioprocess systems. Has additional experience in business consulting for food and healthcare companies such as Epigamia, Novartis, Milkbasket etc., along with a rich perspective on understanding end consumers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/35ac08150656d2841490a53da7ad95f9b2f9e850.jpg"
+      },
+      {
+        "name": "Bhavna Tandon",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bhavna-tandon/",
+        "bio": "A graduate of Rice University and Indian Institute of Technology (IIT), Delhi; molecular biology and biochemistry PhD with 3+ years experience working as a scientist on cell culture and model organisms; 6 published papers in internationally recognized journals; passionate about leveraging technology to combat climate change",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b2cab91fff753cc11af6c5b755e241fa8549ff7e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -216,7 +258,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Martin T. Permin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/martin-tromp-permin-99064792/",
+        "twitter": "https://twitter.com/purrmin",
+        "bio": "Hi, I'm Martin. I care about bio and data stuff. I also like to run really long distances on mountain trails. Previously, I worked at Airbnb, and Hive (YC s14).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ecd08a4e7fe0da29dcbadf8ca9894bf381f93511.jpg"
+      },
+      {
+        "name": "Holger Thorup",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/holgerthorup/",
+        "twitter": "https://twitter.com/holgerthorup",
+        "bio": "Prev. VP of Eng at ZeroNorth, CTO/Founder at Pelion, and a recovering consultant.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4767371a5ac1b02067c307e464c2cb7191f94bdd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -256,6 +319,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Andre Yeung",

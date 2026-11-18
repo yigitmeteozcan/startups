@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -62,6 +66,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 255,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -99,6 +107,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 38,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -136,7 +148,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Jamil Bou Kheir",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jamilbk",
+        "twitter": "https://twitter.com/jamilbk",
+        "bio": "Previous: 8 years at Cisco as an engineer in various security projects. 4 years as a fullstack contractor building web apps for startups. 2 years building and traveling in my tiny hacker house (pics: https://imgur.com/a/ujsmGH7).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f09e58ac5e096d9211eb3b5a0dd086f8699520e9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -174,6 +198,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",

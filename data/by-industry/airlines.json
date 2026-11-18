@@ -23,6 +23,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 19,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,6 +65,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -101,7 +109,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Tim Qin",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/timqin",
+        "twitter": "https://x.com/timtqin",
+        "bio": "Tim is the co-founder & CEO of Roame (S23). Over the last few years, he has invested billions of dollars in internet travel and financial services companies while working at UBS Asset Management, Fidelity, and Affiliated Managers Group. Tim started his career as an engineer at Lockheed Martin. Tim received an MBA from Harvard Business School and a BS in Operations Engineering from Columbia University. For investment inquiries: tim@roame.travel",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9ea315bcec594efab1aebbb631ddc3c0e974cb37.jpg"
+      },
+      {
+        "name": "Zi Liu",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ziyuanliu",
+        "bio": "Zi (CTO) ran all of Airbnb’s encryption services, creating and managing billions of cryptographic requests from payments vaulting to healthcare data. He started his career in Machine Vision AI processing at the Department of Defense in Oak Ridge. Zi studied computer science at Dartmouth.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d58a5fd7d90138ce06e5edb6879d7d13cc057c53.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -139,6 +167,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Damian Szumski",

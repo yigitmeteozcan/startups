@@ -23,6 +23,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 50,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -58,6 +62,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -95,6 +103,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -133,6 +145,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -170,6 +186,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -206,6 +226,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -242,6 +266,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -279,6 +307,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -315,7 +347,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Joakim Bruchmann",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joakim-bruchmann-87b6b653/",
+        "bio": "Building the investing app of the future by enabling a multiplayer investing experience for the new generation of investors. 🌱 Experience: - MSc in Economics from University of Copenhagen and Columbia University - 3 years as a derivates trader at Goldman Sachs - 2 years as an equities trader at Danske Bank - 2.5 years as CEO of nBoard - a data driven board recruiting platform. Don't touch board recruiting, it's toxic! ☠️",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c2db821ae53154378fbfd52c2a258c743ba4daac.jpg"
+      },
+      {
+        "name": "Oscar Vingtoft",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/oscar-vingtoft-17680160/",
+        "bio": "Software engineer & previously CTO at nBoard (largest board recruiting platform in Denmark) after spending years building data collection software for big pharma. Entrepreneur and technologist by heart, eager to develop and learn new things. I wanted to trade stocks and cryptos alongside my friends, but a platform did not exist, so now I'm building it myself 😂🚀",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/80435b3b8df79168f70a0cab290afcaa6ca42d50.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -353,6 +404,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Adam Ingwersen",
@@ -406,7 +461,33 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Martin Johnsen",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/martin-johnsen-subsets",
+        "bio": "Martin is the co-founder and CEO of Subsets (S23). Previously worked in management consulting helping large organizations scale AI initiatives across different business functions and industries. Holds an MSc in Mathematical modeling from The Technical University of Denmark.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0dc8255451fa83b84ca36787d84578cde1f78842.jpg"
+      },
+      {
+        "name": "Oliver Brandt",
+        "role": "Founder",
+        "linkedin": "https://dk.linkedin.com/in/oliver-brandt-93b1b8110",
+        "bio": "Oliver is the co-founder and CTO of Subsets.com (S23).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e0abfb84be9b3b8a10eaf29f8fcd222a31499bf5.jpg"
+      },
+      {
+        "name": "Nikolai Skelbo",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/nikolaiskelbo",
+        "bio": "Co-Founder @ Subsets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fd789fcfa94adf5207c56104494a1fd553091e75.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -442,7 +523,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Jacob Lauritzen",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jacob-lauritzen",
+        "bio": "hello",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/42dd368327eb146151212534a9b7f5136ba1cbee.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -480,6 +574,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Kim Rants",
@@ -522,6 +620,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 13,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Gustav Bang",

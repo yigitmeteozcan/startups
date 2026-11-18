@@ -28,6 +28,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -66,6 +70,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 90,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -104,7 +112,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Kitch Wilson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kitch-wilson-1b915349/",
+        "twitter": "https://twitter.com/KitchenerWilson",
+        "bio": "Kitch is CEO and co-founder of Rosebud Biosciences. He is a Physician-Scientist (MD, PhD) with 16 years’ experience merging human induced pluripotent stem cells with genomic and molecular technologies. A Stanford-trained molecular pathologist, Kitch was an attending physician at Stanford for 6 years before cofounding Rosebud.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3201669276d3e21f290cb97315d57aafddecb1ef.jpg"
+      },
+      {
+        "name": "Evan Lyall",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/evlyall",
+        "twitter": "https://twitter.com/evlyall",
+        "bio": "Evan is co-founder and CTO of Rosebud Biosciences. Evan is a Scientist-Engineer (PhD) with 10 years’ experience in advanced microscopy, machine learning, and data engineering. At UC Berkeley he studied the neural coding of perception and was part of a team that built the first bidirectional brain machine interface with proven single cell resolution. Before joining Rosebud he contracted for startups as a data and ML engineer.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/57adb4767421f3082963c4b755eef05c4a85d56f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

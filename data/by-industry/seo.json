@@ -23,6 +23,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,6 +65,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -97,7 +105,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Chalam PVS",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chalampvs/",
+        "twitter": "https://twitter.com/Chalam_PVS",
+        "bio": "Chalam is the CEO and co-founder of Airdot. Before founding Airdot, he led Data Science and Machine Learning projects at companies such as Snapdeal and Fareportal for more than 7 years. He is from India and graduated from IIT Guwahati in 2015.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/19bc364319fd58153b86d53de43d4b98cd707469.jpg"
+      },
+      {
+        "name": "Sandilya Miduthuri",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sandilya-miduthuri-a708915b/",
+        "twitter": "https://twitter.com/sandymiduthuri",
+        "bio": "Building Siftly. Ex-Software Engineer @ Microsoft, Flipkart & Qualcomm. From India and graduated with Bachelors in CS from IIIT-Hyderabad.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1e2a1f0c05082c4faa6746f8dbfd9c27379c4e73.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -134,6 +163,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Fenil Suchak",
@@ -181,6 +214,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Theodore Otzenberger",
@@ -234,6 +271,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Miles Pines",

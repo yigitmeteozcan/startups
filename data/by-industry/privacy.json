@@ -24,6 +24,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -60,6 +63,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -94,6 +101,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -130,6 +140,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 205,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -166,6 +180,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -201,6 +219,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -237,6 +259,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -274,6 +300,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -313,6 +343,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -349,6 +383,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 24,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -387,6 +425,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -425,7 +467,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 55,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Lawrence Gentilello",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gentilello",
+        "twitter": "https://twitter.com/gentilello",
+        "bio": "As CEO and Founder, Lawrence grew Optery to $20M+ ARR, 1M+ users, and profitability prior to its acquisition by Surfshark. Lawrence also co-founded the remote collaboration company Screenleap and launched the first online facebook at Stanford in 1999. Lawrence is an alumnus of Stanford (BA), Duke (MBA), and Y Combinator (Optery (W22) and Screenleap (W12)).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d03c2c80fdbd7e671f17b1f557a9f3900d66ab5c.jpg"
+      },
+      {
+        "name": "Chen Atlas",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/atlaschen",
+        "bio": "Chen is CTO and Founder at Optery. Prior to founding Optery, Chen was tech lead and architect for 50+ engineers at Runa HR. Prior to Runa HR he was Co-Founder and CTO of As You Stay, and Cleanly, the on-demand laundry service. Chen was recruited out of high school by the Israel Defense Forces (Mamram) to build logistics platforms and is an expert in building large scale complex systems with high availability. Chen is an alumnus of Bar-Ilan University (BA) and Y Combinator (Cleanly, W15).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e9eb8ccd2121e0b1121cbbbfa690198b0abc57e7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -461,7 +523,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Christian Lau",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christian-lau-18055546",
+        "bio": "Co-founder @ Dynamo AI (YC W22) | EECS Ph.D. at MIT | Secure and Compliant AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bc0d361a6d18f9a6cc908b1b4a93f747ec72cd40.jpg"
+      },
+      {
+        "name": "Vaikkunth Mugunthan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vaikkunth/",
+        "bio": "Co-Founder/CEO - DynamoFL | MIT CS SM'19 PhD'22 | Differential Privacy and Federated Learning",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1d4b630813b442a0952b8b50a372740a92db6ced.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -499,6 +580,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 54,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -535,6 +620,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Samir Menon",
@@ -590,7 +679,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ali Shobeiri",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ali-shobeiri",
+        "twitter": "https://twitter.com/Ali_Shobeiri",
+        "bio": "I was previously a Machine Learning Engineer at Apple owning people based recommendations across devices. Before that, I was a ML Research Intern at Unity and a Software Engineer at Microsoft.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f3b1d98183acd018ae32e0841391237a80219434.jpg",
+        "active": false
+      },
+      {
+        "name": "Sami Sahnoune",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/samisahnoune",
+        "bio": "Before Vizly, Sami built mission-critical data systems at NASA's Jet Propulsion Laboratory, architected widely-used data visualization libraries at Splunk, and worked at Plotly, a leading data visualization company with over 500 million open-source downloads. His work has consistently pushed the boundaries of data visualization and analysis, benefiting thousands of users worldwide.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2bb513e0ff0b55132c5db0962ac5fcd9ccac7e6c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -628,6 +739,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rajaram Srinivasan",
@@ -680,6 +795,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 17,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Emily Choi-Greene",
@@ -735,6 +854,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tanya Verma",
@@ -798,6 +921,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Erin McGurk",
@@ -852,6 +979,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ian Lee",

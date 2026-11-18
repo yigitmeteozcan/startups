@@ -135,6 +135,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 17,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -171,6 +175,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -208,7 +216,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 19,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Robert Huynh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/huynhrobert",
+        "bio": "Robert is the co-founder and CEO of Reforged Labs. Previously, he was at some of the world's largest tech companies (X the moonshot lab/Google/Microsoft) before starting his MBA at Harvard Business School.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c88a0761aa24dc466370fd06c8ea85e7c022001f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -245,7 +265,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Phuoc Tran",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/phuoc-tran-b9979611/",
+        "bio": "Phuoc Tran is the co-founder & CEO of Anfin, a modern trading and wealth management products for Vietnam's investors. Previously, he co-founded VRED. VRED onboarded sales agents in rural Vietnam to distribute e-commerce and financial products. VRED boasted 500,000+ sales agent, and it distributes $36M GTV monthly. Moreover, Phuoc co-founded Ahamove, one of the leading on-demand delivery platforms in Vietnam. During his tenure, Ahamove was conducting 20,000+ deliveries/day",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d774ac865ab5ef45dfce50f9476247938d42218c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -279,6 +311,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -315,6 +351,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 70,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",

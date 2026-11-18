@@ -25,6 +25,11 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4800,
+    "isHiring": true,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -64,6 +69,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 746,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -100,6 +109,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -136,6 +149,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 350,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -172,6 +189,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -208,6 +229,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 80,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -243,6 +268,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 27,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -279,6 +308,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 24,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -315,6 +348,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 500,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -353,6 +390,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -391,6 +432,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 62,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -428,6 +473,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 60,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -463,6 +512,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -499,6 +552,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 60,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -535,6 +592,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 250,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -570,6 +631,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 41,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -605,6 +670,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -640,6 +709,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -678,7 +751,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Fabian Torres",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/torresfabian/",
+        "twitter": "https://twitter.com/torresfabian",
+        "bio": "Before Trébol, I led product a product team for a fintech co. I started my career in finance doing investments in Latam.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/26edd760a5c29bd2e88bbe17d4efeffd06dbcedd.jpg"
+      },
+      {
+        "name": "Luis Sebastian Buitrago León",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lsbuitrago/",
+        "bio": "Early employee @Lernico, a seed-stage ed-tech company. CFO for two family-owned businesses operating in healthcare services and real estate. Managed the construction of commercial real estate of >5,000 square meters. Optimized capital structure of the business group. Revamped accounting and controlling processes. Data analyst at the largest colombian pension fund where executed capital on real estate assets from $25M to $150M+.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa54c143bf9cba77f1a01a1204ce28dc2b6ff04b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -716,7 +809,36 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 50,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Mauricio Peñaranda",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mauricio-peñaranda-9606401b/",
+        "bio": "Mauricio graduated from Industrial Engineering in Colombia and started his career as a management consultant. After that, he did his MBA at Columbia Business School and return to work in Colombia with McKinsey & Company. After that, he joined the early team at Clever Leaves, a medical cannabis start-up in Colombia which went public to NASDAQ by the end of 2020. At that point, confirming entrepreneurship was his passion, he decided to co-found Castia, where he works currently as CEO.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2b22a70559b0927a55ef0aae995e5c150351924b.jpg",
+        "active": false
+      },
+      {
+        "name": "Nicolas Penaranda",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicolaspenaranda/",
+        "bio": "I have been buying and selling apartments as side-business for the past 15 years. Started my career with +5 years of management consulting experience in the banking and insurance sector. In 2016 decided to quit my job and co-founded an ag-tech startup to improve productivity and efficiency for small farmers in Colombia, failed after 18 months. Then co-founded a consumer business to sell healthy snacks in Colombia and sold part of it to a FMCG player in Colombia during COVID.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d2ba2c5a70f14e7cab3cadfc6a451982c58e2a7f.jpg",
+        "active": false
+      },
+      {
+        "name": "Eduardo Restrepo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/eduardo-restrepo-pombo-7634bb26/",
+        "bio": "Industrial Engineer, MBA (ESCP Europe). More than 13 years of experience in corporate finance including 6 years as CFO.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/29d2a9daffe938f5fc5b157c910cedb52d527713.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -755,6 +877,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 35,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -791,6 +917,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -829,6 +959,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 87,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -865,6 +999,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -903,6 +1041,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Cipriano Echavarria",
@@ -962,6 +1104,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 16,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Toni Riera",
@@ -1021,6 +1167,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 37,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Christian Knudsen",
@@ -1074,6 +1224,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 17,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Juan Pisco",
@@ -1114,6 +1268,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Human Thomas",

@@ -4,11 +4,11 @@ _Auto-generated from the dataset on 2026-11-18._
 
 | Metric | Count |
 |---|---|
-| Total companies | **22,436** |
+| Total companies | **22,437** |
 | 🦄 Unicorns ($1B+) | **152** |
 | 💰 Exits | **2855** |
 | 🌱 B Corps | **29** |
-| 👤 Founder profiles | **12,014** |
+| 👤 Founder profiles | **12,766** |
 | Current session | **69** |
 
 ## By source
@@ -17,7 +17,7 @@ _Auto-generated from the dataset on 2026-11-18._
 |---|---|
 | plugandplay | 6,444 |
 | yc | 6,404 |
-| techstars | 5,199 |
+| techstars | 5,200 |
 | 500 | 2,243 |
 | antler | 1,087 |
 | ef | 545 |
@@ -45,14 +45,14 @@ _Auto-generated from the dataset on 2026-11-18._
 2021  ██████████████████████████░░ 1383
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1495
-2024  ███████████████████████████░ 1452
+2024  ███████████████████████████░ 1453
 2025  ████████████████████░░░░░░░░ 1051
 2026  ████████████████████░░░░░░░░ 1074
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15
 ```
 
 ## Top countries
-1. **United States** — 11520
+1. **United States** — 11521
 2. **Japan** — 3140
 3. **United Kingdom** — 868
 4. **Canada** — 763
@@ -106,7 +106,7 @@ _Auto-generated from the dataset on 2026-11-18._
 1. **Fintech** — 2952
 2. **AI** — 1904
 3. **SaaS** — 1701
-4. **Artificial intelligence and machine learning** — 1667
+4. **Artificial intelligence and machine learning** — 1668
 5. **Mobile** — 1163
 6. **Consumer** — 1075
 7. **Healthcare** — 833
@@ -125,7 +125,7 @@ _Auto-generated from the dataset on 2026-11-18._
 20. **Supply Chain** — 438
 
 ## By region
-1. **Americas** — 6012
+1. **Americas** — 6013
 2. **United States of America** — 4778
 3. **Asia** — 3438
 4. **Europe** — 1028

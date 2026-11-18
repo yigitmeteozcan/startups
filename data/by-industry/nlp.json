@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -63,6 +67,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -100,6 +108,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -137,6 +149,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 32,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -174,6 +190,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 16,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -212,6 +232,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -249,6 +273,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -286,6 +314,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -322,6 +354,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -359,6 +395,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -395,6 +435,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -431,6 +475,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -468,6 +516,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -504,6 +556,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -544,7 +600,34 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Johnny Wolff",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/johnnywolff/",
+        "bio": "I'm the CEO and Founder of HomeRoom Coliving – one of the fastest-growing coliving companies in the United States. After starting my career as a financial analyst in Silicon Valley I relocated to Austin, Texas to pursue real estate investing full-time. HomeRoom recently expanded to Dallas and Austin, Texas. I still lives in one of HomeRoom’s first coliving houses in Kansas City, and enjoys hanging out and surviving the pandemic with my awesome roommates - especially on chicken wing Thursdays",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e3c999f9f35b1bd762c674b755cf060fe0d79f59.jpg"
+      },
+      {
+        "name": "Thomas Hornbeck",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/thornbeck",
+        "twitter": "https://twitter.com/thomashornbeck",
+        "bio": "I'm a serial entrepreneur who has founded multiple tech startups, including GotIt! (EdTech), Distynct (AgTech), and Homeroom (Coliving/PropTech) YC W'22. PhD (abd) in Computer Science, dropped out in the 5th year to start my first company. I moved to Silicon Valley in 2013 and built an EdTech app that ended up #2 in Education on the AppStore. I've been an angel investor in a few startups Jobhop (HR Tech company in Vietnam) and LegalQ (TechStars '21), and Venture Partner at Kind Capital.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/62b41c2c47663ee593b6828aba0ca7579f737590.jpg"
+      },
+      {
+        "name": "Mike Tich",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-tich-53849b30/",
+        "bio": "Experienced Marketer and Data Scientist. Co-Founder & Head of Growth @ HomeRoom (W22) Marketing Science Expert @ Facebook PM / DS @ Airbnb (W09) Head of Digital Marketing @ iCracked (W12)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ca1a9196382bc31c86235a4b3fbcf2f22c2ea623.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -582,7 +665,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 140,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Fabio Schmidberger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/fabioschmidberger/",
+        "bio": "CEO @ voize studied Software Engineering at the University of Stuttgart and Entrepreneurship at San Jose State University I love road/gravel cycling, sailing, and running.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9daa68d1ffa33c459f6c55fa098b232426f57a8b.jpg"
+      },
+      {
+        "name": "Marcel Schmidberger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/marcel-schmidberger/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b75dae516dc86523f262b4565b609ea1f7b0193e.jpg"
+      },
+      {
+        "name": "Erik Ziegler",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/erksch",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7c42edf6cb76ade5a0518028d3674656d4d22557.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -620,6 +727,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Alistair Pullen",
@@ -676,6 +787,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Chris Weaver",
@@ -721,6 +836,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Gordy Sun",
@@ -769,6 +888,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 80,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Utkarsh Saxena",

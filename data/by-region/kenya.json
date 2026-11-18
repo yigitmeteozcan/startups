@@ -23,6 +23,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -58,6 +62,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -94,6 +102,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 130,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -130,6 +142,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 400,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -165,6 +181,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -200,6 +220,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -237,7 +261,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Alphas Sinja",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alphas-sinja/",
+        "bio": "Alphas Sinja is the co-founder and CEO of Boya. Alphas has 8+ yrs experience in Finance, strategy, and banking.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/772aeca9a91105d56f48d3ed6020c4e267c9c36c.jpg"
+      },
+      {
+        "name": "Robert Nyangate",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/robert-nyangate/",
+        "bio": "Co-founder and CTO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/07f154635fbddc853e9b99e4b375203655384a1f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -275,6 +318,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -312,7 +359,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 28,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Moses Mukundi",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/mosesmukundi",
+        "bio": "I founded my first startup, an agritech startup, at 23 that scaled to profitability and was acquired in 2017. I spent 6 years in the insurance and healthcare verticals in Africa before pursuing my MBA at Wharton Business School.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/92dbf4e853015c0ebd369988003ecaa2eb7b42c0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -350,6 +409,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Peter Wachira",

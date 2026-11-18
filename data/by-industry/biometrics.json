@@ -25,6 +25,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 51,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,6 +66,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -98,6 +107,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -138,6 +151,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 63,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -174,7 +191,36 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Shane Correa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shanecorrea/",
+        "bio": "Authentic, positive, and driven to serve, Shane is an accomplished team-builder and leader who is on a mission to make a positive impact on the world. Hailing from NYC, with 15+ years working internationally, he has used technology to inspire digital transformations. He combines experience from both the SMB and enterprise spaces across European and US markets. Shane has repeatedly built highly successful B2B SaaS companies \"from the ground up\" including two PE exits, one of which was at $100M.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/513e9a22ac209babd1841294c7a10e8353b6a088.jpg",
+        "active": false
+      },
+      {
+        "name": "Kerstin Jeding",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/kerstin-jeding",
+        "bio": "I am a psychologist who have worked in research into stress, the social work environment, sleep, health and turnover intent, as well as clinically. I have been part of running a specialist clinic rehabilitating persons with (work) stress related exhaustion/clinical burnout, and I have treated early stress warning signs with ACT and CBT therapy. I also have worked in stress prevention, in applied research projects, by giving workshops and lectures, and publishing self-help books.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/65f293e61685c28dfe52e07206000363fc0e718b.jpg",
+        "active": false
+      },
+      {
+        "name": "Javier Ubillos",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/javierubillos/",
+        "bio": "Javier Ubillos is a product developer with a background in distributed systems research. He's founded NudgeLabs, who aims to help people manage the stress in their life and making their wellbeing something easy to achieve.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/072c5792c3971dd8f6e0cbf7ded2e8fcc072d14d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -210,6 +256,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Arav Mathur",

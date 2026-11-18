@@ -25,6 +25,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 150,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -64,6 +69,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 19,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -102,6 +111,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -141,6 +154,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -179,6 +196,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -216,6 +237,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -256,6 +281,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 70,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -292,6 +321,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -331,6 +363,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -368,6 +404,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 250,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -406,6 +446,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -444,6 +488,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -480,6 +528,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 32,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -517,6 +569,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -556,6 +612,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -594,6 +654,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -633,6 +697,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 16,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -670,6 +738,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -710,7 +782,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Alex Cheung",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alex-cheung-1722b21a4/",
+        "twitter": "https://twitter.com/cheungyinglon",
+        "bio": "A person",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/72c7e260387b3b10534b851878b279a975eac643.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -749,6 +833,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -786,6 +874,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -823,6 +915,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -860,6 +956,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -898,6 +998,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -937,7 +1040,21 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Johannes Vermandois",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/johannesvermandois1",
+        "twitter": "https://x.com/jvrmnds",
+        "bio": "Building the future of games at www.tesana.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5a2ac6518a9580c8ab7ee68857be38702bb04e09.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -974,7 +1091,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Alexander Singh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexander-a-singh/",
+        "bio": "Healthcare AI founder and investor. Currently investing in healthcare companies at Yosemite, an oncology focused venture firm. Led Alfie (LLM CDS for metabolic health, YC W22) to acquisition by knownwell and formerly built MIST Health (CV spinal diagnostics). Also spent time as an Investment Partner at Pioneer Fund and technology consultant at the FDA during the COVID pandemic.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/08cb7582564cc25071aaaa4d51afedeb20fbfc3f.jpg"
+      },
+      {
+        "name": "Hasan Syed",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hasansyedmd/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0466089a5295414044bc2d236972f668e20e0a6a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1012,7 +1147,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Arpit Rao",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/arpit-rao",
+        "bio": "Award-winning oncologist who has led large research projects and multiple FDA approvals for cancer drugs. He founded Ankr after his patient nearly died from a preventable brain bleed because they forgot to monitor their blood pressure at home.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/941d16bf9058ff61d56bf3d10ae08cb4d90234d4.jpg"
+      },
+      {
+        "name": "Shivani Rao",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shivani-brahambhatt/",
+        "bio": "An operations mastermind who ran $135 million ARR subspecialty clinics and led telehealth deployment in a top 20 health system before joining Ankr.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fd02af16e190430cecc6aed479c03771921edc04.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1052,6 +1206,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1090,6 +1248,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1130,6 +1292,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jeffrey Lange",

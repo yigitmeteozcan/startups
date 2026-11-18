@@ -765,6 +765,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 60,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -804,6 +808,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 150,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -840,6 +848,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -877,6 +889,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -914,6 +930,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 57,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -949,6 +969,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 34,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -984,6 +1008,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1019,6 +1047,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 88,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1056,7 +1088,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Khalid Keenan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/khalid-keenan-a381578a/",
+        "bio": "Imperial College graduate in Computing. Over 10 years experience as a software engineer in banking and financial services with a focus on risk and investment management.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ebe8469d229c2ed41b727bc46441d55016c64765.jpg"
+      },
+      {
+        "name": "Youcef Oudjidane",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/feed/",
+        "bio": "I began my career helping companies go public in the U.S. before transitioning into early-stage investments, starting with the Dubai Government. I studied Mathematics at the University of Nottingham.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48fd3e960a3c81155ee2c59b0ddb428e1186cc1c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1090,7 +1141,21 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Anand Bhashyam",
+        "role": "Founder",
+        "linkedin": "https://in.linkedin.com/in/anandsatyan",
+        "twitter": "https://www.twitter.com/anandsatyan",
+        "bio": "Lifelong learner. Packaging designer and cofounder at www.packamor.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/89a345c0d33f313f114ba174d96612c3a0b1632c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1128,7 +1193,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Manar Alkassar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alkassar/",
+        "bio": "Engineer at heart. Founder of Kaso (AI group purchasing for restaurants), Helpling (home-service marketplace), and Qlub (pay at table for restaurants). Previously MD at Rocket Internet and early team of Sirrix AG (Cybersecurity, exited to Rohde & Schwarz).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/71025e4de2e6220bae76af97bfa116d900506dd2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1163,7 +1240,18 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Matthieu Capelle",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthieucapelle/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/87aa4500bb3b3a0ac8a203463ba8c88bf16097b3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1201,6 +1289,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 250,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Parthi Duraisamy",
@@ -1252,6 +1344,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Kriti Arora",
@@ -1294,6 +1390,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 28,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Akeed Azmi",
@@ -1347,6 +1447,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Andrew Malouf",

@@ -23,6 +23,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 650,
+    "isHiring": true,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -63,6 +68,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 35,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -100,6 +109,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -137,6 +150,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -175,6 +192,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -212,7 +233,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ryan Mets",
+        "role": "Founder",
+        "linkedin": "https://au.linkedin.com/in/ryanmets",
+        "twitter": "https://twitter.com/rwmets",
+        "bio": "Founder & CEO at Boardcave. Growing up in South Africa and living between the Gold Coast, Australia and California, Ryan has always been an ocean enthusiast in sailing, fishing and surfing. Previously Ryan helped grow Wotif.com, the leading travel marketplace (now acquired by Expedia). Ryan founded his first company at age 17, setting up operations out of Indonesia to be able to work and surf.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8377ca577c5666ba8044b3ce7cc8e6d837e2ed24.jpg"
+      },
+      {
+        "name": "Chris Greben",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chrisgreben/",
+        "twitter": "https://twitter.com/chrisgreben",
+        "bio": "I was fortunate to have found my passion early in life, starting in Primary School when the first computer was introduced to the classroom, I was fascinated with the endless possibilities it offered. Fast forward, my adult education has evolved into architecting and building computer code to improve the lives of people by automating as much as physically possible, to ensure a good work life balance. Work Smarter, not Harder.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6d29e679c8b8824bb0899df7cafb8e934b1d25fb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -248,7 +290,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Mitchell Stevens",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mitchellstevens/",
+        "bio": "Mitchell Stevens is the cofounder and CEO of Wagetap, which he started with Declan Conlon in 2019. Previously with BCG, Mitchell also graduated from London Business School with an MBA and is a qualified lawyer and accountant.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/68ffc1d7539076766a15612a90bf930461096bb6.jpg"
+      },
+      {
+        "name": "Declan Conlon",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/declanconlon/",
+        "bio": "Declan is the co-founder and CTO of Wagetap. He has built interesting things at AWS, Atlassian and Juniper Networks. Currently, he is working on bringing affordable credit to everyday Australians.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ef53b7e84b8c59a2ea5121161bd89b25b58de2b5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -284,7 +345,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Tooraj Arvajeh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/toorajarvajeh/",
+        "bio": "Tooraj Arvajeh has 20+ years of experience in developing, financing, and operating $1B+ new infrastructure and climate-tech projects across the world. Tooraj has worked in senior engineering, project origination, and research roles at Arup, Hatch, and the Building Performance Lab. Tooraj holds degrees in mechanical engineering and business from the University of Waterloo, Columbia Business School, London Business School, and the University of Hong Kong.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8c215c0d1b26e0993bf2ae3bb61344fb496c7cd2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -322,6 +395,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -362,6 +439,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -397,6 +478,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Simon Kubica",
@@ -454,6 +539,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Bob Criner",
@@ -507,6 +596,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Daniel Gibbon",
@@ -556,6 +649,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Adeep Mitra",
@@ -611,6 +708,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sam Rogers",
@@ -659,6 +760,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Seb Poole",
@@ -710,6 +815,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Melvin Chen",

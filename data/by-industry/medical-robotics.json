@@ -24,6 +24,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -64,6 +68,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -103,6 +110,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -142,6 +153,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -181,7 +196,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Nick Damiano",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/nickdamiano",
+        "twitter": "https://x.com/nickdamian0",
+        "bio": "First YC medtech founder and only 2x YC medtech founder; Co-founder & CEO @ Andromeda Surgical S23; Founder & CEO @ Zenflow W15 - treated > 300 patients so far, Class 3 FDA approval, raised > $100M; Co-founder & CTO @ Avail MedSystems (f.k.a. Nurep, acq. by Mendaera) - launched in 1000 hospitals, raised $120M; Venture Partner @ Pioneer Fund; Stanford Biodesign Innovation Fellow & Stanford MS/BS; Generalist/SW engineer; Dad to two daughters; Semicolon enthusiast;",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d66722f33e37245caa7dd8f7da2e5ab43158e9a5.jpg"
+      },
+      {
+        "name": "Kartik Tiwari",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile",
+        "bio": "Background in robotics 3x technical founder, 2x YC founder Led the team at Starsky Robotics to become the first in the world to have a driverless truck on a public road",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a6e5d0daa20f47f66ea411a42df32eb0df8fac6a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

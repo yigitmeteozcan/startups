@@ -208,6 +208,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -245,6 +249,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 35,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -282,7 +290,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Will Haringa",
+        "role": "Founder/ Co-CEO",
+        "linkedin": "https://www.linkedin.com/in/will-haringa/",
+        "bio": "Co-CEO and Co-founder at CoffeAI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/04aaa2efa85c389905abfba192151ffc4ebb47fa.jpg",
+        "active": false
+      },
+      {
+        "name": "Aryan Lobie",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aryan-lobie/",
+        "bio": "Co-founder of Segna",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8d10c9457cbb827bacb6d5aa07e55826495aeeb3.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

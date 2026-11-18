@@ -24,6 +24,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,6 +65,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 28,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -97,6 +105,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -134,6 +146,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -170,6 +186,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -206,7 +226,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Tanmaay K",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tanmaay-k-413400217/",
+        "twitter": "https://twitter.com/Tanmaay_K",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/36f2ee7f55a9c87e3c5c9e9397b909548b9d03e3.jpg"
+      },
+      {
+        "name": "S G",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shival-gupta-1782b6217/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a5f5b9321be1020ed3e6a43c8aea51135de50ce4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -242,7 +280,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Bruno Faviero",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/faviero",
+        "twitter": "https://twitter.com/bfaviero",
+        "bio": "- PM of Palantir's AI Platform. - Founder of Synapse Technology - AI to automate airport security (Acquired by Palantir in 2020). - Angel and VC investor in over 50 companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f072beb33954a4c746c913a5e57fd860ad2d6e08.jpg"
+      },
+      {
+        "name": "Arun Kirubarajan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/arunkirubarajan/",
+        "twitter": "https://twitter.com/arundotai",
+        "bio": "- Quant trading at Millennium - Early employee at Vise - Published NLP/ML researcher and CS lecturer at UPenn",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/09c0e78c14f7f23362c3b8a69a2cc4d0a2e91bf3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -281,6 +340,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -319,6 +382,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -356,6 +423,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -392,6 +463,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -430,6 +505,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",

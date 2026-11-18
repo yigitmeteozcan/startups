@@ -27,6 +27,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 16,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -65,6 +69,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 110,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -105,6 +113,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 200,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -144,6 +156,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 58,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -183,6 +199,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -222,6 +242,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -259,6 +283,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -298,6 +326,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -334,6 +366,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -371,6 +407,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 45,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -408,6 +448,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 45,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -446,6 +490,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 65,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -485,6 +533,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -524,7 +576,33 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Chris Ariante",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-ariante-9302804a/",
+        "bio": "I'm Nira's CEO and lead business development. Prior to Nira, I worked with Andrew at another grid startup and built a $150M pipeline of projects in <2 years. In that role, we worked as consultants for most of the major utilities and renewable developers in the US. We are leveraging our industry expertise / network to build Nira and I couldn't be more excited about the impact we are having on accelerating renewable growth!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6a44edfc86ded3e4fc3c5d1264e218f5db6b9bb.jpg"
+      },
+      {
+        "name": "Andy Chen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andy-chen-38596889/",
+        "bio": "I'm the cofounder and CTO at Nira Energy. I recently made the switch to working on climate tech and am loving it. I definitely got lucky meeting my cofounders Chris and Andrew, who are veterans in the renewable energy space with 10+ years of experience. I worked at Palantir as a software engineer for 2 years and a PM for one year. Before that I graduated from Brown with a BS in Computer Science. I live a 3 minute walk from my local surf beach in the Rockaways, NY.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8c596e2bb3b930fbaeb2e86532383ef8b45bd300.jpg"
+      },
+      {
+        "name": "Andrew Martin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andrew-martin-539a5288/",
+        "bio": "My background is in studying power grids to ensure they will remain reliable for decades to come. This profession is called \"Transmission Planning\", and I lead the Transmission Planning team at Nira. Our team is codifying the way transmission planners study the grid to help expedite the integration of new power plants like solar, wind, and energy storage projects. Our clients use our software to more simply navigate this complex space.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7496461ce7266fd191b41921b626c61b2faad662.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -561,6 +639,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -601,6 +683,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -637,6 +723,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -677,6 +767,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -716,6 +810,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -754,6 +852,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -791,6 +893,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Selinay Parlak",
@@ -845,6 +951,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 60,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Domingo Garcia-Huidobro",
@@ -904,6 +1014,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Arpan Rau",
@@ -968,6 +1082,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jack O'Grady",
@@ -1015,7 +1133,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Stephanie Vasquez",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/svasquezruiz",
+        "bio": "Leveraging my experience in the risk and payments space to make building decarbonization attainable for everyone. 12+ years in both the public and private sector building and leading product, operations, and analytics teams. Ex-Airbnb, Plaid, Asana, Gusto",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/968445dc8c7114a0357563b350e95befa088a525.jpg",
+        "active": false
+      },
+      {
+        "name": "Dasha Cherepennikova",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/dasha-cherepennikova",
+        "bio": "Excited to be working in climate tech to accelerate the transition to a greener and more energy efficient economy. 12+ years scaling hard problems through automation, ML. Seasoned product leader, experience building teams, taking products 0->1 and 1>100. Ex-Stripe, Airbnb, Google.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/988b1539f72fe8f92b38d533b7bb920040e9321c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1055,6 +1194,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sam Mendel",
@@ -1110,6 +1253,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Thomas Marge",
@@ -1156,6 +1303,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rupesh Jeyaram",
@@ -1210,6 +1361,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Alex Fuster",
@@ -1256,6 +1411,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Brenden Prins-McKinney",
@@ -1309,6 +1468,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mete Karslioglu",
@@ -1366,6 +1529,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "George Rose",

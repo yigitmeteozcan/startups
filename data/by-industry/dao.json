@@ -24,7 +24,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Bruno Faviero",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/faviero",
+        "twitter": "https://twitter.com/bfaviero",
+        "bio": "- PM of Palantir's AI Platform. - Founder of Synapse Technology - AI to automate airport security (Acquired by Palantir in 2020). - Angel and VC investor in over 50 companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f072beb33954a4c746c913a5e57fd860ad2d6e08.jpg"
+      },
+      {
+        "name": "Arun Kirubarajan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/arunkirubarajan/",
+        "twitter": "https://twitter.com/arundotai",
+        "bio": "- Quant trading at Millennium - Early employee at Vise - Published NLP/ML researcher and CS lecturer at UPenn",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/09c0e78c14f7f23362c3b8a69a2cc4d0a2e91bf3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -64,6 +85,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",

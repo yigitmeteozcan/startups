@@ -23,6 +23,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,7 +65,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Kartik Sathappan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kartiksathappan/",
+        "twitter": "https://twitter.com/sathaxe",
+        "bio": "GP at Families Fund. Invest with SGV and Yap on Pirate Wires. Previously bifrost (yc w22), panda, neighborly, intuit, apple, hbo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6650e9087fb34995388f4e904afb82097f822494.jpg",
+        "active": false
+      },
+      {
+        "name": "Samraaj Bath",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/samraajbath",
+        "twitter": "https://twitter.com/samraaj",
+        "bio": "CEO @ Dynamite. I went from selling ice cream to going thru YC twice. I built the first LLM powered Figma-to-code solution in the world and built the first autonomous design agent.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9082d26518ac83af8a93212228a3de1b2b71bcad.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -97,6 +124,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",

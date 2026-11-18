@@ -24,6 +24,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,6 +65,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -96,6 +104,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 250,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -133,6 +145,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -172,6 +188,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 500,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -210,6 +230,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -246,6 +270,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -282,6 +310,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -318,6 +350,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -356,6 +391,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -392,6 +431,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 200,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -428,6 +471,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 26,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -464,6 +511,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -502,6 +553,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -540,6 +595,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -579,6 +638,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -616,6 +679,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -655,7 +722,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ravi Chachra",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rchachra/",
+        "twitter": "https://twitter.com/rchachra",
+        "bio": "Ravi cofounded VantedgeAI (W22), and has invested in over 270+ YC companies through a demo day fund, Eight Capital. In 1999, he co-founded SNAZ, a venture backed mobile wallet and universal shopping cart. After the Dot.com bust, he set up a distressed fund to acquire busted convertibles bonds of tech cos that could thrive in the future. In 2019, he set up a pvt. credit fund which was sold in 2021 to his JV partner, J.C. Flowers & Co. Ravi holds a Degree in Computer Science and a Wharton MBA.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5924ae5024e7221014146da3f8c32d3541967da8.jpg"
+      },
+      {
+        "name": "Vijay Lavhale",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vijay-lavhale-86b06938/",
+        "twitter": "https://www.twitter.com/vijay_lavhale1",
+        "bio": "Building VantedgeAI Investing at Eight Capital",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5a1a246f671e71e4764cba5f0f6a9c27830cb2fc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -693,7 +781,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Anji Ismail",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/anjismail",
+        "twitter": "https://twitter.com/anjismail",
+        "bio": "Repeat entrepreneur. Aspiring astronaut.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1069242f1cce8f7425c1db1c05887b21275dd662.jpg",
+        "active": false
+      },
+      {
+        "name": "Faouzi EL YAGOUBI",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/faouzi/",
+        "bio": "Software expert with 10 years of experience focused on Software Engineering, Product Management.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/591c1f5f17e05411c95b18c86a42194c694ca9b1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -730,6 +840,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -769,6 +883,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -807,6 +925,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -843,6 +965,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -881,6 +1007,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Aman Raghuvanshi",
@@ -935,6 +1065,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Andrew Tang",
@@ -978,6 +1112,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 205,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Trey Holterman",
@@ -1040,6 +1178,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Daniel Kivatinos",
@@ -1102,6 +1244,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Nick Gomez",
@@ -1156,6 +1302,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Arvind Subramanian",
@@ -1210,7 +1360,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Suchintan Singh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/suchintansingh/",
+        "twitter": "https://x.com/suchintan",
+        "bio": "I'm the founder of Skyvern. We help companies automate complex workflows using AI agents and computer vision. In the past, I've built the ML Platforms at both Faire and Gopuff, which generated over $100M of GMV across their two businesses, I also love bad jokes and puns, so if you have any or are in the need of any feel free to hit me up!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6e042c66b8d37bbdbefedec94f3d36e11cbdfda.jpg"
+      },
+      {
+        "name": "Shuchang Zheng",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/shuchang-zheng-76784958",
+        "bio": "I am the CTO and cofounder of Skyvern. For the past 5 years, I've been building developer and platform tools. At Lyft, I built testing tools (simulation platform, load test framework, and end to end test framework) used by 1000+ engineers to boost dev productivity, ensure Lyft doesn't go down during peak events, and reduce infra cost. At Patreon, I helped scale the payment and db infra to process 20M+ transactions per month and free 100+ engineers from the 3-day monthly code freeze",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ff5b3572753bb2ab538c8c114dbd6cad084790f6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1247,7 +1417,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Jessica Wu",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jessica-wu-9824431ab",
+        "twitter": "https://twitter.com/jess123555",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48d7a2d5cdcfcaa80fe92e70128a64d150ff6f6d.jpg"
+      },
+      {
+        "name": "Neil Deshmukh",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/neildeshmukh",
+        "twitter": "https://twitter.com/NeilDeshmukh",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da3fc432de1d9b29f157266ba4b97c8cd6fa5738.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1285,7 +1474,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Faraz Rana",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/faraz-rana-502874a",
+        "bio": "Faraz has over 15 of experience as a start-up operator and a legal and compliance professional. Faraz was part of the founding employee team at Bread, a BNPL fintech, where helped build the company from inception to a $450M exit. Previous to Bread, Faraz had been an M&A lawyer, dabbling with start-up ideas in his spare time. Faraz is based in Brooklyn, NY and enjoys running and playing tennis.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fbe9002d693006cda05cf2a4850fc70aa870fd76.jpg"
+      },
+      {
+        "name": "Peter Greczner",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/peter-greczner-0067086",
+        "bio": "Peter is CTO of Affinity. He's been building and working with NYC start-ups for almost 15 years, including companies in AdTech, FinTech, and Crypto. As a founding team member of Bread, a pay-over-time FinTech, he led and built the engineering team to a successful $500M exit. In addition to having fun building startup's, Peter also loves to play basketball, run, try new board games and play outside with his 2 kids.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4368510ff32f5960f622d60e144b4699b4114834.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1323,7 +1531,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 50,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Raj Paul",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rajkumarkohli",
+        "twitter": "https://twitter.com/rajpkohli",
+        "bio": "NHS Clinical Entrepreneur who grew up running around my parents primary care practice. Ex-management consultant who delivered intelligent automation projects for global banks. Sometimes I teach people how to ski ⛷️",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1b635c75d727092621d084dc3cbf9ec18be23acd.jpg"
+      },
+      {
+        "name": "Peter Huang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/petejayhuang",
+        "twitter": "https://twitter.com/PeteJayHuang",
+        "bio": "Cofounder and Head of Product of Healthtech 1. British Born Chinese based in London. A deep generalist with skills in product, growth & engineering. Most recently a Web Engineer @ Monzo. I'm building a health tech automation company with a best friend from school! This is our 2nd company together, having found our true Ikigai in helping a national health system thrive. There isn't a convincing plan to fill the huge staffing gap in the NHS. This is where our automation platform fits in.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/25f1e64672b7b8c5c7da03dfad2622231912baec.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1362,6 +1591,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Blake Rouse",
@@ -1415,6 +1648,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Angie Muller",
@@ -1463,6 +1700,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sahil Sinha",
@@ -1508,6 +1749,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "He Lu",
@@ -1561,6 +1806,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Neha Mittal",
@@ -1607,6 +1856,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Gokhan Egri",
@@ -1653,6 +1906,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Philip Koenig",
@@ -1714,6 +1971,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 13,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Omar Abuhashish",
@@ -1768,6 +2029,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Adam Dorfman",
@@ -1823,6 +2088,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Vardhan Kapoor",
@@ -1876,6 +2145,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Dhruv Tandon",
@@ -1938,6 +2211,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mark Rachapoom",
@@ -1993,6 +2270,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Srijan Kumar",
@@ -2049,6 +2330,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Martin Bittner",
@@ -2103,6 +2388,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Abdul Basharat",
@@ -2156,6 +2445,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Audrey Djiya",
@@ -2204,6 +2497,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Shaun Modi",
@@ -2257,6 +2554,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Will Tong",
@@ -2311,6 +2612,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Edward Zhang",
@@ -2355,6 +2660,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Finn Mallery",
@@ -2407,6 +2716,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Noah Fichter",
@@ -2460,6 +2773,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Edward Huang",
@@ -2513,6 +2830,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Dev Jain",
@@ -2560,6 +2881,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Joshua Doolan",
@@ -2611,6 +2936,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Chloe Samaha",
@@ -2659,6 +2988,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mahmoud Al-Madi",
@@ -2705,6 +3038,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Eshan Dosani",
@@ -2758,6 +3095,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Alec Olesky",
@@ -2810,6 +3151,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rithvik Gabri",
@@ -2863,6 +3207,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Abhimanyu Yadav",
@@ -2918,6 +3266,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Milind Sagaram",
@@ -2964,6 +3316,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Chanhyung Kim",
@@ -3016,6 +3372,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Warren Shepard",
@@ -3069,6 +3429,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mojmir Horvath",
@@ -3115,6 +3479,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "David Pastewka",
@@ -3175,6 +3543,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Brad Gessler",
@@ -3228,6 +3600,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jihyun Kim",
@@ -3287,6 +3663,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Aditya Mittal",
@@ -3340,6 +3719,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Christopher Ruaño",
@@ -3394,6 +3777,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "David Shijoon Bae",
@@ -3447,6 +3834,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Joshua Tang",
@@ -3499,6 +3890,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ananth Sankaralingam",
@@ -3546,6 +3941,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jonathan Fishner",
@@ -3599,6 +3997,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Najmuzzaman (Nazz) Mohammad",
@@ -3653,6 +4055,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Joanathan McIntosh",
@@ -3706,6 +4111,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tony Kam",
@@ -3769,6 +4178,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sam Cogan",
@@ -3829,6 +4242,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Akshay Manglik",

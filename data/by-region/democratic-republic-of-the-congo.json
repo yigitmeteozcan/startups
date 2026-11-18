@@ -24,7 +24,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ntambwa Basambombo",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ntambwa-basambombo-1371b952",
+        "twitter": "https://twitter.com/ntambwabasa",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4cb96d76aa917ffe46b5ae238df19a6180e9b53.jpg"
+      },
+      {
+        "name": "Christel Ilaka",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/christelilaka",
+        "twitter": "https://twitter.com/chrisilaka",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48e938228319f323588de4f538fa61437dbda479.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

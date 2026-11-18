@@ -24,6 +24,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -60,6 +63,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -97,6 +104,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -134,6 +145,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -169,6 +184,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 16,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -208,7 +227,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Peter Mangan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/peter-m-34b44871/",
+        "twitter": "https://twitter.com/PeterbMangan",
+        "bio": "Building PromptLoop to make it 10x easier to pull insights from the internet and research companies. Previously, I worked at an organization reducing systemic cyber risk, as a quantitative analyst for a family office and as a consultant. I enjoy history, reading and being outside kiteboarding, painting, or just enjoying a sunny run around town.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e075336cdb40b5da6d97a3e33930e017ad5e48dd.jpg"
+      },
+      {
+        "name": "Andrew Mangan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andrew-mangan/",
+        "bio": "I love history, math, and solving hard problems. In addition to building things people love, I train and compete in para rowing for the US. Thankfully rowing takes place early in the day!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4d15e0e51c6d9ee7355823e1e74d2d08e38110c8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -246,6 +285,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "David Correa Orozco",
@@ -299,7 +342,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 120,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Aaron Cannon",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/a-a-ron-cannon/",
+        "twitter": "https://twitter.com/AaronLCannon",
+        "bio": "Co-founder and CEO of Outset. Aaron was previously the head of product at Untapped and Triplebyte and played senior product roles at Tesla, Pebble, and Monitor Deloitte before that. He started his career as a tour manager for a band called Timeflies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/47ab295ac1ee892b63713f73b9e454b706d119f7.jpg"
+      },
+      {
+        "name": "Michael Hess",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/mchl-hess",
+        "bio": "Engineer-turned-firefighter-turned-founder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/021aab0d7cce35290c351b9553227b59e4b41f59.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -337,6 +400,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tyler Lehman",
@@ -383,6 +450,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 90,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Dieter De Mesmaeker",
@@ -437,6 +508,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Abigail Grills",
@@ -481,6 +556,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "James He",
@@ -532,6 +611,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Larissa Tyagi",
@@ -576,6 +659,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sean Conley",
@@ -627,6 +713,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Frederik Hansen",
@@ -680,6 +770,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Matthew Chen",
@@ -734,6 +828,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mojmir Horvath",
@@ -778,6 +876,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Nikita Mullangi",
@@ -830,6 +932,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tymek Staniszewski",
@@ -882,6 +988,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jay Flaherty",

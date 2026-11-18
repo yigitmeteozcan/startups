@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:14:14.669Z",
+  "generatedAt": "2026-11-18T14:04:52.445Z",
   "sources": [
     {
       "name": "500",
@@ -7,7 +7,7 @@
       "site": "https://500.co/portfolio",
       "count": 2243,
       "status": "live",
-      "lastLiveFetch": "2026-11-18T12:14:14.669Z",
+      "lastLiveFetch": "2026-11-18T14:04:52.445Z",
       "note": ""
     },
     {
@@ -25,17 +25,17 @@
       "site": "https://www.ycombinator.com/companies",
       "count": 6404,
       "status": "live",
-      "lastLiveFetch": "2026-11-18T12:14:14.669Z",
+      "lastLiveFetch": "2026-11-18T14:04:52.445Z",
       "note": "5 no longer listed upstream (kept, flagged listed:false)"
     },
     {
       "name": "techstars",
       "label": "Techstars",
       "site": "https://www.techstars.com/portfolio",
-      "count": 5199,
+      "count": 5200,
       "status": "live",
-      "lastLiveFetch": "2026-11-18T12:14:14.669Z",
-      "note": "12 no longer listed upstream (kept, flagged listed:false)"
+      "lastLiveFetch": "2026-11-18T14:04:52.445Z",
+      "note": "1 new; 13 no longer listed upstream (kept, flagged listed:false)"
     },
     {
       "name": "antler",
@@ -43,7 +43,7 @@
       "site": "https://www.antler.co/portfolio",
       "count": 1087,
       "status": "live",
-      "lastLiveFetch": "2026-11-18T12:14:14.669Z",
+      "lastLiveFetch": "2026-11-18T14:04:52.445Z",
       "note": "1 no longer listed upstream (kept, flagged listed:false)"
     },
     {
@@ -52,7 +52,7 @@
       "site": "https://www.joinef.com/portfolio/",
       "count": 545,
       "status": "live",
-      "lastLiveFetch": "2026-11-18T12:14:14.669Z",
+      "lastLiveFetch": "2026-11-18T14:04:52.445Z",
       "note": ""
     },
     {
@@ -61,16 +61,16 @@
       "site": "https://www.alchemistaccelerator.com/portfolio",
       "count": 514,
       "status": "live",
-      "lastLiveFetch": "2026-11-18T12:14:14.669Z",
+      "lastLiveFetch": "2026-11-18T14:04:52.445Z",
       "note": ""
     }
   ],
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data",
   "raw": "https://raw.githubusercontent.com/yigitmeteozcan/startups/main/data",
-  "total": 22436,
+  "total": 22437,
   "endpoints": {
     "all": {
-      "count": 22436,
+      "count": 22437,
       "api": "https://raw.githubusercontent.com/yigitmeteozcan/startups/main/data/all.json",
       "csv": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.csv",
       "xlsx": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx"
@@ -90,6 +90,15 @@
     "current": {
       "count": 69,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/current.json"
+    },
+    "hiring": {
+      "count": 1475,
+      "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/hiring.json"
+    },
+    "new": {
+      "count": 1,
+      "days": 30,
+      "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/new.json"
     },
     "stats": {
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/stats.json"
@@ -115,7 +124,7 @@
       {
         "name": "techstars",
         "slug": "techstars",
-        "count": 5199,
+        "count": 5200,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/techstars.json"
       },
       {
@@ -159,7 +168,7 @@
       {
         "name": "2024",
         "slug": "2024",
-        "count": 1452,
+        "count": 1453,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2024.json"
       },
       {
@@ -2007,6 +2016,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/lucha-11.json"
       },
       {
+        "name": "Founder Catalyst sponsored by Stanley Black & Decker, Techstars Space Accelerator",
+        "slug": "founder-catalyst-sponsored-by-stanley-black-decker-techstars-space-accelerator",
+        "count": 2,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/founder-catalyst-sponsored-by-stanley-black-decker-techstars-space-accelerator.json"
+      },
+      {
         "name": "Founder Catalyst in partnership with J.P. Morgan, Techstars Workforce Development Accelerator",
         "slug": "founder-catalyst-in-partnership-with-j-p-morgan-techstars-workforce-development-accelerator",
         "count": 2,
@@ -2071,12 +2086,6 @@
         "slug": "founder-catalyst-in-partnership-with-j-p-morgan-techstars-industries-of-the-future-accelerator",
         "count": 1,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/founder-catalyst-in-partnership-with-j-p-morgan-techstars-industries-of-the-future-accelerator.json"
-      },
-      {
-        "name": "Founder Catalyst sponsored by Stanley Black & Decker, Techstars Space Accelerator",
-        "slug": "founder-catalyst-sponsored-by-stanley-black-decker-techstars-space-accelerator",
-        "count": 1,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/founder-catalyst-sponsored-by-stanley-black-decker-techstars-space-accelerator.json"
       },
       {
         "name": "Techstars Chicago, Techstars Founder Catalyst Global Program",
@@ -2347,7 +2356,7 @@
       {
         "name": "Americas",
         "slug": "americas",
-        "count": 6012,
+        "count": 6013,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/americas.json"
       },
       {
@@ -2973,7 +2982,7 @@
       {
         "name": "United States",
         "slug": "united-states",
-        "count": 11520,
+        "count": 11521,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/united-states.json"
       },
       {
@@ -3707,7 +3716,7 @@
       {
         "name": "Artificial intelligence and machine learning",
         "slug": "artificial-intelligence-and-machine-learning",
-        "count": 1667,
+        "count": 1668,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/artificial-intelligence-and-machine-learning.json"
       },
       {
@@ -3989,7 +3998,7 @@
       {
         "name": "Robotics and Drones",
         "slug": "robotics-and-drones",
-        "count": 209,
+        "count": 210,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/robotics-and-drones.json"
       },
       {
@@ -4341,16 +4350,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/human-resources.json"
       },
       {
+        "name": "Space tech",
+        "slug": "space-tech",
+        "count": 89,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/space-tech.json"
+      },
+      {
         "name": "Fashion",
         "slug": "fashion",
         "count": 89,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/fashion.json"
-      },
-      {
-        "name": "Space tech",
-        "slug": "space-tech",
-        "count": 88,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/space-tech.json"
       },
       {
         "name": "Mobile commerce",

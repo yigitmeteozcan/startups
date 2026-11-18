@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -65,6 +69,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 33,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -103,6 +111,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 80,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -142,6 +154,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -178,6 +194,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -216,7 +236,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Lin Sun Fa",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/lsunfa/",
+        "bio": "Lin Sun Fa, CEO at Emobi, is an EV enthusiast with a deep knowledge in cybersecurity. Lin plays a leading role in the climate tech and energy space, garnered trust from organizations and leaders in the industry. He earned his Cybersecurity degree at Purdue University and was previously the global director of operations at Solar Chapter, a World-bank affiliated non-profit. In his free time, he is an avid traveler and a loving corgi-dad.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6ba0c2349d48cfd7e95b952ce10bdc621645caed.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -254,6 +286,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 28,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -293,7 +329,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Reetam Ganguli",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/reetamganguli",
+        "twitter": "https://twitter.com/ReetamGanguli",
+        "bio": "Got into Med school at Brown at 17, was studying to be an OBGYN, and dropped out to do Elythea. 1st authored 20+ publications, including multiple Nature journals. Previously founded and scaled a medical education organization across 30+ countries.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4d58e1c64c1467a1d228bf705923115214b09e4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -332,7 +381,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Shehbaz Virk",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shehbazvirk/",
+        "bio": "Co-Founder @ Cair Health, Public Health & Biochemistry @ UC Berkeley",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/71748884bfbe1b858958bd71a621295ef2b29331.jpg"
+      },
+      {
+        "name": "Ishan Balakrishnan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ishanbalakrishnan",
+        "bio": "Co-Founder @ Cair Health, Comp Sci & Business @ UC Berkeley",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7d50db33e360227615622d12c07eba5a88bdbb7c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -370,7 +438,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ingo Boegemann",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ingo-boegemann-a78800bb",
+        "bio": "Studied mechanical engineering at the technical university of Hamburg and at UC Berkeley Worked in tech consulting for almost 10 years with a focus on supporting classical European tech companies (automotive, aerospace, etc. ) Founded my own consulting company which I exited to a competitor in 2020 Started working on sensor fusion technologies which are part of truemetrics core tech stack in 2020 In my free time I love to the outdoors, especially camping and surfing",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/73cf0926ae6f86b6c2e562ab1072b7e7f023cb2f.jpg"
+      },
+      {
+        "name": "Jan Bischof",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jan-bischof",
+        "bio": "Jan Bischof is a highly skilled and accomplished software engineer with a strong background in artificial intelligence research. With a passion for developing innovative solutions, Jan has a proven track record of designing and implementing cutting-edge algorithms and software systems. He possesses excellent problem-solving abilities and a deep understanding of machine learning techniques, making him a valuable asset in the field of AI and software development.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7f49658ac12d4a60e2bdb8e5ce62ded4c8e0d66a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -408,6 +495,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Alex Liao",
@@ -454,6 +545,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ismail Salim",
@@ -507,6 +602,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Shreyash Nigam",
@@ -561,6 +660,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mateo Perez",
@@ -609,6 +712,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Cinnamon Sipper",
@@ -663,6 +770,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Francois Chollet",
@@ -717,6 +828,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Luis Manrique",
@@ -769,6 +884,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Christian Vestergaard",

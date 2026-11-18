@@ -2825,6 +2825,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 134,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2862,6 +2867,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2900,7 +2909,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Sipra Laddha",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sipraladdha",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/57cf1470e7b4c4ba307b04f8de72a8eb41832e95.jpg"
+      },
+      {
+        "name": "Shama Rathi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shama-rathi-35878b20b/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aaf5884ab1da6f76fb39f9e9f7c7bacb2e2132f3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2937,6 +2963,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 35,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2976,6 +3006,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",

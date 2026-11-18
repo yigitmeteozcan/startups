@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 75,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -64,7 +68,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Angela Hoover",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/angela-hoover/",
+        "twitter": "https://x.com/angelahoover_",
+        "bio": "Angela (CEO) is from a totally non-traditional founder background. She's a community college dropout who went from construction laborer to working with Microsoft on Azure, before launching Angie's Travels, a travel influencer startup. She started Andi after going through YC Startup School as a 23-year-old non-technical female founder with the idea for a \"not searching\" engine for Gen-Z.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3151a886c4f9b867f43adcbb67cc74d888598784.jpg"
+      },
+      {
+        "name": "Jed White",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/jedwhite",
+        "twitter": "https://x.com/jedwhite",
+        "bio": "Jed (CTO) has been programming since he was 8, and sold his first software aged 12. He studied computer science (USyd-part/USFCA), and was editor-in-chief of Australia's top computer magazine at 23, before making a popular start page with 3m users, and building a media search and personalization startup. He has 20+ years experience in search and AI.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ac775aafdd7712bff597911e958a1ce9d95f5d26.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -101,7 +126,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Jackson Roberts",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jackson-roberts/",
+        "twitter": "https://twitter.com/jacksondotsh",
+        "bio": "Software engineer. My interests include distributed systems (both computer and IRL), novel business models, and discovering new problems. CU Boulder '21.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/80066dd0452d0cffbba91d2412900a4241ea8303.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -138,6 +176,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -176,6 +218,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -213,6 +259,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -250,6 +300,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Govind Chandrasekhar",
@@ -306,7 +360,45 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Flynn Traeger",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/flynn-traeger",
+        "bio": "Software engineer by training but cut my teeth in headhunting so can't stop talking to people. Ex-Stanford rower. 2x All-American. Now I'm trying to make search better.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ecc1f2dff3dba0c41cd8d3b38dca353c6dc31bd4.jpg",
+        "active": false
+      },
+      {
+        "name": "Bryn Hughes",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/bryn-hughes-3968b7201",
+        "bio": "Stanford CS 2023 grad with previous research in ASL translation with LLMs and model design.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f3d8a68d7607f020c95d70f2be99b53f17ccd1e4.jpg",
+        "active": false
+      },
+      {
+        "name": "Moe Khalil",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/moe-khalil-73a2371a1",
+        "twitter": "https://x.com/Mokhalil01",
+        "bio": "Product @ LiteLLM (YC W23). Previously built the first ever commercial deep research product @ Webhound (YC S23). Stanford CS '23",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/71908f66e9da71876cf3cca281a7afd005398c55.jpg",
+        "active": false
+      },
+      {
+        "name": "Porter Weisberg",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/porter-weisberg",
+        "bio": "Previously a C.S. major and all-academic rower at Stanford, and has been building startups since.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48f21488c1a9ade1b22a7d7a2c52afb3703b1f4b.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -343,7 +435,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Amrutha Gujjar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/amruthagujjar/",
+        "twitter": "https://twitter.com/amruthagujjar",
+        "bio": "Structured",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/94a9bf7fb1763cd598927323dbc16a60f0d7ad98.jpg",
+        "active": false
+      },
+      {
+        "name": "Shivam Singhal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shivam-singhal",
+        "twitter": "https://twitter.com/singhals_",
+        "bio": "data infrastructure",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4d9c91a2c049a5a37324846f26886d63ddc5837d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -382,6 +497,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Chris Weaver",
@@ -429,6 +548,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Raunak Chowdhuri",
@@ -481,6 +604,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Praneeth Guduguntla",
@@ -539,6 +666,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Nick Khami",
@@ -593,6 +724,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Dylan Walker",
@@ -657,6 +792,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Joshua Ramette",
@@ -708,6 +846,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Finn Mallery",
@@ -762,6 +904,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rohan Sharma",
@@ -808,6 +954,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Haz Hubble",
@@ -862,6 +1012,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Lewis Lien Polansky",

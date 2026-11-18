@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -63,6 +67,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 200,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -100,6 +108,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -138,6 +150,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 80,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -173,6 +189,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 180,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -210,6 +230,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 75,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -248,6 +272,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -286,6 +314,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 13,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -325,6 +357,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 24,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -363,6 +399,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 75,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -398,6 +438,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -437,7 +481,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Aswin Andrison",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/aandrison",
+        "bio": "Aswin co-founded TazkerAI on the back of Lumina (YC W22), an autonomous AI+human-powered workflow automation for the physical industry. Prior to that, he co-founded STOQO, a pioneer fresh-produce supplier for 40,000 restaurants with 1,500-strong workforce and USD 13M raised from top investors (Accel, Monk's Hill and AlphaJWC, etc). Before startups, Aswin consulted at McKinsey, IBM and Honeywell. He graduated computer science / chemical eng. from UNSW and MBA from London Business School and MIT.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0ce9fdf159a142e46711946b2bb326804278cfe8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -475,7 +531,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 35,
+    "isHiring": false,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Chang She",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/changshe",
+        "twitter": "https://twitter.com/changhiskhan",
+        "bio": "My passion is building tools to make teams more productive working with data. I was VP of Eng at TubiTV where I designed the ML stack and the experiment platform, in addition to growing the team by more than 3x. Previously I was CTO/co-founder of DataPad and the second major contributor to the pandas library. In a former life, I was a financial quant with stints at AQR and Barclays.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7fac6d13a6e767ce791580c1200cbdaaa236d900.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -511,7 +580,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 13,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Derek Lukacs",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/derek-lukacs/",
+        "bio": "Derek Lukacs is the cofounder and CTO of RedBrick AI and currently spends his time leading the team on improving the RedBrick AI product capabilities and user experience. He holds a Bachelors and Masters in Aerospace Engineering from the University of Michigan where he cofounded the SpaceX Hyperloop pod competition team alongside current Cofounder Shivam Sharma.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed8ffe218eadeb092f842d5042cbb295db9fa171.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -548,7 +629,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Kashif Saleem",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kashifsaleem786/",
+        "twitter": "https://twitter.com/KashifSaleemCEO",
+        "bio": "Kashif Saleem has over 12 years of experience in helping SMBs with SaaS apps. Certified in Technology Entrepreneurship from London Business School (LBS). He worked as a Cloud computing Research Fellow at the University of Oxford. He also worked at JP Morgan Chase as a High-Frequency programmer in London Equity Trading.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/977331e8881b194baa18ebef284945971657d9c2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -585,6 +679,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -626,6 +724,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -663,6 +765,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Laduram Vishnoi",
@@ -710,6 +816,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Danna Liu",
@@ -764,6 +874,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Justin Torre",
@@ -830,6 +944,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Stefan Krawczyk",
@@ -887,6 +1005,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Krrish Dholakia",
@@ -939,6 +1061,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Maurice Burger",
@@ -994,7 +1120,34 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Govind Gnanakumar",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/govind-gnanakumar",
+        "twitter": "https://twitter.com/sandkoan",
+        "bio": "Often running away from robots (that I created). Building the next generation of artifical narrow intelligence.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f073adeb6c9ba6591e097d17f81f051d0ae71ff.jpg"
+      },
+      {
+        "name": "Maaher Gandhi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maaher-gandhi-31b40928b",
+        "bio": "When not working on Automorphic, I'm building AI to beat me at chess",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/38c64b0f499364e92826147408ed30c847ad9260.jpg"
+      },
+      {
+        "name": "Mahesh Natamai",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/mahesh-natamai-b17683188",
+        "bio": "Building AI agents that can remember and self-improve like we can at Automorphic.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c7ac55ddb274bbc274308cc40cf70b18aa906241.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1031,7 +1184,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Effy Zhang",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/effyz",
+        "twitter": "https://twitter.com/effyyzhang",
+        "bio": "Building something new",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a25255d1e49c35b1b85e203afd7a6c0c205da71a.jpg",
+        "active": false
+      },
+      {
+        "name": "Adam Ginzberg",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/adam-ginzberg-77b6ba126",
+        "bio": "Adam is the CTO and co-founder of Subframe. He was an early engineer at Coda, helped lead the Coda AI team, and studied CS at Stanford.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/505718638d29d03233126fde46ccd0bfe504af7d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1068,7 +1243,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Anish Agrawal",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/anishagrawal1",
+        "twitter": "https://twitter.com/anishtxt",
+        "bio": "I'm the Co-founder/CEO of Chatter (S23). Interested in AI/ML and robotics. Studied CS + Robotics @ UPenn",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a81a64a3b62eede66b2afbb6a2a26e0c0284415.jpg"
+      },
+      {
+        "name": "Kasyap Chakra",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/kasyap-chakravadhanula-357b41132",
+        "bio": "Building Paragon to bring modern AI to the most important businesses in America.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f2291d802e8439800d86c4b2e3b91eff9d7a1818.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1106,7 +1301,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Diva Avaya Sharma",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/diva-sharma",
+        "twitter": "https://twitter.com/adivawhocodes",
+        "bio": "Diva is the founder of Cognitio Labs (former Flair telehealth) and inventor of a patented remote patient monitoring device. Previous companies & projects at Ancestry.com, Facebook, Johnson & Johnson, and the Stanford School of Medicine. Alum: Stanford University (Bachelors)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/66eb801562304c65890ec479268fc5fa4cacc625.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1143,7 +1351,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Kyle Corbitt",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kcorbitt",
+        "twitter": "https://twitter.com/corbtt",
+        "bio": "Repeat founder and former engineer at Google and YC. Led the Startup School team and built products that increased YC applications by over 40%.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/61a7e3b87e48ae759ab6ad3f1abe5d76c39e6dbc.jpg"
+      },
+      {
+        "name": "David Corbitt",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/davidcorbitt",
+        "bio": "I'm a co-founder at OpenPipe, a platform for turning your slow and expensive prompts into cheap fine-tuned models. My cofounder and I wrote the first web agent that ran on GPT-4 (Taxy.AI) and I've been fine-tuning models since 2021.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/df70a826af6890cc6dc3e0aabda4ca6e185e8780.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1182,6 +1410,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 17,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Andy Li",
@@ -1229,6 +1461,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 50,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Camila Zancanella",
@@ -1280,6 +1516,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Alan Xie",
@@ -1333,6 +1573,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jon Levinson",
@@ -1387,6 +1631,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Filip Kozera",
@@ -1442,6 +1690,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mark Dawson",
@@ -1494,6 +1746,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Scott Cara",
@@ -1541,6 +1797,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Robert Kim",
@@ -1595,6 +1855,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Robi Lin",
@@ -1646,6 +1910,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Arko C",
@@ -1707,6 +1975,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jesse Hu",
@@ -1766,6 +2038,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Linus Meierhöfer",
@@ -1826,6 +2102,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Abhinav Sinha",
@@ -1887,6 +2166,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tycho Svoboda",
@@ -1947,6 +2230,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Daanish Khazi",
@@ -2007,6 +2294,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Yi Zhong",
@@ -2061,6 +2352,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Shivum Pandove",
@@ -2107,6 +2402,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Stephen Sun",
@@ -2153,6 +2452,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Kevin Cox",
@@ -2206,6 +2508,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Srikar Dandamuraju",
@@ -2260,6 +2566,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Joe Fioti",
@@ -2323,6 +2633,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Raman Varma",
@@ -2370,6 +2684,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Narayana Aaditya Ganeshkumar",
@@ -2424,6 +2742,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jimmy Wei",
@@ -2475,6 +2797,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Christopher Acker",
@@ -2528,6 +2854,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rhys Sullivan",
@@ -2576,6 +2906,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mert Turna",
@@ -2630,6 +2964,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Shailendra Singh",
@@ -2681,6 +3019,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Aniket Deshpande",
@@ -2735,6 +3077,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jonathan Fishner",
@@ -2788,6 +3133,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Najmuzzaman (Nazz) Mohammad",
@@ -2844,6 +3193,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Prateek Jannu",
@@ -2898,6 +3251,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tony Kam",
@@ -2959,6 +3316,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Aly Moursy",
@@ -3006,6 +3367,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Harpreet Dhaliwal",
@@ -3053,6 +3418,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jacob Ososke",
@@ -3105,6 +3474,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3143,6 +3515,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tiphaine Venet",
@@ -3195,6 +3571,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Dan McGee",
@@ -3249,6 +3629,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Macy Mody",

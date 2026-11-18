@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 235,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -63,6 +67,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 50,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -103,6 +111,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 70,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -140,6 +152,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 27,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -179,6 +195,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -216,6 +236,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -253,6 +277,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -293,7 +321,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Moran Snir",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/moran-ronnie-shochat-snir-a29a23",
+        "bio": "I'm dedicated to increasing access to genetic information. My previous company Clear Genetics was acquired NVTA in 2019, where I led the Software and Data organization. I also founded MorNetware, which developed Genometer a software that screens 90% of Israeli pregnancies for ethnic-based carrier screening since 2005. I was an officer in the IDF Elite software unit and studied Biomedical Engineering for my BA M.Sc. I have an MBA from the Wharton Business School and am a 2-time Y Combinator Alum.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a75e563c9e83bfc7bd25ce5721c1d85cf42f58df.jpg"
+      },
+      {
+        "name": "Guy Snir",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/guysnir",
+        "twitter": "https://twitter.com/guysnir",
+        "bio": "I'm a co-founder and COO of Nest Genomics (W22). Until recently, I led SaaS teams at Invitae (NVTA), a global genetics company. I was the co-founder and COO of ClearGenetics (W17, acquired by Invitae), which developed innovative software for integrating genetics into routine care. Before that, I held senior product roles at Twitter, SnappyTV and Google/Motorola. I'm a Mammram Alum, hold a Bachelor’s in Computer Science and MBA from Duke and Tel-Aviv University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/699ff919b3f8433e72027f68b696447c9e937d68.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

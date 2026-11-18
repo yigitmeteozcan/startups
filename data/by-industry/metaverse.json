@@ -27,6 +27,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 39,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -65,6 +69,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -103,6 +111,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -139,6 +151,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -178,6 +194,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -214,6 +234,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 60,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -251,7 +275,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Xavier Lesage Moretti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/xavier-lesage-moretti/",
+        "bio": "Xavier was born and raised in Paris, France. When he turned 21, he got an internship at Apple in California and never came back to France. Xavier currently lives in San Francisco with his fiancée. He would not trade his entrepreneurial life for anything. Xavier's favorite TV show are West Wing and Friends. He's a decent skier, basketball player and plays real time strategy games.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eafb746db7a37a1d2100eef4fc1b842468d24901.jpg"
+      },
+      {
+        "name": "Benjamin Roux",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/benjamin-roux-3b224237",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cf9871fad2ced856ec18dc7b522ba09a94d34831.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -288,6 +330,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",

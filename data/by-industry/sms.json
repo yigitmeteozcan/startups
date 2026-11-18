@@ -24,6 +24,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 320,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -62,6 +66,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 65,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -98,6 +106,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 63,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -136,6 +148,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -173,7 +189,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Kunal Puri",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/kunal-puri1",
+        "twitter": "https://twitter.com/thekunalpuri",
+        "bio": "I’m at The OpenAI Deployment Company. Previously, I was the founding product lead at Hanover Park, building AI tools for fund accountants and real-time financial intelligence for CFOs. Before that, I founded Smobi (YC S23), building branded, interactive business messaging over RCS. Based in NYC.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/740e9a422d9032c9b4ac7fd1f5a56c7fce81ce02.jpg",
+        "active": false
+      },
+      {
+        "name": "Michael Ning",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/mning1598",
+        "bio": "Founder and CTO @ Smobi (YC S23), a business for sale marketplace with verified buyer and listing data. Formerly Dover (YC S19)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a4ea26d5c55edcd9053b9cb13537a889dbc4576.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -210,6 +248,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Daniel Ho",
@@ -265,6 +307,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sean Roades",

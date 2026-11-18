@@ -23,6 +23,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 35,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -59,6 +63,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 500,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -96,6 +105,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 23,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -132,6 +145,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -168,6 +185,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -204,6 +225,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -239,6 +264,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -276,6 +305,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -312,7 +345,33 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 22,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Oscar Peppitt",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/oscar-peppitt-99965331/",
+        "bio": "Oscar is CEO of Cutr where he focuses on setting company strategy, speaking to customers and finding the world's best talent to join the team. Oscar was early-Uber, launching the transport business in APAC, UberEATS across APAC and EMEA, and even worked on self-driving cars for a bit. He is focused on figuring out how to get to a zero carbon future through economics for the environment.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/891eb20415e878dcdc872add782e3b25fe19d5ea.jpg"
+      },
+      {
+        "name": "Rodny Heemskerk",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rodny-heemskerk-ab75b513/",
+        "bio": "Rodny is a trained industrial designer and CAD/CAM engineer. He previously built a successful manufacturing business. Rodny knows Cutr’s industry inside out – from workflow issues to machining solutions to how to close deals. At Cutr he is responsible for the sales and ops teams and working with the product team to turn his experience into scalable solutions. 2013 Lean Startup Machine 2015 Succesfull campaign at Kickstarter (US) 2017-2020 Accelerator program - Entrepreneurs Organization (EO)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa084b26bc8ce6b3c448f6c49b0038a495a330b2.jpg"
+      },
+      {
+        "name": "Jasper Mittelmeijer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jaspermittelmeijer/",
+        "bio": "Jasper built the procedural furniture generator & CNC controller that started Cutr. He started writing code in high school and wrote his first 3D render engine at 15. At Cutr, Jasper is responsible for the engineering & design team. Because of his broad skillset and experience he excels at getting new product shipped fast.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7329bb60a8a81e0ccc6b88886c26a1bba1a3dfa3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -350,6 +409,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 17,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -388,6 +451,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -425,6 +492,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 75,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -459,6 +530,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Abel Van Steenweghen",
@@ -506,6 +581,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Wilco Kruijer",
@@ -555,6 +634,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Niek Hogenboom",
@@ -609,6 +692,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Pieter Becking",
@@ -662,6 +749,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",

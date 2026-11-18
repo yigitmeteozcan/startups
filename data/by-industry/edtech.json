@@ -9550,6 +9550,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 300,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -9586,6 +9591,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 50,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -9624,6 +9633,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -9659,6 +9672,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -9695,6 +9712,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 120,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -9731,6 +9752,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 50,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -9770,6 +9795,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
+    "nonprofit": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -9806,6 +9836,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -9842,6 +9876,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -9879,6 +9917,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -9917,7 +9959,36 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Mitul Mehta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mitul-mehta-37969a141",
+        "bio": "Love working on products that can make a difference for the future generation. Have experience working at startups such as CRED (Unicorn) and Rapido. Founded a company during the final year of college with my current co-founder Shiv and got some insightful experience and understanding on what it takes to build a business.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/239f1dbdb3bb5674187167142c6999f2520bee16.jpg"
+      },
+      {
+        "name": "Shiv Bidani",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shivbidani/",
+        "twitter": "https://twitter.com/shivbidani",
+        "bio": "Computer Science Engineer. Love building products with attention to detail. Numbers and finance has always excited me. Co-founded a company with Mitul in the final year of college that helped me realize my calling towards building products.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fad82e9dfad311a12dbfa3700699dd76ffe02cb4.jpg"
+      },
+      {
+        "name": "Balaji R",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/balaji-jinnah-1253a395/",
+        "twitter": "https://twitter.com/poonai_",
+        "bio": "Balaji is a hard core engineer with experience in distributed systems and databases.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c883fde7d820050ec76a8e005e3afc778a87f49b.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9953,7 +10024,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ignacio Viau",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ignacio-javier-viau-4567b459/",
+        "bio": "Ignacio Viau is a driven entrepreneur and a qualified lawyer with a strong background in business development and sales. As the CEO of HOKALI, he leads a platform that streamlines after-school programs and enrichment activities in the U.S. Ignacio has launched three startups and successfully managed the strategic releases of new products, showcasing his talent for building and scaling ventures. His unique combination of legal expertise and entrepreneurial spirit positions him to navigate complex",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/419608d7f71020dc57c09a500ee3a89b645d8cfa.jpg"
+      },
+      {
+        "name": "Tomas Bisi",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/tomasbisi/",
+        "bio": "Waterman & sports enthusiast, Tech Entrepreneur, CTO, Product Manager, Software Developer, and Consultant. Passionate about new technologies. Experienced professional with a demonstrated history of working in the computer software industry. Strong engineering professional with a Master's degree focused in Computer Science from 42 Silicon Valley University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f21d831600eb5995c98dc6a43dfd8c8a1c4f722d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9990,6 +10080,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Vimal Singh Rathore",
@@ -10045,7 +10139,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Michael Lam",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/mikelam231",
+        "twitter": "https://twitter.com/mike_lamma",
+        "bio": "Co-founder & CEO at Studdy",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/61cd72de6866d065e238857e95103448fbf7eb21.jpg"
+      },
+      {
+        "name": "Alex Lanzoni",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/alex-lanzoni",
+        "twitter": "https://twitter.com/chad_syntax",
+        "bio": "Self-taught software engineer w/ 13 YoE Like building and video games",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/096acf61a418174fbb54f420fe89ab79e44ad845.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10082,7 +10198,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Sohan Choudhury",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/sohan-choudhury",
+        "twitter": "https://twitter.com/hungrysohan",
+        "bio": "Helping K-12 embrace AI.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b0b531fd03785a4bd6ff6d3870e2e218df1e64ef.jpg"
+      },
+      {
+        "name": "Jinseo Park",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jinseo-park/",
+        "bio": "-",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/88cb227505c2eedf841f53ddb73016a07338ce76.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10120,6 +10256,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tianwei Yue",
@@ -10165,6 +10305,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Codrut Lemeni",
@@ -10218,6 +10362,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Vrishank Saini",
@@ -10270,6 +10418,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mattia Mauro",
@@ -10329,6 +10481,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tyrone Davis III",
@@ -10382,6 +10538,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "James Booth",

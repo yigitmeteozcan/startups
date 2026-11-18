@@ -27,7 +27,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": false,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Steven Henderson",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/stevenhenderson",
+        "bio": "Steven is a marine engineer by background and has managed a wide range of businesses and operations in the marine environment including cargo ships, a hospital ship, and one of the largest offshore facilities in the US Gulf of Mexico. He has a bachelors of science in Marine Engineering Systems from the US Merchant Marine Academy and an MBA from Harvard Business School. Steven served in the US Navy Reserve as a Strategic Sealift Officer.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c56b37303cfdf1c3724a400f143b75a833c31a38.jpg"
+      },
+      {
+        "name": "Mike Carter",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-carter-2684b575/",
+        "bio": "Michael is a marine engineer and enterprise sales professional. He graduated from the US Merchant Marine Academy with a BS in Marine Engineering Systems and received an MBA from Rice. Michael brings expertise in marine engineering, ship operations, and significant business experience in energy and shipping. He is also proud to have served as an officer in the US Navy Reserve.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a533272decc1ee91b6f09eb177c3e938a9439ccd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -66,6 +85,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Kyle Reagan",

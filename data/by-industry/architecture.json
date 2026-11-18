@@ -25,7 +25,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 80,
+    "isHiring": false,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Amit Bansal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/amitbansal91/",
+        "twitter": "https://twitter.com/abansal91",
+        "bio": "Co-founder and CEO at Rdash. I am a Civil Engineering graduate and worked as a structural designer at WSP. I have done postgraduate in supply chain management and had a short stint at Madura Fashion (The largest fashion retailer in India) before co-founding quifers.com. Quifers is a logistics SaaS platform for big enterprises that got acquired in May 2021.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e9a0c2681a3d886085e2e45a3da427123ecb2ed9.jpg"
+      },
+      {
+        "name": "Puneet Bansal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/puneet-bansal-15656441/",
+        "bio": "Product Person I did my graduation in Civil engineering from IIT Delhi in 2012 and worked at WSP as a facilities designer-BIM professional for retail, mall, and engineering projects of UK and middle-east. I took to startup journey by joining Quifers ( a logistics a SAAS platform) as product manager in 2017. In 2019, I co-founded 91Squarefeet.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1d329a927109337bfa03900b22af80914ade9649.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -64,6 +84,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mohammed Al-arnawoot",
@@ -124,6 +148,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Raymond Zhao",
@@ -187,6 +215,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Milind Sagaram",

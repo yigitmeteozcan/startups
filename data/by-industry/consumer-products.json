@@ -24,6 +24,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -60,6 +64,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -97,6 +105,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -135,6 +147,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -172,6 +188,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -211,6 +231,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -250,7 +274,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Alex Jiao",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alexjiao/",
+        "bio": "Bioengineering PhD trained in stem cell biology & tissue engineering (cardiac & skeletal muscle) and now in molecular diagnostics. Worked in biopharma therapy development (small molecule, biologics, gene therapy). Started and Silene Biotech and now working at Scout (formerly Uh-Oh Labs) as President and Chief Business Officer.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dbe354430cf499ef3fb35acbed717cc31bb4f95f.jpg"
+      },
+      {
+        "name": "Cameron Ball",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/cameronsball/",
+        "bio": "Cam is an accomplished biomedical engineer and entrepreneur. Before starting Uh-Oh Labs, Cameron worked at Sandia National Laboratories. Cameron is an expert in molecular diagnostics, microfluidics, materials science, and drug delivery. With 12 years of experience as a biomedical engineer, he brings a command of cross-functional engineering skills and fundamental science knowledge to bear on complex problems in biological systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b0a66b6aaa8a3c5ce5f95ac80f1b7321054022ac.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -289,6 +332,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Saba Fazeli",
@@ -342,6 +389,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Regina Lin",
@@ -395,6 +446,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Chanhyung Kim",
@@ -447,6 +502,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Chase Kim",
@@ -503,6 +562,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Erin McGurk",
@@ -558,6 +621,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jacob Shen",

@@ -23,6 +23,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 700,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -59,6 +63,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 500,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -95,6 +103,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1037,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -131,6 +143,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 300,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -167,6 +183,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 600,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -203,6 +223,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 110,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -237,6 +261,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 40,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -273,6 +301,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 250,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -311,6 +343,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -347,6 +383,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 63,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -383,6 +423,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -420,6 +464,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 19,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -456,7 +504,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Fransiskus Raymond",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/fransiskus-raymond-59b2604a/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5ae4c1abfab0c589b902dd1ec0b61fd01d552a74.jpg"
+      },
+      {
+        "name": "Ghuniyu Fattah Rozaq",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ghuniyu",
+        "twitter": "https://twitter.com/ghuniyu",
+        "bio": "Co-Founder and CTO of Blocknom. 9+ years of experience in Security and Software Engineering",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6a285bd5c58e06a599df6b68a436b173f5857c34.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -493,7 +560,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 50,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Edo Windratno",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/edowindratno/",
+        "bio": "Cofounder & CEO @Transfez",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e95de30eb4923e163c94cd5f9ac7bac645e993bd.jpg"
+      },
+      {
+        "name": "Bondan Herumurti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bondanherumurti/",
+        "twitter": "https://twitter.com/bondanherumurti",
+        "bio": "CTO of Transfez. I’ve been on tech industry from 2010, being a witness the rise of Groupon. Starting as developer on Web Technology CSS 2.0, and watch the scene moving toward mobile. Infrastructure growing from bare metal, cPanel until a modern containerization and now AI. For me it always been fascinating to become a part of tech community moving very fast from an era to another era.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/74aef1dc30ea2d8a2b43ac4e54d4a32decc8cb67.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -529,7 +616,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Chandni Chainani",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chandni-chainani/",
+        "bio": "Chandni Chainani is the Co-Founder and CEO of Sekilo, with 10+ years of experience across e-commerce, F&B, and supply chain, focused on growth and monetization. At Sekilo, she is building an AI powered halal protein supply chain for foodservice in Indonesia, starting with poultry - providing competitive pricing, consistent quality, halal compliant supply, flexible order sizes, and access to financing, while leveraging data and automation to drive margin expansion and scalable growth.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5ebc8b5cd72aa3882e044e0063e1c494fa8ebe50.jpg"
+      },
+      {
+        "name": "Nitish Chellaram",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/nitishchellaram",
+        "bio": "Nitish Chellaram is the co-founder and COO of Sekilo. At Sekilo, he is building an AI-powered halal protein supply chain for foodservice in Indonesia, starting with poultry - providing competitive pricing, consistent quality, halal-compliant supply, flexible order sizes, and access to financing, while leveraging data and automation to drive margin expansion and scalable growth.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5a3fb8046d88dc89071af32e6420fb1cd35bf950.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -566,7 +672,34 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Dominic Sumarli",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dominicsumarli/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3546c4bf2a9fe907a03e31c1828c945e8ccd964.jpg",
+        "active": false
+      },
+      {
+        "name": "Frederick Widjaja",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/frw/",
+        "bio": "Building Whiz, Indonesia’s first fintech company for teenagers, to empower a new generation of financial whiz kids. Ex-Facebook SWE, worked on several zero to one projects such as Blood Donations and Messenger Rooms. Graduated from Harvard College with a degree in Computer Science and Statistics. I'm passionate about working on projects that bring about positive social impact, and I'm excited to take on the next big challenge.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0ad923cfa9f9880bf2b601dbc937257a2a149e27.jpg",
+        "active": false
+      },
+      {
+        "name": "Agnes Lie",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/agneswlie/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/289cdada2959bfb8bf01bd49b3da584fda56bd27.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -603,7 +736,32 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 13,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Wafa Taftazani",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wafataftazani/",
+        "twitter": "https://twitter.com/wafataftazani",
+        "bio": "Award-winning Cambridge-educated executive, entrepreneur and investor with 10+ years of experience across technology, digital entertainment, corporate finance, public policy, and international relations.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ff7cfcf7402932319f065e3a4519a7ab82387e0b.jpg"
+      },
+      {
+        "name": "Alif Jafar Fatkhurrohman",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/alifjafar",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7967b56a561de0c5853ce058736a9054a61cfe0d.jpg"
+      },
+      {
+        "name": "Hendri Wijaya",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/hendri-wijaya-b556901a5",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e1ae6f103e775ca159bbbfc2f0d39b88a8aa2bbc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -641,7 +799,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ivan Darmawan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ivan-darmawan-850887b1/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/73b92baa0c80621da5ac37f7957f02de44df06d1.jpg"
+      },
+      {
+        "name": "Stephanie Wongsoredjo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/stephanie-wongsoredjo/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b8921b93ab22dc25b080a3c367aaddf04c633537.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -676,6 +851,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -711,6 +890,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -750,6 +933,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 127,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -788,6 +975,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 13,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -826,6 +1017,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -862,6 +1057,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -897,6 +1096,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 53,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -933,6 +1136,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -971,6 +1178,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 50,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1005,6 +1216,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1042,6 +1257,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Wynn Wijaya",
@@ -1102,6 +1321,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jacky Lai",

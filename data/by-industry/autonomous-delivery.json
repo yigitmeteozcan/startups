@@ -28,6 +28,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 3000,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -65,6 +70,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -105,6 +114,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 125,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -141,6 +154,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 85,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -177,6 +194,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -217,6 +237,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -257,6 +281,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -295,6 +323,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 150,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -333,7 +365,36 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Robert Thelen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/robertthelen/",
+        "twitter": "https://twitter.com/rgthelen",
+        "bio": "Rob Thelen is the CEO and co-founder of Rownd. Prior to Rownd, he was a Product-lead for IBM's API Connect, a $200M a year API management platform where he was responsible for all aspects of the product, dev prioritization to sales strategy. Robert is an Air Force veteran, where he led hundreds on the flight line, led a diverse combat advisor team in Afghanistan for a year, and was responsible for $1.2B in gov acquisitions. He received an MBA from Dartmouth and calls Durham, NC home.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7ce4cf629e1825cf83958a156f372bd252722a23.jpg"
+      },
+      {
+        "name": "Matt Hamann",
+        "role": "Founder",
+        "linkedin": "https://github.com/in/mhamann",
+        "twitter": "https://x.com/mhamann",
+        "bio": "Matt is a co-founder and the CTO of LlamaFarm. He has over a decade of experience building enterprise-scale cloud applications at IBM. Matt earned a bachelor's degree in Information Systems Management from Bob Jones University and a master's degree in the same field from Carnegie Mellon University. He loves solving challenging, painful problems for customers large and small. In his spare time, he contributes to open-source and is the primary maintainer for https://www.npmjs.com/package/nconf.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa0c9fc0e1bd4ed867fbb1eb4e6321d350f61cf5.jpg"
+      },
+      {
+        "name": "Rachel Orrino",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rachelorrino/",
+        "twitter": "https://twitter.com/rachradd",
+        "bio": "Rachel (Radulovich) Orrino is a Co-founder and the Head of Design at Rownd. While at IBM, Rachel was responsible for user experience and design for Blockchain for Identity and other SaaS products. Her unique perspective and a blend of B2B SaaS and B2C design experiences allow her to create highly interactive and intuitive designs. She loves collecting and analyzing user feedback to create inform product enhancements and features.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3cef7b7d0c11056e2cfeb860cda93b972ab04281.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -371,6 +432,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Gabriel Poraj",

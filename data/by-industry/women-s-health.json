@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,6 +65,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -99,6 +107,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -136,6 +149,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -174,6 +191,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -213,6 +234,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -253,6 +278,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 35,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -289,6 +318,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -327,6 +360,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -364,6 +401,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -403,6 +444,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -439,7 +484,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Anya Roy",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anya-roy-673b0532/",
+        "bio": "Anya is the Co-founder of Syrona Health. She is passionate about the intersection of science & technology, previously being featured on Forbes, Sifted, FT etc. She has experience in Venture Capital and in Genomics, having worked at Goldman Sachs and Illumina. She studied Bioscience at Cambridge University (Christ's College).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1c9618f8a3d771098343b87fd45c6298f5b85119.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -478,6 +535,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Lindsey Redd",
@@ -526,7 +587,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Reetam Ganguli",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/reetamganguli",
+        "twitter": "https://twitter.com/ReetamGanguli",
+        "bio": "Got into Med school at Brown at 17, was studying to be an OBGYN, and dropped out to do Elythea. 1st authored 20+ publications, including multiple Nature journals. Previously founded and scaled a medical education organization across 30+ countries.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4d58e1c64c1467a1d228bf705923115214b09e4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

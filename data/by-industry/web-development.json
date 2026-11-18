@@ -24,6 +24,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -63,6 +66,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -100,6 +107,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -139,6 +150,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -175,6 +190,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -212,6 +231,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 150,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -251,7 +274,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Jinjing Liang",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jinjingliang/",
+        "twitter": "https://x.com/JinjingLiang",
+        "bio": "Building OSS Devtools for 100x builders - Orca - Agent IDE for 100× builders https://github.com/stablyai/orca - Stably - AI testing platform https://www.stably.ai Prev senior engineer @Google Chrome. 2x founder and Cornell alum.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b229ed178a317af7ee19f1ba641bf66b8f2bdefd.jpg"
+      },
+      {
+        "name": "Neil Parker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/neilwilliamparker/",
+        "twitter": "https://x.com/nwparker_",
+        "bio": "Building OSS Devtools for 100x builders - Orca - Agent IDE for 100× builders https://github.com/stablyai/orca Prev TL @Uber 2x founder and Cornell alum.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/06e849215a8e84189e6715a0f8bb8fb0ea6bedf6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -288,6 +332,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -327,6 +375,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Alexandru Antihi",
@@ -380,6 +432,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Nikhil Rao",
@@ -431,6 +487,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Severin Landolt",
@@ -486,7 +546,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ben Shumaker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ben-shumaker-9b2620238/",
+        "twitter": "https://twitter.com/BenShumaker_",
+        "bio": "Cofounder of Repaint",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0c44197f46f2dc63bf54ec0b9ab698a60fca9254.jpg"
+      },
+      {
+        "name": "Izak Fritz",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/izak-fritz-3b8579120",
+        "bio": "Co-founder of Repaint",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3bc98a4b2d6b965d3a9fce343742ba33c6405b24.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -523,7 +603,36 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Civan Ozseyhan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/civan-%C3%B6zseyhan-1ab48814",
+        "twitter": "https://twitter.com/civanozseyhan",
+        "bio": "Serial entrepreneur & Open-source enthusiast | 15+ years experience in building enterprise software | Co-founder & CEO @ refine",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2b340a4008a687e7f6a266c6157a6de4b9f1bd23.jpg"
+      },
+      {
+        "name": "Omer Aplak",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/omer-aplak-14b87099/",
+        "twitter": "https://twitter.com/omerfarukaplak",
+        "bio": "Co-founder & CTO @ refine. I started my professional software career in high school and dropped out of university in my first year. Developing open-source, building communities, and helping other developers is a passion of mine",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba3e72dc58607e693c5905a527be981778f0fbe1.jpg"
+      },
+      {
+        "name": "Eren Erkalkan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/eren-erkalkan-1b31a89a",
+        "twitter": "https://twitter.com/piyerro",
+        "bio": "Previous: Worked as Head of Product, founder and CEO in the fields of e-commerce and online dating for almost 15 years. Now: Accompanying the journey of refine, which started as an open-source project in 2022. A React-based framework for the rapid development of web applications.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f1f6970526ea37e6ecfe42cef96269d93bf5fdbe.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -560,7 +669,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Nicholas Charriere",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/nicholas-charriere",
+        "twitter": "https://twitter.com/nichochar",
+        "bio": "Currently building Mocha. French & British, been a developer in the valley for 12 years in smaller & larger startups (Pinterest, Cruise). Generalist but most of my recent experience is in distributed systems, ML platforms and AI systems (agents, harnesses, agent UX). https://nicholascharriere.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/158068b1cc71592e72d530ace07bd358ca420202.jpg"
+      },
+      {
+        "name": "Ben Reinhart",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/bereinhart",
+        "twitter": "https://twitter.com/benjreinhart",
+        "bio": "Software engineer and entrepreneur. Previously ML infra at Cruise, cofounder at Fam (acquihired by Nextdoor), and Groupon.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/431f4c4da27f11fb396f174e32f93b73d8d572de.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -598,6 +728,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Zvonimir Sabljić",
@@ -651,6 +785,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ray Morgan",
@@ -705,6 +843,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Simon Farshid",
@@ -751,6 +893,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Kyler Blue",
@@ -813,6 +959,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Yujian Yao",
@@ -860,6 +1010,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jamie Sunderland",
@@ -916,6 +1070,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Christopher Burns",
@@ -962,6 +1120,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",

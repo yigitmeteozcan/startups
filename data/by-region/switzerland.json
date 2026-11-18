@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,6 +65,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -97,7 +105,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 22,
+    "isHiring": false,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "John Jost",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/john-jost",
+        "bio": "John has more than 20 years of experience in quantum, atomic, and optical physics and authored more than 70 publications while working with 2 Nobel Prize winners in physics (2012,2005). Dr. Jost has raised more than $2mio in non-dilutive funding for Enlightra",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2aee9faa5f40ce7d004f9074810bd110b8dc79d4.jpg"
+      },
+      {
+        "name": "Maxim Karpov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maximkarpov/",
+        "bio": "Entrepreneur with a strong research background, PhD in Physics, and >8 years of experience in photonics and laser technologies. Maxim has co-authored >40 research papers in top peer-reviewed journals including Nature and Science and has received multiple international awards for his research work. He has a successful track record of managing international research projects and fundraising.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da0e1696be255f77e24fc3ba2f5f17bd010226c7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -135,6 +162,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -174,6 +205,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 16,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -210,6 +245,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -245,6 +284,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jan Schnyder",
@@ -304,6 +347,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Samuel Bissegger",
@@ -355,6 +402,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Severin Landolt",
@@ -408,6 +459,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Linus Meierhöfer",
@@ -468,6 +523,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Marcus Storm-Mollard",
@@ -514,6 +573,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jonas Gruetter",
@@ -567,6 +630,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Samarth Malhotra",

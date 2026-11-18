@@ -5251,6 +5251,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5288,6 +5292,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5324,6 +5332,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5362,6 +5374,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5401,6 +5417,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5440,6 +5460,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
+    "nonprofit": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5477,6 +5502,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5515,7 +5544,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Justin Hubert",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/justin-hubert-971153104/",
+        "twitter": "https://twitter.com/Juicebox775",
+        "bio": "3D artist specializing in virtual reality (VR) production. Based in Long Beach, CA. Cofounder Gym Class by IRL Studios Inc. W22. Previously led VR art development at Insperience ( Walmart's Store No. 8 )",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c737411a290e2c446517c4fd83a6576141731e1.jpg"
+      },
+      {
+        "name": "Paul Katsen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/paulkatsen",
+        "twitter": "https://www.twitter.com/pavtalk",
+        "bio": "Cofounder Gym Class (W22) and cofounded Blockspring (S14) which exited to Coinbase. Led Product for Twitter's Home feed, the company's largest surface with ~200M daily active users. Shipped consumer crypto products at Coinbase - like USDC Interest, Coinbase Card, instant debit withdrawals, instant deposit, global send/receive, and more.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3bdcdfd8bb70c4e41a70b210bbae0d8af85d22b0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5554,7 +5604,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Philip Scott",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/philip-j-scott/",
+        "bio": "Philip is the co-founder and CEO of Hyperbeam, an API for embedding multiplayer web browsers. He studied software engineering at the University of Waterloo, where he met his co-founders Ambareesh Balaji and Declan Goncalves. For their capstone project, they created a watch party site called Tutturu.tv to watch anime with their friends. Tutturu.tv garnered 150K monthly active users and evolved into Hyperbeam. He has interned at numerous startups and big tech companies, including Lumina and Yahoo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8fff90380f770b18fa9167e577301b992c78e5a0.jpg"
+      },
+      {
+        "name": "Ambareesh Balaji",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/Ambyjkl",
+        "bio": "Ambareesh is the co-founder & CTO of Hyperbeam, an API for embedding multiplayer web browsers. He met his co-founders Philip and Declan at the University of Waterloo, where Hyperbeam started off as their engineering capstone project Tutturu.tv, a watch party site with 150K monthly active users. He has interned as a Software Engineer at startups and big tech companies alike, such as Globality and Facebook.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9895a71e00168ce7f010d13877ef0a1a558e3f92.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5591,6 +5660,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5629,6 +5702,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5667,6 +5744,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5704,6 +5785,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -5744,6 +5829,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Shehryar Saroya",

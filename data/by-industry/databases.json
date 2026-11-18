@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 45,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -61,6 +65,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 51,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -98,6 +106,11 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 410,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -136,6 +149,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 210,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -172,6 +189,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -211,6 +232,10 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 120,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -250,6 +275,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -288,6 +317,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -324,7 +357,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ryan Cooke",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ryancooke/",
+        "twitter": "https://x.com/mapandfold",
+        "bio": "Ryan has spent his career working in startups, with a passion for creating innovative technology products. JumpWire participated in the YC W22 batched, and was acquired by WorkOS in 2024. Ryan has previously co-founded and led engineering teams at Docurated, N26 and Orum (acquired by Stripe). He's obsessed with running his own AI, and particularly enjoys building teams aside software.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/36cbdb63975aa38768f2c1241ebb5034d7c15861.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -362,6 +408,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -401,6 +451,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sai Srirampur",
@@ -457,6 +511,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Reece Griffiths",
@@ -517,7 +575,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Brian Brunner",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/bbrunner",
+        "bio": "Founder of DataShare, previously was the engineering manager for the team at Stripe that built Sigma and Data Pipeline.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3b55587837d10e3096bf4a8abd69d08dec332f01.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -555,7 +625,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Philippe Noël",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/philippemnoel",
+        "twitter": "https://twitter.com/philippemnoel",
+        "bio": "Founder @ ParadeDB. Previously @Whist, @Microsoft. Harvard CS'20. From Québec.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6ca7eedf6383c2ebb46a29a5f9e96a6e976add1.jpg"
+      },
+      {
+        "name": "Ming Ying",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ming-ying",
+        "bio": "Founder @ ParadeDB",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/19af7b14da5cf743d9de76ee556ebaf69adc3ebb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -592,6 +682,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Di Qi",
@@ -647,6 +741,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Umur Cubukcu",
@@ -707,6 +805,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 55,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mac Klinkachorn",
@@ -761,6 +863,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Richie Hsiung",
@@ -814,6 +920,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Wilco Kruijer",
@@ -870,6 +980,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "George Curtis",
@@ -922,6 +1036,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Lev Kokotov",
@@ -968,6 +1086,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Shikhar Bhushan",
@@ -1021,6 +1143,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1061,6 +1187,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Brandon Ong",
@@ -1115,6 +1245,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rafael Aviles",
@@ -1177,6 +1311,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Dale Ng",

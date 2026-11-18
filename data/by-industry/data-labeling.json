@@ -27,6 +27,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 45,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -65,6 +69,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -101,6 +109,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -140,7 +152,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 34,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Mokshith Voodarla",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mokshith-voodarla/",
+        "twitter": "https://twitter.com/mokshith_v",
+        "bio": "Mokshith is co-founder and CEO of Sieve. Mokshith used to work on computer-vision problems at Scale AI, NVIDIA, and Ford where he experienced first-hand, the difficulties of building and scaling vision-based analytics systems. Before that, he graduated from UC Berkeley with a B.S. Electrical Engineering and Computer Science. Mokshith found his love for computer-vision on his high school robotics team, where he also met Abhi. Mokshith deeply enjoys orange chicken.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed90fadcb7d40c3b39a55d49c9049f636e06fa29.jpg"
+      },
+      {
+        "name": "Abhinav Ayalur",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abhi12-ayalur/",
+        "twitter": "https://twitter.com/thpicy",
+        "bio": "Abhinav (Abhi) Ayalur is the co-founder and CTO of Sieve. Abhi leads technical design and development along with steering the overall company vision. Abhi's previous experience includes stints in computer vision, data analysis, and API development at Second Spectrum, NVIDIA, Microsoft, and Niantic. Abhi graduated UC Berkeley with a B.S. in Electrical Engineering and Computer Science. In his spare time, Abhi loves to play the alto saxophone, eat good food, and play basketball.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ae4830f3e54dadcd5d67c2f4045e3732580975cc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -176,7 +209,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ryan Cooke",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ryancooke/",
+        "twitter": "https://x.com/mapandfold",
+        "bio": "Ryan has spent his career working in startups, with a passion for creating innovative technology products. JumpWire participated in the YC W22 batched, and was acquired by WorkOS in 2024. Ryan has previously co-founded and led engineering teams at Docurated, N26 and Orum (acquired by Stripe). He's obsessed with running his own AI, and particularly enjoys building teams aside software.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/36cbdb63975aa38768f2c1241ebb5034d7c15861.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -214,6 +260,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -251,6 +301,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rishabh Srivastava",
@@ -307,6 +361,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Reece Griffiths",
@@ -368,6 +426,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rajaram Srinivasan",
@@ -420,6 +482,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Robi Lin",
@@ -474,6 +540,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Levi Lian",
@@ -519,6 +589,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Justin Jiang",
@@ -565,6 +639,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Spencer Mateega",
@@ -618,6 +696,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Yi Zhong",
@@ -671,6 +753,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mateo Perez",
@@ -716,6 +802,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ananth Kashyap",
@@ -762,6 +852,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ashley Mo",
@@ -817,6 +911,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Bilal Asmatullah",
@@ -870,6 +968,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Nikhil Reddy",
@@ -921,6 +1023,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Pavan Kalyan",
@@ -981,6 +1087,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Braiden Dishman",
@@ -1045,6 +1155,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Shehryar Saroya",
@@ -1098,6 +1212,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Dev Mandal",
@@ -1151,6 +1269,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Marshall Kiely",
@@ -1199,6 +1321,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Prateek Jannu",
@@ -1250,6 +1376,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 47,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Kshitij Dixit",
@@ -1305,6 +1435,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Maxim Williams",
@@ -1358,6 +1492,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Evan Hu",

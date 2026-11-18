@@ -25,6 +25,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 60,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -62,6 +66,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -99,6 +107,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 47,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -137,6 +149,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -172,6 +188,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -209,7 +229,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Lucas Ranallo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lucasranallo/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6072cefa915820429706e4a68c6fe1c25235b60.jpg"
+      },
+      {
+        "name": "Mathias Caramutti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mcaramutti/",
+        "twitter": "https://twitter.com/mathiascg",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/47b3abb2390b984cd33708cd0e010506848dc72e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -246,7 +284,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Mishaal Al Gergawi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mishaal-al-gergawi/",
+        "twitter": "https://twitter.com/algergawi",
+        "bio": "I grew up in Dubai and was there most of my life till moving to New York in 2018. I studied finance and worked in investment banking. I became a writer in 2008 and in 2011 built Delma, a risk consultancy.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7d4fce7505a5fd4d12eeba1c48c29617fa12e26d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -283,7 +334,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 58,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Baran Özkan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/baranozkan/",
+        "twitter": "https://twitter.com/bo_flagright",
+        "bio": "Baran is co-founder and CEO of Flagright. He defines the product strategy at Flagright for making compliance & fraud prevention infrastructure more accessible for fintechs and banks. He has previously worked in various domains including healthcare, marketing, e-commerce, logistics, and most recently fintech. Baran is a Certified Anti Money Laundering Specialist (CAMS).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3902e3c84fed1a47d85c83924106cd84db472ebe.jpg"
+      },
+      {
+        "name": "Madhu G Nadig",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/madhugnadig/",
+        "twitter": "https://twitter.com/MadhugNadig",
+        "bio": "Madhu is co-founder and CTO of Flagright. He leads engineering and design, building the compliance & fraud prevention infrastructure for startups. He has previously worked in various domains including data analytics and integration for pharmaceuticals and social media marketing, core cloud computing infrastructure and real time systems for logistics & fintech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1aa218feaeac404179fd6299e34c7d78ca0a8f7b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -320,6 +392,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -357,6 +433,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 65,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -396,6 +476,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 80,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Thomas Stewart",
@@ -458,6 +542,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Arvind Sontha",
@@ -505,6 +593,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Edoardo Maschio",
@@ -559,6 +651,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Edward Tiong",
@@ -605,6 +701,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Richard Meng",
@@ -650,6 +750,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Rhim Shah",
@@ -704,6 +808,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Glenn Espinosa",
@@ -751,6 +859,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Areg Nzsdejan",
@@ -804,6 +916,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Batu Balci",

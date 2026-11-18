@@ -24,6 +24,11 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7000,
+    "isHiring": true,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -63,6 +68,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 60,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -99,6 +108,11 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2700,
+    "isHiring": true,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -135,6 +149,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 33,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -172,6 +190,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 60,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -209,6 +231,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 49,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -245,6 +271,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -282,6 +312,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -319,6 +353,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -355,6 +393,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -392,6 +434,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 170,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -429,6 +475,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 65,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -465,6 +515,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -502,6 +556,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 60,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -540,6 +598,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -576,6 +638,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 25,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -612,6 +678,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -648,7 +718,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Nick Lombardo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicholas-m-lombardo/",
+        "twitter": "https://twitter.com/nicklom12",
+        "bio": "Co-Founder & CEO @ Arc Technologies. Intelligent cash management & growth capital for technology companies. Co-Founder & Board Member @ F2. Compounding intelligence for private markets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7e74b33fbe2315cbc72d7861b1166de5e7813b16.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -684,7 +767,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Alejandro Pozo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pozoalejandro/",
+        "twitter": "http://twitter.com/pozofintech",
+        "bio": "Alejandro Pozo is the CEO and founder of Valari. He has over 8 years of experience in investments and finance covering LatAm markets from firms like Goldman Sachs and JP Morgan. He founded a small business in LatAm and experienced first-hand the lack of financial services for SMBs in the region.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f01f5afab7c9d6fa7450bc348685d38df1fa7ff2.jpg",
+        "active": false
+      },
+      {
+        "name": "Sebastian Alvarado",
+        "role": "Co-Founder (CTO)",
+        "linkedin": "http://linkedin.com/in/alvaradosebastian",
+        "bio": "Former CTO and co-founder of Valari, Sebastian has over 7 years of experience building software at the intersection of finance and technology. He holds a degree in Computer Science with a specialization in Artificial Intelligence from the University of Toronto. Before Valari, he was part of the founding team at Relay, where he helped scale the company from 0 to $20M in ARR and 50,000 SMB customers. He is currently at Shopify, working to empower entrepreneurs around the world by building better f",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8df504d1a20456258ff567abd083677a06573dff.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -719,7 +824,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Juan Diego Galvez",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/juan-diego-galvez-a78659a7/",
+        "bio": "I'm an entrepreneur with a background in consulting and banking. My experience comes from working in electronic payments since 2016, by helping mid and large sized companies handle cross border payments. Currently on a mission to make fintech accesible in Latam for any company looking to embed financial services.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f091b2ec83d6fe959ce1667812113194a23cb366.jpg"
+      },
+      {
+        "name": "Federico Benavides",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/federico-benavides-06985016b/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bd5f8caedba36beb1bc56db534d683081bddf74c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -756,7 +879,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ezequiel Bucai",
+        "role": "Founder",
+        "linkedin": "https://ar.linkedin.com/pub/ezequiel-bucai/28/2a3/294/es",
+        "twitter": "https://twitter.com/piojo.bucai",
+        "bio": "I studied Business Administration and Public Accountant. In 2013, with Alejandro Silvestre and Gonzalo Conde, created ClickyPass: a platform where users get access to a network of more than 2,500 gyms and sports centers located in 30 cities in Argentina, Mexico and Chile. Then Classpass, the US Unicorn, acquire Clickypass.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4e7f4aa148fa0cb5e2def708019e8e530c525280.jpg"
+      },
+      {
+        "name": "Lucrecia Porta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lucrecia-porta",
+        "twitter": "https://twitter.com/lucreporta",
+        "bio": "I am one of Wibond´s cofounders, and member of the board. Additionally, I am the Finance Director in Porta Hnos, a 140 years B-corp family company. I have always been in Financial Corporate area, working in JPMorgan as well.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4694b760a30c9180a57c7bdb336241c70c2b9ce0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -793,6 +937,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -829,6 +977,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -866,6 +1018,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -903,6 +1059,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -941,7 +1101,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Kalyani Ramadurgam",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/kalyani-ramadurgam-4a76331b5",
+        "bio": "CEO of Kobalt Labs, previously AI research at Stanford, built financial security products at Apple, and built health data analysis tools used by governments of 13 countries at Zenysis.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3f92f957466e7de44ac9ee2ca2b58bcb4f8e0171.jpg"
+      },
+      {
+        "name": "Ashi Agrawal",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ashi-agrawal",
+        "bio": "CTO of Kobalt Labs. Ex-Affirm, Nuna, Meta. Stanford BS in Computer Science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b3d821257887fb3ff04cd195327121e5a5a99e42.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -26,6 +26,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -62,7 +66,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Otto Soderlund",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ottosoderlund/",
+        "twitter": "https://twitter.com/ottosoderlund?lang=en",
+        "bio": "Tech entrepreneur who has been passionate about AI for two decades. Nerd kid who started programming at 10 and run a BBS for many years. Prior to Speechly founded the leading digital management consultancy in the Nordics, grew it, internationalized it and sold it to a global management consultancy. Love tech, traveling, nature and my two boys.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e37ece1ba3b9c6d24e8f6b8e3096b84dbb82694f.jpg"
+      },
+      {
+        "name": "Hannes Heikinheimo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hannesheikinheimo/",
+        "twitter": "https://twitter.com/hannes_hei",
+        "bio": "A data scientist and an a software engineer. Holds a PhD in Machine Learning from the Aalto University (former Helsinki University of Technology). A seasoned professional in industry grade data applications. Prior to founding Speechly has worked in projects like Apple Siri, Angry Birds, Nokia Music and Google Maps. Has published several original papers on machine learning and data mining in venues like Interspeech, KDD, ICDM and HCOMP.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/481666f9c97c1f714300cc6ebf307e960018573a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -99,6 +124,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sami Laakkonen",

@@ -26,6 +26,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -62,7 +66,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "David Graunke",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/david-graunke-46790429",
+        "bio": "David led engineering for risk reviews at Stripe for fraud, credit, content moderation, and financial crimes. He built the policy and workflow engine that scaled Stripe from internal reviewers to thousands of outsourced vendor agents.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/74280d7f5e615ac603ec8f6a3bef6130e7e52d34.jpg"
+      },
+      {
+        "name": "Steven Guichard",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/stevenguichard",
+        "bio": "Steven is a cofounder of SafetyKit, working to replace human risk reviewers with language models. Previously he worked at Carbic as the first software engineer and later as the CEO. There he helped build ultrasonic flow sensors which were installed on oil pipelines and offshore rigs around the world. Steven also cofounded Thomas Street, a software design and engineering consultancy, where he worked with companies like Cisco, Roche, and DirecTV.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed82d81d2471d918a51f0385913aad07ed1a7906.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -101,6 +124,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Christopher Burns",

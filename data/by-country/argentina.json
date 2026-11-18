@@ -252,6 +252,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
+    "nonprofit": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -287,6 +292,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 50,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -324,6 +333,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 75,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -362,6 +375,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -398,6 +415,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 37,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -435,6 +456,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 45,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -472,6 +497,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -508,6 +537,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 70,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -544,6 +577,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 155,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -580,6 +617,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 60,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -616,6 +657,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -653,7 +698,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Nahuel Candia",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/nahuelcandia/",
+        "twitter": "https://twitter.com/dncandia",
+        "bio": "Nahuel is the Founder and CEO of Rebill, building financial infrastructure for global companies in LATAM and the US. He is an MIT-recognized entrepreneur who built 3 companies before 30. Developer since 14, he remains highly hands-on across product, engineering, and execution. Before Rebill, he founded Shovel Apps and was CTO of Ando.la, later acquired by Moova.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3e324ec6481088e92fa92133c49f2dcc6d2ecedd.jpg"
+      },
+      {
+        "name": "Ariel Diaz Ailan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/diazailan",
+        "twitter": "https://www.twitter.com/diazailan",
+        "bio": "Building the financial infrastructure platform for the Americas at Rebill. We help global software, AI, travel, and digital services companies operate across Latin America and the US with local payments, billing, treasury, and payouts. 16 years in e-commerce, 12 in software, and 6 in fintech. Happy to compare notes on payments, financial infrastructure, and international expansion.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e32bb55f229b15c068f957c5f94b28f13fec07bc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -690,7 +756,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Lucas Ranallo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lucasranallo/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6072cefa915820429706e4a68c6fe1c25235b60.jpg"
+      },
+      {
+        "name": "Mathias Caramutti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mcaramutti/",
+        "twitter": "https://twitter.com/mathiascg",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/47b3abb2390b984cd33708cd0e010506848dc72e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -725,7 +809,33 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Guido Galanter",
+        "role": "Founder",
+        "linkedin": "https://ar.linkedin.com/in/guido-galanter-61771593",
+        "bio": "Guido is co-founder and CEO of Philippo, which he launched with Nicolas and Tomas in 2021. Prior to Philippo, Guido led New Ventures at OLX (Naspers Group's main marketplace) where he launched tech transactional models from India to Latam. Guido was also involved in plenty M&As with Naspers, main was Frontier Car Group's acquisition (~$700M deal)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f4783ac0d01b9332c42e9a3d24f71a70d85b17e6.jpg"
+      },
+      {
+        "name": "Tomás Gropper",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tomasgropper",
+        "bio": "Tomás is co-founder and CTO of Philippo. He has a Systems Engineering degree and was Head of Engineering at the largest retailer in Argentina, where he built and managed high-performance engineering teams, helping scale the company's operation, especially during the pandemic quarantine.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ec2e491b1486cddecb19cce17118e7c84015e036.jpg"
+      },
+      {
+        "name": "Nicolás Piqueras",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicol%C3%A1s-piqueras-38404226/",
+        "bio": "Nicolás is Co-founder and CFO of Philippo, launched with Guido and Tomás in 2021. Prior to Philippo, Nicolás worked in residential Real Estate, leading corporate finance and capital markets in two of the largest home builders in Argentina. He led several transactions and became specialized in IR and fundraising. Among others, he coordinated two IPOs in NYSE as an insider, leading team efforts to reach SEC standards. Nicolás studied Economics and Finance in Universidad Torcuato Di Tella.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83391e34a7e4eea7921b2903ddd9307f45252892.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -762,7 +872,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ezequiel Bucai",
+        "role": "Founder",
+        "linkedin": "https://ar.linkedin.com/pub/ezequiel-bucai/28/2a3/294/es",
+        "twitter": "https://twitter.com/piojo.bucai",
+        "bio": "I studied Business Administration and Public Accountant. In 2013, with Alejandro Silvestre and Gonzalo Conde, created ClickyPass: a platform where users get access to a network of more than 2,500 gyms and sports centers located in 30 cities in Argentina, Mexico and Chile. Then Classpass, the US Unicorn, acquire Clickypass.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4e7f4aa148fa0cb5e2def708019e8e530c525280.jpg"
+      },
+      {
+        "name": "Lucrecia Porta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lucrecia-porta",
+        "twitter": "https://twitter.com/lucreporta",
+        "bio": "I am one of Wibond´s cofounders, and member of the board. Additionally, I am the Finance Director in Porta Hnos, a 140 years B-corp family company. I have always been in Financial Corporate area, working in JPMorgan as well.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4694b760a30c9180a57c7bdb336241c70c2b9ce0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -797,6 +928,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 22,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -834,6 +969,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -871,6 +1010,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 17,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rodrigo Vidal",
@@ -942,6 +1085,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Junior Garcia",

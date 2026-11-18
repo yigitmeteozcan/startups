@@ -24,6 +24,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -59,6 +63,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 350,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -95,6 +103,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 500,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -132,6 +144,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 500,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -168,6 +184,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 68,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -207,6 +227,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -243,6 +266,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 70,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -279,6 +306,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -318,6 +349,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -354,6 +389,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -391,6 +430,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 80,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -430,6 +473,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 80,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -467,6 +514,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 57,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -502,6 +553,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -539,6 +594,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -577,6 +636,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -613,7 +676,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "acquired",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Nick Lombardo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicholas-m-lombardo/",
+        "twitter": "https://twitter.com/nicklom12",
+        "bio": "Co-Founder & CEO @ Arc Technologies. Intelligent cash management & growth capital for technology companies. Co-Founder & Board Member @ F2. Compounding intelligence for private markets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7e74b33fbe2315cbc72d7861b1166de5e7813b16.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -650,7 +726,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Khalid Keenan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/khalid-keenan-a381578a/",
+        "bio": "Imperial College graduate in Computing. Over 10 years experience as a software engineer in banking and financial services with a focus on risk and investment management.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ebe8469d229c2ed41b727bc46441d55016c64765.jpg"
+      },
+      {
+        "name": "Youcef Oudjidane",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/feed/",
+        "bio": "I began my career helping companies go public in the U.S. before transitioning into early-stage investments, starting with the Dubai Government. I studied Mathematics at the University of Nottingham.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48fd3e960a3c81155ee2c59b0ddb428e1186cc1c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -687,7 +782,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 3600,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Rene Saul",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rene-saul-5044aa25/",
+        "bio": "I CREATE AND EXPAND THE IDEAS",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b3f14e347bceeaa4dd12968ffc7abd6fe1f48f8f.jpg"
+      },
+      {
+        "name": "Fernando Sandoval Oseguera",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/fernando-sandoval-oseguera-/",
+        "bio": "I am a person with an innovative spirit and passion for business & technology. I have more than 10 years of experience working in the financial & consulting industries. I love innovation and ideating, but more importantly, I structure and execute the ideas.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0dd6d75d6a1b8840655c931bbb041e57dde61118.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -724,7 +838,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 50,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Edo Windratno",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/edowindratno/",
+        "bio": "Cofounder & CEO @Transfez",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e95de30eb4923e163c94cd5f9ac7bac645e993bd.jpg"
+      },
+      {
+        "name": "Bondan Herumurti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bondanherumurti/",
+        "twitter": "https://twitter.com/bondanherumurti",
+        "bio": "CTO of Transfez. I’ve been on tech industry from 2010, being a witness the rise of Groupon. Starting as developer on Web Technology CSS 2.0, and watch the scene moving toward mobile. Infrastructure growing from bare metal, cPanel until a modern containerization and now AI. For me it always been fascinating to become a part of tech community moving very fast from an era to another era.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/74aef1dc30ea2d8a2b43ac4e54d4a32decc8cb67.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -759,7 +893,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "DY ​",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dyyy/",
+        "bio": "CEO @ Orca",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/870003e91b90ff081ec279c4be99ad4a62c38930.jpg"
+      },
+      {
+        "name": "Tim Qin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/timothytqin/",
+        "bio": "Co-founder of Orca Group Inc.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b02e52379215582cd5718347193a48fe764d78c8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -796,7 +949,34 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Dominic Sumarli",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dominicsumarli/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3546c4bf2a9fe907a03e31c1828c945e8ccd964.jpg",
+        "active": false
+      },
+      {
+        "name": "Frederick Widjaja",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/frw/",
+        "bio": "Building Whiz, Indonesia’s first fintech company for teenagers, to empower a new generation of financial whiz kids. Ex-Facebook SWE, worked on several zero to one projects such as Blood Donations and Messenger Rooms. Graduated from Harvard College with a degree in Computer Science and Statistics. I'm passionate about working on projects that bring about positive social impact, and I'm excited to take on the next big challenge.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0ad923cfa9f9880bf2b601dbc937257a2a149e27.jpg",
+        "active": false
+      },
+      {
+        "name": "Agnes Lie",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/agneswlie/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/289cdada2959bfb8bf01bd49b3da584fda56bd27.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -833,7 +1013,21 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Nishant Aggarwal",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/nishaggarwal",
+        "twitter": "https://twitter.com/naggarwal1",
+        "bio": "Prior to co-founding Emigre, he's been a 2X founder having scaled his previous ventures to six-figure revenues. He has held key roles such as Head of Product and Growth at other startups. He has been a management consultant before advising C-Suite leadership at financial services companies such as American Express and Silicon Valley Bank. He has a graduate degree in Engineering Management from Dartmouth College and an undergraduate degree in Engineering from Delhi College of Engineering, India.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/843e1a52e9a7556f8bb49accf4de28ba5ea40c24.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -870,7 +1064,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Cristóbal Grinbergs",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/cgrinbergs",
+        "twitter": "https://twitter.com/cgrinbergs",
+        "bio": "Cardda CEO and cofounder, the all-in-one spend management for business in Latam. Before, I built Rentz, a marketplace to rent heavy equipment that reached breakeven and worked at IBM and Procter and Gamble. Born in Chile 🇨🇱",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9376e353ab9c023b45929f0926d27351a3b12778.jpg"
+      },
+      {
+        "name": "Sebastián Hernández",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sebastián-hernández-cardda/",
+        "bio": "Cofounder & CTO @ Cardda. The all-in-one spending management platform for business in Latam. Built Rentz, a marketplace for heavy machinery rental before pivoting to Cardda during the pandemic. Made in Chile.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ff73beaac09f8d96876eb5d3b16f972d5b74334d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -907,7 +1121,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Alphas Sinja",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alphas-sinja/",
+        "bio": "Alphas Sinja is the co-founder and CEO of Boya. Alphas has 8+ yrs experience in Finance, strategy, and banking.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/772aeca9a91105d56f48d3ed6020c4e267c9c36c.jpg"
+      },
+      {
+        "name": "Robert Nyangate",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/robert-nyangate/",
+        "bio": "Co-founder and CTO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/07f154635fbddc853e9b99e4b375203655384a1f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -943,7 +1176,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Idorenyin Obong",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kingidee/",
+        "twitter": "https://www.twitter.com/kingidee",
+        "bio": "CEO at Grey. Ex Paystack",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dddac2c54af505551ba3d8e813c9d14fa719ccbb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -980,6 +1226,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1017,6 +1267,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1055,6 +1309,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1091,6 +1349,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 70,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1127,6 +1389,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1165,6 +1431,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1203,6 +1473,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1239,6 +1512,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1275,6 +1552,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 16,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1310,6 +1591,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1347,6 +1632,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1384,6 +1673,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 20,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1419,6 +1712,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Benjamen Oladokun",
@@ -1478,6 +1775,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 17,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Rodrigo Vidal",
@@ -1549,6 +1850,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Vikas Choudhary",
@@ -1615,7 +1920,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": true,
+    "stage": "Growth",
+    "founders": [
+      {
+        "name": "Kalyani Ramadurgam",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/kalyani-ramadurgam-4a76331b5",
+        "bio": "CEO of Kobalt Labs, previously AI research at Stanford, built financial security products at Apple, and built health data analysis tools used by governments of 13 countries at Zenysis.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3f92f957466e7de44ac9ee2ca2b58bcb4f8e0171.jpg"
+      },
+      {
+        "name": "Ashi Agrawal",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ashi-agrawal",
+        "bio": "CTO of Kobalt Labs. Ex-Affirm, Nuna, Meta. Stanford BS in Computer Science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b3d821257887fb3ff04cd195327121e5a5a99e42.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1651,7 +1975,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ntambwa Basambombo",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ntambwa-basambombo-1371b952",
+        "twitter": "https://twitter.com/ntambwabasa",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4cb96d76aa917ffe46b5ae238df19a6180e9b53.jpg"
+      },
+      {
+        "name": "Christel Ilaka",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/christelilaka",
+        "twitter": "https://twitter.com/chrisilaka",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48e938228319f323588de4f538fa61437dbda479.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1688,7 +2031,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Katelyn Strobel",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/katelynstrobel",
+        "bio": "Cofounder/CEO at Envelope. I love money and helping people keep more of it.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bd8b9dd81e7dbf7aa64f0398d989656613c8f8e3.jpg"
+      },
+      {
+        "name": "Josh Strobel",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/joshuakcockrell",
+        "twitter": "https://twitter.com/joshuakcockrell",
+        "bio": "Technical cofounder & CTO at Envelope, a budgeting app with built-in checking accounts and debit cards for individuals and families. Previously worked on the Robinhood and Twitter iOS apps. Other places I've been - Tesla (shop.tesla.com) - Microsoft (Edge Browser & Windows Server) - Adobe (Adobe Analytics)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cc0a244447fec1067e4ddfa275afca5536efd587.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1724,7 +2087,35 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 9,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Abraham Kuri Vargas",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abraham-kuri-vargas-b41a2126/",
+        "twitter": "https://www.twitter.com/kurenn",
+        "bio": "CTO & Co-founder at Coba. B.S. in Computer Science & Technology who has been developing software since 18 years old. I've been working in web development for 10+ years. Ruby on Rails expert. I'm the author of APIs on Rails(http://apionrails.icalialabs.com/book). 3D Printing enthusiast",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d66e4654d439e42219f2be18ee5f64d46580f77a.jpg"
+      },
+      {
+        "name": "Eduardo Lopez De Leon",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/elopezdeleon/",
+        "twitter": "https://twitter.com/edolopez",
+        "bio": "I am an entrepreneur with 10+ years of experience building companies around the software and technology fields in the Americas. Developer by training. Dad, Husband, Regio.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4aeb48386ceaf890f6d51a1722e0ce65ef2d9781.jpg"
+      },
+      {
+        "name": "Carlos Alberto Medellin Gonzalez",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/camego",
+        "bio": "Co-founder of Coba. Former CFO of Icalia Labs. Finance Degree from Tec de Monterrey, Masters Degree from Copenhagen Business School.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c47ff3b87d37d90b3fd9cc2590a9b26c5a706825.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1764,6 +2155,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Alvin Salehi",
@@ -1818,6 +2213,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tolu Alabi",
@@ -1873,6 +2272,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Grant Ackerman",
@@ -1925,6 +2328,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Toby Hirsch",
@@ -1970,6 +2377,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jeanot Dawson",
@@ -2029,6 +2440,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Courtne Marland",
@@ -2083,6 +2498,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Khalid Ashmawy",
@@ -2129,6 +2548,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Harshith Latchupatula",

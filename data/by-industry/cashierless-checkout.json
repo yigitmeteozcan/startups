@@ -26,6 +26,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 50,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -65,6 +69,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 150,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -103,6 +111,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -139,6 +152,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 10,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -176,7 +193,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ezequiel Bucai",
+        "role": "Founder",
+        "linkedin": "https://ar.linkedin.com/pub/ezequiel-bucai/28/2a3/294/es",
+        "twitter": "https://twitter.com/piojo.bucai",
+        "bio": "I studied Business Administration and Public Accountant. In 2013, with Alejandro Silvestre and Gonzalo Conde, created ClickyPass: a platform where users get access to a network of more than 2,500 gyms and sports centers located in 30 cities in Argentina, Mexico and Chile. Then Classpass, the US Unicorn, acquire Clickypass.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4e7f4aa148fa0cb5e2def708019e8e530c525280.jpg"
+      },
+      {
+        "name": "Lucrecia Porta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lucrecia-porta",
+        "twitter": "https://twitter.com/lucreporta",
+        "bio": "I am one of Wibond´s cofounders, and member of the board. Additionally, I am the Finance Director in Porta Hnos, a 140 years B-corp family company. I have always been in Financial Corporate area, working in JPMorgan as well.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4694b760a30c9180a57c7bdb336241c70c2b9ce0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

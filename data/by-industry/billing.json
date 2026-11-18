@@ -27,6 +27,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 27,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -64,7 +68,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Adam Sommer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adam-d-sommer",
+        "twitter": "https://twitter.com/adamdsommer",
+        "bio": "Adam Sommer is the founder and CEO of Kable. Before starting Kable, Adam spent 5 years as the billing lead at Hulu as both an Engineer and Product Manager. He lives in New York and graduated with degrees in Computer Science and Public Policy from Duke University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2ffeade91eea53b5826c150457d3394cbe5157b3.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -102,7 +119,20 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Alan Liu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alanliu96",
+        "twitter": "https://twitter.com/AlanLiu96",
+        "bio": "Alan is the CEO and co-founder of Health Harbor. As a technical CEO, He has five years of previous software experience in AI at Meta and Nuro. While building a hearing aid for himself at Yale, his experiences with medical insurance shaped his conviction to improve the billing process for doctors and patients. Outside of Health Harbor, Alan is an aspiring sushi chef.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cec51b2fd22ea307b50a347e18c115a3842f48a0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -140,7 +170,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Gabriel Banks",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/gabriel-banks-662548230",
+        "bio": "Love to touch computer all day",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b17765d0a8064075ceb47a40da059e4adc6c369d.jpg"
+      },
+      {
+        "name": "Kartik Donepudi",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/kartik-donepudi-763a22167",
+        "bio": "Quill AI, Computer Science and Economics at MIT",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de8cc3eaeaf9cc0ebd46f5e6cc32ccd26e02df0d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -177,6 +226,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Bailey Spell",
@@ -225,6 +278,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "William Fairbairn",

@@ -26,6 +26,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 27,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -63,6 +67,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 8,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -99,6 +107,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -138,7 +150,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Buddha Chaudhuri",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/buddhadevpc",
+        "twitter": "https://twitter.com/buddhachaudhuri",
+        "bio": "Buddha spearheaded the technology development of a microneedle-based biosensor from lab-to-fab for a Series B stage medtech startup. Having worked across 3 continents and 6 countries, he has been instrumental in developing novel healthcare technologies in leading global research institutes and biotech companies, for the last 15 years. Buddha earned his PhD from Imec / KU Leuven in Belgium, in Drug Delivery Microsystems. He also pursued a Postdoc at UC San Francisco (UCSF) / UC Berkeley.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8e4a1a5185f5455f05b9967fc8793797c729bd4c.jpg"
+      },
+      {
+        "name": "Frederik Ceyssens",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/frederik-ceyssens-43b6ab5",
+        "bio": "With a deep passion for diverse technologies, I'm a true multi-domain expert. My interest go from tiny moving machines to nuclear space rockets, from electrical circuits to medical devices and beyond. Next to Keylika, I founded ReVision, a neurotech company aiming at restoring sight in blind people, developing widely useful high-res neurotech in the process. I have an EE PhD, a MSc. in IC design as well as a BSc. in Medicine.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/20288d3198cb324772987da4da9b7f8137d8a725.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -178,7 +210,35 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Debesh Mandal",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/debeshmandal",
+        "bio": "Co-founder and CEO of Nanograb. PhD in Computational Biophysics from Imperial College London. Experienced in molecular simulations and building software for scientists. First software hire at Fabricnano",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3ead4cccc4160ea682b2035a3c1680aa154e1808.jpg"
+      },
+      {
+        "name": "Christopher Lau",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/christopher-lau-542798151",
+        "twitter": "https://twitter.com/lauhoyeung",
+        "bio": "Co-founder of Nanograb. M.Eng Biomaterials and Tissue Engineering at Imperial College London. Biomedical engineering experience developing biosensors using aptamers, and a drug delivery device for hypertension management.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e715a57f758c8646639b497cdc0b29b013e14ec3.jpg"
+      },
+      {
+        "name": "Shanil Panara",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/shanilpanara",
+        "twitter": "https://www.twitter.com/shanilpanara",
+        "bio": "Cofounder and in silico lead at Nanograb; Imperial College PhD (dropout); Fascinated by all things compute and physics... all in the name of figuring out real life things! Otherwise, I love singing and music in general. Fun fact: I was in an a cappella group for 5 years :)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/65049c750d88f435b953f0837b9dfe4cc622c836.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -216,6 +276,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ayaan Parikh",
@@ -270,6 +334,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ikeda Trashi",

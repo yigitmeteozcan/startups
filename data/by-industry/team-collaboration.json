@@ -24,6 +24,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -59,6 +63,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -96,6 +104,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -133,6 +145,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -170,6 +186,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -206,6 +226,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -243,6 +267,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -279,6 +307,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -317,6 +349,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -355,7 +391,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Faraz Rana",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/faraz-rana-502874a",
+        "bio": "Faraz has over 15 of experience as a start-up operator and a legal and compliance professional. Faraz was part of the founding employee team at Bread, a BNPL fintech, where helped build the company from inception to a $450M exit. Previous to Bread, Faraz had been an M&A lawyer, dabbling with start-up ideas in his spare time. Faraz is based in Brooklyn, NY and enjoys running and playing tennis.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fbe9002d693006cda05cf2a4850fc70aa870fd76.jpg"
+      },
+      {
+        "name": "Peter Greczner",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/peter-greczner-0067086",
+        "bio": "Peter is CTO of Affinity. He's been building and working with NYC start-ups for almost 15 years, including companies in AdTech, FinTech, and Crypto. As a founding team member of Bread, a pay-over-time FinTech, he led and built the engineering team to a successful $500M exit. In addition to having fun building startup's, Peter also loves to play basketball, run, try new board games and play outside with his 2 kids.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4368510ff32f5960f622d60e144b4699b4114834.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -394,6 +449,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sahil Sinha",
@@ -439,6 +498,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Bardia Safari",
@@ -494,6 +557,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Brian Kim",
@@ -541,6 +608,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 7,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "João de Paula",

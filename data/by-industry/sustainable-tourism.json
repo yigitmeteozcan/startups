@@ -26,6 +26,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -66,6 +70,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 33,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -106,7 +114,28 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Josh Green",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/josh-green-70ba021/",
+        "twitter": "https://twitter.com/jvgreen5",
+        "bio": "CEO & Co-Founder of Pursuit. Former CFO & EVP of an aerospace manufacturer. BSFS from Georgetown. Father and husband. Life, liberty, and the pursuit of property.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5f0902dfd55e60cb51b8e2e87021d7c3ee024c2.jpg",
+        "active": false
+      },
+      {
+        "name": "Mason Meier",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mason-meier-7b418653/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/29e892e63f5ed7c70e53c08a0f3767873ec7d43c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -783,6 +783,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -820,6 +823,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 28,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -857,6 +864,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -896,6 +907,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 22,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -933,6 +948,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -970,6 +989,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1006,6 +1029,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 100,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1045,7 +1072,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Buddha Chaudhuri",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/buddhadevpc",
+        "twitter": "https://twitter.com/buddhachaudhuri",
+        "bio": "Buddha spearheaded the technology development of a microneedle-based biosensor from lab-to-fab for a Series B stage medtech startup. Having worked across 3 continents and 6 countries, he has been instrumental in developing novel healthcare technologies in leading global research institutes and biotech companies, for the last 15 years. Buddha earned his PhD from Imec / KU Leuven in Belgium, in Drug Delivery Microsystems. He also pursued a Postdoc at UC San Francisco (UCSF) / UC Berkeley.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8e4a1a5185f5455f05b9967fc8793797c729bd4c.jpg"
+      },
+      {
+        "name": "Frederik Ceyssens",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/frederik-ceyssens-43b6ab5",
+        "bio": "With a deep passion for diverse technologies, I'm a true multi-domain expert. My interest go from tiny moving machines to nuclear space rockets, from electrical circuits to medical devices and beyond. Next to Keylika, I founded ReVision, a neurotech company aiming at restoring sight in blind people, developing widely useful high-res neurotech in the process. I have an EE PhD, a MSc. in IC design as well as a BSc. in Medicine.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/20288d3198cb324772987da4da9b7f8137d8a725.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1085,6 +1132,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Karthik Raman",
@@ -1138,6 +1189,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Patrick Grossmann",

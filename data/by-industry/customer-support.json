@@ -26,6 +26,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -65,6 +69,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 34,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -104,6 +112,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 101,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -142,6 +154,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -180,6 +196,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -218,7 +238,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 18,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Jon O'Bryan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jon-obryan/",
+        "twitter": "https://twitter.com/jobryan",
+        "bio": "Serial entrepreneur, recovering physicist, nature lover, and family man",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9b7a504436d7908e17f8a8ac8a8426ed87404fc7.jpg",
+        "active": false
+      },
+      {
+        "name": "Rahul Asati",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rahul-asati/",
+        "twitter": "https://twitter.com/asati_rahul",
+        "bio": "CTO at Atlas",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3dae25fa0d98d704d2bbb963f25eeaf6b96b4712.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -257,6 +300,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -295,6 +342,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -332,6 +383,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 9,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -369,6 +424,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -405,6 +464,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Shub Viragi",
@@ -450,6 +513,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Ruoni Wang",
@@ -514,6 +581,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Anne-Charlotte Chauvet",
@@ -570,6 +641,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 18,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Nick Gomez",
@@ -625,6 +700,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sophie Wyne",
@@ -678,6 +757,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 120,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Advith Chelikani",
@@ -738,6 +821,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 26,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Guillaume Luccisano",
@@ -784,7 +871,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ohad Navon",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ohad-navon-639b356a",
+        "twitter": "https://twitter.com/OhadNavon",
+        "bio": "Launch AI support chatbot that grew Roundforest from $200M to $1B GMV within 18 months. Saved Google $100M in fraud prevention as an engineer. Data science at McKinsey. Graduated at 19. Dan 2 black belt in Krav Maga",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/193479a9a86a46ad81a96abff87dbe8bf10af184.jpg"
+      },
+      {
+        "name": "Nadav Zamir",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/nadavzamir",
+        "bio": "Launched the Chinese Google Photos as Director of AI at Alibaba, becoming the #1 app in China. Ex-CTO & Co-founder at Galigu, search engine for VR, raised money, launched product, but VR wasn’t there yet. Built the world’s first wireless VR headset at Intel launched at CES by Intel's CEO.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0a699f359ad8102743e67deb8f39f2e4e90bec2a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -821,7 +928,19 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ethan Hou",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ethan-hou10",
+        "bio": "Founder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/08674f0ee0965bf332f334e7c9d09f714a7e5ce1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -859,6 +978,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Valerie Li",
@@ -912,6 +1035,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Pranav Mallampalli",
@@ -966,6 +1093,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 21,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mohammad Gharbat",
@@ -1013,6 +1144,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 11,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Anker Ryhl",
@@ -1067,6 +1202,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Alex Marantelos",
@@ -1121,6 +1260,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Gideon Ebose",
@@ -1176,6 +1319,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Marcus Storm-Mollard",
@@ -1222,6 +1369,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [
       {
         "name": "Nikolas Huebecker",
@@ -1274,6 +1425,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Richard Wang",

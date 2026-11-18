@@ -26,6 +26,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 300,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -62,6 +67,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 51,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -97,6 +106,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -137,6 +150,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -174,6 +191,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 130,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -210,6 +231,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -245,6 +270,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 60,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -283,6 +312,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -321,6 +354,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 5,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -359,6 +396,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -395,6 +436,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 7,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -434,7 +479,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Philip Scott",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/philip-j-scott/",
+        "bio": "Philip is the co-founder and CEO of Hyperbeam, an API for embedding multiplayer web browsers. He studied software engineering at the University of Waterloo, where he met his co-founders Ambareesh Balaji and Declan Goncalves. For their capstone project, they created a watch party site called Tutturu.tv to watch anime with their friends. Tutturu.tv garnered 150K monthly active users and evolved into Hyperbeam. He has interned at numerous startups and big tech companies, including Lumina and Yahoo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8fff90380f770b18fa9167e577301b992c78e5a0.jpg"
+      },
+      {
+        "name": "Ambareesh Balaji",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/Ambyjkl",
+        "bio": "Ambareesh is the co-founder & CTO of Hyperbeam, an API for embedding multiplayer web browsers. He met his co-founders Philip and Declan at the University of Waterloo, where Hyperbeam started off as their engineering capstone project Tutturu.tv, a watch party site with 150K monthly active users. He has interned as a Software Engineer at startups and big tech companies alike, such as Globality and Facebook.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9895a71e00168ce7f010d13877ef0a1a558e3f92.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -471,6 +535,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Divyagnan Kandala",
@@ -524,6 +592,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Tolu Alabi",
@@ -579,6 +651,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 15,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Francois Chollet",

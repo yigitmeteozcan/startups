@@ -25,6 +25,11 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "public",
+    "teamSize": 750,
+    "isHiring": true,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -62,6 +67,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -99,6 +108,11 @@
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 410,
+    "isHiring": false,
+    "stage": "Growth",
+    "topCompany": true,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -136,6 +150,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 51,
+    "isHiring": false,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -171,6 +189,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -209,6 +231,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -246,6 +272,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -283,6 +313,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 23,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -320,6 +354,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -355,6 +393,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 6,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -392,6 +434,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -429,6 +475,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 6,
+    "isHiring": true,
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -466,6 +516,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 30,
+    "isHiring": true,
+    "stage": "Growth",
     "founders": [
       {
         "name": "Nabil Jallouli",
@@ -526,6 +580,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Leo Lu",
@@ -587,6 +645,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "inactive",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Douwe Osinga",
@@ -642,6 +704,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Severin Landolt",
@@ -695,6 +761,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Michael Jaradah",
@@ -748,7 +818,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Lucas da Costa",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/lucasfdacosta",
+        "twitter": "https://twitter.com/thewizardlucas",
+        "bio": "I'm the founder and CEO at Briefer. Previously, I worked as a senior software engineer at Elastic and led software engineering teams at an early-stage startup in London. I used to maintain large OSS projects like Chai.js and Sinon.js and contributed to many others, including Jest. As an author, I wrote \"Testing JavaScript Applications,\" published by Manning. I've also spoken in more than ten countries, and my content has been voluntarily translated into more than seven languages.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c67c3654b38517081d8943217dd52f520daa16d.jpg",
+        "active": false
+      },
+      {
+        "name": "Lucas Vieira",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/lucas-vieira-1ba001a4",
+        "twitter": "https://twitter.com/commadangle",
+        "bio": "Lucas, is a software engineer and open-source enthusiast with a decade of experience, actively contributes to numerous open source projects. He used to maintain Chai.js, a popular JavaScript testing framework with 7.8k+ GitHub stars. As the former Head of Technology at Joga, he built a product from scratch, used by thousands in dozens of countries. Now, Lucas is the CTO of Ergomake, developing a product for developers to deploy preview environments for any stack.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4b304961c58125ab235255d85217abb378470ab1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -786,7 +879,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "inactive",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ali Shobeiri",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ali-shobeiri",
+        "twitter": "https://twitter.com/Ali_Shobeiri",
+        "bio": "I was previously a Machine Learning Engineer at Apple owning people based recommendations across devices. Before that, I was a ML Research Intern at Unity and a Software Engineer at Microsoft.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f3b1d98183acd018ae32e0841391237a80219434.jpg",
+        "active": false
+      },
+      {
+        "name": "Sami Sahnoune",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/samisahnoune",
+        "bio": "Before Vizly, Sami built mission-critical data systems at NASA's Jet Propulsion Laboratory, architected widely-used data visualization libraries at Splunk, and worked at Plotly, a leading data visualization company with over 500 million open-source downloads. His work has consistently pushed the boundaries of data visualization and analysis, benefiting thousands of users worldwide.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2bb513e0ff0b55132c5db0962ac5fcd9ccac7e6c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -822,6 +937,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Gabriele Venturi",
@@ -869,6 +988,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Mehdi Boudjadja",
@@ -921,6 +1044,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Aidan Lee",
@@ -981,6 +1108,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Illiana Reed",
@@ -1042,6 +1173,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Sean Isom",
@@ -1090,6 +1225,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Shivani Mouleeswaran",
@@ -1141,6 +1280,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Connor Jones",
@@ -1195,6 +1338,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Jorge Guerra",
@@ -1249,6 +1396,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Adrian Barbir",
@@ -1304,6 +1455,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
     "founders": [
       {
         "name": "Riwan Azeroual",
