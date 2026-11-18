@@ -732,12 +732,12 @@
     "alsoIn": []
   },
   {
-    "id": "plugandplay-sakigake",
+    "id": "plugandplay-sk-electronics",
     "source": "plugandplay",
-    "name": "SAKIGAKE",
-    "description": "SAKIGAKE is a company that development and manufacture and sale of the semiconductor manufacturing apparatus according to contract research",
-    "logo": "https://cdn.playbook.vc/media/thumbnails/af7e19c787def7fa3028_45y4Z2O?Expires=1776789092&Signature=Klw2AvIrUpNz3UMGkQhBgj3LyMAAuCQv4h~CglhQWuNbqwDSTz3n2c6f7NtfO803maqjh2sAQVaakrKxpsIRWbX4xdXbpi5abcoJ2K-jrelKxFeZ6ObVyFJWRsqgSQrpuPRtqtvrr~G53PBu3IeXHxWNuhCTMf1AlvVdeYAiCT3TpSTxyH8T-y0IlO6aqxpo5Cp6dBXxzz6DAyyBGwCnn1CibQtkuKOotDYGToEeZoBWNS6sXc6HFm9UYQC4uDZ-WyiCIn0Fl5Atiad7xt~OedH3FwbgsOcP-85xDXpIDE3Dp3A67kkBdurNudascwCJxvWDFFbIaDmVRnn-Iqkoow__&Key-Pair-Id=K1EZH924FG48TE",
-    "website": "http://www.sakigakes.co.jp/",
+    "name": "SK-Electronics",
+    "description": "SK-Electronics is a photomask manufacturer company.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/iznwsvwse0rp60ncx3hj_l3viH24?Expires=1776786201&Signature=QbXctH2M6EP2oftIpAHDv~BTkH2mAJC1EzbwtFH2T5qNbxbVlqp7MYXuY~Yav7UO4~zdrYcH260f~qrOAhosyiu32dwye3Vvqnynn9gKk0vV6v3-IuRZSo85BaI~wRdDvRhvI19nzzqhx4027taNwP5mZAx~IwQUqTKk4fV3i6Xy2PUidTlfzEcuw4JVUzI826oZrttTEPRicoOo2EjtefrVwRiACSWC0sSdZZKyVtOefNaMyiowVCALb0tKtISwpuO8YWPP3tkCw4NAuYDjDhLe1krHSMlj8T5d1Wa0zBbiJbdOfcBR5EkSV6YJFDiNFRcCDaz1zUefYSKIldfOJA__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "http://www.sk-el.co.jp/",
     "location": "Japan",
     "region": "Asia",
     "subregion": "",
@@ -806,12 +806,12 @@
     "alsoIn": []
   },
   {
-    "id": "plugandplay-sk-electronics",
+    "id": "plugandplay-sakigake",
     "source": "plugandplay",
-    "name": "SK-Electronics",
-    "description": "SK-Electronics is a photomask manufacturer company.",
-    "logo": "https://cdn.playbook.vc/media/thumbnails/iznwsvwse0rp60ncx3hj_l3viH24?Expires=1776786201&Signature=QbXctH2M6EP2oftIpAHDv~BTkH2mAJC1EzbwtFH2T5qNbxbVlqp7MYXuY~Yav7UO4~zdrYcH260f~qrOAhosyiu32dwye3Vvqnynn9gKk0vV6v3-IuRZSo85BaI~wRdDvRhvI19nzzqhx4027taNwP5mZAx~IwQUqTKk4fV3i6Xy2PUidTlfzEcuw4JVUzI826oZrttTEPRicoOo2EjtefrVwRiACSWC0sSdZZKyVtOefNaMyiowVCALb0tKtISwpuO8YWPP3tkCw4NAuYDjDhLe1krHSMlj8T5d1Wa0zBbiJbdOfcBR5EkSV6YJFDiNFRcCDaz1zUefYSKIldfOJA__&Key-Pair-Id=K1EZH924FG48TE",
-    "website": "http://www.sk-el.co.jp/",
+    "name": "SAKIGAKE",
+    "description": "SAKIGAKE is a company that development and manufacture and sale of the semiconductor manufacturing apparatus according to contract research",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/af7e19c787def7fa3028_45y4Z2O?Expires=1776789092&Signature=Klw2AvIrUpNz3UMGkQhBgj3LyMAAuCQv4h~CglhQWuNbqwDSTz3n2c6f7NtfO803maqjh2sAQVaakrKxpsIRWbX4xdXbpi5abcoJ2K-jrelKxFeZ6ObVyFJWRsqgSQrpuPRtqtvrr~G53PBu3IeXHxWNuhCTMf1AlvVdeYAiCT3TpSTxyH8T-y0IlO6aqxpo5Cp6dBXxzz6DAyyBGwCnn1CibQtkuKOotDYGToEeZoBWNS6sXc6HFm9UYQC4uDZ-WyiCIn0Fl5Atiad7xt~OedH3FwbgsOcP-85xDXpIDE3Dp3A67kkBdurNudascwCJxvWDFFbIaDmVRnn-Iqkoow__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "http://www.sakigakes.co.jp/",
     "location": "Japan",
     "region": "Asia",
     "subregion": "",
@@ -877,7 +877,9 @@
       "country": "Japan"
     },
     "country": "Japan",
-    "alsoIn": []
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-18"
   },
   {
     "id": "plugandplay-mintneuro",
@@ -914,7 +916,9 @@
       "country": "United Kingdom"
     },
     "country": "United Kingdom",
-    "alsoIn": []
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-18"
   },
   {
     "id": "plugandplay-linque",
@@ -951,7 +955,9 @@
       "country": "Germany"
     },
     "country": "Germany",
-    "alsoIn": []
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-18"
   },
   {
     "id": "plugandplay-leapmind",
@@ -988,6 +994,8 @@
       "country": "Japan"
     },
     "country": "Japan",
-    "alsoIn": []
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-18"
   }
 ]

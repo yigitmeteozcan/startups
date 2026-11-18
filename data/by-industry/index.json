@@ -31,7 +31,7 @@
   },
   "Fintech": {
     "slug": "fintech",
-    "count": 2860,
+    "count": 3029,
     "file": "by-industry/fintech.json"
   },
   "Lifestyles of Health and Sustainability and wellness": {
@@ -131,7 +131,7 @@
   },
   "Insurtech": {
     "slug": "insurtech",
-    "count": 561,
+    "count": 687,
     "file": "by-industry/insurtech.json"
   },
   "Infrastructure": {
@@ -151,7 +151,7 @@
   },
   "Agtech": {
     "slug": "agtech",
-    "count": 168,
+    "count": 179,
     "file": "by-industry/agtech.json"
   },
   "Mobile commerce": {
@@ -271,7 +271,7 @@
   },
   "Advanced Manufacturing": {
     "slug": "advanced-manufacturing",
-    "count": 45,
+    "count": 47,
     "file": "by-industry/advanced-manufacturing.json"
   },
   "Construction technology": {
@@ -876,7 +876,7 @@
   },
   "Food & Beverage": {
     "slug": "food-beverage",
-    "count": 221,
+    "count": 302,
     "file": "by-industry/food-beverage.json"
   },
   "Food Service Robots & Machines": {
@@ -946,7 +946,7 @@
   },
   "Sustainability": {
     "slug": "sustainability",
-    "count": 261,
+    "count": 324,
     "file": "by-industry/sustainability.json"
   },
   "Airlines": {
@@ -1046,7 +1046,7 @@
   },
   "Supply Chain": {
     "slug": "supply-chain",
-    "count": 406,
+    "count": 474,
     "file": "by-industry/supply-chain.json"
   },
   "Customer Success": {
@@ -1306,7 +1306,7 @@
   },
   "Energy": {
     "slug": "energy",
-    "count": 443,
+    "count": 579,
     "file": "by-industry/energy.json"
   },
   "Fusion Energy": {
@@ -1986,7 +1986,7 @@
   },
   "Deeptech": {
     "slug": "deeptech",
-    "count": 531,
+    "count": 634,
     "file": "by-industry/deeptech.json"
   },
   "Real Estate & PropTech": {
@@ -2071,7 +2071,7 @@
   },
   "Smart Cities": {
     "slug": "smart-cities",
-    "count": 125,
+    "count": 169,
     "file": "by-industry/smart-cities.json"
   },
   "BioTech & Life Sciences": {
@@ -2239,70 +2239,80 @@
     "count": 4,
     "file": "by-industry/gambling.json"
   },
-  "Brand & Retail": {
-    "slug": "brand-retail",
-    "count": 474,
-    "file": "by-industry/brand-retail.json"
-  },
-  "Media & Advertising": {
-    "slug": "media-advertising",
-    "count": 321,
-    "file": "by-industry/media-advertising.json"
-  },
-  "Crypto & Digital Assets": {
-    "slug": "crypto-digital-assets",
-    "count": 39,
-    "file": "by-industry/crypto-digital-assets.json"
+  "Health & Longevity": {
+    "slug": "health-longevity",
+    "count": 691,
+    "file": "by-industry/health-longevity.json"
   },
   "Health": {
     "slug": "health",
     "count": 663,
     "file": "by-industry/health.json"
   },
+  "Media & Advertising": {
+    "slug": "media-advertising",
+    "count": 364,
+    "file": "by-industry/media-advertising.json"
+  },
   "Real Estate & Construction": {
     "slug": "real-estate-construction",
-    "count": 52,
+    "count": 64,
     "file": "by-industry/real-estate-construction.json"
-  },
-  "Travel & Hospitality": {
-    "slug": "travel-hospitality",
-    "count": 126,
-    "file": "by-industry/travel-hospitality.json"
-  },
-  "Medtech": {
-    "slug": "medtech",
-    "count": 74,
-    "file": "by-industry/medtech.json"
-  },
-  "Mobility & Physical AI": {
-    "slug": "mobility-physical-ai",
-    "count": 409,
-    "file": "by-industry/mobility-physical-ai.json"
   },
   "Animal Health": {
     "slug": "animal-health",
-    "count": 26,
+    "count": 31,
     "file": "by-industry/animal-health.json"
-  },
-  "Aerospace & Defense": {
-    "slug": "aerospace-defense",
-    "count": 43,
-    "file": "by-industry/aerospace-defense.json"
-  },
-  "Global Overseas Acceleration & Learning (GOAL)": {
-    "slug": "global-overseas-acceleration-learning-goal",
-    "count": 49,
-    "file": "by-industry/global-overseas-acceleration-learning-goal.json"
-  },
-  "Enterprise & AI": {
-    "slug": "enterprise-ai",
-    "count": 197,
-    "file": "by-industry/enterprise-ai.json"
   },
   "New Materials & Packaging": {
     "slug": "new-materials-packaging",
-    "count": 90,
+    "count": 141,
     "file": "by-industry/new-materials-packaging.json"
+  },
+  "Brand & Retail": {
+    "slug": "brand-retail",
+    "count": 593,
+    "file": "by-industry/brand-retail.json"
+  },
+  "Aerospace & Defense": {
+    "slug": "aerospace-defense",
+    "count": 57,
+    "file": "by-industry/aerospace-defense.json"
+  },
+  "Enterprise & AI": {
+    "slug": "enterprise-ai",
+    "count": 281,
+    "file": "by-industry/enterprise-ai.json"
+  },
+  "Mobility & Physical AI": {
+    "slug": "mobility-physical-ai",
+    "count": 552,
+    "file": "by-industry/mobility-physical-ai.json"
+  },
+  "Travel & Hospitality": {
+    "slug": "travel-hospitality",
+    "count": 172,
+    "file": "by-industry/travel-hospitality.json"
+  },
+  "Crypto & Digital Assets": {
+    "slug": "crypto-digital-assets",
+    "count": 67,
+    "file": "by-industry/crypto-digital-assets.json"
+  },
+  "Global Overseas Acceleration & Learning (GOAL)": {
+    "slug": "global-overseas-acceleration-learning-goal",
+    "count": 98,
+    "file": "by-industry/global-overseas-acceleration-learning-goal.json"
+  },
+  "Medtech": {
+    "slug": "medtech",
+    "count": 114,
+    "file": "by-industry/medtech.json"
+  },
+  "Lifetech": {
+    "slug": "lifetech",
+    "count": 15,
+    "file": "by-industry/lifetech.json"
   },
   "Sportstech": {
     "slug": "sportstech",

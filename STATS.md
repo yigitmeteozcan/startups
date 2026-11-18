@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-17._
+_Auto-generated from the dataset on 2026-11-18._
 
 | Metric | Count |
 |---|---|
-| Total companies | **21,493** |
-| 🦄 Unicorns ($1B+) | **158** |
-| 💰 Exits | **2828** |
+| Total companies | **23,170** |
+| 🦄 Unicorns ($1B+) | **167** |
+| 💰 Exits | **2932** |
 | 🌱 B Corps | **29** |
 | 👤 Founder profiles | **7,354** |
 | Current session | **69** |
@@ -15,8 +15,8 @@ _Auto-generated from the dataset on 2026-11-17._
 
 | Source | Companies |
 |---|---|
+| plugandplay | 7,185 |
 | yc | 6,398 |
-| plugandplay | 5,508 |
 | techstars | 5,199 |
 | 500 | 2,243 |
 | antler | 1,086 |
@@ -52,41 +52,41 @@ _Auto-generated from the dataset on 2026-11-17._
 ```
 
 ## Top countries
-1. **United States** — 11202
-2. **Japan** — 2702
-3. **United Kingdom** — 837
-4. **Canada** — 717
-5. **India** — 342
-6. **Germany** — 335
-7. **France** — 265
-8. **Singapore** — 244
-9. **Mexico** — 229
-10. **Israel** — 223
-11. **United Arab Emirates** — 145
-12. **South Korea** — 128
-13. **Nigeria** — 119
-14. **Australia** — 115
-15. **Italy** — 110
+1. **United States** — 11754
+2. **Japan** — 3415
+3. **United Kingdom** — 895
+4. **Canada** — 782
+5. **Germany** — 369
+6. **India** — 346
+7. **France** — 287
+8. **Singapore** — 256
+9. **Israel** — 243
+10. **Mexico** — 229
+11. **United Arab Emirates** — 153
+12. **Italy** — 153
+13. **South Korea** — 152
+14. **Nigeria** — 123
+15. **Spain** — 122
 
 ## Top cities
-1. **Tokyo** — 2782
-2. **Silicon Valley** — 1643
+1. **Tokyo** — 3429
+2. **Silicon Valley** — 2235
 3. **New York City** — 408
-4. **London** — 308
+4. **London** — 316
 5. **San Francisco** — 181
-6. **Los Angeles** — 137
-7. **Boston** — 123
-8. **Chicago** — 114
-9. **Seattle** — 110
-10. **Austin** — 110
-11. **Paris** — 109
-12. **Toronto** — 100
-13. **Alberta** — 87
-14. **Brooklyn** — 85
-15. **Boulder** — 81
+6. **Los Angeles** — 144
+7. **Paris** — 132
+8. **Boston** — 123
+9. **Seattle** — 119
+10. **Chicago** — 114
+11. **Austin** — 110
+12. **Alberta** — 107
+13. **Toronto** — 100
+14. **Singapore** — 90
+15. **Brooklyn** — 85
 
 ## Top programs
-1. **Plug and Play** — 5508
+1. **Plug and Play** — 7185
 2. **500 Global** — 1403
 3. **Antler** — 1086
 4. **Entrepreneur First** — 545
@@ -103,7 +103,7 @@ _Auto-generated from the dataset on 2026-11-17._
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 2860
+1. **Fintech** — 3029
 2. **AI** — 1900
 3. **SaaS** — 1701
 4. **Artificial intelligence and machine learning** — 1667
@@ -113,24 +113,24 @@ _Auto-generated from the dataset on 2026-11-17._
 8. **Infrastructure** — 756
 9. **Developer Tools** — 747
 10. **Industrials** — 694
-11. **Health** — 663
-12. **Engineering, Product and Design** — 635
-13. **Insurtech** — 561
-14. **Deeptech** — 531
-15. **Healthtech** — 483
-16. **Brand & Retail** — 474
-17. **Energy** — 443
-18. **Mobility & Physical AI** — 409
-19. **Supply Chain** — 406
-20. **Climate tech** — 403
+11. **Health & Longevity** — 691
+12. **Insurtech** — 687
+13. **Health** — 663
+14. **Engineering, Product and Design** — 635
+15. **Deeptech** — 634
+16. **Brand & Retail** — 593
+17. **Energy** — 579
+18. **Mobility & Physical AI** — 552
+19. **Healthtech** — 483
+20. **Supply Chain** — 474
 
 ## By region
-1. **Americas** — 5667
+1. **Americas** — 6293
 2. **United States of America** — 4772
-3. **Asia** — 2995
-4. **Europe** — 1028
-5. **North America** — 902
-6. **EMEA** — 802
+3. **Asia** — 3763
+4. **EMEA** — 1084
+5. **Europe** — 1028
+6. **North America** — 902
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
 9. **United Kingdom** — 220

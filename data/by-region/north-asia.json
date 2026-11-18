@@ -2476,7 +2476,9 @@
       "country": "Japan"
     },
     "country": "Japan",
-    "alsoIn": []
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
     "id": "500-iprice",
@@ -3699,7 +3701,9 @@
       "country": "Japan"
     },
     "country": "Japan",
-    "alsoIn": []
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
     "id": "500-sciket",
@@ -4758,65 +4762,17 @@
     ]
   },
   {
-    "id": "500-omise",
+    "id": "500-prenetics",
     "source": "500",
-    "name": "Omise",
-    "description": "Operator of full-featured payment management platform designed to connect millions of customers across the world. The company's payment management platform is easy to setup and works seamlessly across multiple devices, providing fraud detection, data privacy and highly secured transactions, enabling users to manage their funds whenever they want.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/78865fd6-3d80-4138-8bdd-916ebb5fb8b3.png",
-    "website": "https://www.opn.ooo",
-    "location": "Japan",
+    "name": "Prenetics",
+    "description": "Developer of a pharmacogenomics platform designed to offer personalized, predictive and preventive treatments. The company's pharmacogenomics platform offers a health-coaching application that provides individuals with a DNA profile in order to facilitate optimal diet, fitness and response to drugs and enables them to understand their genetic risk of common health conditions such as Type 2 Diabetes, High Blood Pressure and High Cholesterol, enabling physicians to help patients identify the right drug, right dosage and to list out potential adverse drug effects (ADEs), based on one's genetic profile platform.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e17a1a96-4df4-4a60-a633-e41e847d4427.png",
+    "website": "https://www.prenetics.com",
+    "location": "Hong Kong",
     "region": "North Asia",
     "subregion": "",
     "tags": [
-      "Fintech",
-      "Payments"
-    ],
-    "year": 2016,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ezra Don Harinsut",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jun Hasegawa",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
-    },
-    "country": "Japan",
-    "alsoIn": []
-  },
-  {
-    "id": "500-breaker",
-    "source": "500",
-    "name": "Breaker",
-    "description": "Tokyo-based social media branding agency connecting the world to Japan. ",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/537f715d-15c6-4dcc-904a-269c0e8b2338.png",
-    "website": "https://brkr.jp",
-    "location": "Japan",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Creative Industry",
-      "Social Media"
+      "BioTech & Life Sciences"
     ],
     "year": 2014,
     "program": "500 Global",
@@ -4829,68 +4785,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Alan Swarts",
+        "name": "Lawrence Tzang",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "John Possman",
+        "name": "Prof. Michael M Yang",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Kenneth Sekine",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
-    },
-    "country": "Japan",
-    "alsoIn": []
-  },
-  {
-    "id": "500-klarity",
-    "source": "500",
-    "name": "Klarity",
-    "description": "Developer of a big data analytics SaaS platform created to help people make better business decisions. The company's analytics platform allows data discovery from multiple social and online sources, particularly Chinese-specific platforms, transforming granular data into reliable social intelligence enabling marketers, researchers and analysts to monitor social media sites and benchmark performance, identify market trends and gain in-depth insights into social behavior.",
-    "logo": "",
-    "website": "https://www.klarity-analytics.com",
-    "location": "Hong Kong",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Data & Analytics"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Christopher Wong",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Stephen Wong",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andy Ann",
+        "name": "Danny Yeung",
         "role": "",
         "linkedin": ""
       }
@@ -5010,135 +4915,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-kuraseru",
-    "source": "500",
-    "name": "Kuraseru",
-    "description": "Developer of a medical enterprise software designed to connect patients with professional care managers. The company's software provides a tool that can retrieve optimum nursing facility information instantaneously, enabling users to choose their treatment provider smartly.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c3ce90e-6a50-43ad-be16-98c25d6a5f7f.png",
-    "website": "https://www.kuraseru.co.jp",
-    "location": "Japan",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2018,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Daiki Kawahara",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
-    },
-    "country": "Japan",
-    "alsoIn": []
-  },
-  {
-    "id": "500-anglers",
-    "source": "500",
-    "name": "Anglers",
-    "description": "Anglers is an app that connect fishermen whose keen on recording and sharing their latest catch of the sea.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fcd37e20-4973-4d72-b847-d5fd39ba450f.png",
-    "website": "https://anglers.jp",
-    "location": "Japan",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Social Impact",
-      "B2A"
-    ],
-    "year": 2016,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Hiroaki Wakatsuki",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
-    },
-    "country": "Japan",
-    "alsoIn": []
-  },
-  {
-    "id": "500-leflair",
-    "source": "500",
-    "name": "Leflair",
-    "description": "Provider of an e-commerce platform intended to offer foreign brands in Vietnam. The company's online platform is engaged in the sale of women's and men's fashion, beauty, home and kids products, enabling customers to find and buy international branded products at good deal.",
-    "logo": "",
-    "website": "https://www.leflair.vn",
-    "location": "Hong Kong",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Fashion"
-    ],
-    "year": 2016,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Loic Gautier",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Pierre-Antoine Brun",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Hong Kong"
-    },
-    "country": "Hong Kong",
-    "alsoIn": []
-  },
-  {
     "id": "500-pocket-menu",
     "source": "500",
     "name": "Pocket Menu",
@@ -5180,57 +4956,6 @@
     "alsoIn": [
       "plugandplay"
     ]
-  },
-  {
-    "id": "500-prenetics",
-    "source": "500",
-    "name": "Prenetics",
-    "description": "Developer of a pharmacogenomics platform designed to offer personalized, predictive and preventive treatments. The company's pharmacogenomics platform offers a health-coaching application that provides individuals with a DNA profile in order to facilitate optimal diet, fitness and response to drugs and enables them to understand their genetic risk of common health conditions such as Type 2 Diabetes, High Blood Pressure and High Cholesterol, enabling physicians to help patients identify the right drug, right dosage and to list out potential adverse drug effects (ADEs), based on one's genetic profile platform.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e17a1a96-4df4-4a60-a633-e41e847d4427.png",
-    "website": "https://www.prenetics.com",
-    "location": "Hong Kong",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "BioTech & Life Sciences"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Lawrence Tzang",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Prof. Michael M Yang",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Danny Yeung",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Hong Kong"
-    },
-    "country": "Hong Kong",
-    "alsoIn": []
   },
   {
     "id": "500-regulus",
@@ -5317,6 +5042,53 @@
     "alsoIn": []
   },
   {
+    "id": "500-omise",
+    "source": "500",
+    "name": "Omise",
+    "description": "Operator of full-featured payment management platform designed to connect millions of customers across the world. The company's payment management platform is easy to setup and works seamlessly across multiple devices, providing fraud detection, data privacy and highly secured transactions, enabling users to manage their funds whenever they want.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/78865fd6-3d80-4138-8bdd-916ebb5fb8b3.png",
+    "website": "https://www.opn.ooo",
+    "location": "Japan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Payments"
+    ],
+    "year": 2016,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ezra Don Harinsut",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jun Hasegawa",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Japan"
+    },
+    "country": "Japan",
+    "alsoIn": []
+  },
+  {
     "id": "500-tokyootakumode",
     "source": "500",
     "name": "TokyoOtakuMode",
@@ -5378,5 +5150,237 @@
     "alsoIn": [
       "plugandplay"
     ]
+  },
+  {
+    "id": "500-breaker",
+    "source": "500",
+    "name": "Breaker",
+    "description": "Tokyo-based social media branding agency connecting the world to Japan. ",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/537f715d-15c6-4dcc-904a-269c0e8b2338.png",
+    "website": "https://brkr.jp",
+    "location": "Japan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Creative Industry",
+      "Social Media"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alan Swarts",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "John Possman",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kenneth Sekine",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Japan"
+    },
+    "country": "Japan",
+    "alsoIn": []
+  },
+  {
+    "id": "500-leflair",
+    "source": "500",
+    "name": "Leflair",
+    "description": "Provider of an e-commerce platform intended to offer foreign brands in Vietnam. The company's online platform is engaged in the sale of women's and men's fashion, beauty, home and kids products, enabling customers to find and buy international branded products at good deal.",
+    "logo": "",
+    "website": "https://www.leflair.vn",
+    "location": "Hong Kong",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Fashion"
+    ],
+    "year": 2016,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Loic Gautier",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Pierre-Antoine Brun",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong"
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "500-kuraseru",
+    "source": "500",
+    "name": "Kuraseru",
+    "description": "Developer of a medical enterprise software designed to connect patients with professional care managers. The company's software provides a tool that can retrieve optimum nursing facility information instantaneously, enabling users to choose their treatment provider smartly.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c3ce90e-6a50-43ad-be16-98c25d6a5f7f.png",
+    "website": "https://www.kuraseru.co.jp",
+    "location": "Japan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2018,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Daiki Kawahara",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Japan"
+    },
+    "country": "Japan",
+    "alsoIn": []
+  },
+  {
+    "id": "500-anglers",
+    "source": "500",
+    "name": "Anglers",
+    "description": "Anglers is an app that connect fishermen whose keen on recording and sharing their latest catch of the sea.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fcd37e20-4973-4d72-b847-d5fd39ba450f.png",
+    "website": "https://anglers.jp",
+    "location": "Japan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Social Impact",
+      "B2A"
+    ],
+    "year": 2016,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Hiroaki Wakatsuki",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Japan"
+    },
+    "country": "Japan",
+    "alsoIn": []
+  },
+  {
+    "id": "500-klarity",
+    "source": "500",
+    "name": "Klarity",
+    "description": "Developer of a big data analytics SaaS platform created to help people make better business decisions. The company's analytics platform allows data discovery from multiple social and online sources, particularly Chinese-specific platforms, transforming granular data into reliable social intelligence enabling marketers, researchers and analysts to monitor social media sites and benchmark performance, identify market trends and gain in-depth insights into social behavior.",
+    "logo": "",
+    "website": "https://www.klarity-analytics.com",
+    "location": "Hong Kong",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Christopher Wong",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Stephen Wong",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andy Ann",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong"
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
   }
 ]

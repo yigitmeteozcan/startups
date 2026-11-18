@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-17T23:58:05.853Z",
-  "total": 21493,
+  "generatedAt": "2026-11-18T00:07:17.479Z",
+  "total": 23170,
   "bySource": {
     "500": 2243,
+    "plugandplay": 7185,
     "yc": 6398,
-    "plugandplay": 5508,
     "techstars": 5199,
     "antler": 1086,
     "ef": 545,
     "alchemist": 514
   },
-  "unicorns": 158,
-  "exits": 2828,
+  "unicorns": 167,
+  "exits": 2932,
   "bCorps": 29,
   "currentSession": 69,
-  "delisted": 12,
+  "delisted": 1551,
   "founders": 7354,
   "byYear": {
     "2005": 8,
@@ -44,73 +44,73 @@
   "topCountries": [
     [
       "United States",
-      11202
+      11754
     ],
     [
       "Japan",
-      2702
+      3415
     ],
     [
       "United Kingdom",
-      837
+      895
     ],
     [
       "Canada",
-      717
-    ],
-    [
-      "India",
-      342
+      782
     ],
     [
       "Germany",
-      335
+      369
+    ],
+    [
+      "India",
+      346
     ],
     [
       "France",
-      265
+      287
     ],
     [
       "Singapore",
-      244
+      256
+    ],
+    [
+      "Israel",
+      243
     ],
     [
       "Mexico",
       229
     ],
     [
-      "Israel",
-      223
-    ],
-    [
       "United Arab Emirates",
-      145
-    ],
-    [
-      "South Korea",
-      128
-    ],
-    [
-      "Nigeria",
-      119
-    ],
-    [
-      "Australia",
-      115
+      153
     ],
     [
       "Italy",
-      110
+      153
+    ],
+    [
+      "South Korea",
+      152
+    ],
+    [
+      "Nigeria",
+      123
+    ],
+    [
+      "Spain",
+      122
     ]
   ],
   "topCities": [
     [
       "Tokyo",
-      2782
+      3429
     ],
     [
       "Silicon Valley",
-      1643
+      2235
     ],
     [
       "New York City",
@@ -118,7 +118,7 @@
     ],
     [
       "London",
-      308
+      316
     ],
     [
       "San Francisco",
@@ -126,49 +126,49 @@
     ],
     [
       "Los Angeles",
-      137
+      144
+    ],
+    [
+      "Paris",
+      132
     ],
     [
       "Boston",
       123
     ],
     [
-      "Chicago",
-      114
+      "Seattle",
+      119
     ],
     [
-      "Seattle",
-      110
+      "Chicago",
+      114
     ],
     [
       "Austin",
       110
     ],
     [
-      "Paris",
-      109
+      "Alberta",
+      107
     ],
     [
       "Toronto",
       100
     ],
     [
-      "Alberta",
-      87
+      "Singapore",
+      90
     ],
     [
       "Brooklyn",
       85
-    ],
-    [
-      "Boulder",
-      81
     ]
   ],
   "byRegion": [
     [
       "Americas",
-      5667
+      6293
     ],
     [
       "United States of America",
@@ -176,7 +176,11 @@
     ],
     [
       "Asia",
-      2995
+      3763
+    ],
+    [
+      "EMEA",
+      1084
     ],
     [
       "Europe",
@@ -185,10 +189,6 @@
     [
       "North America",
       902
-    ],
-    [
-      "EMEA",
-      802
     ],
     [
       "Middle East & Africa",
@@ -586,7 +586,7 @@
   "topPrograms": [
     [
       "Plug and Play",
-      5508
+      7185
     ],
     [
       "500 Global",
@@ -648,7 +648,7 @@
   "topIndustries": [
     [
       "Fintech",
-      2860
+      3029
     ],
     [
       "AI",
@@ -687,6 +687,14 @@
       694
     ],
     [
+      "Health & Longevity",
+      691
+    ],
+    [
+      "Insurtech",
+      687
+    ],
+    [
       "Health",
       663
     ],
@@ -695,36 +703,28 @@
       635
     ],
     [
-      "Insurtech",
-      561
+      "Deeptech",
+      634
     ],
     [
-      "Deeptech",
-      531
+      "Brand & Retail",
+      593
+    ],
+    [
+      "Energy",
+      579
+    ],
+    [
+      "Mobility & Physical AI",
+      552
     ],
     [
       "Healthtech",
       483
     ],
     [
-      "Brand & Retail",
-      474
-    ],
-    [
-      "Energy",
-      443
-    ],
-    [
-      "Mobility & Physical AI",
-      409
-    ],
-    [
       "Supply Chain",
-      406
-    ],
-    [
-      "Climate tech",
-      403
+      474
     ]
   ]
 }

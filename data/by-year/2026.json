@@ -192,7 +192,9 @@
       "country": "United Kingdom"
     },
     "country": "United Kingdom",
-    "alsoIn": []
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
     "id": "techstars-simicx",
@@ -3128,7 +3130,9 @@
       "country": "United States"
     },
     "country": "United States",
-    "alsoIn": []
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
     "id": "techstars-dicetech",
@@ -4223,7 +4227,8 @@
     },
     "country": "United States",
     "alsoIn": [
-      "antler"
+      "antler",
+      "plugandplay"
     ]
   },
   {
@@ -17043,7 +17048,9 @@
     },
     "extra": {},
     "country": "Denmark",
-    "alsoIn": []
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
     "id": "yc-alchemize",
@@ -22139,7 +22146,9 @@
     },
     "extra": {},
     "country": "United States",
-    "alsoIn": []
+    "alsoIn": [
+      "plugandplay"
+    ]
   },
   {
     "id": "yc-floracene",
@@ -39230,45 +39239,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-renna-health",
-    "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mutaz Musa**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-luce-labs",
     "source": "alchemist",
     "name": "Luce Labs",
@@ -39296,6 +39266,45 @@
       },
       {
         "name": "James Russell**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-renna-health",
+    "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mutaz Musa**",
         "role": "",
         "linkedin": ""
       }
