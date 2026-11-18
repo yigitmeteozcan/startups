@@ -15,7 +15,7 @@
 const fs = require('fs');
 const path = require('path');
 const { fetchWithTimeout } = require('../http');
-const { addHttps, collapseSpaces } = require('../normalize');
+const { addHttps, collapseSpaces, stripUrlSignature } = require('../normalize');
 
 const BATCH = Number(process.env.YC_FOUNDER_BATCH || 400);
 const CONCURRENCY = Number(process.env.YC_FOUNDER_CONCURRENCY || 3);
@@ -112,13 +112,23 @@ function toFounder(o) {
   const github = socialUrl(pick('github_url', 'githubUrl', 'github') || linkFor(/github\.com/i), 'github.com');
   const website = addHttps(pick('personal_url', 'personalUrl', 'website_url', 'websiteUrl', 'website', 'homepage'));
   const bio = pick('founder_bio', 'bio', 'description');
-  const avatar = addHttps(pick('avatar_thumb_url', 'avatar_url', 'avatarUrl', 'image'));
+  const avatar = stripUrlSignature(addHttps(pick('avatar_thumb_url', 'avatar_url', 'avatarUrl', 'image')));
   if (twitter) f.twitter = twitter;
   if (github) f.github = github;
   if (website) f.website = website;
   if (bio) f.bio = bio.slice(0, 600);
   if (avatar) f.avatar = avatar;
   return f;
+}
+
+// Field names (never values) of the founder objects on a page — logged once
+// per run so it is visible which profile details the source offers.
+function founderFieldNames(html) {
+  const candidates = [];
+  for (const blob of jsonBlobs(String(html || ''))) findFounderArrays(blob, '', 0, candidates);
+  if (!candidates.length) return [];
+  candidates.sort((a, b) => b.score - a.score || b.people.length - a.people.length);
+  return [...new Set(candidates[0].people.flatMap((p) => Object.keys(p)))].sort();
 }
 
 // Parse a YC company page into founder objects (empty array if none found).
@@ -218,6 +228,7 @@ async function enrichYcFounders(
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const html = await res.text();
         const founders = extractFounders(html);
+        if (founders.length && !stats.fields) stats.fields = founderFieldNames(html);
         stats.checked++;
         consecutiveFailures = 0;
         if (founders.length) {
@@ -249,7 +260,8 @@ async function enrichYcFounders(
   );
   if (consecutiveFailures >= 25) onLog('    ⚠️  stopped early after 25 failures in a row (blocked or site change?)');
   for (const e of stats.empty) onLog(`    ↳ no founders found on ${e}`);
+  if (stats.fields) onLog(`    ↳ founder fields offered by YC: ${stats.fields.join(', ')}`);
   return stats;
 }
 
-module.exports = { enrichYcFounders, extractFounders, mergeFounders, pickBatch, describePage, slugOf };
+module.exports = { enrichYcFounders, extractFounders, founderFieldNames, mergeFounders, pickBatch, describePage, slugOf };

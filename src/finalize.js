@@ -8,7 +8,7 @@
 //   + country  normalized country ("USA" / "UNITED STATES" -> "United States")
 //   + alsoIn   other portfolios the same company (same website) appears in
 
-const { addHttps, cleanTags, collapseSpaces, splitFounderNames } = require('./normalize');
+const { addHttps, cleanTags, collapseSpaces, splitFounderNames, stripUrlSignature } = require('./normalize');
 const { deriveCountry } = require('./data/countries');
 const { isKnownUnicorn, domainOf } = require('./data/unicorns');
 
@@ -71,6 +71,7 @@ function repairFounders(founders, source) {
         role: collapseSpaces(base.role),
         linkedin: names.length === 1 ? addHttps(base.linkedin) : '',
       };
+      if (entry.avatar) entry.avatar = stripUrlSignature(entry.avatar);
       const prev = byName.get(name.toLowerCase());
       if (prev && !(prev.linkedin && entry.linkedin && prev.linkedin !== entry.linkedin)) {
         if (!prev.linkedin) prev.linkedin = entry.linkedin;

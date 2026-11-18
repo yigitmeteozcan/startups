@@ -3,6 +3,7 @@ const path = require('path');
 const { buildWorkbook } = require('./excel');
 const { renderReadme } = require('./readme');
 const { finalizeCompanies, slugify } = require('./finalize');
+const { buildGeo } = require('./geo');
 
 // jsDelivr refuses to serve files larger than 20 MB, so all.json is written
 // compactly (no indentation — identical JSON content) and every file is checked
@@ -286,6 +287,10 @@ function writeDataset(
 
   // Stats (JSON + Markdown).
   const stats = computeStats(companies);
+
+  // Places for the globe view (skipped if the geocoding data isn't installed).
+  const geo = buildGeo(companies, { generatedAt: stats.generatedAt });
+  if (geo) writeJson(path.join(base, 'geo.json'), geo, { compact: true });
   writeJson(path.join(base, 'stats.json'), stats);
   fs.writeFileSync(path.resolve(rootDir, 'STATS.md'), renderStatsMarkdown(stats));
 
@@ -389,6 +394,7 @@ function buildMeta({ counts, groupIndexes, generatedAt, bySource = {}, status = 
       bCorps: { count: counts.bCorps, api: url('b-corps.json') },
       current: { count: counts.current, api: url('current.json') },
       stats: { api: url('stats.json') },
+      ...(fs.existsSync(path.join(dataDir || '', 'geo.json')) ? { geo: { api: url('geo.json') } } : {}),
     },
     collections: {
       'by-source': collection('by-source'),

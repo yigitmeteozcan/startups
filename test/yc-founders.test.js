@@ -105,3 +105,11 @@ test('enrichment updates YC records and saves progress', async () => {
   const state = JSON.parse(fs.readFileSync(path.join(root, 'data', '_state', 'yc-founders.json'), 'utf8'));
   assert.deepEqual(state, { memorable: { checkedAt: '2026-11-18', found: 2 } });
 });
+
+test('expiring signed photo URLs are stored as stable public URLs', () => {
+  const signed = 'https://bookface-images.s3.us-west-2.amazonaws.com/avatars/abc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=x&X-Amz-Expires=3600&X-Amz-Signature=deadbeef';
+  const page = `<div data-page="${escapeAttr({ props: { company: { founders: [{ full_name: 'A B', title: 'CEO', avatar_thumb_url: signed }] } } })}"></div>`;
+  assert.equal(extractFounders(page)[0].avatar, 'https://bookface-images.s3.us-west-2.amazonaws.com/avatars/abc.jpg');
+  const { repairFounders } = require('../src/finalize');
+  assert.equal(repairFounders([{ name: 'A B', avatar: signed }], 'yc')[0].avatar, 'https://bookface-images.s3.us-west-2.amazonaws.com/avatars/abc.jpg');
+});

@@ -7,8 +7,10 @@
   Strict CSP: only our own script/styles run; data is fetched from GitHub /
   jsDelivr; SheetJS is the only third-party script and is loaded on demand
   when someone clicks "Export Excel". Scraped data can never inject script.
+  The four style hashes are the exact <style> blocks the self-hosted globe.gl
+  injects (tooltip / container CSS); nothing else inline is allowed.
 -->
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' https://cdn.sheetjs.com; style-src 'self'; img-src https: data:; connect-src https://raw.githubusercontent.com https://cdn.jsdelivr.net; base-uri 'none'; form-action 'none'; upgrade-insecure-requests" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' https://cdn.sheetjs.com; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-GRFgt45UbKYCV14/Fqy6H9EB3zlAwSnH4xbsYt03Q6M=' 'sha256-9xjtvxMT1ApHlgn9ohbh2FNfvK5Tqtzy94BjfXBeMSY=' 'sha256-yfc2FhpkFR0EAy3T+zDsaAFGXSP9B3ELNvaJKDzNhkk='; img-src https: data:; connect-src https://raw.githubusercontent.com https://cdn.jsdelivr.net; base-uri 'none'; form-action 'none'; upgrade-insecure-requests" />
 <meta name="referrer" content="strict-origin-when-cross-origin" />
 <meta name="color-scheme" content="dark light" />
 <title>Startup Portfolios Explorer — 20,000+ accelerator-backed startups</title>
@@ -96,6 +98,14 @@
 </header>
 
 <main class="wrap">
+  <div class="view-row">
+    <div class="view-switch" role="group" aria-label="View">
+      <button type="button" class="seg" id="view-list" aria-pressed="true">☰ List</button>
+      <button type="button" class="seg" id="view-globe" aria-pressed="false">🌍 Globe</button>
+    </div>
+    <button type="button" class="place-pill" id="place-pill" hidden aria-label="Clear location filter"></button>
+  </div>
+
   <div class="toolbar">
     <div class="toolbar-left">
       <input type="checkbox" class="cb" id="cb-all" />
@@ -108,6 +118,21 @@
       <button type="button" class="btn" id="btn-clear" disabled>✕ Clear<span class="hide-sm">selection</span></button>
     </div>
   </div>
+
+  <section class="globe-view" id="globe-view" hidden aria-label="Globe of startup locations">
+    <div class="globe-wrap">
+      <div id="globe"></div>
+      <div class="globe-status" id="globe-status">Loading globe…</div>
+      <div class="globe-hint">Drag to spin · scroll or pinch to zoom · click a point</div>
+    </div>
+    <aside class="globe-panel" aria-live="polite">
+      <h2 id="gp-title">Startups around the world</h2>
+      <p class="gp-sub" id="gp-sub"></p>
+      <div id="gp-places" class="gp-places"></div>
+      <div id="gp-list" class="gp-list"></div>
+      <button type="button" class="btn" id="gp-show" hidden>Show all in the list →</button>
+    </aside>
+  </section>
 
   <div class="list" id="results" tabindex="-1">
     <div class="loading" id="loading">Loading companies…</div>

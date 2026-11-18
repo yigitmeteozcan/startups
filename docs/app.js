@@ -21,6 +21,10 @@
   const SELECTS = ["source", "country", "region", "industry", "yearFrom", "yearTo", "sort"];
 
   let companies = [];
+  let view = "list";      // "list" | "globe"
+  let place = "";         // geo.json point key, e.g. "us/san-francisco"
+  let geo = null;         // data/geo.json
+  let idToPoint = null;   // company id -> geo point
   let haystacks = [];
   let filtered = [];
   let page = 0;
@@ -98,7 +102,9 @@
       renderStats(stats);
       buildFilters();
       readUrl();
+      if (place || view === "globe") await ensureGeo().catch(() => {});
       apply({ keepPage: true });
+      showView(view);
     } catch (err) {
       const list = $("results");
       list.replaceChildren(
@@ -155,7 +161,7 @@
 
   function activeFilterCount() {
     const s = state();
-    return SELECTS.filter((id) => id !== "sort" && s[id]).length + FLAGS.filter((f) => s[f]).length;
+    return SELECTS.filter((id) => id !== "sort" && s[id]).length + FLAGS.filter((f) => s[f]).length + (place ? 1 : 0);
   }
 
   function apply({ keepPage = false } = {}) {
@@ -179,6 +185,10 @@
       if (flags.isExit && !c.isExit) return false;
       if (flags.isBCorp && !c.isBCorp) return false;
       if (flags.hasFounders && !(c.founders || []).length) return false;
+      if (place && idToPoint) {
+        const pt = idToPoint.get(c.id);
+        if (!pt || pt.key !== place) return false;
+      }
       return true;
     });
     sortFiltered(s.sort);
@@ -188,7 +198,12 @@
     const n = activeFilterCount();
     $("filters-count").hidden = n === 0;
     $("filters-count").textContent = String(n);
+    const pill = $("place-pill");
+    const pt = place && geo ? geo.points.find((x) => x.key === place) : null;
+    pill.hidden = !pt;
+    pill.textContent = pt ? `📍 ${pt.place}` : "";
     render();
+    if (view === "globe") updateGlobe();
   }
 
   function sortFiltered(mode) {
@@ -219,6 +234,8 @@
     }
     for (const f of FLAGS) setFlag(f, p.get(f) === "1");
     page = Math.max(0, (parseInt(p.get("page"), 10) || 1) - 1);
+    view = p.get("view") === "globe" ? "globe" : "list";
+    place = (p.get("place") || "").slice(0, 120);
   }
 
   function writeUrl(push) {
@@ -227,6 +244,8 @@
     if (s.q) p.set("q", s.q);
     for (const id of SELECTS) if (s[id]) p.set(id, s[id]);
     for (const f of FLAGS) if (s[f]) p.set(f, "1");
+    if (place) p.set("place", place);
+    if (view === "globe") p.set("view", "globe");
     if (page > 0) p.set("page", String(page + 1));
     const qs = p.toString();
     const url = `${location.pathname}${qs ? `?${qs}` : ""}`;
@@ -234,9 +253,11 @@
     history[push ? "pushState" : "replaceState"](null, "", url);
   }
 
-  window.addEventListener("popstate", () => {
+  window.addEventListener("popstate", async () => {
     readUrl();
+    if (place || view === "globe") await ensureGeo().catch(() => {});
     apply({ keepPage: true });
+    showView(view);
   });
 
   function setFlag(f, on) {
@@ -326,7 +347,9 @@
       extLink(soc.crunchbase, "Crunchbase", `${c.name} on Crunchbase`),
     ].filter(Boolean);
 
-    const place = [c.location, c.country && !String(c.location || "").includes(c.country) ? c.country : ""].filter(Boolean).join(", ");
+    // Locations like "San Francisco, CA, USA" already name the country.
+    const loc = String(c.location || "");
+    const place = loc && (loc.includes(",") || !c.country || loc.includes(c.country)) ? loc : [loc, c.country].filter(Boolean).join(", ");
     const meta = h("div", { class: "meta" },
       c.source && h("span", { class: "chip chip-src", title: sourceLabel(c.source) }, SOURCE_SHORT[c.source] || c.source),
       (c.alsoIn || []).map((s) => h("span", { class: "chip chip-also", title: `Also in the ${sourceLabel(s)} portfolio` }, `also ${SOURCE_SHORT[s] || s}`)),
@@ -513,7 +536,7 @@
   // ── Pagination ─────────────────────────────────────────────────────────────────
   function renderPager() {
     const pages = Math.max(1, Math.ceil(filtered.length / PER_PAGE));
-    $("pager").hidden = filtered.length <= PER_PAGE;
+    $("pager").hidden = view === "globe" || filtered.length <= PER_PAGE;
     $("page-total").textContent = pages.toLocaleString();
     $("page-input").max = String(pages);
     $("page-input").value = String(page + 1);
@@ -538,6 +561,212 @@
   $("last").addEventListener("click", () => goTo(Infinity));
   $("page-input").addEventListener("change", (e) => goTo((parseInt(e.target.value, 10) || 1) - 1));
 
+  // ── Globe ───────────────────────────────────────────────────────────────────
+  // data/geo.json groups company ids by place (city, or country centre when the
+  // city is unknown). globe.gl is self-hosted and loaded only on first use.
+  let geoPromise = null;
+  let globe = null;
+  let globePromise = null;
+  let selectedKey = "";
+  let globePoints = [];
+
+  function ensureGeo() {
+    if (!geoPromise) {
+      geoPromise = getJson("geo.json").then((g) => {
+        geo = g;
+        idToPoint = new Map();
+        for (const pt of g.points) for (const id of pt.ids) idToPoint.set(id, pt);
+        return g;
+      });
+      geoPromise.catch(() => { geoPromise = null; });
+    }
+    return geoPromise;
+  }
+
+  function loadScript(src) {
+    return new Promise((resolve, reject) => {
+      const s = document.createElement("script");
+      s.src = src;
+      s.onload = resolve;
+      s.onerror = () => reject(new Error(`Could not load ${src}`));
+      document.head.append(s);
+    });
+  }
+
+  function webglAvailable() {
+    try {
+      const c = document.createElement("canvas");
+      return !!(window.WebGLRenderingContext && (c.getContext("webgl") || c.getContext("experimental-webgl")));
+    } catch (_) {
+      return false;
+    }
+  }
+
+  // Tooltip text is rendered as HTML by globe.gl, so escape everything.
+  const escHtml = (v) => String(v).replace(/[&<>"']/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
+
+  function ensureGlobe() {
+    if (globePromise) return globePromise;
+    const status = $("globe-status");
+    globePromise = (async () => {
+      await ensureGeo();
+      if (!webglAvailable()) throw new Error("Your browser can't show the 3D globe (WebGL is off). The list of places on the right still works.");
+      if (!window.Globe) await loadScript("vendor/globe.gl.min.js");
+      const el = $("globe");
+      globe = window.Globe({ animateIn: true })(el)
+        .globeImageUrl("vendor/earth-dark.jpg")
+        .backgroundColor("rgba(0,0,0,0)")
+        .showAtmosphere(true)
+        .atmosphereColor("#58a6ff")
+        .atmosphereAltitude(0.17)
+        .pointLat("lat")
+        .pointLng("lng")
+        .pointAltitude((d) => 0.006 + Math.min(0.32, Math.log10(d.count + 1) * 0.07))
+        .pointRadius((d) => Math.min(1.15, 0.2 + Math.sqrt(d.count) * 0.022))
+        .pointColor((d) => (d.key === selectedKey ? "#ffffff" : d.precision === "city" ? "#58a6ff" : "#d29922"))
+        .pointLabel((d) =>
+          `<b>${escHtml(d.place)}</b><br>${d.count.toLocaleString()} startup${d.count === 1 ? "" : "s"}` +
+          (d.precision === "country" ? "<br><small>City unknown — shown at the country centre</small>" : ""))
+        .onPointClick((d) => selectPlace(d.key, { fly: true }))
+        .width(el.clientWidth)
+        .height(el.clientHeight);
+      globe.pointOfView({ lat: 28, lng: -40, altitude: 2.3 }, 0);
+      const controls = globe.controls();
+      controls.autoRotate = true;
+      controls.autoRotateSpeed = 0.35;
+      controls.addEventListener("start", () => { controls.autoRotate = false; });
+      window.addEventListener("resize", () => {
+        if (globe && view === "globe") globe.width(el.clientWidth).height(el.clientHeight);
+      });
+      status.hidden = true;
+      return globe;
+    })();
+    globePromise.catch((err) => {
+      status.hidden = false;
+      status.textContent = err.message;
+      globePromise = null;
+    });
+    return globePromise;
+  }
+
+  // Aggregate the currently filtered companies per place.
+  function placeCounts() {
+    const byKey = new Map();
+    let unplaced = 0;
+    for (const c of filtered) {
+      const pt = idToPoint && idToPoint.get(c.id);
+      if (!pt) { unplaced++; continue; }
+      const e = byKey.get(pt.key) || { key: pt.key, place: pt.place, lat: pt.lat, lng: pt.lng, precision: pt.precision, count: 0 };
+      e.count++;
+      byKey.set(pt.key, e);
+    }
+    return { points: [...byKey.values()].sort((a, b) => b.count - a.count), unplaced };
+  }
+
+  function updateGlobe() {
+    if (!geo) {
+      ensureGeo().then(updateGlobe, () => {
+        $("globe-status").hidden = false;
+        $("globe-status").textContent = "Couldn't load the map data.";
+      });
+      return;
+    }
+    const { points, unplaced } = placeCounts();
+    globePoints = points;
+    if (globe) globe.pointsData(points);
+    if (selectedKey && points.some((p) => p.key === selectedKey)) selectPlace(selectedKey);
+    else renderOverview(points, unplaced);
+  }
+
+  function renderOverview(points, unplaced) {
+    selectedKey = "";
+    const total = points.reduce((n, p) => n + p.count, 0);
+    $("gp-title").textContent = "Startups around the world";
+    $("gp-sub").textContent =
+      `${total.toLocaleString()} startups in ${points.length.toLocaleString()} places` +
+      (unplaced ? ` · ${unplaced.toLocaleString()} without a known location` : "") +
+      ". Blue = city, amber = country (city unknown).";
+    $("gp-places").replaceChildren(
+      ...points.slice(0, 15).map((p) => {
+        const b = h("button", { type: "button", class: "gp-place" }, h("span", {}, p.place), h("span", {}, p.count.toLocaleString()));
+        b.addEventListener("click", () => selectPlace(p.key, { fly: true }));
+        return b;
+      })
+    );
+    $("gp-list").replaceChildren();
+    $("gp-show").hidden = true;
+    if (globe) globe.pointsData(globePoints);
+  }
+
+  function selectPlace(key, { fly = false } = {}) {
+    const pt = globePoints.find((p) => p.key === key);
+    if (!pt) return;
+    selectedKey = key;
+    const here = filtered.filter((c) => { const g = idToPoint.get(c.id); return g && g.key === key; });
+    $("gp-title").textContent = pt.place;
+    $("gp-sub").textContent =
+      `${here.length.toLocaleString()} startup${here.length === 1 ? "" : "s"}` +
+      (pt.precision === "country" ? " · city unknown, shown at the country centre" : "");
+    const back = h("button", { type: "button", class: "gp-place" }, h("span", {}, "← All places"), h("span", {}, ""));
+    back.addEventListener("click", () => { renderOverview(globePoints, placeCounts().unplaced); });
+    $("gp-places").replaceChildren(back);
+    $("gp-list").replaceChildren(
+      ...here.slice(0, 40).map((c) => {
+        const href = safeUrl(c.website);
+        const body = [c.name, h("small", {}, [SOURCE_SHORT[c.source] || c.source, c.year, c.description].filter(Boolean).join(" · "))];
+        return href
+          ? h("a", { class: "gp-co", href, target: "_blank", rel: "noopener noreferrer" }, ...body)
+          : h("div", { class: "gp-co" }, ...body);
+      })
+    );
+    const show = $("gp-show");
+    show.hidden = false;
+    show.textContent = here.length > 40 ? `Show all ${here.length.toLocaleString()} in the list →` : "Show in the list →";
+    if (globe) {
+      globe.pointsData(globePoints);
+      if (fly) {
+        globe.controls().autoRotate = false;
+        globe.pointOfView({ lat: pt.lat, lng: pt.lng, altitude: 1.5 }, 900);
+      }
+    }
+  }
+
+  function showView(v) {
+    view = v === "globe" ? "globe" : "list";
+    $("view-list").setAttribute("aria-pressed", view === "list" ? "true" : "false");
+    $("view-globe").setAttribute("aria-pressed", view === "globe" ? "true" : "false");
+    $("globe-view").hidden = view !== "globe";
+    $("results").hidden = view === "globe";
+    $("cb-all").closest(".toolbar-left").style.visibility = view === "globe" ? "hidden" : "";
+    $("pager").hidden = view === "globe" || filtered.length <= PER_PAGE;
+    if (view === "globe") {
+      ensureGlobe().then(() => {
+        const el = $("globe");
+        globe.width(el.clientWidth).height(el.clientHeight);
+        updateGlobe();
+      }, () => updateGlobe());
+    }
+  }
+
+  $("view-list").addEventListener("click", () => { showView("list"); writeUrl(true); });
+  $("view-globe").addEventListener("click", () => {
+    showView("globe");
+    writeUrl(true);
+    $("globe-view").scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+  $("gp-show").addEventListener("click", () => {
+    place = selectedKey;
+    showView("list");
+    apply();
+    writeUrl(true);
+    $("results").scrollIntoView({ block: "start" });
+  });
+  $("place-pill").addEventListener("click", () => {
+    place = "";
+    apply();
+    writeUrl(true);
+  });
+
   // ── Event wiring ──────────────────────────────────────────────────────────────
   let t;
   $("q").addEventListener("input", () => {
@@ -552,6 +781,7 @@
     writeUrl(true);
   }));
   $("reset").addEventListener("click", () => {
+    place = "";
     $("q").value = "";
     for (const id of SELECTS) $(id).value = "";
     for (const f of FLAGS) setFlag(f, false);

@@ -49,6 +49,14 @@ function isPlausibleCompany(c) {
   );
 }
 
+// Pre-signed S3 links (YC founder photos) expire after an hour; the same
+// object is publicly readable without the signature, so store the stable URL.
+function stripUrlSignature(url) {
+  const u = String(url || '');
+  if (!/[?&]X-Amz-(Signature|Credential|Algorithm)=/i.test(u)) return u;
+  return u.split('?')[0];
+}
+
 function collapseSpaces(s) {
   return String(s == null ? '' : s).replace(/\s+/g, ' ').trim();
 }
@@ -192,4 +200,5 @@ module.exports = {
   isPlausibleCompany,
   collapseSpaces,
   splitFounderNames,
+  stripUrlSignature,
 };
