@@ -75,7 +75,8 @@ function writeGithubSummary(metaSources, stale, stats) {
       ? `**⚠️ Not fetched live for ${STALE_ALERT_DAYS}+ days:** ${stale.map((s) => s.label || s.name).join(', ')}. ` +
         `Their committed records were kept.\n`
       : 'All sources are fresh.\n') +
-    (stats.warnings.length ? `\n${stats.warnings.map((w) => `- ⚠️ ${w}`).join('\n')}\n` : '');
+    (stats.warnings.length ? `\n${stats.warnings.map((w) => `- ⚠️ ${w}`).join('\n')}\n` : '') +
+    ((stats.notes || []).length ? `\n${stats.notes.map((n) => `- ℹ️ ${n}`).join('\n')}\n` : '');
   fs.appendFileSync(file, md);
 }
 
@@ -113,6 +114,7 @@ async function main() {
     `   Unicorns: ${stats.unicorns} · Exits: ${stats.exits} · B Corps: ${stats.bCorps} · Founders: ${stats.founders}`
   );
   for (const w of stats.warnings) console.log(`::warning::${w}`);
+  for (const n of stats.notes || []) console.log(`   ℹ️  ${n}`);
 
   const stale = staleSources(stats.sources);
   for (const s of stale) {

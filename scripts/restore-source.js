@@ -88,6 +88,7 @@ async function main() {
   await writeXlsx(merged, path.join(root, 'data', 'all.xlsx'));
   console.log(`✅ Dataset rebuilt: ${stats.total} companies.`);
   for (const w of stats.warnings) console.log(`⚠️  ${w}`);
+  for (const n of stats.notes || []) console.log(`ℹ️  ${n}`);
 }
 
 main().catch((err) => {

@@ -19,6 +19,7 @@ async function main() {
   await writeXlsx(companies, path.join(root, 'data', 'all.xlsx'));
   console.log(`✅ Rebuilt data/ from committed data (${stats.total} companies, no network).`);
   for (const w of stats.warnings) console.log(`⚠️  ${w}`);
+  for (const n of stats.notes || []) console.log(`ℹ️  ${n}`);
 }
 
 main().catch((err) => {

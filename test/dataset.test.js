@@ -92,3 +92,11 @@ test('CSV keeps the original 22 columns first and neutralizes formulas', () => {
   assert.equal(csvSafe('@handle'), "'@handle");
   assert.equal(csvSafe('Normal'), 'Normal');
 });
+
+test('a small dataset raises no size warnings or notes', () => {
+  // all.json over jsDelivr's 20 MB limit is served from GitHub automatically,
+  // so it is only a note; warnings are reserved for GitHub's 100 MB limit.
+  const stats = writeDataset([company({})], { rootDir: tmpRoot() });
+  assert.deepEqual(stats.warnings, []);
+  assert.deepEqual(stats.notes, []);
+});

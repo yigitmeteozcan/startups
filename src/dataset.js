@@ -9,7 +9,11 @@ const { buildGeo } = require('./geo');
 // compactly (no indentation — identical JSON content) and every file is checked
 // against this limit after writing.
 const CDN_FILE_LIMIT = 20 * 1024 * 1024;
-const SIZE_WARN_AT = 19 * 1024 * 1024;
+// Files over the CDN limit are linked from raw.githubusercontent.com instead
+// (see CDN_SAFE_BYTES), so that is only worth a note. GitHub itself rejects
+// files over 100 MB — that is the one size that needs a person to act.
+const GITHUB_FILE_LIMIT = 100 * 1024 * 1024;
+const SIZE_WARN_AT = 90 * 1024 * 1024;
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
@@ -316,21 +320,29 @@ function writeDataset(
   // Keep README counts/tables in sync with the data.
   fs.writeFileSync(path.resolve(rootDir, 'README.md'), renderReadme(meta, stats));
 
-  // Size guard for the CDN.
+  // Size guard: notes for files served from GitHub instead of the CDN,
+  // warnings only when a file approaches GitHub's own hard limit.
   const warnings = [];
+  const notes = [];
   for (const f of ['all.json', 'all.csv', 'all.xlsx', 'exits.json']) {
     const p = path.join(base, f);
     if (!fs.existsSync(p)) continue;
     const size = fs.statSync(p).size;
+    const mb = (size / 1048576).toFixed(1);
     if (size > SIZE_WARN_AT) {
       warnings.push(
-        `${f} is ${(size / 1048576).toFixed(1)} MB — jsDelivr will not serve files over ` +
-          `${CDN_FILE_LIMIT / 1048576} MB (raw.githubusercontent.com still works).`
+        `${f} is ${mb} MB — GitHub rejects files over ${GITHUB_FILE_LIMIT / 1048576} MB; ` +
+          'slim or split it before the next pushes fail.'
+      );
+    } else if (size > CDN_SAFE_BYTES) {
+      notes.push(
+        `${f} is ${mb} MB (over jsDelivr's ${CDN_FILE_LIMIT / 1048576} MB limit), ` +
+          'so meta.json and the README link it from raw.githubusercontent.com.'
       );
     }
   }
 
-  return { ...stats, warnings, pruned, sources: meta.sources };
+  return { ...stats, warnings, notes, pruned, sources: meta.sources };
 }
 
 // Build the endpoint catalog. Every entry carries a ready-to-use CDN URL.
