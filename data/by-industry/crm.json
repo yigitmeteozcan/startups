@@ -547,7 +547,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Fatma Akcay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/fatmaakcay/",
+        "bio": "founder Struct",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48f9285aa2bcfc33821d8956e5abc124da16871d.jpg",
+        "active": false
+      },
+      {
+        "name": "Eamonn Gahan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gahan/",
+        "bio": "Worked at various UK Startups and Intercom both as an IC and EM.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9fd67dfdfeeeb8f3ba19e7f121e29685b78aa108.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -584,7 +601,27 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Félix Malfait",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/fmalfait",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2b878524533890bc68132faada3f1b55e5a7d8b8.jpg"
+      },
+      {
+        "name": "Charles Bochet",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/charlesbochet",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c6a7f0e702a26a9189d2eed9e52c5479f59b6cf.jpg"
+      },
+      {
+        "name": "Thomas des Francs",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tdesfrancs/",
+        "twitter": "https://x.com/thomasdesfrancs/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c3fb5828608322f1242741bfd497cc541c02439.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

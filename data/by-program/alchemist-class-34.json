@@ -626,13 +626,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-modaltrans",
+    "id": "alchemist-coursefactory",
     "source": "alchemist",
-    "name": "Modaltrans",
-    "description": "Shipment Management and Collaboration Platform for All Stakeholders of the Logistics Industry that Helps them Streamline Daily Operational Tasks and Gain End-to-End Visibility",
+    "name": "CourseFactory",
+    "description": "Connecting humans and AI to create online courses: faster, cheaper and with high quality",
     "logo": "",
     "website": "",
-    "location": "Clifton, NJ, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -647,12 +647,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Salih Cakir",
+        "name": "Taras Pustovoy",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Faruk Celik",
+        "name": "Irina Karpunina",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Gennady Koveshnikov",
         "role": "",
         "linkedin": ""
       }
@@ -711,99 +716,6 @@
       "country": "Israel"
     },
     "country": "Israel",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-livediagrams-inc",
-    "source": "alchemist",
-    "name": "LiveDiagrams, Inc.",
-    "description": "Cloud Operations. Simplified.",
-    "logo": "",
-    "website": "",
-    "location": "San Mateo, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Andrew Lupersolsky",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Yegor Tsynkevich",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-coursefactory",
-    "source": "alchemist",
-    "name": "CourseFactory",
-    "description": "Connecting humans and AI to create online courses: faster, cheaper and with high quality",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Taras Pustovoy",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Irina Karpunina",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Gennady Koveshnikov",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
     "alsoIn": []
   },
   {
@@ -895,6 +807,50 @@
     "alsoIn": []
   },
   {
+    "id": "alchemist-livediagrams-inc",
+    "source": "alchemist",
+    "name": "LiveDiagrams, Inc.",
+    "description": "Cloud Operations. Simplified.",
+    "logo": "",
+    "website": "",
+    "location": "San Mateo, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Andrew Lupersolsky",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yegor Tsynkevich",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "alchemist-sunnybotics-inc",
     "source": "alchemist",
     "name": "Sunnybotics inc",
@@ -922,6 +878,50 @@
       },
       {
         "name": "Santiago Rodriguez**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-modaltrans",
+    "source": "alchemist",
+    "name": "Modaltrans",
+    "description": "Shipment Management and Collaboration Platform for All Stakeholders of the Logistics Industry that Helps them Streamline Daily Operational Tasks and Gain End-to-End Visibility",
+    "logo": "",
+    "website": "",
+    "location": "Clifton, NJ, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Salih Cakir",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Faruk Celik",
         "role": "",
         "linkedin": ""
       }

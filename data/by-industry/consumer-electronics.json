@@ -1428,7 +1428,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Axel Peytavin",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/axel-peytavin",
+        "twitter": "https://x.com/ax_pey",
+        "bio": "CEO @Innate. Former researcher at Stanford HCI, The Ocean Cleanup",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f87ffaf60cfa73031c4d08001d38c77d4b23ac75.jpg"
+      },
+      {
+        "name": "Vignesh Anand",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/vignesh-anand-iitb/",
+        "bio": "Former Stanford robotics graduate student. Former flight sciences intern at Archer. Also built high-powered rockets and underwater robots. Currently building the future of embodied AI with Innate",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7adac2bc127fc7a93bf960286b96991e5463f4df.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

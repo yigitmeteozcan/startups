@@ -471,7 +471,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Divyagnan Kandala",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/divyagnan",
+        "bio": "Love working on developer & productivity tools. Previously was a frontend engineer at Stripe, Uber, and Amazon.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/36ec3c59c903c0eac1b2db7bd13e0bf428ac770b.jpg"
+      },
+      {
+        "name": "TJ Kandala",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tjkandala/",
+        "bio": "Dev and productivity tool builder. Previously was a software engineer at Sourcegraph where I worked on a bunch of extensions (VS Code, Browser, and the Sourcegraph extensions platform).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8f6175c1a9b9996918e59150e5b808e86bbd309c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

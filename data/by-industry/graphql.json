@@ -98,7 +98,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tristan Kalos",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/tkalos",
+        "bio": "Building Escape (YC W23) to help AppSec and Engineering teams secure their Single Page Apps, APIs, and Microservices. Previously ML engineer at source{d} and researcher at UC Berkeley. Passionate about solving complex business problems with creative technology or user experiences.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/974be13b71b658127ab50adf890409c4b115df2e.jpg"
+      },
+      {
+        "name": "Antoine Carossio",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/acarossio",
+        "twitter": "https://twitter.com/icarossio",
+        "bio": "🇫🇷 • Engineer • UC Berkeley • Apple",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a423c0fb183e5b9696de588124a6cbdefe8c2193.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

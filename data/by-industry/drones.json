@@ -883,7 +883,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "James Thomas",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/james0thomas/",
+        "bio": "Co-Founder & CEO at Radical (W23) - Radical makes high altitude solar-powered aircraft. Our aircraft are able to fly continuously in the stratosphere without landing. They provide an inexpensive, zero-emissions way to connect and observe earth like never before. Prior to this I worked at Amazon Prime Air for six years (doing aerodynamics and aircraft design for delivery drones).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0b7c185c49f67aa098d46078a656757ddd68860c.jpg"
+      },
+      {
+        "name": "Cyriel Notteboom",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/cyriel-notteboom/",
+        "bio": "Co-Founder & CTO at Radical (W23) - Radical makes high altitude solar-powered aircraft. Our aircraft are able to fly continuously in the stratosphere without landing. They provide an inexpensive, zero-emissions way to connect and observe earth like never before. Prior to this I worked at Amazon Prime Air for six years (mechanical design, structural analysis and optimization of delivery drones).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/52ba6749c239ca49f3b800e92c8ca7c455d74f72.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

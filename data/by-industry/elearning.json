@@ -1666,7 +1666,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Parth Detroja",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/parthdetroja/",
+        "bio": "Parth Detroja (CEO) is the global bestselling author of Swipe to Unlock and has launched multiple 7 figure courses. He spent the last 4 years as a Product Manager at Facebook where he patented half a dozen AI technologies. He graduated Summa Cum Laude from Cornell University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ae96040e4a04ab90c0f10f4f54d6f82770397abe.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1700,7 +1708,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chris Mansfield",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-mansfield-01/",
+        "twitter": "https://twitter.com/ChrisM_GC",
+        "bio": "Co-founder of GoodCourse, the TikTok-style micro-learning platform used by universities to engage students. Responsible for sales, engineering, and product. Background in sales & product roles at VC-backed B2B SaaS start-ups. Oxford graduate.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/71e2a0fa86a97a7ef2e9cfbd600349fe560d7b56.jpg",
+        "active": false
+      },
+      {
+        "name": "Omar Mughal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/omar-mughal-68588453/",
+        "bio": "Co-Founder at GoodCourse, the TikTok-style micro-learning platform built for today's teams. Prior to GoodCourse I spent +7 years working in early-stage startups in a variety of C-Suite roles, after escaping a 10-year career in banking.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eb274c6994d4415721f1cf221c760d44ec8f8030.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

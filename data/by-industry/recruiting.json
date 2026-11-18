@@ -2209,7 +2209,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abhinav Swaminathan",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/abuswami/",
+        "bio": "Co-founder / CEO @ Astrix Health. Background in economics and computer science. Previously led healthcare distribution and AI projects at Palantir. Before that was at various healthcare organizations working on big data projects, namely Duke Health, MedStar Health, and on the VBC side, Evolent Health.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0c95fff2d738e72fbf7c4689767342d866ac0ef3.jpg",
+        "active": false
+      },
+      {
+        "name": "Thomas Blake",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/thomas-blake-abbba0151/",
+        "bio": "Founder / CTO @ Astrix Health. Studied Applied Maths at Oxford with a focus on Healthcare and Machine Learning. Spent a couple of years at Palantir, building out some of the earliest generative AI workflows in healthcare. Now focusing on using AI to reduce the administrative load on clinics and hospitals.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0b946a940132f93bb2909c8a14a53640d38a6e41.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

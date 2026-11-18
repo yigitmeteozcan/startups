@@ -681,7 +681,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Juan Moliner Malaxechevarría",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/juan-moliner/",
+        "bio": "Spanish-born, Industrial Engineer and ex-BCG.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3bdf46f92ac0b5b127e3059c9b6af2f7bac0295d.jpg"
+      },
+      {
+        "name": "Sam Lown",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/samlown/",
+        "twitter": "https://twitter.com/samlown",
+        "bio": "Software developer. CTO Founder of Cabify, Spain's first tech unicorn.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/beee74cde327c9286e3516be5d25daacaaacb896.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

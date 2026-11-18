@@ -945,7 +945,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Eric Chen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ericchen90/",
+        "bio": "working on www.cakework.com!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ab6f8addc07bcec89848ca31970e5441e18517e4.jpg",
+        "active": false
+      },
+      {
+        "name": "Jessie Young",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jyoung73/",
+        "bio": "CEO of Cakework",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bacd8dfbf932dba178be48e147deb56a5188e65c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -982,7 +999,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kamal Gupta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kkgupta2/",
+        "bio": "Kamal is a Co-Founder & CEO of Omnistrate. He is a repeat founder with an entrepreneurial spirit. Kamal led the engineering for Kafka at Confluent across all channels. During his time, Kafka Cloud revenue grew by 20x. Before that, he led the database engineering for AWS Aurora MySQL, a BB+ dollar business managing MM+ of database nodes. During his period at AWS (2007-2020), he built more than half-a-dozen cloud services at AWS across different domains & providers",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2bdbc295d004c505d91a3663ec8ab3dc6870254d.jpg"
+      },
+      {
+        "name": "Alok Nikhil",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nikhilalok/",
+        "twitter": "https://twitter.com/aloknnikhil",
+        "bio": "Alok comes with deep technical expertise in Serverless, Networking, Performance on the Cloud. He was the original technical author of Aurora Serverless, which revolutionized the data systems space. Within the first year of its introduction, ~50% of hundreds of thousands of Aurora DBs created were on Aurora Serverless. He also scaled networking (packets-per-second) on AWS by 10-15x during his tenure at Cisco, scaled Confluent Cloud by 5x from 4GBps to 20GBps, and Kafka Cloud latencies by 10x.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/933eb8ed887865783271f7d6a4ceef25eccf1973.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1020,7 +1053,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Micah Wylde",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wylde/",
+        "twitter": "https://twitter.com/mwylde",
+        "bio": "Micah was previously tech lead for streaming compute at Splunk and Lyft, where he built real-time data infra powering Lyft's dynamic pricing, ETA, and safety features. He spends his time rock climbing, playing music, and bringing real-time data to companies that can't hire a streaming infra team.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4045d99fbf85dd9b5551c8d3ce5084cfd118be76.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1058,7 +1100,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Neel Master",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/neelmaster1",
+        "twitter": "https://twitter.com/neelmaster",
+        "bio": "CEO of Cedana. Previously CEO/co-founder of Engooden, AI-powered chronic disease management proven to improves outcomes and lower costs for patients (Series B). VP of Corp Development for Petra Systems (predictive smart grid/solar company) scaled from $0-$70M ARR. At TL Ventures ($1.6B VC fund) investing across semi, software and systems. Built a system for large-scale, automated ML and computer vision at MIT CSAIL. Patents and publications in AI, computer vision.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d563c8b75caf8e9bc463baf0be90836b8802c73f.jpg"
+      },
+      {
+        "name": "Niranjan Ravichandra",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/niranjanravichandra",
+        "twitter": "https://x.com/0xnravic",
+        "bio": "Co-founder/CTO at Cedana. Previously Robotics at Shopify. Previously previously Mech/Aero, published in control systems, neuromorphic computing and satellite formation flight.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/537093808141633a595f61b05e15face61dc9b9c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

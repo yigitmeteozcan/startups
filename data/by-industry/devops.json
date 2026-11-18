@@ -980,7 +980,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kyle Galbraith",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kylegalbraith459",
+        "twitter": "https://twitter.com/kylegalbraith",
+        "bio": "Kyle Galbraith is the Co-Founder & CEO of Depot. He and Jacob Gillespie (CTO) built Depot after being faced with the same challenges time and time again surrounding slow CI builds across all generic providers. He is originally from Portland, Oregon but relocated to Montpellier, France in October 2022 to immerse himself in French culture with his wife who is originally from the area.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/97ac9fc9205afdfd9a00a9dd95b589e9cfcae2f3.jpg"
+      },
+      {
+        "name": "Jacob Gillespie",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jacobwgillespie/",
+        "twitter": "https://twitter.com/jacobwgillespie",
+        "bio": "Cofounder and CTO of Depot. US expat living in the UK.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d302e2c98c1cce2705fb9bd496baf2fb19b0339e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1018,7 +1035,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Lu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/max-lu-a881b249/",
+        "bio": "Founder / CEO at Lynx",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/79ad3c95f1f37d0dff46a8d912bafb7a7a2f898f.jpg",
+        "active": false
+      },
+      {
+        "name": "Lydia Ding",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lydia-ding/",
+        "bio": "Founder / COO at Lynx",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/091567207db64e1702fa104875db11a631a42f51.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1057,7 +1091,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matthew Mirman",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/matthewmirman/",
+        "twitter": "https://twitter.com/mmirman",
+        "bio": "Before YC, Matt received his PhD in AI from ETH Zurich in 2022 where he scaled verified machine learning from working on 10 neuron toy nets in hours to 100m neuron nets in milliseconds and invented differentiable abstract interpretation and provable training. Before this, he worked at apple on JS compiler optimizations that saved the world a billion dollars in time wasted waiting for pages to load, and before that got an MS from CMU on meta-programming CoC logic languages.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f8c7b0dfce84c3fc75c64878dd889bf64439c0d.jpg",
+        "active": false
+      },
+      {
+        "name": "James Spoor",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/james-spoor",
+        "twitter": "https://twitter.com/Spoor2709",
+        "bio": "A Generalist, with a passion for learning! After living in multiple countries hustling, building and creating, I ended up in Switzerland diving into the deep tech world where I worked at DeepCode, ml on static analysis which was then acquired by Snyk a cyber security unicorn. A fun fact about me is I was once a professional climber. My superpower is caring deeply and understanding through questions... there will be many questions!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5578b222bbf26bfc932bfdd143434fe50587bbf5.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1094,7 +1147,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexander Bell",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/alec-bell",
+        "bio": "I'm Alec, co-founder and CTO of ThunderPhone. We build AI voice agents that handle real phone calls for businesses. Before that I was the solo founder of SensorSurf (W23), building data infrastructure for robot fleets. More at alexandertbell.com.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e5ee3cf5f0b509875cc9ba48c61552802f76bd1c.jpg",
+        "active": false
+      },
+      {
+        "name": "Noah Epstein",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/noahjepstein/",
+        "twitter": "https://twitter.com/noahjepstein",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/54ad22d9ba93992490cb53742df4f6ef10effe4e.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1132,7 +1202,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nadav Erell",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nadav-erell/",
+        "twitter": "https://twitter.com/nadaverell",
+        "bio": "Experienced Software Engineer and team leader, with a passion for technology, product and strategy. Spent 9 years at Google working on Identity and Authentication, internal Google User Analytics, Notifications infrastructure, and Google Cloud, with multiple roles as TL / Architect. Studied Computer Science and Electrical and Computer Engineering (double degree) at Ben-Gurion University, graduating Summa Cum Laude in both. Served as an Intelligence Analyst in Unit 8200 in the Israeli Army.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/77bd824548fd700e13ef12c5620d8ff8a63df0e4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1469,7 +1548,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nimesh Chakravarthi",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/nimesh-chakravarthi-68238749",
+        "twitter": "https://x.com/nimeshmc",
+        "bio": "Nimesh is a Co-Founder at Struct, building the new way to do oncall. He led the consumer messaging team at LinkedIn, where reduced messaging support volume by >80% by overhauling reliability & observability. He's an EECS Berkeley grad and a real estate agent.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/889b5b0e370cd6d28b3c5d3373c2734925f4c0f0.jpg"
+      },
+      {
+        "name": "Deepan Mehta",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/deepanmehta",
+        "twitter": "https://x.com/meksikanpijha",
+        "bio": "Deepan is building. Previously he spent 4 years as a Sr. PM at LinkedIn, where he launched an AI-powered revamp of messaging, video posting, and messaging stories while driving 10s of millions in ARR. Before that, he launched LiveRamp's first self-serve distribution UXs and APIs. He graduated from Georgia Tech with a BS in computer science and is a Mexican Pizza enthusiast.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1de2aedf852b59725f17ed62e7ba8db7f1eb39d3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1506,7 +1602,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Albert Lam",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/simplyalam",
+        "twitter": "https://x.com/albert_",
+        "bio": "CEO at Ryvn, making cloud and on-prem deployment, monitoring, and management simple. Previously led AI and infrastructure teams at Palantir.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f61743a26b1715c1db12a6ea5c68fe199e4866fc.jpg"
+      },
+      {
+        "name": "Shardool Patel",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/sp97/",
+        "bio": "Building deployment infrastructure to help companies deploy to multi-cloud. Previously led an engineering team at Palantir and helped scale the internal deployment platform to a $20M ARR product.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f49826d81086cce33d2c2d395e7c170ea460ca3e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1544,7 +1656,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bharath Bhat",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/bharathpbhat",
+        "twitter": "https://twitter.com/bharathpbhat",
+        "bio": "Co-founder, CEO at Relvy AI. I enjoy building delightful AI powered software. Previously worked on efficient computer vision/language models for Google Pixel, YouTube and Uber.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2b7c35bb16ab8a02875c2a470ec4c66504134842.jpg"
+      },
+      {
+        "name": "Simranjit Singh",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/simranjit2112",
+        "twitter": "https://x.com/simsingh2112",
+        "bio": "Co-founder and CTO at Relvy. Previously I worked at Microsoft and Amazon on researching and developing SOTA Computer Vision models. I also Co-Founded Vetan, a payroll app that was used by over 30k SMBs. Prior to that I developed distributed systems at Nutanix.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fc723953d8d3041697848249dc33254bdb1ddd5e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

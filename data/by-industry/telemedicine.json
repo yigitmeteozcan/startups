@@ -1130,7 +1130,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeffrey Lange",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/langejeff/",
+        "bio": "Jeffrey is currently the CEO of Scanbase, a seed stage diagnostic scanning API used by at-home test manufacturers. He is a graduate of the Rhode Island School of Design.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/88486d8d8917eb91776d16c6f3b5540f5e751853.jpg"
+      },
+      {
+        "name": "Steve Roger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/steveroger/",
+        "bio": "CTO of Scanbase with 10+ years building enterprise level APIs, and products. Steve holds a degree in CS from UC Berkeley. Ex-LinkedIn.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2ef49967996d38086a75f694673b3814fe366c7b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

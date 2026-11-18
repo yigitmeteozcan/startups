@@ -1800,7 +1800,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jack O'Grady",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jackogrady/",
+        "twitter": "https://mobile.twitter.com/jack_ogrady",
+        "bio": "I build applied machine learning for energy systems. Currently building Atmeto, previously at Rivian building battery data science from the ground up, where I ultimately focused on reinforcement learning for battery optimization in the R1T/R1S.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/044029ca7972f026b79274f3a4bf14405f53265e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1838,7 +1847,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Laporte",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thomaslaporte/",
+        "bio": "Co-founder & CBO at HyLight | My goal is to reduce greenhouse gas emissions. I do that by supporting utilities in taking care of their critical infrastructure (power lines, pipelines, railways etc) and helping them in detecting defects and risks before outages. Thanks to HyLight, our clients replace an old, not adapted solution (helicopter and human based inspections) with a high carbon footprint by our offer (HyLighter based inspection) with zero carbon footprint and no risks for human crews.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/baa91f6567508aa8dbb57a8367c6b92040bcc085.jpg"
+      },
+      {
+        "name": "Martin Bocken",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/martin-bocken/",
+        "bio": "Co-founder & CEO of @HyLight. I'm a doer at heart, my engineering background helped me to launch several entrepreneurial projects. I devote my energy to creating and designing the innovations that will enable us to live in a low-carbon world tomorrow.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fc2a3eb98268019633e365686398888f46b8dfc4.jpg"
+      },
+      {
+        "name": "Josef Rokusek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/josef-rokusek/",
+        "bio": "Co-founder & CTO of @HyLight. With a boundless passion for innovation and a commitment to sustainable solutions, I've dedicated my life to making a difference in the world. My journey began with a solid foundation in mechanical engineering and sustainable energy. This background provided me with the tools to turn my creative ideas into real-world innovations. My mission? Lead the change in reshaping society's approach to technology, making it environmentally friendly.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/555fb088667941d22fbe137c580424eb0139aedf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1873,7 +1904,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Allen Wang",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/allenwang314",
+        "twitter": "https://twitter.com/AllenWang314",
+        "bio": "Allen studied CS & EE and Math at MIT. Before founding Nectar with Katherine, he worked at Scale AI and Google. Talk to Allen about climate, math, or card magic.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5e0c49b46c9b76c69f64f4aa710de5fc3ab319d2.jpg"
+      },
+      {
+        "name": "Katherine He",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/katherine-he",
+        "bio": "Katherine studied computer science and business management at MIT. Previously she's worked at Two Sigma building financial pipelines that move millions of dollars daily. She holds a US record in poetry memorization.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cb198326c4987ca23dabdb5d1ea4048300d71f70.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2290,7 +2337,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kieran White",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/kieran-luke-white",
+        "bio": "Co-Founder & CEO at Mantle, the pit crew for machines and robots. Previously founded Curo (YC F24), the world's largest private EV charging network. Curo scaled to 5,000 stations with Uber, Zoox and Google before acquisition by Inspiration Mobility Group ($415M raised). Before Curo I joined Tesla at 18 as the youngest employee.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7be1f2e4cf0534df456c1bb228513defaf8da7bc.jpg",
+        "active": false
+      },
+      {
+        "name": "Andrew Porter",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/andrew-porter-a10953b4",
+        "twitter": "https://x.com/EnergizedAndrew",
+        "bio": "Andrew Porter co-founded and was CTO of Curo (YC F24, acquired), where he used ML to consolidate parking and charging data and built its marketplace and charging app. At Candle, he builds the mobile app, backend, recommendations, games like Pictionary with AI, and tools for video generation and creator management. Previously, he worked at DraftKings. He holds degrees in mathematics and economics from Occidental College.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/df9c35d2ec3234ecc500bed47cdd216c41ba4963.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

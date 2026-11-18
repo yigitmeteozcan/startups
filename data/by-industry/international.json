@@ -243,7 +243,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Prilutskiy",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/maxprilutskiy",
+        "twitter": "https://twitter.com/maxprilutskiy",
+        "bio": "Max is a co-founder and CEO of Lingo.dev.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b2bf4dde1a3ffd83d232fe5a388e7b3ff6283e46.jpg"
+      },
+      {
+        "name": "Veronica Prilutskaya",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/vrcprl/",
+        "twitter": "https://twitter.com/vrcprl",
+        "bio": "CPO and co-founder of Lingo.dev.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cdaba224c6470b15da00112c10285c1520724cd1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

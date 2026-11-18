@@ -535,7 +535,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Samir Menon",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/samir-menon-27954214b/",
+        "bio": "Worked at Yubico. Wrote ia.cr/2022/368. Stanford CS '19 BS + MS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bf0f53add650620dbd2b4e70d5207b1bfa4dd840.jpg",
+        "active": false
+      },
+      {
+        "name": "Neil Movva",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nmovva/",
+        "bio": "I've spent my whole career making computers go fast, especially for deep learning. I love large scale compute and care deeply about democratizing this power. Previously, I worked on the Apple Neural Engine, and NVIDIA's cuDNN. Stanford '19, BS and MS in EE.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5b0073f3a3a51b304eca2dcfb6a0acff802dc25.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

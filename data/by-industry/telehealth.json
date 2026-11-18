@@ -940,7 +940,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Victor Sadauskas",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/victorsadauskas",
+        "bio": "I'm building Kivo Health - AI-powered virtual care for chronic lung disease. I finished medical residency at Stanford and have seen firsthand how poor access to care can lead to higher acuity illness over time. I'm passionate about using technology to help people stay healthier while reducing healthcare costs.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/85b215df35ba3be276747d6013cdfd721039620a.jpg"
+      },
+      {
+        "name": "Vaughn Koch",
+        "role": "Founder/CTO",
+        "linkedin": "http://linkedin.com/in/vaughnkoch",
+        "twitter": "https://twitter.com/vaughnkoch",
+        "bio": "I'm building Kivo Health: we provide telehealth lung rehab for COPD patients. We just raised our $10m Series A. I'm a serial founder and technologist. I founded Movity in W2010 which exited to Trulia, and have built key tech at both startups and larger companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/73062f5c22131724acce49e0b3d2387e752a1fb3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

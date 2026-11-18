@@ -737,7 +737,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Calvin Chen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/calvinchen-usc/",
+        "twitter": "https://twitter.com/CalvinnChenn",
+        "bio": "Prev YC W23",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a854a6dd005607dfce7ae5aac19a6dd485ba5d76.jpg",
+        "active": false
+      },
+      {
+        "name": "Calix Huang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/calix-huang/",
+        "twitter": "https://twitter.com/calixo888",
+        "bio": "Previously YC W23, now building in AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ca3c7ab16a4a44313790b87d7b3518c55d687649.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

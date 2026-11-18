@@ -250,7 +250,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Govind Chandrasekhar",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/govindchandrasekhar",
+        "twitter": "https://www.twitter.com/govind201",
+        "bio": "Co-founder @ Branch AI (YC S23) | Previously co-founder @ Semantics3 (YC W13, acquired by Hearst Magazines) | ex Machine Learning lead @ Twitter (recommendations)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb54033e2d29b77652f6c478eedc476808bf1918.jpg",
+        "active": false
+      },
+      {
+        "name": "Ishan Agrawal",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ishanagrawal",
+        "twitter": "https://twitter.com/ishanagr",
+        "bio": "Co-founder @ Branch AI (YC S23). Previously Group CTO @ Funding Societies (350M raised, scaled the company from Seed to Series D)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c2b27b14924455009bb079d1a560d26ce1a81ac5.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -689,7 +708,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Finn Mallery",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/finn-m/",
+        "twitter": "https://x.com/fin465",
+        "bio": "Find your perfect customers with a prompt, start free → origami.chat",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d0d2b2bbc262de4cd6ba4c89d37a9e3140e7b3a8.jpg"
+      },
+      {
+        "name": "Kenson Chung",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kenson-chung-837849230/",
+        "bio": "Former CTO of an enterprise sales platform. Engineered research workflows used by sales teams at companies with $1B+ in revenue. CS dropout from UCL.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/01b96ddb8847e1e589d914149f38079a02f04640.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

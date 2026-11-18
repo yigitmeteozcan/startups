@@ -1026,7 +1026,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Samrose Ahmed",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/samrosea",
+        "twitter": "https://twitter.com/AhmedSamrose",
+        "bio": "Hi I'm Samrose, a software engineer by background. I grew up in NYC, went to CMU, and worked at AWS for a few years before starting Matano. I'm especially interested in big data, cloud, and highly available systems. Outside of work, I'm an avid reader.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/52bfc4aa9aa1ac47491681b0e4a44e634a13e971.jpg"
+      },
+      {
+        "name": "Shaeq Ahmed",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shaeq-ahmed",
+        "bio": "Hey! Shaeq is a software engineer who originally hails from New York and loves all things open source, security and big data. He quit his job crunching data for autonomous robots at Amazon to build Matano - an open-source SIEM alternative for security teams on AWS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a79a8d4cc1f220f2fc21e18256f03991d9392f7e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1061,7 +1077,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rob Szumski",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/robszumski/",
+        "twitter": "https://twitter.com/robszumski",
+        "bio": "Rob Szumski is CEO and co-founder of EdgeBit, the security platform that secures your software supply chain by focusing on code that is actually running. EdgeBit simplifies vulnerability management as it cuts through noise that distracts engineers merging code. Rob was an early employee of CoreOS (YC S13) which popularized the immutable operating system and propelled Kubernetes/container tech into the mainstream. CoreOS was acquired by Red Hat in 2018, where Rob was a Director of Product.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/60e818e2ea2e9958d82e367fd34da1797653d7ce.jpg"
+      },
+      {
+        "name": "Eugene Yakubovich",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/eugene-yakubovich-4640604/",
+        "twitter": "https://twitter.com/eyakubovich",
+        "bio": "Eugene is a long time hacker who likes to work at the application / operating systems boundary. In the past, he designed the foundational layers for high-frequency trading, contributed to the container runtimes, and implemented graph algorithms for continent size road networks. Lately he has been on a mission to secure workloads and in 2022 he teamed up with Rob and Russell to tackle the problem, starting with fixing the vulnerability fire hose.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c569124aefb1e5e87e2e6cae1108ec324218e46d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

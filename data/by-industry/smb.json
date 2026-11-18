@@ -432,7 +432,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Karan Toor",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/currentoor/",
+        "twitter": "https://twitter.com/CurrenToor",
+        "bio": "Been writing B2B SaaS software for over a decade, noticed car wash software was especially behind. Interested in math puzzles and economics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/89503803b4a591ca365d75cc694caac317195ccf.jpg"
+      },
+      {
+        "name": "Chirag Toor",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chirag-singh-toor-94713aa7",
+        "bio": "I'm a co-founder of FlexWash. I've been writing software for over 10 years and running my family car wash with my brother for 4 years. We ran into several pain points trying to run our car wash with existing solutions, so we built our own.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a898bb3afef30388c77c6dee1a936a84199bb4ac.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

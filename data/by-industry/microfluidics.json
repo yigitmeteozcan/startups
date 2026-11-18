@@ -179,7 +179,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Karthik Raman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/karthik-raman-scientist/",
+        "bio": "When mom got brain cancer, I used to take her for her \"infusions\". For 4 hours, we would sit there while drug was being infused into her veins and she had horrible nausea and hair loss. I built Persist to eradicate this horrible experience for future patients. We package drugs so that patients take 1 injection per month or year, without an infusion. This lowers the overall dose the patient receives (reducing side-effects), improves compliance, and quality of life.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ecc2a524e445309696a536435506c40bc98010ac.jpg"
+      },
+      {
+        "name": "Christopher Shelner",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/christophershelner/",
+        "bio": "Career program manager, first time founder. Focus has been in electronics, automation, and manufacturing. Super excited to be part of the YC batch!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/25ae4aac51df1a910d1efc90c169f83830fc6913.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

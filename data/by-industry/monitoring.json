@@ -203,7 +203,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tal Borenstein",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/talbo",
+        "twitter": "https://twitter.com/talboren",
+        "bio": "Formerly an engineering manager, now CEO. Tech-savvy with vast experience leading software teams of SaaS products.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/efce62171280879cdbed15a6c634d821fbab1bc9.jpg"
+      },
+      {
+        "name": "Shahar Glazner",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shahar-glazner-29294654/",
+        "bio": "Passionate about building stuff. Less is more. Long-distance runner. Occasionally (hopefully more) writes on shaharglazner.medium.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a59b17a4ebe14a0690f9119a56d1d26b7aaf9f17.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -241,7 +257,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jay Khatri",
+        "role": "Cofounder, CEO (acquired by LaunchDarkly)",
+        "linkedin": "https://linkedin.com/in/jay-khatri",
+        "twitter": "https://twitter.com/theJayKhatri",
+        "bio": "I currently run the Observability business at LaunchDarkly. I was the CEO at Highlight, which was acquired by LaunchDarkly in March of 2025.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b9f1e7513e56139706e0a7fa29cc2cf7701527f0.jpg"
+      },
+      {
+        "name": "Vadim Korolik",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vkorolik/",
+        "twitter": "https://twitter.com/vkorolik",
+        "bio": "Vadim Korolik leads engineering for the Observability product at LaunchDarkly, running a team of 11 engineers. Previously founder and CTO of highlight.io, acquired by LaunchDarkly in March of 2025.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/310d5870d701e4759b843740c85bf40bcf26f3e4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

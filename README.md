@@ -56,7 +56,7 @@ Switch the [explorer](https://yigitmeteozcan.github.io/startups/?view=globe) to 
 - **343** accelerator programs / cohorts
 - **465** industry verticals
 - **119** countries · **104** world regions, across **23** cohort years
-- 🦄 **152** unicorns · 💰 **2,855** exits · 🌱 **29** B Corps · 👤 **11,244** founder profiles
+- 🦄 **152** unicorns · 💰 **2,855** exits · 🌱 **29** B Corps · 👤 **12,014** founder profiles
 - 📦 **816** companies no longer listed by their source are kept (`listed: false`) — nothing is ever deleted
 
 ### Source freshness

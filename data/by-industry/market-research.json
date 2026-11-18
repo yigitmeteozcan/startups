@@ -246,7 +246,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Correa Orozco",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/correa-david/",
+        "bio": "David is the CEO of Versive. He started his career as a PM at Microsoft working on the Windows Build System. He then became one of the founding engineers at Bread (NYSE: BFH) where he developed multiple fin-tech products. Most recently, he spent the last 3 years working on Serverless Networking systems at Google Cloud. He is now focusing on building an AI-survey platform that enables teams to gather better user insights, faster.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e0b4b18e7029206e3b43fc16489fc4d5745b682b.jpg"
+      },
+      {
+        "name": "Eric Li",
+        "role": "Founder",
+        "linkedin": "",
+        "bio": "Eric is the co-founder of Versive. Previously, he led product and design at Vareto, designed marketplace products at Uber Eats, and was the first designer at Bread (NYSE: BFH). In a past life, he studied Economics at UChicago and was an investment banker at J.P. Morgan.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/28ac3abe347a9bab347de881822f3592553885b0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

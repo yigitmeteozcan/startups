@@ -967,7 +967,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Scott Swarthout",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/scottswarthout",
+        "bio": "Software Engineer @ DoorDash, former co-founder of Lavo Life Sciences",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af903ba732a9393676eeef2136e55d10a933cf34.jpg",
+        "active": false
+      },
+      {
+        "name": "Zach Glick",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zach-glick-800b75219/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/54056b9978aecbffd03e4a215347e4766fa753b7.jpg",
+        "active": false
+      },
+      {
+        "name": "Derek Metcalf",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/derekmetcalf",
+        "twitter": "https://twitter.com/derek_metcalf",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/59b13bc66f7b72fb061c26d95cd51d227f632c4a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1007,7 +1031,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Namrata Anand",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/namrata-a-427807188/",
+        "bio": "I’m a bioengineer / computer scientist who’s worked on problems at the intersection of machine learning and biology. For the past several years, I’ve been working on re-envisioning the computational protein design toolkit with AI. Some highlights are the first crystal structures of AI-designed proteins and diffusion models for protein structure generation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c568c0115ac04f5eeda9ed9ac55bb03c82d123dc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

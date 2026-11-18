@@ -136,7 +136,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexandra Kissel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandraj777/",
+        "twitter": "https://twitter.com/alexandraj777",
+        "bio": "Alexandra (née Johnson) has spent eight years in the ML tooling industry (starting with a 4-year stint as the first software engineer at @SigOpt) to help make the state of the art in machine learning effortless and easy to use. Before that, she worked on recommender systems in fashion tech. She founded Rubber Ducky Labs to be the suite of dream tools that she wished she had while working on recommender systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/026632f9ad081d2f434f06f2117ff2dd8c082677.jpg",
+        "active": false
+      },
+      {
+        "name": "Georgia Hong",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/georgiahong/",
+        "bio": "Georgia got her degree in software engineering from the University of Waterloo, during which time she completed six internships including Datadog, Cockroach Labs, Instagram and SigOpt. After graduation, she worked on Security and ML Infra at Meta.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed1edaba5f6e87a1c69d598bcd6d1dc7233ac6a9.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

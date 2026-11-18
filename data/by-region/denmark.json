@@ -353,7 +353,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Ingwersen",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/adamildk",
+        "bio": "Tinkerer based in Denmark",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/64232fe48db38d781d985bb3c857ddce7321b221.jpg",
+        "active": false
+      },
+      {
+        "name": "Frederik Ingwersen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/frederik-ingwersen-linnemann-a69005106/",
+        "bio": "Engineer with people skills.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/549d0ff73d5006541ed6e1a653364c1bd8dcedc5.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

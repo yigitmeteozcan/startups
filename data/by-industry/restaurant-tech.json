@@ -428,7 +428,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Will Edwards",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wedwards3/",
+        "bio": "Previously VP, Revenue @ Crew, a frontline employee communications app. I was the first business hire and helped scale Crew from 0 to 1M+ users and millions in ARR before being acquired by Square in 2021. Before Crew, I worked on the Corporate Development team at Intuit where I focused on M&A and venture investments.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c011c52895d609a4070290409b96ecdd4fd828ef.jpg"
+      },
+      {
+        "name": "Adam Proschek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aproschek/",
+        "bio": "Previously led product and engineering @ Crew, a frontline-employee communications app. I helped scale Crew from 0 to 1M+ users and millions in ARR before being acquired by Square in 2021. Before Crew, I was an iOS engineer at Hotel Tonight (acquired by Airbnb).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/72acd1560e8c31c1b4776ccb1d5c2691111c65db.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

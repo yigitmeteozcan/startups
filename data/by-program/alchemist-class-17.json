@@ -339,55 +339,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-clear-genetics",
-    "source": "alchemist",
-    "name": "Clear Genetics",
-    "description": "Clear Genetics is a digital health company that provides personalized, actionable and clear genetic information, needed to tailor ideal treatment plans\n\n ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2017,
-    "program": "Alchemist Class 17",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Moran Snir",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Guy Snir",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Motti Shohat",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-bentoml",
     "source": "alchemist",
     "name": "BentoML",
@@ -447,6 +398,45 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-convey-software",
+    "source": "alchemist",
+    "name": "Convey Software",
+    "description": "Sentiment Analysis Search Engine & Dashboard Supplementing Traditional Polling and Surveys for Campaigns and Marketers.\n\n",
+    "logo": "",
+    "website": "",
+    "location": "Chicago, IL, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2017,
+    "program": "Alchemist Class 17",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Cody Pawlowski",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -542,13 +532,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-convey-software",
+    "id": "alchemist-clear-genetics",
     "source": "alchemist",
-    "name": "Convey Software",
-    "description": "Sentiment Analysis Search Engine & Dashboard Supplementing Traditional Polling and Surveys for Campaigns and Marketers.\n\n",
+    "name": "Clear Genetics",
+    "description": "Clear Genetics is a digital health company that provides personalized, actionable and clear genetic information, needed to tailor ideal treatment plans\n\n ",
     "logo": "",
     "website": "",
-    "location": "Chicago, IL, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -557,13 +547,23 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Cody Pawlowski",
+        "name": "Moran Snir",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Guy Snir",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Motti Shohat",
         "role": "",
         "linkedin": ""
       }

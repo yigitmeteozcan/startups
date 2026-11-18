@@ -2234,7 +2234,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ken Book",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kennethbook/",
+        "twitter": "https://x.com/itskenbook",
+        "bio": "Building Pointwise: The app that tells you which credit card to get",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c36a8e0f2f85d8936b85bd91a8d96f38e94fd995.jpg"
+      },
+      {
+        "name": "Benjamin Litvin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/benlitvin/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/589f4bbbf93b3a669d0fcf5bf003264c536cf99d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2271,7 +2286,40 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rodrigo Vidal",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/rodrigovidal05",
+        "twitter": "https://twitter.com/rodrividal_",
+        "bio": "CEO @ Wallbit",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/647ac9c6fb6e9a98473e24c1bd0c54a1d10b13de.jpg"
+      },
+      {
+        "name": "Tomas Bruzza",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tomasbruzza/",
+        "twitter": "https://twitter.com/tomasbruzza",
+        "bio": "Head of Product @ Wallbit",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0602cf95549e2e2310fec7b236877649a7d726c0.jpg"
+      },
+      {
+        "name": "Braian Fritz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/braian-nicolas-fritz-887966144/",
+        "twitter": "https://twitter.com/braian_fritz",
+        "bio": "Software Architect @ Wallbit",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/95b5d6bf741d1208ba0e7e8da2952c9b64be85d9.jpg"
+      },
+      {
+        "name": "Martin Gira",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/martintg",
+        "twitter": "https://twitter.com/martin_tito_99",
+        "bio": "CTO @ Wallbit",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/acd37c71a62471c69176bfbf3f8c683b19afc504.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
