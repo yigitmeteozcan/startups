@@ -12,6 +12,7 @@
 -->
 <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' https://cdn.sheetjs.com; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-GRFgt45UbKYCV14/Fqy6H9EB3zlAwSnH4xbsYt03Q6M=' 'sha256-9xjtvxMT1ApHlgn9ohbh2FNfvK5Tqtzy94BjfXBeMSY=' 'sha256-yfc2FhpkFR0EAy3T+zDsaAFGXSP9B3ELNvaJKDzNhkk='; img-src 'self' https: data:; font-src 'self'; connect-src 'self' https://raw.githubusercontent.com https://cdn.jsdelivr.net; base-uri 'none'; form-action 'none'; upgrade-insecure-requests" />
 <meta name="referrer" content="strict-origin-when-cross-origin" />
+<meta name="author" content="Paperfinch" />
 <meta name="color-scheme" content="light" />
 <meta name="theme-color" content="#1827aa" />
 <title>Startup Portfolios Explorer — 20,000+ accelerator-backed startups</title>
@@ -80,6 +81,10 @@
       <label for="industry">Industry</label>
       <select id="industry"><option value="">All industries</option></select>
     </div>
+    <div class="field" id="status-field">
+      <label for="status">Status</label>
+      <select id="status"><option value="">Any status</option></select>
+    </div>
     <div class="field field-years">
       <label for="yearFrom">Years</label>
       <div class="years">
@@ -102,6 +107,8 @@
       <button type="button" class="toggle" data-flag="isExit" aria-pressed="false">Exits</button>
       <button type="button" class="toggle" data-flag="isBCorp" aria-pressed="false">B Corps</button>
       <button type="button" class="toggle" data-flag="hasFounders" aria-pressed="false">Has founders</button>
+      <button type="button" class="toggle" data-flag="isHiring" aria-pressed="false" hidden>Hiring now</button>
+      <button type="button" class="toggle" data-flag="isNew" aria-pressed="false" hidden>New this month</button>
       <button type="button" class="btn btn-link" id="reset">Reset filters</button>
     </div>
   </div>
@@ -171,6 +178,10 @@
 </main>
 
 <footer class="wrap">
+  <div class="made">
+    <a class="pf" href="https://paperfinch.io/" target="_blank" rel="noopener">Made by <span class="pf-mark" aria-hidden="true"></span><b>Paperfinch</b></a>
+    <span>Open data, free to use — <a href="https://github.com/yigitmeteozcan/startups">star it on GitHub</a> if it helps.</span>
+  </div>
   <p>
     <span id="updated"></span>
     Data: <a href="https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/meta.json">API catalog</a> ·

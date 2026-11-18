@@ -116,11 +116,12 @@ input::placeholder { color: var(--quiet); }
 .btn.filters-btn { display: none; }
 .pill { background: var(--accent); color: #fff; padding: 0 7px; font-size: 12px; font-family: var(--mono); }
 
-.filters { display: grid; gap: 10px 12px; margin-bottom: 14px; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); }
+.filters { display: grid; gap: 10px 12px; margin-bottom: 14px; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
 .field { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
 .field label { font-size: 12px; color: var(--label); }
 .field select { width: 100%; }
 .years { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+.years select { padding-left: 8px; padding-right: 2px; }
 .toggles { grid-column: 1 / -1; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
 .toggle {
   background: var(--side); color: var(--text2); border: 1px solid var(--line); border-radius: 0;
@@ -208,6 +209,10 @@ input::placeholder { color: var(--quiet); }
 .b-exit { background: var(--good-bg); color: var(--good-t); }
 .b-bcorp { background: var(--tint2); color: var(--accent-ink); }
 .b-delisted { background: var(--wash); color: var(--label); }
+.b-hiring { background: var(--tint2); color: var(--accent-ink); text-decoration: none; }
+a.b-hiring:hover { background: var(--accent); color: #fff; }
+.b-new { background: var(--accent); color: #fff; }
+.b-top { background: transparent; color: var(--ink); box-shadow: inset 0 0 0 1px var(--line2); }
 .social { display: inline-flex; gap: 8px; margin-left: 2px; }
 
 /* ── Pagination ── */
@@ -219,6 +224,15 @@ input::placeholder { color: var(--quiet); }
 .loading small { display: block; margin-top: 6px; color: var(--quiet); }
 footer.wrap { color: var(--label); font-size: 12.5px; padding-top: 36px; padding-bottom: 32px; }
 footer p { overflow-wrap: anywhere; border-top: 1px solid var(--line); padding-top: 16px; }
+footer .made { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 20px; padding: 0 0 18px; }
+footer .pf {
+  display: inline-flex; align-items: center; gap: 8px; color: var(--ink); text-decoration: none;
+  font-size: 15px; letter-spacing: -0.01em; padding: 9px 14px 9px 12px; background: var(--card);
+  border: 1px solid var(--line2); transition: border-color .2s var(--ease), background .2s var(--ease);
+}
+footer .pf b { font-weight: 600; }
+footer .pf:hover { border-color: var(--ink); background: #fff; }
+.pf-mark { width: 13px; height: 16px; background: var(--accent); clip-path: polygon(0 0, 62% 0, 100% 30%, 100% 100%, 0 100%); }
 main.wrap { padding-bottom: 24px; }
 
 /* ── Globe: a blueprint-desk window with the paper control panel beside it ── */
@@ -323,7 +337,8 @@ a.gp-co:hover { border-color: var(--ink); }
   .hide-sm { display: none; }
   .filters { display: none; grid-template-columns: 1fr 1fr; }
   .filters.open { display: grid; }
-  .field-years { grid-column: 1 / -1; }
+  .field-years { grid-column: 1 / -1; order: 1; }
+  .toggles { order: 2; }
   .toolbar { padding: 8px 10px; }
   .toolbar-actions { width: 100%; }
   .toolbar-actions .btn { flex: 1; }

@@ -17,8 +17,8 @@
     techstars: "Techstars", yc: "YC", antler: "Antler", 500: "500",
     ef: "EF", alchemist: "Alchemist", plugandplay: "Plug and Play",
   };
-  const FLAGS = ["isUnicorn", "isExit", "isBCorp", "hasFounders"];
-  const SELECTS = ["source", "country", "region", "industry", "yearFrom", "yearTo", "sort"];
+  const FLAGS = ["isUnicorn", "isExit", "isBCorp", "hasFounders", "isHiring", "isNew"];
+  const SELECTS = ["source", "country", "region", "industry", "status", "yearFrom", "yearTo", "sort"];
 
   let companies = [];
   let view = "list";      // "list" | "globe"
@@ -29,7 +29,12 @@
   let filtered = [];
   let page = 0;
   const selected = new Set();
-  const flags = { isUnicorn: false, isExit: false, isBCorp: false, hasFounders: false };
+  const flags = { isUnicorn: false, isExit: false, isBCorp: false, hasFounders: false, isHiring: false, isNew: false };
+  // "New" = first seen in its source portfolio within NEW_DAYS of the data date.
+  const NEW_DAYS = 30;
+  let newCutoff = "9999";
+  const isNew = (c) => !!c.firstSeen && c.firstSeen >= newCutoff;
+  const STATUS_LABELS = { active: "Active", acquired: "Acquired", public: "Public (IPO)", inactive: "Inactive" };
 
   const $ = (id) => document.getElementById(id);
   const plural = (n, one, many) => `${n.toLocaleString()} ${n === 1 ? one : many}`;
@@ -125,6 +130,8 @@
       stat(Object.keys(s?.bySource || {}).length || new Set(companies.map((c) => c.source)).size, "sources"),
     );
     if (s?.generatedAt) $("updated").textContent = `Updated ${s.generatedAt.slice(0, 10)} · `;
+    const asOf = Date.parse(s?.generatedAt || "") || Date.now();
+    newCutoff = new Date(asOf - NEW_DAYS * 86400000).toISOString().slice(0, 10);
   }
 
   // ── Filters ──────────────────────────────────────────────────────────────────
@@ -147,6 +154,12 @@
     fillSelect("country", byCount(counts((c) => c.country)));
     fillSelect("region", byCount(counts((c) => c.region)));
     fillSelect("industry", byCount(counts((c) => c.tags)));
+    const statuses = counts((c) => c.status);
+    fillSelect("status", ["active", "acquired", "public", "inactive"].filter((v) => statuses.has(v)).map((v) => [v, statuses.get(v)]), (v) => STATUS_LABELS[v] || v);
+    $("status-field").hidden = statuses.size === 0;
+    // Toggles for data a source may not have yet stay hidden until it does.
+    document.querySelector('.toggle[data-flag="isHiring"]').hidden = !companies.some((c) => c.isHiring);
+    document.querySelector('.toggle[data-flag="isNew"]').hidden = !companies.some(isNew);
     const years = [...counts((c) => c.year).keys()].filter((y) => /^\d{4}$/.test(String(y))).map(Number).sort((a, b) => a - b);
     fillSelect("yearFrom", years.map((y) => [String(y)]));
     fillSelect("yearTo", years.map((y) => [String(y)]));
@@ -175,6 +188,7 @@
       if (s.country && c.country !== s.country) return false;
       if (s.region && c.region !== s.region) return false;
       if (s.industry && !(c.tags || []).includes(s.industry)) return false;
+      if (s.status && c.status !== s.status) return false;
       if (!Number.isNaN(from) || !Number.isNaN(to)) {
         const y = parseInt(c.year, 10);
         if (Number.isNaN(y)) return false;
@@ -185,6 +199,8 @@
       if (flags.isExit && !c.isExit) return false;
       if (flags.isBCorp && !c.isBCorp) return false;
       if (flags.hasFounders && !(c.founders || []).length) return false;
+      if (flags.isHiring && !c.isHiring) return false;
+      if (flags.isNew && !isNew(c)) return false;
       if (place && idToPoint) {
         const pt = idToPoint.get(c.id);
         if (!pt || pt.key !== place) return false;
@@ -296,6 +312,15 @@
     return h("div", { class: "logo ph", "aria-hidden": "true" }, (c.name || "?").slice(0, 2).toUpperCase());
   }
 
+  // YC lists open roles at <company page>/jobs.
+  function hiringBadge(c) {
+    const page = safeUrl(c.sourceUrl);
+    const jobs = page && /^https:\/\/www\.ycombinator\.com\/companies\/[^/?#]+$/.test(page) ? `${page}/jobs` : "";
+    return jobs
+      ? h("a", { class: "badge b-hiring", href: jobs, target: "_blank", rel: "noopener noreferrer", title: `Open roles at ${c.name}` }, "Hiring →")
+      : h("span", { class: "badge b-hiring" }, "Hiring");
+  }
+
   function card(c) {
     const key = c.__uid;
     const isSel = selected.has(key);
@@ -313,7 +338,11 @@
     const title = extLink(c.website, c.name || "(unnamed)") || h("span", {}, c.name || "(unnamed)");
     const badges = [
       c.isUnicorn && h("span", { class: "badge b-uni" }, "Unicorn"),
-      c.isExit && h("span", { class: "badge b-exit" }, "Exit"),
+      isNew(c) && h("span", { class: "badge b-new", title: `First seen ${c.firstSeen}` }, "New"),
+      c.isExit && h("span", { class: "badge b-exit" }, c.status === "public" ? "Public" : c.status === "acquired" ? "Acquired" : "Exit"),
+      c.status === "inactive" && h("span", { class: "badge b-delisted", title: `${sourceLabel(c.source)} lists this company as inactive` }, "Inactive"),
+      c.isHiring && hiringBadge(c),
+      c.topCompany && h("span", { class: "badge b-top", title: "On Y Combinator's list of top companies" }, "Top YC"),
       c.isBCorp && h("span", { class: "badge b-bcorp" }, "B Corp"),
       c.listed === false && h("span", { class: "badge b-delisted", title: `No longer on the ${sourceLabel(c.source)} portfolio page${c.delistedAt ? ` (since ${c.delistedAt})` : ""}` }, "No longer listed"),
     ];
@@ -354,6 +383,7 @@
       c.source && h("span", { class: "chip chip-src", title: sourceLabel(c.source) }, SOURCE_SHORT[c.source] || c.source),
       (c.alsoIn || []).map((s) => h("span", { class: "chip chip-also", title: `Also in the ${sourceLabel(s)} portfolio` }, `also ${SOURCE_SHORT[s] || s}`)),
       place && h("span", {}, place),
+      c.teamSize && h("span", { class: "chip", title: "Team size" }, `${Number(c.teamSize).toLocaleString()} ${c.teamSize === 1 ? "person" : "people"}`),
       c.year && h("span", { class: "chip" }, String(c.year)),
       c.program && h("span", { class: "chip" }, c.program),
       (c.tags || []).slice(0, 3).map((t) => h("span", { class: "chip" }, t)),
@@ -454,6 +484,11 @@
         Logo: c.logo || "",
         "Also In": (c.alsoIn || []).map(sourceLabel).join("; "),
         "Still Listed": c.listed === false ? `No (since ${c.delistedAt || "?"})` : "Yes",
+        Status: STATUS_LABELS[c.status] || "",
+        "Team Size": c.teamSize || "",
+        Hiring: c.isHiring == null ? "" : c.isHiring ? "Yes" : "No",
+        Stage: c.stage || "",
+        "First Seen": c.firstSeen || "",
         ID: c.id || "",
       };
     });
@@ -504,7 +539,7 @@
       const XLSX = await loadSheetJs();
       const wb = XLSX.utils.book_new();
       const ws = XLSX.utils.json_to_sheet(rows);
-      ws["!cols"] = [14, 30, 60, 30, 30, 18, 15, 18, 40, 8, 40, 50, 50, 40, 40, 40, 25, 8, 10, 8, 15, 35, 35, 35, 35, 35, 18, 20, 28].map((w) => ({ wch: w }));
+      ws["!cols"] = [14, 30, 60, 30, 30, 18, 15, 18, 40, 8, 40, 50, 50, 40, 40, 40, 25, 8, 10, 8, 15, 35, 35, 35, 35, 35, 18, 20, 14, 10, 8, 9, 12, 28].map((w) => ({ wch: w }));
       XLSX.utils.book_append_sheet(wb, ws, "Startups");
       XLSX.writeFile(wb, `startups-${fileLabel()}.xlsx`);
     } catch (err) {
