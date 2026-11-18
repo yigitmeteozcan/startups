@@ -1775,7 +1775,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anton Koenig",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/antonckoenig",
+        "bio": "Co-founder and CEO of VideoGen. I previously interned at AWS and dropped out of UMass Amherst Computer Science to focus on VideoGen full-time.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6ebbb2ec5fc1aa22e7293d5e3494babaa34fb38.jpg"
+      },
+      {
+        "name": "David Grossman",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/dg314",
+        "bio": "I'm the cofounder and CTO of VideoGen (S24), a platform for generating professional videos using AI. Before this, I studied Computer Science and Applied Math at Brown and interned at Palantir.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/54f092f9c892e50799efcc00ad5c1c9e6a007afd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

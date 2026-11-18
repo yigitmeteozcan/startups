@@ -593,7 +593,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rhim Shah",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/rhim-shah",
+        "bio": "Formerly led the FinCrime product team at Revolut Business and multiple product teams at Jobandtalent. Prior to that an APM intern at Google. Studied Engineering at the University of Oxford.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/560201fdbc53ae709c42ebe943c4888d076e5e7a.jpg"
+      },
+      {
+        "name": "Oli Wales",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/oliverfwales",
+        "bio": "Formerly lead product engineer at Opvia (YC S20), before that a full-stack engineer at Iventis, Chimnie and The Trade Desk. Studied Computer Science at the University of Cambridge.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/58517dc8081e6d7ecd4040bf285d2d77cd205ed1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

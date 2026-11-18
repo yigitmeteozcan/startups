@@ -249,7 +249,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonathan Baer",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jonathan-baer-profile/",
+        "twitter": "https://x.com/jbaerofficial",
+        "bio": "CEO & Founder of Overlap",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cfc3a57ca1ca0eeb989f8d8abd90a407a86e9919.jpg"
+      },
+      {
+        "name": "Casey Traina",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/caseytraina",
+        "bio": "CTO & Cofounder at Overlap",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/80d2dbcb5bcc999a4f93a60dd309898284f17549.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

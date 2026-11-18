@@ -28,7 +28,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nathan Yee",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/nathanielyee/",
+        "bio": "Nathan is the co-founder and COO of AutoPallet Robotics. At 18, he graduated as the valedictorian of College of Alameda and then studied Engineering with Computing at Olin College where he met Eric. He has since built ML models for MBARI, consulted for the DIU (xView2) and WashU (drug discovery), and built core software for lab automation robotics at Trilobio.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e1472399a54fec10ff193ce2453753f7c5170c4.jpg"
+      },
+      {
+        "name": "Eric Miller",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/olin-eric/",
+        "bio": "Eric is the co-founder and CEO of AutoPallet Robotics. After graduating from Olin College in 2019, he led the Subject Tracking and Autonomy Infrastructure teams at Skydio, rapidly growing from individual contributor to lead a team of 6 engineers. Eric is a multidisciplinary robotics engineer with significant experience building modern robotics stacks, from hardware and electronics through perception and high-level software.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4fa34c4d02dcef337053aafb9f45b11b7a7c2531.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

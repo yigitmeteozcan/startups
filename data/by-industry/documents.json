@@ -1102,7 +1102,34 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pierre Dorge",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/pierre-dorge-3372bb16a",
+        "bio": "Formerly at the helm of Lleed & Partners, a digital consulting firm specialised in commodities trading, I am now building Fileforge. Coding since high school and with a solid academical background in computer science from ETH Zürich and EPFL, I love building and solving complexe challenges. Besides coding and building businesses, I enjoy training Muay Thai and playing the classical guitar in my free time.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2269cc7677a5200c9ef8448cf7e283ba71fc6f0b.jpg",
+        "active": false
+      },
+      {
+        "name": "Titouan Launay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/titouan-launay/?locale=en_US",
+        "twitter": "https://twitter.com/titouan325",
+        "bio": "Titouan Launay, formerly at the helm of a 6-figures software consulting company, is now channeling his expertise into Fileforge, his latest venture. Coding since high school and with a solid background in civil engineering and architecture from INSA Lyon, he's adept at tackling complex challenges with a creative twist. He is passionate about photography, and previously built a successful software consulting company.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4ce2ac3add615e78c8101c081b5b0e3f6686a1a3.jpg",
+        "active": false
+      },
+      {
+        "name": "Auguste Lefevre",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/augustelefevre/",
+        "twitter": "https://twitter.com/thisisnotfranck",
+        "bio": "Co-founder at Fileforge. Background in Computer Science from ETH Zurich and Quantitative Finance as PhD (dropout) from the National University of Singapore. Interested in tech, finance and history.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/63917600d1f074984fbf12a71a29fad08f4e27c4.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

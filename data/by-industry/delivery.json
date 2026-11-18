@@ -2022,7 +2022,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jack Considine",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/johnpconsidine",
+        "bio": "I'm building last-mile delivery technology at Getcho. Before Getcho, I built and ran a software development firm for seven years, scaling to 8 full-time engineers. We developed a specialty for GPS-driven platforms, two of which were acquired. A third set the standard in the pig-tracking industry, supporting $11m in annual contracts.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4a7674055d1c526e62b614d6b32dc404fcce9ad0.jpg"
+      },
+      {
+        "name": "Mike Considine",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/mike-considine-700172164",
+        "bio": "At Getcho, I’m building software for streamlining and managing last-mile delivery at scale. I was previously Head of Product at K-Optional Software, where I oversaw the development of dozens of custom software products, including two that were acquired.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/65ced94acde8b827d0489e7c35b10c3bcfe4fca2.jpg"
+      },
+      {
+        "name": "Evandro Nadal",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/evandronadal/",
+        "bio": "At Getcho, I’ve overseen thousands of deliveries and worked closely with customers to understand their workflows, improve processes, and ensure smooth operations. Previously, I co-founded K-Optional, a software consultancy specializing in logistics platforms.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/959f35c399855644c668eddadd0c1783c7b934a6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

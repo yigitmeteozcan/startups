@@ -173,7 +173,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Moyo",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/michaelmoyo",
+        "twitter": "https://twitter.com/SonofMushabati",
+        "bio": "CEO & Co–Founder of Ocular AI. Computer and Biomedical Engineer.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6959040840b8fd81769bb3f59506b26293892c8a.jpg"
+      },
+      {
+        "name": "Louis Murerwa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/louismurerwa/",
+        "bio": "Louis is the Co-founder and CTO of Ocular AI. He is from Zimbabwe and studied Computer Science at Dartmouth College. Previously Louis worked at Google NYC as a Software Engineer where he built Distributed Architecture that powers Google Cloud.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3ae4ac166c25ea521a78371102958f1076540542.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

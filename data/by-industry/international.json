@@ -191,7 +191,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "John Thompson",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/jthompson4004",
+        "bio": "Former SWE at Slack, working to make software internationalization as easy and painless as possible",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb21ed28a405ecb129ee836401762a08d152a51f.jpg"
+      },
+      {
+        "name": "Brendan Agliardo",
+        "role": "Founder/CTO",
+        "linkedin": "https://N/A",
+        "bio": "Founder of Quetzal, former SWE at Mercatalyst, UMD CS dropout",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6ae3434594d775a0204b764e7210a15a7fef2212.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

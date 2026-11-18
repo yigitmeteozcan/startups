@@ -783,7 +783,36 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Driscoll",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/x46085",
+        "bio": "A technology adventurer experienced in tanks (and armored warfare in general), video games (playing and making them), sales/marketing & CRM/LMS/digital content platforms, real estate investment platforms, SaaS API platforms generally, blockchain technology (both core technology and services), and aerospace technology (specifically rocketry, guidance and control systems)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5e11cc37e499635e13c99cb5fe1dd69fa4a5dad.jpg"
+      },
+      {
+        "name": "Tom Gurka",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/tomgurka",
+        "bio": "One-man design and marketing team. Designer and product leader with 10+ years of experience spanning software UI/UX, brand development, and marketing communications. Includes working across early-stage startups and high-growth companies, with deep experience in design systems, motion and interaction design, prototyping, creative direction, and cross-functional product development.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fbe4b59a8f66a50f20b19335a450fab146e74e12.jpg"
+      },
+      {
+        "name": "Akhil Velagapudi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/akhil-velagapudi/",
+        "bio": "Grew up in New Jersey, and studied electrical + computer engineering at Rutgers. I entered the startup world with M10, where I worked on distributed systems and developed a passion for systems engineering. After M10, I went to Google to work on kubernetes networking, focusing of programmable data planes. I tend to spend my free time either reading fantasy/sci-fi or working on my homelab (which keeps growing).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/547d0a28b737b886cc131a86af1bfb6c3ec95b7d.jpg"
+      },
+      {
+        "name": "Sascha Wise",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/sascha-wise",
+        "bio": "Co-founder of Elodin Systems, developers of simulation tools for aerospace. I'm a software engineer by practice and a physicist by training. I've worked on a wide variety of projects throughout my career from a database for central banks to the flight software for a deep space mission. I'm passionate about building simple, elegant solutions to complex problems. In my spare time, I try and get outdoors as much as possible, which usually means climbing or skiing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7a2528ecb1ae1a47f0febbcf408e7cb081ae00ba.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -822,7 +851,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ashi Dissanayake",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/ashi-dissanayake",
+        "bio": "Co-Founder & CEO @ Spaceium (S24) I love space and grew up wanting to be an astronaut one day. I co-founded Spaceium to build space infrastructure for a better new space economy. I specialize in orbital mechanics and rocket propulsion systems. Previously, I worked on Aerodynamic models for NASA, built models for interplanetary transfers for an unmanned return mission to an asteroid in real time, and built rocket engines, payload structures, and recovery systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e89b228c2cf8c0d080711c619dd0f4632d64e346.jpg"
+      },
+      {
+        "name": "Reza Fetanat",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/rezafetanat",
+        "bio": "Co-founder & CTO @ Spaceium (S24). Believe in developing in-space infrastructure to sustainably explore space and find a better place to call home, like the first caveman stepping out of their cave. Help humanity become a multiplanetary species. I led a rocket program at university. We successfully launched 3 rockets and became fastest growing team. Fully developed 4 rocket engines and built a propulsion stability model. Built many robots including rocket tracker for recovery.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e7e9c6e7386b210ae285efac855201ec036fdbcf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -861,7 +905,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Austin Tindle",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/austintindle",
+        "twitter": "https://x.com/_austintindle",
+        "bio": "CEO at Sorcerer. Engineering and product leader of decacorn hardware teams. Previously Head of Product at SumUp, led acquisition of Fivestars (YC W11).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6907374cc6f41e1784fd922204f4bf1da1976e52.jpg"
+      },
+      {
+        "name": "Maxmillion McLaughlin",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/maxmclau/",
+        "bio": "CTO of Sorcerer. Previously, first hire at Urban Sky where I led development of high-resolution stratospheric imaging systems for mapping cities and tracking wildfires.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/edec734a752bb1817cc9bc04e9089b0c5250788e.jpg"
+      },
+      {
+        "name": "Alessandro Vecchi",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/avecchi/",
+        "twitter": "https://x.com/big_veech",
+        "bio": "CPO of Sorcerer. I was employee #3 at Urban Sky, where I built their mission control software (\"the best in the world\" - US Secretary of Defense) and prediction engine from the ground up. Over 5 years of experience working with/dealing with forecast and weather data. Building software products since I was in high school.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/665d0ba4bdc25d0c61592f32c2caa08dec803f04.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -898,7 +966,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Tseng",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alextseng1/",
+        "bio": "Missiles are cool",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9d615e35e13fda89fe1eba4508c31bd3b01f6103.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -938,7 +1014,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shan Mohta",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/shanmohta/",
+        "twitter": "https://x.com/shanmohta",
+        "bio": "CEO of Vendra. I'll help you get parts manufactured in America. I also built cool hardware at Skydio, Apple, & Microsoft.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ada4961bf89e49443bf458e132e7d04191be2aa5.jpg"
+      },
+      {
+        "name": "Anish Bhardwaj",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/anish-b-00109695/",
+        "bio": "CTO of Vendra. I build software.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/939f8fa06c02f01535001b4aa0cb45b2d26837b3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

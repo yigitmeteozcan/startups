@@ -121,7 +121,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dominik Moehrle",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dominik-moehrle/",
+        "twitter": "https://x.com/dominik_moehrle",
+        "bio": "Building AI agents for medical practices at Dodo. Previously studied Data Science @ Stanford, started beam.ai, and built & scaled 4 products in the healthcare space. When I'm not building, I'm teaching @ equala.org.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/51e45bb1bc064f69788755245d1997ed46ffebe1.jpg"
+      },
+      {
+        "name": "Julius Hillebrand",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/juliushillebrand",
+        "twitter": "https://twitter.com/julezhillebrand",
+        "bio": "Building AI agents for medical clinics at Dodo. Stanford Engineer, Oxford PPE. Bootstrapped investment tool to $2m+ AUM, automated workflows for a large fintech, and led one of Oxford's biggest university organizations with 1000+ members. Former child actor.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b0d4705d7fb5cdfd2a0f7746c74caadd342a351d.jpg"
+      },
+      {
+        "name": "Tim Reinhart",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/t-reinhart/",
+        "bio": "Building AI agents at Dodo. Studied Computer Science at Stanford and Robotics at ETH Zurich. Built autonomous drone systems at one of the worlds leading robotics labs and worked on mobile computer vision applications.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/85050da3c55a62c75f5b2a312e1611282cb0937b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

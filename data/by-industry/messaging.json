@@ -1459,7 +1459,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lucas Urbisaia",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/lucas-urbisaia",
+        "twitter": "https://x.com/LMUrbisaia",
+        "bio": "Harvard Applied Math. Argentine. Loves History. Locked in an eternal feud with Soheil Sadabadi, the Al Khwarazmi wannabe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e2b25ccba7cf9a3327bfb905e21dd9258b1d4ad5.jpg"
+      },
+      {
+        "name": "Soheil Sadabadi",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/soheil-sadabadi-3bb378135",
+        "bio": "Computer Scientist and Al-Khwarazmi wannabe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/72bfa61fa827212d983fecba0e8ca937f02e46f0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

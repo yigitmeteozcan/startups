@@ -1712,7 +1712,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ethan Chang",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/changethan",
+        "twitter": "https://twitter.com/ethchang20",
+        "bio": "Changing how restaurant run, prev Stanford",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1c92832085b90dda455f6d4c10b2e97ac39acbae.jpg"
+      },
+      {
+        "name": "Isaac Kan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/isaackan",
+        "bio": "Studied CS at Stanford and interned at Stanford Med, building CNN models. I'm now a co-founder of Forge, where we're transforming how restaurants build their brand and online presence.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da95a10d603829ba4432374b9029695202fd85bc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

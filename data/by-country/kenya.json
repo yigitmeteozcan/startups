@@ -792,7 +792,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Peter Wachira",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/peter-wachira-tripitaca",
+        "bio": "Peter is an entrepreneur with a passion for empowering communities and reshaping the travel industry. Started my first company at 18, focusing on providing essential goods and services to low-income households through a BNPL model, exited. I pivoted to the travel sector, founding a leading vacation rental management company. Recognizing the challenges faced by travel businesses, I am now building Tripitaca, the operating system for travel businesses in Africa.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3833e926062378faaeadee9d84309129878fd5c.jpg"
+      },
+      {
+        "name": "Collins Muthinja",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/collins-muthinja-trippi",
+        "bio": "With over a decade of coding expertise, I'm a seasoned software engineer who cut my teeth at a leading insuretech firm, where I played a key role in building payment rails. Co-founder of a successful BNPL startup later acquired, I now drive innovation as I build the operating system for travel businesses in Africa, seamlessly embedding finance solutions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eb6d823bfa2fa0808355f3ba0fd5434c9526b093.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -1037,7 +1037,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Leon Zhang",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/leon-zhang-850772b3",
+        "bio": "BetterBasket CEO; ex-Uber Eats, PIMCO, Wharton MBA dropout and UChicago BS '17",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ae7eb6b7378c4710ab4b531fd351394b8d582dd3.jpg"
+      },
+      {
+        "name": "Vagelis Viskadouros",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/viskadouros",
+        "bio": "BetterBasket Founder, ex-Uber Eats Data Scientist, Ecole Polytechnique MSc in Data Science for Business",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8b3dd6998db7de4f62b6bcc784205978b1dd759c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

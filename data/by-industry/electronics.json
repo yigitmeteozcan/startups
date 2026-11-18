@@ -183,7 +183,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Davide Asnaghi",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/d-asnaghi",
+        "twitter": "https://x.com/davideasnaghi",
+        "bio": "I make circuit boards",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/187b99f2a5386d00d754fd577d594158498d727c.jpg"
+      },
+      {
+        "name": "Lenny Khazan",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/lennykhazan",
+        "twitter": "https://twitter.com/LennyKhazan",
+        "bio": "Lenny is the Co-Founder and CTO @ Diode Computers, Inc.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b5315443bdfa5eecabdbce72fff7f0ee8294cba7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

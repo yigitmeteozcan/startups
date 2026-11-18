@@ -611,7 +611,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rajaram Srinivasan",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/rajaramsrinivasan",
+        "bio": "Building data security for Gen AI. Prev: Palo Alto Networks, Adobe | MIT Alum",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a03990b831f31057f44e921c63774348d6c10eb1.jpg"
+      },
+      {
+        "name": "Vignesh Subbiah",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/vigneshsubbiah16/",
+        "bio": "Cofounder at Unbound. Security for AI agents.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/390bb26fdd2b8135d1b2e6de0c675b9497c5ee6b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -648,7 +663,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Emily Choi-Greene",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/emilycgreene/",
+        "twitter": "https://twitter.com/escgreene",
+        "bio": "Founder/CEO at Clearly AI. Previously, Emily owned data security and privacy at Moveworks. Before that, she spent 5 years at Amazon, where she led Alexa AI Security. Emily performed hundreds of security and privacy reviews, from Moveworks' AI data lifecycle to Alexa's machine learning compute platform (used by 5000+ ML scientists). Emily graduated with High Honors in Computer Science from Dartmouth College.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/095144c8d2288c74a28b3c53ed81fa5cc42a1d32.jpg"
+      },
+      {
+        "name": "Joe Choi-Greene",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jcg-cmu",
+        "twitter": "https://twitter.com/JoeChoiGreene",
+        "bio": "Founder/CTO at Clearly AI. Previously, Joe was a sr. software engineer at Amazon. Joe led the satellite telemetry team at Project Kuiper and built exabyte scale datalakes at Alexa. Joe graduated from Carnegie Mellon University with a degree in computer science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b5a8be784960f6931b08f78ae355cd70f2ce405d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

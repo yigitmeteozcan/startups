@@ -25,7 +25,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Etienne-Noel Krause",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/etienne-krause",
+        "bio": "Etienne, Co-Founder & CEO of autarc. I used to work in the HVAC industry before launching autarc. Would describe myself as a creative mind that loves building digital products. Get in touch: etienne@autarc.energy",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/52b8a09f348885f7c08ffbcda92c0be81dee015d.jpg"
+      },
+      {
+        "name": "Thies Hansen",
+        "role": "Founder/COO",
+        "linkedin": "https://linkedin.com/in/thies-hansen",
+        "bio": "Co-Founder and COO of autarc. Previously worked at a logistics company within process optimizations, later switched to work in startups and VC - helping installers to install more heat pumps is much more fun though.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2ec14a90b9dfd9665a13d4bbb43119e45074329e.jpg"
+      },
+      {
+        "name": "Marius Seufzer",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/marius-seufzer",
+        "bio": "CTO @autarc. Previously Lead iOS Engineer @Sameday Health and built Passkeys for Apple.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a13d39088e8b4181c3e8e1653c03fbb47a4735e5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

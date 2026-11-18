@@ -5355,7 +5355,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tiantian Zha",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/tiantianzha",
+        "bio": "Tiantian is the CEO and co-founder of Andy AI. Princeton CS >> Google APM >> Verily (Google Life Sciences). She was the first PM on Debug, an AI and robotics moonshot to eliminate Dengue fever, which affects up to 400M people each year. The product is commercially launched and achieves up to 80% reduction in disease.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4812a4ba7ec2ac587bfba073915db5bdef1fb497.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5391,7 +5399,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ankit Ranjan",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/ranjanankit",
+        "bio": "Engineer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/49f357d1289ad2d750585b672e464bdc8c6a6bbc.jpg"
+      },
+      {
+        "name": "Aash Jain",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/aashish-jain-8ab164156",
+        "bio": "Previously at Retool",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3d1a2976da60e219921f345b8a51482ca82f832d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5429,7 +5452,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Samantha Wu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/samanthawu/",
+        "bio": "Understood Care (fka Ply Health) Co-founder. Previous Head of Bizops @ Finni (W23). Previously @ Cedar, SiteRx, Carlyle, Evercore.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/393068defb1a81095b51804a1162570edfa9767d.jpg"
+      },
+      {
+        "name": "Kevin Bailey",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kevin-bailey-2951b0162/",
+        "twitter": "https://x.com/kevinwooof",
+        "bio": "Co-Founder @ Understood Care; Ex-Uber & Ex-Postmates",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f65aa6ace2d5f7d64aa704f92bd77d06cf94602f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5465,7 +5504,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alvaro Rivera",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/alvaroriv",
+        "bio": "Co-Founder & CEO of Codes Health (S24)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4e714a4e53567f65403dbd6dcba5e63e21092c6a.jpg"
+      },
+      {
+        "name": "Cody Durr",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jij6g8asihf/",
+        "bio": "Co-founder & CTO at Codes Health",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b0932ee5f94cbfb5071e1429d991bcdfd601982b.jpg"
+      },
+      {
+        "name": "Austin Mills",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/austinhmills/",
+        "bio": "Co-Founder of Codes Health (S24)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5a9c3eeaa6641995b94e805f38829e43adf90c4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5505,7 +5566,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dominik Moehrle",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dominik-moehrle/",
+        "twitter": "https://x.com/dominik_moehrle",
+        "bio": "Building AI agents for medical practices at Dodo. Previously studied Data Science @ Stanford, started beam.ai, and built & scaled 4 products in the healthcare space. When I'm not building, I'm teaching @ equala.org.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/51e45bb1bc064f69788755245d1997ed46ffebe1.jpg"
+      },
+      {
+        "name": "Julius Hillebrand",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/juliushillebrand",
+        "twitter": "https://twitter.com/julezhillebrand",
+        "bio": "Building AI agents for medical clinics at Dodo. Stanford Engineer, Oxford PPE. Bootstrapped investment tool to $2m+ AUM, automated workflows for a large fintech, and led one of Oxford's biggest university organizations with 1000+ members. Former child actor.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b0d4705d7fb5cdfd2a0f7746c74caadd342a351d.jpg"
+      },
+      {
+        "name": "Tim Reinhart",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/t-reinhart/",
+        "bio": "Building AI agents at Dodo. Studied Computer Science at Stanford and Robotics at ETH Zurich. Built autonomous drone systems at one of the worlds leading robotics labs and worked on mobile computer vision applications.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/85050da3c55a62c75f5b2a312e1611282cb0937b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5543,7 +5628,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jack Light",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jd-light/",
+        "bio": "Currently building Planbase | Previously scaled AI forecasting and optimization algorithms with Elando to 100,000 hourly workers, PhD Economics @ UChicago, interested in all things labor economics and workforce",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0e6576750a3fbf5d6d7c24bb651b24d7df96f8c0.jpg"
+      },
+      {
+        "name": "Joe Shearman",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/joeshearman/",
+        "bio": "Co-founder of Planbase. Previously co-founder @ Elando.ai which automated scheduling and sales forecasting for over 1000 businesses including Domino's and Popeyes.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/609da8553d2c8039d1c2f1eee316b91cfe0074bb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5580,7 +5680,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Walker Wells",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/walker-wells-8a85b1198/",
+        "bio": "Before Brighterway, Walker studied Statistics and Data Science at Yale University. He has also previously led a team of interns on a data science project focused on tracking user engagement and feature impressions at another startup. Fun fact? He solo-backpacked for 5 months at the ripe age of 18.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6238a25c95f5923a46009e52536e8b4337865b6f.jpg"
+      },
+      {
+        "name": "Jason Apostol",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/jason-apostol-063039a5",
+        "bio": "Working on better claims handling. Previously studied Computer Science at Yale.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f2a4228b1212ebf8c19ce3b71ea456523aca2f1c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5680,7 +5795,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Zoe Sheill",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/zoesheill",
+        "bio": "Co-founder of Baseline AI. Previously MIT, SpaceX. Ask me about the Banana Lounge at MIT",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c422e39e1879f9db3e792d85809abf0cdcf25bca.jpg",
+        "active": false
+      },
+      {
+        "name": "Nabil Baugher",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nabil-baugher",
+        "bio": "Baseline AI Co-founder. Previously ML at YouTube and software at Slack/Audible. CS + Neuro at MIT.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/18f276eb5dbe48846d6af690b88fcac3b84b04b9.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5717,7 +5849,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Stephen Grinich",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/stephengrinich",
+        "twitter": "https://twitter.com/stephengrinich",
+        "bio": "HealthSpark CEO & Founder.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/284e27c60928da6a081c911a41e7801e09eb50e4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

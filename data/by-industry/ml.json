@@ -408,7 +408,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Liao",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/alexliaoo",
+        "bio": "Building computer vision so every app can see the world. ex-Jane Street, ex-Facebook, UPenn Physics and CS",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed58640fb40fa1b4d8e3bf915680b1f8045c7799.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -446,7 +454,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ismail Salim",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/ismail-salim-cv",
+        "bio": "Co-Founder & CEO of RunLocal AI RunLocal is the agentic ML compiler for edge compute platforms like NVIDIA Jetson and Qualcomm. Get more performance from your real-time perception and intelligence stack, with an agent that actually understands your target compute and knows how much performance headroom is remaining → www.runlocal.ai",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c2f30f10d201502b7c1ac8cbb6a5eec3ba09ef6.jpg"
+      },
+      {
+        "name": "Ivan Chan",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ivan-chan-959610b7/",
+        "twitter": "https://x.com/ivanchanavinah",
+        "bio": "CTO of Neuralize. Previously a software engineer at Marshall Wace (Europe's largest hedge fund) building an internal AI platform for developers and optimizing low latency streaming systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/400731efd4eb96439ed56efd47c95302c3db188a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

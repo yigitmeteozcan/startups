@@ -1155,7 +1155,26 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Grant Margerum",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/grantmargerum",
+        "twitter": "https://twitter.com/GrantMargerum",
+        "bio": "- Studied CS - Worked at Salesforce as a dev for two years then as an SE (pre-sales engineer) for two years - Joined Northbeam as the 1st employee and Head of Sales; grew the business from $200k -> $10m in 15 months",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c3a4114e5a740c7e3aa4ee98bfe5ac5e6a810645.jpg",
+        "active": false
+      },
+      {
+        "name": "Garrett Graves",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/graves-dev",
+        "twitter": "https://twitter.com/grvydev",
+        "bio": "Dropped out of college to build Real Time Video at Mux and Twitch. Avid open-source contributor (https://github.com/GRVYDEV). Built AI Agents before they were cool at Quantic. Currently leading the Agent Environments team at Perplexity",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a56e106801c021539a7dad1ac2d13505a1ce6598.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1194,7 +1213,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Eden Ovadia",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/edenovadia",
+        "bio": "Eden is the Co-founder and CEO of FINNY. She studied Software Eng. at McGill University with a focus on ML. Prior to starting FINNY, Eden was at BCG where she worked in Private Equity & Financial Services.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1cb89e9ce9be37246ecb1f3e0e66556756e6db01.jpg"
+      },
+      {
+        "name": "Theodore Janson",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/theodore-janson",
+        "bio": "Theo is the co-founder and CTO at FINNY. Before FINNY, Theo worked as an applied ML engineer in an early Fintech startup, leading the development of statistical models and LLMs for automated financial analysis. He has also held research roles in LLM explainability and particle physics. Theo has degrees in electrical engineering and CS from Ecole Polytechnique (X) and McGill University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b30d06543a1a116e358a9ec48f753d7e759411e2.jpg"
+      },
+      {
+        "name": "Victoria Toli",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/victoria-toli/",
+        "bio": "Victoria is the co-founder and CPO of FINNY, an AI-driven growth engine for financial advisors. Before FINNY, she was a Product Manager at Uber, where she led growth and international expansion for Uber One. She holds a BS in Symbolic Systems, Artificial Intelligence from Stanford. Victoria grew up in Athens, Greece.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9493c48a901d6d10732682c7f6b2b657f49c8953.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

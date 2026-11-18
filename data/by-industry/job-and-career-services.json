@@ -616,7 +616,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "John Robison",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/john-robison-b891a7303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "bio": "Working with startups @ Anthropic!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7a3ea1cd0e31d641245c8ceac0342c2d210fd345.jpg",
+        "active": false
+      },
+      {
+        "name": "Shaashwat Sharma",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shaashwat-sharma-b0a516195",
+        "bio": "Connecting mission-driven companies with mission-aligned talent.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2bed940e36adf6fddbc3051b5833bc5d5ddbeafb.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

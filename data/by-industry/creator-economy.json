@@ -1122,7 +1122,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Runbo Li",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/runboli",
+        "twitter": "https://twitter.com/runboli",
+        "bio": "Runbo is the co-founder and CEO of Magic Hour. Previously, he was a senior data scientist at Meta where he worked on numerous zero-to-one consumer social products at NPE (New Product Experimentation).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/68548808b017cccd2b131be8bc5acf49e1bb563f.jpg"
+      },
+      {
+        "name": "David Hu",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/davidhu2000",
+        "twitter": "https://twitter.com/notdavidhu",
+        "bio": "David is the co-founder and CTO of Magic Hour. Previously, he worked as a full stack engineer at Skillz, leading multiple product development teams from Series B to IPO. He worked across the entire tech stack, from user interface down to infrastructure management.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f1a09b5a18359980819d0cd5ae3c8e3addcc193e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

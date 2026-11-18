@@ -983,7 +983,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sam Mendel",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/sammendel2000",
+        "twitter": "https://twitter.com/sammendel00",
+        "bio": "CEO, Co-founder of NetworkOcean",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3ffd57db8a32e8d41deb62d4d891781f6f30cac4.jpg"
+      },
+      {
+        "name": "Eric Kim",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/yekime",
+        "twitter": "https://x.com/yekime",
+        "bio": "Co-founder and CTO building floating data centers @ NetworkOcean. Background in Physics and CS, with a focus on ML and renewable energy.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a9d4ec17a3c6b3ee6a548d96dcaf4f73cdef3ec7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1021,7 +1038,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Marge",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/thomas-marge",
+        "bio": "Thomas is co-founder and CEO of Rewbi, which uses AI to optimize grid-connected battery storage. He previously founded inBalance, a YC W21 company, which was acquired by Stem (NYSE: STEM) in January of 2023. He led battery storage optimization and forecasting for Stem. He completed part of a Pure Mathematics PhD at University of Cambridge, which he left to build inBalance. He holds a Masters in Applied Mathematics and B.S.E. in Pure and Applied Mathematics from Johns Hopkins, graduating early.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1e928aa8f09dd229ceedcffa08968ba2649d89e7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

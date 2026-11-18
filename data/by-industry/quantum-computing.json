@@ -136,7 +136,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brandon Severin",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/brandon-severin/",
+        "twitter": "https://twitter.com/BrandonSeverin",
+        "bio": "Building quantum superintelligence. During my PhD at Oxford, I worked with 4 quantum institutions across the globe (IST Austria, Basel, UNSW, Diraq), developing AI for semiconductor quantum device control and published 4 papers on the topic including one in Nature.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/87d24eacb09bbfa920e690defd179aa0cfe720b2.jpg"
+      },
+      {
+        "name": "Joel Pendleton",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/joelpendleton/",
+        "twitter": "https://twitter.com/joelpendleton",
+        "bio": "Co-founder of Conductor Quantum, building software for quantum computers. I’ve worked at many deep tech startups and research labs, exploring various quantum computing technologies — from carbon nanotubes to superconducting transmon qubits. I left my PhD at Oxford to start Conductor Quantum.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eec48af10146303ada5db62e00483a97d82d86a9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

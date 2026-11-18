@@ -540,7 +540,48 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Davis Tong",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/davistong",
+        "bio": "OddsView co-founder and CEO Davis graduated as an Applied Science engineer from the Rutgers Honors College and started at Amazon as a software engineer. He mostly notably developed the data pipeline currently powering the Comparison Widget on 75% of product pages.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e5ae26a6ffcbc93fd03a46a19b3c6247989fe7e7.jpg",
+        "active": false
+      },
+      {
+        "name": "Ajay Koritala",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ajaykoritala",
+        "bio": "Ajay is a Co-Founder at OddsView. He graduated with a degree in Mathematics and Computer Science from the Rutgers University Honors College. After graduating, he worked on the Visual Innovation Team at Amazon where he helped build a virtual photo studio.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba4c9ce284442c861a8c2b97137389e78b23b02e.jpg",
+        "active": false
+      },
+      {
+        "name": "Akaash Patel",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/akaashp",
+        "bio": "OddsView co-founder. Akaash graduated from Rutgers Honors college in 2021 and worked at Amazon in their Live streaming shopping startup team Amazon Live. He has experience in product design with some personal projects reaching 5k+ daily returning users.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d1b6468b1458aa7d4106c4631f034d5dc865016f.jpg",
+        "active": false
+      },
+      {
+        "name": "Anthony Ter-Saakov",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/anthony-ter",
+        "bio": "Anthony is a Co-Founder and CTO of OddsView. Previously he obtained a math degree and a master's in statistics from Boston University. After college he worked as a Software Engineer at Verkada.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/69e6909d5a0a2614231d2debca33b7aa2f68a594.jpg",
+        "active": false
+      },
+      {
+        "name": "Henri Zhang",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/zhanghenri",
+        "bio": "Henri graduated in Computer Science and Cognitive Science from Rutgers University Honors College in 2021. He later stepped down from his software development role at Amazon to become a full-time sports betting consultant, which led him to co-founding OddsView.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/442cc65f3321ff1489ba5ddecfde26a76533a387.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

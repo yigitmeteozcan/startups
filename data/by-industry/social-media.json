@@ -826,7 +826,33 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mark Buckler",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/markbuckler",
+        "bio": "I would describe myself as an endlessly curious, ambitious, and creative person. I’ve made contributions in many fields including robotics, biomedical imaging, computer vision, hardware acceleration, and computer architecture, and generative AI. My passion for AI was super-charged during my PhD at Cornell University where my thesis focused on hardware-accelerated deep neural networks.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6224ca5ad5d49c88aeff81d41d1688a65410f145.jpg",
+        "active": false
+      },
+      {
+        "name": "Justin Parus",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/justinparus",
+        "bio": "Our team is building technology to democratize professional music production. I used to work on the cloud.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f93c6cfafefa0fb71549581e7d68c19b2cdb5a3c.jpg",
+        "active": false
+      },
+      {
+        "name": "Diandre Ruiz",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/diandre-ruiz-6a1370265",
+        "twitter": "https://twitter.com/Bandlez",
+        "bio": "CPO of Generative AI company: Soundry AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ae25c1f5c61911fd10a857e050543f10c02ee3aa.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -864,7 +890,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rachel Wang",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/rachelshuyanwang",
+        "bio": "Rachel Wang is the co-founder and CEO of Storio, which she started in 2023. Before founding HeartByte, Rachel was the Chief Data Officer at Wish, a cross border e-commerce marketplace. Rachel graduated from the Columbia University where she received a Master of Data Science and Peking University where she received a Bachelor of Mechanical Engineering. Why does she work on HeartByte? She thinks the world can be a bit boring and needs more imagination.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f8b23a2fbcd76fe5a8397444132192f47105940.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -903,7 +937,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Tremblay",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ryan-tremblay-62429a86",
+        "twitter": "https://twitter.com/zaptrem",
+        "bio": "Studied Computer Science (focus: ML) and History (focus: authoritarian regimes) at Cornell. Previously, I worked on core engineering teams at early and growth stage AI and creator economy startups. My goal is to help people be more creative by making GPUs go brrr.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ad8872b2ab3f7b3d89b60d90e18ee0682823a6f2.jpg"
+      },
+      {
+        "name": "Hayden Housen",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/hhousen",
+        "bio": "Currently, building a platform to share AI generated music and researching AI song generation. Previously, a software engineering intern at Vocode (YC W23) and an intern on the Machine Learning Team at Ada.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b7fc92b3708043568124634f955d3227262d6642.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -942,7 +992,39 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christos Antonopoulos",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/christos-antonopoulos-6534031b0/",
+        "twitter": "https://x.com/Christos_antono",
+        "bio": "Christos Antonopoulos is the Co-founder & CEO of Remade. Remade (YC S24) Building an AI-native canvas for creative workflows. He holds a MEng in Information & Computer Engineering from the University of Cambridge and has research contributions in Machine Learning for Medical Diagnosis and Natural Language Interfaces.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d0838a3206c47e9c97038a5fc797047149acdace.jpg"
+      },
+      {
+        "name": "Alex Matthews",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alex-matthews-1b282918b/",
+        "bio": "Alex is the Technical CPO of Remade, a company enabling businesses to automate their entire visual content marketing using AI. Remade's web application transforms basic, low quality photos of any product into professional hooks. Alex holds a BA in Computer Science from the University of Cambridge. He has contributed to earning £700k+ in revenue/ funding in past ventures.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8822923a3a2cd2bf1903b30cba6be376db5552b5.jpg"
+      },
+      {
+        "name": "Blendi Bylygbashi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/blendibylygbashi/",
+        "twitter": "https://x.com/BlendiByl",
+        "bio": "Blendi is the co-founder of Remade, a company focused on creating professional videos using AI. He holds a BA and an MEng in Information and Computer Engineering from the University of Cambridge. At Transport for London, he developed deep learning models for CCTV event detection. His research on intra-cranial hypertension was published in the Lancet Neurology Journal.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/44cd7ddcc78ee7bf957650363e156203011be0cf.jpg"
+      },
+      {
+        "name": "Rehan Sheikh",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/rehan-sheikh-1102",
+        "twitter": "https://x.com/rehan_shei",
+        "bio": "Rehan is the CTO and co-founder of Remade, researching Diffusion Models. He holds a BA and MEng in Information & Computer Engineering from the University of Cambridge!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/df91a3b800bf1e7cddc60d1f814fbd19791bad88.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -978,7 +1060,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Laodis Menard",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/laodis",
+        "twitter": "https://x.com/LaodisOfficial",
+        "bio": "Create content for social media with your deepfake on Argil.ai Fascinated by stories, creative (wrote a SF novel and directed a thriller)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a527459fc948ea41e2339f548eddb3da189973b0.jpg"
+      },
+      {
+        "name": "Brivael Le Pogam",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/brivael-le-pogam-bbbb7185",
+        "twitter": "https://twitter.com/brivael",
+        "bio": "Hacker building the best video avatar for content creators.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7a4bd6fb28fd8dad8a627f0ffe7cae19dd705faf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1015,7 +1114,34 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Chung",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/aschung01",
+        "twitter": "https://twitter.com/aschung01",
+        "bio": "Andrew is co-founder and CEO of Typa (prev. Weavel). Andrew previously led product + engineering teams for two years, and has experience in building various applications in AI, VR, web, and mobile. Prior to that, Andrew studied electrical & computer engineering at Seoul National University before taking leave of absence in his junior year to focus on building things.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/425e90af3393ff0b12448b7b25f301f5c603f480.jpg",
+        "active": false
+      },
+      {
+        "name": "Hyun Jie Jung",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hyunjie/",
+        "twitter": "https://x.com/hyunjiejung",
+        "bio": "Previously co-founder at Typa (Prev. Weavel)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/35ae2dca90ce976d5c8b6f1192f81c2508a9b2c6.jpg",
+        "active": false
+      },
+      {
+        "name": "Junyoung Park",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jun-park314/",
+        "bio": "Jun is co-founder of Weavel. Jun previously worked as researcher at NLP-focused AI lab and has experience in building various applications with LLM. Prior to that, Jun studied computer science & engineering at Seoul National University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/86523643442bce39c00d3d15cef503596ae4d2b9.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1052,7 +1178,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nang Ang",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/nathanang",
+        "twitter": "https://x.com/not_nang",
+        "bio": "coding https://www.nang88.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/608f96f09c1088a868c3323f0b72b7f3fca0dde4.jpg"
+      },
+      {
+        "name": "Manav Bokinala",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mbokinala/",
+        "twitter": "https://x.com/mbokinala_",
+        "bio": "making irl streaming awesome",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7d0ec0eb569cd48eea55432d972cf567abad943a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1091,7 +1234,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kevin Schaich",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/kevinschaich/",
+        "twitter": "https://twitter.com/kevin_schaich",
+        "bio": "Let your camera understand the world with Darkgrade",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e4a7f36cfe27ece4494690865ae375e99304778e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

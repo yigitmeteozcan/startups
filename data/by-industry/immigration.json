@@ -136,7 +136,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Philip Smart",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/phildsmart",
+        "bio": "Automating flat-fee legal work, starting with work visas and green cards for immigration lawyers (Parley S24). Used to work on Growth and GenAI @ Linkedin. Drove increases to \"Core Four\" metrics that we reported to MSFT, was PM on the first consumer, massive-scale launch of GPT-4 integrated into a product outside of OpenAI.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e891fe8b36771c80b9c8513390b07440f5b5612c.jpg"
+      },
+      {
+        "name": "Ian Edwards",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/ian-edwards",
+        "bio": "Co-founder of Parley. We help automate legal drafting for immigration attorneys and other flat-fee lawyers. Previously an engineer at several startups including Porter (YC S20) and Govdash (YC W22).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4b933094f9793c2eccbac37184cd632d30d28f58.jpg"
+      },
+      {
+        "name": "Jackson Perry",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jackson-perry",
+        "bio": "Co-Founder of Parley. We want to automate flat-fee legal work, starting with immigration! In a former life, invested at a clean energy PE fund and consulted for Oil & Gas majors and U.S. utilities.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/106e09163fa463e7150bcc6756bac9ca271f248e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
