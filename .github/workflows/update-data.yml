@@ -97,7 +97,7 @@ jobs:
           while read -r f; do
             curl -fsS -m 30 -o /dev/null "https://purge.jsdelivr.net/gh/${REPO}@${BRANCH}/${f}" || failed=$((failed + 1))
           done < /tmp/changed.txt
-          [ "$failed" -eq 0 ] || echo "::warning::${failed} files could not be purged from jsDelivr (they refresh within 12 hours)
+          [ "$failed" -eq 0 ] || echo "::warning::${failed} files could not be purged from jsDelivr (they refresh within 12 hours)"
 
       # Fetch the public endpoints the way an outside project would (CDN or raw
       # GitHub, CORS, record counts). Warnings only — never fails the run.
