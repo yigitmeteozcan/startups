@@ -119,7 +119,8 @@ function createApp({
       },
       filters: [
         'search', 'source', 'industry', 'tag', 'country', 'region', 'location', 'program', 'year',
-        'yearFrom', 'yearTo', 'unicorn', 'exit', 'bcorp', 'current', 'hasFounders', 'sort',
+        'yearFrom', 'yearTo', 'unicorn', 'exit', 'bcorp', 'current', 'hasFounders', 'status', 'hiring',
+        'since', 'sort',
         'page', 'limit',
       ],
     });

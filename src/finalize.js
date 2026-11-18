@@ -7,6 +7,8 @@
 //   + id       stable unique key, e.g. "yc-airbnb"
 //   + country  normalized country ("USA" / "UNITED STATES" -> "United States")
 //   + alsoIn   other portfolios the same company (same website) appears in
+// Optional detail fields (status, teamSize, stage, topCompany, nonprofit) are
+// dropped when empty / false so they only appear where a source provides them.
 
 const { addHttps, cleanTags, collapseSpaces, splitFounderNames, stripUrlSignature } = require('./normalize');
 const { deriveCountry } = require('./data/countries');
@@ -132,6 +134,10 @@ function repairCompany(c) {
   out.founders = repairFounders(c.founders, c.source);
   out.extra = slimExtra(c.extra);
   out.tags = cleanTags(c.tags);
+  // Optional detail fields are only kept when they say something.
+  for (const k of ['status', 'stage']) if (!out[k]) delete out[k];
+  if (!(Number(out.teamSize) > 0)) delete out.teamSize;
+  for (const k of ['topCompany', 'nonprofit']) if (out[k] !== true) delete out[k];
   return out;
 }
 

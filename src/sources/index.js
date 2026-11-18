@@ -163,7 +163,11 @@ function missingFrom(prior, live) {
 //  - tags: earlier categories are kept alongside the source's new ones.
 //  - founders: people missing from the live record are kept.
 //  - exit / unicorn flags, once set, stay set.
-const BACKFILL_FIELDS = ['description', 'website', 'logo', 'location', 'region', 'subregion', 'year', 'program', 'sourceUrl'];
+//  - firstSeen (the day a company first appeared in its source) is kept.
+const BACKFILL_FIELDS = [
+  'description', 'website', 'logo', 'location', 'region', 'subregion', 'year', 'program', 'sourceUrl',
+  'status', 'teamSize', 'stage', 'firstSeen',
+];
 const SOCIAL_FIELDS = ['linkedin', 'twitter', 'facebook', 'crunchbase'];
 const EXTRA_FIELDS = ['city', 'state_province', 'country', 'investor'];
 const empty = (v) => v == null || v === '' || (Array.isArray(v) && v.length === 0);
@@ -216,19 +220,36 @@ function mergeLiveWithCommitted(prior, live, now = new Date()) {
     return `${norm(c.name)}|${d && !SHARED_HOSTS.has(d) ? d : ''}`;
   };
   const { pairs, unmatched } = matchPrior(prior, live);
-  const merged = live.map((c, li) => (pairs[li] ? mergeRecord(c, pairs[li]) : c));
+  const today = now.toISOString().slice(0, 10);
+  // A live record with no committed counterpart is a new company: stamp the
+  // day it first appeared. Not on a source's first run (everything would look
+  // new), nor when an implausible share is unmatched (e.g. the source changed
+  // every URL at once) — then nothing is stamped rather than everything.
+  const unmatchedLive = live.filter((_, li) => !pairs[li]).length;
+  const stampNew = prior.length > 0 && unmatchedLive <= Math.max(50, Math.round(live.length * 0.25));
+  const merged = live.map((c, li) => {
+    if (pairs[li]) return mergeRecord(c, pairs[li]);
+    return stampNew && !c.firstSeen ? { ...c, firstSeen: today } : c;
+  });
   const byKey = new Map();
   merged.forEach((c, i) => {
     if (!byKey.has(twinKey(c))) byKey.set(twinKey(c), i);
   });
-  const today = now.toISOString().slice(0, 10);
   const delisted = [];
   for (const p of unmatched) {
     const i = byKey.get(twinKey(p));
-    if (i !== undefined) merged[i] = mergeRecord(merged[i], p);
-    else delisted.push({ ...p, listed: false, delistedAt: p.delistedAt || today });
+    if (i !== undefined) {
+      const wasStamped = !pairs[i] && merged[i].firstSeen === today;
+      merged[i] = mergeRecord(merged[i], p);
+      // It was a committed company after all, not a new one.
+      if (wasStamped) {
+        if (p.firstSeen) merged[i].firstSeen = p.firstSeen;
+        else delete merged[i].firstSeen;
+      }
+    } else delisted.push({ ...p, listed: false, delistedAt: p.delistedAt || today });
   }
-  return { companies: [...merged, ...delisted], delisted: delisted.length, folded: unmatched.length - delisted.length };
+  const added = merged.filter((c, i) => !pairs[i] && c.firstSeen === today).length;
+  return { companies: [...merged, ...delisted], delisted: delisted.length, folded: unmatched.length - delisted.length, added };
 }
 
 // Backwards-compatible name.
@@ -283,6 +304,7 @@ async function gatherAll({
         companies = m.companies;
         const notes = [];
         if (vet.junk) notes.push(`${vet.junk} junk records rejected`);
+        if (m.added) notes.push(`${m.added} new`);
         if (m.delisted) notes.push(`${m.delisted} no longer listed upstream (kept, flagged listed:false)`);
         status = { status: 'live', reason: notes.join('; ') };
       } catch (err) {

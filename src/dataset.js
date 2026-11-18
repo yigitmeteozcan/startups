@@ -14,6 +14,8 @@ const CDN_FILE_LIMIT = 20 * 1024 * 1024;
 // files over 100 MB — that is the one size that needs a person to act.
 const GITHUB_FILE_LIMIT = 100 * 1024 * 1024;
 const SIZE_WARN_AT = 90 * 1024 * 1024;
+// new.json lists companies first seen within this many days.
+const NEW_DAYS = 30;
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
@@ -89,6 +91,13 @@ const CSV_COLUMNS = [
   ['founder_githubs', (c) => (c.founders || []).filter((f) => f.name).map((f) => f.github || '').join('; ')],
   ['founder_websites', (c) => (c.founders || []).filter((f) => f.name).map((f) => f.website || '').join('; ')],
   ['source_url', (c) => c.sourceUrl || ''],
+  // YC detail (empty for other sources) and first-seen date.
+  ['status', (c) => c.status || ''],
+  ['team_size', (c) => c.teamSize ?? ''],
+  ['is_hiring', (c) => (c.isHiring == null ? '' : c.isHiring)],
+  ['stage', (c) => c.stage || ''],
+  ['top_company', (c) => (c.topCompany == null ? '' : c.topCompany)],
+  ['first_seen', (c) => c.firstSeen || ''],
 ];
 
 function toCsv(companies) {
@@ -117,6 +126,8 @@ function computeStats(companies) {
     bCorps: companies.filter((c) => c.isBCorp).length,
     currentSession: companies.filter((c) => c.isCurrentSession).length,
     delisted: companies.filter((c) => c.listed === false).length,
+    hiring: companies.filter((c) => c.isHiring && c.listed !== false).length,
+    byStatus: Object.fromEntries(countBy(companies, (c) => c.status)),
     founders: companies.reduce((n, c) => n + (c.founders || []).length, 0),
     byYear: Object.fromEntries(countBy(companies, (c) => c.year).sort((a, b) => a[0] - b[0])),
     topCountries: countBy(companies, (c) => c.country || c.extra?.country).slice(0, 15),
@@ -243,6 +254,15 @@ function writeDataset(
   writeJson(path.join(base, 'exits.json'), exits);
   writeJson(path.join(base, 'b-corps.json'), bCorps);
   writeJson(path.join(base, 'current.json'), current);
+  // YC companies hiring right now, and companies that joined a portfolio in
+  // the last NEW_DAYS days (newest first).
+  const hiring = companies.filter((c) => c.isHiring && c.listed !== false);
+  const cutoff = new Date(Date.now() - NEW_DAYS * 86400000).toISOString().slice(0, 10);
+  const recent = companies
+    .filter((c) => c.firstSeen && c.firstSeen >= cutoff)
+    .sort((a, b) => (a.firstSeen < b.firstSeen ? 1 : a.firstSeen > b.firstSeen ? -1 : 0));
+  writeJson(path.join(base, 'hiring.json'), hiring);
+  writeJson(path.join(base, 'new.json'), recent);
 
   // Grouped slices. Keys that slugify to the same file name are merged into one
   // slice (previously they silently overwrote each other on disk).
@@ -305,6 +325,8 @@ function writeDataset(
     exits: exits.length,
     bCorps: bCorps.length,
     current: current.length,
+    hiring: hiring.length,
+    recent: recent.length,
   };
   const status = buildSourceStatus(stats.bySource, sourceStatus, prevMeta, stats.generatedAt);
   const meta = buildMeta({
@@ -405,6 +427,8 @@ function buildMeta({ counts, groupIndexes, generatedAt, bySource = {}, status = 
       exits: { count: counts.exits, api: url('exits.json') },
       bCorps: { count: counts.bCorps, api: url('b-corps.json') },
       current: { count: counts.current, api: url('current.json') },
+      hiring: { count: counts.hiring || 0, api: url('hiring.json') },
+      new: { count: counts.recent || 0, days: NEW_DAYS, api: url('new.json') },
       stats: { api: url('stats.json') },
       ...(fs.existsSync(path.join(dataDir || '', 'geo.json')) ? { geo: { api: url('geo.json') } } : {}),
     },

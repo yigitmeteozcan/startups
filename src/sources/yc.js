@@ -28,6 +28,12 @@ function absoluteLogo(url) {
   return addHttps(url);
 }
 
+// YC's status -> lowercase: "active" | "inactive" | "acquired" | "public".
+function ycStatus(s) {
+  const v = String(s || '').trim().toLowerCase();
+  return ['active', 'inactive', 'acquired', 'public'].includes(v) ? v : '';
+}
+
 function normalizeYc(d) {
   const tags = [...new Set([...toArray(d.industries), ...toArray(d.tags)])];
   const batch = d.batch && d.batch !== 'Unspecified' ? d.batch : '';
@@ -54,6 +60,13 @@ function normalizeYc(d) {
     isUnicorn: false, // YC does not expose a $1B+ flag
     isBCorp: false,
     isCurrentSession: false,
+    // Extra detail YC publishes for every company.
+    status: ycStatus(d.status),
+    teamSize: Number.isFinite(d.team_size) && d.team_size > 0 ? d.team_size : null,
+    isHiring: d.isHiring === true,
+    stage: d.stage === 'Early' || d.stage === 'Growth' ? d.stage : '',
+    topCompany: d.top_company === true,
+    nonprofit: d.nonprofit === true,
     founders: [],
     social: {
       linkedin: '',
@@ -76,4 +89,4 @@ async function fetchYc({ url = YC_URL } = {}) {
   return raw.map(normalizeYc);
 }
 
-module.exports = { fetchYc, normalizeYc, absoluteLogo, YC_URL };
+module.exports = { fetchYc, normalizeYc, absoluteLogo, ycStatus, YC_URL };

@@ -75,6 +75,9 @@ function parseFilters(q = {}) {
     isBCorp: bool(q.bcorp ?? q.isBCorp),
     isCurrentSession: bool(q.current ?? q.isCurrentSession),
     hasFounders: bool(q.hasFounders),
+    status: list(q.status),
+    isHiring: bool(q.hiring ?? q.isHiring),
+    since: str(q.since).match(/^\d{4}-\d{2}-\d{2}$/) ? str(q.since) : '',
     sort: str(q.sort),
   };
 }
@@ -109,6 +112,10 @@ function filterCompanies(companies, f, haystacks = null) {
       if (f[flag] != null && !!c[flag] !== f[flag]) return false;
     }
     if (f.hasFounders != null && ((c.founders || []).length > 0) !== f.hasFounders) return false;
+    if (f.status && f.status.length && !f.status.includes(String(c.status || '').toLowerCase())) return false;
+    if (f.isHiring != null && !!c.isHiring !== f.isHiring) return false;
+    // since=YYYY-MM-DD: companies first seen in their portfolio on/after that day.
+    if (f.since && !(c.firstSeen && c.firstSeen >= f.since)) return false;
     return true;
   });
 }
@@ -162,6 +169,7 @@ function facets(companies) {
     region: count((c) => c.region),
     industry: count((c) => c.tags),
     program: count((c) => c.program),
+    status: count((c) => c.status),
     year: count((c) => yearOf(c)).sort((a, b) => b.value - a.value),
   };
 }

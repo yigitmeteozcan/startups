@@ -202,6 +202,8 @@ ${B}/
 | Exited companies | [\`exits.json\`](${B}/exits.json) |
 | Certified B Corps | [\`b-corps.json\`](${B}/b-corps.json) |
 | Current accelerator session | [\`current.json\`](${B}/current.json) |
+| YC companies hiring right now (links to their open roles) | [\`hiring.json\`](${B}/hiring.json) |
+| New — companies added to a portfolio in the last 30 days, newest first | [\`new.json\`](${B}/new.json) |
 | Aggregate stats | [\`stats.json\`](${B}/stats.json) |
 | Map points — companies grouped by city / country with coordinates | [\`geo.json\`](${B}/geo.json) |
 | **Catalog of every endpoint** | [\`meta.json\`](${B}/meta.json) |
@@ -288,6 +290,12 @@ Each company is an object with the following fields:
 | \`isUnicorn\` | boolean | Valued $1B+ |
 | \`isBCorp\` | boolean | Certified B Corp |
 | \`isCurrentSession\` | boolean | In the current session |
+| \`status\` | string | \`active\`, \`inactive\`, \`acquired\` or \`public\` (YC; only present where the source says) |
+| \`teamSize\` | number | Team size (YC) |
+| \`isHiring\` | boolean | Hiring right now; open roles are at \`sourceUrl\` + \`/jobs\` (YC) |
+| \`stage\` | string | \`Early\` or \`Growth\` (YC) |
+| \`topCompany\` | boolean | On YC's top companies list (only present when \`true\`) |
+| \`firstSeen\` | string | Date the company first appeared in its source portfolio (tracked from November 2026 on) |
 | \`social\` | object | \`linkedin\`, \`twitter\`, \`facebook\`, \`crunchbase\` URLs |
 | \`alsoIn\` | string[] | Other portfolios the same company (same website) is in |
 | \`listed\` | boolean | Only present (as \`false\`) when the company no longer appears in its source portfolio — it is kept, never deleted |
@@ -295,7 +303,7 @@ Each company is an object with the following fields:
 | \`delistedAt\` | string | Date the company was first missing from its source portfolio (with \`listed: false\`) |
 | \`extra\` | object | Selected raw source fields (\`city\`, \`state_province\`, \`country\`, \`investor\`) |
 
-> **CSV note:** \`all.csv\` keeps its original 22 columns in the same order and appends \`id\`, \`location\`, \`founder_roles\`, \`founder_linkedins\`, \`investor\`, \`also_in\`, \`listed\`, \`delisted_at\`, \`former_names\`, \`founder_twitters\`, \`founder_githubs\`, \`founder_websites\` and \`source_url\`. Cells that would start with \`=\`, \`+\`, \`-\` or \`@\` are prefixed with \`'\` so spreadsheet apps don't run them as formulas; the JSON is never altered.
+> **CSV note:** \`all.csv\` keeps its original 22 columns in the same order and appends \`id\`, \`location\`, \`founder_roles\`, \`founder_linkedins\`, \`investor\`, \`also_in\`, \`listed\`, \`delisted_at\`, \`former_names\`, \`founder_twitters\`, \`founder_githubs\`, \`founder_websites\`, \`source_url\`, \`status\`, \`team_size\`, \`is_hiring\`, \`stage\`, \`top_company\` and \`first_seen\`. Cells that would start with \`=\`, \`+\`, \`-\` or \`@\` are prefixed with \`'\` so spreadsheet apps don't run them as formulas; the JSON is never altered.
 
 ### Example
 
@@ -367,7 +375,7 @@ Serves the full multi-source dataset from \`data/all.json\` (or from \`DATA_URL\
 
 | Endpoint | Description |
 |---|---|
-| \`GET /portfolio\` | Companies, paginated (\`page\`, \`limit\` ≤ 500) and filterable: \`search\`, \`source\`, \`industry\`, \`tag\`, \`country\`, \`region\`, \`location\`, \`program\`, \`year\`, \`yearFrom\`, \`yearTo\`, \`unicorn\`, \`exit\`, \`bcorp\`, \`current\`, \`hasFounders\`, \`sort\` (\`name-asc\`, \`name-desc\`, \`year-asc\`, \`year-desc\`) |
+| \`GET /portfolio\` | Companies, paginated (\`page\`, \`limit\` ≤ 500) and filterable: \`search\`, \`source\`, \`industry\`, \`tag\`, \`country\`, \`region\`, \`location\`, \`program\`, \`year\`, \`yearFrom\`, \`yearTo\`, \`unicorn\`, \`exit\`, \`bcorp\`, \`current\`, \`hasFounders\`, \`status\` (e.g. \`acquired,public\`), \`hiring\`, \`since\` (\`YYYY-MM-DD\`, first seen on/after), \`sort\` (\`name-asc\`, \`name-desc\`, \`year-asc\`, \`year-desc\`) |
 | \`GET /portfolio.csv\` / \`GET /portfolio.xlsx\` | Same filters, as a download |
 | \`GET /portfolio/:idOrName\` | One company by id (\`yc-airbnb\`) or name |
 | \`GET /facets\` | Every filter value with counts |

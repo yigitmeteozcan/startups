@@ -19,7 +19,7 @@ const DATA = finalizeCompanies([
   company({ source: 'techstars', name: 'DigitalOcean', website: 'digitalocean.com', tags: ['Cloudtech and DevOps'], year: 2012, location: 'New York City, New York, United States', extra: { country: 'United States', city: 'New York City' }, isExit: true }),
   company({ source: 'ef', name: 'Cleo', tags: ['Fintech'], year: 2015, founders: [{ name: 'Barney Hussey-Yeo', role: 'CEO', linkedin: 'https://www.linkedin.com/in/bhusseyyeo/' }] }),
   company({ source: 'plugandplay', name: 'RecoSele', year: '', location: 'Japan', extra: { country: 'Japan' }, tags: ['Brand & Retail'] }),
-  company({ source: 'yc', name: 'Stripey', year: 2021 }),
+  company({ source: 'yc', name: 'Stripey', year: 2021, status: 'acquired', isHiring: true, teamSize: 12, firstSeen: '2026-11-10' }),
 ]);
 
 async function start(opts = {}) {
@@ -71,6 +71,15 @@ test('GET /portfolio serves every source with filters', async (t) => {
   // year is an exact match now (the old substring match made year=1 match everything).
   ({ body } = await get('/portfolio?year=1'));
   assert.equal(body.pagination.total, 0);
+  // YC detail filters.
+  ({ body } = await get('/portfolio?status=acquired,public'));
+  assert.deepEqual(body.companies.map((c) => c.name), ['Stripey']);
+  ({ body } = await get('/portfolio?hiring=true'));
+  assert.deepEqual(body.companies.map((c) => c.name), ['Stripey']);
+  ({ body } = await get('/portfolio?since=2026-11-01'));
+  assert.deepEqual(body.companies.map((c) => c.name), ['Stripey']);
+  ({ body } = await get('/portfolio?since=not-a-date'));
+  assert.equal(body.pagination.total, 5, 'a malformed date is ignored');
   // Hostile / malformed params are handled.
   ({ res, body } = await get('/portfolio?limit=99999&page=-3&search=a&search=b'));
   assert.equal(res.status, 200);

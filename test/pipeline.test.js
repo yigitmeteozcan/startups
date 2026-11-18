@@ -171,3 +171,26 @@ test('an extra committed copy of a still-listed company is folded, not flagged d
   assert.equal(r.companies.find((c) => c.name === 'Gone Co').listed, false, 'truly gone company still kept');
   assert.match(r.statuses.plugandplay.reason, /^1 no longer listed/);
 });
+
+test('new companies get firstSeen; known ones keep theirs', () => {
+  const { mergeLiveWithCommitted } = require('../src/sources');
+  const now = new Date('2026-11-18T12:00:00Z');
+  const prior = [...many('yc', 100), { ...company('yc', 'old'), firstSeen: '2026-10-01' }];
+  const live = [...many('yc', 100), company('yc', 'old'), company('yc', 'brand-new')];
+  const m = mergeLiveWithCommitted(prior, live, now);
+  const by = (n) => m.companies.find((c) => c.name === `yc co ${n}`);
+  assert.equal(by('brand-new').firstSeen, '2026-11-18');
+  assert.equal(by('old').firstSeen, '2026-10-01', 'known first-seen date is kept');
+  assert.equal(by(0).firstSeen, undefined, 'existing companies are not stamped');
+  assert.equal(m.added, 1);
+});
+
+test('first run of a source, or a mass re-key, stamps nothing as new', () => {
+  const { mergeLiveWithCommitted } = require('../src/sources');
+  const first = mergeLiveWithCommitted([], many('ef', 300));
+  assert.ok(first.companies.every((c) => !c.firstSeen), 'no committed data yet');
+  // Same 300 companies, but every name and URL changed: not 300 new companies.
+  const rekeyed = many('ef', 300).map((c, i) => ({ ...c, name: `renamed ${i}`, website: `https://x${i}.io` }));
+  const m = mergeLiveWithCommitted(many('ef', 300), rekeyed);
+  assert.ok(m.companies.every((c) => !c.firstSeen));
+});
