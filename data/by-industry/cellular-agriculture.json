@@ -256,7 +256,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andre Yeung",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/andre-yeung",
+        "twitter": "https://x.com/ayyeung42",
+        "bio": "CEO & co-founder at Lux Foods. Stanford BioE/Computer Science (AI) B.S./B.S.. First lab student in Dr. Robert Jinkerson's lab at UC Riverside, leading project on endosymbiotic gene transfer in algae. Previously student researcher at Brophy Lab working on synthetic genetic circuits in plants. Founded Fruit for Homeless nonprofit, leading 25 students to rescue and distribute 300,000 pounds of fresh fruit to underserved LA communities. Regeneron STS Semi-finalist, iGEM silver medalist.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2caa51763e8bff60f6eccdbbdd90c0ec050dbe12.jpg"
+      },
+      {
+        "name": "Robert Jinkerson",
+        "role": "Founder",
+        "linkedin": "",
+        "twitter": "https://twitter.com/jinkersonlab",
+        "bio": "Co-founder & CSO at Lux Foods. Professor of Chemical Engineering at UC Riverside since 2017, engineering crops for controlled environments and space. Led the UCR team that won NASA's Deep Space Food Challenge and flew cherry tomatoes to the ISS. NSF CAREER Award, FFAR New Innovator Award. Showed plants can grow on acetate without sunlight (Nature Food 2022). Previously postdoc at Stanford; PhD, Colorado School of Mines.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/31b9722aacc58bd0f836a52ab85e7c013b6ef309.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

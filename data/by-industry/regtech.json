@@ -700,7 +700,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Batu Balci",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/batuhan-balci-7a3589114/",
+        "twitter": "https://x.com/batubbalci",
+        "bio": "Founder at TovenAI. Previously Quantitative Research Engineer at Citadel's Global Quantitative Strategies group. Senior Software Engineer at Salesforce. Stanford CS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/24f0a192733f83d6c638efaa5efeb8c9521f2e84.jpg"
+      },
+      {
+        "name": "Sam Turchetta",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/sam-turchetta-b14311166/",
+        "bio": "Cofounder at TovenAI. Previously worked on ML at Meta. Stanford Men’s Varsity Tennis and CS ’21.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/25fb2bee3c76413e5285ab143882be546aabb6c8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

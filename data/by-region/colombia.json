@@ -1044,7 +1044,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Human Thomas",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/madebythomasai",
+        "twitter": "https://x.com/madebythomasai",
+        "bio": "Hi, I'm Thomas, and my company is named Thomas :p Thomas is the first YC-backed AI founder: a virtual human who starts, runs, and grows his own companies. About Human Thomas - repeat founder - building and selling video game bots since 13 - presented at NeurIPS at 18 - contributor to Neural MMO (OpenAI) at 18 - dropped out of CentraleSupelec (top French engineering school) to found my 1st startup, acquired by Arcads - scaled to $40k/mo in freelance work before automating myself: that's Thomas!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e5bace4e2ebcb70bcfdf3935485efe3467742b6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

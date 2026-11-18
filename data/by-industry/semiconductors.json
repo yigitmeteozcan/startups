@@ -572,7 +572,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michelle Li",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/michelle-zhiya-li/",
+        "twitter": "https://x.com/michellezli",
+        "bio": "Co-founder and CEO at Spectre Intelligence, on leave from Harvard (I studied Economics & Biology and was originally class of '27). Previous research across generative protein language models, bacteriophages, CRISPR Cas9, and more. ISEF grand award winner, RSI and STS scholar.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6eacc1c85541c9e6f7a907d66e8c4b4d53136b3b.jpg"
+      },
+      {
+        "name": "Joshua Zyzak",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/josh-zyzak/",
+        "bio": "Founder at Spectre Capital, CS and EE at Harvard, researched deep-RL controllers for quadruped robots and multimodal LLM-robotics",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a94186fa13fa1983bac60969d2c2ddafff69b21.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -607,7 +623,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jacob Peake",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jacob-peake/",
+        "twitter": "https://x.com/jacobpeake",
+        "bio": "Founder at Standard Machines. Ex GPU Architect at Apple.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1e58da36d411b29af7b6af0bb04427b019ed414f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -644,7 +669,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Noah Vogel",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/noahvogel/",
+        "bio": "Founder & CEO at Aerogen Systems. Previously engineering intern at SpaceX building Starship actuators and at Draper developing advanced mission simulators. BSE Aerospace Engineering from University of Michigan.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5153adbbedb2cd7f09db195d1d63de5e64513dea.jpg"
+      },
+      {
+        "name": "Colin Lavery",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/colin-lavery-67b7512a3/",
+        "bio": "Co-founder & CTO of Aerogen Systems. Previously an electrical engineer at H3D, developing 3D gamma ray imaging systems. BSE Space Sciences and Engineering at the University of Michigan.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3b3f944b8190b3fbc2ca61bd6963d1d3707c6976.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -680,7 +720,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Niki Kotecha",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/niki-kotecha/",
+        "twitter": "https://x.com/KotechaNiki",
+        "bio": "Founder at Lamb Labs. AI PhD at Imperial College London + I-X Scholar. MEng/BA in Engineering from University of Cambridge. Alan Turing Institute Global Fellowship and 160+ citations",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9d7169b597815c0e4b02ff12606c162b4c12432b.jpg"
+      },
+      {
+        "name": "Thomas Lanning",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/thomas-lanning/",
+        "bio": "Founder at Lamb Labs. Masters in Mathematical and Theoretical Physics from Oxford. Top of his class in undergraduate at Edinburgh University. (Re)discovered the Higgs-boson using ML and CERN data.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aadf202207708e0feff18ade84592a81efb19f2f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -719,7 +775,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Athreya Anand",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/athreyaanand",
+        "twitter": "https://x.com/athreyaanand",
+        "bio": "Co-founder & CEO of Hardware Intelligence. Athreya was a tech lead at Google where he led AI efforts across orgs from agentic workflow management tools to prediction models for Google Ventures. He has a Master's from Georgia Tech in Machine Learning and A.I., with technical expertise in agentic tools and chip design through his time at Google, AWS Inferentia, and Tesla.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d015fb0c86a6bdae44f5b5c36e2b3d18f086454a.jpg"
+      },
+      {
+        "name": "Rishov Sarkar",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/rishovsarkar/",
+        "twitter": "https://twitter.com/ArkaneMoose",
+        "bio": "Co-founder & CTO at Hardware Intelligence. Rishov graduated with his PhD in Electrical & Computer Engineering from Georgia Tech with six published first-author/co-first-author conference papers, including one best paper runner-up. He also developed simulators for AMD's AI Engine accelerator and worked on LLVM-based compilation flows at Siemens EDA. He earned his MS and BS in Computer Engineering from Georgia Tech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d7666af58a4a49fbf9b8355cdffcb981f5df6505.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -758,7 +831,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Seungmin Hong",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/shong0504",
+        "twitter": "https://x.com/shong0504",
+        "bio": "Founder at Simantic (YC F26). Previously firmware engineer at Tesla, Simbe Robotics, and Rapyuta Robotics. ML at Ericsson. BASc Computer Engineering from University of Waterloo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dc234bdf0e7d060cf24bf13d252ce7311c2e3ce0.jpg"
+      },
+      {
+        "name": "Ahnaf Shahriar",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ahnaf-s",
+        "twitter": "https://x.com/enough_ahnaf",
+        "bio": "Founder at Simantic (YC F26). Previously Embedded Software Engineer at Neuralink (Implant/Charger) and AI Hardware Engineer at Tesla (Dojo/Autopilot). Computer Engineer from the University of Waterloo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7d91d8988fc211a1d486d15228c422801d7cf268.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -796,7 +886,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Hariharan Ayappane",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/hariharan-ayappane/",
+        "twitter": "https://x.com/HariAyapps",
+        "bio": "Co-founder at Archgen Labs",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/28c4378a3cb7b0442ebbc8d6c4bfec41ff044575.jpg"
+      },
+      {
+        "name": "Naveen Venkat",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/naveenvenkat17/",
+        "twitter": "https://x.com/naveen_venk",
+        "bio": "Co-founder, CTO at Archgen AI (YC F26).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a05ba558499da90b5b619b004b1f4c4b14e9ea94.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

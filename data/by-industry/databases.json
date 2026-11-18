@@ -890,7 +890,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brandon Ong",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/ongjjbrandon",
+        "twitter": "https://x.com/brandon1",
+        "bio": "Brandon is the co-founder of Hebbian Robotics, which builds APIs that help robotics data teams verify data quality for model training. He previously built Gigit AI, a Sequoia-backed AI customer experience startup. His research on AI for low-resource languages topped SEA-HELM, an LLM benchmark co-developed with Percy Liang's research group at Stanford. He briefly pursued a PhD in Robotics at Columbia and NTU before starting Hebbian.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5b65343ad1d0b482401872b3124da731618a3058.jpg"
+      },
+      {
+        "name": "Kingston Kuan",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/kingston-kuan/",
+        "twitter": "https://x.com/kstonekuan",
+        "bio": "Kingston spent the last few years at Jane Street building systems that scaled to millions of messages per second. He graduated valedictorian from the National University of Singapore (NUS) in Computer Engineering.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b674a8b80df5cd21ef03f13e6470d6126bc4c333.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -927,7 +944,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rafael Aviles",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/avilesco/",
+        "twitter": "https://x.com/avilesrafa",
+        "bio": "Co-Founder & CEO at ObsessionDB. Bootstrapped our previous company to $1.5 M ARR and ran it profitably for 4 years, serving 5 billion real-time API requests per month. We ran data workloads at petabyte scale. Previously worked with the data team at enterprises like Wendy's, Victoria's Secret, FOX, Disney, Axel Springer, and Groupon.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d37da273557c89396660d9bd178877a0bb6742ef.jpg"
+      },
+      {
+        "name": "Marc Höffl",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/marc-h%C3%B6ffl/",
+        "bio": "Founder at ObsessionDB. Serial founder with 4 companies, including Frens (acquired by Swyke) and Laserfocus (YC W20). Previously CTO at Numia building real-time blockchain data infrastructure. Founded Gambify in 2014, soccer app scaled to 6 figure players with support from German National Team. Engineering Manager at Localytics. MS in Data Science from KTH Stockholm, MS in Cloud Computing from TU Berlin.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e312a2474088fbaaa2cd8982da7b2589589ad8b.jpg"
+      },
+      {
+        "name": "Marc Leuthardt",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/marc-leuthardt",
+        "twitter": "https://x.com/marcmacmac",
+        "bio": "Co-Founder at ObsessionDB (YC F26). Previously co-founded Numia, scaling blockchain infrastructure to serve billions of monthly requests across 100+ blockchains. Co-founded and CTO at Frens (acquired by Swyke), autonomous infra validating 70+ blockchains. Co-founded and CTO at Lokalportal, led a team of 25. Degree in chemistry and economics. For a year spent a few mornings a week in a highschool chemistry lab to blow up things with students.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bf248e989f02f62d53fdcd4cb8a26f9f63a224e8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

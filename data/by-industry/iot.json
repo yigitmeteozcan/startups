@@ -1645,7 +1645,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Amitav Kohli",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/amitav-kohli",
+        "bio": "Founder at Talos. Currently studying Electrical and Computer Engineering at Carnegie Mellon, where he designs power systems for CMU's flagship disaster response snake robots in the Biorobotics Lab. Previously interned at Constellation Energy working on power engineering and predictive maintenance systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2e66d2682bddfe16b77ad76d8757d605b29d390c.jpg"
+      },
+      {
+        "name": "Kevin Hwang",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kevin-hwang-jh/",
+        "bio": "Founder at Talos. Won $150k award to develop foundation models for the ICU at the Johns Hopkins School of Medicine. First author paper published at NeurIPS with 120+ citations. BS Computer Science & Applied Math at Johns Hopkins.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3fc2d67cf1bbc75f880d1983e3f94ea3f7c67408.jpg"
+      },
+      {
+        "name": "Himani Musku",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/himani-musku/",
+        "twitter": "https://x.com/himanimusku1",
+        "bio": "Founder at Talos. Studying CS at Carnegie Mellon. Previously conducted AI research with MIT Lincoln Laboratory (first-author IEEE paper), UChicago, and Northwestern. Worked at Motorola on AI Supply Chain.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/341ad3fe5eec22db3593fde3b86bb438446f4c10.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

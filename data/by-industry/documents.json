@@ -1257,7 +1257,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Charles Goulet",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/charles-goulet-62655b17a",
+        "bio": "3rd-generation construction family. Previously 1Password Sr Engineer & Scotiabank Quant. CS, Université Laval.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/527b047c19bcf058c49f1eafeddc520f003aa453.jpg"
+      },
+      {
+        "name": "William G. Gagnon",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/williamggagnon/",
+        "bio": "Previously Data and AI Engineer at Poka. CS, Université Laval.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6a0b7b3cc7ee976a5d904c49ae9c16cd54f7d294.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

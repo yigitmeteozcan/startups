@@ -150,7 +150,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aaron Zhang",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/aaronttzhang/",
+        "bio": "Co-founder and CEO of Peer. Majored in Computer Science at Harvey Mudd College and dropped out for YC S26. Built AI voice agents for trucking fleets at Waylens (a trucking telematics company) and researched AI agents and computer vision at the MIT Media Lab (City Science Lab, Taipei). Led the Claremont Accelerator, which raised $124K to back student startups. 1st @ Google DeepMind Hackathon at UCLA with Felix.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/114b28e90ca8a22744bc307f0aee643e3b422fdc.jpg"
+      },
+      {
+        "name": "Felix Peng",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/felixpeng24/",
+        "bio": "Cofounder of Peer. CS/Engineering at Harvey Mudd. Engineering with Apple, IBM, Magnefy, and others. At LADWP shipped internal AI tools to 250+ staff. 1st Place National, DOE EnergyTech University Prize ($25K, youngest winner). Won the Google DeepMind Hackathon with Aaron Zhang. President and founding team of the Claremont Accelerator; raised $124K from alumni, AWS, and Google to back student startups.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/24129fee3f517ec726754cf95edd440bdbb62c6c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

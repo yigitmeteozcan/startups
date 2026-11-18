@@ -510,7 +510,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nicolas Yeh",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/nicolas-yeh/",
+        "bio": "Founder at Manifold. Grew up in a 3rd-gen supply chain family business (major consumer products supplier to US retailers). Previously at Balyasny Asset Management covering analog semiconductors ($1B+ book). Before that, Hotel Acquisitions at Starwood Capital Group, where he sourced a $60M hotel sale and was sole analyst responsible for asset management of Extended Stay America ($7.6B JV with Blackstone). BA from UPenn.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2b04b9f9fd580701776cb120a1b47e822cd2f803.jpg"
+      },
+      {
+        "name": "Joshua Ibrahim",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/joshibrahim/",
+        "bio": "Founder at Manifold. PhD in Applied Mathematics from Caltech. Previously Software Engineering Intern at Facebook, working on Messenger P2P services and Instagram's misinformation detection systems. MS and BS in Electrical and Systems Engineering from Penn.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2290e4ffd9df33d56490b230a84f5929381117ae.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

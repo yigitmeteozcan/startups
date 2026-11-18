@@ -427,7 +427,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonas Gruetter",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jonasgrutter/",
+        "bio": "Former robotics researcher, published at ICRA. Ex-Gravis Robotics, Robotic Systems Lab, and Ursa Mining. Building superhuman robots.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/81ff3bd631bc4b7206041d530bc182993fddd8fc.jpg"
+      },
+      {
+        "name": "Stanislaw Piasecki",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/stanislaw-piasecki/",
+        "bio": "Co-founder at Grip. Previously founding engineer at URSA Mining, building autonomous excavators with custom control circuits, RL simulators, and multi-sensor perception systems. Built autonomous interceptor drones at CDDS, autonomous race cars at AMZ and quadruped robotics at ANYbotics. MS in Computational Science & Engineering from ETH Zürich.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/253c9593fed9e59498847d4c158543099816d8f1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

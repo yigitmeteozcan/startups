@@ -571,7 +571,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kareem Selim",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/kareem-se1im",
+        "bio": "Co-founder & CEO @ RASPIRE. Used to break apps for a living. Now shipping automated security for them, built by hackers, against hackers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1821dbc0b5e8a5df323515f4a9c2ed1068837dbf.jpg"
+      },
+      {
+        "name": "Hassan Mostafa",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/h4ss4nmostafa/",
+        "bio": "Co-founder & CTO @ RASPIRE. Spent years breaking apps for banks and fintechs, now building the runtime security they were missing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a5e2122e34822d6bbb15b273a2dfcb644fd4ceb3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -652,7 +652,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Luis Manrique",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/luismanrique",
+        "twitter": "https://x.com/lluismanrique",
+        "bio": "Founder at Orchestra (YC S26). Previously founding Member of Technical Staff (and founding sales guy) at Gumloop, closing ~$2M in first year. Led Ads ML and also consumer AI as first PM at Instacart's Carrot AI. Prior co-founder/CEO at Ones and Zeros (text-to-SQL using transformers). Early at Wildfire (acquired by Google), then 5 years across Google's ads ML and programmatic platforms. SVP Solutions at VideoAmp building TV measurement infrastructure.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/704197b652568953035fd4d4a70a73910a60a37c.jpg"
+      },
+      {
+        "name": "Aamir Poonawalla",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/aamir-p-a3575318/",
+        "bio": "Founder at Orchestra (YC S26). 10 years at Instacart. Built the ads serving and ML infrastructure, auction platform, and experimentation framework. 2nd time YC Founder. MS in Computer Science from Georgia Tech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4c9a96d07312de424f0f4d4023f16b6a3238ce54.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

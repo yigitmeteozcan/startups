@@ -1714,7 +1714,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shalin Patel",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/shalin1patel/",
+        "twitter": "https://x.com/Shalin__Patel",
+        "bio": "Co-founder and CEO of OpenCrawl (YC F26) | Waterloo CS. Previously built data infra for 1B+ people and company rows at Pocus, acquired by Apollo.io. Also worked on data platforms at nine engineering teams across pre-seed to series F.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/73a3ff8a6ba475cfd94c36791aea710d6fa7f66c.jpg"
+      },
+      {
+        "name": "Deep Utkarsh",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/deepanshuu",
+        "twitter": "https://x.com/deep___u",
+        "bio": "Co-founder and CTO of OpenCrawl, multiplayer for coding agents. Previously, GTM agents at Pocus (acquired by Apollo.io W16). AI platform and query compiler at Sigma Computing, including Lookups (VLDB 2022). BS Cognitive Science from Tufts.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3e5720bac46c358885356fb1791792bb7f16f0e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

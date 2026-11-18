@@ -333,7 +333,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Amie Leighton",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/amieleighton/",
+        "bio": "Co-founder & CEO of Allia Health, the first AI-native medical group for mental health. Oxford dropout (declined med school); ex-Head of Healthcare M&A, Oxford M&A Society.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c1f94471f56e5b0cd389c75f662b942825fde549.jpg"
+      },
+      {
+        "name": "Saroosh Khan",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/saroosh-khan/",
+        "twitter": "https://x.com/sarooshkhan98",
+        "bio": "Scored 94.2% on ARC-AGI-2, the leading AI reasoning benchmark (first to cross the 85% \"human-like reasoning\" threshold, next best was 74% by DeepMind) One of the 3 individuals to receive a national scholarship",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/33b5c3d0e55f2dbc77b70ec81e3a8f43de841cdd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

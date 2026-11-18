@@ -8012,7 +8012,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bao Nguyen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/bao-thai-nguyen/",
+        "bio": "Bao, co-founder and CEO of Hessian – leads GTM, fundraising, customer relationships, and ML strategy. He co-founded Zettafleet, leading engineers to build a decentralized LLM training platform on hundreds of GPUs, and was a SWE at Bloomberg building ML pipelines to rate physical assets and managed a Bloomberg-Goldman Sachs Index. MPhil (scholarship) from the University of Cambridge and BSc from Durham University in CS, with publications in ML systems, including research with Google DeepMind.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bfbbca4df578a838be81a16de1906cc4e692ec92.jpg"
+      },
+      {
+        "name": "James Smith",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/jamesdsmith99/",
+        "bio": "James, co-founder and COO of Hessian – leads forward-deployed engagements: customer relationship, system design, shipping AI pipelines to production. Previously five years at Bloomberg building a data platform processing billions of observations for financial firms, including entity-disambiguation AI pipelines, then DRW building data infrastructure and pipelines for commodities trading desks. CS at Durham University (top of year); awarded three scholarships from the University of Cambridge.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/523e0b7321cf082c087476d01eb70c7d4374f3d1.jpg"
+      },
+      {
+        "name": "Tom Watson",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/thomasedw/",
+        "bio": "Tom, co-founder and CTO of Hessian – leads technical direction and engineering of the platform which Hessian runs on. Previously at GoCardless, he was part of a team which migrated the core payments database to a more scalable provider live with zero downtime, on a system processing over £1B on peak days. Prior, spent 2 years at CMC Markets building a 0-to-1 retail trading app for US investors. BSc in CS from Durham University, where his team won the IBM prize for shipping a production CMS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d6a86a6aaf1c3c27092dd4d1a6f359648c089477.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8047,7 +8069,40 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ismaeel Bashir",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ismaeel-bashir/",
+        "twitter": "https://x.com/ismaeel_bashir_",
+        "bio": "Ismaeel is co-founder and CEO of Expanse. Built the first multimodal HPC resource predictor at EPCC (Edinburgh’s Parallel Computing Centre), beating every published baseline. Previously: ran large scale ML models at one of the world’s largest quantitative funds (QRT). Studied Computer Science at the University of Edinburgh.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c4fa6230901fda37ce33a006271ece271e5e9e8.jpg"
+      },
+      {
+        "name": "Nikodem Bieniek",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/nikodemb/",
+        "twitter": "https://x.com/nkdem_b",
+        "bio": "Nikodem is co-founder and CTO of Expanse. Trained and optimised speech recognition models on GPU clusters. Previously: managed the platforms researchers and engineers depended on at one of the world’s largest hedge funds (Millennium). Studied Computer Science at the University of Edinburgh.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c2d55059ebf4b59335ad292b3cc38a1e9d667650.jpg"
+      },
+      {
+        "name": "Yafet Melake",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yafet-melake",
+        "twitter": "https://x.com/yafet_melake",
+        "bio": "Yafet is co-founder and COO of Expanse. Built the first GNN-based cluster graph network for predicting SLURM queue wait times at EPCC (Edinburgh’s Parallel Computing Centre). Previously: tooling and infrastructure for researchers at one of the world’s largest quantitative funds (G-Research). Studied Computer Science at the University of Edinburgh.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/db8ab1acbb09fe838ce4d380889c7d1c27bf0975.jpg"
+      },
+      {
+        "name": "Eren Mendi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/eren-mendi-929b55138",
+        "twitter": "https://x.com/erenzmendi03",
+        "bio": "Eren is co-founder and CPO of Expanse. Built state-of-the-art decentralised foundation model training systems and performance models. Previously: prototyped emerging technologies in quantitative finance (G-Research). Studied Computer Science at the University of Edinburgh and Imperial College London.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af898412d2d555432b879560ffcdfde4fbb3e53a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8083,7 +8138,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "George Jefferson",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/georgejeffers/",
+        "twitter": "https://x.com/GeorgeJeffersn",
+        "bio": "Building revnu.com Solving growth for startups. Bootstrapped x3 software businesses to £100K+ while at uni. Won the xAI London Hackathon.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8b4304d67b6c18332be67e6b684e32dcc762efc3.jpg"
+      },
+      {
+        "name": "art freebrey",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/artfreebrey",
+        "twitter": "https://x.com/artfreebrey",
+        "bio": "CTO of Revnu (P26) your AI growth team. Bootstrapped x3 $150k+ businesses as a student. she/they",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7372644e4adafdfc389d071ee65a63b6972120f8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8120,7 +8192,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Conrad Frøyland Moe",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/conrad-frøyland-moe-7950b1229/",
+        "bio": "Co-Founder of PRINCEPS. Previously Treasurer of the Oxford Union (£3M+ institution). Experience from national Norwegian politics. Co-Founded an events company at whilst at Oxford University: scaled to 650+ tickets per event at £15K+ revenue. B.A Oxford (History & Politics)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3f9d3c85109c1e611b1a72db32bde5c3f770bd8f.jpg"
+      },
+      {
+        "name": "Anya Trofimova",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/anyatrofimova",
+        "twitter": "https://x.com/anya_trofimova7",
+        "bio": "Co-Founder of PRINCEPS. Previously worked on data centre project finance, including a $2bn Gulf data centre deal and the first ever space data centre project, and built software for UK Parliament on energy and industrial policy. Youth Fellow at Chatham House researching defence and infrastructure security. Oxford Casberd academic Scholar and former VP of the Oxford Union ($3M+ institution). Designed and led a UN digital campaign at 16.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/46f402a445d84bb9a5f2b87c6c18d4cc67c14ea4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8157,7 +8245,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anish Mariathasan",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/anishmariathasan/",
+        "twitter": "https://x.com/mariathasanish",
+        "bio": "Co-Founder at Osseus (YC S26). Prev. co-founded a compliance AI startup. ML research at a Harvard-HKU lab on computer vision for cancer research. MEng in Biomedical Engineering from Imperial College London, dropped Oxford PhD in AI Safety (for Health). Awarded academic scholarships for both.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2e6cc631f0d2a1f1b51513c008b98bed931bad1b.jpg"
+      },
+      {
+        "name": "Ayush Patel",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ayush-patel4/",
+        "twitter": "https://x.com/ayush_patel4",
+        "bio": "Co-Founder at Osseus (YC S26). 2x intern at Apple, where he built an agentic QA system. MEng in Computer Science from Imperial College London.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ccdce4615ca525f275d384024cd3e6eb8abc2e18.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -26,7 +26,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Julian Weaver",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/julian-weaver/",
+        "twitter": "https://x.com/juliver",
+        "bio": "Founder & CEO at Dydema. We’re building personal, programmable brain-computer interfaces. Prev. founding engineer at Syntra (YC S24) and co-founder of Longhorn Neurotech (200+ members). Led EEG/fMRI AI research; dual BS in CS and neuroscience @ age 20, UT Austin.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/72c5843bb2a1b13ad8c4e88550b29be6e3e22009.jpg"
+      },
+      {
+        "name": "Christopher Oosthuizen",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/christopher-oosthuizen-0151a9211",
+        "bio": "Founder and CTO at Dydema. Previously: Founding Software Engineer at Syntra, ML researcher at UH SAIL, and Studied CS at University of Houston.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/25ab33adbc087fc87c8d3463396b31e5dd319bcd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

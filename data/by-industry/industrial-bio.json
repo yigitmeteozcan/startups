@@ -1299,7 +1299,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mattias Akke",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/Mattias-akke",
+        "bio": "Founder at Halmos Labs. Previously LLM researcher at MIT (Gómez-Bombarelli's lab) and AstraZeneca, developing frontier models for drug discovery. Published at NeurIPS on Bayesian optimization with LLMs. Research intern at Cambridge in Tuomas Knowles' group studying protein misfolding diseases. Chaired Kodsport Sverige, Sweden's largest competitive programming organization. Awarded Berzelianum grant by Swedish Royal Academy of Sciences (one chemist awarded per year).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e01b9b8a380ee646dee214cd9e121e4c7102388a.jpg"
+      },
+      {
+        "name": "Linus von Ekensteen Löfgren",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/linusvonekensteen/",
+        "bio": "Founder at Halmos Labs. Previously Desk Quant at Danske Bank, building pricing algorithms and risk models across all asset classes. Conducted LLM security research at AI Sweden and quantum computing research at Chalmers. MS Engineering Physics and BA Economics from Lund University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f3dd97408e0d2f99a8a7e2a1fbcbca8ef12ae4cf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

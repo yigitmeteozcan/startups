@@ -222,7 +222,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jack Morrison",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/morrisonjack/",
+        "twitter": "https://x.com/jackmorrison",
+        "bio": "Founder and CEO at Agency Tool Company. Previously founder/CEO at Scythe Robotics, building autonomous electric outdoor equipment from 2018-2026 and successfully exiting to ASI. Earlier co-founded Replica Labs (mobile 3D scanning) and worked as a computer vision engineer at Occipital on the Structure Sensor. BA Computer Science from Bowdoin.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/13172ea12c502ccffb1824b2ef8e356abeabdfae.jpg"
+      },
+      {
+        "name": "Davis Foster",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/davisfoster",
+        "twitter": "https://x.com/davistfoster",
+        "bio": "Founder at Agency Tool Company - making it easier to scale robots. Previously co-founded Scythe Robotics ('18-26), made autonomous commercial mowers, acquired by ASI in 2026. Built and shipped hundreds of robots still operating across the country. Thiel Fellow.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3b4566280f9b3ba7c4ea23beb319e78fbf6db999.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -103,7 +103,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Arthur Nguyen-cao",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/arthur-nguyen-cao-690847146/",
+        "twitter": "https://x.com/Arthur_NC_",
+        "bio": "Founder & CEO of Vernius Systems. 6+ years RF PCB engineering. Lead 14 engineers at Defense Tech for Ukraine to develop FPV drone systems now fielded by Ukrainian units. Co-founded Auctify (raised $250K, featured in The Verge), where we built the world's first AI smart glasses. Developed the $2.6B USAF B-52 Commercial Engine Replacement Program proposal at Pratt & Whitney. Hobbies include computational fluid dynamics, rocketry, and civil aviation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4373c5af412b516a25bd9d3afc5678c56a348e2e.jpg"
+      },
+      {
+        "name": "Hisham El-Halabi",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/hisham-el-halabi-001/",
+        "bio": "Founder at Vernius Systems. Previously founding engineer at Suave Money (HF0, Orange DAO-backed), building a non-custodial P2P fiat-to-crypto marketplace used by hundreds of thousands and adopted by YC startups Shor and Kontigo. Co-founder/CTO at Auctify, raising $77K in presales and pivoting to Sano AI calorie tracker (30K users, $2.5K MRR, $250K raised). BEng Engineering Science, University of Toronto.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cd887780cb538a001e6e2bb72deb018117b59f82.jpg"
+      },
+      {
+        "name": "Joe Gonzalez",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/jge-2a7937115/",
+        "twitter": "https://x.com/joegonzalez0886?s=11",
+        "bio": "CoFounder at Vernius Systems. Serial founder: built Plucky Labs (backend-as-a-service for AI chat), XP Protocol (scaled to 200K+ users, 50K+ MAU), and Huddln (venture-backed Web3 startup). Previously Solutions Architect at Sandia National Labs under Q clearance, architecting secure comms for US Navy Tomahawk fleet. BS Computer Engineering, Sacramento State.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/677db7a1244f2604393fb1cc01f838806ea6304f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

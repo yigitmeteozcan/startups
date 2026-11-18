@@ -140,7 +140,29 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joel Santiago-Baretti",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/joel-santiago-baretti",
+        "bio": "Founder at Kairox Systems. BS in Engineering from MIT. IEEE published for an underwater counter-drone solution. Previous founder @ stealth startup, where I designed ruggedized edge-compute devices for combat medics. Other experience: a custom gaming platform for a wounded veteran, 3D printed quadcopters, helped design a sleep apnea device.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/234402384bf436743782196b0fae8f87084564ae.jpg"
+      },
+      {
+        "name": "Jorge Cavazos",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/jorge-cavazos-46767520a/",
+        "bio": "Founder at Kairox Systems. Previously lead ADCS engineer at Oligo Space, responsible for control law design, magnetorquer fabrication, and hardware-in-the-loop qualification. Designed self-regulating membrane testing systems at MIT Bioinstrumentation Lab. BS in Aerospace Engineering from MIT.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/631025187618a0cf5e276833f45b7b02bcef5eaa.jpg"
+      },
+      {
+        "name": "Alex Rice",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/alex-rice-ma",
+        "bio": "Founder at Kairox Systems. Previously at Draper Laboratory, MIT Lincoln Laboratory, NASA Johnson Space Center, and the MITRE Corporation. Published in IEEE OCEANS for underwater threat interception framework. BS in Electrical Engineering and Computer Science from MIT.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/305d8d96157fcdde0a9b62b82e655af04a157259.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -179,7 +201,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kristen Kita",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/kristen-railey-kita-18388722/",
+        "bio": "Founder at Caladh (YC F26). MIT PhD engineer and DARPA Principal Investigator with 10+ years in maritime autonomy spanning UUV navigation, real-time path and behavior planning, multi-agent coordination, and active/passive acoustics. Track record of building and leading maritime autonomy teams from scratch and taking systems from concept through open-ocean demonstration.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/290a6cffec2d2168a51b50a0d75818d20a9edf62.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

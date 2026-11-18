@@ -97,7 +97,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anton Livaja",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alivaja/",
+        "twitter": "https://x.com/antonlivaja",
+        "bio": "Co-founder/CEO of Caution (YC S26). We give teams a hosting platform to run sensitive workloads in secure enclaves and cryptographically prove what code is running in prod. Previously co-founded Distrust, securing systems for hedge funds, custodians, and critical infra responsible for $600B+ in assets. Deep in confidential computing, supply chain security, and applied cryptography. Mission: improve the freedom, security, and privacy of as many people as possible.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f6dddfa8391b5f9fce21fa7496e2368d59ef6987.jpg"
+      },
+      {
+        "name": "Ksenia Lesko",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ksenialesko/",
+        "twitter": "https://x.com/xenush",
+        "bio": "Co-founder at Caution, where we help teams run sensitive workloads in secure enclaves and cryptographically prove what code is running in production. I lead the business and product side; previously ran strategy and ops at Distrust (distrust.co) and led customer education and activation at Ada (ada.cx).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4ecf3715be1ffcf30eedb062148902b9a1458237.jpg"
+      },
+      {
+        "name": "Lance Vick",
+        "role": "Founder/CTO",
+        "linkedin": "https://lance.dev",
+        "bio": "Technology sovereignty maximalist. Lead security architect at Caution. Former security lead at Turnkey, BitGo, Unit 410, Pebble. Founded Stagex Linux distribution, and #! decentralized hackerspace. Experienced in Linux hardening, privacy, software engineering, security auditing, cryptographic key management, tamper evidence, HSMs, and supply chain security. Frequently internet infamous for exposing security negligence. Prolific mechanical puzzle collector, lockpicker, and hardware hacker.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/45728fc907c9915858fe6304bbdb25700f05d67b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

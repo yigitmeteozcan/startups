@@ -546,7 +546,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sami Laakkonen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sami-laakkonen/",
+        "twitter": "https://x.com/samilaa",
+        "bio": "CEO & Co-Founder at Bear. Built petabyte-scale data infra for clients incl. Google and Bloomberg. 2x Nordplus International Science Olympiad in Physics. Ex-fighter pilot training. CS dropout.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c78fe557404b8f7ef13811329fbe25bb5f686606.jpg"
+      },
+      {
+        "name": "Riki Karjalainen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/riki-karjalainen-22a612189",
+        "bio": "CTO & Co-Founder at Bear. Previously built petabyte-scale data infrastructure at Token Terminal. Applied Mathematics at Aalto University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6694a4980bf011635833fac045307bbc3efbf34.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

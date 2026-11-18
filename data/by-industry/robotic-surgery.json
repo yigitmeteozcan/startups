@@ -142,7 +142,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Leo Li",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/xhli/",
+        "bio": "Founder at Preload (YC F26). PhD student in Computational Neuroscience at Caltech. Previously Neuroengineer at Neuralink and software engineer at Amazon. BASc in Engineering Science (Robotics) from University of Toronto.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c0efc1399732d18a1cae08e8dc423cd65c482c6.jpg"
+      },
+      {
+        "name": "Surya Pandiaraju",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/surya-p/",
+        "twitter": "https://x.com/suryapandiaraju",
+        "bio": "Founder at Preload (YC F26). PhD candidate at Johns Hopkins BME, Waterloo BME grad Previously worked at - Sonera Magnetics - iota Biosciences - NeuroPace - Paradromics",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/478163db23333e5a3005d5e44a9329107a2af055.jpg"
+      },
+      {
+        "name": "Runming (Tony) Wang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/runming-wang-090030139/",
+        "twitter": "https://x.com/RunmingW",
+        "bio": "Founder at Preload (YC F26). Biomedical Engineering PhD candidate at Johns Hopkins School of Medicine. Developed the first brain application of the Freeform Stimulator platform for focal cortical modulation. Performs animal neurosurgeries and fabricates neural recording and stimulation hardware. Previously conducted research at Emory/Georgia Tech on motor-unit coordination using EMG and motion tracking. BS in Neuroscience from Emory.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba42b95280466fb10ddc011831ed7863ed708916.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

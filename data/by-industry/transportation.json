@@ -1456,7 +1456,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christian Lind",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/christian-lind-209981112/",
+        "bio": "Co-founder & CEO of Ailit, electrifying North American freight rail. Studied theoretical physics at KTH, where my thesis built a diffusion-based deep learning model of the US power grid that outperformed state-of-the-art models. Previously ML engineer at Modulai. Swedish, now in San Francisco. Big fan of hardware startups and the push to reindustrialize.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6957b04fb349bdf74d5de660ddbabf342b2038b7.jpg"
+      },
+      {
+        "name": "Emil Tagesson",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/emil-tagesson/",
+        "bio": "Building the battery tender that lets railroads run their existing diesel-electric locomotives on swappable battery power. At Candela, I took the world's first battery-electric hydrofoil passenger ferry from prototype through certification, into commercial operation, and series production. Before that: battery team at Koenigsegg, led powertrain & electronics at KTH Formula Student, building in-house electric race cars. MSc Embedded Systems, KTH.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cd3fd60c07246a79922ca48e582afe3fbc15e60a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

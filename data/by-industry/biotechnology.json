@@ -649,7 +649,23 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shaamil Karim",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/shaamil-karim/",
+        "twitter": "https://x.com/shaamilkarim1",
+        "bio": "Excited about AI for predictive biology",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/46de7a475d51ebe79a88352728e36af1849266d8.jpg"
+      },
+      {
+        "name": "Christian Gensbigler",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christian-g-a2594029",
+        "bio": "Previously MTS at Origin Bio (YC w26), math at Dartmouth",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/09fc09f66416e77a682ab3ae047ba7f436df4d44.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -687,7 +703,16 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Eta Atolia",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/eta-atolia/",
+        "twitter": "https://x.com/eatolia",
+        "bio": "Founder & CEO, TareBio (YC S26). MD-PhD from UCLA-Caltech, where she built a novel platform that develops vaccines for any cancer or infection in weeks, funded by the Gates Foundation. BS in Biology from MIT. Conducted research at the Koch Institute, Harvard Medical School, and the Weizmann. Select Awards: UCLA MD-PhD Merit Scholar, UCLA TDG Senior Fellow, MIT iGEM Gold Medal, MIT IDEAs winner, MIT Dean Advisory Group, WhiteHouse Science Fair, Bessie Lawrence Scholar, Intel STS Finalist",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1b89afa4d7ba0012222ebc57912ad8e652db40bd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -725,7 +750,30 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matej Zamecnik",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/matejzamecnik/",
+        "bio": "Co-founder & CEO at Nitroduck (YC F26). Led 21 students to the Grand Prize at iGEM, the world's biggest biotech competition, by making duckweed, the fastest-growing plant on Earth, programmable. Before that, he co-founded Spicy Cells, building bioreactors to grow saffron as plant cell cultures. Researched at CEITEC. MS in Plant Experimental Biology, Masaryk University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9978d7146b5d09c2ccd6f6adf5c4656de6524dc4.jpg"
+      },
+      {
+        "name": "Matúš Grieš",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/matusgries",
+        "twitter": "https://x.com/matgries",
+        "bio": "Co-founder & CTO at Nitroduck (YC F26). I co-led iGEM Brno 2025 to Grand Prize against 330 teams including Stanford and Oxford. I worked at Karolinska Institutet (Amgen Scholars), building nanoparticles for drug delivery to placenta and at CEITEC, where I demonstrated plant telomere proteins bind human DNA more tightly than their own. I'm a National Decathlon Champion and 13x silver medalist in triple jump and high jump.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/78949f0d8646f29bb9f04c8a0259251b1fa09e58.jpg"
+      },
+      {
+        "name": "Miro Rosputinský",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/miroslav-rosputinský",
+        "bio": "Co-founder & CSO at Nitroduck. Won the iGEM Grand Prize against 330 teams. Research fellow at Weizmann Institute (<1% acceptance) where I engineered cotton to produce spider silk proteins and potatoes to make barnacle adhesive. Built the first metabolic model of a bioplastic-producing bacterium.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ea8f7b555ea4affd76f4115d76084067a8bf289d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -765,7 +813,31 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Owen Tower",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/owen-tower-270630133?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "twitter": "https://x.com/owentower1",
+        "bio": "Founder at Primordiant (formerly SuperRadiant). PhD in Physics from Brown, where he invented novel algorithms to discover phase transitions in random-field Ising models, in addition to using micro and nanofluidics to study analogous system experimentally. Research experience at NASA JPL and CERN/LHC. Trained in nanofabrication, microfluidics, and ML methods including PINNs and reinforcement learning.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/70a067e2bb7ef406f9c749791c05d5312086e47e.jpg"
+      },
+      {
+        "name": "Cooper Niu",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/cooper-niu",
+        "bio": "Founder of Primordiant. PhD in Physics from Brown University. Researches LLM and AI agents for scientific discovery. Created ALBERT, an autonomous AI particle physicist that proposes, verifies, and iteratively refines physical theories; given only pre-1990 data, it recovered the top quark’s mass and properties in under an hour. Previously worked on neutrino physics with the NOvA experiment at Fermilab and on LHC experiments at CERN.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9ff31e1e94545e82247fe8f4a13b65e32eceda53.jpg"
+      },
+      {
+        "name": "Benedict Quartey",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/benedictquartey",
+        "twitter": "https://x.com/Benedict_Q",
+        "bio": "CS PhD from Brown. Pioneered generally capable yet verifiable robot autonomy, combining foundation models with symbolic planning and spatial world models so robots can follow open-ended instructions with guarantees. Built LIMP (ICRA 2025; best paper finalist, TAMP@ICRA), the first system to do this in real-world environments without prebuilt maps, and PACTS (IROS 2026), learned skills that compose zero-shot. Previously at the Boston Dynamics Robotics & AI Institute.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a1b9e290e4926a87fa1477ca9d2d8d77e235d399.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -805,7 +877,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andre Yeung",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/andre-yeung",
+        "twitter": "https://x.com/ayyeung42",
+        "bio": "CEO & co-founder at Lux Foods. Stanford BioE/Computer Science (AI) B.S./B.S.. First lab student in Dr. Robert Jinkerson's lab at UC Riverside, leading project on endosymbiotic gene transfer in algae. Previously student researcher at Brophy Lab working on synthetic genetic circuits in plants. Founded Fruit for Homeless nonprofit, leading 25 students to rescue and distribute 300,000 pounds of fresh fruit to underserved LA communities. Regeneron STS Semi-finalist, iGEM silver medalist.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2caa51763e8bff60f6eccdbbdd90c0ec050dbe12.jpg"
+      },
+      {
+        "name": "Robert Jinkerson",
+        "role": "Founder",
+        "linkedin": "",
+        "twitter": "https://twitter.com/jinkersonlab",
+        "bio": "Co-founder & CSO at Lux Foods. Professor of Chemical Engineering at UC Riverside since 2017, engineering crops for controlled environments and space. Led the UCR team that won NASA's Deep Space Food Challenge and flew cherry tomatoes to the ISS. NSF CAREER Award, FFAR New Innovator Award. Showed plants can grow on acetate without sunlight (Nature Food 2022). Previously postdoc at Stanford; PhD, Colorado School of Mines.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/31b9722aacc58bd0f836a52ab85e7c013b6ef309.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

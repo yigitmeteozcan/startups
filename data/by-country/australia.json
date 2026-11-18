@@ -3260,7 +3260,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Seb Poole",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/seb-poole/",
+        "bio": "Building the AI-native ServiceNow. Serial founder, most recently Frankie now Unmind (Disney, Uber, Lendlease, the MLB as customers, 100m+ raised).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d9f95185b77eb69716b5e6e6be2b6c680e98740f.jpg"
+      },
+      {
+        "name": "Aleks Tomovski",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/atomovski/",
+        "bio": "I've spent 15+ years building developer platforms, starting as part of the core team on Wix Code (now Wix Studio), where we helped empower millions of citizen developers before it was a buzzword. I then scaled a startup through Southeast Asia, before joining Canva where I led their internal developer platform. I left to co-found Modern with Seb, bringing the same platform-building instincts to IT automation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/53bde24f2b11eaa6b7c973874410330dff73bc2e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -252,7 +252,22 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "James Walton",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/james-walton-79b35339a/",
+        "bio": "James Walton is Co-founder of Earendil. Former British Army and a UAS specialist with experience in Ukraine, he brings direct operational experience in contested electromagnetic environments and detachment-level drone integration challenges. Prior to Earendil, he founded and scaled two IT and telecoms companies. His frontline UAS expertise and operational delivery track record position Earendil to close the gap in scalable, NATO-aligned drone warfare training and interception.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fd50381f327469f83306e46ac417ca633252b142.jpg"
+      },
+      {
+        "name": "Dan Komorny",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/dan-komorny/",
+        "bio": "Dan Komorny is Co-founder of Earendil Robotics. He has a decade of experience in drones and security, including direct operational exposure in Ukraine. He has developed AR heads-up display applications and optical systems, and previously led hardware product development on drone payloads and turrets. This combination of frontline insight, product development, and computer vision expertise positions Earendil to deliver advanced UAS and soldier systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7fed5227c8ec38cbb843d2210ae2f8e47d2dc39f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

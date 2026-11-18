@@ -332,7 +332,36 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jacob Hambro",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jacob-hambro-70a9b1153/",
+        "bio": "Founder at Audun. Previously consultant at McKinsey & Company. Holds a MSc in Computer Science & Finance from NTNU.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5fd98a82faf0f9b01a9675f4b4cbce1e3332c7b7.jpg"
+      },
+      {
+        "name": "Magnus Vonen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/magnus-nj%C3%B8lstad-vonen-518945208",
+        "bio": "Founder at Audun (YC S26), building AI-native debt collection. Previously at McKinsey & Company, advising on go-to-market strategy and AI. Before that, four years as an operator in Norwegian special forces, including overseas deployments. Economics at NHH (Norwegian School of Economics)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dcea88c387054dd5fdfdfacef04c7a032a94d818.jpg"
+      },
+      {
+        "name": "Henrik Brun Fevang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/henrik-brun-fevang-8b5b18195",
+        "bio": "MSc in Computer Science and Artificial Intelligence. Previously a full-stack software engineer and architect at PwC, building software infrastructure and data platform for SINTEF, one of Europe’s largest research institutions. Previous full-stack engineering experience at Oda and Airthings.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/46d31d5e3c94ede241e440fdc92dff2df6c88006.jpg"
+      },
+      {
+        "name": "Peter Flo",
+        "role": "Founder & Chief Scientist",
+        "linkedin": "https://www.linkedin.com/in/peterhollevik",
+        "bio": "Founder & Chief Scientist at Audun. Previously Special Projects at Midjourney and a graduate researcher at Harvard. MS in Data Science from Harvard, dual B.S. from UC Berkeley. More at pflo.org.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6cde847c6e23c09b48938d4f381e4b99258eeffe.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

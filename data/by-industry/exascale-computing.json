@@ -28,7 +28,24 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ross Centers",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/centers/",
+        "twitter": "https://x.com/rosscenters",
+        "bio": "Lunar resource geologist. Founder of Planetary Sunshade Institute. Kardashev scaling since 2015.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a7da888d8bb4879eb5ed964886a037aa38c0859a.jpg"
+      },
+      {
+        "name": "Brogan BamBrogan",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/brogan-bambrogan/",
+        "twitter": "https://x.com/BamBrogan",
+        "bio": "Employee #23 at SpaceX. Designed and built the 2nd stage engine for Falcon 1 as well as many elements of the Dragon spacecraft, including the primary heat shield, Draco thrusters, and more. Later co-founder & CTO at Hyperloop One and co-founder & CEO at Arrivo. Earlier engineering roles at Northrop Grumman and Chrysler Motors.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/589e273af2b0a3ff1590082a9389e7e3a73ecb05.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
