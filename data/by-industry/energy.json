@@ -1065,14 +1065,14 @@
     "programSlugs": [
       "yc-summer-2020"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "acquired",
     "teamSize": 33,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1157,7 +1157,31 @@
     "teamSize": 125,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tim Barat",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/timothybarat/",
+        "twitter": "https://twitter.com/TimBarat",
+        "bio": "Former Lineman, Electrician, Engineer, now Entrepreneur working on California's wildfire problem.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cbf6e78a2a31c49d8bd20d5d43bcf9f378eb32bf.jpg"
+      },
+      {
+        "name": "Omar B",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abdulrahman-bin-omar-42330bb2/",
+        "twitter": "https://twitter.com/A_binomar1",
+        "bio": "Co-founder @Gridware",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e3f2fa2eba082417cee1ac101f9442d262a1c0c.jpg"
+      },
+      {
+        "name": "Hall Chen",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/hallchen/",
+        "bio": "Building the grid of the future",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8d1fe5a110e959fb9c5b4f124aac59f37213d0c5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1197,7 +1221,22 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Phil Yuen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/philipyuen/",
+        "bio": "Phil is part of the YC 06 batch, TextPayMe founder, a mobile payment system which was eventually acquired by Amazon and became Amazon Payments. Now working on an anti COVID-19 Air Filtration device.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f2ab9e110ab7700004fe7a883ee3c60cab811191.jpg"
+      },
+      {
+        "name": "Roger Sze To",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rogerszeto/",
+        "bio": "15+ years of research experience in building energy and indoor environmental quality, inventor of 3 technologies related to energy saving and air disinfection.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/793d8387b96e0682382084d49409f2e63e7dcd8a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1239,7 +1278,23 @@
     "teamSize": 70,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Henrik Langeland",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/henriklangeland/",
+        "bio": "CEO and Co-founder of Enode",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/76aaaeef17611ba86ac3a5d4b66b2f11f561c5d0.jpg"
+      },
+      {
+        "name": "Nikolai Heum",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nikolai-johan-heum-a3057144/",
+        "twitter": "https://twitter.com/nikolaiheum",
+        "bio": "i like turtles",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a48c3557b31762010ae8af1db8800405e9cd603.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1283,7 +1338,23 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Huelskamp",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/paulhuelskamp",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3cc12b83575178d2e050d3e7d8e1184aff88d68.jpg",
+        "active": false
+      },
+      {
+        "name": "Alexander Meek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandermeek/",
+        "bio": "Alex is a venture capital investor, former founder and W21 YC alum. As a former startup operator, Alex was the co-founder and President at Moxion, one of the largest mobile energy storage manufacturers in the US. Under his leadership, Moxion secured over $150M from investors like Amazon, Microsoft, and Energy Impact Partners, and delivered over $100M in revenue in its first year. Before that, Alex founded Newday, a value-driven asset management firm that now oversees $175M.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e03689cbdc1e37e675ca67cbfb219c8f04df6712.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1325,7 +1396,15 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Marge",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/thomas-marge",
+        "bio": "Thomas is co-founder and CEO of Rewbi, which uses AI to optimize grid-connected battery storage. He previously founded inBalance, a YC W21 company, which was acquired by Stem (NYSE: STEM) in January of 2023. He led battery storage optimization and forecasting for Stem. He completed part of a Pure Mathematics PhD at University of Cambridge, which he left to build inBalance. He holds a Masters in Applied Mathematics and B.S.E. in Pure and Applied Mathematics from Johns Hopkins, graduating early.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1e928aa8f09dd229ceedcffa08968ba2649d89e7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1366,7 +1445,23 @@
     "teamSize": 60,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mo Mahallawy",
+        "role": "Founder/CTO",
+        "linkedin": "http://linkedin.com/in/mmahalwy",
+        "twitter": "https://x.com/mofromyyz",
+        "bio": "Cofounder/CTO of Shepherd",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d5a5d4d9e50cc350fa542b14da4c5ea788ad6232.jpg"
+      },
+      {
+        "name": "Justin Levine",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/justindlevine29/",
+        "twitter": "https://twitter.com/justdlevine",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dc1f34c08543f0d77e257bf6ffa1c0efe1e25dcd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4140,6 +4235,7 @@
       "Industrials",
       "Energy",
       "Hard Tech",
+      "Hardware",
       "Aerospace",
       "AI"
     ],
@@ -4492,7 +4588,7 @@
     "id": "yc-primordiant",
     "source": "yc",
     "name": "Primordiant",
-    "description": "Embodied Scientific Intelligence",
+    "description": "Autonomous labs run by AI and robot scientists, available as an API.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/15a7e2a5caa04595d7620cd8161f3b2cffd00a51.png",
     "website": "https://primordiant.com",
     "sourceUrl": "https://www.ycombinator.com/companies/primordiant",
@@ -4560,7 +4656,7 @@
     "id": "yc-verno",
     "source": "yc",
     "name": "Verno",
-    "description": "AI engineering industrials like chip fabs, refineries and power plants",
+    "description": "AI that executes engineering for chip fabs, energy, and power plants",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74ef12c285d4addcc60a88f490fbbb178260035f.png",
     "website": "https://verno-ai.com",
     "sourceUrl": "https://www.ycombinator.com/companies/verno",
@@ -4715,7 +4811,7 @@
     "id": "yc-contour-contourholdings-ai",
     "source": "yc",
     "name": "Contour",
-    "description": "AI-native permitting for Americas buildout",
+    "description": "AI-native permitting for Data Centers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ae0831175e2bfda4e79ecd1dfe31db6e94502492.png",
     "website": "https://contourholdings.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/contourholdings",

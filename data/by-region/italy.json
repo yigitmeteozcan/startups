@@ -29,7 +29,40 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Giulio Cantoro",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/giulio-cantoro-663665168",
+        "bio": "I like to invent new things, break and rebuild them. Graduated in management engineering from the Politecnico di Milano and from the Alta Scuola Politecnica. I worked at Bosch on last mile delivery solutions before founding Blink in early 2020.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1a51ad84c59be71f9222e9e1d2c2f879813cf715.jpg",
+        "active": false
+      },
+      {
+        "name": "Jacopo Berlusconi",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jacopo-berlusconi",
+        "bio": "Work Hard & Play Hard, willing to impact society for better. Always up for learning something new. Ambitious, Positive, Extrovert and Team Player. Energy Engineer with a passion for innovation: understand a need, build a solution, make sure the people who need it can actually access it. Co-Founder of Blink, offering sustainable same day delivery to direct to consumer brands. Responsible for Sales and Partnerships.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b1d0cacc42379b667c99c17bda3542f5015df2a6.jpg",
+        "active": false
+      },
+      {
+        "name": "Marco Boretto",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/marco-boretto",
+        "bio": "MSc in Industrial Engineering, passionate about mobility. Now taking care of Ops excellence and Product development at Blink",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6ed72d9eacb5659e68f1cbfcb343174cf182dcf.jpg",
+        "active": false
+      },
+      {
+        "name": "Marco Turetta",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/marco-turetta",
+        "bio": "I am a computer engineer with 7+ years of experience with different startups and big companies, driving now the excellence of Product and Technology at Blink. My areas of expertise are scalable web applications, machine learning and optimization algorithms. I have a strong passion for innovation and for making an impact on people's lives.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0ab1b9cdf11ef0338f633e41986781f114b997bf.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

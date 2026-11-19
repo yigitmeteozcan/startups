@@ -353,7 +353,24 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sigurd Seteklev",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sigurd-seteklev/",
+        "twitter": "https://twitter.com/SigurdSeteklev",
+        "bio": "CEO and founder of Kitemaker. Long experience with product management from team to director level.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/97039e01ccfa02b24893fccd4bb28410a7cebcd9.jpg"
+      },
+      {
+        "name": "Kevin Simons",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ksimons/",
+        "twitter": "https://twitter.com/ksimons",
+        "bio": "Managed software development teams for about 10 years. Big believer in autonomous, cross-functional, self-organizing teams that are obsessed with delivering value to users.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1dd43bb797798d0a5267bd7aa80b54b3ecfc5abf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

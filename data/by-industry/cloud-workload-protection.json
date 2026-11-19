@@ -150,7 +150,23 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Doug Neumann",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dougneumann/",
+        "bio": "Co-founder and CEO of Arpio. I've been building software for 20+ years at places like Microsoft, BMC, and Bandwidth. Before Arpio I led the software engineering organization at Bandwidth through their successful IPO in 2017.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/899939338e1fae3879e47a659a3b7146cae18fa8.jpg"
+      },
+      {
+        "name": "Shaw Terwilliger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shaw-terwilliger-64079076/",
+        "twitter": "https://twitter.com/sterwill",
+        "bio": "Got my first job writing software at 15 and I've been doing it ever since. Built things at small, medium, and large companies. Launching new products is the best. CTO of Arpio. Increasingly gray beard. Unix guy.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b1597e791cad89429a0855cad87574e37df145ab.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -620,7 +620,16 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rob Picard",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rob-picard/",
+        "twitter": "https://twitter.com/itsRobPicard",
+        "bio": "Teleport and Pioneer Fund",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/28031210a85b5d92639f8da559e926f5d591ec75.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -663,7 +672,26 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matthew Linkous",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthewlinkous/",
+        "twitter": "https://twitter.com/matthew_linkous",
+        "bio": "Used to launch new features on the Google Search page and now building the best database for application developers!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e2b534c4afa0fb288b927e8fe08ba623f8f9e112.jpg",
+        "active": false
+      },
+      {
+        "name": "Will Ernst",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/will-ernst-71557297/",
+        "twitter": "https://twitter.com/will_ernst",
+        "bio": "Software engineer with a background in finance and performant web applications. Building Triplit - the full-stack database platform for application developers. Middlebury College graduate.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39750d1e982a1cdac2175182b41f1a88e949e4f8.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -705,7 +733,25 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Phillippe Siclait",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/phillippe-siclait/",
+        "twitter": "https://twitter.com/siclait",
+        "bio": "I'm a co-founder and the CEO of Clay. I was an early software engineer at Airbnb and before that I was a researcher in MIT's Computer Graphics Group. I love making 3D art and have been making my own 3D games (coding + 3D art) since I was in middle school.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8f5e0a9e98d490183fa086fbbcc53360e7e5a799.jpg",
+        "active": false
+      },
+      {
+        "name": "Sebastien Siclait",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sebastiensiclait/",
+        "bio": "Hi there! I am a co-founder of Clay in YC W21. I am from Miami, FL but currently live in Los Angeles, CA. I graduated from Columbia University in May 2018 with a BA in Computer Science with a focus on Interactive and Creative Technologies and spent the two years leading up to YC working with Walt Disney Animation Studios. I'm interested in finding ways to enable compelling storytelling with technology.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/03fa86bec683d0352faf2d5929acf800a76278c1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -745,7 +791,24 @@
     "teamSize": 22,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rodrigo Santibanez",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/santiba/",
+        "bio": "Founder @ControlHub and @EATclub. Stanford GSB",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/873f350478cd5efe58049f89822dbdcb55b6efd1.jpg",
+        "active": false
+      },
+      {
+        "name": "Leonardo de la Cerda",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/leonardodelacerda/",
+        "twitter": "https://twitter.com/kaiserleo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5e058854d7e7abf9bcf3b28e1784a0dd244a9ad3.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -787,7 +850,24 @@
     "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ali Khajeh-Hosseini",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alikhajeh1/",
+        "twitter": "https://twitter.com/alikhajeh",
+        "bio": "Ali Khajeh-Hosseini is the co-founder of Infracost, where he leads Product and Customer Success. He has spent over a decade at the intersection of cloud infrastructure and cost optimization, including earning a PhD in cloud cost modeling—before \"FinOps\" was even a term. Prior to Infracost, Ali co-founded two cloud startups that were acquired. Today, he works closely with some of the world’s largest enterprises to make cloud costs actionable, automated, and developer-first.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9dff4980e6dddf8dec2391d264c782da12456fb5.jpg"
+      },
+      {
+        "name": "Alistair Scott",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aiscott/",
+        "twitter": "https://twitter.com/aliscott",
+        "bio": "Co-founder of Infracost. Developer at heart. Love to ski and cook. Currently on a mission to cook a dish from every country in the world.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/66c3efde7d8da9ec5f81100fab0cfae450b727dd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -827,7 +907,32 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Peter Clark",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/peter-clark-51990a8a/",
+        "twitter": "https://twitter.com/plc",
+        "bio": "Spent past 15 years doing Growth — especially for B2B companies peterclark@me.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/10b6d9040624e225873e4d6de86824235dacebfc.jpg"
+      },
+      {
+        "name": "Anil Sevim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anilsevim",
+        "twitter": "https://twitter.com/anilsevim",
+        "bio": "previously - founding engineer @udemy ($UDMY), director of engineering @juullabs @adroll",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a97efea4ee71ccce353500ead730eb08e11fccff.jpg"
+      },
+      {
+        "name": "Brendan Weitz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brendanlweitz/",
+        "twitter": "https://twitter.com/bweitz1",
+        "bio": "I'm currently the co-founder & cbo at Journey and previously was GM @ Quora, Sr Director @AdRoll, and early Sales @ Facebook.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3e37e6f90c83be4f910841bde3ea8b675c1012c6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -866,7 +971,22 @@
     "teamSize": 22,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Enrique Perezalonso",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/perezalonso/",
+        "bio": "Enrique has over 25 years of experience in traditional FIs and Fintech companies, managing marketing, product, operations and sales functions. He has an MBA from the MIT Sloan school of Management and has worked for McKinsey & Co. and other consulting companies. He's bilingual (in Spanish) and has lived in Mexico, England and the US.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b65c873e09e741439ad744fce621b9356a5319b7.jpg"
+      },
+      {
+        "name": "Andrew Mason",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andrew-s-mason/",
+        "bio": "Andrew is the CoFounder and Head of Product for Palla. He previously was the CPO for Lana, a US neobank co-created by BCG. He led product initiatives for BCG corporates and prior to that startups including Intel Capital-backed FlashGrade. YC Badge: 0x322737040ad9462049f906a2d6c06ff7f8b7a656",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1f552f8a5ecec94d93971e802995a91ba9658632.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -908,7 +1028,23 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Caelan Urquhart",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/caelan-urquhart/",
+        "twitter": "https://twitter.com/caelanu",
+        "bio": "Co-founder, CEO @ Pipekit (S21) (https://pipekit.io) ex-Kite, Expo, McKinsey Functional strengths: community, marketing, ops, finance Industry experience: dev tools, OSS, digital health",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/15bcfebadf740bde049ad5e61b9b61010c31a3cc.jpg"
+      },
+      {
+        "name": "J.P. Zivalich",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jpzivalich/",
+        "bio": "Founder, CTO @ Pipekit (S21) (https://pipekit.io) ex-Docker Industry experience: Dev tools, OSS, investment banking",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a9000f2a63a831fd0ad88d3ef2f594c7dc39ed9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

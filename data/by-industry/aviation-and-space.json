@@ -785,7 +785,23 @@
     "teamSize": 55,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Topher Haddad",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/topher-haddad-a9a460a4/",
+        "twitter": "https://twitter.com/topherhaddad",
+        "bio": "Previous to being CEO of Albedo, Topher was a systems engineer at Lockheed Martin working on top secret remote sensing satellites. Topher led teams involved in the optical design and imaging architecture across multiple $B+ government programs. He holds a B.S. in Mechanical Engineering from UT Austin and an M.S. in Electrical Engineering from Johns Hopkins.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/399395f24102ae8d314afeaf8a0330c5b983d5c8.jpg"
+      },
+      {
+        "name": "AyJay Lasater",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aj-lasater/",
+        "bio": "CTO at Albedo. Previous to Albedo, AyJay was a System Architect at Lockheed Martin, developing satellite constellations, satellite designs from concept to launch and in-orbit ops, and iterated on various in-depth performance analysis. AyJat worked with high performing small sats and exquisite large $B+ satellites for the government. He holds a B.S. in Mechanical Engineering from Colorado School of Mines and M.S. in Mechatronics from DU",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b7bc7c791d570d7fa5d8302fb967156cdf42d8d3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -829,7 +845,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Patrick Walton",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/mpatrickwalton",
+        "twitter": "https://twitter.com/mpatrickwalton",
+        "bio": "Co-founder, CEO, and project engineer at Care Weather. As project engineer, he funded, architected, licensed, and operates the company's five satellites on orbit. He has an M.S. and B.S in electrical and mechanical engineering from BYU. As an undergrad, he started BYU's nationally-recognized rocketry club and won $1M from NASA to lead a team of 20 in launching BYU’s first two satellites.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b962ec93a7e9abecbabe4a774212b4ea13e09c6.jpg"
+      },
+      {
+        "name": "Alex Laraway",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alex-laraway-8ba461169/",
+        "bio": "Alex is a full-stack aerospace engineer. He single-handedly designed and built multiple record-breaking satellites that are on orbit now. Alex got his B.S. in manufacturing from BYU. His space experience goes back to age 10 machining high-altitude rockets on a lathe in his garage and flying them at Mach 4 to the edge of space.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed7677fc465451b242ff816051231980ca11208a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -870,7 +902,20 @@
     "teamSize": 305,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andy Lapsa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andrew-lapsa-96a7b771/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dbf9f0753ae71d5e252c8b22bf4265804ae29c0c.jpg"
+      },
+      {
+        "name": "Tom Feldman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thomas-feldman-817402100/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/115f7bbedd9796bad717514666d02ffa567436c6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -913,7 +958,22 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Billy Thalheimer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/williamthalheimer/",
+        "bio": "Billy is an aerospace business leader and multidisciplinary engineer with expertise spanning aviation entrepreneurship and novel aircraft development. At Aurora Flight Sciences, Billy led execution and BD for next-gen aircraft programs. Holding a BS/MS from MIT in aerospace engineering, he also led flight physics modeling for Boeing's electric air taxi, and authored their custom aircraft design code. As a passionate aerospace nerd, Billy spends his free time competing as an aerobatic pilot.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55b8ff816963ee85958d35e82d1ba6024594c470.jpg"
+      },
+      {
+        "name": "Michael Klinker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-klinker-85a1a989/",
+        "bio": "Aviation runs in Mike’s blood--he received his Bachelors and Masters degrees from MIT focused on aircraft controls and autonomy, is an avid pilot, and loves any vehicle that flies or floats. Mike spent years at Airware, Raptor Maps, MIT Lincoln Labs, and Aurora Flight Sciences designing and operating innovative vehicles. Mike has built and written control software for over a dozen aircraft, and brings his advanced flight controls and abundant flight test experience to REGENT as its CTO.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/194db99a33efea8eb6ea8b9a26bfc755e4e69693.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -955,7 +1015,15 @@
     "teamSize": 58,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jason Sylvestre",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jason-sylvestre/",
+        "bio": "Co-founder & CEO of H3X Technologies. Ex- Specter, Tesla, MTS. MS and BS in Electrical Engineering from University of Wisconsin-Madison. Built electric racecars in college (FSAE).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/419f9b389827846340da3c42d0a0a3fffdd160ee.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -998,7 +1066,23 @@
     "teamSize": 28,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Justin Fiaschetti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/justin-fiaschetti-097b10166/",
+        "twitter": "https://twitter.com/jcfiaschetti",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/78ccd230bd22d0383749f24bcd370442e76eaf8d.jpg"
+      },
+      {
+        "name": "Austin Briggs",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/austinbriggs7/",
+        "twitter": "https://twitter.com/_abriggs",
+        "bio": "‎",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af375c9be5644e12cbd80a0444c7d231c2cde27b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1040,7 +1124,22 @@
     "teamSize": 11,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "James Dorris",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jdorris3/",
+        "bio": "Prior to founding Odys Aviation (formerly Craft Aero), James held leadership roles at GoogleX, Virgin Hyperloop One, and Arrivo. He started his career in Fusion Energy Research at the MIT PSFC and has long been passionate about improving sustainability and efficiency of transportation systems. As employee 20 at Virgin Hyperloop One, he was responsible for building & leading the propulsion and levitation teams & tech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c3494258d7810be63d8f6109c90afa18f2333539.jpg"
+      },
+      {
+        "name": "Axel Radermacher",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/axel-radermacher/",
+        "bio": "Axel Radermacher has spent his career advancing transportation by bringing together technology, design, and business. At Odys, his core mission is assuring the product and the company exceed the needs of the customer and the market. Previously, as Karma's Chief Vehicle Engineer for EV Platforms, he found the perfect balance between technology, comfort, and beauty. In other roles, he electrified and redefined sports cars, trucks, and off-road vehicles.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4a7df5c605fd549321ac8bf1b17d966e7ca13b78.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2218,8 +2317,8 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 1,
-    "isHiring": true,
+    "teamSize": 2,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {

@@ -192,7 +192,15 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Guilhem Herail",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/guilhemherail/",
+        "twitter": "https://twitter.com/guilhemherail",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a086b2ac4425a6e66a65fc929f02b035afc23a1d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -569,7 +577,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Shan Mohta",
@@ -676,8 +684,8 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 1,
-    "isHiring": true,
+    "teamSize": 2,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -1779,7 +1787,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -2646,7 +2654,7 @@
     "id": "yc-0-security",
     "source": "yc",
     "name": "0.security",
-    "description": "Open-source AI security agents for enterprise",
+    "description": "Sovereign AI security agents for enterprise",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
     "website": "https://0.security",
     "sourceUrl": "https://www.ycombinator.com/companies/0security",

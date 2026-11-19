@@ -649,7 +649,24 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Owen Bodley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/owen-bodley/",
+        "twitter": "https://twitter.com/obodley",
+        "bio": "CoFounder of PipeBio together with Jannick. Having a mechanical engineering background working in software engineering for the past ~7 years primarily in the field of Bioinformatics and specifically antibody drug discovery.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b0635eb6418a20405e84d3b817bba17df52c89b7.jpg"
+      },
+      {
+        "name": "Jannick Bendtsen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jannickbendtsen/",
+        "twitter": "https://twitter.com/jannickbendtsen",
+        "bio": "More than 15 years of experience in commercial bioinformatics companies. Strong scientific background in molecular biology and bioinformatics and have been in several senior management positions. Enjoys running!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f55b11438d2222585e651c682d32a7719af9958f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1442,6 +1459,57 @@
     "alsoIn": []
   },
   {
+    "id": "yc-junction-bioscience",
+    "source": "yc",
+    "name": "Junction Bioscience",
+    "description": "Industrializing structural biology: from months to minutes",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c382f7f1170e4d96b382d69430f2fc2c9fffe94.png",
+    "website": "https://www.junction.bio/",
+    "sourceUrl": "https://www.ycombinator.com/companies/junction-bioscience",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Drug Discovery and Delivery",
+      "AI-powered Drug Discovery",
+      "Hard Tech",
+      "Biotech",
+      "Drug discovery",
+      "Therapeutics"
+    ],
+    "year": 2024,
+    "program": "YC Winter 2024",
+    "programSlugs": [
+      "yc-winter-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Brian Petkov",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/brian-petkov",
+        "bio": "Brian is a theoretical physicist and drug hunter with degrees in mathematics and chemistry from Duke University and doctoral training from NYU. He was previously the first employee and Vice President at a computational drug design startup where he led the Machine Learning operation and grew a 30-person team to success on previously-undruggable targets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2009e2dff8fef2c268a6cf0a7ba43a157dc51981.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-angstrom-ai",
     "source": "yc",
     "name": "Ångström AI",
@@ -1895,7 +1963,7 @@
     "id": "yc-halmos-labs",
     "source": "yc",
     "name": "Halmos Labs",
-    "description": "Rebuilding drug development for automation",
+    "description": "One API to any physical experiment",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/093fdc6d2122e7140cab391f450941fd3922b145.png",
     "website": "https://halmoslabs.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/halmos-labs",

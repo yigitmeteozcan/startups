@@ -406,7 +406,22 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Deepak VS",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ideepakvs/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e928ae1f213bb075c8058cf3409c36e5b600e72b.jpg"
+      },
+      {
+        "name": "Daksh Shah",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dakshshah/",
+        "twitter": "https://twitter.com/dakshshah96",
+        "bio": "Co-founder & CTO at Tilt (YC W21)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/023a317820be2792a49103eb289490c476f2fab6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -450,7 +465,17 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeff Tang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jefftangx/",
+        "twitter": "https://x.com/jefftangx",
+        "bio": "Founder of Athens Research (W21), an open-source networked note-taking app. Pivoted to Eat Blueprint, acquired by Bryan Johnson / Blueprint Protocol.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4c770b3b6bea66c22f50c0ad944614e8ddd6e71f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

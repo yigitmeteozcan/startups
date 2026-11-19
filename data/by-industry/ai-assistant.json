@@ -773,7 +773,23 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nick Evans",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thenickevans/",
+        "twitter": "https://x.com/TheNickEvans",
+        "bio": "Co-Founder and CEO of Avocado (avocadopos.com) Co-Founder and former CEO of Tile (tile.com) Former hardware and software engineer Love products and people Austin, TX -> SF, CA",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af7f784dd419ce9b4eb23d2fb58c7928ab6921c7.jpg"
+      },
+      {
+        "name": "Shayan Guha",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shayan-guha/",
+        "bio": "San Francisco, CA",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cf885e1650430866316c81ecd30b4aff24abab33.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -814,7 +830,22 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Alpert",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adamalp/",
+        "bio": "Started off as a freelance videographer in middle school, and now I am one of the co-founders of Pangea.app; a platform we built to enable fractional hiring. Featured in Techcrunch, Boston Globe, Inc.Magazine and named one of 25u25 in RI. Living in NYC,",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b60a2318c4bcf6e1f8decdbb242ee858a56f4cb9.jpg"
+      },
+      {
+        "name": "John Tambunting",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/johntambunting/",
+        "bio": "Hello world! My name is John and I'm the CTO of Pangea.app. I discovered my passion for coding through attending hackathons while in college (github.com/jtambunt). I graduated from Brown with an Applied Mathematics degree. I'm dedicated to creating serious value in the world because I was fortunately given every opportunity to succeed by my family. This is what motivates me. My parents came to the US from the Philippines with nothing to their names and were able to actualize the American Dream.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e768bf151f8d1b54eb095e9f20b669dbd7d6b92a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -856,7 +887,16 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Terry Djony",
+        "role": "Founder",
+        "linkedin": "",
+        "twitter": "https://twitter.com/Terry_Djony",
+        "bio": "I'm Terry. > grew up in a small city (Lampung) in Indonesia > at age 13, taught myself software engineering by reading books and building CMS > got into top tech university in Indonesia > built my first company, a chatbot development agency, during third year of college > chose to drop out of uni & focus on tech startup full-time since 2021",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83ff3e7903bfce986b87b9b552ca8955cd2ae49b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -896,7 +936,25 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pablo Ferrari",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pablo-ferrari/",
+        "twitter": "https://twitter.com/pabloferrari",
+        "bio": "Eclectic Engineer. Currently director of engineering and staff engineer at Together,ai Former management consultant at Bain & Company and AI consultant for the big firms. Co-founded the first credit scoring platform in Spain, Ibercheck, and the Spanish Shopify Tiendalista. YC W21 with multiple pivots, among them Processlabs.ai for dev teams, and Platypus the first data engineer AI agent.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4d1f9a616a4debc2c3fd2c6cc9a67674bf1e0bad.jpg",
+        "active": false
+      },
+      {
+        "name": "Deepanshu Madan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/deepanshumadan",
+        "bio": "Entrepreneur, full-stack software engineer, and Product Manager for developer tools, and enterprise AI agent products.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b1962a1ffdcef6cf8ec0b97cf5b0430c3cfab51d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -938,7 +996,16 @@
     "teamSize": 13,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Circei",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexcircei",
+        "twitter": "https://twitter.com/AlexCircei",
+        "bio": "I'm Alex Circei, co-founder and CEO of Waydev (YC W21). I started my first company in Romania at 21 and have spent 18+ years building startups. In 2017 I launched Waydev, defining the Software Engineering Intelligence category — bootstrapped to profitability, recognized by Gartner and G2, and trusted by Fortune 500 teams at American Express, Caterpillar, Dropbox, and PwC.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4695778456f82cf23a8abf3d16502c8ba7eae530.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5249,13 +5316,13 @@
     "programSlugs": [
       "yc-winter-2024"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "acquired",
     "teamSize": 8,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -7669,13 +7736,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-bron",
+    "id": "yc-evie",
     "source": "yc",
-    "name": "Bron",
+    "name": "Evie",
     "description": "TikTok for Sports Betting",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/322e036fa9ab0e06f47840b20ad078b02e03e79b.png",
     "website": "https://apps.apple.com/app/apple-store/id6761323087?pt=128695024&ct=anish&mt=",
-    "sourceUrl": "https://www.ycombinator.com/companies/bron",
+    "sourceUrl": "https://www.ycombinator.com/companies/evie",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -7724,6 +7791,7 @@
       "crunchbase": ""
     },
     "extra": {},
+    "firstSeen": "2026-11-19",
     "country": "United States",
     "alsoIn": []
   },
@@ -9105,6 +9173,125 @@
     "extra": {},
     "country": "United States",
     "alsoIn": []
+  },
+  {
+    "id": "yc-luminary",
+    "source": "yc",
+    "name": "Luminary",
+    "description": "AI CEO that leads human & agent teams on company-wide missions",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1facd73d30a20793ef94c43f6742013e75aaf407.png",
+    "website": "https://meetluminary.ai/",
+    "sourceUrl": "https://www.ycombinator.com/companies/luminary",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Operations",
+      "AI",
+      "AI Assistant"
+    ],
+    "year": 2027,
+    "program": "YC Winter 2027",
+    "programSlugs": [
+      "yc-winter-2027"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Nikhil Sharma",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ns-nikhil/",
+        "twitter": "https://x.com/NikhilSharma_2",
+        "bio": "Nikhil is cofounder and CEO of Luminary, an AI CEO that leads human and agent teams on company-wide missions. He spent the last two years as an executive at a cyber startup, where he launched a new product line to stop insider threats and agentic swarms. He ran engineering, product, and sales, growing it to over 100,000 users across Fortune 500 companies. Before that, he studied CS at Michigan and interned at other early-stage companies and a VC firm.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/def06845ccafda8d82d6dd3b2f038ec4a4b30137.jpg"
+      },
+      {
+        "name": "Sohil Apte",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/sohil-apte-6414b3166/",
+        "twitter": "https://x.com/sapte1256",
+        "bio": "Sohil is cofounder and CTO of Luminary, building an AI CEO that leads human teams and agent swarms on company-wide missions. Previously, he led engineering for TOTAL at TruU, where he architected, built, and deployed multi-agent cybersecurity systems at Fortune 500 companies, protecting over 100,000 users and catching real insider threats and account takeover attacks. He studied computer science at the University of Michigan while working full-time at startups.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0bc9fbc1ad5d0968b17633d5a4eadd4cfc196f62.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "firstSeen": "2026-11-19",
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-bron",
+    "source": "yc",
+    "name": "Bron",
+    "description": "TikTok for Sports Betting",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/322e036fa9ab0e06f47840b20ad078b02e03e79b.png",
+    "website": "https://apps.apple.com/app/apple-store/id6761323087?pt=128695024&ct=anish&mt=",
+    "sourceUrl": "https://www.ycombinator.com/companies/bron",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Sports Tech",
+      "Analytics",
+      "AI",
+      "AI Assistant"
+    ],
+    "year": 2025,
+    "program": "YC Fall 2025",
+    "programSlugs": [
+      "yc-fall-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Anish Gupta",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/anishjaygupta/",
+        "twitter": "https://x.com/_anishgupta_",
+        "bio": "CEO @ Bron | Tiktok for Sports Betting",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3be8e923a89557fe2da3326fdff779330b3571e8.jpg"
+      },
+      {
+        "name": "Marc Zoghby",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/marc-zoghby/",
+        "twitter": "https://x.com/marczog?s=21",
+        "bio": "Co-founder @ Bron Previously: EECS @ UC Berkeley and AI Researcher @ Mayo Clinic.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/edfe50d5df2087eed445bc2699ec7fd57c1c23eb.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-19"
   },
   {
     "id": "yc-orchid-orchid-ai",

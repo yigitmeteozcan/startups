@@ -149,7 +149,7 @@
     "status": "active",
     "teamSize": 18,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1720,7 +1720,24 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Quinn Wang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/quinn-wang-md/",
+        "bio": "Recovering cataract surgeon, occasional volcano climber",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c51da887d8f4212bb3385c718b40da8c3b8db738.jpg",
+        "active": false
+      },
+      {
+        "name": "Kristine Hara",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kristineyoshihara/",
+        "bio": "CTO of Quadrant Eye. Previously engineer #6 at a16z backed UnitedMasters and a computational biologist with publications in data mining, computer science, & biology.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eb24f125114938b4bf5c2be4ed82e3b7ce4a418a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1762,7 +1779,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Francis Wong",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/loaded",
+        "twitter": "https://twitter.com/packeted",
+        "bio": "I'm Francis, a UK-trained surgeon who worked in the National Health Service as a surgeon for 5 years. In 2012 I moved to the Bay Area to get my MBA/MPH at UC Berkeley. I've worked in several product management roles at startups including 23andMe and Castlight Health. I also founded Outcomes, Inc., a digital health startup enabling the routine use of patient-reported outcomes. Prior to Stanford, I worked at Haven in Boston and co-founded Auricle out of the Stanford Biodesign Fellowship.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a4ab023ff6e3e34ae20e78435ce77c1c8187b0f8.jpg"
+      },
+      {
+        "name": "Jay Dhuldhoya",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jaydhuldhoya/",
+        "bio": "I am a medical device engineer and entrepreneur with a BA from Columbia and an MS from Rice in biomedical engineering. I have led R&D, quality, and manufacturing projects at Element Science, an SF-based Class 3 medical device start-up. I recently completed the Stanford Biodesign Innovation Fellowship where I co-founded Auricle.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/92bae1341bd83a4509297cd91f514b366eb122d9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1803,7 +1836,28 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexander Murer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexander-murer-ab76aa97/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1c8ddcf90043f4c41e6e6a60d87045cab2d28a7a.jpg"
+      },
+      {
+        "name": "Martin Jost",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/martinjost/",
+        "bio": "Molecular Biologist / Biohacker / Developer (Full Stack)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bd0300fae35e26405538bcf43b058ddd15c05497.jpg"
+      },
+      {
+        "name": "Bernhard Tittelbach",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bernhard-tittelbach-a903a696/",
+        "bio": "Likes to have an ever more accurate model of the world. Interested in how things work. Likes to take apart, hack and create things, to understand them better. Interested in various frameworks that allow people to work together. Sometimes Speaker at talks, helper at events and holder of workshops. Life Goal: Create net gain for everyone, leave the world a slightly better place and come out ahead as well. Would love for everyone to learn rationality and probability theory in school.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5336354bf31e0226872161c3bc0f403675d23f7e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -108,7 +108,23 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abel Riboulot",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abel-riboulot-b92b8087/",
+        "bio": "Former portfolio manager of a fully ML-driven hedge fund at BlackRock, turned ML Researcher. Currently working on predictive ML",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a6f167f228a0350f3b2c7bb1b94edb893a702ca2.jpg"
+      },
+      {
+        "name": "Andrej Zukov-Gregoric",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andrejzg/",
+        "twitter": "https://twitter.com/andrejzg",
+        "bio": "Running unSurvey (W21) -- previously Corrily (W21). In my past life, spent time at BlackRock working as a quant, did a PhD in NLP, and too many other eclectic other things to mention.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/95fb9e3aa9141ef9a64b6c29a791672d2c4778de.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

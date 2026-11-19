@@ -277,7 +277,15 @@
     "teamSize": 50,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andy Choi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andy-choi",
+        "bio": "Andy is the CEO and co-founder of QuotaBook. Previously, he was a software engineer in Silicon Valley and a VC in Korea.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5c69b459d323fc1e499dda814276c017922c76a5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -318,7 +326,29 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Soy Hwang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hisoy/",
+        "bio": "Soy leads the business & design of Humance. Prior to founding Humance, she worked at Boston Consulting Group digital ventures, building start-ups for fortune 500 companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/10237e9ca5e6e325599d7696dc292b2aa69e7264.jpg"
+      },
+      {
+        "name": "Sunny Kim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sunny-kim-00855ba1/",
+        "bio": "Sunny leads Engineering & Innovation at Humance. Prior to founding Humance, she worked as a software engineer / tech lead on Machine Learning projects at YouTube and Google.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/51a3622c40e508e4df75472487b121d88ad39a62.jpg"
+      },
+      {
+        "name": "Yon Soo Park",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yon-soo-park-3647b71b8",
+        "bio": "Yon Soo leads Product at Humance. Prior to founding Humance, she worked as a data engineer at Amazon Web Services S3 and completed a PhD at Harvard. Her peer-reviewed research has been covered by Washington Post, Vox, and Psychology Today.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fbcee5eb544c4d9f46eed680cf4d4569510558cf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -359,7 +389,22 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tony Park",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tonypark-stipop/",
+        "bio": "Co-founded Stipop, a monetization platform for character creators. We help independent character IP owners generate revenue directly from their audience with fun, dynamic features. Previously, Stipop was a sticker platform with 5,000 sticker creators, and 250K stickers and provided stickers to Canva, Teams, Google, and Adobe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cdb8d8a3447c909be41342506c6f8cc2c42fb25e.jpg"
+      },
+      {
+        "name": "Daniel Cho",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/danielcho6/",
+        "bio": "Co-founded Stipop, a monetization platform for character creators. We help independent character IP owners generate revenue directly from their audience with fun, dynamic features. Previously, Stipop was a sticker platform with 5,000 sticker creators, and 250K stickers and provided stickers to Canva, Teams, Google, and Adobe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/62d5018da856e93261426c5fa63d2463276a41fa.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

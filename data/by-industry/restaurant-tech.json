@@ -431,7 +431,23 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nick Evans",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thenickevans/",
+        "twitter": "https://x.com/TheNickEvans",
+        "bio": "Co-Founder and CEO of Avocado (avocadopos.com) Co-Founder and former CEO of Tile (tile.com) Former hardware and software engineer Love products and people Austin, TX -> SF, CA",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af7f784dd419ce9b4eb23d2fb58c7928ab6921c7.jpg"
+      },
+      {
+        "name": "Shayan Guha",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shayan-guha/",
+        "bio": "San Francisco, CA",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cf885e1650430866316c81ecd30b4aff24abab33.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

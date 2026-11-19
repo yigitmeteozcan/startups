@@ -651,7 +651,22 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Harsh Snehanshu",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/harshsnehanshu",
+        "twitter": "https://twitter.com/harshsnehanshu",
+        "bio": "Cofounder/CEO, YourQuote",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83e65b9461a42ffeb475dac7c1999ae17dc96b64.jpg"
+      },
+      {
+        "name": "Ashish Singh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/imashishsingh/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/73c176d68946cb10231171f60b92bb55c3ded633.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -841,7 +856,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 12,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {

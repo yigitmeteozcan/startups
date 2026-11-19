@@ -281,7 +281,23 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Huelskamp",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/paulhuelskamp",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3cc12b83575178d2e050d3e7d8e1184aff88d68.jpg",
+        "active": false
+      },
+      {
+        "name": "Alexander Meek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandermeek/",
+        "bio": "Alex is a venture capital investor, former founder and W21 YC alum. As a former startup operator, Alex was the co-founder and President at Moxion, one of the largest mobile energy storage manufacturers in the US. Under his leadership, Moxion secured over $150M from investors like Amazon, Microsoft, and Energy Impact Partners, and delivered over $100M in revenue in its first year. Before that, Alex founded Newday, a value-driven asset management firm that now oversees $175M.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e03689cbdc1e37e675ca67cbfb219c8f04df6712.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

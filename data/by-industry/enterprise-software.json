@@ -863,7 +863,22 @@
     "teamSize": 150,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ulrik Stig Hansen",
+        "role": "Founder/Co-CEO",
+        "linkedin": "https://www.linkedin.com/in/ulrik-stig-hansen-2658273b",
+        "bio": "Co-Founder & Co-CEO, Encord",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fa00ce170099545c199b15512a3c612de5f47122.jpg"
+      },
+      {
+        "name": "Eric Landau",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/eric-landau-40992ab0/",
+        "bio": "Cofounder and CEO | Encord Senior Quantitative Researcher | DRW SM Applied Physics | Harvard University MS Electrical Engineering, BS Physics | Stanford University",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9048f44436c107364b8dcf388fd882ae64f3b0d7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -905,7 +920,31 @@
     "teamSize": 125,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tim Barat",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/timothybarat/",
+        "twitter": "https://twitter.com/TimBarat",
+        "bio": "Former Lineman, Electrician, Engineer, now Entrepreneur working on California's wildfire problem.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cbf6e78a2a31c49d8bd20d5d43bcf9f378eb32bf.jpg"
+      },
+      {
+        "name": "Omar B",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abdulrahman-bin-omar-42330bb2/",
+        "twitter": "https://twitter.com/A_binomar1",
+        "bio": "Co-founder @Gridware",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e3f2fa2eba082417cee1ac101f9442d262a1c0c.jpg"
+      },
+      {
+        "name": "Hall Chen",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/hallchen/",
+        "bio": "Building the grid of the future",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8d1fe5a110e959fb9c5b4f124aac59f37213d0c5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -947,7 +986,16 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sid Garimella",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sidgarimella/",
+        "twitter": "https://twitter.com/sidgarimella",
+        "bio": "Worked in finance infra for a few years, now on automation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/99c9de3319f1ba5cc1a864789dd7f9c4419fc122.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -988,7 +1036,25 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Chumbley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alex-chumbley/",
+        "bio": "2x founder, 1x exit. Investing and building side projects for now",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a6bed97d43736be3c892678b9d5e9d0420c7fbe1.jpg",
+        "active": false
+      },
+      {
+        "name": "Aravindh Dorai",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aravindhdorai/",
+        "twitter": "https://twitter.com/aravindhdorai",
+        "bio": "Founder of Fable (W21)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5f0b67daf31aaa7d8d7dec03d98edd484ee999ef.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1030,7 +1096,23 @@
     "teamSize": 12,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Laura Crabtree",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lauracrabtree/",
+        "bio": "15+ years satellite and spacecraft operations, lead trainer + CORE operator for SpaceX Demo-2 Astronauts. Leader, innovator & deeply passionate about space, exploration and the future of mankind.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c3a5089dddf1d56d3e73399cf75061d49b57cb50.jpg"
+      },
+      {
+        "name": "Max Mednik",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maxmednik",
+        "twitter": "https://www.twitter.com/maxmednik",
+        "bio": "4x entrepreneur, software engineer, and angel investor. Stanford and UCLA Anderson grad. Magician, scuba diver, and student of life.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4c593c9377d5e02b269d2a3de5b67e555e8c7ddf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2002,7 +2084,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 22,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -6551,9 +6633,9 @@
       "AI"
     ],
     "year": 2026,
-    "program": "YC Fall 2026",
+    "program": "YC Summer 2026",
     "programSlugs": [
-      "yc-fall-2026"
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -7404,7 +7486,7 @@
     "id": "yc-byteask",
     "source": "yc",
     "name": "ByteAsk",
-    "description": "The AI coding agent for C and C++",
+    "description": "The AI coding agent for C, C++ and CUDA",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
     "website": "https://byteask.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/byteask",
@@ -7428,7 +7510,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 3,
+    "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -7692,7 +7774,7 @@
     "id": "yc-dualizer",
     "source": "yc",
     "name": "Dualizer",
-    "description": "AI-powered physical simulation to design/optimize chemical processes",
+    "description": "Agentic physics simulation that debottleneck manufacturing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5dfc06f5151a1bc751d8af0c4298d0e845be5e5d.png",
     "website": "https://dualizer.com",
     "sourceUrl": "https://www.ycombinator.com/companies/dualizer",

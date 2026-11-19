@@ -1343,7 +1343,29 @@
     "teamSize": 31,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jake Moshenko",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jacob-moshenko-381161b/",
+        "bio": "Jake Moshenko is an engineering leader that has been building infrastructure tools and services for over 15 years for large companies and startups alike. Having previously struggled to keep up with customer permissions demands on products such as CoreOS’s Quay and Tectonic, he was searching for a better way to do application permissions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6d2259a372f5d31495f85d518256341fa0a490be.jpg"
+      },
+      {
+        "name": "Jimmy Zelinskie",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jzelinskie",
+        "twitter": "https://twitter.com/jimmyzelinskie",
+        "bio": "Jimmy Zelinskie is a software engineer and product leader with the goal of empowering the world through the democratization of software via open source development. He's currently the CPO and cofounder of authzed where he's focused on bringing hyperscaler best-practices in authorization software to the industry at large.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/432dc805c3a6c9f1ac4f0759f6258f3dda97d5af.jpg"
+      },
+      {
+        "name": "Joseph Schorr",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joseph-s-4324904/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a17d41b27fc6e7329ab963268732cdb742fa09d8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1386,7 +1408,34 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ian Dewancker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ian-dewancker-7a293625/",
+        "twitter": "https://twitter.com/idewanck",
+        "bio": "Led applied research projects at Uber ATG, Kindred AI, and SigOpt focusing on computer vision, robotics, and optimization for machine learning. MSc in CS from UBC (2013), Engineering at Waterloo (2011).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ce1cb43c50d3095ef0d94605e68ac0441a8ddb52.jpg",
+        "active": false
+      },
+      {
+        "name": "Artem Avdacev",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aavdacev/",
+        "bio": "Building something new in the intersection of computer vision, robotics, and computer graphics (games & VFX) Before SBX, I spent 7 years at Yelp fighting fraud and fake reviews as an engineer & PM, and then took off to sail across the pacific ocean, dive with sharks, and hike the himalayas. Based in Montreal, Canada.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e9aacf2d05b25f3418f216e7499b0a70e252072.jpg",
+        "active": false
+      },
+      {
+        "name": "Joshua Kuntz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joshua-kuntz-92603816/",
+        "twitter": "https://twitter.com/j3kuntz",
+        "bio": "- Canadian - Waterloo - Wish - SBX Robotics (current)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8a45e9f8c3a47af89eda7bce83eefd18427d0644.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1427,7 +1476,26 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Justin Bleuel",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/justin-bleuel-6a403431/",
+        "twitter": "https://twitter.com/JustinBleuel",
+        "bio": "people-first",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b6892d79b519bddb893f9ad30da55b0de0ddec4e.jpg",
+        "active": false
+      },
+      {
+        "name": "Jeff Barg",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jeffreybarg/",
+        "twitter": "https://twitter.com/jeffbarg/",
+        "bio": "Co-founder & CTO of Avenue, an observability platform for operations teams. We let ops teams connect their data sources, define alerts, and respond proactively to important events. We are currently hiring software engineers to build the future of ops tooling. Previously, I was a software engineer at Amazon working on the Alexa AI team. Along with my co-founder Justin, I also built and marketed several iOS apps when we were in high school, amassing 300k+ downloads.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9cdac7cf0892d7c7c7edbbda6eb0be7f29a9aaef.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1467,7 +1535,20 @@
     "teamSize": 9,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Charles Chretien",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/charles-chretien-94350146/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba40b38930f95a87929426b5b706b501aec5d1a6.jpg"
+      },
+      {
+        "name": "Conor McCarter",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/conormccarter/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a2cac2ee280d5b3d924bb1024940338352b7397f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1507,7 +1588,25 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pablo Ferrari",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pablo-ferrari/",
+        "twitter": "https://twitter.com/pabloferrari",
+        "bio": "Eclectic Engineer. Currently director of engineering and staff engineer at Together,ai Former management consultant at Bain & Company and AI consultant for the big firms. Co-founded the first credit scoring platform in Spain, Ibercheck, and the Spanish Shopify Tiendalista. YC W21 with multiple pivots, among them Processlabs.ai for dev teams, and Platypus the first data engineer AI agent.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4d1f9a616a4debc2c3fd2c6cc9a67674bf1e0bad.jpg",
+        "active": false
+      },
+      {
+        "name": "Deepanshu Madan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/deepanshumadan",
+        "bio": "Entrepreneur, full-stack software engineer, and Product Manager for developer tools, and enterprise AI agent products.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b1962a1ffdcef6cf8ec0b97cf5b0430c3cfab51d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1549,7 +1648,16 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ahana Banerjee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ahana-banerjee/",
+        "twitter": "https://twitter.com/ahanabanana",
+        "bio": "Skincare enthusiast and Imperial College London Physics grad",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/98df9114da002d6527c0153d444b6d77e665bd2b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1591,7 +1699,23 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Caelan Urquhart",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/caelan-urquhart/",
+        "twitter": "https://twitter.com/caelanu",
+        "bio": "Co-founder, CEO @ Pipekit (S21) (https://pipekit.io) ex-Kite, Expo, McKinsey Functional strengths: community, marketing, ops, finance Industry experience: dev tools, OSS, digital health",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/15bcfebadf740bde049ad5e61b9b61010c31a3cc.jpg"
+      },
+      {
+        "name": "J.P. Zivalich",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jpzivalich/",
+        "bio": "Founder, CTO @ Pipekit (S21) (https://pipekit.io) ex-Docker Industry experience: Dev tools, OSS, investment banking",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a9000f2a63a831fd0ad88d3ef2f594c7dc39ed9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4960,8 +5084,8 @@
     "id": "yc-ashr",
     "source": "yc",
     "name": "Ashr",
-    "description": "Enterprise post-training, monitoring, and continual learning platform",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
+    "description": "Ashr is the Coding Agent for Machine Learning",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e144b14cd2a6f702d4b46db4f2dd21e7e0337d9d.png",
     "website": "https://ashr.io",
     "sourceUrl": "https://www.ycombinator.com/companies/ashr",
     "location": "San Francisco, CA, USA",

@@ -356,14 +356,14 @@
     "programSlugs": [
       "yc-summer-2020"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "acquired",
     "teamSize": 33,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -491,7 +491,16 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ain McKendrick",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ainmckendrick/",
+        "bio": "Previously CEO at Faction Technology. Prior to founding Faction, Ain has focused on autonomous systems on everything from light electric vehicles to the first successful driverless semi trucks to run on public highways. Before getting in to the vehicle space, Ain spent a number of years in consumer electronics at Netflix, Dell, TiVo, and various startups. He began his career as one of the founders of Palm Computing developing the original PalmPilot handheld digital assistants.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aeae4f4aa8c47cd7914d0b4c5d7b7712fbb19653.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -535,7 +544,23 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Huelskamp",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/paulhuelskamp",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3cc12b83575178d2e050d3e7d8e1184aff88d68.jpg",
+        "active": false
+      },
+      {
+        "name": "Alexander Meek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandermeek/",
+        "bio": "Alex is a venture capital investor, former founder and W21 YC alum. As a former startup operator, Alex was the co-founder and President at Moxion, one of the largest mobile energy storage manufacturers in the US. Under his leadership, Moxion secured over $150M from investors like Amazon, Microsoft, and Energy Impact Partners, and delivered over $100M in revenue in its first year. Before that, Alex founded Newday, a value-driven asset management firm that now oversees $175M.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e03689cbdc1e37e675ca67cbfb219c8f04df6712.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -578,7 +603,22 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Billy Thalheimer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/williamthalheimer/",
+        "bio": "Billy is an aerospace business leader and multidisciplinary engineer with expertise spanning aviation entrepreneurship and novel aircraft development. At Aurora Flight Sciences, Billy led execution and BD for next-gen aircraft programs. Holding a BS/MS from MIT in aerospace engineering, he also led flight physics modeling for Boeing's electric air taxi, and authored their custom aircraft design code. As a passionate aerospace nerd, Billy spends his free time competing as an aerobatic pilot.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55b8ff816963ee85958d35e82d1ba6024594c470.jpg"
+      },
+      {
+        "name": "Michael Klinker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-klinker-85a1a989/",
+        "bio": "Aviation runs in Mike’s blood--he received his Bachelors and Masters degrees from MIT focused on aircraft controls and autonomy, is an avid pilot, and loves any vehicle that flies or floats. Mike spent years at Airware, Raptor Maps, MIT Lincoln Labs, and Aurora Flight Sciences designing and operating innovative vehicles. Mike has built and written control software for over a dozen aircraft, and brings his advanced flight controls and abundant flight test experience to REGENT as its CTO.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/194db99a33efea8eb6ea8b9a26bfc755e4e69693.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -620,7 +660,15 @@
     "teamSize": 58,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jason Sylvestre",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jason-sylvestre/",
+        "bio": "Co-founder & CEO of H3X Technologies. Ex- Specter, Tesla, MTS. MS and BS in Electrical Engineering from University of Wisconsin-Madison. Built electric racecars in college (FSAE).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/419f9b389827846340da3c42d0a0a3fffdd160ee.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

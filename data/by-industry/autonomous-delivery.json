@@ -285,7 +285,16 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ain McKendrick",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ainmckendrick/",
+        "bio": "Previously CEO at Faction Technology. Prior to founding Faction, Ain has focused on autonomous systems on everything from light electric vehicles to the first successful driverless semi trucks to run on public highways. Before getting in to the vehicle space, Ain spent a number of years in consumer electronics at Netflix, Dell, TiVo, and various startups. He began his career as one of the founders of Palm Computing developing the original PalmPilot handheld digital assistants.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aeae4f4aa8c47cd7914d0b4c5d7b7712fbb19653.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

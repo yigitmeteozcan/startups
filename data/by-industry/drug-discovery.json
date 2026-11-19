@@ -578,7 +578,16 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rabia Khan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rabiatkhan/",
+        "twitter": "https://twitter.com/rabiatkhan",
+        "bio": "Currently working on drugging RNA with small molecules. Previously built the ML team at Sensyne Health (UK PLC) // and worked at BenevolentAI. Love working at the intersection of biology / technology / business. Foodie at heart.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e5b9561ece5ce8febe280a58ac4945bd4e196c58.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -619,7 +628,22 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Arne Scheu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/arne-scheu-aa22b812b/",
+        "bio": "Rhodes Scholar & DPhil Biochemistry from the University of Oxford",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cd2948463aee1733546e986972b6bafab908a7e3.jpg"
+      },
+      {
+        "name": "Irsyad Khairil",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/irsyad-khairil-bb216b9b/",
+        "bio": "Pharma analyst with a background in protein engineering DPhil in Biochemistry from the University of Oxford",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c86097f3a78056f28c34ba38a192b6157ddb125d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -659,7 +683,25 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ivan Pushkarsky",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ivanpushkarsky/",
+        "bio": "CEO and Co-founder of Forcyte which is based on my PhD work at UCLA with co-founder and PhD Advisor, Prof. Dino Di Carlo. Worked on tech since 2013, lead-authored multiple publications including Nature BME, and lead commercialization by winning SBIR grants, securing tech transfer and building early team.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/54be667f96143a9b73b44a89f1064ea11262f5a6.jpg",
+        "active": false
+      },
+      {
+        "name": "Dino Di Carlo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dino-di-carlo/",
+        "twitter": "https://twitter.com/dinodicarlo",
+        "bio": "Dino Di Carlo is a Professor, inventor, and entrepreneur with >50 issued patents. He is the Armond and Elena Hairapetian endowed chair in Engineering and Medicine at UCLA. His academic research has focused at the interface of micro & nanosystems, data science, and the ultimate limits of biology (single cells and molecules). Over the last 10 years, Dr. Di Carlo co-founded seven startup companies in life science research tools, diagnostics, medical device, and pharmaceutical industries.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9045d6c9a97af963cb749f531c62b7d9de5a5cb0.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -701,7 +743,24 @@
     "teamSize": 16,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Federation",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/afederation/",
+        "twitter": "https://twitter.com/afederation",
+        "bio": "I'm the co-founder of Talus Bio. Prior to Talus, I trained with Jay Bradner at Harvard in medicinal chemistry, drug screening, and drug development for gene regulators. After that, I moved to Seattle to continue my training in epigenomics and proteomics, and these were all combined to develop the Talus gene regulator platform.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5a8582d7e711e1ff2cc1556582a9b48e5e802997.jpg"
+      },
+      {
+        "name": "Lindsay Pino",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lindsaykpino/",
+        "twitter": "https://twitter.com/lkpino",
+        "bio": "I'm Talus Bio's CTO, where my focus is on developing techniques for quantitative proteomics and in particular the challenges associated with scaling-up quantitative proteomics experiments. I’ve trained at the Broad Institute, the University of Washington, and most recently the University of Pennsylvania.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1fd3365fa08bc96503fa616f9d45bf1af4e48fe4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1363,6 +1422,57 @@
         "linkedin": "https://linkedin.com/in/rachel-brog-garlick",
         "bio": "PhD in Immunology from Dartmouth College. Engineered many novel cancer immunotherapies. We build cancer drugs that reawaken the immune system to fight cancer for you. No tox, no side effects, and most importantly -- no cancer.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aef2fc87092832c891b54c739d321fcad28adcd0.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-junction-bioscience",
+    "source": "yc",
+    "name": "Junction Bioscience",
+    "description": "Industrializing structural biology: from months to minutes",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c382f7f1170e4d96b382d69430f2fc2c9fffe94.png",
+    "website": "https://www.junction.bio/",
+    "sourceUrl": "https://www.ycombinator.com/companies/junction-bioscience",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Drug Discovery and Delivery",
+      "AI-powered Drug Discovery",
+      "Hard Tech",
+      "Biotech",
+      "Drug discovery",
+      "Therapeutics"
+    ],
+    "year": 2024,
+    "program": "YC Winter 2024",
+    "programSlugs": [
+      "yc-winter-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Brian Petkov",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/brian-petkov",
+        "bio": "Brian is a theoretical physicist and drug hunter with degrees in mathematics and chemistry from Duke University and doctoral training from NYU. He was previously the first employee and Vice President at a computational drug design startup where he led the Machine Learning operation and grew a 30-person team to success on previously-undruggable targets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2009e2dff8fef2c268a6cf0a7ba43a157dc51981.jpg"
       }
     ],
     "social": {

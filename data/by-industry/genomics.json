@@ -901,7 +901,24 @@
     "teamSize": 16,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Federation",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/afederation/",
+        "twitter": "https://twitter.com/afederation",
+        "bio": "I'm the co-founder of Talus Bio. Prior to Talus, I trained with Jay Bradner at Harvard in medicinal chemistry, drug screening, and drug development for gene regulators. After that, I moved to Seattle to continue my training in epigenomics and proteomics, and these were all combined to develop the Talus gene regulator platform.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5a8582d7e711e1ff2cc1556582a9b48e5e802997.jpg"
+      },
+      {
+        "name": "Lindsay Pino",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lindsaykpino/",
+        "twitter": "https://twitter.com/lkpino",
+        "bio": "I'm Talus Bio's CTO, where my focus is on developing techniques for quantitative proteomics and in particular the challenges associated with scaling-up quantitative proteomics experiments. I’ve trained at the Broad Institute, the University of Washington, and most recently the University of Pennsylvania.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1fd3365fa08bc96503fa616f9d45bf1af4e48fe4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

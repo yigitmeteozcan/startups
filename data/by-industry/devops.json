@@ -879,7 +879,16 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Hassy Veldstra",
+        "role": "Founder",
+        "linkedin": "https://uk.linkedin.com/in/hveldstra",
+        "twitter": "https://twitter.com/hveldstra",
+        "bio": "SRE and open source developer turned founder. On a mission to help dev teams ship fast & reliable systems that keep users happy and pagers silent.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/81556fa7f858c6002b1f3aa9bbc4ae9fecb446f9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -921,7 +930,23 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Caelan Urquhart",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/caelan-urquhart/",
+        "twitter": "https://twitter.com/caelanu",
+        "bio": "Co-founder, CEO @ Pipekit (S21) (https://pipekit.io) ex-Kite, Expo, McKinsey Functional strengths: community, marketing, ops, finance Industry experience: dev tools, OSS, digital health",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/15bcfebadf740bde049ad5e61b9b61010c31a3cc.jpg"
+      },
+      {
+        "name": "J.P. Zivalich",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jpzivalich/",
+        "bio": "Founder, CTO @ Pipekit (S21) (https://pipekit.io) ex-Docker Industry experience: Dev tools, OSS, investment banking",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a9000f2a63a831fd0ad88d3ef2f594c7dc39ed9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1333,12 +1358,12 @@
     "id": "yc-skyhook",
     "source": "yc",
     "name": "Skyhook",
-    "description": "PaaS-like experience with the power of Kubernetes, on your cloud",
+    "description": "Radar: the missing Kubernetes interface for humans and agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c4df2dc3a8591521492f4797ca92971742623b68.png",
     "website": "https://skyhook.io",
     "sourceUrl": "https://www.ycombinator.com/companies/skyhook",
-    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "region": "Israel",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
@@ -1357,7 +1382,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 7,
+    "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -1377,7 +1402,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Israel",
+    "country": "United States",
     "alsoIn": []
   },
   {

@@ -276,7 +276,26 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Hetherington",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/paul-hetherington/",
+        "twitter": "https://x.com/paulcjh_",
+        "bio": "Founder and CEO of Hlabs (W26), Prev Founder and CEO of Mystic (W21).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b0a028873ab868127c0bbf011e8d660b44e256b4.jpg",
+        "active": false
+      },
+      {
+        "name": "Oscar Rovira",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rovi/",
+        "twitter": "https://twitter.com/roviosc",
+        "bio": "Ex-Mystic.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5b1e65009b9d878dd0870beade3a1f6f0323c2cd.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -318,7 +337,16 @@
     "teamSize": 13,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Circei",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexcircei",
+        "twitter": "https://twitter.com/AlexCircei",
+        "bio": "I'm Alex Circei, co-founder and CEO of Waydev (YC W21). I started my first company in Romania at 21 and have spent 18+ years building startups. In 2017 I launched Waydev, defining the Software Engineering Intelligence category — bootstrapped to profitability, recognized by Gartner and G2, and trusted by Fortune 500 teams at American Express, Caterpillar, Dropbox, and PwC.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4695778456f82cf23a8abf3d16502c8ba7eae530.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -361,7 +389,31 @@
     "teamSize": 24,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gabriel Bayomi Tinoco Kalejaiye",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gbayomi/",
+        "bio": "I’m a Brazilian engineer and the co-founder and CEO of Openlayer. We help enterprises test, monitor, and govern AI systems, from traditional machine learning to LLMs and agents, with controls that span development and production. Before Openlayer, I was a Machine Learning Engineer at Apple, where I worked on Siri, combining multimodal signals to improve natural language understanding. I earned my master’s in Computer Science at Carnegie Mellon, where I worked on Amazon’s Alexa Prize project.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a10fd2b5d193710537d2d513e6b743ea7dbfdcd7.jpg"
+      },
+      {
+        "name": "Vikas Nair",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vikasnair/",
+        "twitter": "https://twitter.com/vikaaaaaaaaas",
+        "bio": "Co-founder of Openlayer (S21). Previously, built future AI/ML-powered experiences at Apple.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f91b4062369f26070e4442d37b4d9ae3c3aee10f.jpg"
+      },
+      {
+        "name": "Rishab Ramanathan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rishramanathan",
+        "twitter": "https://twitter.com/rishramanathan",
+        "bio": "Co-Founder of Openlayer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f74461698a2dbd3656bbc181b2247d678e70c186.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -403,7 +455,24 @@
     "teamSize": 75,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Quentin Rousseau",
+        "role": "Founder and CTO (YC S21)",
+        "linkedin": "https://www.linkedin.com/in/quentinrousseau/",
+        "twitter": "https://twitter.com/quentinrousseau",
+        "bio": "- Early Site Reliability Engineer (SRE) at Instacart and built resilient systems now handling millions of orders. - 2x Co-Founder at Rootly (YC S21) and PopSQL (YC S19). - Originally from France, loves rock climbing, and unsurprisingly great wine!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/536c75bad5843062fa9c976c9275d2c92bb929bf.jpg"
+      },
+      {
+        "name": "JJ Tang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jjrichardtang/",
+        "twitter": "https://twitter.com/jjrichardtang",
+        "bio": "Building Rootly - a modern on-call and incident management platform used by top YC companies like Dropbox, Lattice, Webflow, Faire, but also Figma, LinkedIn, and 100s more. Other than making Rootly my personality, I love cycling and my adorable dog, Nova.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eea6e0e2123efec212779e52790c7ffccb20491a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -8849,7 +8849,15 @@
     "teamSize": 60,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aaron Slodov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abslodov",
+        "twitter": "https://twitter.com/aphysicist",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fcbeec608a70e4d3eee68a6eae1bf21a33d2230c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8893,7 +8901,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Patrick Walton",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/mpatrickwalton",
+        "twitter": "https://twitter.com/mpatrickwalton",
+        "bio": "Co-founder, CEO, and project engineer at Care Weather. As project engineer, he funded, architected, licensed, and operates the company's five satellites on orbit. He has an M.S. and B.S in electrical and mechanical engineering from BYU. As an undergrad, he started BYU's nationally-recognized rocketry club and won $1M from NASA to lead a team of 20 in launching BYU’s first two satellites.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b962ec93a7e9abecbabe4a774212b4ea13e09c6.jpg"
+      },
+      {
+        "name": "Alex Laraway",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alex-laraway-8ba461169/",
+        "bio": "Alex is a full-stack aerospace engineer. He single-handedly designed and built multiple record-breaking satellites that are on orbit now. Alex got his B.S. in manufacturing from BYU. His space experience goes back to age 10 machining high-altitude rockets on a lathe in his garage and flying them at Mach 4 to the edge of space.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed7677fc465451b242ff816051231980ca11208a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8933,7 +8957,30 @@
     "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adar Hay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adarhay/",
+        "bio": "Co-founder and CEO of Jiga",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d3419ed1913e8b496682939006d72d8e67e83fe.jpg"
+      },
+      {
+        "name": "Assaf Geuz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/assaf-geuz-jiga/",
+        "bio": "Co-Founder of Jiga",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a87264b0a8ed788beebee11620f5d34edefd8526.jpg"
+      },
+      {
+        "name": "Yonatan Wolowelsky",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yonatan-wolowelsky-2454553a/",
+        "twitter": "https://twitter.com/grmmph",
+        "bio": "Co Founder and CTO of Jiga",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f0757478de42201b3c4d26ca32d788e68aba7d4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8977,7 +9024,26 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeff Wilson",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jeffwilsonphd",
+        "twitter": "https://twitter.com/profdumpster",
+        "bio": "🧢 Co-founder @ No Cap (W23)* 🤠 Co-founder @ Jupe (S21) 🗑 1 X dumpster dweller 📍 SF <> MARFA *Post-batch co-founder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/abebd3506dc7b5049f94444180cc617f8972ad2e.jpg",
+        "active": false
+      },
+      {
+        "name": "Antonio Gonzalez",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jantoniogonzalez/",
+        "twitter": "https://twitter.com/antoniozalez",
+        "bio": "Building the future of housing and hospitality through Design and Automation",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4ec2af641b4450c377892bf796e035c66b5df92d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10522,7 +10588,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Shan Mohta",
@@ -13944,7 +14010,7 @@
     "id": "yc-verno",
     "source": "yc",
     "name": "Verno",
-    "description": "AI engineering industrials like chip fabs, refineries and power plants",
+    "description": "AI that executes engineering for chip fabs, energy, and power plants",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74ef12c285d4addcc60a88f490fbbb178260035f.png",
     "website": "https://verno-ai.com",
     "sourceUrl": "https://www.ycombinator.com/companies/verno",
@@ -14230,7 +14296,7 @@
     "id": "yc-dualizer",
     "source": "yc",
     "name": "Dualizer",
-    "description": "AI-powered physical simulation to design/optimize chemical processes",
+    "description": "Agentic physics simulation that debottleneck manufacturing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5dfc06f5151a1bc751d8af0c4298d0e845be5e5d.png",
     "website": "https://dualizer.com",
     "sourceUrl": "https://www.ycombinator.com/companies/dualizer",

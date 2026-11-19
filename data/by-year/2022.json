@@ -46521,7 +46521,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 5,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -50597,7 +50597,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 22,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -57133,7 +57133,23 @@
     "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Stefan Seltz-Axmacher",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/stefanseltzaxmacher",
+        "twitter": "https://twitter.com/stefanesa",
+        "bio": "Robots that are buildable and valuable are the most magical.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a976b8c7814c0a2985a3b21bdfae3f0e1cf5fd0.jpg"
+      },
+      {
+        "name": "Ilia Baranov",
+        "role": "Founder/CTO",
+        "linkedin": "http://linkedin.com/in/iliabaranov",
+        "bio": "There is a certain enchanting magic that comes from working with robots; By waving our hands, we can make machines seem alive.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c64fc8a7f715908988488379782f0e67bf6d8b88.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -68166,13 +68182,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-qi",
+    "id": "alchemist-livediagrams-inc",
     "source": "alchemist",
-    "name": "QI",
-    "description": "Predictive Insights to Test Content Before Going Live",
+    "name": "LiveDiagrams, Inc.",
+    "description": "Cloud Operations. Simplified.",
     "logo": "",
     "website": "",
-    "location": "Los Angeles, CA, USA",
+    "location": "San Mateo, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -68181,13 +68197,18 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "JD Rico",
+        "name": "Andrew Lupersolsky",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yegor Tsynkevich",
         "role": "",
         "linkedin": ""
       }
@@ -68259,18 +68280,18 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-bonfire-analytics",
+    "id": "alchemist-qi",
     "source": "alchemist",
-    "name": "Bonfire Analytics",
-    "description": "AI-Driven Lead Scoring for Digital Health Companies: Faster High-Quality Lead Generation Leads to Cheaper Customer Acquisition\n\n",
+    "name": "QI",
+    "description": "Predictive Insights to Test Content Before Going Live",
     "logo": "",
     "website": "",
-    "location": "Philadelphia, PA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2022,
-    "program": "Alchemist Class 33",
+    "program": "Alchemist Class 34",
     "programSlugs": [
       "alchemist"
     ],
@@ -68280,12 +68301,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Vinay Nagaraj",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jaya Pokuri",
+        "name": "JD Rico",
         "role": "",
         "linkedin": ""
       }
@@ -68344,6 +68360,148 @@
       "country": "USA"
     },
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-bonfire-analytics",
+    "source": "alchemist",
+    "name": "Bonfire Analytics",
+    "description": "AI-Driven Lead Scoring for Digital Health Companies: Faster High-Quality Lead Generation Leads to Cheaper Customer Acquisition\n\n",
+    "logo": "",
+    "website": "",
+    "location": "Philadelphia, PA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 33",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vinay Nagaraj",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jaya Pokuri",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-freefuse",
+    "source": "alchemist",
+    "name": "FreeFuse",
+    "description": "A video communication platform that simplifies how information is shared and processed.",
+    "logo": "",
+    "website": "",
+    "location": "Los Angeles, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mike Liu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Wendy Chen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Marcus Jeffrey",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-synthavo",
+    "source": "alchemist",
+    "name": "synthavo",
+    "description": "Visual Search for Spare Parts for Mechanical Engineering",
+    "logo": "",
+    "website": "",
+    "location": "Stuttgart, Germany",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 32",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sebastian Stöcklmeier",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Benedict Lindner",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Alexander Illg",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Germany"
+    },
+    "country": "Germany",
     "alsoIn": []
   },
   {
@@ -68489,50 +68647,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-livediagrams-inc",
-    "source": "alchemist",
-    "name": "LiveDiagrams, Inc.",
-    "description": "Cloud Operations. Simplified.",
-    "logo": "",
-    "website": "",
-    "location": "San Mateo, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Andrew Lupersolsky",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Yegor Tsynkevich",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-piklema",
     "source": "alchemist",
     "name": "Piklema",
@@ -68579,104 +68693,6 @@
       "country": "USA"
     },
     "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-freefuse",
-    "source": "alchemist",
-    "name": "FreeFuse",
-    "description": "A video communication platform that simplifies how information is shared and processed.",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 31",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mike Liu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Wendy Chen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Marcus Jeffrey",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-synthavo",
-    "source": "alchemist",
-    "name": "synthavo",
-    "description": "Visual Search for Spare Parts for Mechanical Engineering",
-    "logo": "",
-    "website": "",
-    "location": "Stuttgart, Germany",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 32",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Sebastian Stöcklmeier",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Benedict Lindner",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Alexander Illg",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Germany"
-    },
-    "country": "Germany",
     "alsoIn": []
   }
 ]

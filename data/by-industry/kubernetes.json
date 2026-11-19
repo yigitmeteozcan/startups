@@ -318,7 +318,23 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Perry",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ryanaperry/",
+        "bio": "Co-founder of Pyroscope, open source continuous profiling platform. Previously worked at Sensor Tower and Lion Studios (Applovin) in Software engineering, PM, and Data Engineering roles",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/621a28afa99bbd5dd56cf8bcc45e8046f8f71423.jpg"
+      },
+      {
+        "name": "Dmitry Filimonov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dmitry-filimonov-82b26145/",
+        "twitter": "https://twitter.com/dmi3f",
+        "bio": "Co-founder of Pyroscope, open source continuous profiling platform. Previously Engineering Team Lead at Sensor Tower.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba35b6f848bb1af10aeb58e68a1f5487caa5a868.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -504,12 +520,12 @@
     "id": "yc-skyhook",
     "source": "yc",
     "name": "Skyhook",
-    "description": "PaaS-like experience with the power of Kubernetes, on your cloud",
+    "description": "Radar: the missing Kubernetes interface for humans and agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c4df2dc3a8591521492f4797ca92971742623b68.png",
     "website": "https://skyhook.io",
     "sourceUrl": "https://www.ycombinator.com/companies/skyhook",
-    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "region": "Israel",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
@@ -528,7 +544,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 7,
+    "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -548,7 +564,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Israel",
+    "country": "United States",
     "alsoIn": []
   },
   {

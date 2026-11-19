@@ -67,7 +67,25 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bernard Kolobara",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bkolobara/",
+        "twitter": "https://twitter.com/bkolobara",
+        "bio": "Bernard is the co-founder and CEO of Lunatic. Prior to Lunatic, Bernard worked at CERN where he developed monitoring tools for a cluster of 1,000+ servers. He also manages 2 online communities around an open source distributed ledger technology with more than 8,000 registered users.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7edd48b4fe52b6c870c3615037f87a85a31f8a17.jpg",
+        "active": false
+      },
+      {
+        "name": "Hrvoje Bandov",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/hbandov/",
+        "bio": "Hrvoje previously co-founded an innovative insurance-tech company Amodo where he served as a system architect. For the last few years, he has been working as a contractor on various back-end projects including a platform for running real-time web-based multiplayer games.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/144c44784ebd5b6a264fcbf9cee4a239a73eea90.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -108,7 +126,28 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexander Murer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexander-murer-ab76aa97/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1c8ddcf90043f4c41e6e6a60d87045cab2d28a7a.jpg"
+      },
+      {
+        "name": "Martin Jost",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/martinjost/",
+        "bio": "Molecular Biologist / Biohacker / Developer (Full Stack)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bd0300fae35e26405538bcf43b058ddd15c05497.jpg"
+      },
+      {
+        "name": "Bernhard Tittelbach",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bernhard-tittelbach-a903a696/",
+        "bio": "Likes to have an ever more accurate model of the world. Interested in how things work. Likes to take apart, hack and create things, to understand them better. Interested in various frameworks that allow people to work together. Sometimes Speaker at talks, helper at events and holder of workshops. Life Goal: Create net gain for everyone, leave the world a slightly better place and come out ahead as well. Would love for everyone to learn rationality and probability theory in school.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5336354bf31e0226872161c3bc0f403675d23f7e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

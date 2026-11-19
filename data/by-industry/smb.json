@@ -397,7 +397,22 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pratyush Sharma",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pratyusharma/",
+        "bio": "Currently at Drip Capital looking at New Initiatives. Previously founder at TechBiz (YC W21)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6c52f8b5f1a0d5609cef978f8b5146512a654de6.jpg"
+      },
+      {
+        "name": "Vikramaditya Patil",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vikramaditya-patil/",
+        "bio": "Founder TechBiz (Sold to CredFlow) in the SME finance space. IIT Bombay 20.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/92ed2f6ab4969611694663f09fa0eb2f43e31527.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -598,7 +598,15 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonathan Ben-tzur",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bentzur",
+        "bio": "With 15+ years of experience under my belt and combining a strong technical foundation with entrepreneurial spirit, I've successfully navigated the tech landscape from software engineering to founding and scaling my own company. My experience spans across top tech companies where I've driven significant advancements in data engineering, product management, and team development. My passion lies in creating environments where innovation and collaboration thrive.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d82cb251ef21146ec55a9724b59d74a1280f5c97.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -886,7 +894,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 12,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {

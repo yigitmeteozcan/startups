@@ -151,7 +151,32 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christian Södergren",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christiansodergren/",
+        "twitter": "https://twitter.com/krel404",
+        "bio": "<3",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5f306bbe3fd2c59fe9b1466790c72121bf30939b.jpg"
+      },
+      {
+        "name": "Pedro Pregueiro",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pedropregueiro/",
+        "twitter": "https://twitter.com/pedropregueiro",
+        "bio": "Been working with startups and leading technical teams for a few years. Love hacking things together at first, but then thinking deeply about longer-term solutions, when the right time comes. Big guitar fan (played way more before becoming a founder), and know all the best burger joints in Lisbon, Oslo and Stockholm 🍔",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/08575cb2da7e53d78d8f10d627e60162498f4ba7.jpg"
+      },
+      {
+        "name": "Olle Werme",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ollewerme/",
+        "twitter": "https://twitter.com/olle_werme",
+        "bio": "🐥",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7399682bd156e24e2d0cd5f9cfd353480a27c70c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -192,7 +217,24 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kiril Videlov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kirilv/",
+        "twitter": "https://twitter.com/krlvi",
+        "bio": "Software Enthusiast. Love developer tools & automation",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c2fd4b1891697cb734650e0797a953f7ecb2de20.jpg"
+      },
+      {
+        "name": "Gustav Westling",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gustavwestling/",
+        "twitter": "https://twitter.com/zegl",
+        "bio": "Stockholm, Sweden",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/244d49dacc15bf0e90adf2d9dd3acde5044873b1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -961,7 +1003,7 @@
     "id": "yc-halmos-labs",
     "source": "yc",
     "name": "Halmos Labs",
-    "description": "Rebuilding drug development for automation",
+    "description": "One API to any physical experiment",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/093fdc6d2122e7140cab391f450941fd3922b145.png",
     "website": "https://halmoslabs.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/halmos-labs",

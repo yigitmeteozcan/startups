@@ -116,7 +116,23 @@
     "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Stefan Seltz-Axmacher",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/stefanseltzaxmacher",
+        "twitter": "https://twitter.com/stefanesa",
+        "bio": "Robots that are buildable and valuable are the most magical.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a976b8c7814c0a2985a3b21bdfae3f0e1cf5fd0.jpg"
+      },
+      {
+        "name": "Ilia Baranov",
+        "role": "Founder/CTO",
+        "linkedin": "http://linkedin.com/in/iliabaranov",
+        "bio": "There is a certain enchanting magic that comes from working with robots; By waving our hands, we can make machines seem alive.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c64fc8a7f715908988488379782f0e67bf6d8b88.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

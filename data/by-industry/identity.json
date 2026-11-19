@@ -195,7 +195,22 @@
     "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Wayne Chang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/waynebuilds",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/57d8d708237c0309d72f64a7fa3c46b5d465d1d0.jpg"
+      },
+      {
+        "name": "Gregory Rocco",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gregoryvrocco/",
+        "twitter": "https://twitter.com/obstropolos",
+        "bio": "Brooklyn native. Hi – my name is Rocco. I’m a digital humanist and Joycean by education, a musician by practice, and a technologist by trade. I am a co-founder of Spruce. In a past life, I was an associate producer for a children’s media company, an editor in chief and journalist, a startup consultant on product and strategy, and eventually a strategy lead for a team at ConsenSys focused on digital identity.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c47a1c76577c7f0ca9c7062e3471e55be94df64b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -235,7 +250,24 @@
     "teamSize": 17,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Madhavan Malolan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/madhavanmalolan",
+        "twitter": "https://twitter.com/madhavanmalolan",
+        "bio": "I primarily lead product, engineering and research. At Reclaim, we developed ground breaking technology in AI and Cryptography to slash verification costs. We've built a global, instantaneous and compliant verification system with no human in the loop, and thus costs less than a dollar per verification. We primarily apply this technology to verify education, employment, financial background and shopping history of users. Large enterprises with billions of dollars of revenues use Reclaim in",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5a665194ab4905b10cc1fbc1495695e5a4701c22.jpg"
+      },
+      {
+        "name": "Sriharsha Karamchati",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sriharsha-karamchati-0730947b/",
+        "twitter": "https://twitter.com/HarshaKaramchat",
+        "bio": "Co-founder, Reclaim Protocol. Working on zkTLS, verifiable AI sessions and agent auth. Currently building Popcorn: browsers inside TEEs, with human handoffs where they matter.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ee2a1a5cfdb234ccf5e4d150367fbda15f66acdf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

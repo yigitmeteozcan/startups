@@ -2206,7 +2206,7 @@
     "id": "techstars-navi",
     "source": "techstars",
     "name": "Navi",
-    "description": "Navi is an AI that unbreaks your day in the city. It's spatially shaped, not text-shaped: every answer is built from the map, memory of you (your taste and corrections), and the live moment, inputs no chatbot treats as first-class.",
+    "description": "Navi is the agent for the real world. It reasons about the city the way a coding agent reasons about code, then it acts: one messy thought in, and Navi turns it into a plan that knows the place, the moment, and who you're with.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b38d850e991f4652fbcc04f5b.jpg",
     "website": "https://navi.app",
     "location": "San Luis Obispo, California, United States",
@@ -2215,8 +2215,10 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Micromobility",
+      "Mobile",
       "Mobility tech",
-      "Technology, media and telecommunications"
+      "Technology, media and telecommunications",
+      "Wearables and quantified self"
     ],
     "year": 2026,
     "program": "Techstars Boulder",
@@ -2910,16 +2912,17 @@
     "id": "techstars-sqk",
     "source": "techstars",
     "name": "SQK",
-    "description": "SQK develops QMEDIC, a physics-guided AI solution for low-dose CT reconstruction that improves image quality while preserving clinically important details.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3f955f4a08831fa2108417097.png",
+    "description": "Backed by strategic investment from Mayo Clinic and IBM, SQK develops QMEDIC, a medical imaging platform that combines proprietary quantum algorithms and AI to reconstruct and refine low-dose CT images with the goal of preserving subtle findings.",
+    "logo": "https://www.techstars.com/os/api/photo/profile-photos/company-logos/59c7e436-8d91-4ac6-9ade-84b30ff2b493/1795030719336-2qkl9db1nst.png",
     "website": "https://sqkcloud.com",
-    "location": "Issaquah, Washington, United States",
+    "location": "Seattle, Washington, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
       "Digital health",
       "Healthtech",
+      "Lifestyles of Health and Sustainability and wellness",
       "Oncology"
     ],
     "year": 2026,
@@ -2939,7 +2942,7 @@
       "crunchbase": ""
     },
     "extra": {
-      "city": "Issaquah",
+      "city": "Seattle",
       "state_province": "Washington",
       "country": "United States"
     },
@@ -4832,7 +4835,10 @@
     "subregion": "Eastern Asia",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Edtech"
+      "Edtech",
+      "HRtech",
+      "Impact investing",
+      "Technology, media and telecommunications"
     ],
     "year": 2026,
     "program": "Techstars Tokyo Accelerator",
@@ -11089,8 +11095,8 @@
     "id": "yc-ashr",
     "source": "yc",
     "name": "Ashr",
-    "description": "Enterprise post-training, monitoring, and continual learning platform",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
+    "description": "Ashr is the Coding Agent for Machine Learning",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e144b14cd2a6f702d4b46db4f2dd21e7e0337d9d.png",
     "website": "https://ashr.io",
     "sourceUrl": "https://www.ycombinator.com/companies/ashr",
     "location": "San Francisco, CA, USA",
@@ -15256,7 +15262,7 @@
     "id": "yc-netter",
     "source": "yc",
     "name": "Netter",
-    "description": "AI agents for data science (enterprise)",
+    "description": "AI-powered data platform for business teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b2e86ec70fa3e3c6a1b8dc9f39e6aa2b5b7b5952.png",
     "website": "https://netter.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/netter",
@@ -15276,8 +15282,8 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 4,
-    "isHiring": false,
+    "teamSize": 6,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -16885,7 +16891,7 @@
     "id": "yc-grade",
     "source": "yc",
     "name": "Grade",
-    "description": "API for performance-based payroll",
+    "description": "The AI agent for affiliate and creator programs.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
     "website": "https://usegrade.com",
     "sourceUrl": "https://www.ycombinator.com/companies/grade",
@@ -16895,8 +16901,9 @@
     "tags": [
       "Fintech",
       "Payments",
-      "Payroll",
-      "AI"
+      "Marketing",
+      "AI",
+      "Payroll"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -17804,9 +17811,9 @@
     "id": "yc-tensortest",
     "source": "yc",
     "name": "TensorTest",
-    "description": "Evals, RL environments and training data for creative tasks",
+    "description": "AI training data, evals, and RL environments",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/93d28967db9fc99eca39bf1e1c109e9fdfea90d7.png",
-    "website": "https://www.tensortest.com",
+    "website": "https://tensortest.com",
     "sourceUrl": "https://www.ycombinator.com/companies/tensortest",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -19341,8 +19348,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b1e276eff7f94fc1f97bb94df15769f7ec1b4fef.png",
     "website": "https://www.klarify.ca/",
     "sourceUrl": "https://www.ycombinator.com/companies/klarify",
-    "location": "Toronto, ON, Canada",
-    "region": "Canada",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Healthcare",
@@ -19385,7 +19392,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Canada",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -25150,10 +25157,11 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Fintech",
       "Generative AI",
       "SaaS",
-      "Enterprise",
-      "AI"
+      "AI",
+      "Enterprise"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -25935,7 +25943,7 @@
     "source": "yc",
     "name": "AbInitio Bio",
     "description": "The Intelligence layer for Drug Manufacturing",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a7b4f70c5d14e24fb5773ec42e56d354595bd134.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a11693d089967ad864b03ccbd2babe536b2c4df8.png",
     "website": "https://www.abinitio-bio.com",
     "sourceUrl": "https://www.ycombinator.com/companies/abinitio-bio",
     "location": "Boston, MA, USA",
@@ -26153,7 +26161,7 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
     "website": "https://foaster.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/foaster",
-    "location": "San Francisco, CA, USA",
+    "location": "New York City, NY, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [],
@@ -27365,7 +27373,7 @@
     "id": "yc-youart",
     "source": "yc",
     "name": "YouArt",
-    "description": "Patreon for AI Originals",
+    "description": "Codex for creative team",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b7bf5ef49531e304338226fa7947782386f95b91.png",
     "website": "https://youart.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/youart",
@@ -27373,6 +27381,7 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Marketing",
       "Consumer",
       "Content"
     ],
@@ -30607,9 +30616,9 @@
       "AI"
     ],
     "year": 2026,
-    "program": "YC Fall 2026",
+    "program": "YC Summer 2026",
     "programSlugs": [
-      "yc-fall-2026"
+      "yc-summer-2026"
     ],
     "isExit": false,
     "isUnicorn": false,
@@ -31773,7 +31782,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -31807,7 +31816,7 @@
     "name": "Speko",
     "description": "OpenRouter for Voice AI: one API, every call on the best speech model",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
-    "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
+    "website": "https://speko.com/?utm_source=ycombinator&utm_medium=profile",
     "sourceUrl": "https://www.ycombinator.com/companies/speko",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -32985,7 +32994,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 6,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -36106,9 +36115,9 @@
     "id": "yc-risklytics",
     "source": "yc",
     "name": "Risklytics",
-    "description": "AI-Native Insurance for Frontier Tech",
+    "description": "Insurance for Frontier Tech",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/879622d4fa103941586542ac659eaf9b60d897f0.png",
-    "website": "https://www.risklytics.ai/",
+    "website": "https://www.risklytics.com",
     "sourceUrl": "https://www.ycombinator.com/companies/risklytics",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -37013,7 +37022,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 5,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -37787,7 +37796,7 @@
     "id": "yc-agnost-ai",
     "source": "yc",
     "name": "Agnost AI",
-    "description": "We find where AI agents fail, then train better models to run them.",
+    "description": "We find where AI agents fail, then train better models to run them",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e1595f92ea75b1f367addedb5703852b1c7efded.png",
     "website": "https://agnost.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/agnost-ai",
@@ -42929,6 +42938,7 @@
       "Industrials",
       "Energy",
       "Hard Tech",
+      "Hardware",
       "Aerospace",
       "AI"
     ],
@@ -44618,7 +44628,7 @@
     "id": "yc-byteask",
     "source": "yc",
     "name": "ByteAsk",
-    "description": "The AI coding agent for C and C++",
+    "description": "The AI coding agent for C, C++ and CUDA",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
     "website": "https://byteask.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/byteask",
@@ -44642,7 +44652,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 3,
+    "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -45933,7 +45943,7 @@
     "id": "yc-hemlock",
     "source": "yc",
     "name": "Hemlock",
-    "description": "Force + contact dynamics collected at scale for training physical AI.",
+    "description": "Force data collected at scale for training physical AI.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9593981f6acf78f7e8d4417ca9346aed3d279da4.png",
     "website": "https://hemlock.inc",
     "sourceUrl": "https://www.ycombinator.com/companies/hemlock",
@@ -46216,7 +46226,7 @@
     "id": "yc-0-security",
     "source": "yc",
     "name": "0.security",
-    "description": "Open-source AI security agents for enterprise",
+    "description": "Sovereign AI security agents for enterprise",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
     "website": "https://0.security",
     "sourceUrl": "https://www.ycombinator.com/companies/0security",
@@ -46389,7 +46399,7 @@
     "id": "yc-primordiant",
     "source": "yc",
     "name": "Primordiant",
-    "description": "Embodied Scientific Intelligence",
+    "description": "Autonomous labs run by AI and robot scientists, available as an API.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/15a7e2a5caa04595d7620cd8161f3b2cffd00a51.png",
     "website": "https://primordiant.com",
     "sourceUrl": "https://www.ycombinator.com/companies/primordiant",
@@ -46701,7 +46711,7 @@
     "id": "yc-halmos-labs",
     "source": "yc",
     "name": "Halmos Labs",
-    "description": "Rebuilding drug development for automation",
+    "description": "One API to any physical experiment",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/093fdc6d2122e7140cab391f450941fd3922b145.png",
     "website": "https://halmoslabs.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/halmos-labs",
@@ -46760,7 +46770,7 @@
     "id": "yc-verno",
     "source": "yc",
     "name": "Verno",
-    "description": "AI engineering industrials like chip fabs, refineries and power plants",
+    "description": "AI that executes engineering for chip fabs, energy, and power plants",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74ef12c285d4addcc60a88f490fbbb178260035f.png",
     "website": "https://verno-ai.com",
     "sourceUrl": "https://www.ycombinator.com/companies/verno",
@@ -46817,9 +46827,9 @@
     "id": "yc-resin-technologies",
     "source": "yc",
     "name": "Resin Technologies",
-    "description": "Resin helps engineers design electronics faster and more reliably",
+    "description": "Resin is an AI-enabled electronics firm",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bc5f059ee240037dfd1bb651a9c69886e3dceef6.png",
-    "website": "https://resineda.com/",
+    "website": "https://resintechnologies.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/resin-technologies",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -46866,6 +46876,49 @@
       "crunchbase": ""
     },
     "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-avout",
+    "source": "yc",
+    "name": "Avout",
+    "description": "Avout - new finance company for the American frontier",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05baf08f913ac1b26e529d99ba1ec594c8e02576.png",
+    "website": "https://www.avoutcapital.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/avout",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Credit and Lending",
+      "Finance",
+      "Lending",
+      "Neobank"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "firstSeen": "2026-11-19",
     "country": "United States",
     "alsoIn": []
   },
@@ -48473,7 +48526,7 @@
     "id": "yc-dualizer",
     "source": "yc",
     "name": "Dualizer",
-    "description": "AI-powered physical simulation to design/optimize chemical processes",
+    "description": "Agentic physics simulation that debottleneck manufacturing",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5dfc06f5151a1bc751d8af0c4298d0e845be5e5d.png",
     "website": "https://dualizer.com",
     "sourceUrl": "https://www.ycombinator.com/companies/dualizer",
@@ -48539,7 +48592,7 @@
     "id": "yc-sutrix",
     "source": "yc",
     "name": "Sutrix",
-    "description": "Deployed AI to turn EHR data into study-ready datasets ",
+    "description": "Helping healthcare providers monetize their clinical data",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/10aa0357ff173a9e31708ec1fdba33b53c40c20f.png",
     "website": "https://www.sutrix.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/sutrix",
@@ -51087,7 +51140,7 @@
     "id": "yc-contour-contourholdings-ai",
     "source": "yc",
     "name": "Contour",
-    "description": "AI-native permitting for Americas buildout",
+    "description": "AI-native permitting for Data Centers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ae0831175e2bfda4e79ecd1dfe31db6e94502492.png",
     "website": "https://contourholdings.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/contourholdings",
@@ -52189,7 +52242,7 @@
     "id": "yc-deepmark",
     "source": "yc",
     "name": "DeepMark",
-    "description": "A live watermark inside AI voice that survives phone calls",
+    "description": "Caller ID for Voice AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4dfcb45ad1cf6b4da58c1a44a770eb98ac4ec79b.png",
     "website": "https://www.deepmark.me",
     "sourceUrl": "https://www.ycombinator.com/companies/deepmark",
@@ -57059,45 +57112,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-renna-health",
-    "source": "alchemist",
-    "name": "Renna Health",
-    "description": "The AI for ER workflows. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Alchemist Class 41",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mutaz Musa**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-luce-labs",
     "source": "alchemist",
     "name": "Luce Labs",
@@ -57183,6 +57197,45 @@
       "country": "Canada"
     },
     "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-renna-health",
+    "source": "alchemist",
+    "name": "Renna Health",
+    "description": "The AI for ER workflows. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mutaz Musa**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
     "alsoIn": []
   }
 ]

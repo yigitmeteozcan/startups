@@ -397,7 +397,26 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Enzo Avigo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/enzoa/",
+        "twitter": "https://twitter.com/0zne",
+        "bio": "Product guy with a strong entrepreneurial mind-set. Building something new 📊 👉 https://bit.ly/3fIr7KE Get in touch: enzoavigo@gmail.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7311c032f734526c89bc12e528c4f320172359b1.jpg",
+        "active": false
+      },
+      {
+        "name": "Ferruccio Balestreri",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ferrucc-io/",
+        "twitter": "https://twitter.com/0xferruccio",
+        "bio": "I used to be an engineer at Intercom , where I met Enzo, my cofounder Before that I built the tech side of altacucina.co the biggest community of Italian food lovers In my free time I like to write here: https://ferrucc.io",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e32f503b335598144df8d4ba33347234a73b3df0.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

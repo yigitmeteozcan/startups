@@ -154,7 +154,26 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matthew Linkous",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthewlinkous/",
+        "twitter": "https://twitter.com/matthew_linkous",
+        "bio": "Used to launch new features on the Google Search page and now building the best database for application developers!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e2b534c4afa0fb288b927e8fe08ba623f8f9e112.jpg",
+        "active": false
+      },
+      {
+        "name": "Will Ernst",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/will-ernst-71557297/",
+        "twitter": "https://twitter.com/will_ernst",
+        "bio": "Software engineer with a background in finance and performant web applications. Building Triplit - the full-stack database platform for application developers. Middlebury College graduate.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39750d1e982a1cdac2175182b41f1a88e949e4f8.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -194,7 +213,28 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Raphael Goldsztejn",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/raphael-goldsztejn-b90b5624/?locale=en_US",
+        "twitter": "https://twitter.com/raphgoldz",
+        "bio": "Co-founder & CEO of WeWeb (YC W21), a full-stack AI app builder: describe the app you need, AI builds it, and you review, edit and ship every part from a visual editor. Code export included. Neoma Business School graduate turned hands-on builder, 10+ years of product and engineering experience. Based in Paris. WeWeb is profitable.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b289f474f825f5e35b45bfe816fef65372bdfb9d.jpg"
+      },
+      {
+        "name": "Florian Briou",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/florian-briou-weweb",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/06681497c22e5960b5d26dcd63b879778fa463fe.jpg"
+      },
+      {
+        "name": "Marc Fabre",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cd4fde122ee1f416d8037a83aa3e6c4b25e7f9b1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

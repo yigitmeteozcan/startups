@@ -595,7 +595,26 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matthew Linkous",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthewlinkous/",
+        "twitter": "https://twitter.com/matthew_linkous",
+        "bio": "Used to launch new features on the Google Search page and now building the best database for application developers!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e2b534c4afa0fb288b927e8fe08ba623f8f9e112.jpg",
+        "active": false
+      },
+      {
+        "name": "Will Ernst",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/will-ernst-71557297/",
+        "twitter": "https://twitter.com/will_ernst",
+        "bio": "Software engineer with a background in finance and performant web applications. Building Triplit - the full-stack database platform for application developers. Middlebury College graduate.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39750d1e982a1cdac2175182b41f1a88e949e4f8.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -638,7 +657,22 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yuzhe Yan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yuzhe-yan-257573a8/",
+        "bio": "Hi there, I am Yuzhe. I am an algo expert and a C++ guru. Let me know how I can help.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/26e985e47e358b5a1d6793112c9c2593ccff3291.jpg"
+      },
+      {
+        "name": "Tiangang Song",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/tgsong",
+        "bio": "Tech geek, ask me about any technologies. Also interested in many other fields like music, philosophy, psychology, physics, etc.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2483d169153800a786f05f44bc92118a71553488.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

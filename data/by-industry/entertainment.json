@@ -1112,7 +1112,23 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ashutosh \"Ash\" Nayak",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ashutoshnayak/",
+        "twitter": "https://twitter.com/AshuNayak159",
+        "bio": "“Ashutosh spent over a decade of his career building products and technology for large media conglomerates in the US and consulted clients globally. Ashutosh co-founded Gigs Live with a vision and passion to bring best-in-class technology and product experience to Music aficionados across the world. He truly believes that Music is one of the mediums that brings people together and connects them. Ashutosh earned his Bachelors from New York University and MBA from MIT Sloan School of Management.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f2084f6b6314125ab052f7a45b304052d51c86b2.jpg"
+      },
+      {
+        "name": "Vaibhav Kharat",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/vkharat",
+        "bio": "Vaibhav Kharat has spent the last 20 years leveraging technology to transform great ideas into reality. Vaibhav co-founded and serves as the CTO of Gigs.live. Prior to Gigs.live, Vaibhav held technology positions at Amazon.com for the past 19 years. He has built robust and extensible systems that scale to and delight millions of customers. Vaibhav holds a Masters in Industrial Engineering from University of Cincinnati, OH, and a MBA from MIT Sloan, Cambridge MA.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/29ee6b957ede612e1e44435dcd42fdcd61af7691.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2100,7 +2116,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 12,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {

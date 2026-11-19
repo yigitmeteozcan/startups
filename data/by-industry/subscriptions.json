@@ -600,7 +600,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vivien Sin",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/viviensin/",
+        "twitter": "https://twitter.com/vivsinym",
+        "bio": "CEO of The Third Place",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eedffbd83e6a6161ddc2c2d080fc5ce0556dc9de.jpg"
+      },
+      {
+        "name": "Glen Wang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kairuiwang/",
+        "bio": "CTO of The Third Place",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7aecca53638c342649098f9063de4682d9f26129.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -640,7 +656,25 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dhruv Goel",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/goeldhruv90",
+        "bio": "Engineer by choice and MBA from ESADE Business School, Spain. Repeat founder working on a group buying app for digital consumer goods. Love to drive cars and travel.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/689662a4320149b8a9d03b531b908bac44c03634.jpg",
+        "active": false
+      },
+      {
+        "name": "Ankur Solanki",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ankur-solanki",
+        "twitter": "https://x.com/ankursolanki_",
+        "bio": "After earing my B,Tech from NSIT, Delhi University, I worked in the healthcare industry for few years. To gain global experience i pursued my MBA from ESADE business school and cofounded my first start up in healthcare space during it. With the same founding team, we started Splitsub to solve the common issue we all face with subscriptions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2ed0a79c2030bfb1d6f7156dba40ed30f188d1d0.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -682,7 +716,25 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rory Graman",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/rorygraman",
+        "twitter": "https://twitter.com/rorygraman",
+        "bio": "Rory has spent 12.5 years in the military as a Navy SEAL, leading 100+ SEAL's throughout his career. While working at Charge Running, he built the process in which certified run coaches virtually coach tens of thousands of runners located all over the world and has also learned to code SQL to learn more about their users. He has since founded Conveyor Labs, building the first fully decentralized, trustless, and non-custodial crypto trading platform to automate DeFi trades.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/827a6a3ee7b7046ac4b39eb017ca429a13f41054.jpg",
+        "active": false
+      },
+      {
+        "name": "Julie Wallock",
+        "role": "Founder; COO",
+        "linkedin": "https://www.linkedin.com/in/julie-wallock-447296126/",
+        "twitter": "https://twitter.com/JWall_Lynn",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f3df9f1b81c1cb9763edd217f6c941b97f6efdc6.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -723,7 +775,22 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Harsh Snehanshu",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/harshsnehanshu",
+        "twitter": "https://twitter.com/harshsnehanshu",
+        "bio": "Cofounder/CEO, YourQuote",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83e65b9461a42ffeb475dac7c1999ae17dc96b64.jpg"
+      },
+      {
+        "name": "Ashish Singh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/imashishsingh/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/73c176d68946cb10231171f60b92bb55c3ded633.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -763,7 +830,29 @@
     "teamSize": 80,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Austin Esecson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/austinesecson/",
+        "bio": "Founder / CEO of Rinsed.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1d3bf4022544b53421a70c495a920721d2341e1b.jpg"
+      },
+      {
+        "name": "Nic Hippenmeyer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicholas-hippenmeyer-39427044/",
+        "bio": "Co-Founder & CTO at Rinsed",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/783229e6fa307ecf5d847b7fd3c2e082d1c9d47e.jpg"
+      },
+      {
+        "name": "Sam Logan",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/sam-j-logan/",
+        "bio": "Co-Founder & COO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4a4aff84fd2c43472e335e75ab76cb272e04736.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -805,7 +894,15 @@
     "teamSize": 12,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Monji Dolon",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mdolon",
+        "twitter": "http://twitter.com/mdolon",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/503a25973ecb8e22bfc5b077e2ec99d23e4f798f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -845,7 +942,24 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gonzalo Aguilar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gonzalodecheck/",
+        "twitter": "https://twitter.com/gonzadeprendea",
+        "bio": "Founder and CEO of Prendea (https://prendea.com), live online classes for kids ages 4 - 16 in Latam. Previously founded Check (https://check.education), a curricular maths platform for schools in Latam, with operations in Peru and Mexico. 6 years working in K-12 related ventures, studied Economics in Universidad del Pacífico, in Lima.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b187294ef6e0e0872a73a1a4069a7daf250a3188.jpg"
+      },
+      {
+        "name": "Benjamin Garmendia",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/benjamingarmendia",
+        "twitter": "https://twitter.com/garmendiabenja",
+        "bio": "Co-founder and Head of Product at Prendea (2020 - ) Co-founder and Head of Product at Check (2018 - 2020) BA Philosophy, Politics and Economics, University of Oxford (2015-2018)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d899c34ba9ef69df2dc526b7e8daa698a51758a7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -885,7 +999,24 @@
     "teamSize": 60,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lluis Canadell",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/lluiscanadell/",
+        "twitter": "https://mobile.twitter.com/lluis_canadell",
+        "bio": "founder building AI products for SMBs and entrepeneurs in the US and Latin America",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3466088a80a9b73ff975f862a4affd161235add2.jpg"
+      },
+      {
+        "name": "Man Hei Lou",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/manheilou",
+        "twitter": "https://twitter.com/derialman",
+        "bio": "Co-Founder at Treinta. Building the tools to empower microbusinesses to become more competitive in Latin America.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4e982cc75795f200296d5065dc11b830e1f0cf95.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -926,7 +1057,17 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jessica Jackley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jessicajackley/",
+        "twitter": "https://www.twitter.com/jessicajackley",
+        "bio": "Entrepreneur and investor best known as a cofounder of Kiva, >$1.5B in loans since its founding. Founder and CEO of Alltruists, providing at-home volunteer activities for families through a monthly subscription. Cofounder and Managing Director of Untapped Capital, instructor of entrepreneurship at USC. Stanford MBA, Bucknell BA, Harvard Kennedy School. Author of CLAY WATER BRICK. Based in LA with husband Reza Aslan and their four awesome kids.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fd504b8cc1d5de248aab197e3267658020828165.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

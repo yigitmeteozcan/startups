@@ -195,7 +195,25 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeff Chen",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/thisisjeffchen",
+        "twitter": "http://twitter.com/thisisjeffchen",
+        "bio": "Founder at Redcar - making every professional superhuman. Redcar lets B2B businesses hire AI Sales Reps. Previously Joyride (acquired by Google) and CLZ (acquired by Zynga). Love ai, crypto, edm, piano, surfing, and kiteboarding. YC Badge: 0x6ef702154e83cbc771191d2b23f574c7c7a36061",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6a3925d00a477a195b41c1b6b51b9fce30d69a8f.jpg",
+        "active": false
+      },
+      {
+        "name": "Daryl Sew",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/darylsew",
+        "bio": "Cofounder and CTO of Certainly Health. Price transparency enthusiast, game designer and roboticist. Previously built a fine dining delivery marketplace Taste, worked on self driving cars, and built products at Snap, Google X, Tesla.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d58dac61ffebd14706237d13ca7f9138070cdd78.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -237,7 +255,33 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Kolchinski",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kolchinski",
+        "twitter": "https://twitter.com/kolchinski",
+        "bio": "I grew up writing video games and doing competitive math, then studied CS and statistics at UChicago. I then did a stint at Google as a product manager before going back to school for a PhD at Stanford, where I did research in ML and educational technology before dropping out to work on Mezli. Outside of work, I love reading, cooking, and outdoor sports.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/160384198f2c8858c11fd4613bef4e8420e8036a.jpg",
+        "active": false
+      },
+      {
+        "name": "Alex Gruebele",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexgruebele/",
+        "bio": "I'm a hardware hacker from Champaign, IL. I got my bachelors in ME at the University of Illinois Urbana-Champaign, and my PhD in robotics at Stanford. I'm very passionate about food and cooking, and getting to combine that with my love for hardware and robotics at Mezli!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/73f15154f40258f135e2e8f6da83f8c810efa1ad.jpg",
+        "active": false
+      },
+      {
+        "name": "Maxwell Perham",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maxwell-perham/",
+        "bio": "Grew up in a small town in Massachusetts and graduated from a tiny highschool. As a teenager I fixed up my dad's old motorcycle and decided that I wanted to know more about how/why it worked rather than just how to fix it. Went to the UMass Amherst for Mechanical Engineering and fell in love with the romance of space and space travel. Went to Stanford for Aerospace and got my Masters. Worked on spacecraft for a few years but it was more The Office than Star Trek so I quit. Founded a company.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6c7959c997017cd47bae5fc3713eb4075165ed6f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

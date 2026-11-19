@@ -1503,7 +1503,7 @@
     "year": 2019,
     "program": "UnitedHealthcare Accelerator Powered by Techstars",
     "programSlugs": [],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2871,7 +2871,21 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shashwata Narain",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shashwatanarain/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/52dcfe8bc44f498e03091bab4e4726804caa8670.jpg"
+      },
+      {
+        "name": "Shobhita Narain",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shobhita-narain-a668b971/",
+        "bio": "Deep healthcare expertise with experience in the pharma, hospital, and health payer space. I've worked previously at UnitedHealth Group, Accenture Life Sciences & GlaxoSmithKline.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39639fd5bfb7900d7f8d0c5bf87e701b324ecd32.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

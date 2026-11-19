@@ -240,7 +240,23 @@
     "teamSize": 55,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Topher Haddad",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/topher-haddad-a9a460a4/",
+        "twitter": "https://twitter.com/topherhaddad",
+        "bio": "Previous to being CEO of Albedo, Topher was a systems engineer at Lockheed Martin working on top secret remote sensing satellites. Topher led teams involved in the optical design and imaging architecture across multiple $B+ government programs. He holds a B.S. in Mechanical Engineering from UT Austin and an M.S. in Electrical Engineering from Johns Hopkins.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/399395f24102ae8d314afeaf8a0330c5b983d5c8.jpg"
+      },
+      {
+        "name": "AyJay Lasater",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aj-lasater/",
+        "bio": "CTO at Albedo. Previous to Albedo, AyJay was a System Architect at Lockheed Martin, developing satellite constellations, satellite designs from concept to launch and in-orbit ops, and iterated on various in-depth performance analysis. AyJat worked with high performing small sats and exquisite large $B+ satellites for the government. He holds a B.S. in Mechanical Engineering from Colorado School of Mines and M.S. in Mechatronics from DU",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b7bc7c791d570d7fa5d8302fb967156cdf42d8d3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -283,7 +299,22 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Billy Thalheimer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/williamthalheimer/",
+        "bio": "Billy is an aerospace business leader and multidisciplinary engineer with expertise spanning aviation entrepreneurship and novel aircraft development. At Aurora Flight Sciences, Billy led execution and BD for next-gen aircraft programs. Holding a BS/MS from MIT in aerospace engineering, he also led flight physics modeling for Boeing's electric air taxi, and authored their custom aircraft design code. As a passionate aerospace nerd, Billy spends his free time competing as an aerobatic pilot.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55b8ff816963ee85958d35e82d1ba6024594c470.jpg"
+      },
+      {
+        "name": "Michael Klinker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-klinker-85a1a989/",
+        "bio": "Aviation runs in Mike’s blood--he received his Bachelors and Masters degrees from MIT focused on aircraft controls and autonomy, is an avid pilot, and loves any vehicle that flies or floats. Mike spent years at Airware, Raptor Maps, MIT Lincoln Labs, and Aurora Flight Sciences designing and operating innovative vehicles. Mike has built and written control software for over a dozen aircraft, and brings his advanced flight controls and abundant flight test experience to REGENT as its CTO.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/194db99a33efea8eb6ea8b9a26bfc755e4e69693.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -326,7 +357,23 @@
     "teamSize": 28,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Justin Fiaschetti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/justin-fiaschetti-097b10166/",
+        "twitter": "https://twitter.com/jcfiaschetti",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/78ccd230bd22d0383749f24bcd370442e76eaf8d.jpg"
+      },
+      {
+        "name": "Austin Briggs",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/austinbriggs7/",
+        "twitter": "https://twitter.com/_abriggs",
+        "bio": "‎",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af375c9be5644e12cbd80a0444c7d231c2cde27b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1225,7 +1272,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Shan Mohta",
@@ -1282,8 +1329,8 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 1,
-    "isHiring": true,
+    "teamSize": 2,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -2567,6 +2614,7 @@
       "Industrials",
       "Energy",
       "Hard Tech",
+      "Hardware",
       "Aerospace",
       "AI"
     ],

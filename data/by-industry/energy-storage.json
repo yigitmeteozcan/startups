@@ -241,7 +241,23 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Huelskamp",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/paulhuelskamp",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3cc12b83575178d2e050d3e7d8e1184aff88d68.jpg",
+        "active": false
+      },
+      {
+        "name": "Alexander Meek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandermeek/",
+        "bio": "Alex is a venture capital investor, former founder and W21 YC alum. As a former startup operator, Alex was the co-founder and President at Moxion, one of the largest mobile energy storage manufacturers in the US. Under his leadership, Moxion secured over $150M from investors like Amazon, Microsoft, and Energy Impact Partners, and delivered over $100M in revenue in its first year. Before that, Alex founded Newday, a value-driven asset management firm that now oversees $175M.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e03689cbdc1e37e675ca67cbfb219c8f04df6712.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -283,7 +299,15 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Marge",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/thomas-marge",
+        "bio": "Thomas is co-founder and CEO of Rewbi, which uses AI to optimize grid-connected battery storage. He previously founded inBalance, a YC W21 company, which was acquired by Stem (NYSE: STEM) in January of 2023. He led battery storage optimization and forecasting for Stem. He completed part of a Pure Mathematics PhD at University of Cambridge, which he left to build inBalance. He holds a Masters in Applied Mathematics and B.S.E. in Pure and Applied Mathematics from Johns Hopkins, graduating early.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1e928aa8f09dd229ceedcffa08968ba2649d89e7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

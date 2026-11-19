@@ -516,7 +516,23 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tomer Biger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tomer-biger-194a9ba3/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dafa446f5e533ac0a73e406dd0a028ea2466bbf5.jpg",
+        "active": false
+      },
+      {
+        "name": "Moran Mishan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/moran-mishan-9389b640/",
+        "bio": "\"Those who say it can't be done are usually interrupted by others doing it.\" -James Baldwin An experienced software engineer, with strong motivation and capabilities for getting the job done quickly and efficiently. #Coding#Surfing#Kids#Family#Hacking#Beer#sea#Gym#tech",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d14cd3925cf31115ddd72e52a82fed7284b7a13c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -557,7 +573,26 @@
     "teamSize": 95,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Evyatar Ben Artzi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/evyatar-ben-artzi",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/49795f03158a0842bb9ac40050df782f10be6410.jpg"
+      },
+      {
+        "name": "Gila Hayat",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gilahayat/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d5707f46930b2cd8f88e22b1070084f413bdc1f5.jpg"
+      },
+      {
+        "name": "Elad Spiegelman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/elad-spiegelman-1a47a0103/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5af7250da5986598bd0fdd1f628452175e770637.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -597,7 +632,30 @@
     "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adar Hay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adarhay/",
+        "bio": "Co-founder and CEO of Jiga",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d3419ed1913e8b496682939006d72d8e67e83fe.jpg"
+      },
+      {
+        "name": "Assaf Geuz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/assaf-geuz-jiga/",
+        "bio": "Co-Founder of Jiga",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a87264b0a8ed788beebee11620f5d34edefd8526.jpg"
+      },
+      {
+        "name": "Yonatan Wolowelsky",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yonatan-wolowelsky-2454553a/",
+        "twitter": "https://twitter.com/grmmph",
+        "bio": "Co Founder and CTO of Jiga",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f0757478de42201b3c4d26ca32d788e68aba7d4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1458,57 +1516,6 @@
         "linkedin": "https://www.linkedin.com/in/shahar-glazner-29294654/",
         "bio": "Passionate about building stuff. Less is more. Long-distance runner. Occasionally (hopefully more) writes on shaharglazner.medium.com",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a59b17a4ebe14a0690f9119a56d1d26b7aaf9f17.jpg"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {},
-    "country": "Israel",
-    "alsoIn": []
-  },
-  {
-    "id": "yc-skyhook",
-    "source": "yc",
-    "name": "Skyhook",
-    "description": "PaaS-like experience with the power of Kubernetes, on your cloud",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c4df2dc3a8591521492f4797ca92971742623b68.png",
-    "website": "https://skyhook.io",
-    "sourceUrl": "https://www.ycombinator.com/companies/skyhook",
-    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "region": "Israel",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design",
-      "Developer Tools",
-      "SaaS",
-      "Kubernetes",
-      "DevOps"
-    ],
-    "year": 2023,
-    "program": "YC Winter 2023",
-    "programSlugs": [
-      "yc-winter-2023"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSize": 7,
-    "isHiring": false,
-    "stage": "Early",
-    "founders": [
-      {
-        "name": "Nadav Erell",
-        "role": "Founder",
-        "linkedin": "https://www.linkedin.com/in/nadav-erell/",
-        "twitter": "https://twitter.com/nadaverell",
-        "bio": "Experienced Software Engineer and team leader, with a passion for technology, product and strategy. Spent 9 years at Google working on Identity and Authentication, internal Google User Analytics, Notifications infrastructure, and Google Cloud, with multiple roles as TL / Architect. Studied Computer Science and Electrical and Computer Engineering (double degree) at Ben-Gurion University, graduating Summa Cum Laude in both. Served as an Intelligence Analyst in Unit 8200 in the Israeli Army.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/77bd824548fd700e13ef12c5620d8ff8a63df0e4.jpg"
       }
     ],
     "social": {

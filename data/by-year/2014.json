@@ -19363,13 +19363,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-freedcamp",
+    "id": "alchemist-xendo",
     "source": "alchemist",
-    "name": "Freedcamp",
-    "description": "-",
+    "name": "Xendo",
+    "description": "Business Productivity Tool that Provides Unified Search Across 30 Leading Cloud Apps Like Salesforce, Gmail, Box, Asana and Dropbox",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -19378,13 +19378,13 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Angel Grablev",
+        "name": "Co-founders",
         "role": "",
         "linkedin": ""
       }
@@ -19396,9 +19396,9 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "USA"
+      "country": ""
     },
-    "country": "United States",
+    "country": "",
     "alsoIn": []
   },
   {
@@ -19424,6 +19424,45 @@
     "founders": [
       {
         "name": "Mark Williams",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-freedcamp",
+    "source": "alchemist",
+    "name": "Freedcamp",
+    "description": "-",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2014,
+    "program": "Alchemist Class 7",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Angel Grablev",
         "role": "",
         "linkedin": ""
       }
@@ -19480,6 +19519,45 @@
     "alsoIn": []
   },
   {
+    "id": "alchemist-sensorhound",
+    "source": "alchemist",
+    "name": "SensorHound",
+    "description": "-",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2014,
+    "program": "Alchemist Class 9",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dr. Vinai Sundaram",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": ""
+    },
+    "country": "",
+    "alsoIn": []
+  },
+  {
     "id": "alchemist-47line",
     "source": "alchemist",
     "name": "47Line",
@@ -19526,84 +19604,6 @@
       "country": "USA"
     },
     "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-xendo",
-    "source": "alchemist",
-    "name": "Xendo",
-    "description": "Business Productivity Tool that Provides Unified Search Across 30 Leading Cloud Apps Like Salesforce, Gmail, Box, Asana and Dropbox",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2014,
-    "program": "Alchemist Class 7",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Co-founders",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": ""
-    },
-    "country": "",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-sensorhound",
-    "source": "alchemist",
-    "name": "SensorHound",
-    "description": "-",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2014,
-    "program": "Alchemist Class 9",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dr. Vinai Sundaram",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": ""
-    },
-    "country": "",
     "alsoIn": []
   }
 ]

@@ -1,14 +1,14 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-18._
+_Auto-generated from the dataset on 2026-11-19._
 
 | Metric | Count |
 |---|---|
-| Total companies | **22,437** |
+| Total companies | **22,442** |
 | 🦄 Unicorns ($1B+) | **152** |
-| 💰 Exits | **2855** |
+| 💰 Exits | **2862** |
 | 🌱 B Corps | **29** |
-| 👤 Founder profiles | **13,515** |
+| 👤 Founder profiles | **14,284** |
 | Current session | **69** |
 
 ## By source
@@ -16,10 +16,10 @@ _Auto-generated from the dataset on 2026-11-18._
 | Source | Companies |
 |---|---|
 | plugandplay | 6,444 |
-| yc | 6,404 |
+| yc | 6,408 |
 | techstars | 5,200 |
 | 500 | 2,243 |
-| antler | 1,087 |
+| antler | 1,088 |
 | ef | 545 |
 | alchemist | 514 |
 
@@ -46,24 +46,24 @@ _Auto-generated from the dataset on 2026-11-18._
 2022  ███████████████████████████░ 1456
 2023  ████████████████████████████ 1495
 2024  ███████████████████████████░ 1453
-2025  ████████████████████░░░░░░░░ 1051
-2026  ████████████████████░░░░░░░░ 1074
-2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15
+2025  ████████████████████░░░░░░░░ 1052
+2026  ████████████████████░░░░░░░░ 1075
+2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 17
 ```
 
 ## Top countries
-1. **United States** — 11521
+1. **United States** — 11528
 2. **Japan** — 3140
 3. **United Kingdom** — 868
-4. **Canada** — 763
+4. **Canada** — 762
 5. **Germany** — 346
 6. **India** — 345
 7. **France** — 271
 8. **Singapore** — 251
-9. **Israel** — 240
+9. **Israel** — 239
 10. **Mexico** — 219
-11. **United Arab Emirates** — 148
-12. **Italy** — 148
+11. **Italy** — 148
+12. **United Arab Emirates** — 147
 13. **South Korea** — 143
 14. **Nigeria** — 117
 15. **Australia** — 116
@@ -71,13 +71,13 @@ _Auto-generated from the dataset on 2026-11-18._
 ## Top cities
 1. **Tokyo** — 3092
 2. **Silicon Valley** — 1960
-3. **New York City** — 408
+3. **New York City** — 409
 4. **London** — 316
 5. **San Francisco** — 181
 6. **Los Angeles** — 142
 7. **Boston** — 123
 8. **Paris** — 122
-9. **Seattle** — 119
+9. **Seattle** — 120
 10. **Chicago** — 114
 11. **Austin** — 110
 12. **Alberta** — 107
@@ -88,7 +88,7 @@ _Auto-generated from the dataset on 2026-11-18._
 ## Top programs
 1. **Plug and Play** — 6444
 2. **500 Global** — 1403
-3. **Antler** — 1087
+3. **Antler** — 1088
 4. **Entrepreneur First** — 545
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 390
@@ -103,16 +103,16 @@ _Auto-generated from the dataset on 2026-11-18._
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 2952
-2. **AI** — 1904
+1. **Fintech** — 2955
+2. **AI** — 1907
 3. **SaaS** — 1701
 4. **Artificial intelligence and machine learning** — 1669
-5. **Mobile** — 1163
-6. **Consumer** — 1075
+5. **Mobile** — 1164
+6. **Consumer** — 1076
 7. **Healthcare** — 833
 8. **Infrastructure** — 759
 9. **Developer Tools** — 748
-10. **Industrials** — 694
+10. **Industrials** — 695
 11. **Health & Longevity** — 691
 12. **Engineering, Product and Design** — 635
 13. **Insurtech** — 629
@@ -121,12 +121,12 @@ _Auto-generated from the dataset on 2026-11-18._
 16. **Energy** — 537
 17. **Brand & Retail** — 517
 18. **Mobility & Physical AI** — 498
-19. **Healthtech** — 483
+19. **Healthtech** — 484
 20. **Supply Chain** — 438
 
 ## By region
-1. **Americas** — 6013
-2. **United States of America** — 4778
+1. **Americas** — 6014
+2. **United States of America** — 4784
 3. **Asia** — 3438
 4. **Europe** — 1028
 5. **EMEA** — 951
@@ -134,10 +134,10 @@ _Auto-generated from the dataset on 2026-11-18._
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
 9. **United Kingdom** — 221
-10. **Canada** — 219
-11. **India** — 219
+10. **India** — 219
+11. **Canada** — 218
 12. **Latin America** — 163
-13. **Middle East** — 158
+13. **Middle East** — 157
 14. **Unspecified** — 119
 15. **North Asia** — 110
 16. **Africa** — 107
@@ -150,7 +150,7 @@ _Auto-generated from the dataset on 2026-11-18._
 23. **Brazil** — 69
 24. **Singapore** — 51
 25. **Nigeria** — 46
-26. **Israel** — 35
+26. **Israel** — 34
 27. **Indonesia** — 30
 28. **Colombia** — 29
 29. **Spain** — 21

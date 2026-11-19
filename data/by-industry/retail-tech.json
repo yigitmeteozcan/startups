@@ -558,7 +558,22 @@
     "teamSize": 35,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mit Patel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mitpatel283",
+        "bio": "I started SwiftSku because I saw an opportunity to solve the problems that stole time and money from my family and friends in convenience stores. As co-founder and CEO of SwiftSku, I have a burning passion for product development and nothing satisfies me more than building software that delights our customers. My technical background is in backend and network engineering.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/28c54ca9973182a10f5284f570cc686d6b760b7c.jpg"
+      },
+      {
+        "name": "Daniel Mazur",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/danielmazur1",
+        "bio": "As co-founder and COO of SwiftSku, I manage operations and strategy, however, I come from a background of analytics and design. For pleasure, I enjoy playing tennis and learning about emergent technologies in the fields of additive manufacturing, machine learning, and decentralized applications.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f328e56d7c9cbcff997893e94f404fdde2021559.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

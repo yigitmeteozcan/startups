@@ -626,106 +626,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-coursefactory",
+    "id": "alchemist-livediagrams-inc",
     "source": "alchemist",
-    "name": "CourseFactory",
-    "description": "Connecting humans and AI to create online courses: faster, cheaper and with high quality",
+    "name": "LiveDiagrams, Inc.",
+    "description": "Cloud Operations. Simplified.",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Taras Pustovoy",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Irina Karpunina",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Gennady Koveshnikov",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-flyvercity",
-    "source": "alchemist",
-    "name": "Flyvercity",
-    "description": "Flyvercity builds software for drone operations and is developing COGNEST, mission intelligence for aerial robotics.",
-    "logo": "",
-    "website": "",
-    "location": "Netanya, Israel",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Andrey Potapov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Boris Resnick",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Israel"
-    },
-    "country": "Israel",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-qi",
-    "source": "alchemist",
-    "name": "QI",
-    "description": "Predictive Insights to Test Content Before Going Live",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
+    "location": "San Mateo, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -734,13 +641,18 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "JD Rico",
+        "name": "Andrew Lupersolsky",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yegor Tsynkevich",
         "role": "",
         "linkedin": ""
       }
@@ -807,13 +719,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-livediagrams-inc",
+    "id": "alchemist-qi",
     "source": "alchemist",
-    "name": "LiveDiagrams, Inc.",
-    "description": "Cloud Operations. Simplified.",
+    "name": "QI",
+    "description": "Predictive Insights to Test Content Before Going Live",
     "logo": "",
     "website": "",
-    "location": "San Mateo, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -822,18 +734,62 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": true,
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Andrew Lupersolsky",
+        "name": "JD Rico",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-coursefactory",
+    "source": "alchemist",
+    "name": "CourseFactory",
+    "description": "Connecting humans and AI to create online courses: faster, cheaper and with high quality",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Taras Pustovoy",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Yegor Tsynkevich",
+        "name": "Irina Karpunina",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Gennady Koveshnikov",
         "role": "",
         "linkedin": ""
       }
@@ -936,6 +892,50 @@
       "country": "USA"
     },
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-flyvercity",
+    "source": "alchemist",
+    "name": "Flyvercity",
+    "description": "Flyvercity builds software for drone operations and is developing COGNEST, mission intelligence for aerial robotics.",
+    "logo": "",
+    "website": "",
+    "location": "Netanya, Israel",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Andrey Potapov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Boris Resnick",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Israel"
+    },
+    "country": "Israel",
     "alsoIn": []
   }
 ]

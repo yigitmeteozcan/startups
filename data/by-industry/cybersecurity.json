@@ -5672,7 +5672,15 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Emre Murray Mangir",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/emremangir/",
+        "bio": "Current: - Product at Ashby (we make powerful and pleasant software for hiring) Previously: - Co-founder at Stacksi (W21 - we automate security questionnaires) - Co-founder at Mozio (aggregates global ground transport) - Former pricing & marketing consultant at Simon-Kucher & Partners (improves unit economics, pricing, and packaging) - UC Berkeley - Applied Math, Economics",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed4f95dc983aedeaedbf44f5fff4e2ecd55feb15.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7849,7 +7857,7 @@
     "id": "yc-0-security",
     "source": "yc",
     "name": "0.security",
-    "description": "Open-source AI security agents for enterprise",
+    "description": "Sovereign AI security agents for enterprise",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
     "website": "https://0.security",
     "sourceUrl": "https://www.ycombinator.com/companies/0security",
@@ -7997,7 +8005,7 @@
     "id": "yc-deepmark",
     "source": "yc",
     "name": "DeepMark",
-    "description": "A live watermark inside AI voice that survives phone calls",
+    "description": "Caller ID for Voice AI",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4dfcb45ad1cf6b4da58c1a44a770eb98ac4ec79b.png",
     "website": "https://www.deepmark.me",
     "sourceUrl": "https://www.ycombinator.com/companies/deepmark",

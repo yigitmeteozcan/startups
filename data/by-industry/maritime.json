@@ -72,7 +72,22 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Billy Thalheimer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/williamthalheimer/",
+        "bio": "Billy is an aerospace business leader and multidisciplinary engineer with expertise spanning aviation entrepreneurship and novel aircraft development. At Aurora Flight Sciences, Billy led execution and BD for next-gen aircraft programs. Holding a BS/MS from MIT in aerospace engineering, he also led flight physics modeling for Boeing's electric air taxi, and authored their custom aircraft design code. As a passionate aerospace nerd, Billy spends his free time competing as an aerobatic pilot.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55b8ff816963ee85958d35e82d1ba6024594c470.jpg"
+      },
+      {
+        "name": "Michael Klinker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-klinker-85a1a989/",
+        "bio": "Aviation runs in Mike’s blood--he received his Bachelors and Masters degrees from MIT focused on aircraft controls and autonomy, is an avid pilot, and loves any vehicle that flies or floats. Mike spent years at Airware, Raptor Maps, MIT Lincoln Labs, and Aurora Flight Sciences designing and operating innovative vehicles. Mike has built and written control software for over a dozen aircraft, and brings his advanced flight controls and abundant flight test experience to REGENT as its CTO.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/194db99a33efea8eb6ea8b9a26bfc755e4e69693.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

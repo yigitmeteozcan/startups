@@ -989,7 +989,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ben Shepherd",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ben-shepherd-17167a11/",
+        "bio": "Co-founder, Chief Executive Officer. Dr. Shepherd is a vascular biologist, tissue engineer and regenerative medicine scientist by training. He has spent the past 10+ years in industry since leaving his academic position at the Yale School of Medicine. He has built successful research teams focused on using 3D bioprinting and biofabrication to develop both in vitro human tissue systems and translational approaches to creating therapeutic tissues.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/86c95f9de59481bc152bb0874163251534c2d765.jpg"
+      },
+      {
+        "name": "Alice Chen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alice-e-chen-3448a712/",
+        "bio": "Entrepreneur with 20+ years research experience in the fields of developmental biology, stem cell biology, and tissue engineering. Founded Trestle Biotherapeutics to develop a functional therapeutic tissue for patients suffering from Chronic Kidney Disease through the successful integration of stem cell biology and biofabrication.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c09529c405cdc6e70aa6a4b38297f67a64fe37c7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1030,7 +1045,29 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Carl-Emil Grøn Fuglesang",
+        "role": "Founder",
+        "linkedin": "https://linked.in/in/carlemilg",
+        "bio": "Mechanical engineer, physicist and now CEO of Reshape Biotech",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb5a9fca213179af4163edfbab22726accb2e262.jpg"
+      },
+      {
+        "name": "Magnus Nyborg Madsen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/magnusnm/",
+        "bio": "I'm extremely interested in robotics and automation, and in particular how they can accelerate R&D in the life sciences. I pursue these interests working at Reshape Biotech, which is a company founded with the goal of greatly improving the accessibility of laboratory automation solutions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dff1a2bd693f38f2b087093ecec7652342c4e711.jpg"
+      },
+      {
+        "name": "Daniel Storgaard",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/danielstor",
+        "bio": "I work primarily with development and project management. I am testing our products, ensuring quality, talking to customers, and making sure customer requirements and feature requests are considered during product development. I am also responsible for financial planning and accounting.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e0cbaa0f1f5168ab4ea9777c5db06c8d26f8f170.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1499,7 +1536,7 @@
     "id": "yc-halmos-labs",
     "source": "yc",
     "name": "Halmos Labs",
-    "description": "Rebuilding drug development for automation",
+    "description": "One API to any physical experiment",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/093fdc6d2122e7140cab391f450941fd3922b145.png",
     "website": "https://halmoslabs.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/halmos-labs",

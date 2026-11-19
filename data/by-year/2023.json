@@ -10100,13 +10100,15 @@
     "id": "techstars-hera-fertility",
     "source": "techstars",
     "name": "Hera Fertility",
-    "description": "Hera is a telemedicine provider for fertility care, offering convenient testing, affordable at-home treatment options, and concierge care.",
+    "description": "Hera helps patients and clinics get specialty lab tests done faster, closer to home, and with answers, not just results. AI agents route orders across 700+ verified labs and interpret results with Mayo-validated models, starting with fertility",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_138fef0ded011d029999dad5c.png",
     "website": "https://herafertility.co",
-    "location": "Claymont, Delaware, United States",
+    "location": "New York City, New York, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Digital health",
+      "Healthtech",
       "Lifestyles of Health and Sustainability and wellness"
     ],
     "year": 2023,
@@ -10126,8 +10128,8 @@
       "crunchbase": "https://crunchbase.com/organization/hera-fertility"
     },
     "extra": {
-      "city": "Claymont",
-      "state_province": "Delaware",
+      "city": "New York City",
+      "state_province": "New York",
       "country": "United States"
     },
     "country": "United States",
@@ -21305,7 +21307,7 @@
     "year": 2023,
     "program": "Techstars Chicago City Accelerator",
     "programSlugs": [],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -43062,12 +43064,12 @@
     "id": "yc-skyhook",
     "source": "yc",
     "name": "Skyhook",
-    "description": "PaaS-like experience with the power of Kubernetes, on your cloud",
+    "description": "Radar: the missing Kubernetes interface for humans and agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c4df2dc3a8591521492f4797ca92971742623b68.png",
     "website": "https://skyhook.io",
     "sourceUrl": "https://www.ycombinator.com/companies/skyhook",
-    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "region": "Israel",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
@@ -43086,7 +43088,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 7,
+    "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -43106,7 +43108,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Israel",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -53325,7 +53327,7 @@
     "id": "yc-syntheticfi",
     "source": "yc",
     "name": "SyntheticFi",
-    "description": "The cheapest way to borrow money",
+    "description": "Financing platform for anyone with a brokerage account",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/21cd7289472fa982f68b9ab59329eb2acf583e66.png",
     "website": "https://www.syntheticfi.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/syntheticfi",
@@ -53346,7 +53348,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 25,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -66798,50 +66800,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-arklex-ai-a-k-a-articulate-ai",
-    "source": "alchemist",
-    "name": "Arklex.AI (a.k.a Articulate.AI)",
-    "description": "LLM Framework to Democratize Building Chatbots\n",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 36",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Zhou Yu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Arbit Chen",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-mitra-biotechnologies",
     "source": "alchemist",
     "name": "Mitra Biotechnologies",
@@ -66888,6 +66846,50 @@
       "country": "Canada"
     },
     "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-arklex-ai-a-k-a-articulate-ai",
+    "source": "alchemist",
+    "name": "Arklex.AI (a.k.a Articulate.AI)",
+    "description": "LLM Framework to Democratize Building Chatbots\n",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 36",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Zhou Yu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Arbit Chen",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -67045,279 +67047,10 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-coursefactory",
+    "id": "alchemist-vara",
     "source": "alchemist",
-    "name": "CourseFactory",
-    "description": "Connecting humans and AI to create online courses: faster, cheaper and with high quality",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Taras Pustovoy",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Irina Karpunina",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Gennady Koveshnikov",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-flyvercity",
-    "source": "alchemist",
-    "name": "Flyvercity",
-    "description": "Flyvercity builds software for drone operations and is developing COGNEST, mission intelligence for aerial robotics.",
-    "logo": "",
-    "website": "",
-    "location": "Netanya, Israel",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Andrey Potapov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Boris Resnick",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Israel"
-    },
-    "country": "Israel",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-pivla",
-    "source": "alchemist",
-    "name": "Pivla",
-    "description": "AI Agents for Labor Compliance",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 35",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Nigel Coelho",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Karl Coelho",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-examol",
-    "source": "alchemist",
-    "name": "Examol",
-    "description": "Computational Chemistry Toolbox",
-    "logo": "",
-    "website": "",
-    "location": "Pittsburgh, PA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 36",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dennis Nenno",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sam Lotz",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Emiliano Deustua",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-upcree",
-    "source": "alchemist",
-    "name": "Upcree",
-    "description": "ML to Fast-Forward Solar Plant Design",
-    "logo": "",
-    "website": "",
-    "location": "Miami, FL, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 36",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Valentin Noves",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Pablo Derendinger",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-glocate",
-    "source": "alchemist",
-    "name": "Glocate",
-    "description": "Geo-Location Visual Illumination and AI for Delivery Companies.",
-    "logo": "",
-    "website": "",
-    "location": "Memphis, TN, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 36",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Amber Glover",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-remyx-ai",
-    "source": "alchemist",
-    "name": "Remyx AI",
-    "description": "Agent-guided MLOps",
+    "name": "Vara",
+    "description": "Environmental Compliance AI for Manufacturers ",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -67335,7 +67068,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Salma Mayorquin",
+        "name": "Founded by [Shraddha Agrawal]",
         "role": "",
         "linkedin": ""
       }
@@ -67353,10 +67086,10 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-redshift",
+    "id": "alchemist-worksense",
     "source": "alchemist",
-    "name": "Redshift",
-    "description": "Next Gen ERP: SaaS-Based, Highly Customizable App that Matches a Company's Exact Processes",
+    "name": "Worksense",
+    "description": "Real-Time People Analytics Platform",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -67364,7 +67097,7 @@
     "subregion": "",
     "tags": [],
     "year": 2023,
-    "program": "Alchemist Class 35",
+    "program": "Alchemist Class 36",
     "programSlugs": [
       "alchemist"
     ],
@@ -67374,17 +67107,51 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Alex Lazich",
+        "name": "Arshan Ahmad",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-getcito",
+    "source": "alchemist",
+    "name": "GetCito",
+    "description": "Helping B2B SaaS companies dominate AI Search platforms such as ChatGPT, Google AI Overview & Perpexility AI. ",
+    "logo": "",
+    "website": "",
+    "location": "Phoenix, AZ, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 37",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Avinash Tripathi",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Jesse Williams",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ben Folks",
+        "name": "Abhishek Tripathi",
         "role": "",
         "linkedin": ""
       }
@@ -67451,18 +67218,18 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-kropply",
+    "id": "alchemist-pivla",
     "source": "alchemist",
-    "name": "Kropply",
-    "description": "AI Autocorrect for Software Runtime Errors.",
+    "name": "Pivla",
+    "description": "AI Agents for Labor Compliance",
     "logo": "",
     "website": "",
-    "location": "Los Angeles, CA, USA",
+    "location": "New York, NY, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2023,
-    "program": "Alchemist Class 36",
+    "program": "Alchemist Class 35",
     "programSlugs": [
       "alchemist"
     ],
@@ -67472,51 +67239,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Panos Halios",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-getcito",
-    "source": "alchemist",
-    "name": "GetCito",
-    "description": "Helping B2B SaaS companies dominate AI Search platforms such as ChatGPT, Google AI Overview & Perpexility AI. ",
-    "logo": "",
-    "website": "",
-    "location": "Phoenix, AZ, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 37",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Avinash Tripathi",
+        "name": "Nigel Coelho",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Abhishek Tripathi",
+        "name": "Karl Coelho",
         "role": "",
         "linkedin": ""
       }
@@ -67534,10 +67262,10 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-worksense",
+    "id": "alchemist-coursefactory",
     "source": "alchemist",
-    "name": "Worksense",
-    "description": "Real-Time People Analytics Platform",
+    "name": "CourseFactory",
+    "description": "Connecting humans and AI to create online courses: faster, cheaper and with high quality",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -67545,6 +67273,55 @@
     "subregion": "",
     "tags": [],
     "year": 2023,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Taras Pustovoy",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Irina Karpunina",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Gennady Koveshnikov",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-examol",
+    "source": "alchemist",
+    "name": "Examol",
+    "description": "Computational Chemistry Toolbox",
+    "logo": "",
+    "website": "",
+    "location": "Pittsburgh, PA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
     "program": "Alchemist Class 36",
     "programSlugs": [
       "alchemist"
@@ -67555,7 +67332,17 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Arshan Ahmad",
+        "name": "Dennis Nenno",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sam Lotz",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Emiliano Deustua",
         "role": "",
         "linkedin": ""
       }
@@ -67705,6 +67492,221 @@
     "alsoIn": []
   },
   {
+    "id": "alchemist-upcree",
+    "source": "alchemist",
+    "name": "Upcree",
+    "description": "ML to Fast-Forward Solar Plant Design",
+    "logo": "",
+    "website": "",
+    "location": "Miami, FL, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 36",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Valentin Noves",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Pablo Derendinger",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-glocate",
+    "source": "alchemist",
+    "name": "Glocate",
+    "description": "Geo-Location Visual Illumination and AI for Delivery Companies.",
+    "logo": "",
+    "website": "",
+    "location": "Memphis, TN, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 36",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Amber Glover",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-flyvercity",
+    "source": "alchemist",
+    "name": "Flyvercity",
+    "description": "Flyvercity builds software for drone operations and is developing COGNEST, mission intelligence for aerial robotics.",
+    "logo": "",
+    "website": "",
+    "location": "Netanya, Israel",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Andrey Potapov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Boris Resnick",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Israel"
+    },
+    "country": "Israel",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-remyx-ai",
+    "source": "alchemist",
+    "name": "Remyx AI",
+    "description": "Agent-guided MLOps",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 36",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Salma Mayorquin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-redshift",
+    "source": "alchemist",
+    "name": "Redshift",
+    "description": "Next Gen ERP: SaaS-Based, Highly Customizable App that Matches a Company's Exact Processes",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 35",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alex Lazich",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jesse Williams",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ben Folks",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "alchemist-docutable",
     "source": "alchemist",
     "name": "DocuTable",
@@ -67749,13 +67751,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-vara",
+    "id": "alchemist-kropply",
     "source": "alchemist",
-    "name": "Vara",
-    "description": "Environmental Compliance AI for Manufacturers ",
+    "name": "Kropply",
+    "description": "AI Autocorrect for Software Runtime Errors.",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -67770,7 +67772,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Founded by [Shraddha Agrawal]",
+        "name": "Panos Halios",
         "role": "",
         "linkedin": ""
       }

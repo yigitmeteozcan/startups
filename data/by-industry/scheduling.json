@@ -352,7 +352,15 @@
     "teamSize": 28,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Stansell",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adam-stansell/",
+        "bio": "CEO of Axle Health. Ex-Uber, Motive (fka KeepTruckin), management consulting, investment banking. Columbia BA summa cum laude in Econ-Math. Born and raised in Seattle, WA, also lived in Cambodia, Mexico and Argentina. GIF not JIF 🙂",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b1d52322090b1cb95457fbc1e3a6430b9fba3891.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -393,7 +401,29 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Soy Hwang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hisoy/",
+        "bio": "Soy leads the business & design of Humance. Prior to founding Humance, she worked at Boston Consulting Group digital ventures, building start-ups for fortune 500 companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/10237e9ca5e6e325599d7696dc292b2aa69e7264.jpg"
+      },
+      {
+        "name": "Sunny Kim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sunny-kim-00855ba1/",
+        "bio": "Sunny leads Engineering & Innovation at Humance. Prior to founding Humance, she worked as a software engineer / tech lead on Machine Learning projects at YouTube and Google.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/51a3622c40e508e4df75472487b121d88ad39a62.jpg"
+      },
+      {
+        "name": "Yon Soo Park",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yon-soo-park-3647b71b8",
+        "bio": "Yon Soo leads Product at Humance. Prior to founding Humance, she worked as a data engineer at Amazon Web Services S3 and completed a PhD at Harvard. Her peer-reviewed research has been covered by Washington Post, Vox, and Psychology Today.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fbcee5eb544c4d9f46eed680cf4d4569510558cf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -157,7 +157,24 @@
     "teamSize": 45,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vineet Mehta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mehtavineet/",
+        "bio": "Product leader with experience scaling AI-powered marketplaces, driving growth, and automating workflows. Built HomeBreeze to do AI-powered scoping of home improvement projects; sold to the largest U.S. contracting firm. At Opendoor, I led product growth, shopping experience, and new products for the home buyer division as the company scaled from $1B to $4B+ revenue. Earlier worked in Product Growth at Evernote, invested in marketplace & software as a VC. Harvard MBA.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/25b221912a28bb32d9306250b532fc87116be67c.jpg",
+        "active": false
+      },
+      {
+        "name": "Christopher Ager",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christopherager",
+        "bio": "My background is primarily in complex marketplaces and B2B SaaS, with a short detour into finance. LoftSmart - Series A student rental marketplace Uber Eats - Early GM, most recently running the Restaurant side of the marketplace for North America Morgan Stanley - Technology Investment Banking Buildium - B2B SaaS for Property Management Avero - B2B SaaS for the Hospitality Industry",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c46b00880828d54431695df226421afe06b39bfc.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

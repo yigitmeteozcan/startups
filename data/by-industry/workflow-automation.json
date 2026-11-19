@@ -475,7 +475,21 @@
     "teamSize": 26,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jacob Hart",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jacob-hart-22499a105/",
+        "bio": "Occasionally witty.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/648c86a3c997a967aba183e48a534ed7eb768567.jpg"
+      },
+      {
+        "name": "John Hart",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/john-hart-86270120",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6469776c235963819e2062e8d64520bbc3883c72.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -515,7 +529,25 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pablo Ferrari",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pablo-ferrari/",
+        "twitter": "https://twitter.com/pabloferrari",
+        "bio": "Eclectic Engineer. Currently director of engineering and staff engineer at Together,ai Former management consultant at Bain & Company and AI consultant for the big firms. Co-founded the first credit scoring platform in Spain, Ibercheck, and the Spanish Shopify Tiendalista. YC W21 with multiple pivots, among them Processlabs.ai for dev teams, and Platypus the first data engineer AI agent.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4d1f9a616a4debc2c3fd2c6cc9a67674bf1e0bad.jpg",
+        "active": false
+      },
+      {
+        "name": "Deepanshu Madan",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/deepanshumadan",
+        "bio": "Entrepreneur, full-stack software engineer, and Product Manager for developer tools, and enterprise AI agent products.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b1962a1ffdcef6cf8ec0b97cf5b0430c3cfab51d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -557,7 +589,16 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sid Garimella",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sidgarimella/",
+        "twitter": "https://twitter.com/sidgarimella",
+        "bio": "Worked in finance infra for a few years, now on automation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/99c9de3319f1ba5cc1a864789dd7f9c4419fc122.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

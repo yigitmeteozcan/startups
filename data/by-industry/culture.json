@@ -67,7 +67,21 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Fawzy Abu Seif",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/fawzy-abu-seif-42a68ab6/",
+        "twitter": "https://twitter.com/Fouz7",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7e6329a6932dfe1c886246f584d18b6af3f4462a.jpg"
+      },
+      {
+        "name": "Mariel Davis",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/davismariel/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/96b897568d1aef00c0192dfcd92e48c25fc3812b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

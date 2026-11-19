@@ -4601,7 +4601,15 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Isabel Poppek",
+        "role": "Founder",
+        "linkedin": "https://de.linkedin.com/in/isabel-poppek",
+        "bio": "Co-Founder & CEO of Alpas. Started Alpas with 27 after years of work experience in startups, industry & private equity; degree in mechanical engineering & finance from TU Munich/ Max Planck Institute. I my free time, I love running marathons, skiing or horseback riding. Passionate about building products that have an impact on the environment.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2dafa82bc81dcbe859a1b4fcbfcf03ebfcb3acaf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4641,7 +4649,21 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Steffen Schweiger",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/steffenschweiger",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/849f04a43bec77e36c552783ee28de5b68d17aad.jpg"
+      },
+      {
+        "name": "Christian Schweiger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christian-schweiger",
+        "bio": "Co-founder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/120e4e0a5774e128bc6f33f603a48d8981e7ba8b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4681,7 +4703,34 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Erich Lehmann",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/erichlehmann/",
+        "twitter": "https://twitter.com/lehmannerich",
+        "bio": "Co-Founder Zeitmaker",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dd74991aafffaffde5d54c412afcc6809fa8de83.jpg",
+        "active": false
+      },
+      {
+        "name": "Marc Metz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/marcmetz/",
+        "twitter": "https://twitter.com/marcmetz89",
+        "bio": "Co-Founder MeetAnyway",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1f49211cbb141c126d5352f21c82092b3d90f64a.jpg",
+        "active": false
+      },
+      {
+        "name": "Sascha Metz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/saschametz/",
+        "bio": "Co-Founder MeetAnyway",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/efd63b06c3dff8d5a0421d8815195f7baedd30db.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

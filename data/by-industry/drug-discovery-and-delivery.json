@@ -1065,7 +1065,24 @@
     "teamSize": 16,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Federation",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/afederation/",
+        "twitter": "https://twitter.com/afederation",
+        "bio": "I'm the co-founder of Talus Bio. Prior to Talus, I trained with Jay Bradner at Harvard in medicinal chemistry, drug screening, and drug development for gene regulators. After that, I moved to Seattle to continue my training in epigenomics and proteomics, and these were all combined to develop the Talus gene regulator platform.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5a8582d7e711e1ff2cc1556582a9b48e5e802997.jpg"
+      },
+      {
+        "name": "Lindsay Pino",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lindsaykpino/",
+        "twitter": "https://twitter.com/lkpino",
+        "bio": "I'm Talus Bio's CTO, where my focus is on developing techniques for quantitative proteomics and in particular the challenges associated with scaling-up quantitative proteomics experiments. I’ve trained at the Broad Institute, the University of Washington, and most recently the University of Pennsylvania.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1fd3365fa08bc96503fa616f9d45bf1af4e48fe4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1108,7 +1125,23 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dillan DiNardo",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/dillandinardo/",
+        "twitter": "https://x.com/DillanDiNardo",
+        "bio": "Ex-VC, F500 M&A. Invested across frontier biology, software, and hardware; founded platforms in programmable genes, proteins, cells, and biological systems (AAV capsids, multispecific antibodies, TCRs, tumor microenvironment, etc.).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/41729e4fa34e1d10242ec7497294ef770ef1fa96.jpg"
+      },
+      {
+        "name": "Tom Ray",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tom-ray-a44a59204/",
+        "bio": "BS in biology & chemistry Florida State University. MS & PhD in biology Harvard, tropical plant ecology. 1981 Society of Fellows U Michigan Ann Arbor. 1981-1998 faculty University Delaware, biology & computer science. 1993-2003 External Faculty of the Santa Fe Institute. 1993-1998 invited researcher ATR (Advanced Telecommunications Research Institute) Human Information Processing Research Labs in Japan. In 1998-present Professor of Biology & Computer Science OU. AAAS Fellow. http://tomray.me/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48c8126f83a5603784533cbe25427a6ae72ec7c4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2114,6 +2147,57 @@
     "alsoIn": []
   },
   {
+    "id": "yc-junction-bioscience",
+    "source": "yc",
+    "name": "Junction Bioscience",
+    "description": "Industrializing structural biology: from months to minutes",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c382f7f1170e4d96b382d69430f2fc2c9fffe94.png",
+    "website": "https://www.junction.bio/",
+    "sourceUrl": "https://www.ycombinator.com/companies/junction-bioscience",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Drug Discovery and Delivery",
+      "AI-powered Drug Discovery",
+      "Hard Tech",
+      "Biotech",
+      "Drug discovery",
+      "Therapeutics"
+    ],
+    "year": 2024,
+    "program": "YC Winter 2024",
+    "programSlugs": [
+      "yc-winter-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Brian Petkov",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/brian-petkov",
+        "bio": "Brian is a theoretical physicist and drug hunter with degrees in mathematics and chemistry from Duke University and doctoral training from NYU. He was previously the first employee and Vice President at a computational drug design startup where he led the Machine Learning operation and grew a 30-person team to success on previously-undruggable targets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2009e2dff8fef2c268a6cf0a7ba43a157dc51981.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-angstrom-ai",
     "source": "yc",
     "name": "Ångström AI",
@@ -2682,7 +2766,7 @@
     "source": "yc",
     "name": "AbInitio Bio",
     "description": "The Intelligence layer for Drug Manufacturing",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a7b4f70c5d14e24fb5773ec42e56d354595bd134.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a11693d089967ad864b03ccbd2babe536b2c4df8.png",
     "website": "https://www.abinitio-bio.com",
     "sourceUrl": "https://www.ycombinator.com/companies/abinitio-bio",
     "location": "Boston, MA, USA",

@@ -109,7 +109,15 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sam Forman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sam-forman",
+        "bio": ".",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6f9892d0e6cafb4b6ca277d9318ed79328c45264.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -150,7 +158,31 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ben Eluan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ben-eluan",
+        "twitter": "https://twitter.com/elzibs",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d94cf3796cba411e4cc0dda42806e3247d3efece.jpg"
+      },
+      {
+        "name": "Israel Akintunde",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/israel-akintunde-a0b801134/",
+        "twitter": "https://twitter.com/____grandmaster",
+        "bio": "VP of Engineering",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9490321d2612e016f06d6fe09b2552b32a66f965.jpg"
+      },
+      {
+        "name": "Osezele Orukpe",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/osezele-orukpe-1a37a9167/",
+        "twitter": "https://twitter.com/__warchief",
+        "bio": "C.T.O @ Blueloop Inc",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/146afb37197ebd83a876079328763aacddaca5db.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -190,7 +222,34 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Taylor Culbertson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/taylorculbertson/",
+        "bio": "A programmer, filmmaker and crypto currency advocate with broad experience in all aspects of web design, commercial production, and trading. As the 10th employee at Acorns, I built the strategy that acquired the first 2m downloads. As CEO of Infinite Sum Ltd, a Digital Consultancy, I helped startups raise $79m across industries ranging from gaming to transportation, including the recently IPO'd Hyliion. Bullish on Bitcoin and Ethereum. Bearish on Fiat.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bc0490d133943021f56dda1503ab819b989241b8.jpg",
+        "active": false
+      },
+      {
+        "name": "Colton Dillion",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/cadillion",
+        "twitter": "https://www.twitter.com/cadillion",
+        "bio": "I attack everything in life with a mix of extraordinary genius & naive incompetence; it's up to you to tell which is which. Currently CEO at Postquant Labs, formerly COO at Gentlemen Labs (DEGEN), CEO & Founding CTO at Hedgehog (S21), founding CMO & Global Director at Acorns ($2.2B val)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/349430fdb219a921d79dc0b571f88d64f497dfd6.jpg",
+        "active": false
+      },
+      {
+        "name": "Jason Dillion",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/jason-dillion/",
+        "twitter": "https://twitter.com/jadillionaire",
+        "bio": "Co-founded and built up a regulated company with 13 employees, raising $4.7m on $30m Architected key aspects of a major multiplatform finance engine processing $8m in monthly volume Managed product for two key global regions at a Fortune 500 company division with $200m in sales",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c46facfecda8c44739c5ab40c7eae27de9b06f39.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

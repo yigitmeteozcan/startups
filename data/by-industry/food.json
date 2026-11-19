@@ -199,7 +199,17 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeff Tang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jefftangx/",
+        "twitter": "https://x.com/jefftangx",
+        "bio": "Founder of Athens Research (W21), an open-source networked note-taking app. Pivoted to Eat Blueprint, acquired by Bryan Johnson / Blueprint Protocol.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4c770b3b6bea66c22f50c0ad944614e8ddd6e71f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -242,7 +252,22 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shubham Bansal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shubhambansal91/",
+        "bio": "Co-founder at Leap Club, IIT Delhi & EPFL alumni",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cfe7ca7cadad2f534f1365027d6ac02cbf8a4aee.jpg"
+      },
+      {
+        "name": "Divish Gupta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/divish-gupta/",
+        "bio": "Co-founder at Swadesi Way, IIT Delhi alumni",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/458e220dcac05f32a437d5f5f6d49d561728989d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

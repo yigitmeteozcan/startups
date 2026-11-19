@@ -108,7 +108,21 @@
     "teamSize": 32,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Fahad Kamr",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/fahadk/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c5ca081868f0f9e3de59e4d13d6ade5a05534b9b.jpg"
+      },
+      {
+        "name": "Shahjahan Warraich",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shahw/",
+        "twitter": "https://twitter.com/shahjahanw",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/399435e470c33bd5f49de4da1512740f0ac3208a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -148,7 +162,25 @@
     "teamSize": 100,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Talal Ahmad Gondal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/talalgondal/",
+        "twitter": "https://twitter.com/gondal36",
+        "bio": "Former VC from Berlin now trying my luck with entrepreneurship, Also an ex-Amazonian.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c4e360ea23c75b0326352619bc8929e035810222.jpg",
+        "active": false
+      },
+      {
+        "name": "Ahsan Khan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ahsan-k-k/",
+        "bio": "An ex-Investment Banker with expertise in building crazy stuff; disrupting one space at time. Founder TAG/Fintech, Financial Services",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/08db9b332c94cc19676e98f6c84caab611eed149.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

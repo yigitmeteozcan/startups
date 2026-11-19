@@ -29,7 +29,24 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Otto Debals",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/otto-debals/",
+        "twitter": "https://twitter.com/ottodebals",
+        "bio": "CEO & co-founder of Segments.ai. Studied mathematical & electrical engineering, and obtained a PhD in signal separation / multilinear algebra. During my PhD, launched Investimize (a financial robo-advisor) together with my current cofounder Bert and also pursued CFA level I. Spent 2 years afterwards at McK - supporting >15 projects across different functions, industries and regions. Launched Segments.ai in Jan 2020. Passionate about whisky, F1 and long-distance running!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/47e795756a420d12b1582ff63804fd9108810de8.jpg"
+      },
+      {
+        "name": "Bert De Brabandere",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bert-de-brabandere/",
+        "twitter": "https://twitter.com/BBrabandere",
+        "bio": "Founder at Segments.ai, PhD from KU Leuven, Computer Vision and Machine Learning. All the way from Belgium.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a0fe615dd7be5eba5cb70ea901becd8dec905462.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

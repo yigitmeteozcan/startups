@@ -10655,14 +10655,14 @@
     "programSlugs": [
       "yc-summer-2020"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "acquired",
     "teamSize": 33,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -10912,7 +10912,15 @@
     "teamSize": 60,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aaron Slodov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abslodov",
+        "twitter": "https://twitter.com/aphysicist",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fcbeec608a70e4d3eee68a6eae1bf21a33d2230c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10996,7 +11004,23 @@
     "teamSize": 55,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Topher Haddad",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/topher-haddad-a9a460a4/",
+        "twitter": "https://twitter.com/topherhaddad",
+        "bio": "Previous to being CEO of Albedo, Topher was a systems engineer at Lockheed Martin working on top secret remote sensing satellites. Topher led teams involved in the optical design and imaging architecture across multiple $B+ government programs. He holds a B.S. in Mechanical Engineering from UT Austin and an M.S. in Electrical Engineering from Johns Hopkins.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/399395f24102ae8d314afeaf8a0330c5b983d5c8.jpg"
+      },
+      {
+        "name": "AyJay Lasater",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aj-lasater/",
+        "bio": "CTO at Albedo. Previous to Albedo, AyJay was a System Architect at Lockheed Martin, developing satellite constellations, satellite designs from concept to launch and in-orbit ops, and iterated on various in-depth performance analysis. AyJat worked with high performing small sats and exquisite large $B+ satellites for the government. He holds a B.S. in Mechanical Engineering from Colorado School of Mines and M.S. in Mechatronics from DU",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b7bc7c791d570d7fa5d8302fb967156cdf42d8d3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11039,7 +11063,22 @@
     "teamSize": 56,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pranav Manpuria",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pranavmanpuria/",
+        "bio": "Founder and CEO at Flux Auto, building physical AI for warehouses and factories. I pursued a business administration degree from Illinois Tech, Chicago, before moving back to India to explore my entrepreneurial interests. Flux Auto is the only autonomous vehicle company to successfully run vehicles in real time road and traffic scenarios in India. I previously built a payment startup in India, and am a deep tech, racing and football enthusiast.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5ed53b9fc80e143f80ddae42ef04cd6deb1ebb8.jpg"
+      },
+      {
+        "name": "Abhishek Gupta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abhishek-gupta2494/",
+        "bio": "COO at Flux Auto, building autonomous driving technology for trucks. I handle all the day to day operations to ensure everyone in our team has the right direction and all the resources they need. I also plan and oversee our testing activities. Previously built a drone platform with custom cameras and data processing systems for farmers to better understand crop health.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8cce421d14af38f3f7a2c1bc1427da7dc7db49a2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11079,7 +11118,25 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Josh Santos",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joshisantos/",
+        "twitter": "https://twitter.com/joshsandtoes",
+        "bio": "co-founder/chief carbon removal officer at noya. sailor, house dj, runner, best snowboarder on the mountain. my sweet tooth is my achilles heel.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f4608ea5e8e71fa1e0b8798c0ca61490b3c3b037.jpg",
+        "active": false
+      },
+      {
+        "name": "Daniel Cavero",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/caverodaniel/",
+        "bio": "Reversing climate change.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b4c73cc6c556850d5a12ef9a6af25c25ac136afb.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11123,7 +11180,16 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ain McKendrick",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ainmckendrick/",
+        "bio": "Previously CEO at Faction Technology. Prior to founding Faction, Ain has focused on autonomous systems on everything from light electric vehicles to the first successful driverless semi trucks to run on public highways. Before getting in to the vehicle space, Ain spent a number of years in consumer electronics at Netflix, Dell, TiVo, and various startups. He began his career as one of the founders of Palm Computing developing the original PalmPilot handheld digital assistants.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aeae4f4aa8c47cd7914d0b4c5d7b7712fbb19653.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11165,7 +11231,31 @@
     "teamSize": 125,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tim Barat",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/timothybarat/",
+        "twitter": "https://twitter.com/TimBarat",
+        "bio": "Former Lineman, Electrician, Engineer, now Entrepreneur working on California's wildfire problem.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cbf6e78a2a31c49d8bd20d5d43bcf9f378eb32bf.jpg"
+      },
+      {
+        "name": "Omar B",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abdulrahman-bin-omar-42330bb2/",
+        "twitter": "https://twitter.com/A_binomar1",
+        "bio": "Co-founder @Gridware",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e3f2fa2eba082417cee1ac101f9442d262a1c0c.jpg"
+      },
+      {
+        "name": "Hall Chen",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/hallchen/",
+        "bio": "Building the grid of the future",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8d1fe5a110e959fb9c5b4f124aac59f37213d0c5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11206,7 +11296,15 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Patricia Bubner",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/patriciabubner/",
+        "bio": "Patricia Bubner, PhD, is the CEO and founder of Orbillion Bio, a food tech startup pioneering scalable bioprocesses for cultivated meat. With a PhD in Biotechnology, she has led Orbillion from inception to acquisition and has raised over $15M. Her career spans biopharma (Boehringer Ingelheim), battery tech (Sila Nanotechnologies), and global entrepreneurship, fostering strategic partnerships across industries.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/419e2c0427e91e91f0d22d9a41dc31cdc173b1c8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11250,7 +11348,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Patrick Walton",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/mpatrickwalton",
+        "twitter": "https://twitter.com/mpatrickwalton",
+        "bio": "Co-founder, CEO, and project engineer at Care Weather. As project engineer, he funded, architected, licensed, and operates the company's five satellites on orbit. He has an M.S. and B.S in electrical and mechanical engineering from BYU. As an undergrad, he started BYU's nationally-recognized rocketry club and won $1M from NASA to lead a team of 20 in launching BYU’s first two satellites.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b962ec93a7e9abecbabe4a774212b4ea13e09c6.jpg"
+      },
+      {
+        "name": "Alex Laraway",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alex-laraway-8ba461169/",
+        "bio": "Alex is a full-stack aerospace engineer. He single-handedly designed and built multiple record-breaking satellites that are on orbit now. Alex got his B.S. in manufacturing from BYU. His space experience goes back to age 10 machining high-altitude rockets on a lathe in his garage and flying them at Mach 4 to the edge of space.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed7677fc465451b242ff816051231980ca11208a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11292,7 +11406,22 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jim Delaney",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jim-delaney-7a371ba4/",
+        "bio": "Interested in how we build faster and cheaper.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f60f2d0efc017de5dbf311c1c0edf8ef7f54ca31.jpg"
+      },
+      {
+        "name": "Gunner Robinson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gunner-robinson-a42a60104/",
+        "bio": "I founded Roin Tech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/329624111275263f3b2b38a448411c738f9b403c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11334,7 +11463,15 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Guilhem Herail",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/guilhemherail/",
+        "twitter": "https://twitter.com/guilhemherail",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a086b2ac4425a6e66a65fc929f02b035afc23a1d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11375,7 +11512,15 @@
     "teamSize": 45,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Gross",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/paulagross/",
+        "bio": "Before Remora, I ran large-scale randomized experiments that uncovered new ways to increase political participation and bipartisanship. I first experienced the joys of carbon-neutral transportation during a solo bicycle trip across the US before college.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e26b9497680e3562f5b1725b26cd1e84bba7c3da.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11415,7 +11560,22 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Phil Yuen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/philipyuen/",
+        "bio": "Phil is part of the YC 06 batch, TextPayMe founder, a mobile payment system which was eventually acquired by Amazon and became Amazon Payments. Now working on an anti COVID-19 Air Filtration device.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f2ab9e110ab7700004fe7a883ee3c60cab811191.jpg"
+      },
+      {
+        "name": "Roger Sze To",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rogerszeto/",
+        "bio": "15+ years of research experience in building energy and indoor environmental quality, inventor of 3 technologies related to energy saving and air disinfection.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/793d8387b96e0682382084d49409f2e63e7dcd8a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11457,7 +11617,23 @@
     "teamSize": 70,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Henrik Langeland",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/henriklangeland/",
+        "bio": "CEO and Co-founder of Enode",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/76aaaeef17611ba86ac3a5d4b66b2f11f561c5d0.jpg"
+      },
+      {
+        "name": "Nikolai Heum",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nikolai-johan-heum-a3057144/",
+        "twitter": "https://twitter.com/nikolaiheum",
+        "bio": "i like turtles",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a48c3557b31762010ae8af1db8800405e9cd603.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11499,7 +11675,16 @@
     "teamSize": 530,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Igor Marinelli",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/igormarinelli/",
+        "twitter": "https://twitter.com/igmarinelli",
+        "bio": "CEO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1aa450634a2cde6baf70f7f7ff1449bf67c59433.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11540,7 +11725,20 @@
     "teamSize": 305,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andy Lapsa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andrew-lapsa-96a7b771/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dbf9f0753ae71d5e252c8b22bf4265804ae29c0c.jpg"
+      },
+      {
+        "name": "Tom Feldman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thomas-feldman-817402100/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/115f7bbedd9796bad717514666d02ffa567436c6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11583,7 +11781,16 @@
     "teamSize": 8,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brent Wadas",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brentwadas/",
+        "twitter": "https://twitter.com/The_Brent_Wadas",
+        "bio": "From Scottsdale, AZ. Always hungry. Always creating. Grew up in music and business. Started an RIA and a SaaS company while in college, sold out, became an Army officer. Worked in Special Operations, had a blast. Civilian again, grad school at Georgetown for technology and business, consulting for the Sensitive Activities community. Developed BotBuilt with my co-founders. We're here to change the world.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1410f80f01d87f0993c0423fa7259ea63a4331b3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11627,7 +11834,23 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Huelskamp",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/paulhuelskamp",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3cc12b83575178d2e050d3e7d8e1184aff88d68.jpg",
+        "active": false
+      },
+      {
+        "name": "Alexander Meek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandermeek/",
+        "bio": "Alex is a venture capital investor, former founder and W21 YC alum. As a former startup operator, Alex was the co-founder and President at Moxion, one of the largest mobile energy storage manufacturers in the US. Under his leadership, Moxion secured over $150M from investors like Amazon, Microsoft, and Energy Impact Partners, and delivered over $100M in revenue in its first year. Before that, Alex founded Newday, a value-driven asset management firm that now oversees $175M.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e03689cbdc1e37e675ca67cbfb219c8f04df6712.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11668,7 +11891,23 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tim Hall",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/timothyhall87/",
+        "bio": "Tim's entrepreneurial spirit and strategic foresight sees him actively developing business opportunities and building partnerships whilst constantly pushing the possibilities of what is achievable with the resources at hand. He is focussed and tenacious on overcoming issues and delivering on technical projects. As an experienced project manager with a mechanical engineering background, he has the business, technical and people skills to deliver on business outcomes.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e3d3b1cd2c95b9c165681a2323f0c34ce125caa9.jpg"
+      },
+      {
+        "name": "Peter Condoleon",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/company/30238673",
+        "twitter": "https://twitter.com/greaseboss1",
+        "bio": "Peter is the co-founder and CTO of GreaseBoss, a company with a vision to transform the way industries manage lubrication for heavy machinery. In his role as CTO, Peter drives the ongoing innovation and development of GreaseBoss technology, employing cutting-edge solutions to solve an age old problem.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d36f251f0945415d509a5aa9e2733993d298df26.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11710,7 +11949,15 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Marge",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/thomas-marge",
+        "bio": "Thomas is co-founder and CEO of Rewbi, which uses AI to optimize grid-connected battery storage. He previously founded inBalance, a YC W21 company, which was acquired by Stem (NYSE: STEM) in January of 2023. He led battery storage optimization and forecasting for Stem. He completed part of a Pure Mathematics PhD at University of Cambridge, which he left to build inBalance. He holds a Masters in Applied Mathematics and B.S.E. in Pure and Applied Mathematics from Johns Hopkins, graduating early.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1e928aa8f09dd229ceedcffa08968ba2649d89e7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11753,7 +12000,22 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Billy Thalheimer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/williamthalheimer/",
+        "bio": "Billy is an aerospace business leader and multidisciplinary engineer with expertise spanning aviation entrepreneurship and novel aircraft development. At Aurora Flight Sciences, Billy led execution and BD for next-gen aircraft programs. Holding a BS/MS from MIT in aerospace engineering, he also led flight physics modeling for Boeing's electric air taxi, and authored their custom aircraft design code. As a passionate aerospace nerd, Billy spends his free time competing as an aerobatic pilot.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55b8ff816963ee85958d35e82d1ba6024594c470.jpg"
+      },
+      {
+        "name": "Michael Klinker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-klinker-85a1a989/",
+        "bio": "Aviation runs in Mike’s blood--he received his Bachelors and Masters degrees from MIT focused on aircraft controls and autonomy, is an avid pilot, and loves any vehicle that flies or floats. Mike spent years at Airware, Raptor Maps, MIT Lincoln Labs, and Aurora Flight Sciences designing and operating innovative vehicles. Mike has built and written control software for over a dozen aircraft, and brings his advanced flight controls and abundant flight test experience to REGENT as its CTO.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/194db99a33efea8eb6ea8b9a26bfc755e4e69693.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11794,7 +12056,40 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Giulio Cantoro",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/giulio-cantoro-663665168",
+        "bio": "I like to invent new things, break and rebuild them. Graduated in management engineering from the Politecnico di Milano and from the Alta Scuola Politecnica. I worked at Bosch on last mile delivery solutions before founding Blink in early 2020.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1a51ad84c59be71f9222e9e1d2c2f879813cf715.jpg",
+        "active": false
+      },
+      {
+        "name": "Jacopo Berlusconi",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jacopo-berlusconi",
+        "bio": "Work Hard & Play Hard, willing to impact society for better. Always up for learning something new. Ambitious, Positive, Extrovert and Team Player. Energy Engineer with a passion for innovation: understand a need, build a solution, make sure the people who need it can actually access it. Co-Founder of Blink, offering sustainable same day delivery to direct to consumer brands. Responsible for Sales and Partnerships.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b1d0cacc42379b667c99c17bda3542f5015df2a6.jpg",
+        "active": false
+      },
+      {
+        "name": "Marco Boretto",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/marco-boretto",
+        "bio": "MSc in Industrial Engineering, passionate about mobility. Now taking care of Ops excellence and Product development at Blink",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6ed72d9eacb5659e68f1cbfcb343174cf182dcf.jpg",
+        "active": false
+      },
+      {
+        "name": "Marco Turetta",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/marco-turetta",
+        "bio": "I am a computer engineer with 7+ years of experience with different startups and big companies, driving now the excellence of Product and Technology at Blink. My areas of expertise are scalable web applications, machine learning and optimization algorithms. I have a strong passion for innovation and for making an impact on people's lives.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0ab1b9cdf11ef0338f633e41986781f114b997bf.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11838,7 +12133,15 @@
     "teamSize": 58,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jason Sylvestre",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jason-sylvestre/",
+        "bio": "Co-founder & CEO of H3X Technologies. Ex- Specter, Tesla, MTS. MS and BS in Electrical Engineering from University of Wisconsin-Madison. Built electric racecars in college (FSAE).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/419f9b389827846340da3c42d0a0a3fffdd160ee.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11881,7 +12184,23 @@
     "teamSize": 28,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Justin Fiaschetti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/justin-fiaschetti-097b10166/",
+        "twitter": "https://twitter.com/jcfiaschetti",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/78ccd230bd22d0383749f24bcd370442e76eaf8d.jpg"
+      },
+      {
+        "name": "Austin Briggs",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/austinbriggs7/",
+        "twitter": "https://twitter.com/_abriggs",
+        "bio": "‎",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af375c9be5644e12cbd80a0444c7d231c2cde27b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11923,7 +12242,22 @@
     "teamSize": 11,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "James Dorris",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jdorris3/",
+        "bio": "Prior to founding Odys Aviation (formerly Craft Aero), James held leadership roles at GoogleX, Virgin Hyperloop One, and Arrivo. He started his career in Fusion Energy Research at the MIT PSFC and has long been passionate about improving sustainability and efficiency of transportation systems. As employee 20 at Virgin Hyperloop One, he was responsible for building & leading the propulsion and levitation teams & tech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c3494258d7810be63d8f6109c90afa18f2333539.jpg"
+      },
+      {
+        "name": "Axel Radermacher",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/axel-radermacher/",
+        "bio": "Axel Radermacher has spent his career advancing transportation by bringing together technology, design, and business. At Odys, his core mission is assuring the product and the company exceed the needs of the customer and the market. Previously, as Karma's Chief Vehicle Engineer for EV Platforms, he found the perfect balance between technology, comfort, and beauty. In other roles, he electrified and redefined sports cars, trucks, and off-road vehicles.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4a7df5c605fd549321ac8bf1b17d966e7ca13b78.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11964,7 +12298,31 @@
     "teamSize": 45,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Marc Laurent",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mrclrnt/",
+        "twitter": "https://twitter.com/mrclrnt",
+        "bio": "I've cofounded seed VC firm Kerala Ventures when I was 25yo. We invested €11M in 16 seed startups including Doctolib (now $4b valuation), Malt ($500M), Playplay ($200M) and 13 other. x17 Cash-on-Cash multiple, x3.5 realized. I led 100+ recruitments for Kerala's portfolio. I love surfing but I deeply suck at it. #NeverGiveUp",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/02d24c35b3a6a7e20fdf44104fc3d961f800f703.jpg"
+      },
+      {
+        "name": "Romain Champourlier",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/rchampourlier?_l=en_US",
+        "twitter": "https://twitter.com/rchampourlier",
+        "bio": "Mix of entrepreneur and software engineer, I build software and teams to build them. I'm currently building Carbonfact, a climate-tech SaaS to decarbonize fashion. I previously worked in a French HR-tech startup, JobTeaser during 7 years, where we helped millions of students find a job and career that better matched their skills and expectations.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c01041467c51a3aa6e950f3a169ecbb8170bd3e9.jpg"
+      },
+      {
+        "name": "Martin Daniel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/martindaniel4/",
+        "bio": "I’m co-founder and CPO of Carbonfact, helping 300+ apparel and footwear brands (Columbia, New Balance, Ganni) decarbonize. Before that I was a Data Science Lead at Airbnb, after starting my career at Google. On the side, I founded covidliste.com, France’s largest Covid-19 vaccine waiting list (~1M people notified), and Data For Good, a community of ~2,000 data scientists volunteering on nonprofit projects",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/801f7165af467fe4eb5f09f8978d61424bc96d43.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -14843,7 +15201,23 @@
     "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Stefan Seltz-Axmacher",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/stefanseltzaxmacher",
+        "twitter": "https://twitter.com/stefanesa",
+        "bio": "Robots that are buildable and valuable are the most magical.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a976b8c7814c0a2985a3b21bdfae3f0e1cf5fd0.jpg"
+      },
+      {
+        "name": "Ilia Baranov",
+        "role": "Founder/CTO",
+        "linkedin": "http://linkedin.com/in/iliabaranov",
+        "bio": "There is a certain enchanting magic that comes from working with robots; By waving our hands, we can make machines seem alive.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c64fc8a7f715908988488379782f0e67bf6d8b88.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -17686,7 +18060,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Shan Mohta",
@@ -17854,8 +18228,8 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 1,
-    "isHiring": true,
+    "teamSize": 2,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -25783,7 +26157,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -28349,6 +28723,7 @@
       "Industrials",
       "Energy",
       "Hard Tech",
+      "Hardware",
       "Aerospace",
       "AI"
     ],
@@ -29402,7 +29777,7 @@
     "id": "yc-hemlock",
     "source": "yc",
     "name": "Hemlock",
-    "description": "Force + contact dynamics collected at scale for training physical AI.",
+    "description": "Force data collected at scale for training physical AI.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9593981f6acf78f7e8d4417ca9346aed3d279da4.png",
     "website": "https://hemlock.inc",
     "sourceUrl": "https://www.ycombinator.com/companies/hemlock",
@@ -29571,7 +29946,7 @@
     "id": "yc-primordiant",
     "source": "yc",
     "name": "Primordiant",
-    "description": "Embodied Scientific Intelligence",
+    "description": "Autonomous labs run by AI and robot scientists, available as an API.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/15a7e2a5caa04595d7620cd8161f3b2cffd00a51.png",
     "website": "https://primordiant.com",
     "sourceUrl": "https://www.ycombinator.com/companies/primordiant",
@@ -29771,7 +30146,7 @@
     "id": "yc-verno",
     "source": "yc",
     "name": "Verno",
-    "description": "AI engineering industrials like chip fabs, refineries and power plants",
+    "description": "AI that executes engineering for chip fabs, energy, and power plants",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74ef12c285d4addcc60a88f490fbbb178260035f.png",
     "website": "https://verno-ai.com",
     "sourceUrl": "https://www.ycombinator.com/companies/verno",
@@ -30562,7 +30937,7 @@
     "id": "yc-contour-contourholdings-ai",
     "source": "yc",
     "name": "Contour",
-    "description": "AI-native permitting for Americas buildout",
+    "description": "AI-native permitting for Data Centers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ae0831175e2bfda4e79ecd1dfe31db6e94502492.png",
     "website": "https://contourholdings.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/contourholdings",
@@ -31228,6 +31603,65 @@
       "crunchbase": ""
     },
     "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-hiro-industries",
+    "source": "yc",
+    "name": "HIRO Industries",
+    "description": "We’re building an American robotics platform, starting with Origin,…",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2e0c2c89eb8bcf5a06953ea5523edc986f1b286a.png",
+    "website": "https://hiroindustries.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/hiro-industries",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Hardware",
+      "AI"
+    ],
+    "year": 2027,
+    "program": "YC Winter 2027",
+    "programSlugs": [
+      "yc-winter-2027"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Lex Roller",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/lexroller/",
+        "twitter": "https://x.com/lexroller12",
+        "bio": "I’m the cofounder and CEO of HIRO Industries. Ethan and I built our first robot, Origin, in six weeks in a garage. It has two arms and costs $9,950. We’re building it for tasks like packing boxes and unloading 3D printers. Before HIRO, I was a founding engineer at Nori Robotics (YC S26) and built two autonomous cleaning robots for Hampton Lumber. If your team packs products by hand or uses robots on a factory floor, I’d love to hear what that looks like.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7f5a11acecab6707a2ba913f97aa8e4ac8dd16f6.jpg"
+      },
+      {
+        "name": "Ethan Marreel",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ethan-marreel-0090ab1b6/?skipRedirect=true",
+        "twitter": "https://x.com/ethan_marreel",
+        "bio": "Founder/CTO at HIRO Industries. Previously founded Vcrypt Financial, building high-performance algorithmic trading software and leading a team of 9. Developed firmware for prosthetics at BIOMOTUM, drastically improving speed, range, and reliability. MS in Robotics and BS in Electrical Engineering from Oregon State.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed5d722a0495afbfeebdfd89418511d3735cd999.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "firstSeen": "2026-11-19",
     "country": "United States",
     "alsoIn": []
   },

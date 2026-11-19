@@ -109,7 +109,22 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bharat Gupta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bharatslk/",
+        "bio": "Growth Marketing expert. Ex-Growth head at consumer internet business of Paytm, MBA from ISB and Engineer from NSIT",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3707fb29184e1561409c37e39a7a11a62abf63fb.jpg"
+      },
+      {
+        "name": "Pritesh Kumar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/priteshkr/",
+        "bio": "Building Open Source Voice AI Agent Platform - Dograh AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/64b7acb5faa59b2adea9996eae2ae8e76c047645.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

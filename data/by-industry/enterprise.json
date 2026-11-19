@@ -1254,7 +1254,24 @@
     "teamSize": 48,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Giovanni Luperti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gluperti/",
+        "twitter": "https://twitter.com/giovanniluperti",
+        "bio": "CEO and co-founder of Humaans. Prev. Director of Product Design at Qubit.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7015f355deccef51555ff82813dbd92b19e1b235.jpg"
+      },
+      {
+        "name": "Karolis Narkevicius",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/karolisnarkevicius/",
+        "twitter": "https://twitter.com/kidkarolis",
+        "bio": "Building the product at Humaans using React/Node.js/Postgres/Redis/Kube/GCP.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/06f790a77046e0e8d0de0c23766e3c127b551ee8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1295,7 +1312,30 @@
     "teamSize": 32,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeremy Tsui",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jeremytsui/",
+        "bio": "Cofounder & CEO of Finley, previously at Goldman Sachs.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c9a2895dd2fb30db63c8a1c01f79a3c2ffe7af42.jpg"
+      },
+      {
+        "name": "Kevin Suh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kevin-suh/",
+        "twitter": "https://twitter.com/kevinsuh34",
+        "bio": "Cofounder of Finley, previously first engineer @ Nova Credit.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fbe101edf0b1a5d441f5922fec767f0b79edd8d7.jpg"
+      },
+      {
+        "name": "Josiah Tsui",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/josiahtsui/",
+        "bio": "Cofounder of Finley. Previously at Ironclad & Palantir.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3fb93092a68d91c9072c9eaa76ff578122e0ec62.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1336,7 +1376,22 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Josh Cohenzadeh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/josh-cohenzadeh-4ab75138/",
+        "twitter": "https://twitter.com/jshchnz/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c7050ecd51fef03a9886e51223a550367a0ed4ac.jpg"
+      },
+      {
+        "name": "Noah Martin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/noahsmartin/",
+        "twitter": "https://twitter.com/sond813",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7164ee76e449874e02670a29a6dbb42cf8c9a1d0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1378,7 +1433,15 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brittani Dunlap",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/brittanimccall/",
+        "bio": "I am a homegrown Texan driven by technology, with a heart for hospitality! First-Time Founder and BrightReps CEO with 12+ years in Enterprise Tech sales, strategic planning and growth for Mid-Large corporations. I spend as many hours outdoors as possible, adore my dog and appreciate a great glass of wine. Ready to build an empire!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c2357c0fb1966d26dce1f6bcaf42b9803b1eba87.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1422,7 +1485,16 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anthony Valente",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anthony-valente-wmc",
+        "twitter": "https://twitter.com/anthonylvalente",
+        "bio": "3x founder in marketplaces, construction, and logitics startups. Exited WheresMyConcrete to public strategic. HBS, Northwestern. Snowboarder. Full-stack developer (Rails, React, Ionic)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9cdab2cf79939fde5b932c17ba7e9a232eff4637.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2223,7 +2295,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 22,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -5545,10 +5617,11 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Fintech",
       "Generative AI",
       "SaaS",
-      "Enterprise",
-      "AI"
+      "AI",
+      "Enterprise"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -6148,7 +6221,7 @@
     "id": "yc-0-security",
     "source": "yc",
     "name": "0.security",
-    "description": "Open-source AI security agents for enterprise",
+    "description": "Sovereign AI security agents for enterprise",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
     "website": "https://0.security",
     "sourceUrl": "https://www.ycombinator.com/companies/0security",

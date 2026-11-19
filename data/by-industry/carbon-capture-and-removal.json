@@ -195,7 +195,25 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Josh Santos",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joshisantos/",
+        "twitter": "https://twitter.com/joshsandtoes",
+        "bio": "co-founder/chief carbon removal officer at noya. sailor, house dj, runner, best snowboarder on the mountain. my sweet tooth is my achilles heel.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f4608ea5e8e71fa1e0b8798c0ca61490b3c3b037.jpg",
+        "active": false
+      },
+      {
+        "name": "Daniel Cavero",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/caverodaniel/",
+        "bio": "Reversing climate change.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b4c73cc6c556850d5a12ef9a6af25c25ac136afb.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

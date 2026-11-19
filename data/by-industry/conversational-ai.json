@@ -276,7 +276,15 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Addwiteey Chrungoo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/addwiteey-chrungoo-06693320",
+        "bio": "2x founder. Girl dad. Built autonomy for the CAT 797F, the world's largest autonomous truck (600 tons). Ran a freight company. Spent a lot of time at facilities watching check-ins happen by hand. Now at Supadock, making logistics facilities run themselves.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/07d8317729e2105444fe7d242c87f0898611f6e2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -317,7 +325,29 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Neil McLean",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/neil-mclean/",
+        "bio": "Co-Founder, Navattic",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e405a36cc6870d6eba36ef30375091c1a50483ca.jpg"
+      },
+      {
+        "name": "Randy Frank",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/randy-frank/",
+        "bio": "Co-founder, Navattic",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/323de84acaab5a904b2d3582693a6278e78a15bf.jpg"
+      },
+      {
+        "name": "Chris Hoyle",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christopher-hoyle",
+        "bio": "Co-founder, Navattic",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5e33482dc3a3b497935ca4cc4c98975b8b9a2eaa.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2252,7 +2282,7 @@
     "name": "Speko",
     "description": "OpenRouter for Voice AI: one API, every call on the best speech model",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
-    "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
+    "website": "https://speko.com/?utm_source=ycombinator&utm_medium=profile",
     "sourceUrl": "https://www.ycombinator.com/companies/speko",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",

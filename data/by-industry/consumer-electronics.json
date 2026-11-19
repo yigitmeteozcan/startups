@@ -1340,7 +1340,24 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ekram Alam",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ekram-alam-9b7869179/",
+        "bio": "Co-founder of MindPortal",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eedba3d31212148112224657859568f67a799064.jpg",
+        "active": false
+      },
+      {
+        "name": "Jack Baber",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jack-baber-489960168/",
+        "bio": "Co-founder of MindPortal",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a75cfbff2e3124fdcfb420080688d3629b720903.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

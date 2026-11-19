@@ -721,7 +721,22 @@
     "teamSize": 95,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Naeem T",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/naeemtal",
+        "bio": "Raised $150m+ to build world models. Angel investor.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa5ac695d1b99cabe0128954d9af8a7c7c1ee427.jpg"
+      },
+      {
+        "name": "John Thomas",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/johnkthomas",
+        "bio": "Co-founder & COO @ ContentFly | Ex Management Consultant @ IBM; Jackman",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/84efa1fe4128a24d0d37b07a96518a9060dc0ff0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

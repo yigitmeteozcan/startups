@@ -646,7 +646,16 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Noguchi",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/briannoguchi",
+        "twitter": "https://twitter.com/briannoguchi",
+        "bio": "Founder of Smartcuts (W21) and cofounder of Lever (S12).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9d657196165fc57d2a6d843b6711475ca60c6b29.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -687,7 +696,24 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abheek Basu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/abheek-basu-4a72a398/",
+        "bio": "CEO of Laudspeaker (acquired by PostHog W20 in May 2025) Formerly a product manager and software engineer. Engineering degree from Penn and business degree from Wharton (M&T)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/826c82eac7358febe3e34cb845e7f24fa4886ded.jpg",
+        "active": false
+      },
+      {
+        "name": "Mahamad Charawi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mahamad-charawi",
+        "bio": "CTO of Tachyon Formerly a senior software engineer at Cisco Engineering degree from Penn and business degree from Wharton (M&T)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f9fc7d17c6540a7b71261075bba936c68a528041.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -730,7 +756,15 @@
     "teamSize": 60,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonathan Grandperrin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jonathan-grandperrin-47014563/",
+        "twitter": "https://twitter.com/JGrandperrin",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/700aa538bbdf949e86759d6b45dcbed20c41f9b8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -772,7 +806,16 @@
     "teamSize": 18,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bruno Vieira Costa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brunovcosta/",
+        "twitter": "https://twitter.com/bruno_vcosta",
+        "bio": "I'm Bruno, founder of Abstra. I'm a computer engineer and programmer since 7. Previous Abstra, I co-founded an edtech called PaperX where I was CTO. I sold it during college to Descomplica (biggest edtech in Brazil) where I worked after as Product Manager and Tech Lead. Also, I co-founded a Game Studio called Sinextra where I was Game Designer before college. I love all kind of creative activities, from making music, comics, games or software.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5673d2e20e76c934bfd0bf0de872d9d527844c89.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5340,7 +5383,7 @@
     "id": "yc-halmos-labs",
     "source": "yc",
     "name": "Halmos Labs",
-    "description": "Rebuilding drug development for automation",
+    "description": "One API to any physical experiment",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/093fdc6d2122e7140cab391f450941fd3922b145.png",
     "website": "https://halmoslabs.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/halmos-labs",

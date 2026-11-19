@@ -244,7 +244,30 @@
     "teamSize": 11,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yash Patel",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/yashmpatel1/",
+        "bio": "Co-Founder and CEO of Legion Health.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a718e6c329d1619b42731935e1c33f67be0a80d3.jpg"
+      },
+      {
+        "name": "Arthur MacWaters",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/arthur-macwaters/",
+        "bio": "Co-Founder and President of Legion Health (YC S21) Princeton 2018. Ex-Mckinsey",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7d301c3f1fbf5ec8a0a1bb6691963caec22e99ff.jpg"
+      },
+      {
+        "name": "Daniel Wilson",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/danielgwilson",
+        "twitter": "https://twitter.com/the_danny_g",
+        "bio": "Co-Founder and CTO of Legion Health (YC S21) Builder, optimizer, and dreamer. Former Microsoft Excel PM.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e11d737c70df6679cb938f1b0273b9fe503a1511.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

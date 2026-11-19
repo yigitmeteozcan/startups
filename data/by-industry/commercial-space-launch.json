@@ -200,7 +200,23 @@
     "teamSize": 12,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Laura Crabtree",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lauracrabtree/",
+        "bio": "15+ years satellite and spacecraft operations, lead trainer + CORE operator for SpaceX Demo-2 Astronauts. Leader, innovator & deeply passionate about space, exploration and the future of mankind.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c3a5089dddf1d56d3e73399cf75061d49b57cb50.jpg"
+      },
+      {
+        "name": "Max Mednik",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maxmednik",
+        "twitter": "https://www.twitter.com/maxmednik",
+        "bio": "4x entrepreneur, software engineer, and angel investor. Stanford and UCLA Anderson grad. Magician, scuba diver, and student of life.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4c593c9377d5e02b269d2a3de5b67e555e8c7ddf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

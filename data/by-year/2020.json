@@ -17310,7 +17310,7 @@
     "status": "active",
     "teamSize": 40,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -26185,14 +26185,14 @@
     "programSlugs": [
       "yc-summer-2020"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "acquired",
     "teamSize": 33,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [],
     "social": {
       "linkedin": "",
@@ -40742,50 +40742,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-besty-ai",
-    "source": "alchemist",
-    "name": "Besty AI",
-    "description": "AI property manager for short-term rentals",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 37",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Sam Dundas",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Aarlo Stone Fish",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-tazi-ai-systems",
     "source": "alchemist",
     "name": "Tazi AI Systems",
@@ -40818,6 +40774,50 @@
       },
       {
         "name": "G Vuckovic",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-besty-ai",
+    "source": "alchemist",
+    "name": "Besty AI",
+    "description": "AI property manager for short-term rentals",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 37",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sam Dundas",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Aarlo Stone Fish",
         "role": "",
         "linkedin": ""
       }
@@ -42076,13 +42076,121 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-smalltalk",
+    "id": "alchemist-bloom-behaviours",
     "source": "alchemist",
-    "name": "SmallTalk",
-    "description": "AI-based Tool for Assessing & Improving Spoken English. It Helps Companies Score Candidates by Language Proficiency and Improve Non-native English Speakers' Communication.",
+    "name": "Bloom Behaviours",
+    "description": "An Action-orientated Behavioral Platform for Teams.",
     "logo": "",
     "website": "",
-    "location": "Delaware, OH 43015, USA",
+    "location": "London, UK",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 27",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sarah Buxton",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tamsin Kendrick",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rhian Burrell",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "UK"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-ndb",
+    "source": "alchemist",
+    "name": "NDB",
+    "description": "Universal lifelong self-charging green battery",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 25",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dr. Nima Golsharifi",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Prof. Sir Michael Pepper",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mr. Qasim Gulamhusein",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mr. Giorgi Gogokhia",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mr. Roberto Luca Saldi",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-raxel",
+    "source": "alchemist",
+    "name": "Raxel",
+    "description": "Mobile Telematics as a Service. We Power Telematics inside 3rd Party Apps.",
+    "logo": "",
+    "website": "",
+    "location": "Delaware City, DE, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -42097,17 +42205,169 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Sofia Terpugova",
+        "name": "Ivan Shornikov",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Mark Riabov",
+        "name": "Sergey",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Sofia Potapova",
+        "name": "Ada Salii",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Georgiy Rak",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-vipficated",
+    "source": "alchemist",
+    "name": "VIPficated",
+    "description": "65% of the population buys at secondhand marketplaces such as eBay.\n$100B/year worth of pre-owned products aren’t sold due to Lack of Trust.\nVIPficated provides TRUST for every marketplace, boosting SALES 3x.\n",
+    "logo": "",
+    "website": "",
+    "location": "Mountain View, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 27",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "L. Ferrero",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "D. Mulder",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "H. Serna .",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-posturehealth",
+    "source": "alchemist",
+    "name": "PostureHealth",
+    "description": "An ergonomic benefit for modern companies",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 26",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Daniel James",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ion-Alexandru Secara",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jack Cooney",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-g-71-inc",
+    "source": "alchemist",
+    "name": "G-71 Inc.",
+    "description": "Document leaks deterrence",
+    "logo": "",
+    "website": "",
+    "location": "Mountain View, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 26",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sergey Voynov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Igor Zuykov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Julia Demyanchuk",
         "role": "",
         "linkedin": ""
       }
@@ -42166,6 +42426,138 @@
       "country": "Nigeria"
     },
     "country": "Nigeria",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-smalltalk",
+    "source": "alchemist",
+    "name": "SmallTalk",
+    "description": "AI-based Tool for Assessing & Improving Spoken English. It Helps Companies Score Candidates by Language Proficiency and Improve Non-native English Speakers' Communication.",
+    "logo": "",
+    "website": "",
+    "location": "Delaware, OH 43015, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 26",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sofia Terpugova",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mark Riabov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sofia Potapova",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-rectify",
+    "source": "alchemist",
+    "name": "Rectify",
+    "description": "Automating Privacy with Secure Redaction. Rectify Offers an Automated, Secure Redaction Platform Organizations Can Use when Sharing Data Outside of their Organization",
+    "logo": "",
+    "website": "",
+    "location": "Austin, TX, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 25",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Melissa Unsell-Smith",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-apis-cor",
+    "source": "alchemist",
+    "name": "Apis Cor",
+    "description": "3D Concrete Printers for House Construction",
+    "logo": "",
+    "website": "",
+    "location": "Melbourne, FL, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 26",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Nick Cheniuntai is an engineer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Since day one",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -42272,55 +42664,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-g-71-inc",
-    "source": "alchemist",
-    "name": "G-71 Inc.",
-    "description": "Document leaks deterrence",
-    "logo": "",
-    "website": "",
-    "location": "Mountain View, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 26",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Sergey Voynov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Igor Zuykov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Julia Demyanchuk",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-ant-media",
     "source": "alchemist",
     "name": "Ant Media",
@@ -42353,104 +42696,6 @@
       },
       {
         "name": "Alper Kiziltoprak",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-posturehealth",
-    "source": "alchemist",
-    "name": "PostureHealth",
-    "description": "An ergonomic benefit for modern companies",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 26",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Daniel James",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ion-Alexandru Secara",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jack Cooney",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-vipficated",
-    "source": "alchemist",
-    "name": "VIPficated",
-    "description": "65% of the population buys at secondhand marketplaces such as eBay.\n$100B/year worth of pre-owned products aren’t sold due to Lack of Trust.\nVIPficated provides TRUST for every marketplace, boosting SALES 3x.\n",
-    "logo": "",
-    "website": "",
-    "location": "Mountain View, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 27",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "L. Ferrero",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "D. Mulder",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "H. Serna .",
         "role": "",
         "linkedin": ""
       }
@@ -42509,251 +42754,6 @@
       "country": "Taiwan"
     },
     "country": "Taiwan",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-raxel",
-    "source": "alchemist",
-    "name": "Raxel",
-    "description": "Mobile Telematics as a Service. We Power Telematics inside 3rd Party Apps.",
-    "logo": "",
-    "website": "",
-    "location": "Delaware City, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 26",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ivan Shornikov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sergey",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ada Salii",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Georgiy Rak",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-ndb",
-    "source": "alchemist",
-    "name": "NDB",
-    "description": "Universal lifelong self-charging green battery",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 25",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dr. Nima Golsharifi",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Prof. Sir Michael Pepper",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mr. Qasim Gulamhusein",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mr. Giorgi Gogokhia",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mr. Roberto Luca Saldi",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-bloom-behaviours",
-    "source": "alchemist",
-    "name": "Bloom Behaviours",
-    "description": "An Action-orientated Behavioral Platform for Teams.",
-    "logo": "",
-    "website": "",
-    "location": "London, UK",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 27",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Sarah Buxton",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tamsin Kendrick",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Rhian Burrell",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "UK"
-    },
-    "country": "United Kingdom",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-apis-cor",
-    "source": "alchemist",
-    "name": "Apis Cor",
-    "description": "3D Concrete Printers for House Construction",
-    "logo": "",
-    "website": "",
-    "location": "Melbourne, FL, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 26",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Nick Cheniuntai is an engineer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Since day one",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-rectify",
-    "source": "alchemist",
-    "name": "Rectify",
-    "description": "Automating Privacy with Secure Redaction. Rectify Offers an Automated, Secure Redaction Platform Organizations Can Use when Sharing Data Outside of their Organization",
-    "logo": "",
-    "website": "",
-    "location": "Austin, TX, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2020,
-    "program": "Alchemist Class 25",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Melissa Unsell-Smith",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
     "alsoIn": []
   }
 ]

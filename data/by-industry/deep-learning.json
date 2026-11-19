@@ -874,7 +874,24 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Quinn Wang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/quinn-wang-md/",
+        "bio": "Recovering cataract surgeon, occasional volcano climber",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c51da887d8f4212bb3385c718b40da8c3b8db738.jpg",
+        "active": false
+      },
+      {
+        "name": "Kristine Hara",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kristineyoshihara/",
+        "bio": "CTO of Quadrant Eye. Previously engineer #6 at a16z backed UnitedMasters and a computational biologist with publications in data mining, computer science, & biology.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eb24f125114938b4bf5c2be4ed82e3b7ce4a418a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -915,7 +932,24 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Otto Debals",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/otto-debals/",
+        "twitter": "https://twitter.com/ottodebals",
+        "bio": "CEO & co-founder of Segments.ai. Studied mathematical & electrical engineering, and obtained a PhD in signal separation / multilinear algebra. During my PhD, launched Investimize (a financial robo-advisor) together with my current cofounder Bert and also pursued CFA level I. Spent 2 years afterwards at McK - supporting >15 projects across different functions, industries and regions. Launched Segments.ai in Jan 2020. Passionate about whisky, F1 and long-distance running!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/47e795756a420d12b1582ff63804fd9108810de8.jpg"
+      },
+      {
+        "name": "Bert De Brabandere",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bert-de-brabandere/",
+        "twitter": "https://twitter.com/BBrabandere",
+        "bio": "Founder at Segments.ai, PhD from KU Leuven, Computer Vision and Machine Learning. All the way from Belgium.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a0fe615dd7be5eba5cb70ea901becd8dec905462.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -958,7 +992,15 @@
     "teamSize": 60,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonathan Grandperrin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jonathan-grandperrin-47014563/",
+        "twitter": "https://twitter.com/JGrandperrin",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/700aa538bbdf949e86759d6b45dcbed20c41f9b8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -999,7 +1041,22 @@
     "teamSize": 20,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shun Pang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shun-pang-57aa17161",
+        "bio": "CEO of Anima, MD and SWE.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e38601cae256bc3fa0216ab84eebd40fb475e095.jpg"
+      },
+      {
+        "name": "Rachel Mumford",
+        "role": "Founder",
+        "linkedin": "https://uk.linkedin.com/in/rachel-mumford-83102272",
+        "bio": "Co-founder & COO of Anima. Previously Head of Innovation Finance & Entrepreneurship for UK Treasury.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6d830be1f3d6315c9c090b6eeafab31d0898da5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1041,7 +1098,16 @@
     "teamSize": 8,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nurlybek Mursaliyev",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/nurlybek",
+        "twitter": "https://twitter.com/nurlybek_m",
+        "bio": "I have a Ph.D. in Cell and Molecular Biology from the Stanford University Department of Biology. My research focus was on stem cell biology and embryo development. I have experienced firsthand the problem we are solving with Biodock while doing my Ph.D. Previously, I also co-founded a med-tech company SmartLens but decided to focus on my Ph.D. I am also a history nerd and love visiting historical places.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f8992c6181e25b18b16c911a187ee52f86149bcd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1765,8 +1831,8 @@
     "id": "yc-ashr",
     "source": "yc",
     "name": "Ashr",
-    "description": "Enterprise post-training, monitoring, and continual learning platform",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
+    "description": "Ashr is the Coding Agent for Machine Learning",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e144b14cd2a6f702d4b46db4f2dd21e7e0337d9d.png",
     "website": "https://ashr.io",
     "sourceUrl": "https://www.ycombinator.com/companies/ashr",
     "location": "San Francisco, CA, USA",

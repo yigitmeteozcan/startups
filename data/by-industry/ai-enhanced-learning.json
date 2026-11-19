@@ -403,7 +403,15 @@
     "teamSize": 50,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Enoch Ko",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/koenoch/",
+        "bio": "Enoch is the founder/CEO at Soraban. Software engineer and tax accountant background. Started Soraban in 2021 to streamline client data intake process and manual data entry for accounting firms.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ff241c2451196b77fce79498abbb951dbe96c6e8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -443,7 +451,26 @@
     "teamSize": 18,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anuj Saigal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anujsaigal/",
+        "twitter": "https://twitter.com/anujsaigal",
+        "bio": "Anuj Saigal is co-founder of Spark AI. He spent a decade building energy infrastructure at SunEdison, EVgo, and the Department of Energy before building the permitting tool he always needed. Previously CEO of Dataherald (YC W21), revenue lead at Nauto. Northwestern Kellogg MBA, UC Berkeley Economics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/99447abf3ba3ae61c31f64ca7288dc0d823ccf3d.jpg",
+        "active": false
+      },
+      {
+        "name": "Amir Zohrenejad",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/amir-zohrenejad-72a517184",
+        "twitter": "https://twitter.com/amirzo",
+        "bio": "CTO/Co-Founder of Dataherald. Prior to Dataherald, Amir worked as a PM at Microsoft, founded a mobile messaging startup and led his family business. He studied EECS and Applied Mathematics at UC Berkeley.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e15093edad97e94a1d48ffc713fdc2c33735fe82.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
