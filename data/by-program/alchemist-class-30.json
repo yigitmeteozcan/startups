@@ -567,107 +567,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-var-energy",
-    "source": "alchemist",
-    "name": "VAR.energy",
-    "description": "Smart Grid “Platform-as-a-Service” Provider",
-    "logo": "",
-    "website": "",
-    "location": "Kyiv, Ukraine, 02000",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "founders": [
-      {
-        "name": "Nick Turchak",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Denys Popov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mykola Pimankov",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "02000"
-    },
-    "country": "",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-smartan",
-    "source": "alchemist",
-    "name": "Smartan",
-    "description": "Business Revenue Verification. Financial and Accounting Data Aggregation & Analytics",
-    "logo": "",
-    "website": "",
-    "location": "Delaware, OH 43015, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Maria Mikhaylenko",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Michael Sadofyev",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Arsenii Pechenkin",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-engagelively",
     "source": "alchemist",
     "name": "engageLively",
@@ -719,13 +618,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-navigateio-inc",
+    "id": "alchemist-smartan",
     "source": "alchemist",
-    "name": "NavigateIO Inc.",
-    "description": "Self Contained Location Intelligence in GPS-Denied Areas for Public Safety, Military, Construction, Warehousing, Industrial and AR/VR",
+    "name": "Smartan",
+    "description": "Business Revenue Verification. Financial and Accounting Data Aggregation & Analytics",
     "logo": "",
     "website": "",
-    "location": "Santa Rosa, CA, USA",
+    "location": "Delaware, OH 43015, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -739,14 +638,20 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
+    "teamSizeRange": "11-50",
     "founders": [
       {
-        "name": "Sukhi Lamba",
+        "name": "Maria Mikhaylenko",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Karthik Sundaresan",
+        "name": "Michael Sadofyev",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Arsenii Pechenkin",
         "role": "",
         "linkedin": ""
       }
@@ -839,6 +744,101 @@
       },
       {
         "name": "Eduardo Rebelo",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-var-energy",
+    "source": "alchemist",
+    "name": "VAR.energy",
+    "description": "Smart Grid “Platform-as-a-Service” Provider",
+    "logo": "",
+    "website": "",
+    "location": "Kyiv, Ukraine, 02000",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [
+      {
+        "name": "Nick Turchak",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Denys Popov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mykola Pimankov",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "02000"
+    },
+    "country": "",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-navigateio-inc",
+    "source": "alchemist",
+    "name": "NavigateIO Inc.",
+    "description": "Self Contained Location Intelligence in GPS-Denied Areas for Public Safety, Military, Construction, Warehousing, Industrial and AR/VR",
+    "logo": "",
+    "website": "",
+    "location": "Santa Rosa, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [
+      {
+        "name": "Sukhi Lamba",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Karthik Sundaresan",
         "role": "",
         "linkedin": ""
       }

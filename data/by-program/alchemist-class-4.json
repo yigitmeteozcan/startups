@@ -1,12 +1,12 @@
 [
   {
-    "id": "alchemist-synata",
+    "id": "alchemist-qorvo",
     "source": "alchemist",
-    "name": "Synata",
-    "description": "World's First Enterprise Cloud Search Engine.\n\n",
+    "name": "Qorvo",
+    "description": "  ",
     "logo": "",
     "website": "",
-    "location": "",
+    "location": "Mountain View, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -15,15 +15,14 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": true,
+    "isExit": false,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "acquired",
-    "teamSizeRange": "1-10",
+    "status": "active",
     "founders": [
       {
-        "name": "CEO",
+        "name": "Don Metzger",
         "role": "",
         "linkedin": ""
       }
@@ -35,9 +34,9 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": ""
+      "country": "USA"
     },
-    "country": "",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -184,46 +183,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-qorvo",
-    "source": "alchemist",
-    "name": "Qorvo",
-    "description": "  ",
-    "logo": "",
-    "website": "",
-    "location": "Mountain View, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2013,
-    "program": "Alchemist Class 4",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "founders": [
-      {
-        "name": "Don Metzger",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-skurun-inc",
     "source": "alchemist",
     "name": "SkuRun, Inc.",
@@ -289,6 +248,47 @@
     "founders": [
       {
         "name": "Edwin Fu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": ""
+    },
+    "country": "",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-synata",
+    "source": "alchemist",
+    "name": "Synata",
+    "description": "World's First Enterprise Cloud Search Engine.\n\n",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2013,
+    "program": "Alchemist Class 4",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "CEO",
         "role": "",
         "linkedin": ""
       }

@@ -630,13 +630,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-cosign-ai",
+    "id": "alchemist-xmap",
     "source": "alchemist",
-    "name": "Cosign AI",
-    "description": "Never miss clinical trial candidates & save months recruiting",
+    "name": "xMap",
+    "description": "Generative AI Platform For Geospatial Data",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Delaware City, DE, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -650,20 +650,20 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSizeRange": "1-10",
+    "teamSizeRange": "11-50",
     "founders": [
       {
-        "name": "Will Xie",
+        "name": "Mo Batran",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Riya Fukui",
+        "name": "Ayman Imam",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Louie Cai",
+        "name": "Dr. Farid",
         "role": "",
         "linkedin": ""
       }
@@ -681,45 +681,10 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-pairity",
+    "id": "alchemist-arithmedics",
     "source": "alchemist",
-    "name": "Pairity",
-    "description": "Human-Context Data Infrastructure for High-Stakes Decisions",
-    "logo": "",
-    "website": "",
-    "location": "Toronto, ON, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    },
-    "country": "Canada",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-biio",
-    "source": "alchemist",
-    "name": "Biio",
-    "description": "Redefining Physical Intelligence",
+    "name": "Arithmedics",
+    "description": "AI that Reclaims Physician Time for Patients",
     "logo": "",
     "website": "",
     "location": "Cupertino, CA, USA",
@@ -737,54 +702,19 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSizeRange": "1-10",
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-atomistic-insights",
-    "source": "alchemist",
-    "name": "Atomistic Insights",
-    "description": "Harnessing Protein Dynamics For Breakthrough Medicines",
-    "logo": "",
-    "website": "",
-    "location": "Atlanta, GA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Katie Kuo",
+        "name": "Vetri Elango",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "JC Gumbart",
+        "name": "Dr. Renu Dhanasekaran",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Shiyao Bao",
+        "name": "Venu Appana",
         "role": "",
         "linkedin": ""
       }
@@ -858,6 +788,92 @@
     "alsoIn": []
   },
   {
+    "id": "alchemist-pairity",
+    "source": "alchemist",
+    "name": "Pairity",
+    "description": "Human-Context Data Infrastructure for High-Stakes Decisions",
+    "logo": "",
+    "website": "",
+    "location": "Toronto, ON, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    },
+    "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-atomistic-insights",
+    "source": "alchemist",
+    "name": "Atomistic Insights",
+    "description": "Harnessing Protein Dynamics For Breakthrough Medicines",
+    "logo": "",
+    "website": "",
+    "location": "Atlanta, GA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Katie Kuo",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "JC Gumbart",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Shiyao Bao",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "alchemist-fluence",
     "source": "alchemist",
     "name": "Fluence",
@@ -899,13 +915,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-arithmedics",
+    "id": "alchemist-cosign-ai",
     "source": "alchemist",
-    "name": "Arithmedics",
-    "description": "AI that Reclaims Physician Time for Patients",
+    "name": "Cosign AI",
+    "description": "Never miss clinical trial candidates & save months recruiting",
     "logo": "",
     "website": "",
-    "location": "Cupertino, CA, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -922,17 +938,17 @@
     "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Vetri Elango",
+        "name": "Will Xie",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Dr. Renu Dhanasekaran",
+        "name": "Riya Fukui",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Venu Appana",
+        "name": "Louie Cai",
         "role": "",
         "linkedin": ""
       }
@@ -950,13 +966,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-xmap",
+    "id": "alchemist-biio",
     "source": "alchemist",
-    "name": "xMap",
-    "description": "Generative AI Platform For Geospatial Data",
+    "name": "Biio",
+    "description": "Redefining Physical Intelligence",
     "logo": "",
     "website": "",
-    "location": "Delaware City, DE, USA",
+    "location": "Cupertino, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -970,24 +986,8 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Mo Batran",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ayman Imam",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dr. Farid",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "teamSizeRange": "1-10",
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
