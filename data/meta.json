@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-20T08:29:11.773Z",
+  "generatedAt": "2026-11-20T08:35:52.473Z",
   "sources": [
     {
       "name": "500",
       "label": "500 Global",
       "site": "https://500.co/portfolio",
       "count": 2243,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-20T07:47:42.035Z",
-      "note": "not fetched in this run"
+      "status": "live",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
+      "note": ""
     },
     {
       "name": "plugandplay",
@@ -17,25 +17,25 @@
       "count": 6444,
       "status": "cached",
       "lastLiveFetch": "2026-11-18T00:07:17.479Z",
-      "note": "not fetched in this run"
+      "note": "returned no usable companies"
     },
     {
       "name": "yc",
       "label": "Y Combinator",
       "site": "https://www.ycombinator.com/companies",
       "count": 6413,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-20T08:24:31.204Z",
-      "note": "not fetched in this run"
+      "status": "live",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
+      "note": "7 no longer listed upstream (kept, flagged listed:false)"
     },
     {
       "name": "techstars",
       "label": "Techstars",
       "site": "https://www.techstars.com/portfolio",
       "count": 5200,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-20T07:47:42.035Z",
-      "note": "not fetched in this run"
+      "status": "live",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
+      "note": "13 no longer listed upstream (kept, flagged listed:false)"
     },
     {
       "name": "antler",
@@ -43,7 +43,7 @@
       "site": "https://www.antler.co/portfolio",
       "count": 1088,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T08:29:11.773Z",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
       "note": "1 no longer listed upstream (kept, flagged listed:false)"
     },
     {
@@ -51,9 +51,9 @@
       "label": "SOSV (HAX, IndieBio)",
       "site": "https://sosv.com/portfolio/",
       "count": 791,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-20T08:21:56.323Z",
-      "note": "not fetched in this run"
+      "status": "live",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
+      "note": ""
     },
     {
       "name": "ef",
@@ -61,7 +61,7 @@
       "site": "https://www.joinef.com/portfolio/",
       "count": 545,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T08:29:11.773Z",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
       "note": ""
     },
     {
@@ -69,45 +69,45 @@
       "label": "Alchemist",
       "site": "https://www.alchemistaccelerator.com/portfolio",
       "count": 514,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-20T07:47:42.035Z",
-      "note": "not fetched in this run"
+      "status": "live",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
+      "note": ""
     },
     {
       "name": "speedrun",
       "label": "a16z speedrun",
       "site": "https://speedrun.a16z.com/companies",
       "count": 321,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-20T07:47:42.035Z",
-      "note": "not fetched in this run"
+      "status": "live",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
+      "note": ""
     },
     {
       "name": "itucekirdek",
       "label": "İTÜ Çekirdek",
       "site": "https://girisimler.itucekirdek.com/",
       "count": 229,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-20T07:47:42.035Z",
-      "note": "not fetched in this run"
+      "status": "live",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
+      "note": ""
     },
     {
       "name": "sparklabs",
       "label": "SparkLabs",
       "site": "https://www.sparklabs.co.kr/en/portfolio",
       "count": 186,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-20T08:09:45.721Z",
-      "note": "not fetched in this run"
+      "status": "live",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
+      "note": ""
     },
     {
       "name": "founderinstitute",
       "label": "Founder Institute",
       "site": "https://fi.co/graduates",
       "count": 101,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-20T08:09:45.721Z",
-      "note": "not fetched in this run"
+      "status": "live",
+      "lastLiveFetch": "2026-11-20T08:35:52.473Z",
+      "note": ""
     }
   ],
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data",

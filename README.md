@@ -85,17 +85,17 @@ _Rates reflect what each accelerator publishes: some list every startup they hav
 | Source | Companies | Status | Last live fetch |
 |---|---|---|---|
 | [Plug and Play](https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups) | 6,444 | ⚠️ cached | 2026-11-18 |
-| [Y Combinator](https://www.ycombinator.com/companies) | 6,413 | ⚠️ cached | 2026-11-20 |
-| [Techstars](https://www.techstars.com/portfolio) | 5,200 | ⚠️ cached | 2026-11-20 |
-| [500 Global](https://500.co/portfolio) | 2,243 | ⚠️ cached | 2026-11-20 |
+| [Y Combinator](https://www.ycombinator.com/companies) | 6,413 | ✅ live | 2026-11-20 |
+| [Techstars](https://www.techstars.com/portfolio) | 5,200 | ✅ live | 2026-11-20 |
+| [500 Global](https://500.co/portfolio) | 2,243 | ✅ live | 2026-11-20 |
 | [Antler](https://www.antler.co/portfolio) | 1,088 | ✅ live | 2026-11-20 |
-| [SOSV (HAX, IndieBio)](https://sosv.com/portfolio/) | 791 | ⚠️ cached | 2026-11-20 |
+| [SOSV (HAX, IndieBio)](https://sosv.com/portfolio/) | 791 | ✅ live | 2026-11-20 |
 | [Entrepreneur First](https://www.joinef.com/portfolio/) | 545 | ✅ live | 2026-11-20 |
-| [Alchemist](https://www.alchemistaccelerator.com/portfolio) | 514 | ⚠️ cached | 2026-11-20 |
-| [a16z speedrun](https://speedrun.a16z.com/companies) | 321 | ⚠️ cached | 2026-11-20 |
-| [İTÜ Çekirdek](https://girisimler.itucekirdek.com/) | 229 | ⚠️ cached | 2026-11-20 |
-| [SparkLabs](https://www.sparklabs.co.kr/en/portfolio) | 186 | ⚠️ cached | 2026-11-20 |
-| [Founder Institute](https://fi.co/graduates) | 101 | ⚠️ cached | 2026-11-20 |
+| [Alchemist](https://www.alchemistaccelerator.com/portfolio) | 514 | ✅ live | 2026-11-20 |
+| [a16z speedrun](https://speedrun.a16z.com/companies) | 321 | ✅ live | 2026-11-20 |
+| [İTÜ Çekirdek](https://girisimler.itucekirdek.com/) | 229 | ✅ live | 2026-11-20 |
+| [SparkLabs](https://www.sparklabs.co.kr/en/portfolio) | 186 | ✅ live | 2026-11-20 |
+| [Founder Institute](https://fi.co/graduates) | 101 | ✅ live | 2026-11-20 |
 
 _"cached" means the last live fetch failed or looked broken, so the previously committed records were kept rather than dropped._
 
