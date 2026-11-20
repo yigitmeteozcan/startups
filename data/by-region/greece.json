@@ -32,7 +32,20 @@
     "teamSize": 70,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Apostolos Atsalakis",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/apostolos-atsalakis-953032a7",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a91351e00efa2b7c2ba391547aca41aacbb9b9f5.jpg"
+      },
+      {
+        "name": "Panos Papadiamantis",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ppapadia/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7f94ccc3ff5fae3bca4f43195ce6458004c1d8e2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

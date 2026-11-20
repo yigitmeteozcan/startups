@@ -30,7 +30,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Scott Wheeler",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -70,7 +77,45 @@
     "teamSize": 16,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tobias Eichenwald",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tobias-eichenwald-86a8902a",
+        "twitter": "https://x.com/tobioaks",
+        "bio": "Currently Co-Founder of Roma (F26). Previously Co-Founder of Senic (YC S13), acquired by GIRA. Programmer and designer. 3x Red Dot Award winner. Love to run and sketch.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb5d3313e0b9ed803777def82eef8ea4e09e10cc.jpg",
+        "active": false
+      },
+      {
+        "name": "Lech Alexander Murawski",
+        "role": "Founder/CTO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e7058002ed3c887a2ce0a84bd1972723d7c24ef3.jpg",
+        "active": false
+      },
+      {
+        "name": "Johannes Berdin",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/32f70a21ca0e47e0747d5a428a00d4a2f6db0b49.jpg",
+        "active": false
+      },
+      {
+        "name": "Kai-Dominik Kuhn",
+        "role": "Founder/CTO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8307e7654dd6f4555c1a2bd47f154a5379d3bdc4.jpg",
+        "active": false
+      },
+      {
+        "name": "Andreas Mohr",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mohrandreas",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/055be5d5f03092e0daebe466eb77ea514576b699.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -111,7 +156,16 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christophe Pasquier",
+        "role": "Founder",
+        "linkedin": "http://fr.linkedin.com/pub/christophe-pasquier/56/759/938",
+        "twitter": "https://twitter.com/Christophepas",
+        "bio": "French engineer & product guy, creator of slite.com, and, way more importantly, of wikiwa.rs",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5e9d0ff2c115b6a67baca05b31ccf857121a6ffc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -152,7 +206,14 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yann Basly",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ybasly/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9710822eb84eb54bba07646ca35df0bed5828945.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -193,7 +254,23 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Popp",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandergeorgpopp/",
+        "bio": "Alex is co-founder and CTO of Demodesk, a sales coaching AI that summarizes your calls, automates CRM management, and delivers personalized, actionable call feedback. They raised >$10M from Y Combinator, Balderton, Kleiner Perkins, Target Global, GFC and renowned Silicon Valley angels. He studied Electrical Engineering at TUM & Stanford and Technology Management at CDTM.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f22031f8a5569b71519fab9b7e5127659ca48058.jpg"
+      },
+      {
+        "name": "Veronika Wax",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/veronikariederle/",
+        "twitter": "https://twitter.com/Veronikardrl",
+        "bio": "Veronika is co-founder and CEO of Demodesk, a revolutionary online meeting platform with integrated real-time sales assistance. They raised $15M from Y Combinator, Balderton, Kleiner Perkins, Target Global, GFC and renowned angels from Silicon Valley. Before Demodesk, Veronika was a manager at Bain & Company and consulted Fortune 500 companies on their sales and investment strategy. She holds a Master in Business and Engineering from TU Munich and the Columbia University of New York.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/446c4b72ed354bc91b3e313ca39d9ee2972acc86.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -238,7 +315,22 @@
       "Snapcardster",
       "Mage Market"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Peer Richelsen",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/peer-richelsen-221233138/",
+        "twitter": "https://twitter.com/peer_rich",
+        "bio": "Co-Founder, Chairman Cal.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/415f657338dab9e856a2f3be6a3c17d0f333420a.jpg"
+      },
+      {
+        "name": "Malte Delfs",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/359f6df4615aac8f26da26d32d9e137ed37fa320.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -280,7 +372,30 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maximilian Isensee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maximilian-isensee-621711175/",
+        "bio": "Renewable energy engineer. Co-founder of climate NGO \"Protect Our Winters Germany\". Former start-up consultant at Karlsruhe Institute of Technology. Working on solving climate change.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2b466718f13c023c9a3c0a1a132025b002554355.jpg"
+      },
+      {
+        "name": "Christoph Drexler",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christoph-drexler-78173a87/",
+        "twitter": "https://twitter.com/zembobembo",
+        "bio": "Graduated in mechanical engineering at Technical University of Munich. Delved into aerodynamics in master thesis optimizing Kitekraft's airfoils. Heavy interest in sustainability and technological advances tackling climate change, to which the solutions lie in the \"We\", not in the \"I\".",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83a06e83d3e655aaa73923b07dd029fa26dabd62.jpg"
+      },
+      {
+        "name": "André Frirdich",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andr%C3%A9-frirdich-42257715b/",
+        "bio": "Aerodynamics engineer, graduated from Technical University of Munich. Focused on aircraft, helicopter, and wind turbine technology. Wrote master thesis about flying wind turbine aerodynamics optimization. Personal motivation powered by the vision of changing the world's energy generation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83d6fdbba09c9df90224676d54424126b464fb9f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -320,7 +435,28 @@
     "teamSize": 105,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Hanna Marie Asmussen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hanna-marie-asmussen/",
+        "bio": "Engineer & former consultant, originally from Northern Germany, living in Lisbon",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3f3605b4f65970131653d3fafbcc1bd37a98c2a9.jpg"
+      },
+      {
+        "name": "Lisa Dahlke",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lisa-dahlke-460045a3/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f80a0b282fee27c58211705d5f0182e38ec45d82.jpg"
+      },
+      {
+        "name": "Franzi Löw",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/feed/",
+        "twitter": "https://twitter.com/FranLoew",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1cda32c80718495c763cd351da55a0eb02d3af83.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -359,7 +495,21 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gordian Braun",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/gordianb",
+        "bio": "Love to build things",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1e82b3352962e935e08da0bdf6026254c1d913d2.jpg"
+      },
+      {
+        "name": "Tobias Becker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/beckertobi/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9860720600e657f32bec657451fc1defa1221b21.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -398,7 +548,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Marc Höffl",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/marc-h%C3%B6ffl/",
+        "bio": "Founder at ObsessionDB. Serial founder with 4 companies, including Frens (acquired by Swyke) and Laserfocus (YC W20). Previously CTO at Numia building real-time blockchain data infrastructure. Founded Gambify in 2014, soccer app scaled to 6 figure players with support from German National Team. Engineering Manager at Localytics. MS in Data Science from KTH Stockholm, MS in Cloud Computing from TU Berlin.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e312a2474088fbaaa2cd8982da7b2589589ad8b.jpg",
+        "active": false
+      },
+      {
+        "name": "Daniel Dinh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/longdanieldinh/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d70997a5cd3784d1fae389dcfee00e9a7b7fe315.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -438,7 +604,20 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Denis Kildishev",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/denis-kildishev/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/23b37a4d30cbb6e8071b600f65f370c13fbea6eb.jpg"
+      },
+      {
+        "name": "Anton Svetlov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anton-svetlov/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cdeed19a3fadd286e35a90c4c196ec0b07f9a398.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -481,7 +660,24 @@
       "Get DayOne",
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tobia De Angelis",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tobiadeangelis/",
+        "twitter": "https://www.twitter.com/tobdea",
+        "bio": "Founder at Strive School, now part of Epicode.com where I serve as Chairman.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c38629344c5e61a25f7457acd6e1df8ebd16cfe5.jpg"
+      },
+      {
+        "name": "Diego Banovaz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/diegobanovaz/",
+        "twitter": "https://twitter.com/DiegoBanovaz",
+        "bio": "Master Computer Engineer Background in Consultancy, Education and Startups",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3876fc229caf41909abd54bbd7abff6045f96440.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -524,7 +720,23 @@
     "formerNames": [
       "Electry"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Julian Lindinger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/julian-lindinger-82a4489b/",
+        "twitter": "https://twitter.com/lindingerju",
+        "bio": "Helping skilled technical blue-collar workers (electricians, mechanics) to find better jobs. Austrian living in Berlin.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/056165fcdec58cbfc6d02696101ff2a7fb657bc3.jpg"
+      },
+      {
+        "name": "Konrad Geiger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/konradgeiger/",
+        "twitter": "https://twitter.com/kon_geiger",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d16887447121a54e4c65f6b7aad7beb01facfa7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -568,7 +780,15 @@
     "formerNames": [
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maik Taro Wehmeyer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maik-taro-wehmeyer-ba9a338b/",
+        "bio": "Industrial Engineer (Harvard University, École Polytechnique, Karlsruhe Institute of Technology) that loves building tech",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/75a0aa263a00903f67f8e9bcb135bb42e1619f2c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -28,7 +28,24 @@
     "teamSize": 51,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "James Beshara",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jjbeshara/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/28ebf6beb51d4b291101b2d94cb7ef5f7e50e1b5.jpg",
+        "active": false
+      },
+      {
+        "name": "Khaled Hussein",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/dsogkhaled/",
+        "twitter": "https://twitter.com/dsog",
+        "bio": "Khaled is a serial entrepreneur who started his journey at a very young age in Egypt and found his way to the US. He founded Tilt, a Y-Combinator and a16z funded company that empowered communities and groups to pool money together. After selling Tilt to Airbnb, he founded RedDoor, a company providing an entirely new mortgage experience. Time magazine named him one of the top 30 under 30 changing the world. Currently, he is the Founder & Managing Director at Stipple, a venture studio based in SF.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5d2d101105ecae0601fbc93070cf87b910f33896.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -67,7 +84,30 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Zhang",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/zhangyipeng/",
+        "bio": "Cofounded and served as CTO at Debteye (S11). Went on to cofound Avant, currently serving as CTO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fdb711a5f6ec7cca0abb7162e06d802737274a55.jpg",
+        "active": false
+      },
+      {
+        "name": "John Sun",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/avantjohnsun/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/62470205bc7fd3c386684279c1636ded782abf09.jpg",
+        "active": false
+      },
+      {
+        "name": "Kevin Yu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kevinyu1029",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/df6e35e7e8a228eeb8e058488cb0e0b1369d331f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -107,7 +147,24 @@
     "teamSize": 900,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Hiroki Takeuchi",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/hirokitakeuchi/",
+        "bio": "Hiroki is co-founder and CEO of GoCardless, a global leader in direct bank payment solutions. Prior to founding GoCardless, he worked as a Business Analyst at McKinsey & Co before succumbing to the entrepreneurial bug and enrolling in the Y Combinator program. He studied Mathematics at Oxford University where he served as Vice President of Oxford Entrepreneurs.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d7384c8f7758066af68c5e0dccb67f318e49bb2f.jpg"
+      },
+      {
+        "name": "Tom Blomfield",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tomblomfield",
+        "twitter": "https://twitter.com/t_blom",
+        "bio": "Cofounded GoCardless (YC S2011) and Monzo (YC Continuity). Now a partner at YC, based in San Francisco.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9ab7bdb23ee93545fc44ab122a4e3a59baa2619c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -147,7 +204,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chris Auer",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d94049c0774cdf76b428ac6fb05da1ba012d8860.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -187,7 +251,25 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Darren Nix",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/darrensnix",
+        "bio": "Founder at Steadily.com. Previously built Interviewed S15 (acquired by Indeed) and Leaky (S11).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a6d954ce241a119ac37231e50f32e3415bb18452.jpg",
+        "active": false
+      },
+      {
+        "name": "Jason Traff",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jasontraff/",
+        "twitter": "https://twitter.com/jasontraff",
+        "bio": "CopyCat Paintings -> MIT Sloan -> Leaky (YC S11) -> MIT Sloan -> Shipwell. I'm currently the co-founder and President of Shipwell, a connected shipping platform based in Austin, TX that brings shippers, 3PLs, and carriers together in a single place.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4c7895f7e2922e41977a17bd21a4e4fe836ae8df.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -273,7 +355,16 @@
     "formerNames": [
       "Future Advisor"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bo Lu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/boluprofile",
+        "twitter": "https://twitter.com/bolu",
+        "bio": "Current at Clipboard Health (W17) as Co-CEO. Was CEO of FutureAdvisor, acquired by BlackRock (NYSE:BLK) post Series B. Microsoft alum as a PM. University of Illinois Urbana Champaign Computer Science w/focus on Human Computer Interaction.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c08daf694821c3749c11a7a778db866f71efa2f2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -312,7 +403,24 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rod Ebrahimi",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/rodebrahimi",
+        "twitter": "https://twitter.com/innovatebig",
+        "bio": "YC S2010. UCSD. MIT. https://rod.ebrahimi.org",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b3281bdf04f541482c5d280a62e310cf0279a070.jpg",
+        "active": false
+      },
+      {
+        "name": "Ignacio Thayer",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ignaciothayer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aef97cdd87e50973f850b88cafed010d4fcbb686.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -353,7 +461,24 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Amit Manjhi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/amitmanjhi/",
+        "twitter": "https://twitter.com/amitmanjhi",
+        "bio": "Amit Manjhi is a 3x founder with expertise in AI, ML, fast data processing, statistical analysis, and large scale distributed systems. His last startup BoostKPI, which was building an AI data analyst, was acquired by Inflection AI. Before BoostKPI, he started TapSense, where he helped scale annual revenues to double-digit millions, and sold it to Wish.com. He is an ex-googler, a YCombinator alumni, and has a PhD in Computer Science from Carnegie Mellon.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6a3af4dea23df0323c18134657df10276e88af30.jpg",
+        "active": false
+      },
+      {
+        "name": "Shashank Pandit",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shashankpandit",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c8c6006395198f8e929455277a0b622333c63e3d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -392,7 +517,16 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Phil Yuen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/philipyuen/",
+        "bio": "Phil is part of the YC 06 batch, TextPayMe founder, a mobile payment system which was eventually acquired by Amazon and became Amazon Payments. Now working on an anti COVID-19 Air Filtration device.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f2ab9e110ab7700004fe7a883ee3c60cab811191.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -433,7 +567,14 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Carvin",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/michael-carvin-5315692a",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e5e564583c93cf5c57e9d7e6d509bd36fae36c13.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -473,7 +614,24 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kanishk Parashar",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/diamondk",
+        "bio": "cofounder/CEO Powder - AI growth platform for wealth advisors. Previously, I was cofounder/CEO of RCI Navigator. Navigator helps asset and wealth managers to pace into private assets such as VC, PE, Infra, etc. while taking risks into account. It was acquired by Addepar in Jan 2021. Navigator is used by 150+ firms including UBS and Morgan Stanley. Before that I was cofounder/CEO of Coin (YCW13). Coin was a all-in-one digital credit card that combined all your cards into one.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6448324619fedb83cc73c7db99e7d1329e1031fc.jpg",
+        "active": false
+      },
+      {
+        "name": "Karthik Balakrishnan",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kbalakri",
+        "bio": "PhD in Aero/Astro at Stanford YC W13 - Coin (acq. Fitbit) Then, founded \"Airbus UTM\" - air traffic control infrastructure for drones Now, co-founder of ACTUAL - infrastructure modeling and finance SaaS",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1918da33ed1f17d875a31ff902201b74cc0fab1d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -515,7 +673,26 @@
     "formerNames": [
       "ClearTax"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Archit Gupta",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/architgupta",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4c35fff65150f5807323d5d0cb7a61091b8090a7.jpg"
+      },
+      {
+        "name": "Srivatsan Chari",
+        "role": "Founder/Head of Product",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d6e54ec1715a8d44fe42c7328f09c544a553371d.jpg"
+      },
+      {
+        "name": "Ankit Solanki",
+        "role": "Founder/CTO",
+        "linkedin": "https://in.linkedin.com/in/ankitsolanki",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/19910fb9f8a5080e44fc3781fa56160945c04bf0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -559,7 +736,22 @@
     "formerNames": [
       "Spark Gift"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Peggy Mangot",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/peggymangot",
+        "twitter": "https://twitter.com/peggymangot",
+        "bio": "Partnerships and Corp Dev. at JPMorgan. Some angel stuff. Formerly PayPal Ventures, Wells Fargo, YC 2015, SparkGift (micro-investing), Partnerships at Google, Product at Visa",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/46bcf170ed3f092e61f9219cb0f0fb080ded5d77.jpg"
+      },
+      {
+        "name": "Bob Haigler",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/bobhaigler",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aae13e75d2be7b887e63ca508f6ed07751044f4b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -599,7 +791,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "George Smith",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/georgedotsmith/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dd2e67c619a553ca54ea48643fed29daff997580.jpg",
+        "active": false
+      },
+      {
+        "name": "Matt Galloway",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/mpgalloway",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -638,7 +845,15 @@
     "teamSize": 100,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kartik Venkataraman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kartikvenkataraman1",
+        "bio": "Tech Entrepreneur | YC Founder (S15) | IIT-D & UIUC",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6a8284cc4819ba8106611d1e5bbac6848029d27.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -678,7 +893,30 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yahya Mokhtarzada",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/yahyamokhtarzada",
+        "bio": "Founder of Truebill, Acquired by Rocket Companies for $1.3b",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/621b18d72fa34f49634d2bf15358f3c5aba30880.jpg"
+      },
+      {
+        "name": "Haroon Mokhtarzada",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/haroonmokhtarzada/",
+        "twitter": "https://www.twitter.com/haroon",
+        "bio": "Serial Entrepreneur / Angel Investor. Founder/CEO Webs (Sold to Vistaprint for $117M). Founder/CEO of Truebill (Sold to Rocket Companies for $1.3B) Angel investments: Relativity Space, Boom, Instacart, Sweetgreen, Rappi, PlutoTV, more.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f9040e05727c6b4570066aafc642804532a5e7d2.jpg"
+      },
+      {
+        "name": "Idris Mokhtarzada",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/idrismokhtarzada",
+        "twitter": "https://twitter.com/idris",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5ac6cf73b9809f3d2a0db4e442de369dfe5317da.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -719,7 +957,15 @@
     "teamSize": 16,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alok Deshpande",
+        "role": "Founder/President",
+        "linkedin": "https://www.linkedin.com/in/alokdeshpande",
+        "bio": "I teach everyday people about money. My wife of 17 years and 14 yr old son tolerate it :) Former Bain, HBS, Emory. Love all Atlanta sports (which is difficult).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fec3408643dcda2873f92c3c26c36349b9764db7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -760,7 +1006,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mitch Lee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mitchjlee",
+        "twitter": "https://www.twitter.com/dontmitch",
+        "bio": "Cofounder, CEO at Arc Boats. Previously cofounder, CEO at Penny.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/207dd678ac3c7f6bc81070205cc31e8cd7fa7b8b.jpg",
+        "active": false
+      },
+      {
+        "name": "Alex Quach",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/imquach",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b32493fabd34d68a3bc035d6b2e9fe745b410f88.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -801,7 +1064,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Barak Ben Ezer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/barakb",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a0a05fcdbb16eb65de5900705032df7e886658f1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -840,7 +1110,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Eugene Park",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/eugenejohnpark",
+        "twitter": "https://twitter.com/ejpark",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c3116584884786606c80bb2aa9c4b087955021f2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -886,7 +1164,25 @@
       "Delphia",
       "Delphia (d.b.a. Tilt)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Peek",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/drupeek",
+        "twitter": "https://twitter.com/drupeek",
+        "bio": "Andrew is an entrepreneur and angel investor. He's the founder and CEO of Agora Intelligence, makers of Tilt — an open standard for rules-based investment methodology. Prior to Tilt, he co-founded Delphia, an investment collective where people pooled data to access investment strategies. Delphia built and sold a systematic hedge fund (to Acadian) alongside other investment technologies using ML.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fbcb7af4081ddfb29f13cb7e9a0a63723c9adf16.jpg"
+      },
+      {
+        "name": "Cliff van der Linden",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/cliffvanderlinden",
+        "twitter": "https://x.com/CliffvdLinden",
+        "bio": "Cliff is a computational social science professor and serial entrepreneur, having founded and led numerous companies including non-profit organizations and venture-backed technology start-ups. He is founder and CEO of Vox Pop Labs, a social enterprise that empowers informed decisions through innovative digital products and advanced analytics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f1c18551d7b0fa9d6735bf02b8fbcc838e3ed3b2.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -925,7 +1221,20 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Will Hodson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/will-hodson-5266a013/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fea293edcddbe241c0ddccb189357a729fdcd79a.jpg"
+      },
+      {
+        "name": "Henry de Zoete",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/henry-de-zoete-aa01835/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d93cd9f37efc41064381dbcaafea831f1bf47ea2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -971,7 +1280,21 @@
       "Prodigal technologies",
       "Prodigal Technologies"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shantanu Gangal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shantanugangal",
+        "twitter": "https://www.twitter.com/shantanugangal",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4439a77db2c062b6338fc10ddf69b54468cb8ba3.jpg"
+      },
+      {
+        "name": "Sangram Raje",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sangramraje",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1a2fc45ba0161b9fcb7e6f297d72825d5229b387.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1013,7 +1336,34 @@
     "formerNames": [
       "Fintual Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pedro Pineda",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/pedro-pineda-42066923/fi",
+        "bio": "the least intelligent cofounder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e4798eb8a59c6883a66dfc1c003a628cdbe4eab.jpg"
+      },
+      {
+        "name": "Agustín Feuerhake",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/agustinfeuerhake/",
+        "twitter": "https://twitter.com/agustinf",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/88e35b8c1d56d08160bf2634a20786291a96440b.jpg"
+      },
+      {
+        "name": "Omar Larré",
+        "role": "Founder",
+        "linkedin": "https://cl.linkedin.com/in/olarre/en",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c48a0bf50a70d522d096d6f55a7c63d59acee8b3.jpg"
+      },
+      {
+        "name": "Andres Marinkovic",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/pub/andr%C3%A9s-marinkovic/68/806/767",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0dce59e9309d8b1aefc7fd4cc2301c8037ec8c94.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1053,7 +1403,14 @@
     "teamSize": 68,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Hussein Ahmed",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/husseinahmed",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d46b4ce1dac07cb81356253afc9f0bf33e1f3979.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1097,7 +1454,15 @@
       "Write It Off",
       "Keeper Tax"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Kang",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/david-kang-001b177b/",
+        "bio": "Ex. quantitative trader",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cf07592fad4c28d5c3e5217f4aa76962c450580d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1142,7 +1507,17 @@
       "GreenTiger",
       "Swadesh Bank"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Prateek Swain",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/prateekswain/",
+        "twitter": "https://twitter.com/prateekswain22",
+        "bio": "Building the US Bank for the Indian diaspora at Swadesh. Previously worked at Microsoft, Reactive Robotics, and Westbridge Capital. Started HackIndia (India's largest hackathon) and MakeVenturesPrinceton (Princeton's first student run incubator). Princeton University Computer Science '19.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/414f2aaa819f0786c84eb1e6b5c2b7c26622713a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1184,7 +1559,14 @@
     "isHiring": true,
     "stage": "Early",
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonathan Petts",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jonathanpetts",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4cafa9241bb0b788c5b688eba8246150e014ac18.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1226,7 +1608,31 @@
     "formerNames": [
       "Point"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Patrick Mrozowski",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/patrickmrozowski/",
+        "twitter": "https://twitter.com/patrickmro_",
+        "bio": "Co-founder of Atlas (fka Point)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/46426bd450aa8686a3637ec9351ecaac813df86c.jpg"
+      },
+      {
+        "name": "Sid Parihar",
+        "role": "Founder",
+        "linkedin": "",
+        "bio": "-",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/357510a85a2aac071ab3e448a64fb59ea9618f49.jpg"
+      },
+      {
+        "name": "Kenan Pulak",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kenanpulak",
+        "twitter": "https://twitter.com/kenanp",
+        "bio": "Previously to founding Point - Founder of 2 startups in the Social & CRM space, 1st engineer at Motiv and Metal Pay, and 1st mobile engineer at The RealReal. Built & launched 7 production apps from scratch.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c86dad649498dd8d882b1807ad59ff0abd4689d6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1267,7 +1673,16 @@
     "teamSize": 18,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Ambrosino",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/ajambrosino",
+        "twitter": "https://twitter.com/ajambrosino",
+        "bio": "Founder/CTO/CPO @ Catch",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3532efa27722f03ba9f9e92d099ba4fe5714cd32.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1312,7 +1727,33 @@
       "ScholarMe Co.",
       "ScholarMe"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Femi Adebogun",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/femiadebogun",
+        "twitter": "https://twitter.com/femiadebogun",
+        "bio": "dropout, ceo @ path",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48ba004ae8ee8ace71606cfe5bdd8d41379e30b3.jpg",
+        "active": false
+      },
+      {
+        "name": "Evan Farrell",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/evan-farrell/",
+        "twitter": "https://twitter.com/evanmtg",
+        "bio": "Dropout, cofounder of path, spicerack.gg, and tabletop.gg if you play trading card games/magic the gathering, hmu!!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b3c11e743b08d6e8565bed045f7fb1ecbd0b1065.jpg",
+        "active": false
+      },
+      {
+        "name": "Caleb Cross",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/calebcross",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a98dfc54393cd3d8b49f9b6da19c97834bc5298.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1351,7 +1792,27 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Naveen Qureshi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/naveen-qureshi",
+        "bio": "Co-founder and CEO Rapidfolio, AI for fintechs and banks. Prev: co-founder & CEO of Sable (S19), a consumer fintech that I built, scaled to few hundred thousand accounts and sold. On a mission to help banks and fintechs grow their customer base without adding another back-office headcount. Ex Capital One, Amazon, Target. Columbia Business School.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/35caac9e4b831d4e37de25f7c777c368e27cc364.jpg"
+      },
+      {
+        "name": "Joseph Finlayson",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/joseph-finlayson",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b779d35fe354e4387e3cb820012b644743323d07.jpg"
+      },
+      {
+        "name": "Towers Wilen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/towers-wilen-15173622/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6c25ead42ee096d4db4ee0952853f0643132e4a4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1395,7 +1856,27 @@
     "formerNames": [
       "Rainbow 🌈"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christian Baroni",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christianbaroni/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83423c1286534a0dc09de8d1582825a0a750a914.jpg"
+      },
+      {
+        "name": "Jin Chung",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jinchung17",
+        "twitter": "https://twitter.com/jinrummie",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/86f8dd6443fe9025854ed5bdbd690d315fd01d36.jpg"
+      },
+      {
+        "name": "Michael Demarais",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-demarais-73273736/",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1434,7 +1915,21 @@
     "teamSize": 51,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jordan Gonen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jordangonen/",
+        "bio": "new",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/10676a4ce9e8ce5496480ff12deaa656f1478ddb.jpg"
+      },
+      {
+        "name": "Jacob Schein",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jacob-schein/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e7b2544c14d6aae732d45106f944496fd3961a3f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1478,7 +1973,15 @@
       "TradeID (formerly TR8)",
       "TradeID"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Norman Wanto",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/normanjwanto/",
+        "bio": "Founder and CEO of Gotrade (S19)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/89362fc991a46dadc2ca91ae511fa4a574abf0d9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1577,7 +2080,14 @@
     "formerNames": [
       "Refund Giant"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shawn Du",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shawn-du-a8896282/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/89f64c1635c6139778ea442c29efb257f85ebaa9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1619,7 +2129,22 @@
     "teamSize": 56,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sahil Bansal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sahil-bansal-48b17b39/",
+        "bio": "Cofounder of Kosh. Graduated from IIT Delhi in 2014. Worked as a quant strat at Goldman Sachs in their Investment Banking Division. Currently managing sales and operations at Kosh.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f60471003a7c326bbc51748acac20ad46c5b7ec1.jpg"
+      },
+      {
+        "name": "Aayush Goel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aayushgoel92/",
+        "bio": "Trying to scale myself as a leader as Kosh scales. ex-Goldman Sachs, Graduate from IIT Delhi. Forbes u30 Asia.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1f0645a0961c0db202472ca0f3cbda9c584854ab.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1659,7 +2184,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gaurav Arora",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/whogaurav",
+        "bio": "Founder of spenny, scaled to 500,000 users and exited. Full stack product builder across fintech and AI.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/483407882c28d655a02e1eecf548cbff19b05a41.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1698,7 +2231,21 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Richmond Bassey",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/richmondbassey/",
+        "twitter": "https://twitter.com/Richmonb",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/faf48619ebe2ac1b4d9a3103564d15e321409be2.jpg"
+      },
+      {
+        "name": "Yanmo Omorogbe",
+        "role": "Founder",
+        "linkedin": "https://ng.linkedin.com/in/yanmo-omorogbe-a39a6375",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cdc129624db9a6ec4c96b0b119bd80b0ae4c275a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1738,7 +2285,20 @@
     "teamSize": 160,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Norman Müller",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/norman-m%C3%BCller-6b93a857/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3eb93e14fdcebe0dce91b46d03a09aa22bac2df9.jpg"
+      },
+      {
+        "name": "Rene Serrano",
+        "role": "Founder",
+        "linkedin": "https://mx.linkedin.com/in/serranorene",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/581294ef65f6a6079d7c565b9ba53ffef010e76e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1781,7 +2341,31 @@
     "formerNames": [
       "Pibi"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vitor Albuquerque",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vitoralbuquerque/",
+        "bio": "...",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fa7de9fc43bd41759d7c8884b04c9b11d6c27202.jpg",
+        "active": false
+      },
+      {
+        "name": "Luiz Studart",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/luizeduardostudart/",
+        "bio": "SaaS, Fintech and Proptech Founder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c29fc16e3d499a7ec54e6252056d10a32aa12098.jpg",
+        "active": false
+      },
+      {
+        "name": "Cassio Menezes",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/cassio-menezes-27bb6112a/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fb196cafa4983666ae5cf4a5452ec817eca9ecbe.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1827,7 +2411,24 @@
       "Perch",
       "Perch Credit"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Broughton",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-j-broughton/",
+        "twitter": "https://x.com/mikejbroughton",
+        "bio": "ALTRO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7179b632885848ec636bffc6c02ef14532ea70ef.jpg"
+      },
+      {
+        "name": "Ayush Jain",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ayushajain1/",
+        "bio": "Founder & CTO at Altro. Previously AI at Cape Analytics, Falkonry, and Dronesdash.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9749652ea5b458e65a42a80114a80e9815597b58.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1866,7 +2467,15 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Faisal Khalid",
+        "role": "Founder",
+        "linkedin": "http://uk.linkedin.com/in/faisalkhalid",
+        "bio": "Harvard College AB '02",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2db6b8e5ab32cc2de0bf0b71c728028f9787bb00.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1910,7 +2519,23 @@
       "Yotta Saving",
       "Yotta Savings"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Moelis",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adammoelis",
+        "twitter": "https://twitter.com/adammoelis",
+        "bio": "Wharton '14 Investment Analyst @ Goldman Sachs Data Product Analyst @ YipitData Co-founder @ Yotta",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba3f36a2d31353ef757cdb82f92735f92af8d97e.jpg"
+      },
+      {
+        "name": "Ben Doyle",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/doyleb",
+        "bio": "https://www.withyotta.com/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/61269b3522d517859b31d22423d6d41b68c94f1b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1955,7 +2580,23 @@
       "Tippi",
       "Uni"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christophe Barre",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/barrechristophe",
+        "bio": "Founder & CEO @ Tandem",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/beb54c6978d3307c43e90d48f0a2f14de146fc59.jpg",
+        "active": false
+      },
+      {
+        "name": "Ulysse Prygiel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ulysse-prygiel-0706a158/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/91a1005accc23808a8d8cbea6a48bb79712765cd.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1999,7 +2640,23 @@
     "formerNames": [
       "MedPiper Technologies"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nitthin Nair",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nitthin-chandran-nair-82aa9290/",
+        "twitter": "https://www.twitter.com/nitthin",
+        "bio": "Founder CEO at MedPiper. Previously lead Growth at a mobility startup, and prior domain experience in Healthcare and Media for over 7+ years, in sales, product development and growth.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/605cbfb8b2085038e2f08fd60207641f4781b8c8.jpg"
+      },
+      {
+        "name": "Pranay Suyash",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pranaysuyash/",
+        "bio": "Currently Co-founder at Medpiper. Worked as a Business Consultant building products to enable clients streamline their sales and distribution process.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/43356afb7dd9ce97c9d9239df5913ba8ac9d2118.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2042,7 +2699,16 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sheena Allen",
+        "role": "Founder",
+        "linkedin": "http://www.LinkedIn.com/in/SheenaAllen",
+        "bio": "Sheena Allen is a tech entrepreneur, author, and creative strategist passionate about building innovative solutions. She founded Sheena Allen Apps while in college and later launched CapWay, a fintech platform expanding economic access through inclusive digital banking. As CapWay’s founder, she became the youngest woman in the U.S. to own and operate a digital bank. She now co-leads GRITS, a launchpad for entrepreneurs, and is developing a fintech-AI startup.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/29e0db45cca8bc4a71e7262f1a4432f00aabbe7c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

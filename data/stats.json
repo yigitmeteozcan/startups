@@ -1,6 +1,224 @@
 {
-  "generatedAt": "2026-11-20T07:47:42.035Z",
-  "total": 23788,
+  "leaderboard": [
+    {
+      "source": "plugandplay",
+      "label": "Plug and Play",
+      "companies": 6444,
+      "exits": 582,
+      "exitRate": 9,
+      "unicorns": 75,
+      "unicornRate": 1.2,
+      "countries": 76,
+      "topCountry": "Japan",
+      "firstYear": null,
+      "lastYear": null,
+      "medianYear": null,
+      "founderProfiles": 0,
+      "withFounders": 0,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 356
+    },
+    {
+      "source": "yc",
+      "label": "Y Combinator",
+      "companies": 6413,
+      "exits": 873,
+      "exitRate": 13.6,
+      "unicorns": 42,
+      "unicornRate": 0.7,
+      "countries": 85,
+      "topCountry": "United States",
+      "firstYear": 2005,
+      "lastYear": 2027,
+      "medianYear": 2022,
+      "founderProfiles": 12069,
+      "withFounders": 6326,
+      "hiring": 1470,
+      "alsoInOtherPortfolios": 217
+    },
+    {
+      "source": "techstars",
+      "label": "Techstars",
+      "companies": 5200,
+      "exits": 648,
+      "exitRate": 12.5,
+      "unicorns": 26,
+      "unicornRate": 0.5,
+      "countries": 83,
+      "topCountry": "United States",
+      "firstYear": 2007,
+      "lastYear": 2026,
+      "medianYear": 2021,
+      "founderProfiles": 0,
+      "withFounders": 0,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 172
+    },
+    {
+      "source": "500",
+      "label": "500 Global",
+      "companies": 2243,
+      "exits": 685,
+      "exitRate": 30.5,
+      "unicorns": 9,
+      "unicornRate": 0.4,
+      "countries": 77,
+      "topCountry": "United States",
+      "firstYear": 2009,
+      "lastYear": 2026,
+      "medianYear": 2017,
+      "founderProfiles": 5231,
+      "withFounders": 2183,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 227
+    },
+    {
+      "source": "antler",
+      "label": "Antler",
+      "companies": 1088,
+      "exits": 0,
+      "exitRate": 0,
+      "unicorns": 0,
+      "unicornRate": 0,
+      "countries": 25,
+      "topCountry": "United States",
+      "firstYear": 2018,
+      "lastYear": 2026,
+      "medianYear": 2024,
+      "founderProfiles": 0,
+      "withFounders": 0,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 51
+    },
+    {
+      "source": "sosv",
+      "label": "SOSV (HAX, IndieBio)",
+      "companies": 791,
+      "exits": 44,
+      "exitRate": 5.6,
+      "unicorns": 0,
+      "unicornRate": 0,
+      "countries": 50,
+      "topCountry": "United States",
+      "firstYear": 1990,
+      "lastYear": 2026,
+      "medianYear": 2019,
+      "founderProfiles": 1632,
+      "withFounders": 722,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 54
+    },
+    {
+      "source": "ef",
+      "label": "Entrepreneur First",
+      "companies": 545,
+      "exits": 2,
+      "exitRate": 0.4,
+      "unicorns": 0,
+      "unicornRate": 0,
+      "countries": 8,
+      "topCountry": "United Kingdom",
+      "firstYear": 2014,
+      "lastYear": 2026,
+      "medianYear": 2021,
+      "founderProfiles": 1047,
+      "withFounders": 545,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 0
+    },
+    {
+      "source": "alchemist",
+      "label": "Alchemist",
+      "companies": 514,
+      "exits": 73,
+      "exitRate": 14.2,
+      "unicorns": 0,
+      "unicornRate": 0,
+      "countries": 33,
+      "topCountry": "United States",
+      "firstYear": 2012,
+      "lastYear": 2026,
+      "medianYear": 2020,
+      "founderProfiles": 1088,
+      "withFounders": 445,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 0
+    },
+    {
+      "source": "speedrun",
+      "label": "a16z speedrun",
+      "companies": 321,
+      "exits": 0,
+      "exitRate": 0,
+      "unicorns": 0,
+      "unicornRate": 0,
+      "countries": 12,
+      "topCountry": "United States",
+      "firstYear": 2018,
+      "lastYear": 2026,
+      "medianYear": 2025,
+      "founderProfiles": 648,
+      "withFounders": 319,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 14
+    },
+    {
+      "source": "itucekirdek",
+      "label": "İTÜ Çekirdek",
+      "companies": 229,
+      "exits": 0,
+      "exitRate": 0,
+      "unicorns": 0,
+      "unicornRate": 0,
+      "countries": 1,
+      "topCountry": "Turkey",
+      "firstYear": null,
+      "lastYear": null,
+      "medianYear": null,
+      "founderProfiles": 0,
+      "withFounders": 0,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 6
+    },
+    {
+      "source": "sparklabs",
+      "label": "SparkLabs",
+      "companies": 186,
+      "exits": 31,
+      "exitRate": 16.7,
+      "unicorns": 0,
+      "unicornRate": 0,
+      "countries": 6,
+      "topCountry": "South Korea",
+      "firstYear": 2000,
+      "lastYear": 2024,
+      "medianYear": 2018,
+      "founderProfiles": 186,
+      "withFounders": 186,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 3
+    },
+    {
+      "source": "founderinstitute",
+      "label": "Founder Institute",
+      "companies": 101,
+      "exits": 17,
+      "exitRate": 16.8,
+      "unicorns": 0,
+      "unicornRate": 0,
+      "countries": 33,
+      "topCountry": "United States",
+      "firstYear": null,
+      "lastYear": null,
+      "medianYear": null,
+      "founderProfiles": 119,
+      "withFounders": 100,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 17
+    }
+  ],
+  "generatedAt": "2026-11-20T08:29:11.773Z",
+  "total": 24075,
   "bySource": {
     "500": 2243,
     "plugandplay": 6444,
@@ -11,10 +229,12 @@
     "ef": 545,
     "alchemist": 514,
     "speedrun": 321,
-    "itucekirdek": 229
+    "itucekirdek": 229,
+    "sparklabs": 186,
+    "founderinstitute": 101
   },
   "unicorns": 152,
-  "exits": 2907,
+  "exits": 2955,
   "bCorps": 29,
   "currentSession": 69,
   "delisted": 819,
@@ -22,103 +242,104 @@
   "byStatus": {
     "active": 4867,
     "inactive": 1111,
-    "acquired": 924,
-    "public": 22
+    "acquired": 940,
+    "public": 23
   },
-  "founders": 15679,
+  "founders": 22020,
   "byYear": {
     "1990": 1,
     "1995": 1,
     "1996": 4,
     "1997": 1,
     "1998": 1,
+    "2000": 1,
     "2002": 1,
     "2004": 1,
     "2005": 9,
     "2006": 19,
-    "2007": 46,
+    "2007": 47,
     "2008": 54,
     "2009": 65,
-    "2010": 155,
+    "2010": 160,
     "2011": 265,
-    "2012": 376,
-    "2013": 371,
-    "2014": 506,
-    "2015": 736,
-    "2016": 801,
-    "2017": 876,
-    "2018": 933,
-    "2019": 1097,
-    "2020": 1135,
-    "2021": 1447,
-    "2022": 1537,
-    "2023": 1580,
-    "2024": 1561,
-    "2025": 1196,
-    "2026": 1161,
+    "2012": 380,
+    "2013": 374,
+    "2014": 518,
+    "2015": 754,
+    "2016": 824,
+    "2017": 890,
+    "2018": 959,
+    "2019": 1148,
+    "2020": 1219,
+    "2021": 1518,
+    "2022": 1690,
+    "2023": 1787,
+    "2024": 1850,
+    "2025": 1418,
+    "2026": 1242,
     "2027": 19,
     "2018.11": 1
   },
   "topCountries": [
     [
       "United States",
-      12190
+      12450
     ],
     [
       "Japan",
-      3143
+      3166
     ],
     [
       "United Kingdom",
-      931
+      1261
     ],
     [
       "Canada",
-      813
+      865
     ],
     [
       "India",
-      379
-    ],
-    [
-      "Germany",
-      355
-    ],
-    [
-      "France",
-      283
+      522
     ],
     [
       "Singapore",
-      282
+      486
+    ],
+    [
+      "Germany",
+      415
+    ],
+    [
+      "France",
+      381
+    ],
+    [
+      "South Korea",
+      362
     ],
     [
       "Turkey",
-      270
+      271
     ],
     [
       "Israel",
       256
     ],
     [
-      "Mexico",
-      223
+      "Australia",
+      239
     ],
     [
-      "South Korea",
-      154
+      "Mexico",
+      224
     ],
     [
       "United Arab Emirates",
-      150
+      171
     ],
     [
       "Italy",
-      148
-    ],
-    [
-      "Australia",
-      122
+      151
     ]
   ],
   "topCities": [
@@ -666,11 +887,11 @@
   "topIndustries": [
     [
       "Fintech",
-      3027
+      3033
     ],
     [
       "AI",
-      1917
+      1944
     ],
     [
       "SaaS",
@@ -690,11 +911,11 @@
     ],
     [
       "Healthcare",
-      920
+      1010
     ],
     [
       "Infrastructure",
-      759
+      761
     ],
     [
       "Developer Tools",
@@ -718,7 +939,7 @@
     ],
     [
       "Energy",
-      566
+      567
     ],
     [
       "Health",

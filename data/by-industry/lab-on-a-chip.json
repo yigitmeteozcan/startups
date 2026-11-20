@@ -30,7 +30,29 @@
     "teamSize": 16,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Akwasi Apori",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/akwasi-apori-465b5211/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aead751f8c7e0367eb128f8f71a16b8255cc7f2f.jpg",
+        "active": false
+      },
+      {
+        "name": "Kursad Araz",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kursadaraz",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/67065f7e4c3f0fc03e853b3aa16cfb48bb290473.jpg",
+        "active": false
+      },
+      {
+        "name": "Samuel Tia",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/samtia/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de81784e531e00400bebab8b65511031d0328690.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -28,7 +28,15 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Craig Soules",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/craigsoules",
+        "bio": "Founder of Springtail -- providing horizontal scale-out to existing Postgres instances without requiring migration or application changes. Before that, founder of Natero (S12) and before that CS PhD focused on data storage, databases and distributed systems. Also very interested in increased business efficiency through improved business operations.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3ea0129f1397175354108d6dcfb2ccc188bd4c1f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -69,7 +77,23 @@
     "teamSize": 106,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ted Blosser",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tedblosser",
+        "twitter": "https://www.twitter.com/tedblosser",
+        "bio": "CEO at WorkRamp, acquired by Learning Pool / Marlin Equity.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e30ca35e023f2e55a44c1a4b446fcec7a6dcd2d.jpg"
+      },
+      {
+        "name": "Arsh Mand",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/arshmand",
+        "bio": "CTO, WorkRamp",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b41cca2b5ed7f4d69f09824ebd66469d847d1a15.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -113,7 +137,25 @@
       "Undertime",
       "Midtype"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nilkanth Patel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nilkanth-patel-75346134/",
+        "twitter": "https://twitter.com/nilkanthjp",
+        "bio": "<3 all things frontend/design. Started out in journalism, reporting and interviewing. Then transitioned to software where I continued interviewing, albeit with a different end in mind.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/561c1f557f2e9abc9702e8541e6ec8052b115f7c.jpg",
+        "active": false
+      },
+      {
+        "name": "Jay Patel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jayisms/",
+        "twitter": "https://twitter.com/jayisms",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/32d6cae9043695911ef589462b80d0222e5e4cab.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

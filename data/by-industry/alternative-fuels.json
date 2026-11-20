@@ -31,7 +31,22 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kyle Faller",
+        "role": "Founder/CEO & CTO",
+        "linkedin": "https://www.linkedin.com/in/kyle-faller-272b42109/",
+        "bio": "Previous Powertrain Engineering at Alta Motors and Mechanical Drive Systems Engineering at Tesla. Long time automotive enthusiast and lover of all things energy and engine-related. For fun I build performance engines and custom motorcycles.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d44228a3d3694f32aa46d3df76da1b423d2aa6f8.jpg"
+      },
+      {
+        "name": "Chris Mathew",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-mathew-0bbb26128/",
+        "bio": "Waterloo BMath, MAcc, CPA. Previous Corporate Tax at KPMG and Quantitative Developer at Scotiabank.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f8b9aa997476b6eff3236361ee338abd8de8043f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

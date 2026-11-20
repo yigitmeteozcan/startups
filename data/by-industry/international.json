@@ -29,7 +29,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Fahim Aziz",
+        "role": "Founder/CEOM",
+        "linkedin": "https://www.linkedin.com/in/fahimmaziz",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/96a74e1c4f4352aa6684d1fe37802d6a3cbbbc02.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -73,7 +80,24 @@
     "formerNames": [
       "Trusu"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Osman Mendoza",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ozmendoza/",
+        "bio": "I previously co-founded Trusu (YC W17), which exited in 2019. Undergrad at Stanford. I’ve spent most of my career building around Asia–Latin America trade, and now focusing on cross-border payments, stablecoins, and financial infrastructure, with experience scaling startups and expanding across international markets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6add6528448c86b3cd54061fe6b620cdf8f4819.jpg",
+        "active": false
+      },
+      {
+        "name": "James Steinberg",
+        "role": "Founder/Managing Director",
+        "linkedin": "https://www.linkedin.com/in/james-steinberg-3a0a4b30/",
+        "twitter": "https://twitter.com/darefailed",
+        "bio": "Darefail.com Building AI & Robots in Public",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9fd05c0205f1c5141ed3342922b5bd038f208e6a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

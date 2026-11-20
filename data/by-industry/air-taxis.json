@@ -28,7 +28,31 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matt Voska",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/voska/",
+        "twitter": "https://twitter.com/mattvoska",
+        "bio": "ops heavy, technical cofounder | dual rated pilot 🛩️ 🚁 | based in Brazil 🇧🇷",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7a63f235cea710a30abebf9e4d630f9eda6ea449.jpg",
+        "active": false
+      },
+      {
+        "name": "Alan Guichard",
+        "role": "Founder/CFO",
+        "linkedin": "https://www.linkedin.com/in/alan-guichard-326a4732/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/30b35a7b9fb063b39b94a3069d913c9e959d1ecd.jpg",
+        "active": false
+      },
+      {
+        "name": "Andrew Mass",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/massandrew",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/86b49d5f9df7414559874a5e5d0ae6e641c3f2e3.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -72,7 +96,15 @@
     "teamSize": 33,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Charles Acknin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/charlesacknin",
+        "bio": "Software Engineer turned Chief Email Officer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4d6b88b66f3363f857e0d2909a3aca9b839d7710.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -119,7 +151,15 @@
     "formerNames": [
       "Loonify Space"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sohrab Haghighat",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sohrabhaghighat/",
+        "bio": "Sohrab is a 2x YC founder, currently running Hestus, Inc (S24). Prior to that, Sohrab was founder and CEO of SpaceRyde (W19), a space transportation company, and ran the company for 6 years before selling the IP. Before starting SpaceRyde, Sohrab was an early employee of Cruise and ran Planning and Controls Teams. Sohrab holds a PhD in Aerospace Engineering, has published 13 patents and 23 technical papers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/313bc40c9476e7147d5e842b8bae9ad2b330cad9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -161,7 +201,20 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Boris Jarry",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/boris-jarry-24451b14",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e347e9bb7d072872b7862f541889044e4de7e7ac.jpg"
+      },
+      {
+        "name": "David Mayman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/davidmayman",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c96a0a2352c56c91fee1eb427d3e59b7178703c9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -207,7 +260,22 @@
     "formerNames": [
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jamie Gull",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jamie-gull/",
+        "twitter": "https://twitter.com/jamiegull",
+        "bio": "Jamie graduated from Stanford University with bachelor's and master's degree in Aerospace Engineering. He then joined Scaled Composites as an aircraft design engineer Jamie then moved to SpaceX where he was the responsible engineer on the aft thermal shield of the Falcon 9 rocket that enabled the first hypersonic reentry of an orbital rocket and reuse of the first stage. He now runs Wave Function Ventures, investing in early stage hardware.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f5f0d888e28ab071586ae788e521a52bb3ddef3.jpg"
+      },
+      {
+        "name": "Evan Mucasey",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/evan-mucasey-878655108/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f653bb3243708ec83a35230d8eb92a0bd2621ff.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

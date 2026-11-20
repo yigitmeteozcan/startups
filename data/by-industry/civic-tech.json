@@ -31,7 +31,27 @@
     "teamSize": 23,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sam Stoddard",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/samcstoddard",
+        "twitter": "https://twitter.com/SamStoddard1",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/625ac858332d2012975fbe7365fcfb23e873e11f.jpg"
+      },
+      {
+        "name": "Ayde Soto",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ayd%C3%A9-soto-1a329138",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5dfe8b8e18f1f6bbfb5b45514d4beed318c3699a.jpg"
+      },
+      {
+        "name": "Brady Stoddard",
+        "role": "Founder/CMO",
+        "linkedin": "https://www.linkedin.com/in/bradystoddard",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a7c9f346e52e0a1c1d6bdd2838825becb1b68463.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -72,7 +92,15 @@
     "isHiring": false,
     "stage": "Early",
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Guido Vilariño",
+        "role": "Founder/CTO",
+        "linkedin": "http://www.linkedin.com/in/guidovilarino",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bf3091e823b79ecb4a638e1efae800fc0815ee20.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -118,7 +146,20 @@
       "Inc",
       "BuildingBlocks"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Kieve",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj-xbmHxsLPAhXKHB4KHTDwBQkQFggeMAA&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrew-kieve-7848974b&usg=AFQjCNHRNivmcnPOhVKZdSiXZK7NpI6FGw&bvm=bv.134495766,d.dmo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/475c1add03c998231de2cfc43f8fba8f3c8a8f93.jpg"
+      },
+      {
+        "name": "Nico Tejera",
+        "role": "Founder/CTO",
+        "linkedin": "http://linkedin.com/in/nicotejera",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/26c9bc984a1a0f4a4a3a1edc5c27abdb98fcef9d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -162,7 +203,15 @@
     "formerNames": [
       "Outvote"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Naseem Makiya",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/naseem-makiya-36522a31/",
+        "bio": "Naseem (he/him) is the founder of Outvote–a digital organizing platform for campaigns and causes. Outvote empowers volunteers to organize the people they know via text, email, and social media. Outvote then connects that work to the infrastructure of major campaigns and national organizations that have been doing similar work for decades. When he isn't pitching or writing code, Naseem can be found being a foodie with his wife, Pennylynn, and going on long walks with his dog, Lucy.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e59c5b034036b7dd45e2c24c83a885cd2c3b17c7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -204,7 +253,15 @@
     "isHiring": false,
     "stage": "Early",
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Laura Hackney",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/laura-hackney",
+        "bio": "Laura Hackney is a human rights advocate and full-stack software engineer from Atlanta, GA. She is the CEO and Cofounder of AnnieCannons, a national organization dedicated to training, preparing, and connecting individuals who have experienced human trafficking to sustainable careers in tech. Prior to AnnieCannons, Laura managed the Program on Human Rights at Stanford University’Freeman Spogli Institute. She also worked as the Senior Research Associate for Stanford’s Anti-Trafficking Project.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/82b51c98763b424d0a49d8e9fd0979a0413f95cf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -246,7 +303,21 @@
     "isHiring": true,
     "stage": "Early",
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joshua Essex",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joshuaessex/",
+        "bio": "Co-founder and CTO, Recidiviz. Previously: Principal Engineer and Architect, Opower.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f3c4526fb93438c0263b56f5a918b149c9b16bd.jpg"
+      },
+      {
+        "name": "Clementine Jacoby",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/clementine-jacoby-50578483/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2689e843699ca3d39e0c837d323c559c22601918.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

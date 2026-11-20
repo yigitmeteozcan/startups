@@ -27,7 +27,21 @@
     "teamSize": 50,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jesper Theil Thomsen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/profile/view?id=AAIAABVMXEgBw5e16NKx-jQOYprAiCu8I34aBw8&trk=nav_responsive_tab_profile_pic",
+        "bio": "I'm the CEO & co-founder of SOUNDBOKS. I'm based in Copenhagen.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9db3223d6b91c217f742370b2fcce0ee3be9d160.jpg"
+      },
+      {
+        "name": "Christoffer Nyvold",
+        "role": "Founder/COO",
+        "linkedin": "https://dk.linkedin.com/pub/christoffer-nyvold/101/84a/b38",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/715cf78d9658af6deee3db65f95b4c9fe7821a28.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -69,7 +83,32 @@
     "formerNames": [
       "Peergrade"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Kofoed Wind",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/utdiscant",
+        "twitter": "https://twitter.com/utdiscant",
+        "bio": "Co-founder and CEO of Agentwork Co-founded EdTech startup Eduflow (acquired by Multiverse). Senior Director of Product at Multiverse. PhD in machine learning. IOI participant.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2beb7ad94d7df18aa618031530f0b27146ee30a9.jpg"
+      },
+      {
+        "name": "Malthe Jørgensen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/malthejorgensen",
+        "twitter": "https://twitter.com/malthejorgensen",
+        "bio": "CTO of Eduflow (formerly Peergrade) Been programming since I was 12, I have a B.sc. in Physics and I love all things technical – with a special love for math and programming puzzles.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39ba80343448e7aa55b957cb9653236f543d15f1.jpg"
+      },
+      {
+        "name": "Simon Lind",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/simonlind",
+        "twitter": "https://twitter.com/simonlind",
+        "bio": "Designer & co-founder @ Eduflow. simonlind.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/27df765b4e4f10e3b35e36d807a5e32c015dfca5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

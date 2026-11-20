@@ -71,7 +71,29 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Chiu",
+        "role": "Founder/CEO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f2ecc48fe64442f89b95922797979c4eb93ab16.jpg",
+        "active": false
+      },
+      {
+        "name": "Yuhao Ding",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/yuhaoding",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/87c3b8beb4ac60cc57cfd4f54cf7c9cfd96678ac.jpg",
+        "active": false
+      },
+      {
+        "name": "Stephen Oakley",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bf176cf712b740356c2f44f5670b9778090962b5.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -115,7 +137,49 @@
     "formerNames": [
       "Pair"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Oleg Kostour",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/olegkostour/",
+        "twitter": "https://x.com/olegkostour",
+        "bio": "Oleg Kostour is a 2nd time YC founder and Waterloo alum. He founded Pair (YC W12), a messaging app that received 10M installs and reached the top charts in the iOS social networking category. He closed 2 acquisitions - with Dropbox, then Life360 - and ran the Growth team at Life360 from ~3M rMAU through to their IPO (~90M MAU).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ff761ae7310a93ecd5707a50f3feb78719dd3524.jpg",
+        "active": false
+      },
+      {
+        "name": "Anton Krutiansky",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/antonkrutiansky",
+        "bio": "Anton Krutiansky is a second-time YC founder, Waterloo alum, and former tech lead at Dropbox. He co-founded Pair (YC W12) and played a key role in its acquisition by Dropbox. At Dropbox, Anton served as a tech lead on growth and mobile teams, building growth and experimentation infrastructure and leading mobile engineering across several product teams.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/29725cd7fecac6ba53fec05640e0f0d22b137191.jpg",
+        "active": false
+      },
+      {
+        "name": "Michael Petrov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/petrovmichael/",
+        "twitter": "https://twitter.com/mpetrov",
+        "bio": "Founder of Couple (W12), a messaging app for couples. iOS at Dropbox (via acquihire), currently tech lead on the GPT-3 API / Applied AI team at OpenAI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3e19f4e395970c1cd136165ee242620d888c137d.jpg",
+        "active": false
+      },
+      {
+        "name": "Aswinkumar Rajendiran",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aswinrajendiran/",
+        "bio": "Founder and CEO at Maple (https://www.maplebilling.com) Ex-YC (Couple W12), Employee #1 @Rippling W17. University of Waterloo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d6870dcbe0424efbd4a2a898361f4912683da129.jpg",
+        "active": false
+      },
+      {
+        "name": "Jamie Murai",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/be2e226145080c968ebf21197deb902b3274ef79.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -156,7 +220,43 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Henry Liu",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/liuhenry/",
+        "twitter": "https://twitter.com/liuhenry",
+        "bio": "I’m currently working on robotics and continual learning, particularly how agents learn through real-world experience.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/66bbfbc1c62f45321e6656a9b4ac95090631c64d.jpg",
+        "active": false
+      },
+      {
+        "name": "Ajay Mehta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ajayumehta",
+        "twitter": "https://twitter.com/ajaymehta",
+        "bio": "Founder/operator of Portola (https://www.tolans.com/), Birthdate Co., and Therapy Notebooks. Designed, built, and grew these products to millions of customers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a63d22aecf1c62586e784e0599ead820c1db30b4.jpg",
+        "active": false
+      },
+      {
+        "name": "Brandon Paton",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bpaton",
+        "twitter": "https://twitter.com/bpaton",
+        "bio": "Founder of Localize, a translation management platform for companies expanding into international and multilingual markets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c9e7235cef9c1778ca111c1a8acf16ca47a20098.jpg",
+        "active": false
+      },
+      {
+        "name": "Wesley Zhao",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wesleyzhao",
+        "bio": "wesleyzhao.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/701e0b987846980b9ae4b7864062dccda5704731.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -198,7 +298,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Zafer Ahmed",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d39c157ff0a7b0405375df0974ebcc3a54cbd526.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -242,7 +349,16 @@
     "formerNames": [
       "Hiptic"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "George Deglin",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/gdeglin",
+        "twitter": "https://twitter.com/gdeglin",
+        "bio": "Technical Founder & CEO of OneSignal (YC S11 and YCG S20). OneSignal helps businesses send Push Notifications, Email, SMS, and In-App messaging to develop engaged and loyal customers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c819207473aff772fae44b3daa7b41ff1795da05.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -282,7 +398,34 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jason Corwin",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jsoncorwin/",
+        "twitter": "https://twitter.com/jsoncorwin/",
+        "bio": "Co-founder and CEO @ Safely Finance (YC S19). TellFi (YC W11). Father, husband. Virginia Tech alum. Former volunteer firefighter. I've consulted for Apple, MLBAM (Advanced Media), Beats Audio and others in the past.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/45fcb9cdeeec6f959235ce547622484c3bd16e7e.jpg",
+        "active": false
+      },
+      {
+        "name": "Conor Lee",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/conorlee",
+        "bio": "4x founder. Bootstrapped Hiplead to $8M ARR. Currently helping people see their future selves at Afters.me",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0061a9d3717c6ad1f430193c152700e0e8bb0963.jpg",
+        "active": false
+      },
+      {
+        "name": "Zain Memon",
+        "role": "Co-founder",
+        "linkedin": "https://linkedin.com/in/zainm",
+        "twitter": "https://x.com/zainy",
+        "bio": "CEO of Eureka (Khosla-backed). We run private medical practices: revenue up 31%, 9 hrs/week back per doctor, every note signed before the patient leaves. Movity (YC W10, acquired by Trulia). TellFi (YC W11). Founding team of Synapticure (YC S20, now GV- and B Capital-backed, all 50 states). Also Google, Voltage Security (acq. by HP), Trulia (IPO), and Opendoor (IPO), where I was Deputy Chief of Staff to the CEO from 92 to 2,500 people.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9a0ea4e4449cf9dfe3ca112914b83e46a9d483b1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -323,7 +466,32 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Leah Culver",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/leahculver",
+        "twitter": "https://twitter.com/leahculver",
+        "bio": "iOS and Python developer. Co-author of OAuth and oEmbed. Angel investor. Formerly: Twitter, Breaker (YC W17), Dropbox, Pownce, Convore (YC W11), Grove.io.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e4ac5ed930610d0e2bada65b9905e99bc378ce31.jpg",
+        "active": false
+      },
+      {
+        "name": "Eric Florenzano",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/pub/eric-florenzano/9/348/795",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7f7b504dfb62900ccf2a0d62e4b263593755af20.jpg",
+        "active": false
+      },
+      {
+        "name": "Eric Maguire",
+        "role": "Founder/Designer",
+        "linkedin": "https://www.linkedin.com/in/ericmaguire",
+        "twitter": "https://twitter.com/etmaguire",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/85e0ffb6ca6bd198b73490988eca4ea066d53fc6.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -362,7 +530,31 @@
     "status": "acquired",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Qasar Younis",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/qasar/",
+        "bio": "Founder of Applied Intuition",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d0d933c68b6bc614915d118c6874c964cd2a0448.jpg",
+        "active": false
+      },
+      {
+        "name": "Sunny Dhillon",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dhillons",
+        "bio": "Proven leader with hands-on development and management experience in designing, building, and delivering scalable, fault-tolerant, highly-available user-facing applications in complex technical, organizational and market environments. Managed teams of 35+ across web, Android, and iOS. Previous roles with Google Search, Gmail, Google Chat, Verily, and Google Maps. Co-founder of TalkBin (W11). Acquired by Google in 2011.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6943fa4372257ee3ea7f079269be489f7a0771f1.jpg",
+        "active": false
+      },
+      {
+        "name": "Michael Ma",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/michaelma8/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed0cba5997dcced997d4472abd563512e6ea5e08.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -402,7 +594,23 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jason Gavris",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jgavris",
+        "bio": "YC Summer 2010 - 77mass, Inc",
+        "avatar": "https:///avatars/thumb/missing.png"
+      },
+      {
+        "name": "Amanda Peyton",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/amandapey/",
+        "twitter": "https://twitter.com/amandapey",
+        "bio": "Happy to be here",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/04fd443fa9fd236505ca53ddfaaede8ebb6305bf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -442,7 +650,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joshua Wilson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/makanikai/",
+        "bio": "MIT06, YC W07, founder of 3 venture-backed companies, love helping other startups.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ca9dd5dc6ce7b6d3f3a966e27cfcab11288a4304.jpg",
+        "active": false
+      },
+      {
+        "name": "Adam Bouhenguel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adam-bouhenguel-a587951",
+        "twitter": "https://twitter.com/ajbouh",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8440f9a50b8c5a6cc7d8749d8839b11cc984957c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -482,7 +707,41 @@
     "status": "acquired",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gustaf Alstromer",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/gustafalstromer/",
+        "twitter": "https://twitter.com/gustaf",
+        "bio": "General Partner at YC",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/682809fc93449c44da6edefb364ed69210679c4b.jpg",
+        "active": false
+      },
+      {
+        "name": "Marie Brattberg",
+        "role": "Founder/Product Manager",
+        "linkedin": "https://www.linkedin.com/in/mariebrattberg/",
+        "bio": "Chief Strategy Officer, Recorded Future",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/04985c8393e8c390dd5be05bf4a5a658d90ebfb9.jpg",
+        "active": false
+      },
+      {
+        "name": "Pär Lindhe",
+        "role": "Founder/Product Development / UX lead",
+        "linkedin": "https://www.linkedin.com/in/parlindhe",
+        "bio": "2024- Creating Camthis: Multi-cam live event streaming and highlights of any event by just using smartphones. Co-founded Heysan - A mobile cross-protocol chat app and community - Eventually aquired Later created Candid - a SaaS for recruiters to communicate with the employer during headhunting projects. Active with paying high retention customers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b8f01d57f4939a95c8827ceedfde082ec1ed264c.jpg",
+        "active": false
+      },
+      {
+        "name": "Parham Michael Ossareh",
+        "role": "Founder/developer, tech dude",
+        "linkedin": "https://www.linkedin.com/in/ossareh/",
+        "bio": "making things.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ac3dd9cf7f9b9743182564696d6406ff3af34b61.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -521,7 +780,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Arda Kara",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/fardakara/",
+        "twitter": "https://twitter.com/ardakara",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e3d5a7379d903bb2e67cb3c4731013b63f5afe1c.jpg",
+        "active": false
+      },
+      {
+        "name": "Alexander Blessing",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexblessing/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d80d8579d4ae170cd9b47f07af1b03bfd901c932.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -560,7 +835,14 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dann Petty",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6739cbdd8b7eac0838695bf57eebc43a86c3f7e4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -600,7 +882,39 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ian Baker",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/raindrift/",
+        "twitter": "https://twitter.com/raindrift",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4626ddbd69ed8a089d58d26acbc23583bcab251e.jpg",
+        "active": false
+      },
+      {
+        "name": "Aaron Muszalski",
+        "role": "Founder/Growth Marketing",
+        "linkedin": "https://www.linkedin.com/in/aaronmuszalski/",
+        "twitter": "https://twitter.com/aaron_muszalski",
+        "bio": "Executive Director, Burning Wish. Founder, Threadable (acquired). Black Rock City DPW. Not surviving cancer—surpassing it.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/efddcce46b3a19eea0c98f6d6294ef7549ae2dbe.jpg",
+        "active": false
+      },
+      {
+        "name": "Nicole Aptekar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicoletbn",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/73827fc216b5ecd3f1f7f2125abc90da88e372ee.jpg",
+        "active": false
+      },
+      {
+        "name": "Jared Grippe",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/deadlyicon",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fae444cf7ffdfe9991ab94881fa63539ea5dc99a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -640,7 +954,31 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Wael Nafee",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/wael-nafee-2b78abb/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d3e1ac52e07ad707fd4bb207c74d360ee9add559.jpg",
+        "active": false
+      },
+      {
+        "name": "Ahmed Galal",
+        "role": "Founder/Designer",
+        "linkedin": "https://linkedin.com/in/galalahmed",
+        "twitter": "https://twitter.com/AhmadGalal",
+        "bio": "Head of experience at Noon. ex-Careem, YCW14",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/076d5a4bedd40efe684874d473ffa94aa0387959.jpg",
+        "active": false
+      },
+      {
+        "name": "Mostafa Gazar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mostafagazar",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/31a823f769bdd377c80d4b7ee19d2f34588cd7eb.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -680,7 +1018,16 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anuj Jain",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/anujjain1981/",
+        "bio": "Founder of multiple companies across gaming, messaging and fintech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/69bf75d665e95720a5922fab7e9e47ecc50df8f0.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -721,7 +1068,25 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Glick",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/brianglick",
+        "twitter": "https://www.twitter.com/brianglick",
+        "bio": "Product @ Shopify, helping entrepreneurs get started. Ex-Facebook, GroupAhead, YouTube and Google. Dad & weekend biker.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c008b5f12b7e4b0dbe2e7b4a511d3e88385e66b4.jpg",
+        "active": false
+      },
+      {
+        "name": "Julian Frumar",
+        "role": "Founder/CTO",
+        "linkedin": "http://www.linkedin.com/in/jfrumar/",
+        "bio": "2 x YC technical founder (with 1 exit to Google). A mix of leadership and IC work over my career, dominated by zero-to-one product design & development in startups. Entrepreneurship has crafted me into a resourceful generalist, with a specialization in the Frontend stack & user-facing features. I'm continually excited to learn and delve deep into new technologies, and do what's required to help find product traction and achieve success.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d143fc76972f6503c26fbafce4993399a72e1cfc.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -762,7 +1127,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dhruv Mehta",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/dhruvkaran",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/959716d2345a95006cc55eba69e5056bdba02275.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -801,7 +1173,16 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matt Joseph",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/-mattjoseph/",
+        "twitter": "http://twitter.com/_mattjoseph",
+        "bio": "Previously led 3 venture-backed startups and 2 high performing teams at Amazon. Invested in and advised over a dozen startups.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/462096d95fdecc1a2b21ac04f48f6bdcf06c85c4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -841,7 +1222,20 @@
     "teamSize": 53,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dmitrii Dumik",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ddumik",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0a4a7afde28dab945ecf719cb0372b6f87404a15.jpg"
+      },
+      {
+        "name": "Artem Ptashnik",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/artem-ptashnik-828163bb/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ebf14f16afe8c64c0321c4d0a5fe5e566d6fa19a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -888,7 +1282,24 @@
       "Prompt",
       "Message.io"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tom Hadfield",
+        "role": "Founder/CEO",
+        "linkedin": "http://www.linkedin.com/in/hadfieldtom/",
+        "twitter": "http://twitter.com/tomhadfield",
+        "bio": "Tom Hadfield is a British entrepreneur whose first company, Soccernet.com, was sold to ESPN for $40 million when he was 17 years old. Today, Tom is the CEO of Mio, an enterprise messaging startup based in Austin, Texas backed by Y Combinator, Khosla Ventures and Capital Factory. Tom graduated from Harvard University in 2008 and he is a board member at Heifer International, a charity working to end hunger and poverty around the world.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/599f444df9da03ee4e0d009e5726cac755ebe98d.jpg"
+      },
+      {
+        "name": "James Cundle",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jamescundle/",
+        "twitter": "https://twitter.com/jamescundle",
+        "bio": "Repeat technical co-founder, security first engineer with multi-stack and devops experience applied to multiple verticals over the last 20+ years. Excellent track record of delivering projects for creative business thinkers. Big picture awareness, rapid prototype and forward thinker in fast moving, small team environments. Solid experience in delivering compliance and SOC2 in a start up environment.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ff46176c7cf2da933a35524259f416d0caaf8ed5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -931,7 +1342,14 @@
     "teamSize": 30,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yang Forjindam",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yangforjindam",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8bf3591b6e8bf1ef679412c770a5e692bbfe5e55.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -975,7 +1393,26 @@
     "formerNames": [
       "MessageBird"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Robert Vis",
+        "role": "Founder/CEO",
+        "linkedin": "http://linkedin/in/robertvis",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cb254aff15313d552d84b90655681a2839614a3c.jpg"
+      },
+      {
+        "name": "Bob Violier",
+        "role": "Founder/CTO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/79744c839df01828477fb232aaa99c7f9d023d48.jpg"
+      },
+      {
+        "name": "Joey van Ommen",
+        "role": "Founder/Head of Product & Partner",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e7edaf0c2dcaa80e4615a8cdb87046180a0c59e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1015,7 +1452,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Helson Taveras",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/helsontaveras/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e023012d3dbf7cf5e7547f93c7d9ab3abfbe0afd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1057,7 +1501,16 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Zane Salim",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/zanesalim",
+        "twitter": "https://twitter.com/zanes",
+        "bio": "Building things that solve problems for people",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8ef51bf68ab2920f2a8a3b96dc22dfa1e063ec3c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1098,7 +1551,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rotem Yakir",
+        "role": "Founder/CEO/CTO",
+        "linkedin": "https://www.linkedin.com/in/rotemyakir/",
+        "twitter": "https://twitter.com/yakirrotem",
+        "bio": "Golfer, hands-on tech 3x entrepreneur. YC S17 Alumni with over 19 years of experience building APIs, enterprise platforms, web/mobile and blockchain products. My products reach over 100M users and processed over $100M in transactions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bbd5aadc2d09acee543fd8b17c563867a4731b73.jpg"
+      },
+      {
+        "name": "Shahar Yakir",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/shahar-yakir-1895a13",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/56ac22fa7a40e52aead95df07d10da350cc97434.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1140,7 +1608,14 @@
     "formerNames": [
       "Glowing"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jasen Lew",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jasenlew",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f0c06f31d8b1b9523d90da606846a0f79274863.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1184,7 +1659,15 @@
     "formerNames": [
       "Statecraft"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yury Lifshits",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/lifshits",
+        "twitter": "https://twitter.com/yurylifshits",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8dbdef9f3798cfd7bf41293a91bbce8c96908dae.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1267,7 +1750,21 @@
     "formerNames": [
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Felipe Otálora",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/felipe-otalora-813442147/",
+        "bio": "Hi! I'm Felipe",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/37f6e9f3d6d9c1bdc7e4e17c7d0b5432ae054cd5.jpg"
+      },
+      {
+        "name": "Sebastián Valencia",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/418540e9f461a9b3561c745736c0dddc054e2b3d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1380,7 +1877,24 @@
     "teamSize": 24,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alec Ellin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alec-ellin/",
+        "twitter": "https://twitter.com/AlecEllin",
+        "bio": "CEO at Laylo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1d59341c46a1e22a9892bb366ecf838e55021c61.jpg"
+      },
+      {
+        "name": "Sajan Sanghvi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sajan-sanghvi-77b638a0",
+        "twitter": "https://twitter.com/nosuitsnotrends",
+        "bio": "CTO @ Laylo laylo.com Producer @ no suits",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/763da7eebcfaf9d7ae09b851d04afa5266c211db.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1424,7 +1938,25 @@
     "formerNames": [
       "Dumps"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Seth Harris",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/harrisseth/",
+        "bio": "Seth graduated from Yale, worked at McKinsey and then left to do what everyone does: open a nightclub in NYC. He owned and operated several Manhattan bars and restaurants before founding Breadcrumb, a fully-featured hospitality point-of-sale acquired by Groupon. Seth was VP POS & Payments Product at Groupon, where he grew the business to thousands of customers and tens of millions in revenue.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7384e33a4d6b651813afc616354b16769b5f919e.jpg",
+        "active": false
+      },
+      {
+        "name": "Jesse Boyes",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jesseboyes/",
+        "twitter": "https://twitter.com/jexe",
+        "bio": "Human-computer liaison",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8e4bf438e2cdb2d0c7b10cd611282ac5bba16edd.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

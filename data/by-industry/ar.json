@@ -33,7 +33,25 @@
       "HealthSkout",
       "MedicalBnB"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jaime Bueza",
+        "role": "Founder/CTO",
+        "linkedin": "https://ca.linkedin.com/in/jbueza",
+        "twitter": "https://twitter.com/jbueza",
+        "bio": "\"People, products, profits -- in that order\" ---- CTO, Co-founder @ ConstructVR (W16) (Inactive)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/96d556064ba202c5d12122da5070991d8fcd0bb9.jpg",
+        "active": false
+      },
+      {
+        "name": "Chris Tan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chrismtan",
+        "bio": "I spent the last 15+ years building software used by Enterprise customers from Wells Fargo to Verizon and am still passionate about making an impact in the world before my time is up. I’m a technical YC Alumni that has experience as a CEO, Product Manager, Backend Engineer, and Director of QA.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ee7670e71a0449cd22c9df33e8472b5c2cc90ccd.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -79,7 +97,21 @@
     "formerNames": [
       "Lollicam"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Chong",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michong/",
+        "bio": "over 20 industry experience of technical marketing, product planning, new biz dev. in Samsung, SK, Tellabs and Seerslab.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c4056b5e4762bad219bf0755a40665f474c3a56.jpg"
+      },
+      {
+        "name": "JaeCheol Kim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jc-kim-258b87b2/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a10f6834831cbfb1634f2a5fc66036a8274ebc30.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -119,7 +151,20 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Charles Duffy",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/charles-duffy-6573ba62/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f87b78e86794a59ac893e5b0a8e710b69f56e527.jpg"
+      },
+      {
+        "name": "Matt Hogbin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matt-h-774901205/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/63503c25ceb0fa718cdae2d582ad0cba60c2585f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -166,7 +211,15 @@
       "RamenVR",
       "Zenith"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andy Tsen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/profile/view?id=62805976&trk=nav_responsive_tab_profile",
+        "bio": "CEO/Co-founder of Ramen VR. Product/Engineering/Game Development.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/816ca047f6b76772396ec6e9d29b7824acd3147d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -345,6 +398,135 @@
     },
     "extra": {},
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "sparklabs-doubleme",
+    "source": "sparklabs",
+    "name": "DoubleMe",
+    "description": "DoubleMe was co-founded in March 2015 by Kim Hee-kwan (current CEO), Michael Kuzynski (current COO), and Kim Hee-young (current CFO), and has grown through SparkLabs Accelerator Cohort 5 and Samsung C-Lab. The company has built up immersive capture technology,",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-237190853_wl0ImxWO_bad655d1e9a6b3479b551ea544d2d0f9a1cd2b4e_400x225.jpg",
+    "website": "https://ko.doubleme.me/",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/doubleme/",
+    "location": "USA",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "AR, VR",
+      "AR"
+    ],
+    "year": 2015,
+    "program": "SparkLabs Batch 5",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Kim Hee-kwan",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/doubleme/",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://www.facebook.com/doublemeVR/",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "sparklabs-thirteenth-floor",
+    "source": "sparklabs",
+    "name": "Thirteenth Floor",
+    "description": "Thirteenth Floor aspires to become the Netflix of VR.The company possesses the production capability to create both world-class cinematic and interactive VR content, along with immersive audio expertise and a fully in-house production pipeline. Through technol",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-237190853_K5X7hfIZ_32112b53163885595832b3dc4bc073ef51f1741e_400x225.jpg",
+    "website": "http://thirteenthfloorcorp.com",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/thirteenth-floor/",
+    "location": "Korea",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "AR, VR",
+      "AR"
+    ],
+    "year": 2015,
+    "program": "SparkLabs Batch 12",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Park Jung-woo",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/thirteen-floor/about/",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://www.facebook.com/thirteenthfloorvr/",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Korea"
+    },
+    "country": "South Korea",
+    "alsoIn": []
+  },
+  {
+    "id": "sparklabs-urbanbase",
+    "source": "sparklabs",
+    "name": "Urbanbase",
+    "description": "Founded in 2014, Urbanbase is a 3D spatial data specialist company that possesses core modeling technology for automatically converting 2D blueprints into 3D, as well as key technologies in metaverse domains such as virtual reality (VR) and augmented reality (",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-3556508744_Rilmfkwp_31ddf68a8ee1be37fea6f5a6c0487c551453976f_400x225.jpg",
+    "website": "https://urbanbaseshop.cafe24.com/",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/urbanbase/",
+    "location": "Korea",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "AR, VR",
+      "AR"
+    ],
+    "year": 2014,
+    "program": "SparkLabs Batch 4",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "하진우",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/urbanbase/",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://facebook.com/SparkLabsKorea",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Korea"
+    },
+    "country": "South Korea",
     "alsoIn": []
   }
 ]

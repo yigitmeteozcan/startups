@@ -289,7 +289,34 @@
     "formerNames": [
       "Fintual Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pedro Pineda",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/pedro-pineda-42066923/fi",
+        "bio": "the least intelligent cofounder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e4798eb8a59c6883a66dfc1c003a628cdbe4eab.jpg"
+      },
+      {
+        "name": "Agustín Feuerhake",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/agustinfeuerhake/",
+        "twitter": "https://twitter.com/agustinf",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/88e35b8c1d56d08160bf2634a20786291a96440b.jpg"
+      },
+      {
+        "name": "Omar Larré",
+        "role": "Founder",
+        "linkedin": "https://cl.linkedin.com/in/olarre/en",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c48a0bf50a70d522d096d6f55a7c63d59acee8b3.jpg"
+      },
+      {
+        "name": "Andres Marinkovic",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/pub/andr%C3%A9s-marinkovic/68/806/767",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0dce59e9309d8b1aefc7fd4cc2301c8037ec8c94.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -330,7 +357,23 @@
     "teamSize": 190,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nicolás López Jullian",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicolaslopezj/",
+        "twitter": "https://twitter.com/nicolaslopezj",
+        "bio": "Founder & CPO at Justo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bd6aae58c642e185f276afe6f3fa2c79eec2092b.jpg"
+      },
+      {
+        "name": "Rodrigo Segal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rodrigosegal/",
+        "bio": "CEO & Cofounder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b8c67247b163cfd55642da3826c4609756cd7ed6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2220,7 +2263,15 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Guillermo Teare",
+        "role": "",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1786973335/sasrm6qvvniyqlsl7g1c.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/5qxt/",
       "twitter": "",
@@ -2261,7 +2312,15 @@
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 2500000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Bravo",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/dr-david-bravo-lópez-922273ba/",
+        "twitter": "https://twitter.com/PannexTherap",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1643227135/le9iiubgz0fqg2soxxiu.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/pannex-therapeutics/",
       "twitter": "https://twitter.com/PannexTherap",
@@ -2301,9 +2360,69 @@
     "isCurrentSession": false,
     "stage": "Growth",
     "teamSizeRange": "201-500",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matias Muchnick",
+        "role": "CEO & Founder",
+        "linkedin": "https://linkedin.com/in/mmuchnick",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1510638139/ux809opgbeyrwbxh22zf.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Pablo Zamora",
+        "role": "CSO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/pablo-zamora-b5033b16",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1550186992/d0sufqwkyyk0x5goictw.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Karim Pichara",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/karim-pichara-baksai-89903432/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522909442/qqpdjiwqckofytqe94gi.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/the-not-co-/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Chile"
+    },
+    "country": "Chile",
+    "alsoIn": []
+  },
+  {
+    "id": "founderinstitute-goplaceit",
+    "source": "founderinstitute",
+    "name": "GoPlaceIt",
+    "description": "GoPlaceIt is a real estate marketplace for commercial and residential property search and alerts, as well as to lease, buy and sell. They raised $5M+ and were acquired by Capitalizarme in April 2022.",
+    "logo": "https://fi-hatchbox-production-active-storage-blobs.s3.amazonaws.com/bszfldk7vmwwr4u1xff54iyfl2ig",
+    "website": "https://www.goplaceit.com/",
+    "location": "Santiago, Chile",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": "",
+    "program": "Founder Institute",
+    "programSlugs": [
+      "founder-institute"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "acquired",
+    "founders": [
+      {
+        "name": "Daniel Ibarra",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""

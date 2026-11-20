@@ -29,7 +29,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeffrey Brice",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jeffreybrice",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/971e9e36995e6065c0ceac07bd56e4963462c199.jpg",
+        "active": false
+      },
+      {
+        "name": "Gabe Krambs",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/gabekrambs/",
+        "bio": "Cofounder at Compound Cofounder at CS DISCO (IPO 2021) YC W11 (TrustEgg) UW Law 2009",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8e1169ea68631dd1e3f67c9adf2e28391d7a7f78.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -70,7 +86,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Weiting Liu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/weitingliu/",
+        "bio": "Founder @ Arc.dev | Investor | Non-Duality | Host @ Founder Meditations",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e52eb00839469d5ae953da0bb9dd58671f33cda5.jpg",
+        "active": false
+      },
+      {
+        "name": "Keven Lin",
+        "role": "Founder",
+        "linkedin": "",
+        "bio": "Investor in public and private companies since 2015. Co-founder of Damian's Project, supporting inclusive communities and funding breakthroughs in muscular dystrophy research.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/adb6132a6108756cd3115eafdba228788f2d372d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -113,7 +146,14 @@
     "formerNames": [
       "BigCalc"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rikin Shah",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/rik1shah",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/40a78bf30201b5ee06983ecf405e5b25ba5f1056.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -153,7 +193,35 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Danielle \"Elle\" Morrill",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/daniellemorrill/",
+        "twitter": "https://www.twitter.com/DanielleMorrill",
+        "bio": "Took my first startup job at 22 and I've been hooked ever since. I write over at https://www.ellemorrill.com/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/86034f679644c412d1780e61ed0f3a687994dd78.jpg",
+        "active": false
+      },
+      {
+        "name": "Al Abut",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/alabut/",
+        "twitter": "https://twitter.com/alabut",
+        "bio": "Designer/PM hybrid with multiple acquisitions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b3843d7fb1f162b3d384aa1b8af04f4f428e0def.jpg",
+        "active": false
+      },
+      {
+        "name": "Kevin Morrill",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kmorrill/",
+        "twitter": "https://twitter.com/mistermorrill",
+        "bio": "Former CTO at @Mattermark. Information theory. Software builder.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/14a4efbcedec5192157045ebd6a6e551c6affc74.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -195,7 +263,22 @@
     "teamSize": 35,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nick Tommarello",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/nicktommarello/",
+        "twitter": "https://twitter.com/nicktommarello",
+        "bio": "CEO, Wefunder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/118a57822eded3616dd8fee2e320221b15352851.jpg"
+      },
+      {
+        "name": "Greg Belote",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/gregbelote/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cc0cbe0f72ab3ffa1f376ec385e4b0df6c73cb0d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -240,7 +323,22 @@
     "formerNames": [
       "Vouchpop"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mike Palmer",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/michaeledwardpalmer/",
+        "twitter": "https://twitter.com/meponymous",
+        "bio": "Computer Scientist, Physicist. Worked at Inktomi (Web Search). Worked on Computational Biology and Machine Learning at Stanford. Angel Investor. Founder/CEO of ZipCam.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/806077263439b2b95d09a2ed59c84e4c7b100d25.jpg"
+      },
+      {
+        "name": "Brian Goler",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/briangoler",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/378e24a81746db08d4e767fb74825ef9fcae9743.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -281,7 +379,22 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mike Furlong",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/michael-furlong-6442b332",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d997630b29c6b598a1f5e7bcaea6599f5591e243.jpg",
+        "active": false
+      },
+      {
+        "name": "Akhil Lodha",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/akhillodha",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb5c86b65c9fd9d027928b456f9f0bd9d0d4140c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -325,7 +438,22 @@
     "formerNames": [
       "Spark Gift"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Peggy Mangot",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/peggymangot",
+        "twitter": "https://twitter.com/peggymangot",
+        "bio": "Partnerships and Corp Dev. at JPMorgan. Some angel stuff. Formerly PayPal Ventures, Wells Fargo, YC 2015, SparkGift (micro-investing), Partnerships at Google, Product at Visa",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/46bcf170ed3f092e61f9219cb0f0fb080ded5d77.jpg"
+      },
+      {
+        "name": "Bob Haigler",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/bobhaigler",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aae13e75d2be7b887e63ca508f6ed07751044f4b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -365,7 +493,24 @@
     "teamSize": 65,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Karan Sood",
+        "role": "Founder/CEO",
+        "linkedin": "http://www.linkedin.com/pub/karan-sood/0/370/b45",
+        "twitter": "https://x.com/soodk",
+        "bio": "Financial engineer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6f303c644950b775d2a6a9f19545b591553664a7.jpg"
+      },
+      {
+        "name": "Jeff Chang",
+        "role": "Founder/President",
+        "linkedin": "https://www.linkedin.com/pub/jeff-chang-cfa-cpa-cfe/51/90b/470/",
+        "twitter": "https://twitter.com/jeffchanginvest",
+        "bio": "Jeff Chang has over 25 years of experience in financial services and asset management, and is responsible for driving product strategy, research and positioning of the firm's product offerings across all distribution and marketing channels. Prior to co-founding Vest in 2012, Jeff worked at ProShares, and FBR & Co. Jeff is a CFA charterholder. He has also held CPA and CFE certifications. Jeff attended the United States Naval Academy and the McDonough School of Business at Georgetown University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a232e947e6c72a5d7e385a9ba90754f2faf69e7d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -452,7 +597,23 @@
     "formerNames": [
       "Open Invest"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Conor Murray",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/pub/conor-murray/93/300/b06",
+        "bio": "Originally from Ireland, Conor moved to the US to study math, computer science, econ and philosophy at MIT. After working at Morgan Stanley out of college, he moved to Bridgewater where he spent 8 years building portfolio construction and management systems. After Bridgewater, Conor moved out to San Francisco and founded OpenInvest in 2015 with Philip Wei and Josh Levin. OpenInvest was acquired by JP Morgan in 2021.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6a3b6abeadeae9266ff4009c7e6aef522fb11762.jpg"
+      },
+      {
+        "name": "Phillip Wei",
+        "role": "Founder/CTO",
+        "linkedin": "http://www.linkedin.com/in/phillipwei",
+        "twitter": "http://twitter.com/phillipwei",
+        "bio": "Co-Founder Deliveroo (LON:ROO) + OpenInvest (sold to JPM).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8662dd92b9b9630376eb101877455e0c8ace3c9e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -498,7 +659,26 @@
       "Captain401",
       "Human Interest (Captain401)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Roger Lee",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/rogerrlee",
+        "twitter": "https://twitter.com/roger_lee",
+        "bio": "Co-Founder @ Human Interest",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cb7d798d562304cfdb7721fadcb99fc4b38aab71.jpg",
+        "active": false
+      },
+      {
+        "name": "Paul Sawaya",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/paulsawaya",
+        "twitter": "https://twitter.com/automin",
+        "bio": "Working on something new in gaming. Previously co-founded Human Interest (YC S15).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/89bdaa6b4ecf8d0b3ec61a2b15c1789cd3fc82ab.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -539,7 +719,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yves-Laurent Kom Samo",
+        "role": "Founder",
+        "linkedin": "https://uk.linkedin.com/in/komsamo",
+        "twitter": "https://twitter.com/Dr_YLKS",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7214506ece2aec61435ca550668ccc0ba7882913.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -579,7 +767,21 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Madelaine D'Angelo",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/madelaine-d-angelo-b3508816?trk=hp-identity-name",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5d4a83dca3aa4abed5d7df475e535953e65c57d4.jpg"
+      },
+      {
+        "name": "Michael DAngelo",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/michaelldangelo",
+        "bio": "mldangelo.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4644707ea360cae5c0dec8b2628e2662aeb3f9b9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -619,7 +821,14 @@
     "teamSize": 85,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Samir Shah",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/samir-shah-7410649",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8dacb177f8e9368c6a166e95196d19481f106eb9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -660,7 +869,31 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ankush Singh",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/ankushsinghbaedas",
+        "bio": "Founder Piggy (S17). Hit me up for any conversations about wealth, finance, defi, stablecoins",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dcc8da2b5bf023fe9ef2f5fdae578004672cab33.jpg",
+        "active": false
+      },
+      {
+        "name": "Nikhil Satya Mantha",
+        "role": "Founder",
+        "linkedin": "https://in.linkedin.com/in/nikhilsmantha",
+        "bio": "Building CRED Wealth| Founded Piggy (YC S17, USD 250M AuM)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f54b31aec0b4fcb73ab3b96ab54639eb95223a5.jpg",
+        "active": false
+      },
+      {
+        "name": "Kunal Sangwan",
+        "role": "Founder/CTO",
+        "linkedin": "https://in.linkedin.com/in/kunal-sangwan-9127a418",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/84eb438dc5e28902a5dd9514b89d2e2336e3cd16.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -701,7 +934,32 @@
     "isHiring": true,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lalit Keshre",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/lalitkeshre",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0fd629971f3c720c9b296b817b2b7c2942f09100.jpg"
+      },
+      {
+        "name": "Ishan Bansal",
+        "role": "Founder",
+        "linkedin": "https://in.linkedin.com/in/ishan-bansal-8678b216",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f3d78de145bb51623e781382a8b7adb03192df13.jpg"
+      },
+      {
+        "name": "Harsh Jain",
+        "role": "Founder/COO",
+        "linkedin": "https://in.linkedin.com/in/harshjainiitd",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/975e9b08c58872b335bbb8b9fd60f008a2f75f9d.jpg"
+      },
+      {
+        "name": "Neeraj Singh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/neeraj-singh-a910819",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7671e5128c66c7bc2e760c14f94bda2526e3dd4c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -743,7 +1001,20 @@
     "formerNames": [
       "BHRD (“Be Heard”)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "William Ma",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mawilliam/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dbc76e8b4206d482ad29a2edc6e7504e698e9780.jpg"
+      },
+      {
+        "name": "Joshua Duggan",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/joshua-duggan-17978928",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/13fab5713a9d02b843684443779ca5f113370227.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -786,7 +1057,22 @@
     "teamSize": 150,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yoshi Yokokawa",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/yoshiyokokawa/",
+        "twitter": "https://twitter.com/iyoshyoshi",
+        "bio": "Yoshi is a co-founder & CEO of @AlpacaHQ alpaca.markets. Before Alpaca, he led a couple of other tech startups that focused on deep-learning and enterprise businesses. Before startups, he was a VP in securitized products at Lehman and Nomura followed by being a full-time day-trader.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9a46ff9e0c904c956229fb831a25dacc1d3ae684.jpg"
+      },
+      {
+        "name": "Hitoshi Harada",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/hitoshi-harada-02b01425/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0031863eb619e31ae6f98b689b8320fcf53f9bf2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -836,7 +1122,16 @@
       "The Wallets Company",
       "Wallets Africa Inc"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "John Oke",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/johnoke",
+        "twitter": "https://twitter.com/thejohnoke",
+        "bio": "Software engineer from Lagos Nigeria. John Oke is a software engineer and fintech entrepreneur, passionate about building innovative financial solutions for emerging markets. With extensive experience in developing digital banking and payment products, John has played a key role in transforming how businesses and individuals interact with financial services.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0eccbf35bab54d2dc035e4b1fcc88c7ec9cf2b20.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -880,7 +1175,23 @@
     "formerNames": [
       "Lofty AI"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Ball",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maxball/",
+        "bio": "Co-Founder at Lofty (YC S19)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e1f40dd977e17b391b07fa44313d7ce3ec5d73c7.jpg"
+      },
+      {
+        "name": "Jerry Chu",
+        "role": "Founder",
+        "linkedin": "",
+        "twitter": "https://twitter.com/PMDBT",
+        "bio": "USC alum, former Barclays Risk Management Analyst, and self-taught full-stack developer. I'm currently the CEO. YC Badge: 0xbc2e7da603f3dec73f658971c045c3023fb8975a",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c34a047249effd3e296a1f47fe96df7ae4c0e370.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -920,7 +1231,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gaurav Arora",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/whogaurav",
+        "bio": "Founder of spenny, scaled to 500,000 users and exited. Full stack product builder across fintech and AI.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/483407882c28d655a02e1eecf548cbff19b05a41.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -960,7 +1279,22 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sanjay Gandhi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sanjay-gandhi-58318410/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f26e51aab3d0601d8a99ea64f32a85f7bce17511.jpg",
+        "active": false
+      },
+      {
+        "name": "Manisha Pandita",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/manisha-pandita?originalsubdomain=in",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b282d555f9d5ce9fe8f1a7a76bac21f1a384f47f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

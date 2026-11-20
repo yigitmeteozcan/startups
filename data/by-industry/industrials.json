@@ -1677,7 +1677,9 @@
       "country": "United States"
     },
     "country": "United States",
-    "alsoIn": []
+    "alsoIn": [
+      "founderinstitute"
+    ]
   },
   {
     "id": "techstars-nukleas",
@@ -4841,7 +4843,16 @@
     "teamSize": 58,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Seddon",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/seddonandrew/",
+        "twitter": "https://x.com/seddonandrew",
+        "bio": "I'm building CircuitHub to automate and simplify electronics manufacturing—making it as seamless as writing software. Our platform helps hardware teams prototype and launch faster by tightly integrating design, sourcing, and assembly. Previously, I led teams working on computer vision and robotics at Cambridge Signal Processing and Oxford Metrics. Background in ECE from the University of Leeds. Passionate about closing the gap between software agility and hardware development.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d9857a5667a1d94a35831704e333bf23deafbebc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4881,7 +4892,15 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brad Koch",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brad-koch-05482540/",
+        "bio": "Co-Founder of FarmLogs. Currently leading Bushel’s Farm team.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8acd0099a8531f3d3143b93ef49ee82054b24d91.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4923,7 +4942,21 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Victor Wollesen",
+        "role": "Founder",
+        "linkedin": "",
+        "bio": "You can reach me at: victor.w@pervices.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5ffe37bacbd897cd31e6eb4769a5f8e8158c6a78.jpg"
+      },
+      {
+        "name": "Brandon Malatest",
+        "role": "Founder/COO",
+        "linkedin": "",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4963,7 +4996,33 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sam Wurzel",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/sam-wurzel/",
+        "bio": "Co-founder of Octopart (YC W07).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2bad139dc668057ae114d02d0e4606b860e237b1.jpg",
+        "active": false
+      },
+      {
+        "name": "Harish Agarwal",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/harish-p-agarwal/",
+        "twitter": "https://x.com/smock",
+        "bio": "Cofounder & president Nori Health (F25); previously cofounder Chartable (acquired by Spotify); previously cofounder & CEO Octopart (W07)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39a3abd00a7380cd885cc8dae01d2a7150f66b6e.jpg",
+        "active": false
+      },
+      {
+        "name": "Andres Morey",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andres-morey-7227203",
+        "bio": "Co-founder Octopart (WC07)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/87143b221fd534437e35eb4880da294b730d9312.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5001,7 +5060,22 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ashutosh Saxena",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/saxenaashutosh",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      },
+      {
+        "name": "Jeff Michels",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jeffmichels",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bf9555339de8c6c8773174196d1d9d7ba71e087c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5041,7 +5115,30 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Austin Lockwood",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/austin-rachlin-lockwood-3339184/",
+        "bio": "Bay Area entrepreneur. Constantly creating.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/43b74feb9d45938ceee5c2280f5a9415e74f044f.jpg",
+        "active": false
+      },
+      {
+        "name": "Haomiao Huang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/haomiao-huang-87988222",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/38babf6a81d00fa82dc28d2f2033886e532efee8.jpg",
+        "active": false
+      },
+      {
+        "name": "Michael Vitus",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-vitus-b7a7bb4a",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e8022b660c43b3cad50684888a5aaf2e61d8091d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5081,7 +5178,26 @@
     "teamSize": 51,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonathan Downey",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jbdowney83/",
+        "twitter": "https://twitter.com/jbdowney83",
+        "bio": "Jonathan Downey is an experienced technology entrepreneur, CEO, and investor, having founded three AI companies and invested in more than 50 startups including Cruise, Observe.AI, Culture Amp, Ginkgo Bioworks, and Verge Genomics. He is currently the co-founder and CEO of Everyday Agents, a stealth startup building an AI-native Travel Concierge that simplifies the process of discovering, planning, and booking trips, all in one app.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7dd6d7acf4b77f3f343a57fc4e1ec31c822c9a45.jpg",
+        "active": false
+      },
+      {
+        "name": "Brad Schiller",
+        "role": "Founder/Vice President Operations & Business Development",
+        "linkedin": "http://www.linkedin.com/in/bradwschiller",
+        "twitter": "https://twitter.com/BradSchiller",
+        "bio": "My mission is to help families launch their kids into life. My companies, Launch and Prompt, support hundreds of college admissions consultants to help tens of thousands of families launch their kids into life. Previously, I was Airware (W13), and I was an M&A and operations consultant for the Fortune 500 and PE firms (independent & McKinsey). @MIT '07.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/955a36eadf0911835cd7dce59ca158a2d6cc6701.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5126,7 +5242,22 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kyle Vogt",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/kylevogt/",
+        "bio": "Kyle started Cruise in 2013, eventually selling it to GM for $1 billion. He stayed on and led Cruise to a $30 billion valuation, over $7 billion in investment, and 250,000 fully driverless rides delivered. Kyle also co-founded Twitch (acquired by Amazon), Socialcam (acquired by Autodesk), and Justin.tv. Kyle studied computer science and electrical engineering at MIT.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/02bfc17bb6bdb80c6e86608a0da0d31a18fad0f2.jpg"
+      },
+      {
+        "name": "Daniel Kan",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/danielkan",
+        "bio": "Built Exec (W12), Cruise (W14), now Fifth Door (F25)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5892151ebb8056a8d73a27951ce9573e078f48d0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5167,7 +5298,30 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Martinez",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/bcmartinez",
+        "bio": "Serial entrepreneur - just launched something new. Former Airbnb global growth team & Director of Growth for the Atlas Project. Launched the Airbnb Alumni angel syndicate (Air Angels). Ask me anything!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/355a298ba7a1abc2179086420877e5b2afcf8958.jpg",
+        "active": false
+      },
+      {
+        "name": "Lance R. Pickens",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d91eb09273535730b626be159b7dbe049fbee646.jpg",
+        "active": false
+      },
+      {
+        "name": "David Rorex",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/davidrorex",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4be51bf54707013af906646c0ec8e0a2d21045d1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5207,7 +5361,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jason Aramburu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jasonaramburu/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1adc3b11ea0ed013841185e2de8d9bacadb310a5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5247,7 +5408,16 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Robert Morris",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/robertaldenmorris/",
+        "twitter": "https://twitter.com/robocosmist",
+        "bio": "I was formerly the CEO of TerrAvion (W14). TerrAvion was dedicated to taking the organization and technology of networked aircraft and applying them to agriculture. TerrAvion was the largest volume provider of overnight imagery in agriculture from 2015-2020. Previously I led the US Army's first drone platoon in Afghanistan, worked for Deloitte with the US Navy helping them buy robot boats, and got an MBA at Carnegie Mellon--see my blog robocosmist.com for insights on robot finance.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/381e17f6118876f88b4cc262dda307a39d1fd36f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5292,7 +5462,14 @@
       "BatteryOS",
       "ActiveBMS"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nick Sherstyuk",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f679ec398ee130b566d1cfe3432d1b9c06e8e37.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5339,7 +5516,15 @@
     "formerNames": [
       "Neverfrost"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Khanjan Desai",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/khanjandesai/",
+        "bio": "CEO & Founder of Alchemy. 2013 Nanotechnology Engineering graduate from the University of Waterloo. 2020 Forbes 30 Under 30 - Manufacturing & Industry. Previously at Harvard Med doing cryopreservation and microfluidics research, and at Facebook doing growth analytics and internet marketing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4424152809dd734383d6a9a64c5c341f46573699.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5380,7 +5565,17 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chad Rigetti",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/chad-rigetti-9891562",
+        "twitter": "https://twitter.com/ChadRigetti",
+        "bio": "I build quantum computers. Founder of Rigetti Computing (YC S14, NASDAQ: RGTI). ex-IBM. Yale Ph.D.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e4ac4daf1a3a94aea2e758ffff39833656fd3bf.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5425,7 +5620,25 @@
     "formerNames": [
       "Tule Technologies"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tom Shapland",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/tom-shapland-b4494212",
+        "twitter": "https://twitter.com/tom_shapland",
+        "bio": "Something New. I was the Cofounder of Tule (YC S14) and formerly worked at LiveKit.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c2b1c4843258441e003f66cfeb8354136f05f176.jpg",
+        "active": false
+      },
+      {
+        "name": "Jeff LaBarge",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jefflabarge/",
+        "twitter": "https://twitter.com/jefflab",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/21e57caf110ac67dcdddb9738488a4c4f315317c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5466,7 +5679,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Conrad",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/dconrad",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1516eed5ba92c843cda5a921bf8d4dacde620e29.jpg",
+        "active": false
+      },
+      {
+        "name": "Shawn Lewis",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shawn-lewis-524a563/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fc92e709564b3f994ca7f7c66adf42f2efe4b1e1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5511,7 +5739,21 @@
     "formerNames": [
       "Helion"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Kirtley",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/david-kirtley-490b8230/",
+        "twitter": "https://twitter.com/dekirtley",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8c9187f74176ca43139b443259bb0109dfb49407.jpg"
+      },
+      {
+        "name": "Chris Pihl",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/chris-pihl-4a84b1a/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/992f1901f2931a53242ae96e2364a9275135655f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5557,7 +5799,22 @@
       "UPower Technologies Inc",
       "UPower"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jacob DeWitte",
+        "role": "Founder/CEO",
+        "linkedin": "http://linkedin.com/in/jacob-dewitte-90062132",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6147b6a370516ec8d93ef1234b50853dec23e50a.jpg"
+      },
+      {
+        "name": "Caroline Cochran",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/caorilne",
+        "twitter": "https://www.twitter.com/caorilne",
+        "bio": "Caroline Cochran is the Co-Founder and Chief Operating Officer of Oklo Inc., a company developing advanced fission cleantech for cleaner air and human development. She was one of the youngest recipients of the University of Oklahoma Regent's Alumni Award. Caroline received her S.M. in Nuclear Engineering from MIT, a B.A. in Economics and a B.S. in Mechanical Engineering from the University of Oklahoma.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/db9d311bc6421042f8b6d63bd74ddf14772adb4f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5599,7 +5856,15 @@
     "teamSize": 100,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonah Greenberger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jonahgreenberger/",
+        "bio": "Jonah Greenberger is a co-founder of Bright, a Y-Combinator and First Round Capital company delivering solar subscriptions to homes in developing countries, first Mexico. He was most recently a Director at Chevron, where he helped build a renewable energy investment and construction group. Jonah received his MS in Thermodynamics and BS in Mechanical Engineering from Stanford University, where he was a Mayfield Fellow.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b5b63967ea3459ded97ee35f94433ac6a46f814a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5644,7 +5909,15 @@
     "formerNames": [
       "DroneBase"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dan Burton",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/pub/daniel-burton/89/117/287/",
+        "bio": "Zeitview Founder/CEO; US Marine Corps Infantry; Goldman Sachs; US Senate Staff",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2c8d7eb0a879e3163d17fa1d38e98aada4b38481.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5683,7 +5956,16 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "PhD Christine E. Boyle",
+        "role": "Founder/CEO",
+        "linkedin": "http://www.linkedin.com/in/cboyle/",
+        "twitter": "https://twitter.com/watertechlady",
+        "bio": "Dr. Christine Boyle is a partner at Burnt Island Ventures where she works with innovators to bring the next generation of water technologies to market. She was the CEO and founder of Valor Water Analytics, which sold to Xylem in 2018. She was the Vice President of Digital Product Development at Xylem for 5 years following acquisition. Dr. Boyle is also Chair of the Ca-Nv American Water Works Association and a trustee of the American Water Works Association Management and Leadership Division.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ae174175f0d622e1943f38ea54f9409a98c2ea51.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5726,7 +6008,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nadir Bagaveyev",
+        "role": "Founder/CEO and Chief Designer",
+        "linkedin": "https://www.linkedin.com/in/nadir-bagaveyev-1a0132395/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4f3375eae20622841c4c751dd355c30bca859da1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5766,7 +6055,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dan Danay",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/dandanay/",
+        "bio": "Co-founder and CEO at Verdict Machine (YC S26). Previously Head of Blockchain Security at Check Point (NASDAQ:CHKP), launching their digital assets division. Founded keyTango (MPC-powered crypto clearing house) and Airmada (YC W16, automated drone stations). MIT Sloan MBA. Captain in Israeli Navy, commanded missile ship and naval electronics school.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/821ae7bdee6621edf11f400f8aee456ae9e5b649.jpg",
+        "active": false
+      },
+      {
+        "name": "Boris Lipchin",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/blipchin",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9492befc96a4631ecef93b5a37b737ff531633c2.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5807,7 +6112,26 @@
     "isHiring": false,
     "stage": "Early",
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andy Moon",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/andymoonfuture/",
+        "twitter": "https://twitter.com/andymoonsun",
+        "bio": "Co-Founder and CEO of Reunion, leading clean energy financing platform that has worked with Fortune 500s to invest over $7 billion in clean energy projects via tax credits Formerly co-founder and board member at SunFarmer (YC S15), and investor in a few awesome early stage companies including Chronosphere",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8b7d5d59d8777fb35a7a44be30d4f13be85a4758.jpg",
+        "active": false
+      },
+      {
+        "name": "Jason Gray",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jasondgray",
+        "twitter": "https://twitter.com/jasondgray",
+        "bio": "Pioneer Fund - Founder and Managing General Partner. Previously, Co-Founder of SunFarmer, a solar energy company. Prior to that, Jason held various roles in finance, energy, and agriculture, including as General Manager and Vice President of SunEdison. In this role, he established the company’s Canadian division, building it to $250M in annual revenue and managed over $500M in debt in equity.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f72fe74dcb0dd8e6f6b822fb22bb46395911d887.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5851,7 +6175,14 @@
       "Supply",
       "Reach Labs"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christopher Davlantes",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chrisdavlantes/en",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ed42f91d1cf2aa26b0a345a9cec10ae43814c8d5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5895,7 +6226,14 @@
     "formerNames": [
       "Transcend Lighting"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Bennett",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/profile/view?id=33089925&trk=nav_responsive_tab_profile",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/be5db4ea6cff945b899adf80b3e1ae948f554056.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5933,7 +6271,24 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Hunter Scott",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/profile/view?id=38400550",
+        "twitter": "https://twitter.com/hunterscott",
+        "bio": "Hardware guy with >10 years of experience in designing electronics, building hardware teams, and creating new things.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4e575fd07ee73a41a7caaee1d7bcc93d58bae4c8.jpg",
+        "active": false
+      },
+      {
+        "name": "Alex Trimm",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/alexander-trimm/40/186/b52",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f7f6d3b39c848bb846c53620cc5b3f5941e3fec2.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5974,7 +6329,22 @@
     "teamSize": 230,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nilmi Senaratna",
+        "role": "Founder/CEO",
+        "linkedin": "https://LinkedIn.com/in/nilmi",
+        "bio": "Nilmi cofounded Oolu in 2015. As the former CEO and later Chief Business Development Officer, she led Oolu through YCombinator and built the company over 5 years from Dakar, Senegal. She managed early stage fundraising, high level recruitment, human capital strategy, new country expansion, business development and partnerships. Nilmi brought the team from 0 to >230 full time employees. She now is an active strategic board advisor and is based in London, UK.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c68849917f1fceb57d94c407cb6c18f0d7829a3d.jpg"
+      },
+      {
+        "name": "Dan Rosa",
+        "role": "Founder/COO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8cf6a9e5b4e2b19ebf732560ccdf30a20a25a9a6.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6014,7 +6384,21 @@
     "teamSize": 65,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Harrison Steed",
+        "role": "Founder/Labor Management, Harvest Management, & Traceability",
+        "linkedin": "http://www.linkedin.com/pub/harrison-steed/",
+        "bio": "YC Badge: 0xEb4DE7B7ffD641d114Cd9510aEb14Ba176E07f7C",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1701c2d1999daff778ac41f4f106ce35fd2bd23b.jpg"
+      },
+      {
+        "name": "Austin Steed",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/austinsteed",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dd7051b064f4155e6b3660ef90a8a05e0cbc7372.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6057,7 +6441,27 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "eleazar .",
+        "role": "Founder/Head of Software",
+        "linkedin": "https://www.linkedin.com/in/eleazar-vega-gonzalez-a1071426/",
+        "bio": "builder. ai (coil w23). ai chips (rem s15).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a99b8b509bb1822dcd6629f0a9486bf442c52e91.jpg"
+      },
+      {
+        "name": "Dylan Hand",
+        "role": "Founder/Lead Hardware Engineer",
+        "linkedin": "https://www.linkedin.com/pub/dylan-hand/b3/487/8ba",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5401d5115e826c546f57903b2fe503d968226c2d.jpg"
+      },
+      {
+        "name": "William Koven",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/william-koven/93/9a8/324",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3096e649e78c1335e8de3616e5778e91a14eb9c1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6096,7 +6500,35 @@
     "status": "acquired",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nalin Gupta",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/nalingupta01",
+        "twitter": "https://twitter.com/nalingupta01",
+        "bio": "2x YC founder (S15 and P26). Building AI Call Center for some of the biggest B2C enterprises in the world. Previously built self-driving cars @Auro Robotics (acquired).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/184dedf98463b66eb98429108c748a14eb6f0473.jpg",
+        "active": false
+      },
+      {
+        "name": "Srinivas Reddy Aellala",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/pub/srinivas-reddy/15/b4b/662",
+        "twitter": "https://twitter.com/srini_ry",
+        "bio": "Building Physical AI at Nvidia. Previously Head of Product, Autonomy at Serve Robotics. Cofounder of Auro Robotics (Self driving shuttles, YC S15) , acquired by Ridecell.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a7361b09beb25706d5dbf2a9848609e9f79c2aec.jpg",
+        "active": false
+      },
+      {
+        "name": "Jit Ray Chowdhury",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jitrc",
+        "twitter": "https://twitter.com/jitrc",
+        "bio": "AI, Automation, and Robotics",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/788a53cc11095d8a783be99fef08254d17602c1d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6139,7 +6571,16 @@
     "formerNames": [
       "Flirtey"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matt Sweeny",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/matt-sweeny",
+        "twitter": "https://x.com/MattSweenyShow",
+        "bio": "Exploring Great Ideas. Building Great Companies. YC S15 drone delivery: - Firsts & Smithsonian: First approved US drone delivery; Drone in Smithsonian - Built hard hardware: Partnered with NASA; Inventor on 11 granted US drone patents - Investment: Raised $40M; Grew to $120M valuation - GTM & partnerships: Forged government and medical partnerships to unlock markets - Enterprise sales & product-market fit: 7-Eleven, FedEx, and Domino’s",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/90d3cbd25cd3a75f221367eb1bfd4b2a5fb650a5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6182,7 +6623,29 @@
     "formerNames": [
       "Varden Labs"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Rodrigues",
+        "role": "Founder/CEO",
+        "linkedin": "https://ca.linkedin.com/in/rodriguesalex",
+        "twitter": "https://twitter.com/alexrodriguesca",
+        "bio": "Started building robots when I was 11. Excited to be helping build the world's biggest robots today!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/065391fff0dc2c854a24375c59427ac2d1da33ea.jpg"
+      },
+      {
+        "name": "Brandon Moak",
+        "role": "Founder/CTO",
+        "linkedin": "https://ca.linkedin.com/in/brandonmoak",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bcbf45c064ad892ff5bddb4e82fe95df03356887.jpg"
+      },
+      {
+        "name": "Michael Skupien",
+        "role": "Founder/Mechanical and Embedded Systems Lead",
+        "linkedin": "https://linkedin.com/in/michael-sk",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39be433cee2ab53682666a434ba957ff5ef7f384.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6226,7 +6689,22 @@
     "formerNames": [
       "Iron Ox"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brandon Alexander",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/brandonacealexander",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39e578e09a277f918f10cfac4618663ee867c6e9.jpg",
+        "active": false
+      },
+      {
+        "name": "Jonathan Binney",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/pub/jon-binney/5/5b6/577",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fe3e18d73cf904c9d21addccca79825b9e257ba9.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6266,7 +6744,20 @@
     "teamSize": 35,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jon Parker",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jparker165",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3f95364f7148d598e4ddf7203970abd59d94430f.jpg"
+      },
+      {
+        "name": "Gabe Wilcox",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/gabe-wilcox/8/744/b59",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e0b668a8b7240e7011c2764196c56b9abe945740.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6310,7 +6801,23 @@
     "formerNames": [
       "OSVehicle"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tin Hang Liu",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/tinhangliu",
+        "twitter": "https://twitter.com/tinhangliu",
+        "bio": "Tin Hang Liu, born in Italy, is an entrepreneur, and a keynote speaker focused on: Innovation, New Mobility & Energy, and Climate Change. He is the founder and CEO of Open Motors, a startup from Silicon Valley that developed an open hardware platform for EVs, a modular self-driving vehicle called “EDIT” engineered for MaaS (Mobility as a Service) & Logistic, and EV battery swap technology. Media defined Open Motors as the “IKEA car”, “Arduino for Vehicles”, “Android for Electric Vehicles”.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cb3556b5e9896c9af48882ed39251b0b4488abf0.jpg"
+      },
+      {
+        "name": "Yuki Liu",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/yukiliu",
+        "bio": "co-founder Open Motors",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/43dce84de1d64eefeb907828f27d626b81b1b711.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6354,7 +6861,21 @@
     "teamSize": 230,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jake Loosararian",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button",
+        "bio": "Co-Founder and CEO of Gecko Robotics",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/57090e5c44a679e435831ce506c281bf8a3b5d4b.jpg"
+      },
+      {
+        "name": "Troy Demmer",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/profile/view?id=AAIAAAVknjQBfe-5mD0s-nYSWNXnFY_7rEl6whA&trk=nav_responsive_tab_profile",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2c82ea0566fb3fe9a95995dbf02762d1ce0a2e48.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6399,7 +6920,24 @@
     "formerNames": [
       "FlowCommand"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jed Somers",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jed-somers-1b9874a8/",
+        "twitter": "https://www.twitter.com/jedsomers",
+        "bio": "I'm interested in industrial technology, local business/communities, and inspiring/novel political ideas. Currently COO at Owner.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/91f27c794a57015a086dd5be58b65eadce3e7cda.jpg",
+        "active": false
+      },
+      {
+        "name": "Jeff Garoon",
+        "role": "Founder/President of R&D",
+        "linkedin": "https://www.linkedin.com/in/jeffgaroon",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/518ee03ef9cfbd9e54c496b41b59d133c42d75c1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6439,7 +6977,23 @@
     "teamSize": 75,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aditya Agarwalla",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/adiagarwalla",
+        "twitter": "https://twitter.com/adi_agarwalla",
+        "bio": "A decade of experience in building companies, teams and products from scratch, both consumer and B2B, and scaling them to millions of $ in revenue and millions of users. Became one of the first India / Asia focused founders to be backed by both Y Combinator and Peter Thiel at the age of 22. Work covered by several media outlets such as TechCrunch, Forbes, Business Insider and the Economic Times.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/656b77e20f186251be0e87d41671e675fb7bed29.jpg"
+      },
+      {
+        "name": "Sanjay Kumar Agarwalla",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/sanjaykagarwalla",
+        "bio": "I started off in the early nineties and built a profitable company called Integrated Digital Systems. As a company specializing in Application technology, I conceived and built along with my team very interesting applications in various fields like Geographic Information System; Rural distribution, Military Intelligence, War Gaming, Water Supply and Sanitation Project, 3D Task Trainers, Wireless Network Coverage etc. Co-founded Kisan Network and currently co-founder of Mera Gaon.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f11262c15b793f93a401ca894c0b25b548f4702e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6486,7 +7040,14 @@
     "formerNames": [
       "Relativity"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tim Ellis",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/pub/tim-ellis/72/671/111",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5503c2b8cc42fa4cfd65369efbc80d23dde61e47.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6527,7 +7088,14 @@
     "teamSize": 227,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Blake Scholl",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/blakescholl/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8f35956a9d68593a6bf0cf68a5ba3d5bc03eff25.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6568,7 +7136,23 @@
     "teamSize": 500,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "John Gedmark",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/johngedmark",
+        "twitter": "https://twitter.com/gedmark",
+        "bio": "Cofounder & CEO, Astranis",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cd05bed6d23c5a5f092947636165061df9e48b35.jpg"
+      },
+      {
+        "name": "Ryan McLinko",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/mclinkor",
+        "bio": "Cofounder & CTO of Astranis",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/01cdfb8fb3944c5908181c56546e45f83852b0b0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6608,7 +7192,14 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kyle Flanagan",
+        "role": "Founder/CEO & President",
+        "linkedin": "https://www.linkedin.com/in/kyleflanagan",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4333ce8b2b0492d6d899246b8df4cc5cccf01e2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6649,7 +7240,22 @@
     "teamSize": 75,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nikhil Vadhavkar",
+        "role": "Founder/President and CEO",
+        "linkedin": "https://www.linkedin.com/in/nvadhavkar",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7c365e0bc6f66a36e3835d4472e3566da79fda39.jpg"
+      },
+      {
+        "name": "Eddie Obropta",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/eobropta",
+        "twitter": "https://x.com/eddieobropta",
+        "bio": "Eddie Obropta received the Bachelor of Science degree in 2013, Masters of Science in 2015, in aeronautics and astronautics, from the Massachusetts Institute of Technology (MIT). He is an active entrepreneur and is a co-founder of Raptor Maps Inc, a solar software company. Raptor Maps won the MIT $100K competition in 2015 and graduated Y Combinator in Summer 2016. At Raptor Maps, Eddie serves as the Chief Technology Officer.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a76810748394767e248732df8ce0d6d8a79a3ec2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6689,7 +7295,25 @@
     "status": "acquired",
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexander Harmsen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alexanderharmsen",
+        "twitter": "https://twitter.com/alexharm",
+        "bio": "CEO/Co-founder of PortfolioPilot.com, a personal AI financial advisor with over $30B AOP. Former CEO/Founder at Iris Automation, autonomous vehicle software company - raised over $30M, sales globally, regulatory approvals in 9 countries, and successfully exited to a big partner. Advisor to various other deep tech and SaaS companies like VeriSIMLife.com, a computational pharma company aiming to reduce the need for animal testing to speed up and reduce the costs of drug development.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d0519f075760730d6ccc6018be66060747d809d7.jpg",
+        "active": false
+      },
+      {
+        "name": "James Howard",
+        "role": "Founder/CTO",
+        "linkedin": "https://ca.linkedin.com/in/jamesthoward",
+        "bio": "X",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/84361ad1a757ef6d7f65b08fe00724302bf28dc2.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6729,7 +7353,20 @@
     "teamSize": 36,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Fred Parietti",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/federico-parietti-75164920",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/df5aa5f97f8bb32563736f86667a1ca8eb5a158d.jpg"
+      },
+      {
+        "name": "Alice Melocchi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alice-melocchi-071816120",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e14306ac68076ae52f62332b6ebde7b997703f0b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6770,7 +7407,22 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rui Li",
+        "role": "Founder/CEO",
+        "linkedin": "http://www.linkedin.com/in/ruilimit/en",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48b6efbf5e129b180bbfcc7a98f28f03cd436813.jpg"
+      },
+      {
+        "name": "Dheera Venkatraman",
+        "role": "Founder/CTO",
+        "linkedin": "http://www.linkedin.com/in/vdheera",
+        "twitter": "https://twitter.com/dheeranet/",
+        "bio": "Embodied AI | Generative AI | Robotics | Perception | Machine Learning",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e5c1b601b5c3debb8d47122bffa18dc02c2406b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6810,7 +7462,16 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Stefan Seltz-Axmacher",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/stefanseltzaxmacher",
+        "twitter": "https://twitter.com/stefanesa",
+        "bio": "Robots that are buildable and valuable are the most magical.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a976b8c7814c0a2985a3b21bdfae3f0e1cf5fd0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6852,7 +7513,14 @@
     "teamSize": 110,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nouman Ahmad",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/noumanzahmad",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/29b4f4096f8cb09ebf894932abadfe86e352cde5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6893,7 +7561,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Teddy Guenin",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tguenin",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/52ee9dea6e61c5fa1874e3a2b93242873e9f45d1.jpg",
+        "active": false
+      },
+      {
+        "name": "Ashwin Amurthur",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ashwinamurthur",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1a3b5cf69b04ba66f2c6e6d7377446badec65cb3.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6934,7 +7617,14 @@
     "formerNames": [
       "AirFence"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gilad Beeri",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/giladbeeri",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f835757c98c95077558ba3aca40e6f8a82b7d91.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -6974,7 +7664,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ankita Ghoshal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ankita-ghoshal-0b0794ab",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ef3a9a1ed274ae3aa074ea7003e9924771e63e20.jpg",
+        "active": false
+      },
+      {
+        "name": "Prianka Ghoshal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/priankaghoshal",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c8b1eb5771e08a098e7e72a8b9a6e8a52b8f20e.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7015,7 +7720,14 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Wilson Cusack",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/wilsoncusack",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7de8b49bf5db9132184d921f3b4c60396a3b01ed.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7060,7 +7772,15 @@
     "formerNames": [
       "Vinsight"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Megan Nunes",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/megan-nunes-73340525",
+        "twitter": "https://twitter.com/megannunes",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4450da9f5e439f7e7b47a7b219fced8b7e1a1712.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7101,7 +7821,21 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Umer Adnan",
+        "role": "Founder/President & CEO",
+        "linkedin": "https://www.linkedin.com/in/umer27",
+        "bio": "Founder & CEO - Cowlar Design Studio LLC Helping startups get to PMF faster",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3b958865bcd8b5abe4ea28f48f2d423b37a49e1c.jpg"
+      },
+      {
+        "name": "Umer Ilyas",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3e814fbc91607a63dbc5bd50508f26768a378e35.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7143,7 +7877,14 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "George Burkhard",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/george-burkhard-a396022?trk=hp-identity-name",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa6de5e8eb1094721bea0a1736b2624e039537ea.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7186,7 +7927,14 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "George Tall",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/georgetall",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a7f62c2d11310ab87e2bcd21ceb163a2f945ee71.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7230,7 +7978,15 @@
       "volans-i",
       "Volans-i"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Hannan Parvizian",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hannanparvizian/",
+        "twitter": "https://twitter.com/HaPi31415",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d6382d761af4c1fe66d53ee6ef364c1ceca3eff4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7275,7 +8031,21 @@
       "Millibatt",
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Janet Hur",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/janethur",
+        "bio": "Cofounder of Nuvola Technology (formerly Millibatt, Inc.)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a61cd08c852c2542d1e5819555699dd07ff6e5f7.jpg"
+      },
+      {
+        "name": "Leland Smith",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lelandsmith50?trk=hp-identity-name",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/acea98eed2303398f669dfeef9e6b64e47844ef9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7316,7 +8086,20 @@
     "teamSize": 4,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeff Engler",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jeffengler",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c207679c4dad17f2b2be91bf2736dfc31d98ddc5.jpg"
+      },
+      {
+        "name": "Doug Griswold",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/doug-griswold-96312212?trk=nav_responsive_tab_profile",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/778bede2c477908d14dbd21f265fbea8424069ad.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7360,7 +8143,26 @@
     "formerNames": [
       "Arylla Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Perry Everett",
+        "role": "Founder/Business Development",
+        "linkedin": "https://www.linkedin.com/in/perry-everett-77402176",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/911fca6f1d1b227df440a86c10d289bc95a434cc.jpg"
+      },
+      {
+        "name": "Benjamin Rasera",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/benjamin-rasera-814b8547?trk=nav_responsive_tab_profile",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/87c532543c6d04ff745714b6761bd4bd04537f8d.jpg"
+      },
+      {
+        "name": "Graham Thomas",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/graham-thomas-25b6328a",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a3f902e20721c6178138ba9521aa766ebebade5d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7403,7 +8205,20 @@
     "formerNames": [
       "Datapex Drifty Technologies"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "OJIMA BENJAMIN UFARUNA",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ojima-benjamin-ufaruna-16a47714",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a45ca7e1b5ca8c56f772a10ebf51d1d2c3fa586a.jpg"
+      },
+      {
+        "name": "Asehinde Oladipo",
+        "role": "Founder/Chief Operations Officer",
+        "linkedin": "https://www.linkedin.com/in/oladipo-asehinde-49581b137",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c6de5369c13c0b817112c32df560edebdc82a0d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7445,7 +8260,26 @@
     "teamSize": 40,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kevin Han",
+        "role": "Founder/CPO",
+        "linkedin": "http://linkedin.com/in/hankevin",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4008c5dc0f7f0995d2c15d5111a646650acfeed8.jpg"
+      },
+      {
+        "name": "Randeep Singh",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/rndeep",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48ae289a0c74a9b0f4fbea0ce12176e6cf59eb46.jpg"
+      },
+      {
+        "name": "Andrew Walker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andrewrswalker",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e61545c908d490f18295106b739eba5d278bb764.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7487,7 +8321,40 @@
     "teamSize": 19,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Friefeld",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mfriefeld",
+        "bio": "Max is the co-founder and COO of Ultra. He studied Computer and Electrical Engineering at Harvey Mudd College ('13), and founded two YC-backed companies, Layer By Layer (S13) and Voodoo Manufacturing (W17). Immediately prior to starting Ultra, Max led teams at Boston Consulting Group optimizing operations for the largest logistics networks in the world and developing go-to-market strategy for private equity backed robotics companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d8216f62957dfd9a799bdefaf861c60b0774a844.jpg",
+        "active": false
+      },
+      {
+        "name": "Jon Miller Schwartz",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/jmschwartz11",
+        "twitter": "https://twitter.com/JMSchwartz11",
+        "bio": "Robotmaxxing at Ultra. Prev Arena AI, Voodoo Manufacturing (YC W17), Body Labs, and Layer By Layer (YC S13).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4175a41b7ddfb0a9f80aaa87d7b4354f003a0842.jpg",
+        "active": false
+      },
+      {
+        "name": "Oliver Ortlieb",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/oliverortlieb",
+        "bio": "Oliver is the co-founder and CTO of Ultra. Before co-founding Ultra, Oliver Ortlieb was the Co-founder & CTO at Voodoo Manufacturing where he built the software and systems to support one of the largest 3D printing factories in the world. Prior to that, he co-founded Layer By Layer, a secure marketplace for 3D-printable products. He holds multiple patents in the field of 3D printing, and received his BS in Computer Science from Harvey Mudd College.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c3fc0be0545afe2d8211c303677994e8a2952daa.jpg",
+        "active": false
+      },
+      {
+        "name": "Patrick Deem",
+        "role": "Founder/CFO / Head of Business Development",
+        "linkedin": "https://www.linkedin.com/in/patrick-deem-7851511?trk=nav_responsive_tab_profile_pic",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9ef3577b6d9873a2bd368db7a09c723421ac35e6.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7527,7 +8394,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matthew Whalley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthew-whalley-67852b107/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f81dbac05ed6ff7714e0329ef21e9528a622801.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7571,7 +8445,15 @@
     "teamSize": 33,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Charles Acknin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/charlesacknin",
+        "bio": "Software Engineer turned Chief Email Officer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4d6b88b66f3363f857e0d2909a3aca9b839d7710.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7612,7 +8494,15 @@
     "teamSize": 44,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Leila Madrone",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/robot/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/31e0549862fe7cd5eb7448bb6d8ecaae4918a7fa.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7657,7 +8547,24 @@
     "formerNames": [
       "Releaf"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kenna Nzewi",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/inzewi",
+        "twitter": "https://twitter.com/keenkenna",
+        "bio": "Co-founder + CEO of Releaf. We develop technology to unlock the processing of local crop varieties in emerging markets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/61eac14a4ac324a61da9cbd2c9dbff66ee5e8c62.jpg"
+      },
+      {
+        "name": "Uzoma Ayogu",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/uzomabayogu",
+        "twitter": "https://twitter.com/Uzoayo",
+        "bio": "Uzo is CTO & Co-founder of Releaf - Uzo graduated from Duke with a degree in Mechanical engineering in 2017 and currently serves on Duke’s Board of Trustees as a full voting member. Uzo has professional experience working on jet engines at GE Aviation, devising, funding, building resilient engineering impact projects in sanitation & water in rural Brazil & Togo, & independent research research on autonomous drone medical delivery.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/642a14f7a60c14e0f08b64bfe76be4a1a7cc76fe.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7699,7 +8606,14 @@
     "formerNames": [
       "Corvidair"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Star Simpson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/star-simpson-90a63a160",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f6133761d47defa7862329fec64f034a8af534b1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7740,7 +8654,25 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shiva Adireddy",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/shiva-adireddy-5aab1850",
+        "bio": "Over the last 12 years, Dr. Adireddy has compiled an impressive track record in energy & materials entrepreneurship, manufacturing diverse classes of materials to solve problems in the fields of renewable energy and clean technology. His expertise in both the technical and business aspects of nanotechnology is testified to by his authorship of articles in 10 issued US patents and over 40 peer-reviewed publications.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/22325c15df94a08d1b528ce0e2154caf2cfa3149.jpg",
+        "active": false
+      },
+      {
+        "name": "Alexander Girau",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandergirau",
+        "twitter": "https://twitter.com/AlexanderGirau",
+        "bio": "CEO and Co-founder of Group1 Founding CEO of Advano.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/becc32a0df28fc78c84b56bfc3ddebff74826d8b.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7780,7 +8712,14 @@
     "teamSize": 13,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Keiran Olivares Whitaker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/keiran-olivares-whitaker-a2b8b795/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/df285579cd9cf232583e3d367dba8adbb44f2360.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7824,7 +8763,33 @@
     "teamSize": 75,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Norcia",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/michael-norcia-13a79124/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c085e4f25ea2fba5d48a05152b24b9e9eea26211.jpg"
+      },
+      {
+        "name": "Nathan White",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/nathan-white-8a1950a9",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a7e83d3609c652dab67095e5ed4f8601bd9e3056.jpg"
+      },
+      {
+        "name": "Kyle Moore",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kyle-moore-1485536a/",
+        "bio": "Co-Founder of Pyka building autonomous electric airplanes",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8b8dd72cc6f36db5d68e4a45b4e65d444d0e6c6b.jpg"
+      },
+      {
+        "name": "Chuma Ogunwole",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/chuma-ogunwole-10893316",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1ef7d27378121c32b4aab2755eade7e86bf7a9f7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7867,7 +8832,22 @@
     "teamSize": 18,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrei Klochko",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/andreiklochko/?locale=en_US",
+        "bio": "PhD in Plasma Physics from École Polytechnique (Paris, France), then started Airthium as CEO and CTO in 2015 before going through YC in 2017. This is still my current position.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/472948d08e8ae7a3524a70ed6c8bf6698671164c.jpg"
+      },
+      {
+        "name": "Franck Lahaye",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/francklahaye",
+        "bio": "Cofounder at Airthium.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2409919dfac561c1d7f29e05beef8565132ce4a6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7905,7 +8885,15 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Peter Sand",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/petersand",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4e932b3c5b9183c4d33e6372caccdbe475283818.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7949,7 +8937,14 @@
     "formerNames": [
       "Kestrel Materials"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brent Ridley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brent-ridley-b076a4/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/34a1b2d552c0ce653177c28e3a59019cd898bcbc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -7991,7 +8986,31 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Erik Franks",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/erfrnk",
+        "twitter": "https://twitter.com/erikjfranks",
+        "bio": "I have founded two startups and raised $2.3M, hired and managed 50 employee team, 5 customer satellites using our rockets to maneuver, won 20+ NASA contracts and competitions, and shipped 1.5M orders. I'm passionate about my work and want to make a positive difference for humanity.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1d848624552192cf7ba93336d1ddf5f35b2c1631.jpg",
+        "active": false
+      },
+      {
+        "name": "Jeff Gibson",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/jeff-gibson-59866a86/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c1f942d4bc4fba51c765eb1a957c3e0da22a8098.jpg",
+        "active": false
+      },
+      {
+        "name": "Jake Teufert",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jacob-teufert-86b375133/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1b915e5a6fac50bf236743a26db9ea8a614aac3e.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8035,7 +9054,16 @@
     "formerNames": [
       "WaterFX Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aaron Mandell",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aaron-mandell-011175133/",
+        "twitter": "https://twitter.com/AaronMandell",
+        "bio": "Technical background in groundwater hydrology and computational modeling, founded and raised over $100M of capital for several startups in energy / water. Founder at Wacomet, WaterFX, Quaise, Quidnet, Altarock, GreatPoint.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/97df6e58aefee37ff77017d065ea9d3d264b90f1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8076,7 +9104,16 @@
     "teamSize": 260,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Edwin Olson",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/edwin-olson-6644387/",
+        "twitter": "https://twitter.com/edwinolson",
+        "bio": "Edwin Olson is the co-founder and CEO of May Mobility, Inc., an Ann Arbor-based startup that develops self-driving shuttles. Olson earned his PhD from MIT in 2008 for work in robot mapping. Olson has worked on autonomous vehicles for over a decade, including work on the 2007 DARPA Urban Challenge and vehicles for Ford and Toyota Research Institute. Most recently, he was named \"Entrepreneur of the Year\" in the Michigan and Northwest Ohio region by EOY Awards.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/703d5791a3be980b4ba6dec76acf4cbc3514e265.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8120,7 +9157,20 @@
     "formerNames": [
       "Aperture Synthesis Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vinayak Nagpal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vinayak-nagpal-45087b/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4b0f5e87eb73f1212501386458f5ba2567b9bf4d.jpg"
+      },
+      {
+        "name": "Jimmy Wang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jimmy-wang-9186a39/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7fcfab6bfb29dcb5632bc5ab4e90c5648c88ac71.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8165,7 +9215,21 @@
     "formerNames": [
       "NextDrop Technologies"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anu Sridharan",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/anu-sridharan-b24a016/",
+        "bio": "Previously NextDrop Co-Founder, CEO (YC S17), COO WELL Labs, UC Berkeley Engineer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/28eb70f949c005830c2bc5c00258371116c0d2b9.jpg"
+      },
+      {
+        "name": "Devin Miller",
+        "role": "Founder/CTO",
+        "linkedin": "https://in.linkedin.com/in/devin-miller-5138817a",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3165f7b4fb7c1c7ac7e1d659fac3bf1547519bc0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8207,7 +9271,22 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mike Ross",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mross9/",
+        "bio": "Mike is Co-Founder and CEO of Beanstalk, a vertical farming start-up whose mission is to grow the world's consumption of fresh produce. Before starting Beanstalk with his brother, Mike worked as a consultant for Fortune 100s and federal agencies where he architected, developed, and sold enterprise software, ranging from e-commerce platforms to AI-based recommendation systems. Mike holds a bachelor's degree in Aerospace Engineering from Georgia Tech specializing in advanced rotorcraft propulsion.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bd2eed29da7f69c012274d41487f11e5a6d404fb.jpg"
+      },
+      {
+        "name": "Jack Ross",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jacklross/",
+        "bio": "Jack is a co-founder and the CTO of Beanstalk, a vertical farming start-up whose mission is to grow the world's consumption of fresh produce. He is a computer engineer from UVA. He loves building machines, writing software, and eating new foods. In 2018, Jack was awarded the STEM Catalyst Award by the Virginia Governor.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/38af4fdccc95a27c162de26b21606ef19bdefad6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8254,7 +9333,22 @@
       "Eclosion Technologies",
       "Eclosion"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Trina Chiasson",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/trinac/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/08a2e8c29b349f1f4d24253258d506f32f9ab195.jpg",
+        "active": false
+      },
+      {
+        "name": "James Ricci",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/james-ricci/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f97bb694a6cb905f8e1cf73fdf5c823ff511f8f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8295,7 +9389,20 @@
     "isHiring": false,
     "stage": "Early",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Igino Cafiero",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/igino-cafiero-43b213b0",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c79efe39f4f850e14b114f545ed8b1effe2ca645.jpg"
+      },
+      {
+        "name": "Aubrey Donnellan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aubrey-donnellan-0b676b7/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ad55a66a7239e5cb188e9f2cffb74315a06991f1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8343,7 +9450,15 @@
       "Sheertex",
       "SRTX (Sheertex)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Katherine Homuth",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/katherinehomuth/",
+        "bio": "Katherine Homuth is a serial entrepreneur and executive known for leading high-growth companies at the intersection of software, manufacturing, and consumer innovation. She is the Founder of Oomira, building the memory infrastructure layer for AI. Previously, she founded and scaled SRTX, makers of Sheertex ‘unbreakable’ tights, raising nearly $300M and securing global retail partnerships.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f100366e2aed67790f3684038a23db5bd124c2a7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8385,7 +9500,14 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Debabrata Ghosh",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/debabratadebughosh",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8425,7 +9547,14 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Antoine de Maleprade",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/maleprade/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba2646416749ae2f014129d5172ab2181d4e01fc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8468,7 +9597,29 @@
     "teamSize": 8,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abhinav Das",
+        "role": "Founder",
+        "linkedin": "https://in.linkedin.com/in/abhinavdas1985",
+        "twitter": "https://twitter.com/Abhindas1",
+        "bio": "Founder/CEO at Yantra Robotics Inc. Second-time YC founder (W18 and S27). Previously co-founded Orangewood Labs (W18). Founded SkyWebTech/Evomo, building modular utility vehicles for rural transportation, incubated by NID and IIM Ahmedabad. R&D engineer at Sona Koyo Steering Systems, India's largest steering manufacturer. BTech in Mechanical & Automation Engineering from Guru Gobind Singh Indraprastha University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/37515528f3ba0d2745b99605145e51dd050c077c.jpg"
+      },
+      {
+        "name": "Akash Bansal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mrakashbansal",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6e96b9f1ace66fe0e578548a83b4744d6e0059a.jpg"
+      },
+      {
+        "name": "Aditya Bhatia",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aditya-bhatia-0904b086/",
+        "twitter": "https://twitter.com/orangewoodlabs",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e416831c363da6539b9179fe43a71ef338638dd3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8509,7 +9660,20 @@
     "teamSize": 250,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dainis Kruze",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/dainis-kruze-63b19013/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0673c4ae88fdd317151c82b27cdf26bc576aa3ff.jpg"
+      },
+      {
+        "name": "Janis Putrams",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/janis-putrams-2ab19345/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b10c75ee12c8442b63b1b7c8d269bada57b6097.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8554,7 +9718,16 @@
     "formerNames": [
       "Phair"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chen-Ping Yu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/chenpingyu/",
+        "twitter": "https://twitter.com/yuchenping",
+        "bio": "Dr. Chen-Ping Yu is the co-founder and CEO of Phiar, with over 10 years of cutting-edge research and innovations in computer vision, machine learning, and AI. He was previously a postdoctoral research fellow at Harvard University, and received his PhD in Computer Science from Stony Brook University. He is the recipient of numerous honors and fellowships, including National Science Foundation, and his AI research has appeared in top-tier venues such as ICCV, ECCV, NeurIPS, and PNAS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9074fa05d083e54d17bd2b3b048cae6b33578696.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8594,7 +9767,14 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Martin Shen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/martinshen/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7b11eae443afd36764609224daf21c0dfc0a2f91.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8635,7 +9815,20 @@
     "teamSize": 18,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Duncan Haldane",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/duncan-haldane",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ea243ef2c3774aca35102eae491195f9d793086d.jpg"
+      },
+      {
+        "name": "Jonathan Bachrach",
+        "role": "Founder/Creative Director",
+        "linkedin": "https://www.linkedin.com/in/jonathan-bachrach-5344434/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/41179a18ddb1c7bd8cc3c99fa86736cbbd8cce80.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8679,7 +9872,16 @@
     "formerNames": [
       "Paladin Drones"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Divyaditya Shrivastava",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/divyaditya-s-775959108/",
+        "twitter": "https://x.com/Shrivastavad24",
+        "bio": "Founder and CEO of Paladin",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/948771a986c1440bc8ba9bf90c848592e6de3cc4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8722,7 +9924,15 @@
     "teamSize": 30,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jackie Wu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/wujackie",
+        "bio": "CEO of Corvus Robotics (YC S18)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c76c391e787dc5b1f29987fad5da4c800a66c1bb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8764,7 +9974,27 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gordon Hirsch Wilson",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/gordonhirschwilson/",
+        "bio": "Gordon is the founding CEO of Rain.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5598e9f194d0d3786559e5503d3f578961c98cf7.jpg"
+      },
+      {
+        "name": "Juan Claudio Nino",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/juan-claudio-nino-6770b61a2",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da54b97562e1996e2e0e0f5f50a46c7417f292d8.jpg"
+      },
+      {
+        "name": "Jack Kendall",
+        "role": "Founder/Chief Technical Officer",
+        "linkedin": "https://www.linkedin.com/in/jack-kendall-21072887/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/933044a31791fbb79d787169509564b20b27e3a4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8811,7 +10041,17 @@
       "Space Apprentices Enterprise",
       "Momentus Space"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mikhail Kokorich",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/kokorich",
+        "twitter": "https://twitter.com/mkokorich",
+        "bio": "Physicist, self-taught engineer, involuntary entrepreneur. Lots of companies in the past, most of them failed. But some have succeeded. 2 times YC founder.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/765a9d1536cf3cd053cb0b9465125208aacb266c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8852,7 +10092,20 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brandon Contino",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/brandon-contino/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1cdf3ac53038c15fa60ae4cf3902ba8e226075aa.jpg"
+      },
+      {
+        "name": "Dan Chi",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/dan-chi-0",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/69ddfc6a18490c6dafea9776f920b2823c1ca22f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8894,7 +10147,14 @@
     "isHiring": false,
     "stage": "Early",
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Browning",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1710c6e4f02e72a3d99b5aa72bf703b2de1e159e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8941,7 +10201,29 @@
     "formerNames": [
       "Overview.ai"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Austin Appel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/austin-appel-aa822b66/",
+        "bio": "Austin Appel is the head of product and a co-founder at Overview, where he is responsible for leading product development and operations. With over 8 years of experience in manufacturing, he works with customers to ensure that customers can quickly adopt and use artificial intelligence-based computer vision systems. Previously, Austin spent four years at Tesla in manufacturing and R&D. Austin holds BS Degrees in Manufacturing Engineering and Mechanical Engineering from Northwestern University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1e36e2fb2f960866341c37d8d0964d74e14d8233.jpg"
+      },
+      {
+        "name": "Russell Nibbelink",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/russellnibbelink/",
+        "bio": "I am the head of engineering and a co-founder at Overview. Before joining Overview, I was a software engineer at Salesforce, where I worked on web-scale infrastructure projects, including the migration of Salesforce’s largest customers to upgraded hardware with no downtime. I studied EECS at UC Berkeley, where I was also the head teaching assistant in the field of High Performance Computing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fa0586294cc7538ca638b3c8d3ef42d0a9b93813.jpg"
+      },
+      {
+        "name": "Christopher Van Dyke",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christopher-van-dyke/",
+        "bio": "After 8 years at Tesla I founded Overview. Overview provides cameras and AI recognition algorithms to help manufacturers automate inspection steps, improve uptime, and reduce errors on their manufacturing lines. At Tesla, I built the team that designed the Gigafactory and launched the Supercharger network.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b00f242e390331f22c5d6cb10c4d83bb83bcd5c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8985,7 +10267,32 @@
     "formerNames": [
       "Taobotics LLC (深圳朝闻道智能信息科技有限公司)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Wenke Ma",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/mawenke",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e9eb3333167f5d8508d0119348b6528712e52acf.jpg"
+      },
+      {
+        "name": "Xiangru (Mark) Nie",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/xiangru-mark-nie",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1c45fd1b061c386cd79d6c7e0e87aaf9eb2b71b2.jpg"
+      },
+      {
+        "name": "Zhikang Wang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zhikangwang",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/61c8387299a17d10431fbfb9cf8023554e0bad4c.jpg"
+      },
+      {
+        "name": "Yong Zhao",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zdzhaoyong/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/097fd8cd0928e80979d652334f7d131035fb09ef.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9028,7 +10335,22 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kyle Faller",
+        "role": "Founder/CEO & CTO",
+        "linkedin": "https://www.linkedin.com/in/kyle-faller-272b42109/",
+        "bio": "Previous Powertrain Engineering at Alta Motors and Mechanical Drive Systems Engineering at Tesla. Long time automotive enthusiast and lover of all things energy and engine-related. For fun I build performance engines and custom motorcycles.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d44228a3d3694f32aa46d3df76da1b423d2aa6f8.jpg"
+      },
+      {
+        "name": "Chris Mathew",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-mathew-0bbb26128/",
+        "bio": "Waterloo BMath, MAcc, CPA. Previous Corporate Tax at KPMG and Quantitative Developer at Scotiabank.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f8b9aa997476b6eff3236361ee338abd8de8043f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9069,7 +10391,22 @@
     "teamSize": 85,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Diego Saez Gil",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dsaezgil",
+        "twitter": "http://twitter.com/dsaezgil",
+        "bio": "Diego Saez Gil, Pachama's founder and CEO, is a serial technology entrepreneur and environmentalist. Born and raised in the north of Argentina, Diego saw first hand the impacts of deforestation and climate change which drove him to start a company to tackle this challenge. Prior to Pachama, Diego co-founded Bluesmart (YC W15) and WeHostels. He's an avid book reader and mountain hiker.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f1d37bdc7fe89a32698368d0ebbdf67eaa43d79d.jpg"
+      },
+      {
+        "name": "Tomas Aftalion",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tomasaftalion/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa62109391f5179f7f699bcd0438932be36401bb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9116,7 +10453,15 @@
     "formerNames": [
       "Loonify Space"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sohrab Haghighat",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sohrabhaghighat/",
+        "bio": "Sohrab is a 2x YC founder, currently running Hestus, Inc (S24). Prior to that, Sohrab was founder and CEO of SpaceRyde (W19), a space transportation company, and ran the company for 6 years before selling the IP. Before starting SpaceRyde, Sohrab was an early employee of Cruise and ran Planning and Controls Teams. Sohrab holds a PhD in Aerospace Engineering, has published 13 patents and 23 technical papers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/313bc40c9476e7147d5e842b8bae9ad2b330cad9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9157,7 +10502,14 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "patrick Woodson",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/ patrick-woodson-b687a072",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ca4d2f58b0dd47ddfa73cfd0d8c0c3fc1c5e89c7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9197,7 +10549,20 @@
     "teamSize": 227,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ayodeji Arikawe",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ayodejiarikawe",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2c6301c9585df3b8bcddbe95d11b0087bfb0abc3.jpg"
+      },
+      {
+        "name": "Uka Eje",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/uka-eje-11481ab2/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b6e43e143a12a0fb17481e2a6a39ecd93ef118b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9239,7 +10604,15 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Eiden",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thomaseiden",
+        "bio": "Former reactor engineer/core designer at the Advanced Test Reactor at Idaho National Laboratory. Performed next-generation nuclear fuels research at the University of Wisconsin-Madison. Built a nuclear reactor in 11 months with Oklo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/766aa58ab7ba8890026018e19010ae572c04d26c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9283,7 +10656,22 @@
       "QSpice Labs",
       "Aurora Quantum Technologies (formerly known as QSpice Labs Inc.)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Raina Olsen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/raina-olsen-74b13643/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cbc84c7834a5e9aabe0f919d60bed552a384c159.jpg",
+        "active": false
+      },
+      {
+        "name": "Mohammadreza Rezaee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mohammadreza-rezaee-01b469106/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e9ac7142eb54d70a749b16b7aa19770039f298b3.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9326,7 +10714,30 @@
     "formerNames": [
       "Skipper"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Benjamin Stanfield",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/meetben/",
+        "twitter": "https://twitter.com/bnstnfld",
+        "bio": "Current: Founding Designer @ Outset Formerly: Co-founder, Product & Design @ Wren",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/298d83d23cba599b22c146cd613c82d843389b10.jpg"
+      },
+      {
+        "name": "Mimi Tran Zambetti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mimitranzambetti/",
+        "twitter": "https://twitter.com/mims_tz",
+        "bio": "Co-founder at Wren",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9eb18eeca921beddd9a9280b315a0560d6768da2.jpg"
+      },
+      {
+        "name": "Landon Brand",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/landonbrand/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a177897a002f8a6c1d5a5e1f9fb8403d75982287.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9370,7 +10781,22 @@
     "formerNames": [
       "Boundary Layer Technologies"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ed Kearney",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/edward-kearney/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c0456becfa096417aaaddb243f2e252f9a6eae00.jpg"
+      },
+      {
+        "name": "Jeremy Osborne",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jezosborne",
+        "twitter": "https://twitter.com/JezOsborne",
+        "bio": "Jeremy is the co-founder and CEO of Electric Air, on a mission to lower the cost of heat pumps for a brighter future. He is a renewable energy engineer with over a decade of experience working on heat pump systems. He's a two-time Y Combinator founder, having started Boundary Layer Technologies (W19).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/00d8cd40c903fcae44808e7c0549d0ab4ddca964.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9412,7 +10838,20 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Boris Jarry",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/boris-jarry-24451b14",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e347e9bb7d072872b7862f541889044e4de7e7ac.jpg"
+      },
+      {
+        "name": "David Mayman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/davidmayman",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c96a0a2352c56c91fee1eb427d3e59b7178703c9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9457,7 +10896,15 @@
     "formerNames": [
       "Dragonship"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anders Forslund",
+        "role": "Founder/CEO",
+        "linkedin": "http://linkedin.com/in/anders-forslund",
+        "bio": "Founder and CEO of Heart Aerospace (YC W19). PhD in aerospace design. Lives in Gothenburg, Sweden.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c3563c84315a766e5dcf1e95cc1342bdd5d958a2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9503,7 +10950,14 @@
       "Saratoga Energy",
       "Maple Materials (fka Saratoga Energy)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Drew Reid",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/drew-reid-3937b0125/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cac4ea7e98c3bc7d6d1dc9a54926271c025769c3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9545,7 +10999,14 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ilsu Park",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/daftshady/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/86e0561fc0e3e29f2aa0db0280140a46d7566b54.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9586,7 +11047,16 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rob McGinnis",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/robertmcginnis",
+        "twitter": "https://twitter.com/rob_mcginnis",
+        "bio": "Rob McGinnis is Founder and CEO of Prometheus, the first unicorn in e-fuels. Prometheus removes CO2 from the air and uses solar and wind power to turn it into zero net carbon petrol, diesel, jet, and RNG fuels that are superior to fossil fuels at a lower price. Rob has launched three venture backed startups in the fields of desalination, nanotechnology, and energy, and has over 20 patents in these fields. He completed his PhD in Environmental Engineering at Yale and is a veteran of US Navy EOD.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e458f949e248d906b98fd27831607bd9a2f5f17b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9631,7 +11101,22 @@
       "Tub",
       "Waves Dating"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Morris Hsieh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/morris-hsieh/",
+        "twitter": "https://www.twitter.com/tax_cuts",
+        "bio": "[Present] Co-founder, CEO Primateria [2022-2025] Co-founder, CEO Primodium [2022-2022] Co-founder, Critterz [2019-2022] Co-founder, Palifer (S19)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5e25ba59043bd06d3a6e0caea37398f7eede683f.jpg"
+      },
+      {
+        "name": "Emerson Hsieh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/emersonhsieh/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ae66f36e7fa1f8b1cfbbfb692812d096c6203e4a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9733,7 +11218,16 @@
       "Lucid Drone Technologies",
       "Lucid Drone Tech"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Ashur",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/andrewashur",
+        "twitter": "https://twitter.com/andrew__ashur",
+        "bio": "Andrew manages the overall operations of Lucid, including product development, strategic partnerships, and investor relations. He is a prolific learner with a demonstrated track record for extreme productivity. Andrew graduated with a double major from Davidson College in just three years, while playing a Division I sport, working three jobs, and founding Lucid.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7dab073afb6738934109b1ebf3cf32a194453587.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9775,7 +11269,30 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maximilian Isensee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maximilian-isensee-621711175/",
+        "bio": "Renewable energy engineer. Co-founder of climate NGO \"Protect Our Winters Germany\". Former start-up consultant at Karlsruhe Institute of Technology. Working on solving climate change.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2b466718f13c023c9a3c0a1a132025b002554355.jpg"
+      },
+      {
+        "name": "Christoph Drexler",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christoph-drexler-78173a87/",
+        "twitter": "https://twitter.com/zembobembo",
+        "bio": "Graduated in mechanical engineering at Technical University of Munich. Delved into aerodynamics in master thesis optimizing Kitekraft's airfoils. Heavy interest in sustainability and technological advances tackling climate change, to which the solutions lie in the \"We\", not in the \"I\".",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83a06e83d3e655aaa73923b07dd029fa26dabd62.jpg"
+      },
+      {
+        "name": "André Frirdich",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andr%C3%A9-frirdich-42257715b/",
+        "bio": "Aerodynamics engineer, graduated from Technical University of Munich. Focused on aircraft, helicopter, and wind turbine technology. Wrote master thesis about flying wind turbine aerodynamics optimization. Personal motivation powered by the vision of changing the world's energy generation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83d6fdbba09c9df90224676d54424126b464fb9f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9821,7 +11338,22 @@
     "formerNames": [
       "Yummy Future Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jack Cui",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/guangzhe-cui-5b8651b5/",
+        "bio": "Any questions for robotics? Happy to help.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e191eb10434c9fb6cadeeef46061350b47350197.jpg"
+      },
+      {
+        "name": "Garrett Yan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/garrett-yueming-yan-b036b470/",
+        "bio": "Co-founder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/85d860e5809e09c1d164a6983ffc5aec0b72bcd3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9862,7 +11394,21 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Birgitt Boschitsch",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/birgitt-boschitsch/",
+        "twitter": "https://twitter.com/birgittmb",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/598b64ace3008fc9a98c96b621118f781ebb11de.jpg"
+      },
+      {
+        "name": "Tak-Sing Wong",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tak-sing-wong-6b35a7b/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9381cf5db967b997bb283125f66d972e060a66bd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9903,7 +11449,16 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Roman Teslyuk",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/roman-teslyuk-a344881a/",
+        "twitter": "https://twitter.com/romanteslyuk",
+        "bio": "Founder and CEO, EARTH AI.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d19ad654281fdeb0aa6e295196d36d01386dfc0a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9942,7 +11497,22 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jamie Bacher",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jbacher/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/283af76ad44380d2043f8aaf892856669ddf84c0.jpg",
+        "active": false
+      },
+      {
+        "name": "Adam Paul Arkin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adamarkin/",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -9985,7 +11555,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tom Alcorn",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tdbalcorn/",
+        "bio": "Machine learning enthusiast, self-taught hardware hacker",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7df74fe3221be7d16ef42dc3b88d0cac270454ac.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10033,7 +11611,25 @@
       "Nomad Moments",
       "Debt Destroyer (Formerly Nomad Rides)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Jones",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/daniel-jones-701186124/",
+        "bio": "Focused on helping manufacturing companies improve their industrial equipment.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/189e55f4884974cbdf43b34d847d99bf8f6d6134.jpg",
+        "active": false
+      },
+      {
+        "name": "Michael McHugh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mfmchugh/",
+        "twitter": "https://x.com/Mike_McQ77",
+        "bio": "Hello! I am a co-founder of Nomad rides from the S19 batch. We grew a rideshare service in the hay day of Uber and Lyft to 6 different cities, most of them being campus/college towns. We operated at high level of scale at two of those campuses. It was an incredible journey, not to mention a lot of fun. Please reach out if it would be beneficial for us to connect!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e509dc1d9e16f83b238d05d58e8a1b71874fc7fe.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10077,7 +11673,16 @@
       "Nabla Computing",
       "Nabla Inc"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chirath Neranjena",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chirath-neranjena-8299241/",
+        "twitter": "https://twitter.com/neranjena?lang=en",
+        "bio": "Aerospace Engineer. Private pilot, amateur musician and photographer. Caltech | Idealab | GoogleX | Y Combinator. Made in Sri Lanka",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6048c541901923761fbace17efeaa283c82f50c0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10119,7 +11724,14 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ignacio Belieres Montero",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ignacio-b%C3%A9li%C3%A8res-montero-14b457b6/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/795061887da9544770b0779674959587fe78b843.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10405,7 +12017,21 @@
     "teamSize": 50,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maria Fujihara",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mariafujihara",
+        "bio": "Founder of SINAI Technologies, a climate tech company helping organizations measure, analyze, and reduce carbon emissions. With a background in architecture and urban planning, I previously worked at Brazil’s Green Building Council, promoting sustainable construction. I was also an advisor to Project Drawdown and alumni of Singularity University. I believe in transforming climate change from a crisis into the most significant opportunity of our generation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b9eb63c610dea9b6530329bf381ef1f5020a685f.jpg"
+      },
+      {
+        "name": "Alain Rodriguez",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alainrodriguez/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c16f652cc63a14dfeccd619efb37d1bc67af93a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10451,7 +12077,15 @@
       "UTVATE",
       "Farcast (formerly UTVATE)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Siamak Ebadi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/siamak-ebadi-999555a/",
+        "twitter": "https://twitter.com/EbadiSiamak",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8bffcc3b5c5681aa3404b4ddab858f5feadce7c1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10497,7 +12131,22 @@
     "formerNames": [
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jamie Gull",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jamie-gull/",
+        "twitter": "https://twitter.com/jamiegull",
+        "bio": "Jamie graduated from Stanford University with bachelor's and master's degree in Aerospace Engineering. He then joined Scaled Composites as an aircraft design engineer Jamie then moved to SpaceX where he was the responsible engineer on the aft thermal shield of the Falcon 9 rocket that enabled the first hypersonic reentry of an orbital rocket and reuse of the first stage. He now runs Wave Function Ventures, investing in early stage hardware.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f5f0d888e28ab071586ae788e521a52bb3ddef3.jpg"
+      },
+      {
+        "name": "Evan Mucasey",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/evan-mucasey-878655108/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f653bb3243708ec83a35230d8eb92a0bd2621ff.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10539,7 +12188,17 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Soham Sankaran",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sohamsankaran/",
+        "twitter": "https://twitter.com/sohamsankaran",
+        "bio": "Soham Sankaran (https://soh.am) is the founder of Pashi. He was formerly a PhD student at Cornell working at the intersection of distributed systems and robotics, and a researcher at the Yale Institute for Network Science working on human agreement. Soham grew up in Bombay, India, where he built robots and nearly got expelled from both middle school and high school, and went to Yale for his BS in Computer Science. In his spare time, he writes for movies and television with his brother Sahaj.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0eacef659e48e67d36c0b1773674fde676252486.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10580,7 +12239,16 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lihang Nong",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lihang-nong-a148b75b/",
+        "bio": "Working on manufacturing + AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8a6ca557234eb19ab67027042a51df41617aad85.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10623,7 +12291,28 @@
     "teamSize": 53,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vihari Kanukollu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kvihari/",
+        "twitter": "https://twitter.com/VihariKanukollu",
+        "bio": "Forbes 30 under 30 Asia, Co-Founder and CEO @urbankisaan. Farmer at heart.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ca737070b84dc650f12c0b8bf1d53fa40e77ff82.jpg"
+      },
+      {
+        "name": "Srinivas Chaganti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chaganty/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/902ee56ad5f6506bb68372c3b903ab36af1fd867.jpg"
+      },
+      {
+        "name": "Dr. Sairam Reddy Palicherla",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sairam-reddy-3788647/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0462f3c4752a5d961c541a77a36c25257d7e57f1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10667,7 +12356,14 @@
     "formerNames": [
       "Lector"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonas Schneider",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jonas-schneider/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/785251fbd3d69ede8707493ac0b8131f302edfd2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10709,7 +12405,15 @@
     "formerNames": [
       "Avion UAV"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brook Ayalneh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brook-a-4002701a4/",
+        "bio": "Co-founder & CEO at Avion UAV",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fa2b3505480c07593015175fa5b5528672629c4b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10749,7 +12453,21 @@
     "teamSize": 31,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Levy",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mlevy23/",
+        "bio": "Building SOMATIC. Built Chalkable.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7bfda3fb2b408f9be713e101030725eb052a17d9.jpg"
+      },
+      {
+        "name": "Eugene Zasoba",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ievgenii-zasoba-a009286/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/506081fbd1cc39b2e508612b3f2f7608d801b4a7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10798,7 +12516,23 @@
       "Inc.",
       "Atmo AI"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Levy",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/levyalex",
+        "bio": "Leveraging AI to revolutionize the physical sciences, Alex Levy is the CEO and co-founder of Atmo, the leading company integrating AI into global weather forecasting. Previously, he co-founded Atomwise (W15), a pioneering AI company in small molecule drug discovery, boasting over 800 active programs and $1 billion in pharmaceutical partnerships. An alumnus of the University of Toronto, he began his career by leading a computer vision research lab within the Computer Science Department.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9d6b2d29f328539e24d2cb0bac16217cc3f8838b.jpg"
+      },
+      {
+        "name": "Johan Mathe",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/johmathe/",
+        "twitter": "https://twitter.com/johmathe",
+        "bio": "As co-founder and CTO of Atmo, Johan spearheads groundbreaking advancements in climate and weather science, leveraging AI, applied mathematics, and distributed systems. His lifelong mission is to bring applied mathematics and AI to the physical sciences. His expertise is backed by an 8-year tenure at Google, including Google X's Project Loon, where he lead critical efforts in the planning and simulation, and as a founding team member of Caption Health (acq. 2023) and Apollo Fusion (IPO 2021).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/140822548475d2414b46dec1a3515a808fd42ecb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10842,7 +12576,14 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Manuel Schoenfeld",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/manuelschoenfeld/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/531b0795940688e8174a48d93505363d3df35afb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10886,7 +12627,14 @@
     "teamSize": 40,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maddie Hall",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maddie-hall-76293135/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4ad3edb2ac5eebcff00205d7f865a0442daa0994.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10927,7 +12675,22 @@
     "teamSize": 33,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shyam Srinivasan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shyam-srinivasan-1a10b944/",
+        "bio": "Shyam started his career in consumer electronics. But after nearly a decade helping to architect, design, and manufacture 10+ products for companies like Apple, Nest, and Google, he began to think about the environmental impact of building devices that embody a great deal of energy in countries with loose emissions standards, and inevitably end up in landfills. He and Evan founded Zitara with the mission of accelerating the electrification of transportation and grid-scale energy storage.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/387ba4474f42fdeabb913a5b9d7737ee11e623e0.jpg"
+      },
+      {
+        "name": "Evan Murphy",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/evan-murphy-swdev/",
+        "bio": "CTO and co-founder, Zitara Technologies. Generalist software engineer with 10+ years experience, focusing on data infrastructure. Previously: - Tower Research - infrastructure for HFT - Tesla - Simulation for Autopilot - Stemcentrx (acq by Abbvie) - lab informatics for cancer research Also co-founded a toy company, E&M Labs: 3 Kickstarter projects, ~10 kilotrebuchets, 2 laser cutters, 4 years of retail sales.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a2c616084566bd4266a9a75976c35eaab13bb155.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -10977,7 +12740,21 @@
       "NextEra Robotics",
       "Nextera Robotics"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lana Graf",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lanagraf/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b02edc15fe6733a4ccfad9ee9d6187ec22de92cf.jpg"
+      },
+      {
+        "name": "Alex Rand",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alex-s-rand-69292095/",
+        "bio": "CTO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/52ff1e1738cbe55f66073a8adae6975f905f9fe5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11024,7 +12801,22 @@
       "Statiq ( by Sharify Services Private Limited )",
       "Statiq ( Sharify Services Private Limited )"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Akshit Bansal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/akshit-bansal7/",
+        "bio": "I am an Electrical engineer by education , conservationist by heart. I believe that electric vehicles are the future and catalysts for positive environmental change. I, along with my team are tackling the problem of EV adoption in developing economies and building sustainable and affordable EV charging infrastructure.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/66680ad73e26d2a9eb615b4e6a998c1dab8ca108.jpg"
+      },
+      {
+        "name": "Raghav Arora",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/raghav-arora-ab5087192/",
+        "bio": "I have been a data scientist with Wipro before being the CTO of Statiq. Trained around 1500 people in India on Data Analysis using python.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/269ceb286af50e1f29aad2e20e25959e3e24ce7d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11063,7 +12855,28 @@
     "status": "active",
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Freddie Evans",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/freddie-evans-ab110b63/",
+        "bio": "Co-founder and CEO of Minimum. Passionate about driving decarbonisation",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa33c637640c8dd6fb63d51bbcf03d9c77c11761.jpg"
+      },
+      {
+        "name": "Chris Winchurch",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-winchurch/",
+        "bio": "Co-founder & CPO/CTO of Minimum (S20). Previously Consultant @ Boston Consulting Group. Masters in EE @ Imperial College London. Half an MBA @ Harvard Business School.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a24e3fb26b1fd26635475c1d2c42c281eca96b63.jpg"
+      },
+      {
+        "name": "Freddie Green",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/freddie-green-4a235a80/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/59f2223bf87a5fe36201c0873d291ec1823e3b9b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11102,7 +12915,22 @@
     "teamSize": 16,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Hearne",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adamhearne/",
+        "bio": "Adam worked in mining for 12 years, and saw first hand how the world's resources are extracted from the earth to go into products that make daily life possible. He then worked at Amazon for 3 years managing the world's most complex supply chains. It wasn't until the Australian bushfire crisis in October 2019 threatened his childhood home that Adam realized that he could use his experience to help tackle the climate crisis and bring transparency to carbon reporting of the world’s supply chains",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f56db087f128d1cab6f962155762acf2ae380c46.jpg"
+      },
+      {
+        "name": "ROHEET SHAH",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/roheetshah/",
+        "bio": "Roheet began his career launching a housing fund in Damascus, Syria until the civil war forced his evacuation. Later, after years working on oil & gas projects as a consultant for the Boston Consulting Group and managing Amazon UK's smart home business, Roheet realized that he wanted to return to a career with impact at its focus, and thought that there was no better challenge than to tackle the climate crisis.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3d849fc6bb4c6a8eb947e607058110130cc723c1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11148,7 +12976,15 @@
     "formerNames": [
       "Mobius"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Margaret Upshur",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/margaretupshur/",
+        "bio": "Margaret is the CEO and founder of Mobius Materials, a marketplace where manufacturers can buy and sell chips quickly, safely & at market prices. Previously, she led operations at Particle, a SF based electronics company, building a 40 person multinational team that launched 170 different products and shipped millions of units. She also worked at McKinsey where she consulted on manufacturing applications and helped open an office in Kenya. Margaret has an engineering degree from Duke.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f278b67ed87d66ce05d2da733260523ff279a853.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -32904,13 +34740,13 @@
     "description": "Building resilient agricultural supply chains for businesses and brands worldwide.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b32d9e7d5954c061118_portfolio%252Fcompany%252F4a64e491-8af3-4755-be55-cc3b6369af65%252F1725422054022-logo.png",
     "website": "https://www.agrigate.id/",
-    "location": "",
+    "location": "Indonesia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -32926,8 +34762,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Indonesia"
+    },
+    "country": "Indonesia",
     "alsoIn": []
   },
   {
@@ -32936,14 +34774,14 @@
     "name": "Agri Sparta",
     "description": "Industrializing rice farming",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1e479957dd323e467e4_portfolio%252Fcompany%252F2766e24f-952e-4fbe-9629-a956b070692c%252F1725422069659-logo.avif",
-    "website": "http://www.agrisparta.com/",
-    "location": "",
+    "website": "http://www.agrisparta.com",
+    "location": "Indonesia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -32959,8 +34797,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Indonesia"
+    },
+    "country": "Indonesia",
     "alsoIn": []
   },
   {
@@ -32970,13 +34810,13 @@
     "description": "Real-time soil fertility mapping",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9ad910b8d1d09ead1aef_portfolio%252Fcompany%252F343fa0dc-2375-4273-b100-1fbeed844b7d%252F1725423789222-logo.png",
     "website": "https://www.agrovisia.com.br/",
-    "location": "",
+    "location": "Brazil",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -32992,8 +34832,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Brazil"
+    },
+    "country": "Brazil",
     "alsoIn": []
   },
   {
@@ -33002,14 +34844,14 @@
     "name": "Akar",
     "description": "Manufacturing and distribution of modular indoor farming in urban cities",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee35bb3af5bfd65883696_portfolio%252Fcompany%252Fde57d13c-60f9-4c83-ba0b-5d3e24a3c32a%252F1725422033479-logo.avif",
-    "website": "https://www.akar.cloud/",
-    "location": "",
+    "website": "https://www.akar.cloud",
+    "location": "Indonesia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2022,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33025,8 +34867,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Indonesia"
+    },
+    "country": "Indonesia",
     "alsoIn": []
   },
   {
@@ -33035,14 +34879,14 @@
     "name": "AmbixOS",
     "description": "AI operating system that turns sensor data into automated actions for critical infrastructure",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee196232e57828f6687f7_portfolio%252Fcompany%252F0d7f68f8-579f-41a6-9040-96c5bbc87677%252F1759141252464-AOSlogo-black.avif",
-    "website": "https://www.ambixos.com/",
-    "location": "",
+    "website": "https://www.ambixos.com",
+    "location": "United Kingdom",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33058,8 +34902,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
     "alsoIn": []
   },
   {
@@ -33068,14 +34914,14 @@
     "name": "Arable",
     "description": "Revolutionizing agriculture in Saudia Arabia with advanced hydroponic technology for efficient fruit and vegetable cultivation in arid conditions.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a9241d3cfe62349c149_portfolio%252Fcompany%252F24031983-a09e-4fe8-bb90-ff9017321ff2%252F1750921821050-Color_Arable.png",
-    "website": "https://www.arablefarms.com/",
-    "location": "",
+    "website": "https://www.arablefarms.com",
+    "location": "Saudi Arabia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33091,8 +34937,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Saudi Arabia"
+    },
+    "country": "Saudi Arabia",
     "alsoIn": [
       "plugandplay"
     ]
@@ -33104,13 +34952,13 @@
     "description": "World's first autonomous, amphibious aircrafts.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a7db54b50e7162c329ddb29_portfolio%252Fcompany%252F1687e395-dc7f-4feb-8d7b-0cf20afa277c%252F1785489218254-1%2520(1).png",
     "website": "https://asperaindustries.com/",
-    "location": "",
+    "location": "India",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2026,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33126,8 +34974,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "India"
+    },
+    "country": "India",
     "alsoIn": []
   },
   {
@@ -33136,14 +34986,14 @@
     "name": "AURELIA INSIGHTS SDN BHD",
     "description": "The compliance operating system for food manufacturers.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d64aba4d489afa47f20_portfolio%252Fcompany%252Fd3cb3daa-5f6c-4b0d-8d51-4517d30d5bde%252F1785941719077-logo.Circle.COLOUR.noBG_rylotrace.png",
-    "website": "https://www.rylotrace.ai/",
-    "location": "",
+    "website": "https://www.rylotrace.ai",
+    "location": "Malaysia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33159,8 +35009,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Malaysia"
+    },
+    "country": "Malaysia",
     "alsoIn": []
   },
   {
@@ -33169,14 +35021,14 @@
     "name": "Beyond Robotics",
     "description": "Beyond Robotics is automating the harvest — the last unsolved bottleneck in a $200B global agriculture market.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a173d1054ca45eed23d985c_portfolio%252Fcompany%252F8b269883-8fff-48e3-94e3-5a0ce9e2abf0%252F1779907850865-beyond%2520robotics%2520logo.png",
-    "website": "https://www.beyond-robotics.ai/",
-    "location": "",
+    "website": "https://www.beyond-robotics.ai",
+    "location": "South Korea",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33192,8 +35044,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "South Korea"
+    },
+    "country": "South Korea",
     "alsoIn": []
   },
   {
@@ -33202,14 +35056,14 @@
     "name": "Buddywise",
     "description": "Real time risk detection for industrial sites",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a194f6effac23559c37_portfolio%252Fcompany%252F06de6e16-a762-4ea9-83ca-719668533fd1%252F1733743548981-Buddywise_Marketing_Report.png",
-    "website": "https://buddywise.co/",
-    "location": "",
+    "website": "https://buddywise.co",
+    "location": "Sweden",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2020,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33225,8 +35079,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
     "alsoIn": []
   },
   {
@@ -33236,13 +35092,13 @@
     "description": "Semi-synthetic infrastrucutre for the 21st century food energy system",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1ffb2a680471521f40b_portfolio%252Fcompany%252F2c71b9ca-fe6c-4a77-a869-5d25be09b607%252F1753079151880-c-stacked-black.avif",
     "website": "https://www.carbonaught.io/",
-    "location": "",
+    "location": "Australia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2022,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33258,8 +35114,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Australia"
+    },
+    "country": "Australia",
     "alsoIn": []
   },
   {
@@ -33269,13 +35127,13 @@
     "description": "Agentic AI for Cattle Management",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d53aba4d489afa47df4_portfolio%252Fcompany%252Fcfe34ef7-43eb-4bd1-ae91-91bc826a9cf7%252F1767821568803-Horizontal%2520Logo%2520(Brown)%2520-%2520CattleOS.jpeg",
     "website": "https://cattleos.com/",
-    "location": "",
+    "location": "Canada",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33291,15 +35149,17 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Canada"
+    },
+    "country": "Canada",
     "alsoIn": []
   },
   {
     "id": "antler-chipchop",
     "source": "antler",
     "name": "Chipchop",
-    "description": "Chipchop",
+    "description": "Vietnam",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c4424c0aee2ff4b4040_teams%252F8963df88-fb81-47ba-9e7e-61c85802540c%252Flogos%252Fchipchop%2520logo%2520-white-%2520square.jpeg",
     "website": "https://chipchop.ninja/",
     "location": "",
@@ -33308,7 +35168,7 @@
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33324,8 +35184,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Vietnam"
+    },
+    "country": "Vietnam",
     "alsoIn": []
   },
   {
@@ -33334,14 +35196,14 @@
     "name": "Dispatcher",
     "description": "Agentic AI drones for private physical security industry",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1cee94dec0abb3afa23_portfolio%252Fcompany%252F18e0c488-9434-4aef-9cd5-78a9e9cc1e55%252F1765287927525-dispatcher%2520logo.avif",
-    "website": "",
-    "location": "",
+    "website": "https://#",
+    "location": "United States",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33357,8 +35219,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -33368,13 +35232,13 @@
     "description": "Physical engineering at software speed",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6aede6405f1b9779bd1502cc_portfolio%252Fcompany%252F03ec9683-28f5-41c3-a090-25a6489bf88c%252F1793975520205-logo-full-dark-alpha%2520(4)%2520(1).png",
     "website": "https://www.enginira.com/",
-    "location": "",
+    "location": "United Kingdom",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2026,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33390,8 +35254,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
     "alsoIn": []
   },
   {
@@ -33401,13 +35267,13 @@
     "description": "Factory AI predicts equipment failures and tells maintenance teams exactly what to do next",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69b1ebdeab96f9a75866b2f6_portfolio%252Fcompany%252F38a717e0-94f3-4b00-bc8b-72e7070aa712%252F1742602285167-Factory%2520AI.png",
     "website": "https://www.f7i.ai/",
-    "location": "",
+    "location": "Australia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33423,8 +35289,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Australia"
+    },
+    "country": "Australia",
     "alsoIn": []
   },
   {
@@ -33434,13 +35302,13 @@
     "description": "Food supply chain B2B Saas providing modern capital and AI solutions",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a2d4f6effac23559dd0_portfolio%252Fcompany%252F0c3ac61d-3aca-4a4f-a2bd-8512513ac7d1%252F1725422180549-logo.png",
     "website": "https://farmio.io/en/",
-    "location": "",
+    "location": "Singapore",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33456,8 +35324,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Singapore"
+    },
+    "country": "Singapore",
     "alsoIn": []
   },
   {
@@ -33466,14 +35336,14 @@
     "name": "FarmPro",
     "description": "FarmPro is a marketplace connecting ag service providers with agricultural producers in need of services. We provide a method for the next generation of farmers to better utilize their equipment and skills as professional service providers. We not only connect, but also facilitate workflow, communication, payments and financing.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b4ad9e7d5954c0613ab_portfolio%252Fcompany%252F51d03283-c4ac-4dd8-a100-5ddbf1c5afd4%252F1725606756005-logo.png",
-    "website": "https://www.farmpro.ag/",
-    "location": "",
+    "website": "https://www.farmpro.ag",
+    "location": "United States",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2022,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33489,8 +35359,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -33500,13 +35372,13 @@
     "description": "Simplifying large-scale feeding; no kitchens, no infrastructure required",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d47e14fcae63ea531ef_portfolio%252Fcompany%252Fce7f914e-0e28-48d0-82ab-b4f856346a42%252F1760002678217-Untitled%2520design%2520(3).png",
     "website": "https://www.forti.food/",
-    "location": "",
+    "location": "Nigeria",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33522,8 +35394,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Nigeria"
+    },
+    "country": "Nigeria",
     "alsoIn": []
   },
   {
@@ -33533,13 +35407,13 @@
     "description": "Future Cow Technologies is a food-tech startup developing an innovative technology that produces real milk without cows, using precision fermentation.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9cac52ec2a2781d9c519_portfolio%252Fcompany%252Fa0311687-fc8c-4f20-aab4-d10d0cb5d59a%252F1730917257904-LOGO-FUTURE-COW-PNG.png",
     "website": "https://www.futurecow.com.br/",
-    "location": "",
+    "location": "Brazil",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33555,8 +35429,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Brazil"
+    },
+    "country": "Brazil",
     "alsoIn": []
   },
   {
@@ -33566,13 +35442,13 @@
     "description": "Cell agriculture company focused on fat production",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d68aba4d489afa47f66_portfolio%252Fcompany%252Fd5f46229-f45e-403e-9827-546d1c59a1cc%252F1733119236771-logo.jpeg",
     "website": "https://genuinetaste.co/",
-    "location": "",
+    "location": "Canada",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2022,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33588,8 +35464,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Canada"
+    },
+    "country": "Canada",
     "alsoIn": []
   },
   {
@@ -33598,14 +35476,14 @@
     "name": "Glīd",
     "description": "Moving freight faster and cheaper with autonomous road-to-rail vehicles.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1ffb2a680471521f3b1_portfolio%252Fcompany%252F2f00514a-8a59-4b65-8f9b-03e713e401e2%252F1738617649610-Screenshot%25202024-03-13%2520065210.avif",
-    "website": "https://glidrail.com/",
-    "location": "",
+    "website": "https://glidrail.com",
+    "location": "United States",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33621,8 +35499,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -33632,13 +35512,13 @@
     "description": "Developing green hydrogen based propulsion systems to decarbonize aviation and shipping.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6970a2a0c7ef28beeb590b63_portfolio%252Fcompany%252Fdbc79766-717e-4d3c-9974-911c832c25f9%252F1768989306533-GA%2520logo.avif",
     "website": "https://www.greenaero.in/",
-    "location": "",
+    "location": "India",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33654,8 +35534,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "India"
+    },
+    "country": "India",
     "alsoIn": []
   },
   {
@@ -33665,13 +35547,13 @@
     "description": "Wholesale Seafood Solution",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c7f10b8d1d09ead5d43_teams%252Fbbb38a6a-9fbc-4042-b1f1-32d1ac09237d%252Flogos%252Flogo-circle.png",
     "website": "https://harvesea.com/",
-    "location": "",
+    "location": "Indonesia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33687,8 +35569,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Indonesia"
+    },
+    "country": "Indonesia",
     "alsoIn": []
   },
   {
@@ -33698,13 +35582,13 @@
     "description": "Harvy builds a decentralized local food distribution model that is owned by the farmers.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9dc43a3a657de965d6ee_portfolio%252Fcompany%252Fe8cbf5b6-d492-4fb1-8cac-5917b5cf18d6%252F1725844343995-logo.png",
     "website": "https://www.harvy.tech/",
-    "location": "",
+    "location": "France",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33720,8 +35604,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "France"
+    },
+    "country": "France",
     "alsoIn": []
   },
   {
@@ -33731,13 +35617,13 @@
     "description": "The AI manufacturing engineer that turns drawings into production-ready decisions - 10x faster, proven at Siemens and Fortune 500 factories",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a17f5a8f4063567cb017f48_portfolio%252Fcompany%252F008b3a45-e448-42f8-85ed-104699cb9294%252F1779955076020-Industrialmind%2520logo.png",
     "website": "https://www.industrialmind.ai/",
-    "location": "",
+    "location": "United States",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33753,8 +35639,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
     "alsoIn": [
       "plugandplay"
     ]
@@ -33766,13 +35654,13 @@
     "description": "KaFresh helps keep produce fresh for 3x longer using organic plant-based spray protection.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9aff77fcf19d200e28eb_portfolio%252Fcompany%252F3d64b8ff-641b-4740-94de-239be15cafff%252F1740734622584-download%2520(3).png",
     "website": "https://siovalley.tech/",
-    "location": "",
+    "location": "Kenya",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33788,8 +35676,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Kenya"
+    },
+    "country": "Kenya",
     "alsoIn": []
   },
   {
@@ -33799,13 +35689,13 @@
     "description": "Digital workflow for footwear manufacturing cost-effectively and sustainably.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b82d5dec69f06644c96_portfolio%252Fcompany%252F5c9ff9c2-27e3-4088-94cb-3eb4c1e7f2e2%252F1725421888148-logo.png",
     "website": "https://koo.bz/",
-    "location": "",
+    "location": "United States",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33821,8 +35711,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -33832,13 +35724,13 @@
     "description": "Integrated Co-Farming company that focuses on empowering farmers through post-harvesting technology",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9bbeb591d03330c26712_portfolio%252Fcompany%252F67e0d4b9-4cf7-4ef0-8aa1-fc82ac780cab%252F1725422117791-logo.png",
     "website": "https://koraagri.com/",
-    "location": "",
+    "location": "Singapore",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33854,8 +35746,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Singapore"
+    },
+    "country": "Singapore",
     "alsoIn": []
   },
   {
@@ -33865,13 +35759,13 @@
     "description": "No waste, and no one left behind. | 誰も、何も捨てられない世界を目指す",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/698950ca6a5e7ec640077e01_portfolio%252Fcompany%252F0d033ad6-a9f1-4844-a272-7c503943f86c%252F1725423458815-logo.png",
     "website": "https://kukulcan.biz/",
-    "location": "",
+    "location": "Japan",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33887,8 +35781,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Japan"
+    },
+    "country": "Japan",
     "alsoIn": []
   },
   {
@@ -33898,13 +35794,13 @@
     "description": "Reinventing agricultural supply chains as a next-gen digital wholesaler connecting farmers directly to restaurants—delivering traceable produce with peak freshness and superior nutrition.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c2d988ad26408450ad5_portfolio%252Fcompany%252F7e405f87-06e1-4377-b551-3bbe87952bec%252F1746671327327-LocalPasar%2520Logo%2520(PNG).png",
     "website": "https://localpasar.com/",
-    "location": "",
+    "location": "Malaysia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33920,8 +35816,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Malaysia"
+    },
+    "country": "Malaysia",
     "alsoIn": []
   },
   {
@@ -33931,13 +35829,13 @@
     "description": "Biotech solutions that combines technology and nature to create new materials from plants by investigating the potential of Brazilian biodiversity.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b3bd9e7d5954c0611fa_portfolio%252Fcompany%252F4e6c23dc-6a72-4180-8583-e75dbdb69fa6%252F1725423808875-logo.png",
     "website": "https://www.mabebio.com/",
-    "location": "",
+    "location": "Brazil",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33953,8 +35851,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Brazil"
+    },
+    "country": "Brazil",
     "alsoIn": [
       "plugandplay"
     ]
@@ -33966,13 +35866,13 @@
     "description": "Physical AI Infrastructure built for the real world",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6abc53f747677bb82c54137c_portfolio%252Fcompany%252F6eb3d8af-b271-467a-a410-bc485d93685a%252F1790727151882-Logo%2520Typeface.jpeg",
     "website": "https://mantamachineservices.com/",
-    "location": "",
+    "location": "Australia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -33988,8 +35888,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Australia"
+    },
+    "country": "Australia",
     "alsoIn": []
   },
   {
@@ -33999,13 +35901,13 @@
     "description": "Generating hardware manufacturing documentation at AI speed.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a2a4f6effac23559da7_portfolio%252Fcompany%252F0b85d0c0-34ff-4bef-bb68-e9678f4f10b6%252F1738974662475-IconOnly_Transparent_NoBuffer.png",
     "website": "https://www.manufacture-ai.com/",
-    "location": "",
+    "location": "United States",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34021,8 +35923,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -34032,13 +35936,13 @@
     "description": "AI-enable any legacy industrial software in 30 minutes - no replacement, no disruption",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a173a76e8bdaa9903cba59d_portfolio%252Fcompany%252F06957d1b-3d9a-4c2e-81c0-75318dff92b6%252F1779907153556-mapping%2520intelligence%2520logo.png",
     "website": "https://mappingintell.ai/",
-    "location": "",
+    "location": "Singapore",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34054,8 +35958,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Singapore"
+    },
+    "country": "Singapore",
     "alsoIn": []
   },
   {
@@ -34065,13 +35971,13 @@
     "description": "AI full-stack for specialty chemicals: AI R&D engine asset-light cross border distribution",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a9ab75f2f7e703d545c1724_portfolio%252Fcompany%252F9ac17311-d250-4579-87d9-34004608b544%252F1788523993975-%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-09-04%2520125412.png",
     "website": "https://mstack.ai/",
-    "location": "",
+    "location": "United States",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2026,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34087,8 +35993,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -34098,13 +36006,13 @@
     "description": "Developing an AI-powered insect incubator system for horticulture farms, Omma is automating the rearing of beneficial insects to reduce pesticide use in large-scale greenhouses.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b52d9e7d5954c061467_portfolio%252Fcompany%252F533fd77d-b023-484d-87a9-c28b1e5122d3%252F1725421593845-logo.png",
     "website": "https://www.omma.bio/",
-    "location": "",
+    "location": "United Kingdom",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34120,8 +36028,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United Kingdom"
+    },
+    "country": "United Kingdom",
     "alsoIn": []
   },
   {
@@ -34131,13 +36041,13 @@
     "description": "AI for the industrial workforce",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9cae52ec2a2781d9c535_portfolio%252Fcompany%252Fa0ecc8d5-ef63-4a52-a14f-cc9a40e4e639%252F1768740249571-Screenshot%25202026-01-18%2520at%252013.25.01.png",
     "website": "https://www.opero.pro/",
-    "location": "",
+    "location": "Denmark",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34153,8 +36063,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
     "alsoIn": []
   },
   {
@@ -34163,14 +36075,14 @@
     "name": "OTee",
     "description": "DeepTech bringing a disruptive paradigm shift to Industrial Automation with Virtual PLCs.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c4624c0aee2ff4b4058_portfolio%252Fcompany%252F869b92c3-0f44-4dec-94c1-b2c3c0ec6df7%252F1739706558879-Reverse%2520logo%2520for%2520white%2520backgrounds.png",
-    "website": "https://otee.io/",
-    "location": "",
+    "website": "https://otee.io",
+    "location": "Norway",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34186,8 +36098,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Norway"
+    },
+    "country": "Norway",
     "alsoIn": []
   },
   {
@@ -34196,14 +36110,14 @@
     "name": "PCB Labs",
     "description": "PCB Labs brings full cycle microelectronics manufacturing to the engineer's table top",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944ef24d4def57cc44694a8_portfolio%252Fcompany%252F4de23f83-a841-4561-8c95-fd902fc67dd1%252F1725423018699-logo.png",
-    "website": "https://pcblabs.com/",
-    "location": "",
+    "website": "https://pcblabs.com",
+    "location": "Germany",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34219,8 +36133,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Germany"
+    },
+    "country": "Germany",
     "alsoIn": []
   },
   {
@@ -34230,13 +36146,13 @@
     "description": "Gateway to sustainable farming through AI based sensor systems.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1ffb2a680471521f3de_portfolio%252Fcompany%252F2e54fa07-214b-42ab-a613-1bce80fcb1d6%252F1725420538216-logo.avif",
     "website": "https://perplant.ai/en/",
-    "location": "",
+    "location": "Denmark",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2022,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34252,8 +36168,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
     "alsoIn": []
   },
   {
@@ -34263,13 +36181,13 @@
     "description": "AI-Powered Engine for Manufacturing Companies",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d34e14fcae63ea53053_portfolio%252Fcompany%252Fc64dedd0-51d7-4384-baf3-3b47891f519c%252F1741073717168-Logo%2520Iconagraphy_Combination.png",
     "website": "https://raigine.com/",
-    "location": "",
+    "location": "Indonesia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34285,8 +36203,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Indonesia"
+    },
+    "country": "Indonesia",
     "alsoIn": []
   },
   {
@@ -34296,13 +36216,13 @@
     "description": "Vision AI-Based PCBA Inspection Automation Solution",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1cee94dec0abb3afb0b_portfolio%252Fcompany%252F1958b101-b6b2-48d3-9f58-898303034b4f%252F1737009116041-rexolution_ai%2520(1).avif",
     "website": "https://rexolution.ai/",
-    "location": "",
+    "location": "South Korea",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34318,8 +36238,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "South Korea"
+    },
+    "country": "South Korea",
     "alsoIn": []
   },
   {
@@ -34329,13 +36251,13 @@
     "description": "B2B Data - Driven Development and manufacturing automation platform",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c27988ad26408450a70_portfolio%252Fcompany%252F7d4a9bfb-35b2-48f9-9ab2-92278a17c61a%252F1732613601581-logo.webp",
     "website": "https://www.openfood100.com/",
-    "location": "",
+    "location": "South Korea",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34351,8 +36273,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "South Korea"
+    },
+    "country": "South Korea",
     "alsoIn": []
   },
   {
@@ -34361,14 +36285,14 @@
     "name": "Sand Made",
     "description": "3D printed high-performance technical ceramics for aerospace, automotive, and energy.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1cee94dec0abb3afa20_teams%252Fb5258a19-7482-45d4-8489-f98a73689de1%252Flogos%252F1000010537.avif",
-    "website": "https://www.sandmade.co/",
-    "location": "",
+    "website": "https://www.sandmade.CO",
+    "location": "United States",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34384,8 +36308,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -34394,14 +36320,14 @@
     "name": "Sapper Intelligence",
     "description": "Recognize whats out of sight!",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c5724c0aee2ff4b4156_portfolio%252Fcompany%252F8b800609-abee-4569-92bc-c8f8643f03e9%252F1749560054019-SapperLogo.png",
-    "website": "https://sapper-intelligence.com/",
-    "location": "",
+    "website": "https://sapper-intelligence.com",
+    "location": "Germany",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34417,8 +36343,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Germany"
+    },
+    "country": "Germany",
     "alsoIn": []
   },
   {
@@ -34427,14 +36355,14 @@
     "name": "Second Ocean",
     "description": "Ocean Tree : Indoor Seaweed Farming Solution",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9dba3a3a657de965d667_teams%252F524b15c6-6c01-4edb-92ea-25fe6fb0a171%252Flogos%252Fsecondocean2%2520copy.png",
-    "website": "https://www.second-ocean.com/",
-    "location": "",
+    "website": "https://www.second-ocean.com",
+    "location": "South Korea",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34450,8 +36378,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "South Korea"
+    },
+    "country": "South Korea",
     "alsoIn": []
   },
   {
@@ -34460,14 +36390,14 @@
     "name": "SkoneLabs",
     "description": "Minimizing food loss through intelligent quality monitoring and shelf life prediction using smart sensors and AI.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69dfd6db60a3206bd2088ba3_portfolio%252Fcompany%252F500f83cd-d84f-441d-a8a0-770cb3884d3f%252F1776277201865-Square%2520Horizontal%2520dark.png",
-    "website": "https://skonelabs.com/",
-    "location": "",
+    "website": "https://skonelabs.com",
+    "location": "Germany",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34483,8 +36413,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Germany"
+    },
+    "country": "Germany",
     "alsoIn": []
   },
   {
@@ -34494,13 +36426,13 @@
     "description": "AI-powered inspection modules for manufacturing that replace manual inspections and ensure 100% quality control",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c09988ad26408450900_portfolio%252Fcompany%252F7766c5ea-36b3-4752-8c1c-8d8636fba15b%252F1725422518293-logo.png",
     "website": "https://smartviztech.ai/",
-    "location": "",
+    "location": "Singapore",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2023,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34516,8 +36448,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Singapore"
+    },
+    "country": "Singapore",
     "alsoIn": []
   },
   {
@@ -34526,14 +36460,14 @@
     "name": "Takumi Engineering",
     "description": "Sensing technology for intelligent machines",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6abca6b01c00b7bb8e522960_portfolio%252Fcompany%252F0b639e0e-ae85-4798-9aa2-f7bc0499cf0c%252F1790748325434-Screenshot%25202026-09-30%2520160220%2520(1).png",
-    "website": "https://www.takumiengineering.com.au/",
-    "location": "",
+    "website": "https://www.takumiengineering.com.au",
+    "location": "Australia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2026,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34549,8 +36483,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Australia"
+    },
+    "country": "Australia",
     "alsoIn": []
   },
   {
@@ -34560,13 +36496,13 @@
     "description": "Hyperlocal Fish Farm Operators",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c02988ad264084508a4_portfolio%252Fcompany%252F76277e76-37c2-4ba8-803a-b6b7f16591c5%252F1767777842336-Logo-Ternakin-horisontal%2520transparant-fotor-20240530113920.png",
     "website": "https://ternakin.co/en",
-    "location": "",
+    "location": "Indonesia",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34582,8 +36518,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Indonesia"
+    },
+    "country": "Indonesia",
     "alsoIn": []
   },
   {
@@ -34593,13 +36531,13 @@
     "description": "The first natural food dyes that can replace artificial ones",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69ce34dc9792f02759b2cc3e_teams%252F9b90c3a3-4827-4081-94fd-62b51b512a11%252Flogos%252Ficono.png",
     "website": "https://www.tint.bio/",
-    "location": "",
+    "location": "Spain",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34615,8 +36553,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Spain"
+    },
+    "country": "Spain",
     "alsoIn": []
   },
   {
@@ -34626,13 +36566,13 @@
     "description": "Tocco builds the world’s largest regenerative materials platform to connect world-changing materials with trailblazing brands, making it 10x easier and faster to make and ship cleaner products.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9db63a3a657de965d631_portfolio%252Fcompany%252Fe655390a-75fe-4fe2-9d0b-d19415c5d4c6%252F1725844357013-logo.png",
     "website": "https://tocco.earth/?utm_source=LinkedIn&utm_medium=cta_tocco_page",
-    "location": "",
+    "location": "France",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34648,8 +36588,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "France"
+    },
+    "country": "France",
     "alsoIn": []
   },
   {
@@ -34658,14 +36600,14 @@
     "name": "Trabotyx",
     "description": "automating manual weeding for organic farmers",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d00a8349fb2ae257f09_portfolio%252Fcompany%252Fb8cce22f-fe98-4fb9-b8c8-05bc78fd1704%252F1725844274203-logo.jpeg",
-    "website": "https://www.trabotyx.com/",
-    "location": "",
+    "website": "https://www.trabotyx.com",
+    "location": "Netherlands",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2020,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34681,8 +36623,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
     "alsoIn": []
   },
   {
@@ -34692,13 +36636,13 @@
     "description": "Unlocking Earth's hidden resources with robotic intelligence",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6970a2e5231d1cba20b5a352_portfolio%252Fcompany%252F2d9a7263-9d45-47c8-86d2-0a8f3f53de37%252F1768989402607-Uncharted%2520logo.avif",
     "website": "https://www.uncharted-ai.com/",
-    "location": "",
+    "location": "India",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2025,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34714,8 +36658,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "India"
+    },
+    "country": "India",
     "alsoIn": []
   },
   {
@@ -34724,14 +36670,14 @@
     "name": "Untuvia",
     "description": "Down feather that outlives its fabric.",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9df12793aa7a50a3df7b_portfolio%252Fcompany%252Ff7253d76-9ef8-4d68-91c9-e7383970efe8%252F1725420674751-logo.png",
-    "website": "https://www.untuvia.com/",
-    "location": "",
+    "website": "https://www.untuvia.com",
+    "location": "Finland",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34747,8 +36693,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Finland"
+    },
+    "country": "Finland",
     "alsoIn": []
   },
   {
@@ -34758,13 +36706,13 @@
     "description": "Autonomous infrastructure for farming and frontline logistics",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9e002793aa7a50a3e09d_portfolio%252Fcompany%252Ffc916679-2558-4fd4-bb3d-c5f6d657a1c0%252F1725423043117-logo.png",
     "website": "https://voltrac.eu/",
-    "location": "",
+    "location": "Spain",
     "region": "",
     "subregion": "",
     "tags": [
       "Industrials"
     ],
-    "year": "",
+    "year": 2024,
     "program": "Antler",
     "programSlugs": [
       "antler"
@@ -34780,8 +36728,10 @@
       "facebook": "",
       "crunchbase": ""
     },
-    "extra": {},
-    "country": "",
+    "extra": {
+      "country": "Spain"
+    },
+    "country": "Spain",
     "alsoIn": []
   },
   {

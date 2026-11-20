@@ -27,7 +27,24 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Min Ming Lo",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/lominming",
+        "twitter": "https://twitter.com/lominming",
+        "bio": "YC alum, acquired by Dropbox · Engineer · Designer · Product",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/acb166dd4379437126aae4c98e808c69ed5e3cc3.jpg",
+        "active": false
+      },
+      {
+        "name": "Shravan Reddy",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shrredd",
+        "twitter": "https://twitter.com/ShravanGReddy",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9d6f65f7897b49a00babd68abc8000b3a809b488.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -68,7 +85,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gagan Palrecha",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/gaganpalrecha/",
+        "twitter": "https://x.com/gaganp",
+        "bio": "Working on something new",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bbfdf44117067c13241ee73dbd19940536ae4bdf.jpg",
+        "active": false
+      },
+      {
+        "name": "Neel Palrecha",
+        "role": "Founder/Vice President of Engineering",
+        "linkedin": "https://www.linkedin.com/in/npalrecha/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/badfe6ae2aba43ba767e66733ef1acff3ae14f07.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -107,7 +141,33 @@
     "status": "acquired",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Darius \"Bubs\" Monsef",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/dariusmonsef",
+        "twitter": "https://twitter.com/bubs",
+        "bio": "Full-stack operator: bubs.co Past: Founder/CEO BraveCare.com (S19), CreativeMarket.com (W10) & COLOURlovers.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/be84bc992d318115861ecca0d7b7bee6b4e7810f.jpg",
+        "active": false
+      },
+      {
+        "name": "Aaron Epstein",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aaron-epstein-a97105/",
+        "twitter": "https://x.com/aaron_epstein",
+        "bio": "General Partner at Y Combinator. Previously co-founder at Creative Market.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/335da14a6701470d7ff708d8aff388f06d9f6984.jpg",
+        "active": false
+      },
+      {
+        "name": "Chris Williams",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/pureform",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c0cdd19b4dd80947aa053792529451405a9de655.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -148,7 +208,24 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Colton",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/pcolton",
+        "twitter": "https://twitter.com/paulcolton",
+        "bio": "Founder of Pixate, Inc. (S12).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/508633c2464159ed9c3fc5e5932883556b499e07.jpg",
+        "active": false
+      },
+      {
+        "name": "Kevin Lindsey",
+        "role": "Founder/Lead Architect",
+        "linkedin": "https://www.linkedin.com/in/kevinlindsey/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/45ae9faddfaefc4a81c8fe933f76d0e8322ce802.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -187,7 +264,26 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jaigouk Kim",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jaigouk/",
+        "twitter": "https://twitter.com/jaigouk",
+        "bio": "- Increasing the quality of life - Right a wrong - Preventing the end of something good",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb74adb87cd25ccce0d3d554e69fe7f2d1d7e1f1.jpg",
+        "active": false
+      },
+      {
+        "name": "Kirill Zubovsky",
+        "role": "Founder/Chief Scout",
+        "linkedin": "https://www.linkedin.com/in/kirillzubovsky",
+        "twitter": "http://twitter.com/kirillzubovsky",
+        "bio": "Current status: https://kirillzubovsky.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d12553483abb5751a8a55dee31d97dfd63a15284.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -228,7 +324,21 @@
     "isHiring": true,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sergie Magdalin",
+        "role": "Founder/CPO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6edf565fbd1b5a3353055794143d6724de3c5a96.jpg"
+      },
+      {
+        "name": "Vlad Magdalin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vladmagdalin/",
+        "twitter": "https://twitter.com/callmevlad",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9b088263ca0fe40a00f1c87656c7ab4ba0839bf9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -269,7 +379,15 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sejun Park",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/sejunpark",
+        "bio": "I do hardware things :)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7b00985ac305a6f51acf106169e768a67070f164.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -313,7 +431,23 @@
       "Plato Design",
       "Aesthetic (formerly Plato Design)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nate Smith",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/nathanaelhsmith",
+        "twitter": "https://twitter.com/nathanael_smith",
+        "bio": "designer | investor | 2x founder Currently founder and CEO at Superoot (S18) Previously co-founder of URX (S13) – acquired by Pinterest",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d1968abbf2510bd099a459d9998123e481ba19a3.jpg"
+      },
+      {
+        "name": "Matthew Trost",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/tsortwehttam",
+        "bio": "Co-founded Haiku (W18). Later joined Plato Design (W18) as a software engineer. During pivot to Aesthetic, joined as a founder.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/208fb5524f214d0fbf7764cdb61dd24f9cdfcfcd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -358,7 +492,25 @@
     "formerNames": [
       "Backlot"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Citron",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dacitron/",
+        "twitter": "https://twitter.com/DanielCitron",
+        "bio": "Daniel is the CEO at AI.Fashion. He is also an award-winning filmmaker (Tribeca Film Festival, SFiFF, LAff) and creative technologist. Previously, Daniel spent time at Google (VR/AR), MIT (Artist in Residence 2019), and Harvard.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a6a15f58415c54004f6813e58b70ddd146b3ccee.jpg",
+        "active": false
+      },
+      {
+        "name": "John Chirikjian",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jchirik/",
+        "bio": "Starpilot (https://www.starpilot.ai) formerly Backlot / AI.Fashion (S20) & 3ayez (W18)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/346641a1be4fe3859950c0814fd5063c94993b6e.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1874,5 +2026,134 @@
     "alsoIn": [],
     "listed": false,
     "delistedAt": "2026-11-18"
+  },
+  {
+    "id": "sparklabs-ondo",
+    "source": "sparklabs",
+    "name": "Ondo",
+    "description": "Ondo is an ethical fashion brand targeting the North American market, sold D2C using new materials and technology patents.",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-237190853_pGQr8xM7_1ee6a2d2f7a035a2fe16720a67c752c14a3e8281_400x225.jpg",
+    "website": "https://ondo.com/",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/ondo/",
+    "location": "USA",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Design, Fashion",
+      "Design"
+    ],
+    "year": 2020,
+    "program": "SparkLabs Batch 16",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Shim Dong-hyun",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/ondonewyork/",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://www.facebook.com/ondonewyork",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "sparklabs-kooding",
+    "source": "sparklabs",
+    "name": "Kooding",
+    "description": "KOODING is a global fashion online marketplace connecting 2 million local fashion brands worldwide with 1.9 billion millennials. KOODING has built a new e-commerce business model and, through a real-time data automation modular system, enables local fashion br",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-237190853_NLmBnjDc_7b50bfc91ecaf9904213b11821ace9175cbeee02_400x225.jpg",
+    "website": "https://www.kooding.com/",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/kooding/",
+    "location": "USA",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Design, Fashion",
+      "Design"
+    ],
+    "year": 2015,
+    "program": "SparkLabs Batch 8",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ryu Jung-bin",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/kooding",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://www.facebook.com/KOODING/",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "sparklabs-the-clozet-company",
+    "source": "sparklabs",
+    "name": "The Clozet Company",
+    "description": "The Clozet is a fashion sharing service that aspires to be the Airbnb of fashion. It connects individual customers to let them earn income by sharing fashion items they rarely use, while enabling others to conveniently rent fashion items at reasonable prices.",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-3717456480_4dTiKWg7_e8f4688665a3a95c7d960fb65539f4c4bd818a49_400x225.jpg",
+    "website": "https://www.closetshare.com/",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/the-clozet/",
+    "location": "Korea",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Design, Fashion",
+      "Design"
+    ],
+    "year": 2016,
+    "program": "SparkLabs Batch 9",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sung Ju-hee",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/the-clozet-company/about/",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://www.facebook.com/closetsharekr/",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Korea"
+    },
+    "country": "South Korea",
+    "alsoIn": []
   }
 ]

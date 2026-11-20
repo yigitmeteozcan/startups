@@ -28,7 +28,23 @@
     "teamSize": 35,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Darby Wong",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/darbywong/",
+        "twitter": "https://twitter.com/darbyw",
+        "bio": "I'm a co-founder and the CEO of Clerky. I was a startup attorney at Orrick Herrington & Sutcliffe LLP and have a law degree from Harvard Law School. Prior to law school, I majored in computer science at the University of Washington, where I worked on machine learning research.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7754d4850c6c951d9a0dbbf9144e0b363bb8366b.jpg"
+      },
+      {
+        "name": "Chris Field",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/fieldchris",
+        "bio": "I'm a co-founder of Clerky. I was a startup attorney at Orrick, Herrington & Sutcliffe LLP. Before becoming an attorney, I worked in various management and operations roles at TippingPoint Technologies and Micron Electronics. I studied electrical engineering and history at Stanford University and I studied law at the University of Pennsylvania.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cb70b53ae1a54301b3339abd511cb2a351fbaa2b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -72,7 +88,15 @@
     "formerNames": [
       "Cityposh"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nathan Kontny",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/nathankontny",
+        "twitter": "http://twitter.com/natekontny",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5080b289b62920bb4adab9a5d8ffe228e7ddd4b7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -111,7 +135,41 @@
     "status": "acquired",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Damico",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ryandamico",
+        "bio": "Co-founder & CEO of Crocodoc (W10, acquired). Senior product leader @ Box, Wayfair, Meta, and Stripe. Currently taking on part-time and fractional product work while incubating ideas for my next startup.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9aeb6a208caaa618b273731a4e10d40e99425428.jpg",
+        "active": false
+      },
+      {
+        "name": "Peter Lai",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/peterjlai",
+        "twitter": "https://twitter.com/peterjlai",
+        "bio": "- MIT '08 (EECS & Cognitive Science) - Crocodoc (W10) - Emburse (W16)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9492ee49e2566f5e2721054164c4c82d5b3a9174.jpg",
+        "active": false
+      },
+      {
+        "name": "Matt Long",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mateolargo/",
+        "twitter": "https://twitter.com/mateolargo",
+        "bio": "My career has been very YC-centric. At Crocodoc (W10), I focused on building our infrastructure and designing/maintaining the document conversion API; what would today be described as 50% backend engineer and 50% devops. Crocodoc was acquired by Box in May 2013 where I stayed working on mostly the same stuff for about 2 years. After that, I was Tech Lead of their infrastructure engineering team at PlanGrid (W12) for a while. Now I'm on the software team at YC itself which has been an great fun!!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/19b59296fc02422e5ea272fe61184933d57782de.jpg",
+        "active": false
+      },
+      {
+        "name": "Bennett Rogers",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bennett-rogers-2774b3b/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b18d18ae3cd269ad880fc24d85a6b50b57dac92.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -153,7 +211,25 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Wayne Crosby",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wcrosby/",
+        "twitter": "https://twitter.com/wcrosby",
+        "bio": "Wayne is the CEO and founder of OrgOrg, an Organizational Productivity Suite. His first startup, Zenter (W07), was acquired by Google and became Google Slides. Wayne spent 10 years at Google building GSuite, Sign-In with Google, Google+, Applied Machine Intelligence, and more. In 2016, Wayne founded Humu, a company focused on making work better by using software and behavioral change. Humu was acquired by Perceptyx in 2023. Wayne has also been a visiting partner at YC for S23 & W24 batches.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a30dc9b080313e10ac0d3c8615e22d6fe7b9393a.jpg",
+        "active": false
+      },
+      {
+        "name": "Robby Walker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/robbywalker",
+        "bio": "Founder at fpo3. Previously founded Cue (YC W10, acquired by Apple) and Zenter (YC W07, acquired by Google). Spent 9 years at Apple as Senior Director leading Siri and Information Intelligence. 3x YC founder.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/037fd8a2c43439bdcb18893573b694ad3dcaefe2.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -195,7 +271,25 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Eliam Medina",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/eliam",
+        "twitter": "https://twitter.com/helloeliam",
+        "bio": "i feel lucky to be here.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/86ea2a578eb20c786db5a86c626331a35f0be501.jpg",
+        "active": false
+      },
+      {
+        "name": "Rob Dyson",
+        "role": "Founder/CTO",
+        "linkedin": "http://www.linkedin.com/in/rdyson",
+        "bio": "YC Alum, spending a lot of Anthropic credits",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e1f14774d25fc35387836cd058a19c8cca6fbf10.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -238,7 +332,29 @@
     "teamSize": 200,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Samir Smajic",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/samirsmajic",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f61edbfdf597b71cad036bb458aaae749b9493f.jpg"
+      },
+      {
+        "name": "Carl Carell",
+        "role": "Founder",
+        "linkedin": "https://se.linkedin.com/in/carlcarell",
+        "bio": "Carl Carell is the Co-founder and CRO of GetAccept, an all-in-one digital sales room platform helps salespeople win more B2B deals. GetAccept has raised more than $30M in venture funding from Bessemer Venture Partners, Y Combinator, Amino Capital and DN Capital. Carl has co-founded several companies and have an extensive experience in scaling SaaS sales, go-to-market, leadership, and business development. Outside of GetAccept, Carl enjoys helping founders with scaling their business & B2B sales.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/502ca48820ba02dce635cc820e40ca8883f04f90.jpg"
+      },
+      {
+        "name": "Mathias Thulin",
+        "role": "Founder/Executive Partner",
+        "linkedin": "https://se.linkedin.com/in/mathiasthulin",
+        "twitter": "https://twitter.com/mathiasthulin",
+        "bio": "I want to live in a world where emails are short, business happens in a natural way and people care about each other. With a technical background with a degree in Master of Science in Engineering I have the experience to combine technology and sales to create successful companies with strong culture. I've founded companies within Lead Management, Marketing Automation and Sales Enablement with a true passion to make the life easier for every sales rep. I also run a charity project STATEMENT",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6901db97af85440731c9807f65bf79d739a9828.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -278,7 +394,15 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matt Nish",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mattnish",
+        "bio": "Matt Nish is the co-founder and Head of Design at Bonsai, which he started with Matt Brown and Redon Gjika in San Francisco, California. Matt has led the user experience and app design from the beginning, leveraging his former freelancing and agency work experience as inspiration.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/88cca641bc9bf2f1dfb04810d9d8bbdd15344b7a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -322,7 +446,29 @@
     "formerNames": [
       "Disclosures"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Gothelf",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adamgothelf",
+        "bio": "Real Estate Tech Generalist",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4822d697d5d10a85e04ddcd8343874a699e182ac.jpg"
+      },
+      {
+        "name": "Paul Nichols",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/paulcnichols",
+        "bio": "CTO at Campfire.ai",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1baad971f4cfb1563d9f729e0b562ccde5bb1f1d.jpg"
+      },
+      {
+        "name": "Brian Sloss",
+        "role": "Founder/CPO",
+        "linkedin": "https://linkedin.com/in/briansloss",
+        "bio": "Co-founder and CPO at Disclosures.io (YC S17). Currently head of product at Lennar. Interested in the convergence of tech and real estate.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d1b1e78f884240cd6f8642456dc38dff9d20f4ed.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -363,7 +509,16 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christophe Pasquier",
+        "role": "Founder",
+        "linkedin": "http://fr.linkedin.com/pub/christophe-pasquier/56/759/938",
+        "twitter": "https://twitter.com/Christophepas",
+        "bio": "French engineer & product guy, creator of slite.com, and, way more importantly, of wikiwa.rs",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5e9d0ff2c115b6a67baca05b31ccf857121a6ffc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -406,7 +561,15 @@
     "formerNames": [
       "MyStacks"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tucker Cottingham",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tucker-cottingham-53b34611/",
+        "bio": "Tucker is the founder and CEO of Lawyaw. He is passionate about using technology to increase access to legal services and has worked extensively on criminal justice reform issues. He currently serves on the board of the American Bar Association's Legal Technology Resource Center and prior to Lawyaw, built a successful law firm in San Francisco.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5d92ad86062630ebd029ac0664df37f2f23b2018.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -450,7 +613,20 @@
     "formerNames": [
       "Dbrain"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexei Hahunov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexeihahunov/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da5f6376af5b9a59ca3f850c76e66bad1d3919f5.jpg"
+      },
+      {
+        "name": "Dima Matskevich",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mdima/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c45f9d79f82499cdc508a1e1b5f01e4590f67ce8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -492,7 +668,15 @@
     "formerNames": [
       "Opvia"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Will Moss",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/moss-will/",
+        "bio": "- Founder of Opvia - Love to: run, surf, climb, play chess, ski",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/09455b16880ffebc6444b5f408f7c31183f052b4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

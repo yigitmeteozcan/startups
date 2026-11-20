@@ -30,7 +30,16 @@
     "teamSize": 210,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Dix",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/pauldix/",
+        "twitter": "https://twitter.com/pauldix",
+        "bio": "Co-founder and CTO of InfluxData, the company behind InfluxDB, an open source time series database. Creator of NYC Machine Learning Meetup, author of Service Oriented Design with Ruby, and series editor of Addison Wesley's Data & Analytics book and video series.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/08f7956ada5049ce69ab9169b75f8e3c0efe4f24.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -73,7 +82,14 @@
     "formerNames": [
       "Stride API"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Derek Nelson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/derekjn",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9ffdc88614cd90705f8265814d96827a9fa5c6ad.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -117,7 +133,32 @@
     "formerNames": [
       "QuestDB Limited"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nicolas Hourcard",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicolas-hourcard-cfa-b7349b37/",
+        "twitter": "https://twitter.com/nicolas_hrd",
+        "bio": "Co-founder/CEO at QuestDB.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bc590513f179446e8d515ed72c65325fc50acdb4.jpg"
+      },
+      {
+        "name": "Tancrede Collard",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tancrede-collard-35228926/",
+        "twitter": "https://twitter.com/TancThe",
+        "bio": "Co-founder and head of product at QuestDB. Before that, I was running algorithmic trading desks at banks and cryptocurrency firms.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/32e87775d59972e2b1ae146ed36ca880338b2cb6.jpg",
+        "active": false
+      },
+      {
+        "name": "Vlad Ilyushchenko",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ilyushchenko/",
+        "bio": "Founder, CTO, QuestDB 1997 - 2019 Software Engineer, Electronic Trading",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1582960340135f206839659b3f73cc4c6dbfcc58.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

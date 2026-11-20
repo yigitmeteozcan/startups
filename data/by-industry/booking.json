@@ -29,7 +29,30 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alek Vernitsky",
+        "role": "Founder/CEO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/98dbb41a3c40502baf042039edf9df6d1665edc9.jpg",
+        "active": false
+      },
+      {
+        "name": "Alek Strygin",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/astrygin/",
+        "bio": "Founder, Portside, Inc. (portside.aero)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/caba1f58bfe253ac884badc5596ac17ac49b8bd8.jpg",
+        "active": false
+      },
+      {
+        "name": "Ilya Gluhovsky",
+        "role": "Founder/CTO and Vice President of Engineering",
+        "linkedin": "https://linkedin.com/in/ilya-gluhovsky",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/451e2c7c8e4be616123429c7db840f948100aad2.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -69,7 +92,23 @@
     "teamSize": 17,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Wen-Wen Lam",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/wenwen",
+        "twitter": "http://www.twitter.com/wenwen",
+        "bio": "Partner at Gradient Ventures, Former CEO of NexTravel (W15)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ad5dd0b01b95242603fd8784a07588f014a14d44.jpg"
+      },
+      {
+        "name": "Alexey Pakhomov",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/alexeypakhomov/",
+        "bio": "Founder, Biohacker, Ecoenthusiast",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/577a9fb3ea2dac9d155b27e6374e7bbab827fae4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

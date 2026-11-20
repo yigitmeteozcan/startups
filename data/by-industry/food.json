@@ -29,7 +29,15 @@
     "teamSize": 140,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Arram Sabeti",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/arram-sabeti-10220314/",
+        "bio": "-",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/00a85c213739d7461cb904d1fe705fcd13da9418.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -71,7 +79,15 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Phaedra Randolph",
+        "role": "Founder/Founding CEO",
+        "linkedin": "https://www.linkedin.com/in/phaedrar",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39fbf81a528a15b5a0993594239d12bd350c26e7.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -116,7 +132,22 @@
     "formerNames": [
       "Foodie"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Richard Wu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wu-richard/",
+        "twitter": "https://www.twitter.com/heyrichardwu",
+        "bio": "Went through YC in winter of 2019 with the food review app Simmer. We were trying to build Yelp for dishes. Beforehand, I bootstrapped a social impact startup called Kitchenet. Now I'm the director of product at Woflow, which is building the automation infrastructure for commerce.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a79fd88191ef2e424008ea6cd26864c9d16023d5.jpg"
+      },
+      {
+        "name": "Vaibhav Verma",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/vaibhavverma9",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7ecf1abb098132036cfe8c5ba067149440805568.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -158,7 +189,14 @@
     "teamSize": 70,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joey Grassia",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/joeygrassia",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6a7ec677fb5fe1e05bce64cd5a6f449085129c73.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2332,6 +2370,597 @@
       "country": "United States"
     },
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-opply",
+    "source": "ef",
+    "name": "Opply",
+    "description": "Ingredient marketplace for small consumer goods brands.",
+    "logo": "",
+    "website": "",
+    "location": "London",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Food",
+      "Logistics"
+    ],
+    "year": 2021,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Helen Murphy",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/opplyhelen/"
+      },
+      {
+        "name": "Martin Postel",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/postel-martin/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom",
+      "investor": "Chalfen Ventures"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-la-vie",
+    "source": "ef",
+    "name": "La Vie",
+    "description": "Plant-based bacon and ham substitutes.",
+    "logo": "",
+    "website": "",
+    "location": "Paris",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Biotechnology",
+      "Food"
+    ],
+    "year": 2019,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Nicolas Schweitzer",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/nicolasschweitzer/"
+      },
+      {
+        "name": "Vincent Poulichet",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/vpoulichet"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "France",
+      "investor": ""
+    },
+    "country": "France",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-freshflow",
+    "source": "ef",
+    "name": "Freshflow",
+    "description": "AI demand forecasting for grocers.",
+    "logo": "",
+    "website": "",
+    "location": "Berlin",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Food",
+      "Logistics"
+    ],
+    "year": 2021,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Avik Mukhija",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/avikmukhija/"
+      },
+      {
+        "name": "Carmine Paolino",
+        "role": "Founding CTO",
+        "linkedin": "https://www.linkedin.com/in/carminepaolino/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Germany",
+      "investor": ""
+    },
+    "country": "Germany",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-amatera",
+    "source": "ef",
+    "name": "Amatera",
+    "description": "Biotech breeding for perennial crops.",
+    "logo": "",
+    "website": "",
+    "location": "Paris",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Biotechnology",
+      "Food"
+    ],
+    "year": 2022,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Omar Dekkiche",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/omar-dekkiche-563040b3/"
+      },
+      {
+        "name": "Lucie Kriegshauser",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/lucie-kriegshauser-phd-560135102/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "France",
+      "investor": ""
+    },
+    "country": "France",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-qzense",
+    "source": "ef",
+    "name": "Qzense",
+    "description": "Data-driven quality monitoring for fresh produce.",
+    "logo": "",
+    "website": "",
+    "location": "Bangalore",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Food",
+      "Logistics"
+    ],
+    "year": 2019,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Rubal Chib",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/rubalchib"
+      },
+      {
+        "name": "Srishti Batra",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/srishtibatra/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "India",
+      "investor": ""
+    },
+    "country": "India",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-the-bland-company",
+    "source": "ef",
+    "name": "The Bland Company",
+    "description": "Protein ingredients for egg alternatives.",
+    "logo": "",
+    "website": "",
+    "location": "London",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Food"
+    ],
+    "year": 2024,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Yash Khandelwal",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/ykhandelwal6/"
+      },
+      {
+        "name": "Micol Hafez",
+        "role": "CPO",
+        "linkedin": "https://www.linkedin.com/in/micol-hafez"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom",
+      "investor": ""
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-fattastic-technologies",
+    "source": "ef",
+    "name": "Fattastic Technologies",
+    "description": "Tailored lipids for alternative proteins.",
+    "logo": "",
+    "website": "",
+    "location": "Singapore",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Biotechnology",
+      "Food"
+    ],
+    "year": 2022,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Satnam Singh",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/satnam-singh-994b135a/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Singapore",
+      "investor": ""
+    },
+    "country": "Singapore",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-shiok-meats",
+    "source": "ef",
+    "name": "Shiok Meats",
+    "description": "Cell-based seafood and meat for sustainable dining.",
+    "logo": "",
+    "website": "",
+    "location": "Singapore",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Biotechnology",
+      "Food"
+    ],
+    "year": 2019,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sandhya Sriram",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/sandhyasriram/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Singapore",
+      "investor": ""
+    },
+    "country": "Singapore",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-allium-bio",
+    "source": "ef",
+    "name": "Allium Bio",
+    "description": "Food-grade biotech ingredients for plant-based brands.",
+    "logo": "",
+    "website": "",
+    "location": "Singapore",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Biotechnology",
+      "Food"
+    ],
+    "year": 2023,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jonathan Ho",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/jonjamesho/"
+      },
+      {
+        "name": "Albertus Sarwono",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/albertussarwono/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Singapore",
+      "investor": ""
+    },
+    "country": "Singapore",
+    "alsoIn": []
+  },
+  {
+    "id": "sparklabs-kitchen-in-the-lab",
+    "source": "sparklabs",
+    "name": "Kitchen in the Lab",
+    "description": "Kitchen in the Lab is Korea's only startup that handles planning, manufacturing, sales, and advertising in-house — enabling an SPA brand model in the food industry.To maximize its value positioning as a 'trend game-changer in ready-to-eat meals' — one that lea",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-237190853_9HcqaY4u_d45b03015d2c4551f25163c0a4c9f9edecf98f68_400x225.jpg",
+    "website": "",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/kitchen-in-the-lab/",
+    "location": "Korea",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Food"
+    ],
+    "year": 2017,
+    "program": "SparkLabs Batch 16",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Choi Chae-hwan",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/sparklabs-accelerator/",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://www.facebook.com/%ED%94%84%EB%A1%AC%EC%85%B0%ED%94%84-fromchef-102742078250091",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Korea"
+    },
+    "country": "South Korea",
+    "alsoIn": []
+  },
+  {
+    "id": "sparklabs-veluga",
+    "source": "sparklabs",
+    "name": "Veluga",
+    "description": "Veluga is a membership service that delivers craft beer paired with late-night snacks twice a month. Each delivery features a newly selected craft beer along with a specially developed and paired snack menu. Veluga also operates a demand-forecasting craft beer",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-3717456480_7KFBNohC_8a056c94c3d89ece2600df97ace414b1aa322899_400x225.jpg",
+    "website": "https://business.veluga.kr/",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/veluga/",
+    "location": "Korea",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Food"
+    ],
+    "year": 2017,
+    "program": "SparkLabs Batch 11",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Kim Sang-min",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/veluga/",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://www.facebook.com/veluga.place/",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Korea"
+    },
+    "country": "South Korea",
+    "alsoIn": [
+      "500"
+    ]
+  },
+  {
+    "id": "sparklabs-mangoplate",
+    "source": "sparklabs",
+    "name": "MangoPlate",
+    "description": "MangoPlate is a restaurant recommendation platform featuring over 200,000 dining spots and 700,000 user reviews. By combining expert editor curation with big data, it delivers restaurant information to 2 million monthly active users (MAU).Since its founding in",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-237131844_dUP9VtFg_701c5a28152af7183435b599c359f49f35ae608f_400x225.jpg",
+    "website": "https://www.mangoplate.com/",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/mangoplate/",
+    "location": "Korea",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Food"
+    ],
+    "year": 2013,
+    "program": "SparkLabs Batch 2",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Kim Dae-woong",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/mangoplate/",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://www.facebook.com/MangoPlate/",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Korea"
+    },
+    "country": "South Korea",
+    "alsoIn": []
+  },
+  {
+    "id": "sparklabs-queensbucket",
+    "source": "sparklabs",
+    "name": "QueensBucket",
+    "description": "QueensBucket is a manufacturer that produces the sesame oil and perilla oil we have grown up eating, using a completely different production method from conventional approaches. QueensBucket's oils are far closer in taste and aroma to the traditional flavors o",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-3717456480_er2JhpS1_f0ebcf2653a6ec55fa7afaffea27661d13b6cdfa_400x225.jpg",
+    "website": "https://queensbucket.co.kr/",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/queensbucket/",
+    "location": "Korea",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Food"
+    ],
+    "year": 2012,
+    "program": "SparkLabs Batch 8",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Park Jung-yong",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/queensbucket-%EC%BF%A0%EC%97%94%EC%A6%88%EB%B2%84%ED%82%B7/?originalSubdomain=kr",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://www.facebook.com/queensbucket/",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Korea"
+    },
+    "country": "South Korea",
     "alsoIn": []
   }
 ]

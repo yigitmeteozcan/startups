@@ -28,7 +28,25 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Josh Horne",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joshua-horne-3b21928b/",
+        "twitter": "https://twitter.com/joshhorne91",
+        "bio": "Besides working on Portal Entryways, I enjoy hanging out with my wife and dog, eating/making lots of pizza, reading and playing guitar.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/89dbc91445807bef79182b92cb17b2b591d8bce9.jpg",
+        "active": false
+      },
+      {
+        "name": "Sam Lew",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/sjylew",
+        "bio": "Asian-American, multi-disciplinary product designer and mechanical engineer who enjoys building meaningful experiences, regardless of the medium.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/429bb7e96360fe3412b5b6e3effc690ee095e67c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

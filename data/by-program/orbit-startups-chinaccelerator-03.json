@@ -23,7 +23,26 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Exit",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Myung Kim",
+        "role": "Founder",
+        "linkedin": ""
+      },
+      {
+        "name": "Myung Sun Kim",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/myungsun",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522906339/piykqbvpwbff7opypgcj.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Alfred Kam",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/kamalfred",
+        "twitter": "https://twitter.com/alfredkam",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522906341/n7mh0t8gwdw7uxc7ovvl.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/2466164?trk=prof-exp-company-name",
       "twitter": "https://twitter.com/appfuel",

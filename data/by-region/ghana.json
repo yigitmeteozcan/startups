@@ -27,7 +27,16 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jesse Ahin",
+        "role": "Founder",
+        "linkedin": "",
+        "bio": "Founder at Swipe",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6a22a39e46a9d3f0b4daf25aedd7417f69a40899.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -67,7 +76,29 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Priscilla Hazel",
+        "role": "Founder",
+        "linkedin": "https://gh.linkedin.com/in/priscahazel",
+        "bio": "Cofounder TressApp W17.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/884eede6009d2ab6310c0edbd92dd8a9a6b63ec5.jpg"
+      },
+      {
+        "name": "Esther Olatunde",
+        "role": "Founder/CTO",
+        "linkedin": "https://ng.linkedin.com/in/esther-olatunde-3193a11a",
+        "twitter": "https://twitter.com/MsEOlatunde",
+        "bio": "Formerly Tress (YC W17)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bbff0f4c829d68d4e6f1606c6b8693961217dcd2.jpg"
+      },
+      {
+        "name": "Cassandra Sarfo",
+        "role": "Founder/CPO/Product Lead",
+        "linkedin": "https://www.linkedin.com/in/cassandra-sarfo-26679795?",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2428f96bb83b410296bf278d924fe981e7f662e8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -29,7 +29,14 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Derek Richardson",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/drichardson1976",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/011054ac9d73e8d78a9943ca7e926b1f25e5d6b1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -75,7 +82,23 @@
       "ConvoyNow",
       "myConvoy"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Colin Barceloux",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/cbarceloux",
+        "bio": "Colin is currently the CEO of Lively Root, a rapidly growing online home and gardening eCommerce platform. Previously Colin founded Axius, a venture-backed startup creating a platform for device management and cybersecurity in Smart Homes that went through StartX. Colin also founded Techmate (YC S16), an on-demand service for in-home tech support, and BookRenter.com, the very first textbook rental service and pioneered the entire multi-billion dollar industry.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2d11a113aca0e6b67469307326560f918df88d5d.jpg",
+        "active": false
+      },
+      {
+        "name": "Scott Hasbrouck",
+        "role": "Founder/CTO (YC S16)",
+        "linkedin": "https://www.linkedin.com/in/scotthasbrouck",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/527f73733189b9424122bb6b94dbf1b098b724d6.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

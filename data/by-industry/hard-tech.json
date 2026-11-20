@@ -32,7 +32,16 @@
     "teamSize": 58,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Seddon",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/seddonandrew/",
+        "twitter": "https://x.com/seddonandrew",
+        "bio": "I'm building CircuitHub to automate and simplify electronics manufacturing—making it as seamless as writing software. Our platform helps hardware teams prototype and launch faster by tightly integrating design, sourcing, and assembly. Previously, I led teams working on computer vision and robotics at Cambridge Signal Processing and Oxford Metrics. Background in ECE from the University of Leeds. Passionate about closing the gap between software agility and hardware development.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d9857a5667a1d94a35831704e333bf23deafbebc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -72,7 +81,21 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rob Attorri",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/attorri",
+        "bio": "Cofounder of Light Table and Eve. Former research scientist, got into dev tools and end user computing, and care deeply about bringing better computing to everyone, everywhere. I'm big into UX, system design, and 0 to 1 projects.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bda2f88a209d2446c1119b037734ebc4426ead66.jpg"
+      },
+      {
+        "name": "Chris Granger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-granger-eve",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -117,7 +140,14 @@
       "BatteryOS",
       "ActiveBMS"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nick Sherstyuk",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f679ec398ee130b566d1cfe3432d1b9c06e8e37.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -164,7 +194,21 @@
     "formerNames": [
       "Helion"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Kirtley",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/david-kirtley-490b8230/",
+        "twitter": "https://twitter.com/dekirtley",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8c9187f74176ca43139b443259bb0109dfb49407.jpg"
+      },
+      {
+        "name": "Chris Pihl",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/chris-pihl-4a84b1a/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/992f1901f2931a53242ae96e2364a9275135655f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -205,7 +249,21 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Victor Ng",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vicngtor",
+        "bio": "Software Engineer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/101fd93fcf34ec0b7e46417e01e43394f24c7b6c.jpg"
+      },
+      {
+        "name": "Peter Xian",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/peter-xian/1a/830/80b",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0ae3ffc7bdbc34d0137af19c7d11d058e0b2243d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -250,7 +308,25 @@
     "formerNames": [
       "Luminostics"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bala Raja",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/balaraja",
+        "twitter": "https://twitter.com/balavraja",
+        "bio": "Now: 1. arden.bio - precision R&D service for unresolved chronic immune-disorder patients 2. timelyirb.com - fast, typically same-day, IRB reviews for research/clinical trials 2014 to 2023, I was cofounder/CEO of Clip Health (YCS16), a Khosla Ventures and NIH-funded startup. Raised $54M, built a HW/bio/chem rapid diagnostics platform, launched 1st product that shipped >1m units but failed to parlay into sustainable growth. Pre-2014 I got a PhD in bio/chem engg (microfluidics/bacterial dx).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/53f98d872421231e9f2076bbe5e4ec0be88a1fa0.jpg",
+        "active": false
+      },
+      {
+        "name": "Andrew Paterson",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/aspaterson",
+        "bio": "I'm a scientist and engineer at heart. I love any and all things science from fundamental physics to chemistry and materials science to biology. My passion in life is to help drive scientific and technological progress by shepherding innovative technologies based on hard science and engineering out of the R&D lab and onto the commercial marketplace. I have 12+ years of experience working at the intersection of biology, chemistry, nanotech, hardware, and software.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/95352f80971a47b050fea10322b6ace07b12eb62.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -293,7 +369,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Naman Kumar",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/namankumar",
+        "bio": "Built wallet products driving $200M+ in transaction volume. Scaled account abstraction to 2.1M agents and humans. Co-founded Airo Health (YC S16) and increased usable ML training data 10×. Deployed a healthcare voice agent, agent harnesses and permission-aware company knowledge systems. Built financial-reconstruction tools and evaluations to test reliability. Waterloo Computer Engineering. San Francisco.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/30eec653e075562e5e53f4070df9294980ad565e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -334,7 +418,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Teddy Guenin",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tguenin",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/52ee9dea6e61c5fa1874e3a2b93242873e9f45d1.jpg",
+        "active": false
+      },
+      {
+        "name": "Ashwin Amurthur",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ashwinamurthur",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1a3b5cf69b04ba66f2c6e6d7377446badec65cb3.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -377,7 +476,24 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Denis Mars",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/denismars",
+        "twitter": "https://twitter.com/denismars",
+        "bio": "3x Founder, 3x Exits. Investing in AI-native startups.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a439e40036b01deaf0b6ebd6b5ecfabad749eff8.jpg"
+      },
+      {
+        "name": "Simon Ratner",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/simonratner",
+        "twitter": "https://twitter.com/simonratner",
+        "bio": "YC Badge: 0xe4bad42969186ecba2eb7e70ef0ba8b8b7f7a82f",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/25a5bb90ef9dc4e3094f48060ac256464e885053.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -419,7 +535,14 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "George Burkhard",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/george-burkhard-a396022?trk=hp-identity-name",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa6de5e8eb1094721bea0a1736b2624e039537ea.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -462,7 +585,25 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shiva Adireddy",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/shiva-adireddy-5aab1850",
+        "bio": "Over the last 12 years, Dr. Adireddy has compiled an impressive track record in energy & materials entrepreneurship, manufacturing diverse classes of materials to solve problems in the fields of renewable energy and clean technology. His expertise in both the technical and business aspects of nanotechnology is testified to by his authorship of articles in 10 issued US patents and over 40 peer-reviewed publications.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/22325c15df94a08d1b528ce0e2154caf2cfa3149.jpg",
+        "active": false
+      },
+      {
+        "name": "Alexander Girau",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexandergirau",
+        "twitter": "https://twitter.com/AlexanderGirau",
+        "bio": "CEO and Co-founder of Group1 Founding CEO of Advano.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/becc32a0df28fc78c84b56bfc3ddebff74826d8b.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -505,7 +646,22 @@
     "teamSize": 18,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrei Klochko",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/andreiklochko/?locale=en_US",
+        "bio": "PhD in Plasma Physics from École Polytechnique (Paris, France), then started Airthium as CEO and CTO in 2015 before going through YC in 2017. This is still my current position.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/472948d08e8ae7a3524a70ed6c8bf6698671164c.jpg"
+      },
+      {
+        "name": "Franck Lahaye",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/francklahaye",
+        "bio": "Cofounder at Airthium.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2409919dfac561c1d7f29e05beef8565132ce4a6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -551,7 +707,16 @@
       "Buglife",
       "Observant"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel DeCovnick",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/daniel-decovnick-37aa362/",
+        "twitter": "https://twitter.com/icodestuff",
+        "bio": "Co-founder and CTO at Observant",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55299d8810e34f5f5f2929d17c33de2e3c94d7de.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -599,7 +764,15 @@
       "Sheertex",
       "SRTX (Sheertex)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Katherine Homuth",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/katherinehomuth/",
+        "bio": "Katherine Homuth is a serial entrepreneur and executive known for leading high-growth companies at the intersection of software, manufacturing, and consumer innovation. She is the Founder of Oomira, building the memory infrastructure layer for AI. Previously, she founded and scaled SRTX, makers of Sheertex ‘unbreakable’ tights, raising nearly $300M and securing global retail partnerships.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f100366e2aed67790f3684038a23db5bd124c2a7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -643,7 +816,16 @@
       "XXV Inc.",
       "Synthetic Minds"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Saurabh Srivastava",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/saurabh-sriv/",
+        "twitter": "https://x.com/_saurabh",
+        "bio": "Work on building code capabilities for Nemotron at NVIDIA. Primarily focus is on pre-training, evals and data; some post-training. Previously: * Head of Code Research @ Essential AI (Ashish Vaswani's co) * YC W15 and S18: Code synthesis applied to bio and desktop automations respectively. * PhD / Postdoc: Code synthesis using theorem provers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/372a965319497524c71bec098dca39064071239f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -685,7 +867,16 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Simmons",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/adamjeansimmons/",
+        "twitter": "https://www.twitter.com/adamjsimmons",
+        "bio": "Founder of Ultralight. 15 years experience building dev tools for games and desktop apps. Graphics researcher. OSS advocate. C++, GPU, UI, WebKit expert.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8974f34f311b48265397cc0484b55957b054f2e4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -727,7 +918,15 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Eiden",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thomaseiden",
+        "bio": "Former reactor engineer/core designer at the Advanced Test Reactor at Idaho National Laboratory. Performed next-generation nuclear fuels research at the University of Wisconsin-Madison. Built a nuclear reactor in 11 months with Oklo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/766aa58ab7ba8890026018e19010ae572c04d26c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -774,7 +973,16 @@
     "formerNames": [
       "Volta Labs Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Udayan Umapathi",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/udayanu/",
+        "twitter": "https://twitter.com/uday1489",
+        "bio": "As the founder and CEO of Volta Labs, Inc., I have over five years of experience in creating and scaling a company that is transforming the field of sequencing sample prep. With a background in entrepreneurship, engineering, design and biology, I have a unique perspective and skill set that enables me to bridge the gap between different disciplines and domains. At Volta Labs, we are building a disruptive product that streamlines the entire process of preparing samples for any sequencing technol",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e36948027c0c8b60f053b0afec83af2bc19a7b3f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -818,7 +1026,29 @@
     "formerNames": [
       "BODYSIM by Well Principled"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Richt",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ryan-richt/",
+        "bio": "Ryan has galvanized teams with bold vision and disruptive, patented innovations since 2003. Ryan transformed distributed analytics across an academic lab, his first bootstrap startup and computational biology and cloud teams at Monsanto. He grew VC-backed CiBO from 7 to 70 engineers and data scientists. Ryan holds an MBA and BA prob/stats from Olin and WashU.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e251b1296e81516f1167cf3a6363f07ff33fedc3.jpg"
+      },
+      {
+        "name": "Christopher Shafer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-shafer/",
+        "bio": "Chronically the first customer-facing engineer, Chris has delighted customers with deep-data applications from corn germplasm catalogs to global satellite data and environment simulations. Marshalling his broad expertise from cloud architecture to data visualization, Chris delivers outcomes customers love and leads solutions teams to productize them.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7c828b926156cb2ee1bccbd77869529553cbf3f0.jpg"
+      },
+      {
+        "name": "Joseph Wingbermuehle",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joewing",
+        "bio": "Joe has spent 15 years building foundational platforms, from middleware at AT&T, to startups across FPGA-accelerated high-frequency trading, accelerated ETL, machine learning based network security (acquired by Cisco) and hybrid AI/physical models of global-scale crop simulation. Joe holds a BS in Applied Math and a PhD in Computer Science from WashU.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bc10e36863ae342f0586145c2ce2fcc5c7fcd6e0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -864,7 +1094,22 @@
     "formerNames": [
       "Yummy Future Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jack Cui",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/guangzhe-cui-5b8651b5/",
+        "bio": "Any questions for robotics? Happy to help.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e191eb10434c9fb6cadeeef46061350b47350197.jpg"
+      },
+      {
+        "name": "Garrett Yan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/garrett-yueming-yan-b036b470/",
+        "bio": "Co-founder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/85d860e5809e09c1d164a6983ffc5aec0b72bcd3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -905,7 +1150,21 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Birgitt Boschitsch",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/birgitt-boschitsch/",
+        "twitter": "https://twitter.com/birgittmb",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/598b64ace3008fc9a98c96b621118f781ebb11de.jpg"
+      },
+      {
+        "name": "Tak-Sing Wong",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tak-sing-wong-6b35a7b/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9381cf5db967b997bb283125f66d972e060a66bd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -947,7 +1206,14 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ignacio Belieres Montero",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ignacio-b%C3%A9li%C3%A8res-montero-14b457b6/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/795061887da9544770b0779674959587fe78b843.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1154,7 +1420,15 @@
       "Kakapo Networks Inc.",
       "Kakapo Networks"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kashif Ali",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kashif-ali-8882246/",
+        "bio": "Kashif Ali (Founder & CEO) prior to starting Ukama co-founded Endaga and was acquired by Facebook in 2015. At Facebook he founded and led the OpenCellular project from inception to production deployments with multiple tier-1 operators around the world. He also did his postdoctoral work at UC Berkeley in rural connectivity and has Ph.D. from Queen’s University in Canada.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b379a9684f65e892bec31079ebdd704d91ec5d71.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1197,7 +1471,29 @@
     "teamSize": 9,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ray Liu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rayliu/",
+        "bio": "- Two health tech exits (to Cigna & Vizient) - 15+ years leadership at GE Healthcare, Siemens, & startups (Ediom, Socialwellth) - Built multiple products/services from ground zero, some with 2M+ users - Set up quality system for factory in China that passed FDA inspection - MBA, Harvard Business School - MS Electrical Engineering, University of California at Berkeley - BS Electrical Engineering, University of Illinois at Urbana-Champaign",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f3e05b58b2316da94b5bb888ca74e77e3c10ac9b.jpg"
+      },
+      {
+        "name": "Michelle Khine",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michelle-khine-a7111315/",
+        "bio": "Professor of Biomedical Engineering and Serial Entrepreneur",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e8d71c149514027f92005a2e24336211dfc69f4c.jpg"
+      },
+      {
+        "name": "Josh Kim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joshkim599/",
+        "bio": "PhD - Materials Science and Engineering, University of California, Irvine MS - Materials Science and Engineering, University of California, Irvine BS - Chemistry, University of Illinois, Urbana-Champaign",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1328932dd6ce247eeb64f13e993a164bac288aa6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1245,7 +1541,23 @@
       "SiPhox Inc.",
       "SiPhox"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Dubrovsky",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-dubrovsky/",
+        "twitter": "https://twitter.com/MikeDubrovsky",
+        "bio": "I'm a serial entrepreneur interested in challenging myself and changing the world with nanotechnology.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a47345422c196ac4b189f2685f9e4ec6d5a883dd.jpg"
+      },
+      {
+        "name": "Diedrik Vermeulen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/diedrik-vermeulen-a32361a/",
+        "bio": "Diedrik is one of the founders of SiPhox and serves as its Chief Executive Officer. Diedrik brings to SiPhox extensive expertise and experience in the development of optical systems on a chip. Prior to joining SiPhox, Diedrik was the director of engineering at Analog Photonics and a research scientist at the Massachusetts Institute of Technology. Diedrik has 28 patents and 108 publications and is recognized as the world expert in optical fiber, free-space and chip-to-chip coupling.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c35f9ceddd80e7657d2e139ca9c373d1ae39cf76.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -8773,7 +9085,34 @@
     "isCurrentSession": false,
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sameer Kumar",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/sameerakumar",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1479274624/anxulnh2byak9eh2ckcy.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Kirk Klobe",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/kirk-klobe-a435514",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1491975424/qjovzzgso54dehdxaxle.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Aneela Idnani Kumar",
+        "role": "Design and Marketing Lead & Co-Founder",
+        "linkedin": "https://linkedin.com/in/aneelakumar",
+        "twitter": "https://twitter.com/ak310i",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1518500356/g4ciarwvwxdkgyryx8lp.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "John Pritchard",
+        "role": "Lead Hardware Engineer & Co-Founder",
+        "linkedin": "https://linkedin.com/in/johnpritchard11",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1479274626/fmxpaymc3o3eg0zzrtk7.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/liv",
       "twitter": "https://twitter.com/habitaware",
@@ -8813,7 +9152,15 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Series A(+)",
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Lu",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/david-lu-aa9b3075",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522301919/zwxlvx2kpvpmtzosq62y.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/claritymovement/",
       "twitter": "",
@@ -8853,7 +9200,21 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Silas Adekunle",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/silasade/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1614854051/xenlgqqe1pcy3p9hazwa.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Chris Beck",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/chrisjbeckuk/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370483/p1slhslqhguzigkc4qtd.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/reachindustries",
       "twitter": "",
@@ -8893,7 +9254,27 @@
     "isCurrentSession": false,
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tim Linnenweber",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/tim-linnenweber",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1659023748/peyvejlfqc5msbegdjox.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Amelie Binder",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/amelie-binder-522352214",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1659023654/qbenprqzm3kyk4gb4xrz.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Marcus Bischoff",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1659023702/cbl9pigh26i4nal7m7ng.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/cargokite/",
       "twitter": "",
@@ -8933,7 +9314,21 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yotaro Mori",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/yotaromori/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1691700237/whp1rzx9aehzkloko7vr.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Keisuke Kishikawa",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/keisuke-kishikawa-1b24b0a3/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1691700264/zog6vndssrxqdrfbzrrm.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/striemo/",
       "twitter": "",
@@ -8977,7 +9372,33 @@
     "stage": "Series A(+)",
     "teamSizeRange": "51-200",
     "totalRaised": 7500000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Arne Arens",
+        "role": "CEO",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1786973809/kmexjswzs3tiqbfhuyl6.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Walden Lam",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/walden-lam-a353a8a",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1579298216/wbmpnmi77eijuyfvtagr.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Beth Esponnette",
+        "role": "co-Founder & CPO",
+        "linkedin": "https://www.linkedin.com/in/elizabeth-beth-esponnette-66763023/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1579298140/ilp3yanxa9zcrlvkyiu3.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Kevin Martin",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/unspunkevin/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1579298115/nnngix73v7v6v7il0sfs.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/unspun-/",
       "twitter": "https://twitter.com/unspun_io",
@@ -9018,7 +9439,41 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "51-200",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paulo Ribeiro",
+        "role": "Software Engineer & Co-Founder",
+        "linkedin": "https://linkedin.com/in/paulo-ribeiro-818880129",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1551712356/jczzeqxvvmsduwpeqv6t.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Gilberto Loureiro",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/gilberto-loureiro/",
+        "twitter": "https://twitter.com/Gilberto_M_L",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1549298811/thkhm8dmzqsrlorphd6f.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "António Rocha",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/antonio-rocha-eng-physics/",
+        "twitter": "https://twitter.com/theantoniorocha",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1549694962/orzm4jpp482unmju9x7v.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Catarina Violante",
+        "role": "VP Operations",
+        "linkedin": "https://linkedin.com/in/catarinaviolante",
+        "avatar": "https://res.cloudinary.com/hlsr7ls49/image/upload/v1652808159/k241lz2pgrcisz8a97mv.jpg"
+      },
+      {
+        "name": "Pedro Farinha",
+        "role": "Principal Devops Engineer",
+        "linkedin": "https://linkedin.com/in/plfarinha",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/hlsr7ls49/image/upload/v1732724591/qswyijowyeg4d0fesvum.jpg"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/smartex-ai",
       "twitter": "",
@@ -9058,7 +9513,15 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mohammad H. D.A. Farahani",
+        "role": "CEO & Founder",
+        "linkedin": "https://www.linkedin.com/in/mhfarahani89/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1570371431/kjemmghebvvzplqfnloq.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://sg.linkedin.com/company/seppure",
       "twitter": "",
@@ -9100,7 +9563,21 @@
     "stage": "Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 255000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abhinav Warrier",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/abhinavwarrier/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602728416/krfzbzwnddzsddxqtfkt.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Anurag Dutta",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/anurag-dutta-3078016/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602670907/cjmd02zrvccv6bbhvhkq.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/31283602/",
       "twitter": "",
@@ -9142,7 +9619,33 @@
     "isCurrentSession": false,
     "stage": "Growth",
     "teamSizeRange": "51-200",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeremy Kuempel",
+        "role": "Head of Hardware",
+        "linkedin": "https://linkedin.com/in/jkuempel",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370331/copltilldu4x76n5nmdp.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Neil Day",
+        "role": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/neil-day-121444/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370456/wu84op6mj2dfms5oof4k.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Ben Boyer",
+        "role": "Co-Founder & Board Member",
+        "linkedin": "https://www.linkedin.com/in/benjaminboyer/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370401/zuepaxomoehmugypd8vv.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jennifer Nuckles",
+        "role": "Chief Executive Officer & Chairperson",
+        "linkedin": "https://linkedin.com/in/jennifer-nuckles-9640603",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1677618426/cpkaphawvbqxc4pvhzuu.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/rzerosystems/",
       "twitter": "",
@@ -9182,7 +9685,15 @@
     "isCurrentSession": false,
     "stage": "Growth",
     "teamSizeRange": "51-200",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Angelo Yu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chuanyu/",
+        "twitter": "https://twitter.com/thepixmoving",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1508391337/t0vy0ztlqcwzccuqez0g.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/14478414/",
       "twitter": "https://twitter.com/thepixmoving",
@@ -9222,7 +9733,27 @@
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
     "totalRaised": 720000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sam Nelson",
+        "role": "Sales Manager",
+        "linkedin": "https://www.linkedin.com/in/samuelrnelson/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370344/flwu1fhjamjuvyhocud9.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Pruthvikar Reddy",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/pruthvikar",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1512675742/av5k1o0ddllgbgewfkfr.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jamie Grant",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/jamie-grant",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505367870/c4v06xuuja8daebo9fug.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/carvbymotionmetrics/",
       "twitter": "https://twitter.com/getcarv",
@@ -9261,7 +9792,15 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "totalRaised": 570000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Danny Gardner",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/danny-gardner-186203a8/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522908125/zpkjsmox3ifmarwjkij2.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/16267306/",
       "twitter": "https://twitter.com/meshplusplus",
@@ -9302,7 +9841,15 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Reza Khorasaninejad",
+        "role": "CEO & Founder",
+        "linkedin": "https://www.linkedin.com/in/reza-khorasaninejad-52ab2329/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1646435828/oihvobd6jdeqa1vt15se.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/leadoptik",
       "twitter": "",
@@ -9342,7 +9889,21 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Series A(+)",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mike Dooley",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/mike-dooley",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370366/jj8gdkucl3fyaiuhspju.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Nikolai Romanov",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/nikolai-romanov-8852871",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370534/e081lpoh5fbnelqskprx.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/labradorsystems",
       "twitter": "",
@@ -9381,7 +9942,21 @@
     "isCurrentSession": false,
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gerard Rubio",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/gerardr",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1491975468/qjzci5d3h2f0wovwxmqd.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Triambak Saxena",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/triambakmzubeldia/",
+        "twitter": "https://twitter.com/triamzubeldia",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1565594363/pxqfumconl1x0wwqp5ve.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/kniterate",
       "twitter": "https://twitter.com/kniterate",
@@ -9421,7 +9996,22 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Seed",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abhishek Agrawal",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/abhishek-agrawal-bb028722",
+        "twitter": "https://twitter.com/aagrawal00",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1520401702/itvcqwav1mwvbuad1jtl.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jagjit Singh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jagjit-singh-1380684",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1506490842/ks6uyptmb7yaqqzvnkuw.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/kinexcs",
       "twitter": "",
@@ -9463,7 +10053,27 @@
     "stage": "Seed",
     "teamSizeRange": "11-50",
     "totalRaised": 350000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Scott Shwarts",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/scott-shwarts-693215/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1554309050/umlyshvvanhu1jd16jkf.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Patrik Uhrin",
+        "role": "Business Development",
+        "linkedin": "https://linkedin.com/in/patrik-uhrin",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1584017283/dw33hzyuipywfk4qxvl4.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Kristína Cahojova",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/kristinacahojova/",
+        "twitter": "https://twitter.com/KristiCahojova",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1519765853/gsvgzug4ieiuuykk8gfw.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/11229219/",
       "twitter": "",
@@ -9506,7 +10116,21 @@
     "stage": "Seed",
     "teamSizeRange": "11-50",
     "totalRaised": 1600000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Damien BRATIC",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://fr.linkedin.com/in/damien-bratic/en",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1508823639/f2tz40u7qkglyliixoqr.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Antoine Noel",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/antoinenoel",
+        "twitter": "https://twitter.com/antoine_noel",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1558772991/zk7lio2rfjgplmw5rw6i.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/japet",
       "twitter": "https://twitter.com/Japet_MD",
@@ -9545,7 +10169,27 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Albane Dersy",
+        "role": "COO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/albanedersy/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602246566/nvpksrywl2mjz4xl7ygj.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Louis Dumas",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/louis-dumas/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1610092776/cxnilskxoukmhozq4t5s.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Rudy Cohen",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/rudy-cohen-ens/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602513961/wxdzsik0pxhmviz3s2bg.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/inbolt/",
       "twitter": "",
@@ -9586,7 +10230,33 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Reza Katal",
+        "role": "CTO",
+        "linkedin": "https://linkedin.com/in/reza-katal-78425566",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370512/mwymddups6oyz4lnvjyc.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Leon Farrant",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/leon-farrant",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1681756422/jactdpemmedzx0znctc8.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Grace Lee",
+        "role": "Head of Finance",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/hlsr7ls49/image/upload/v1657370460/vnldx49j7y77trljxzvk.jpg"
+      },
+      {
+        "name": "Henry O’Connell",
+        "role": "Corporate Finance Analyst",
+        "linkedin": "https://www.linkedin.com/in/henry-o-connell-17116731/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1786972777/gjq7hgtcxnonq3kgizqc.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/green-li-ion",
       "twitter": "",
@@ -9628,7 +10298,44 @@
     "stage": "Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 1300000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tiago Vilaças",
+        "role": "CFO",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370364/fyv1su0rrmoltgd1nnsq.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Vitor Crespo",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://pt.linkedin.com/in/vitorc"
+      },
+      {
+        "name": "Vânia Fernandes",
+        "role": "Marketing & Operations Lead",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370390/qchxjbkfddbnmrbokx6w.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Ljiljana Dukanovik",
+        "role": "Chief Scientific Officer & Lead Researcher",
+        "linkedin": "https://linkedin.com/in/ljiljanadukanovic",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370330/enyehnqd81u8bjvgfcwj.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Margarida Abranches",
+        "role": "Bioengineer",
+        "linkedin": "https://linkedin.com/in/margarida-abranches",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370476/tn7jtc94ggrduzu2tmlw.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Brad Mingus",
+        "role": "Manufacturing Lead",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370509/zyfh6luhjjoxjw68iwhk.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/criam/",
       "twitter": "",
@@ -9670,7 +10377,33 @@
     "stage": "Series A(+)",
     "teamSizeRange": "2-10",
     "totalRaised": 1000000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Koushil Sreenath",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/xuningyang",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522906991/gtigkcrksrh8m9vorusk.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Charles Yhap",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/charles-yhap-83923a9",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1512193057/ehtxbqb6w2xmvb47yjph.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Francisco Fimbres",
+        "role": "Marketing Lead",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370510/ya9mk7hdeu1r7pabinsr.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Vaishnavi Krishnamurthy",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/vaishkrishnamurthy",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1512193055/cgrcl5s0uqbpvvowu20t.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/cleanrobotics",
       "twitter": "https://twitter.com/cleanrobotics",
@@ -9713,7 +10446,21 @@
     "stage": "Series A(+)",
     "teamSizeRange": "2-10",
     "totalRaised": 1000000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michal Maslik",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/mmaslik",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522906940/k3ivx2u6edn64zhwotov.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Fares Siddiqui",
+        "role": "CEO and Co-founder",
+        "linkedin": "https://uk.linkedin.com/in/faressiddiqui",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1592413395/j5bswlcpxigbdttch0uh.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/circadia/",
       "twitter": "",
@@ -9754,7 +10501,27 @@
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 700000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Herbert Ryan",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/herbryan",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1556556133/fcotyyblxexnlugipdao.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Trevor Kemp",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/trevorhkemp",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1508909593/sanrttns3untbw3v9gdw.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jens Höfflin",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://linkedin.com/in/jens-h%c3%b6fflin-06b45451",
+        "twitter": "https://twitter.com/exemende",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1618263900/rkick2mliaohdvbiciz7.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/7967369",
       "twitter": "https://twitter.com/bitomeinc",
@@ -9795,7 +10562,33 @@
     "stage": "Seed",
     "teamSizeRange": "11-50",
     "totalRaised": 1100000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rishabh Kewalramani",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/rishabh-kewalramani-7a201417a/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602685364/ofmzwpc7bwnvw04yuguo.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Kevin Monpara",
+        "role": "CSO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/kevinmonpara/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602618760/prgm9mct8dn0rgoxmgcr.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Brian Kaplan",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/brian-backbar/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1601416645/pl0nm6smrsf1o7vzgihp.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Adam Elghor",
+        "role": "CDO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/adam-elghor-b919b418b/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602727207/ohsutfy1bfozuvjg0msq.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/sideworkdispenser/",
       "twitter": "",
@@ -9836,7 +10629,28 @@
     "isCurrentSession": false,
     "stage": "Exit",
     "totalRaised": 300000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Raphael P.M. Lang",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/raphael-lang-18b27799",
+        "twitter": "https://twitter.com/babybemedical",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522906595/oy16a3ngxk1bvexwvq4z.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Maximilian Blendinger",
+        "role": "COO",
+        "linkedin": "https://www.linkedin.com/in/maximilian-blendinger-711a227b/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1507268053/fio8qpkyebjzu4opt8hr.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Camilo Anabalon",
+        "role": "CEO, Head Designer & Co-Founder",
+        "linkedin": "http://www.linkedin.com/in/kanabalon",
+        "twitter": "https://twitter.com/kanabalon",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522906597/fnsgxkggjr36ooo3fd3s.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/babybe",
       "twitter": "https://twitter.com/babybemedical",
@@ -9876,7 +10690,39 @@
     "isCurrentSession": false,
     "stage": "Growth",
     "teamSizeRange": "51-200",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Helen Hu",
+        "role": "Controller",
+        "linkedin": "https://www.linkedin.com/in/helen-yueping-hu-cpa-ca-01530646/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1786968619/spwsoxnd69pzx1tavqy0.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "David Etienne",
+        "role": "Senior Financial Analyst",
+        "linkedin": "https://www.linkedin.com/in/david-etienne-cpa-ca-945aa926/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1786968746/qo2r2u2afaitky1363tr.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Ken Anderson",
+        "role": "Software Architect & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/kenandersonrobots/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1501104591/ecir1ifgagoc5watpuwy.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Pablo Molina",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/pablomolinacabrera",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505194441/pbkhst4dmj6mxkk06gqa.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Faizan Sheikh",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/faizansheikh",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522992858/fz6bgk5yknuag9q4dmpt.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/avidbots-corp",
       "twitter": "https://twitter.com/avidbots",
@@ -9919,7 +10765,21 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joseph Varikooty",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/josephvarikooty",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522906430/l8m7calbta7ogghmhjs7.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Lucas Frye",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/lucasfrye",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1562850167/tkjutexxfcxwx4r58xn6.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/amber-agriculture",
       "twitter": "",
@@ -9960,7 +10820,32 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Peyman Salehian",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/peyman-salehian-ph-d-86611b134/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602727880/zmvvxnxdxjlipj3pdov8.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Akbar Vahidi",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/akbar-vahidi",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602727850/x5sbh1j0fqjazkmdpxh4.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Shaun Sum",
+        "role": "Head of Finance",
+        "linkedin": "https://www.linkedin.com/in/shaunsum/",
+        "avatar": "https://res.cloudinary.com/hlsr7ls49/image/upload/v1715339748/wtopk3ff8bjktrzqkqdz.jpg"
+      },
+      {
+        "name": "Raine Koh",
+        "role": "Head of Finance",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/allozymes",
       "twitter": "",
@@ -10001,7 +10886,27 @@
     "stage": "Exit",
     "teamSizeRange": "2-10",
     "totalRaised": 325000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maximilian von Duering",
+        "role": "CCO & Founder",
+        "linkedin": "https://www.linkedin.com/in/maximilianvonduering/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1544579272/ezaekb2g6wgta2hybrj6.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Matthias Auf Der Mauer",
+        "role": "CEO & Founder",
+        "linkedin": "https://www.linkedin.com/in/matthias-auf-der-mauer/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1549665945/xs59ly0m1ybqxk9objgg.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Renan Duarte",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/renanrodriguesduarte/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1560978814/t9rgpu17tjraljfd0qlz.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/aisight/",
       "twitter": "",
@@ -10039,7 +10944,21 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Exit",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dan Keene",
+        "role": "COO",
+        "linkedin": "https://www.linkedin.com/in/dan-keene-86b30731/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1506318485/ta6c2ffapqdapjgsbc0h.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "George Kalligeros",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/kalligeros/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1531743338/frxz1z64msm2pqceyhro.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company-beta/10943759/",
       "twitter": "",
@@ -10078,7 +10997,27 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Linar Ismagilov",
+        "role": "Chief Design Officer & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/linarism/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370410/fvxztxaykjxpybnivoy9.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Maksym Korol",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/maksym-korol-73a92b162/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370334/dtvltu1rycwh3ajdryyg.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Nikita Iliushkin",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/nikita-iliushkin-ab9a2252/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1566634018/ap80egaanpikmbliwmh4.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/skygauge",
       "twitter": "",
@@ -10117,7 +11056,15 @@
     "isCurrentSession": false,
     "stage": "Exit",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lai Jingming",
+        "role": "CEO & Founder",
+        "linkedin": "http://www.linkedin.com/in/jimmy-lai-096219133/",
+        "twitter": "https://twitter.com/M5Stack",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1547531478/lteyslwzhf5ikhbeynwh.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/m5stack/",
       "twitter": "https://twitter.com/m5stack",
@@ -10159,7 +11106,14 @@
     "stage": "Seed",
     "teamSizeRange": "11-50",
     "totalRaised": 3300000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Fernando Nogueira",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/fernando-nogueira-bbb1441",
+        "twitter": "https://twitter.com/sosv"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/nuada-lda/about/",
       "twitter": "",
@@ -10201,7 +11155,21 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jack Reid",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/-jackreid-/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1626085208/ugj9o3apd0tomvhjd0re.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Adam Glen",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/dradamglen/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1617720359/da4egugs5xksteh7kiuh.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/unicorn-biotechnologies/",
       "twitter": "",
@@ -10240,7 +11208,20 @@
     "isCurrentSession": false,
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Meng Wei",
+        "role": "CEO & Co-Founder",
+        "linkedin": "http://www.linkedin.com/in/meng-wei-9a766315b",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370463/lpbensqlsforijhungk5.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Tamara Jean Finlay",
+        "role": "CTO",
+        "linkedin": "http://www.linkedin.com/in/tamara-finlay-60378815b",
+        "twitter": "https://twitter.com/sosv"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/forward-robotics",
       "twitter": "",
@@ -10280,7 +11261,26 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shaolin Liang",
+        "role": "Scientific Founder",
+        "linkedin": "https://hk.linkedin.com/in/shaolin-liang-98a96b24",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505245931/kyijcdvjorj5f0mixi2c.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Neel Patel",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/neelpatel1214",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1573824053/ntlrbw50x7yktduykgyq.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Francesca Napoli",
+        "role": "Director of Operations",
+        "linkedin": "https://linkedin.com/in/francesca-napoli-2a06a4102",
+        "twitter": "https://twitter.com/sosv"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/zio-health",
       "twitter": "",
@@ -10319,7 +11319,15 @@
     "isCurrentSession": false,
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Puru Rastogi",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/pururastogi/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370376/nv5xvurjx4zxvutwgzai.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/mowito",
       "twitter": "",
@@ -10359,7 +11367,31 @@
     "isCurrentSession": false,
     "stage": "Growth",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Amber 齐芸芝",
+        "role": "Co-Founder",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1552448999/hmbcyoshylxvt4xegyht.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Xu Jin",
+        "role": "Co-Founder",
+        "linkedin": ""
+      },
+      {
+        "name": "Zhao Wanqiu",
+        "role": "Co-Founder",
+        "linkedin": ""
+      },
+      {
+        "name": "Zhang Hui",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/%E6%9C%9D%E8%BE%89-%E5%BC%A0-845b95143/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1615368926/kgdycfkpdq3ievfc2yik.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/youibot",
       "twitter": "",
@@ -10397,7 +11429,15 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Pre-Seed",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kyle Smith",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/kb-smith/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1630281175/m4xkrb88zgttjyakxu3z.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/vici-robotics",
       "twitter": "",
@@ -10438,7 +11478,15 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tim Lichti",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/timlichti/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370468/seljfjkffeymxsrsezwm.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/swaprobotics/",
       "twitter": "https://twitter.com/swaprobotics",
@@ -10479,7 +11527,21 @@
     "isCurrentSession": false,
     "stage": "Pre-Seed",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nicholas Ball",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://linkedin.com/in/ballnicholas",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370412/nnkuldiz85wbnl0tpher.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jose Pérez",
+        "role": "Co-Founder & COO",
+        "linkedin": "https://www.linkedin.com/in/jose-a-perez-rojas/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1655495716/bo5rotqelv4tlshdwasl.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/xfuelhq",
       "twitter": "",
@@ -10523,7 +11585,34 @@
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
     "totalRaised": 24000000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Steve Sanders",
+        "role": "CFO",
+        "linkedin": "https://www.linkedin.com/in/steve-sanders-5748954a/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370426/zrpzrhe18kyre2bpbl6d.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Richard Hanbury",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/richard-hanbury-796883",
+        "twitter": "https://twitter.com/rhanbury",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1640720562/lt4n7sw3e0vxhfny4ghi.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Crystal George",
+        "role": "VP Clinical Affairs",
+        "linkedin": "https://www.linkedin.com/in/crystalrgeorge/.",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370523/io8dzulfpxxlpke4hmys.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jeff Bower",
+        "role": "VP Analytics",
+        "linkedin": "https://www.linkedin.com/in/jeffreybower777/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370398/giqtnpovr5k2npi7j5os.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/sana-health",
       "twitter": "https://twitter.com/sana_health",
@@ -10564,7 +11653,15 @@
     "stage": "Seed",
     "teamSizeRange": "11-50",
     "totalRaised": 3500000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shelby Yee",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/shelbyyee/",
+        "twitter": "https://twitter.com/shelbyyee",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1526595124/bea0xtetb6lyq0avuzxm.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/grounded-ai-make-the-underground-visible/",
       "twitter": "https://twitter.com/rockmasstech",
@@ -10607,7 +11704,27 @@
     "stage": "Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 2539500,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Weinstein",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/daniel-weinstein-35115080/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602727517/vormhs5ynucraviiacxg.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Noah Hill",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/noah-hill-a8b4b0125/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602727537/xbbetqxndtb0iwdpulty.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Saam Bozorg",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/saam-bozorg-74140136/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602727556/k058obep7nshidzgb8bc.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/lura-health/",
       "twitter": "",
@@ -10646,7 +11763,21 @@
     "isCurrentSession": false,
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Francisco Fabián Cuéllar Córdova",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/francisco-cuellar-a0000541/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370421/ozlwstucakssof5sir3o.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Claudia Akamine",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/claudia-akamine-7a67869/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1621017877/yuoydtxml6yzv3x2rgqm.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/tumi-robotics",
       "twitter": "",
@@ -10685,7 +11816,27 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Pre-Seed",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Essam Elsahwi",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/essamelsahwi/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602728003/lotav3uktpdw5xba4cok.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Benjamin Maxwell",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/ben-maxwell-aquova/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602727984/uezltsuxxl7cdbbi0fxy.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Mariam Awara",
+        "role": "COO",
+        "linkedin": "https://www.linkedin.com/in/mariamawara/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602728019/kiqoa38suhongs88wskf.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/pulsenics",
       "twitter": "",
@@ -10727,7 +11878,21 @@
     "stage": "Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 2450000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Palak Sehgal",
+        "role": "CSO",
+        "linkedin": "https://www.linkedin.com/in/palak-sehgal-76273773/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522908416/p8lzrjvfmamc8iz60bsm.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Keenan Pinto",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/keenan510/",
+        "twitter": "https://twitter.com/keenpint",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1615157561/pcckanjavpo2xs2vm1ml.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/nordetect/",
       "twitter": "https://twitter.com/nordetect",
@@ -10768,7 +11933,21 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tulika Raj",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/tulika-raj-3a14141/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370461/ytatfm8afkusbw8awmfn.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Saeid Panah",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/saeid-masudy-panah/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370407/olgudcdgb9brin2tfkg7.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/sungreenh2",
       "twitter": "",
@@ -10810,7 +11989,21 @@
     "stage": "Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 1900000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Amélie Quilichini",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/ameliequilichini/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370524/k2vw5p77xkmkpdmnam17.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Gabriel Dumy",
+        "role": "CSO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/gabrieldumy/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1624001344/fe3lngy0pbe1njluoobm.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/kolibrilab/",
       "twitter": "",
@@ -10850,7 +12043,28 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Pre-Seed",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Frido Emans",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/frido-emans-35571033",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907096/twvtygybkfkupngml3vh.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Federico Muffatto",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://nl.linkedin.com/in/federico-muffatto-a30b715b",
+        "twitter": "https://twitter.com/digi_bio",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907097/jb7tl45cn8xmheubtnbc.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jelmer Cnossen",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/jcnossen",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505244603/lntwpw7gmdbtdlzuo00z.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/digi",
       "twitter": "https://twitter.com/digi_bio",
@@ -10889,7 +12103,21 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Series A(+)",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Stephen Bennington",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/stevebennington",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370388/fm4lci2y7mrez6y2rbud.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Chris Elsworthy",
+        "role": "Director Technology Innovation",
+        "linkedin": "https://linkedin.com/in/celuk",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370496/eagi5dnmgw3lg9xhxzra.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/q5d",
       "twitter": "",
@@ -10929,7 +12157,22 @@
     "stage": "Series A(+)",
     "teamSizeRange": "2-10",
     "totalRaised": 1250000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nick Delmonico",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/nicksdelmonico",
+        "twitter": "https://twitter.com/nicksdelmonico",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1551661657/geubca3jlcdeb8jm2xaj.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Richard Powers",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/richardpowers",
+        "twitter": "https://twitter.com/gtsports",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1648585051/ecdioxnflcrmfiehlywf.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/strados-labs/",
       "twitter": "https://twitter.com/StradosLabs",
@@ -10971,7 +12214,27 @@
     "stage": "Series A(+)",
     "teamSizeRange": "2-10",
     "totalRaised": 220000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Mansson",
+        "role": "CCO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/danielmanss/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505367500/htr32ojjycusepnboumb.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Erik Rehn",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/raindeer",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907315/vlbfjmzxduslzo2n5zu7.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Erin Lee",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/erinslee",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1676841845/juch3tju0hrjdqck5mww.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/flow-neuroscience",
       "twitter": "",
@@ -11010,7 +12273,27 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nishant Jain",
+        "role": "CEO & Founder",
+        "linkedin": "https://www.linkedin.com/in/nishantjain131/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1573053096/rtbkwyctnwn5furvq4id.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Thibault Corens",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/thibaultcorens/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1556251282/pp0y0kjxkrj2nrl5opdn.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Anthony De Castro",
+        "role": "Business Development Manager",
+        "linkedin": "https://www.linkedin.com/in/anthony-de-castro/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370349/jkod0wlvhdfzkuiqndnu.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/getpresso/",
       "twitter": "https://twitter.com/getpresso",
@@ -11050,7 +12333,21 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Uhlenbruck",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thomasuhlenbruck/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370433/jp9cfhfvi0kj6f7xtf5d.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Bryan Fedorak",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/bfedorak",
+        "twitter": "https://twitter.com/bryanfedorak",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1615427238/althbyarswjr6nsgzei0.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/pulseindustrial/",
       "twitter": "",
@@ -11090,7 +12387,22 @@
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
     "totalRaised": 6100000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gregg Ratanaphanyarat",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/gregg-ratanaphanyarat-210a4234",
+        "twitter": "https://twitter.com/GreggVia",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1592473649/qrb1yezur4apo4nnbrg5.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Dawei Ding",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/dawei-ding-a490016b/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522909682/oq1yxwmboydpd0hndhnd.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/viabot/",
       "twitter": "https://twitter.com/viabotinc",
@@ -11133,7 +12445,21 @@
     "stage": "Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 700000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sujay Suresh Kumar",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/sujaysuresh",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1591089371/wrzfalxkcwkdlgvimy6g.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Adriana Vazquez Ortiz",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/adrianacatalina",
+        "twitter": "https://twitter.com/adrivazo",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1504653962/qs5gf1r10pbyjm1prmqi.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/lilu-inc",
       "twitter": "https://twitter.com/wearlilu",
@@ -11172,7 +12498,27 @@
     "isCurrentSession": false,
     "stage": "Pre-Seed",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonathan Lefebvre",
+        "role": "COO",
+        "linkedin": "https://www.linkedin.com/in/lefebvrejonathan/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370464/utu0fnavk9qevvgmvs4s.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "William St-Pierre",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/william-st-pierre-840316b2/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1566764881/ri7ihazyid28murfweyr.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Charles Ha",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1610721372/yocrcyhsutkmutt1k46g.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/27208353/admin/",
       "twitter": "",
@@ -11211,7 +12557,28 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Zachary Crockett",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/zacharycrockett",
+        "twitter": "https://twitter.com/towynlin",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1512782663/fwoauaew4ce5gxpozg1n.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Will Hart",
+        "role": "General Manager & Co-Founder",
+        "linkedin": "https://linkedin.com/in/william-hart-35393445",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1532965936/gxy70vktbomxvg8jp6fe.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Zach Supalla",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/zsupalla",
+        "twitter": "https://twitter.com/zsupalla",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522994075/fuuukxxfx87i1ewi8vwz.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/particleio",
       "twitter": "https://twitter.com/particle",
@@ -11252,7 +12619,27 @@
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
     "totalRaised": 685000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ishita Sood",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/ishita-sood-kochhar-0a343636/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1563975384/obqzihzhwepmco5svbse.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Badis Glaied",
+        "role": "Senior Business Developer & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/badisglaied/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1563975483/cergospdw17vt3j8ayvq.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Hassan Albalawi",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/hassanalbalawi",
+        "twitter": "https://twitter.com/hassan_albalawi",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522909794/agegncyf3oglrfxf1jyf.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/25065591/",
       "twitter": "https://twitter.com/Wake_Cap",
@@ -11291,7 +12678,21 @@
     "isCurrentSession": false,
     "stage": "Exit",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Connor Young",
+        "role": "CTO",
+        "linkedin": "https://linkedin.com/in/connor-young-6794a37b",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1581615510/md0chstgz4ies7qvgbid.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Andy Chan",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/andychan57",
+        "twitter": "https://twitter.com/ChanManDoes",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1581615508/mw4zpye1nokzzofku0ym.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/vit-initiative",
       "twitter": "",
@@ -11330,7 +12731,21 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pramod Ghadge",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/pramodghadge",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1576496806/r56e7p6mdwrhf4vkcnkt.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Shahid Memon",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/shahid-m-a7a83a96/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370473/n9pxlguvcfnx5nvrokvl.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/unboxrobotics/",
       "twitter": "",
@@ -11372,7 +12787,33 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mohamed Okasha",
+        "role": "Lead Scientist",
+        "linkedin": "https://linkedin.com/in/mohamed-okasha-35b9037b",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1550259767/crvmvxkf1htaskztcdsk.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Abdallah El-Falou",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/aelfalou/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1550259668/m8dzyfpozsr919zfauu7.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Youssef Helwa",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/youssef-helwa",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1550259798/uz9lmcfl0dkhrtxmaovp.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Amr Abdelgawad",
+        "role": "COO",
+        "linkedin": "https://linkedin.com/in/amr-abdelgawad-951a3943",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1550259701/oyhki2v2fberysiuvsiu.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/nerv-inc-/",
       "twitter": "https://twitter.com/NERvTech",
@@ -11410,7 +12851,21 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Seed",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Denis Rodionov",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/denis-rodionov/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602727601/dtnex3lcpg9oco9cn7fe.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Roman Sharapov",
+        "role": "CTO & co-founder",
+        "linkedin": "https://www.linkedin.com/in/roman-sharapov-24568a86/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602727643/wchnjriohdyqwku1jnuu.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/xrobotics",
       "twitter": "",
@@ -11448,7 +12903,15 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Seed",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Du Ling",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1786968810/xrpwkf21xqpouqozcf0o.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/surface-robot",
       "twitter": "",
@@ -11487,7 +12950,20 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Junyi Song",
+        "role": "President, CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/junyi-song-692a8486/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370434/ms9btgc6447uleriki4n.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Kirin Wu",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/elephantrobotics/",
       "twitter": "",
@@ -11525,7 +13001,27 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Exit",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tali Katz",
+        "role": "Director of Marketing",
+        "linkedin": "https://linkedin.com/in/tali-katz-b39a2b55",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522908911/d2au2fxt6ylmebbb4pwg.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Daniel Blumer",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/danblumer",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522908909/shaivjugat3tjpsp99o3.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Navi Cohen",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/navicohen",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522908913/q2apynyinegaidtn6wti.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/revol-technologies-inc",
       "twitter": "https://twitter.com/revolsound",
@@ -11564,7 +13060,21 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Exit",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dave Cohen",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/pub/dave-cohen/a2/663/a72",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522908630/prfkkrkglt635oxsxjat.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "David Jun",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/david-jun-43b37933",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1628701257/jgcankkhmhbkyrrlbpni.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/petronics",
       "twitter": "https://twitter.com/petronicsinc",
@@ -11607,7 +13117,21 @@
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
     "totalRaised": 1800000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "George Eleftheriou",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/georgioseleftheriou",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907263/r0hbdu2quwweyzyx9o8q.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Haris Tsirbas",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/htsirbas",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1521524479/rgqtnvkawhiy3zn2gi1x.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/sentio-solutions-inc-",
       "twitter": "https://twitter.com/feel_wristband",
@@ -11648,7 +13172,27 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Seed",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rohan Dixit",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/pub/rohan-dixit/33/3a8/545",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1510983351/ham4anlkaxgxzwjxznbn.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Nathanael Wolfe",
+        "role": "Co-Founder",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1491975501/xjaveltlbxjlonz9ii6x.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Billy Frese",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/billyfrese",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1491975499/klgi1fqa9anyjdh950nm.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/lief-therapeutics",
       "twitter": "https://twitter.com/getlief",
@@ -11689,7 +13233,46 @@
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
     "totalRaised": 2500000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Marcus Ljungblad",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/marcus-ljungblad-631a7a53",
+        "twitter": "https://twitter.com/mljungblad",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1587155276/ggnot7h7cksllgdx8txt.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Martin Lööf",
+        "role": "Hardware Engineer",
+        "linkedin": "https://linkedin.com/in/martin-lööf-6a69a4a7",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1563548862/sw202hyxwlv32hrpvuic.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Nils Mattisson",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/nmattisson",
+        "twitter": "https://twitter.com/nmattisson",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1587155280/w9hphdt78cfbcnaqtfkx.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Fredrik Ahlberg",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/fredrik-ahlberg-0275a670/en",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1513642039/jmhojy8pqo0dy7hewkbc.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Marcus Nilsson",
+        "role": "Head of Finance",
+        "linkedin": ""
+      },
+      {
+        "name": "Niklas Valfridsson",
+        "role": "Head of Finance",
+        "linkedin": "https://www.linkedin.com/in/niklas-valfridsson-900b4a4a/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1786968658/ryftz94lxfdlgtywtlnd.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/minut",
       "twitter": "https://twitter.com/minuthq",
@@ -11729,7 +13312,21 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Series A(+)",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Junhao Hu",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/junhaohu",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907074/rrxl9o93gfwpihft79pi.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Vic Song",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/vicsonglei",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505194683/ggbgdb0cezizmccodjcc.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/darma-inc-",
       "twitter": "https://twitter.com/darma_inc",
@@ -11771,7 +13368,21 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Federico Vegh",
+        "role": "Co-Founder, COO",
+        "linkedin": "https://www.linkedin.com/in/federicodalviavegh/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1564055054/fxrixmsa0xbdgdqaccbw.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Juan Francisco Llamazares",
+        "role": "Co-Founder, CEO",
+        "linkedin": "https://linkedin.com/in/juan-francisco-llamazares-vegh-42221164",
+        "twitter": "https://twitter.com/__yuyo",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1541033460/csfesjsnqxz5gaz7mrpe.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/stammbiotech/",
       "twitter": "https://twitter.com/StammBio",
@@ -11809,7 +13420,21 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Seed",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Stefan van der Fluit",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/stefanvanderfluit",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370383/x0zm9lar9rnzeenjyxsv.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Giovanni Rovere",
+        "role": "CTO",
+        "linkedin": "https://linkedin.com/in/giovannirovere",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370347/rvimaysbp82gnhnsdcbq.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -11851,7 +13476,28 @@
     "stage": "Growth",
     "teamSizeRange": "11-50",
     "totalRaised": 2700000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Peither",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/michaelpeither",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522994737/o5ilrsswcviqrgcovj4h.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jakob Bitner",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://de.linkedin.com/in/jakob-bitner-b02a6696/en",
+        "twitter": "https://twitter.com/VoltStorage",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505627702/kzk5tjavsmjomhus1hmp.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Felix Kiefl",
+        "role": "CPO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/felix-kiefl-1057b5b2",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1486359715/p9anw8pqucfnajmhfrrz.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/voltstorage",
       "twitter": "https://twitter.com/voltstorage",
@@ -11891,7 +13537,33 @@
     "isCurrentSession": false,
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Cheehan Weereratne",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/cheehanweereratne/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1554843219/ccs4tqfuhzjk50yuubza.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Louise Thomas",
+        "role": "Co-Founder and mechatronics engineer",
+        "linkedin": "https://www.linkedin.com/in/louisethomas2/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1595527120/xhghzt2pzsffu285htcr.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Sandeep Mirchandani",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/sandeep-mirchandani",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522906631/kajibyqbjwsgfbe9rusm.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Xiong Chang",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/xiong-chang/",
+        "twitter": "https://twitter.com/BeetlRobotics",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1528912605/i1oxzoqfah0x6gyawcyz.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/tensorfield-agriculture/about/",
       "twitter": "",
@@ -11933,7 +13605,21 @@
     "stage": "Series A(+)",
     "teamSizeRange": "2-10",
     "totalRaised": 350000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ali Naderi",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/ali-naderi-01/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602727789/hmkxi0bglawcsuyh1ngo.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Andre Lorenceau",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/andrelorenceau",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602312998/s3wll9oru33txerrsb3p.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/divigas/",
       "twitter": "",
@@ -11971,7 +13657,33 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Exit",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Stav Braun",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/stav-braun-63a46368",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907107/amw65ak6zjtgaixnei81.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Sonia Jin",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/sonia-jin-46b51887",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505194708/iusuphqugncaizvczoii.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jia Hao Lim",
+        "role": "Co-Founder",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370411/v43mab9x1zbrb7uzkjec.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Uriah Baalke",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/uriahbaalke",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907105/am7owiffze9undzipv5y.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/dispatch.ai",
       "twitter": "https://twitter.com/dispatch_ai",
@@ -12009,7 +13721,33 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Series A(+)",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sachin Lal",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/sachinlal",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1524494448/ibyfvy7pxsmeoojggsfa.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Phil House",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/housephilip",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505194355/n6ndiag1olu5lwk6pnaw.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Akshat Thirani",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/akshatthirani",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522992774/fsy36whzj2lwgkgq5ael.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Joel Blachman",
+        "role": "Operations & Finance Lead",
+        "linkedin": "https://linkedin.com/in/joelblachman",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370365/tr2ov1sf7jymgckbkdcv.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company-beta/10692933",
       "twitter": "",
@@ -12049,7 +13787,21 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Clemens Tepel",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://linkedin.com/in/cltepel",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370497/t8yidfs8uqdgxzqpesqc.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Pedro Silva",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/pedrofreiresilva/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370403/y4mbpy2bpjjdeswavozp.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/deepspin",
       "twitter": "",
@@ -12089,7 +13841,21 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "totalRaised": 100000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matt Piccoli",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthewpiccoli/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1518673106/g7zte6vhwbjvjancrzkd.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jon Broome",
+        "role": "CFO & CMO",
+        "linkedin": "https://www.linkedin.com/in/jonathan-broome-1a449898/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907722/zx2bjtnjzraobdgkhlrk.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/iqinetics",
       "twitter": "",
@@ -12128,7 +13894,28 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kyle Slater",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/kyledamonslater",
+        "twitter": "https://twitter.com/nuraloopau",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505022245/zkmoutnrt5pmbk5oummx.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Dragan Petrovic",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/dragan-petrovic-a81a74a",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1516223776/tni6kw9rqxdy4lrg8n4b.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Luke Campbell",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/luke-campbell-bb1577102",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505022247/sqzejwtl8sgwyin8nhlu.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/nura-music",
       "twitter": "https://twitter.com/nuraphone",
@@ -12166,7 +13953,27 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brad Bogolea",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/bradbogolea",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505454898/ylimqv3scs5rsikbga5b.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Mirza Akbar Shah",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/mirzaakbarshah",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1516686097/gos9djbud82bksthaz8n.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jeff Gee",
+        "role": "Product Designer & Co-Founder",
+        "linkedin": "https://linkedin.com/in/jeffgeedesign",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505195721/nj44c8frcorv2rzqtkfb.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/simbe",
       "twitter": "",
@@ -12207,7 +14014,28 @@
     "stage": "Seed",
     "teamSizeRange": "11-50",
     "totalRaised": 2500000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aardra Kannan Ambili",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/aardra",
+        "twitter": "https://twitter.com/aardka",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522994229/wd9ecbikttdidptpyswp.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Sanchi Poovaya",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://in.linkedin.com/in/sanchi-poovaya-1340b2b",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505541107/xo9yqvvhmpazstshvamf.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Ranjana Nair",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://in.linkedin.com/in/ranjananair",
+        "twitter": "https://twitter.com/streethawkie",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1532497306/vb1rqtdoyfnku6mflboc.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company-beta/13225441/",
       "twitter": "https://twitter.com/raybabyjournal",
@@ -12249,7 +14077,28 @@
     "isCurrentSession": false,
     "stage": "Growth",
     "teamSizeRange": "201-500",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Will Canine",
+        "role": "CPO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/will-canine-602a9266",
+        "twitter": "https://twitter.com/willcanine",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522908529/lntfaakwpumxj8nztfp5.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jonathon Badal",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1563375193/exypjpfcgum0fyygmltu.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Chiu Chau",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/chiu-chau-bb2297b",
+        "twitter": "https://twitter.com/robohome",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505195455/kjcytv0gtxclq9nkuq2y.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/opentrons-labworks-inc",
       "twitter": "https://twitter.com/opentrons_",
@@ -12292,7 +14141,15 @@
     "isCurrentSession": false,
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nicholas Houchois",
+        "role": "CEO & Founder",
+        "linkedin": "https://www.linkedin.com/in/nicholashouchois/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1584275993/r5uhvzkcj3vhdxl2tlb1.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/hearth-labs",
       "twitter": "",
@@ -12332,7 +14189,15 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sam Frishman",
+        "role": "Founder, CEO",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1642558114/bju1s4cqrhay2qd416oz.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/meddevcorner",
       "twitter": "",
@@ -12373,7 +14238,21 @@
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 249999,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Elizabeth Jaworski",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/ejaworski/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1640732445/s4asal84spkt1tqf25h2.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Lance Black",
+        "role": "Chief Medical Officer",
+        "linkedin": "https://www.linkedin.com/in/lance-black-md-mbid-511ba147/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370394/ahefx74zuwjy6f2ajmyw.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/xn-health",
       "twitter": "",
@@ -12412,7 +14291,33 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "totalRaised": 170000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matthew Nowicki",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/matthew-nowicki-57637720",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1473904866/dhknxy5nc8t9oqnn40br.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Christian Moore",
+        "role": "R&D",
+        "linkedin": "https://linkedin.com/in/christian-moore-03839215",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1512539534/j83vnwl0ttfv6opablzw.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Nisan Lerea",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/nisan-lerea-b7269347",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1508824268/dtv7wjhdz3quj7cox2fq.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Daniel Meana",
+        "role": "Product Development",
+        "linkedin": "https://linkedin.com/in/danielmeana",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1517982800/zcqnc2uegcul2mog36tx.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/wazer",
       "twitter": "https://twitter.com/wazercut",
@@ -12453,7 +14358,19 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yang Jiaolong",
+        "role": "Co-Founder",
+        "linkedin": ""
+      },
+      {
+        "name": "Zhuo Li",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/深圳市箴石医疗设备有限公司",
       "twitter": "",
@@ -12495,7 +14412,28 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vishal Pandit",
+        "role": "Chief Growth Officer",
+        "linkedin": "https://www.linkedin.com/in/panditvishal/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370372/u4fjrvu68hd6lyxkdi9a.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Bharath Patil",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/bharath-patil-831a499/",
+        "twitter": "https://twitter.com/ajeetbharath",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370489/iysbnshxein3kshtzyeo.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Radhika Patil",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/radhika-patil-4a97997",
+        "twitter": "https://twitter.com/radhikagandhi",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1570017013/elgeynptpwwj9mc1wge1.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/cradlewise/",
       "twitter": "",
@@ -12535,7 +14473,21 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adebayo Alonge",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/adebayo-alonge-309b1814/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1574781425/qxwkhe7oxtzhxjafvidy.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Amy Kao",
+        "role": "CMO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/amykao02/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1602728477/jbfisvl0rqoqldaskkey.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/rxall-inc",
       "twitter": "",
@@ -12579,7 +14531,15 @@
     "stage": "Series A(+)",
     "teamSizeRange": "2-10",
     "totalRaised": 100000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Katharina Unger",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/katharina-unger-64091928",
+        "twitter": "https://twitter.com/katharinaunger1",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907957/wycbencwzxcmie1qsfkf.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/l-i-v-i-n-farms/",
       "twitter": "https://twitter.com/livinfarms",
@@ -12618,7 +14578,22 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Series A(+)",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Michael Levy",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/mlevy23",
+        "twitter": "https://twitter.com/mlevy23",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1533080310/qfxfhd1t8yybumesvfwe.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Eugene Zasoba",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/yevhen-zasoba-a009286/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370500/akxiv5arovucbapp7g1b.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/somatic/",
       "twitter": "",

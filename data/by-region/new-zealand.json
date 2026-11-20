@@ -28,7 +28,22 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alyona Medelyan",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/medelyan",
+        "twitter": "https://twitter.com/zelandiya",
+        "bio": "Alyona Medelyan, Ph.D. is the CEO of Thematic, an AI-driven customer insights solution. Thematic helps companies improve customer and product experience through insights from customer feedback. Their customers include LinkedIn, DoorDash, LinkedIn and Vodafone. Alyona holds a PhD in Natural Language Processing (NLP). Her academic publications have been cited by more than 2500 researchers. She frequently speaks on this topic at Data Science, AI and Customer Experience conferences.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7816843a32effb8d7ccfdd4c1cd3a916650d6fde.jpg"
+      },
+      {
+        "name": "Nathan Holmberg",
+        "role": "Founder/Vice President of Product",
+        "linkedin": "https://www.linkedin.com/in/nathanholmberg/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/04fec0af73266459997fb2733d7d2fc66a8ec99b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -69,7 +84,22 @@
     "teamSize": 35,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Roman Kudiyarov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/roman-kudiyarov-0980346/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/40c58de9624022c4638dd1c742479f6f07dd412d.jpg"
+      },
+      {
+        "name": "Dmitry Lyfar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dmitrylyfar/",
+        "twitter": "https://twitter.com/dmitrylyfar?lang=en",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/950955664cf8217db3afe2c6c67df0478d38a3c2.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

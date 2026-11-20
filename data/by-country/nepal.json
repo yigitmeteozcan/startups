@@ -29,7 +29,26 @@
     "isHiring": false,
     "stage": "Early",
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andy Moon",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/andymoonfuture/",
+        "twitter": "https://twitter.com/andymoonsun",
+        "bio": "Co-Founder and CEO of Reunion, leading clean energy financing platform that has worked with Fortune 500s to invest over $7 billion in clean energy projects via tax credits Formerly co-founder and board member at SunFarmer (YC S15), and investor in a few awesome early stage companies including Chronosphere",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8b7d5d59d8777fb35a7a44be30d4f13be85a4758.jpg",
+        "active": false
+      },
+      {
+        "name": "Jason Gray",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jasondgray",
+        "twitter": "https://twitter.com/jasondgray",
+        "bio": "Pioneer Fund - Founder and Managing General Partner. Previously, Co-Founder of SunFarmer, a solar energy company. Prior to that, Jason held various roles in finance, energy, and agriculture, including as General Manager and Vice President of SunEdison. In this role, he established the company’s Canadian division, building it to $250M in annual revenue and managed over $500M in debt in equity.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f72fe74dcb0dd8e6f6b822fb22bb46395911d887.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

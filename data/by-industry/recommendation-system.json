@@ -30,7 +30,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Scott Wheeler",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -70,7 +77,30 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Marty Wetherall",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/martywetherall",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e87c755478baad52466733d9aa258c9caf6e8900.jpg",
+        "active": false
+      },
+      {
+        "name": "Todd Emmel",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      },
+      {
+        "name": "Luke Francl",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lukefrancl/",
+        "twitter": "https://twitter.com/lof",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/886d0ccf8c617dccf6f313b4bfb0af4254ebaa8b.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -27,7 +27,31 @@
     "teamSize": 350,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Henrik Zillmer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zillmer",
+        "twitter": "https://www.twitter.com/henrikzillmer",
+        "bio": "Henrik Zillmer is a serial entrepreneur, former Rocket Internet executive and founder of AirHelp and ROOM to mention a few. Henrik has founded more than ten startups’ within insurance, travel, software and e-commerce. At Rocket Internet Henrik launched one of Asia’s largest e-commerce businesses Zalora in eight different countries and took the company from 5 to 2,000 employees in less than one year. Henrik is currently chairman of AirHelp and continues to be active in Y Combinator as an advisor.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1465dc8a5e175db582ddaa45a905712522101484.jpg"
+      },
+      {
+        "name": "Nicolas Michaelsen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicolasbranasmichaelsen/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/04c4c35304bbe930a5c4449bd672030cb752236a.jpg",
+        "active": false
+      },
+      {
+        "name": "Greg Roodt",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/groodt/",
+        "twitter": "https://twitter.com/groodt",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1bc05db3fc7bdc0f307bf06723ef17b8601c093c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -68,7 +92,15 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sergei Lepchenkov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lepchenkov/",
+        "bio": "I'm the founder of GiveAway, a peer-to-peer marketplace that lets people pass on unwanted items through a unique internal coin and auction system. Designed to make giving more rewarding, GiveAway helps users declutter sustainably while earning coins they can use to bid on items from others—creating a circular, cashless exchange built on community and reuse.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d7152fbd65f82d930e31497eaa2da20d36faa6c7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

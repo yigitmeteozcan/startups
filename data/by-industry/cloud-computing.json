@@ -27,7 +27,22 @@
     "teamSize": 250,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joris Poort",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/gpoort/",
+        "twitter": "https://twitter.com/jorispoort",
+        "bio": "Founder & CEO @ Rescale",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/edb2159ba1459774b3a2c01a2c0e3e6852453375.jpg"
+      },
+      {
+        "name": "Adam McKenzie",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/adammckenzie",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/899f5465d69863ee35668c55aeee9058f646a670.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -66,7 +81,29 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rune Soerensen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/runesoerensen",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      },
+      {
+        "name": "Michael Friis",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michaelfriis",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      },
+      {
+        "name": "Troels Thomsen",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0ba485dee7555ca11d663155ca7ff3c84d1760f0.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -108,7 +145,26 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Suhail Doshi",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/suhaildoshi/",
+        "twitter": "https://x.com/suhail",
+        "bio": "Founder at Particle. Previously founded Mixpanel (YC S09), scaling it from 0 to 300+ employees and nearly $100M ARR as CEO over a decade. Also founded Playground (YC S19). Started coding at Arizona State before dropping out to build Mixpanel from his bedroom.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d176baace999ea87f76362b31b226ac86041250b.jpg",
+        "active": false
+      },
+      {
+        "name": "Tim Trefren",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/timtrefren",
+        "twitter": "https://twitter.com/ttrefren",
+        "bio": "Now working on climate change at Recheck. Previously founder at Mixpanel (2009-2019).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8c434afa1b4a010e62cf821387a6330ab8ea4694.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -148,7 +204,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Colin Hayhurst",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/colinhayhurst/",
+        "twitter": "https://twitter.com/ColinHayhurst",
+        "bio": "Currently: Independent stealth project in foundational physics CEO of Mojeek. Fully independent web search engine (>9 billion pages), built from group-up. COO & co-founder, DataJavelin: AI university spin-out focussed on Bayesian infererence CEO & co-founder, GoScale: YC S2012. Dynamic scaling hypervisor and IaaS. CTO & cofounder, then CEO: Century Dynamics. Computational Physics, FE & CFD. Exit to NASDAQ: ANSS",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c98838861c2b7e87d4002d68e21f30e2c1b9373a.jpg",
+        "active": false
+      },
+      {
+        "name": "James Cunningham",
+        "role": "Founder/CTO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4f5b2d910241613650300d8f61af1e6de1d0fac1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -188,7 +261,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ron Pressler",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bc6fb30fcb64ab443150c418e92f449d25d22b51.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -229,7 +309,26 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kyle Gray",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kyle-conroy-19a07273/",
+        "twitter": "https://twitter.com/kyle_conroy/",
+        "bio": "Created sqlc, a command line tool that generates source code from SQL (https://sqlc.dev)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8dbbe9748b58f0569febcfad45e26a37c0c4a454.jpg",
+        "active": false
+      },
+      {
+        "name": "Brandon Liu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bdonl/",
+        "twitter": "https://twitter.com/bdon",
+        "bio": "Working on Protomaps https://protomaps.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/98119b3684a2c96c544a38cc0dba45ef3f9b9233.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -272,7 +371,22 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Frank Macreery",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/fancyremarker",
+        "twitter": "https://twitter.com/fancyremarker",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da63947718a39ed83b82d1b70fd55016cfdc1287.jpg"
+      },
+      {
+        "name": "Chas Ballew",
+        "role": "Founder/Chairman",
+        "linkedin": "https://www.linkedin.com/in/chasballew/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/686285007edfe40700c879d11e9257b6bf07159e.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -317,7 +431,31 @@
       "Treeline",
       "Sails"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mike McNeil",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mikermcneil",
+        "twitter": "https://x.com/mikermcneil",
+        "bio": "See https://mcneil.io",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1feda2482836c51ef46c4e3ada554fada3e8344a.jpg",
+        "active": false
+      },
+      {
+        "name": "Scott Gress",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/scottgress/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c02d497a1497878cd71e9af72948bb69dee00fe.jpg",
+        "active": false
+      },
+      {
+        "name": "Cody Stoltman",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/codystoltman/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/26b8f1dcb1fbec82bf7da599e99be87671a29795.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -356,7 +494,22 @@
     "status": "active",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christopher Blum",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/profile/view?id=AAIAAADCIYUBtE8v5K3_Te-rvWb8rHxzYFqaYgU",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1cc499e28d140aa3b2fea94297d2cb43335679bc.jpg",
+        "active": false
+      },
+      {
+        "name": "Ali Jelveh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alijelveh/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c41eeb8c186a88e9c3265bc13c3f002eb5158830.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -440,7 +593,21 @@
       "Manycore.io",
       "Inboxbooster"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Marcus Engene",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ehsmeng/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4a29f1cb1e4b56f5bd282ebb25a51254c2810346.jpg"
+      },
+      {
+        "name": "Nicolas Toper",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicolas",
+        "bio": "I like to build new things. My blog : https://deviantabstraction.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/18068284f67dbf5187f5c9bf072d2a66bcf73a0a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -480,7 +647,20 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sean Fu",
+        "role": "Founder/CEO",
+        "linkedin": "https://cn.linkedin.com/in/xinyuanfu",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba7fc5a72ed09bb9d6a28b8afe7dd7f60a4fbb56.jpg"
+      },
+      {
+        "name": "Peng Lei",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/peng-lei-b2599535",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/19055c89c912137a10c1a005252636367b77bb5d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -524,7 +704,16 @@
       "Nabla Computing",
       "Nabla Inc"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chirath Neranjena",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chirath-neranjena-8299241/",
+        "twitter": "https://twitter.com/neranjena?lang=en",
+        "bio": "Aerospace Engineer. Private pilot, amateur musician and photographer. Caltech | Idealab | GoogleX | Y Combinator. Made in Sri Lanka",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6048c541901923761fbace17efeaa283c82f50c0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

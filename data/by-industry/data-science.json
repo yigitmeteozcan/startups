@@ -28,7 +28,14 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jake Klamka",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jakeklamka",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/75887246e48a0c08ab7f6ddb10cfeaebc3c9ebaa.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -69,7 +76,20 @@
     "teamSize": 60,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joe Doliner",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/profile/view?id=52269912&trk=spm_pic",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0fb64eb638df031cc497baccc35f15b4a25ea54b.jpg"
+      },
+      {
+        "name": "Joey Zwicker",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/joseph-zwicker/15/717/a09",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b792052bcf2b8584ff7fee7c2b1227614e791105.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -109,7 +129,14 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Liou",
+        "role": "Founder/CEO",
+        "linkedin": "http://www.linkedin.com/pub/brian-liou/23/662/441/en",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ac77eef2ff91966bdc0f1dafbc82c294206abe27.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -149,7 +176,14 @@
     "teamSize": 100,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Misha Esipov",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mishaesipov",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/477675c454d2c25f1450c75572bf33abe01e1215.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -190,7 +224,24 @@
     "isHiring": false,
     "stage": "Early",
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sneha Sheth",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/snehaksheth",
+        "twitter": "https://twitter.com/snehaksheth",
+        "bio": "Sneha is passionate about using entrepreneurship to solve educational inequality in the world. She started Dost while completing her MBA at UC Berkeley. She has experience designing programs for women’s empowerment, financial inclusion and education across the world. In previous roles, she advised clients like Goldman Sachs, the Gates Foundation, Teach For India, and UN Women. She’s a Mulago Rainer Arnhold Fellow and GLG Social Impact Fellow.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d39af1c8943fb725b46519ae1eb25f48ab5c2a18.jpg"
+      },
+      {
+        "name": "Sindhuja Jeyabal",
+        "role": "Founder",
+        "linkedin": "https://htttp://www.linkedin.com/in/sindhujajeyabal",
+        "twitter": "https://twitter.com/sindhujajeyabal",
+        "bio": "Sindhuja has expertise building digital learning experiences and is passionate about making quality education accessible to everyone. She has worked across user-centered design, product development and engineering at Samsung and Adobe to build engaging digital experiences that make learning fun. Sindhuja received her Masters from UC Berkeley, where she specialized in technology for international development and began building Dost.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6587fbdd272deebb3d1b0dda3f84b905a81662b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -236,7 +287,29 @@
     "formerNames": [
       "Centaur Labs"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Erik Duhaime",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/erik-duhaime-7a827413/",
+        "bio": "founder/CEO at Centaur.AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9a6e50d5dd71f76d5a040c9cf9446f6cb36cdec8.jpg"
+      },
+      {
+        "name": "Tom Gellatly",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tomgellatly",
+        "bio": "Hello! I live in Durham, NC. I have a background in mobile and web development and engineering management. I studied CSE at the University of Michigan. I was the first employee at SF ride-sharing startup Sidecar, which was acquired by General Motors in 2016. I then managed the mapping & data labeling engineering teams at Cruise Automation for 1.5 years.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a8c82270623bde9acd62fce72fb514ed762a7688.jpg"
+      },
+      {
+        "name": "Zach Rausnitz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rausnitz",
+        "bio": "I'm a self-taught, generalist software engineer. I cofounded Centaur Labs in 2017. Previously I worked as a full-stack software engineer at Washington City Paper, where many notable people in media got their start.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5d9d3ff5deaaf87ce5c4bbdbe2e9858a6259919f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -278,7 +351,16 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Musing",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/MaxMusing",
+        "twitter": "https://twitter.com/MaxMusing",
+        "bio": "Founder & CEO of Basedash.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0ce2b585064091a379296661d316d45b79ddc79b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -324,7 +406,23 @@
       "Saga",
       "Mtio"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aaron Diamond-Reivich",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aaron-diamond-reivich/",
+        "twitter": "https://twitter.com/_aaronDR",
+        "bio": "Hey! I'm a UPenn Alum where I studied computer science and management. I'm building low-code data science software for the next 1M data analysts with my best friend and twin brother. Excited to learn from & with other YC founders. Say hi!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ce8b60b12bd61610e1a60375cb480eae613c7b16.jpg"
+      },
+      {
+        "name": "Jake Diamond-Reivich",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jacob-diamond-reivich-03ab62145/",
+        "bio": "Jake graduated with a BS in Finance @ Wharton. Before founding Mito, he helped launch a global personalization analytics tool at SAP. He's our head of growth, and manages our open source community as well as our sales pipeline.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/21e7aaf673fff445854cea35f7f0a9210496de82.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -28,7 +28,24 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jermaine Watkins",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jermainewatkins",
+        "twitter": "https://twitter.com/jwatkinsky",
+        "bio": "I am a seasoned CTO with 20+ years of experience in creating complex, web-based applications, and e-commerce applications. Proven ability to lead software development teams. Strong understanding of AI, machine learning, server-less, and distributed systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9772ab26018ec671b12846a0867018e496e4dd52.jpg",
+        "active": false
+      },
+      {
+        "name": "Demetrius Gray",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/demetriusgray/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7900f1a97f657824de5fba1368548f0932808d87.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -75,7 +92,23 @@
       "Inc.",
       "Atmo AI"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alex Levy",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/levyalex",
+        "bio": "Leveraging AI to revolutionize the physical sciences, Alex Levy is the CEO and co-founder of Atmo, the leading company integrating AI into global weather forecasting. Previously, he co-founded Atomwise (W15), a pioneering AI company in small molecule drug discovery, boasting over 800 active programs and $1 billion in pharmaceutical partnerships. An alumnus of the University of Toronto, he began his career by leading a computer vision research lab within the Computer Science Department.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9d6b2d29f328539e24d2cb0bac16217cc3f8838b.jpg"
+      },
+      {
+        "name": "Johan Mathe",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/johmathe/",
+        "twitter": "https://twitter.com/johmathe",
+        "bio": "As co-founder and CTO of Atmo, Johan spearheads groundbreaking advancements in climate and weather science, leveraging AI, applied mathematics, and distributed systems. His lifelong mission is to bring applied mathematics and AI to the physical sciences. His expertise is backed by an 8-year tenure at Google, including Google X's Project Loon, where he lead critical efforts in the planning and simulation, and as a founding team member of Caption Health (acq. 2023) and Apollo Fusion (IPO 2021).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/140822548475d2414b46dec1a3515a808fd42ecb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

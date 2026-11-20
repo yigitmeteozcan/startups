@@ -26,7 +26,20 @@
     "teamSize": 100,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christian Kletzl",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christiankletzl",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d113944aed7d37be453cbd79d1782bb84f141421.jpg"
+      },
+      {
+        "name": "Stephan Kletzl",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/stephankletzl",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a827727262df89f56cbd233d48854833fec6efbf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

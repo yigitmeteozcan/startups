@@ -730,7 +730,16 @@
     "teamSize": 60,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Arjun Mohan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mohanarjun",
+        "twitter": "https://twitter.com/ArjunMo",
+        "bio": "Arjun started his career as a strategy analyst at a technology company in Toronto, Canada. He later co-founded a software development company building ecommerce marketplaces. He completed his undergrad at the University of Toronto and his Masters at the Richard Ivey School of Business.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c2eaa56df7ba0d0e137d2641ce95f7a1a015a19c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -777,7 +786,23 @@
       "Amber by inFeedo",
       "inFeedo"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tanmaya Jain",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tanmayajain/",
+        "bio": "I believe that mental health + cancer are silent epidemics that are gradually consuming mankind. As I climb up Maslow's hierarchy, the idea is to dedicate a major portion of my life to these 2 causes.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b7bb6471f24b55c289d8cd6897992c4744d5fd02.jpg"
+      },
+      {
+        "name": "Varun Puri",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/varunpuriinfeedo",
+        "twitter": "https://twitter.com/vazpuri",
+        "bio": "► Co-Founder + CPO + CTO at Amber by inFeedo ► I build things. I experiment. I want to be a teacher someday. ► I run Product + Design + Engineering at inFeedo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2cc9a5ce18223551b56280fcb166fc92572df0a7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -817,7 +842,16 @@
     "teamSize": 4,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ziyad Parekh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ziyad-parekh-b864b655",
+        "twitter": "https://twitter.com/ziyadparekh",
+        "bio": "Co-Founder and CEO at Safepay. Software engineer by background. Double majored in Mathematics and Economics. Helped multiple startups launch and scale new product lines. Trying to achieve a similar goal with Safepay.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8cd5fe67a67c8596067a59b53ee56280812d6ebd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -858,7 +892,15 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Amine Benjelloun",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bengeekly/",
+        "bio": "Built and scaled Mailwarm, an email deliverability SaaS. Now experimenting with a startup studio focused on rapid validation. Passionate about building lean, testing fast, and failing on purpose until something works. YC and Station F alum.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7cae188eae424ccff6133289f3e956d6951bb268.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1516,6 +1558,743 @@
       "crunchbase": ""
     },
     "extra": {},
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-aesty",
+    "source": "antler",
+    "name": "Aesty",
+    "description": "AI-powered closet companion helping users organize their wardrobes, create new outfits and shop for curated recommendations.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b9cb591d03330c2656b_portfolio%252Fcompany%252F5ff7afe8-0706-480f-bcf9-c04fa782c887%252F1750924959865-Color_Aesty.png",
+    "website": "https://aesty.ai",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-alea-health",
+    "source": "antler",
+    "name": "Alea Health",
+    "description": "AI-assisted virtual mental health clinic, leveraging deep-learning, predictive analytics and large language models to provide advanced intake matching with the best therapist, measure care progress throughout therapy, and support clients between sessions and beyond therapy",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a8e41d3cfe62349c105_portfolio%252Fcompany%252F21c108a5-dca7-48ec-96ce-c44e1cc902d0%252F1729847459133-Screenshot_2024-10-25_at_1.10.23_PM-removebg-preview.png",
+    "website": "https://aleahealth.co/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-audiomatic",
+    "source": "antler",
+    "name": "Audiomatic",
+    "description": "AI-powered sound generation engine that creates bespoke audio tracks (music & sound effects) for immersive experiences like games and movies.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9dcc3a3a657de965d77f_portfolio%252Fcompany%252Feb4624db-8786-4964-a709-438e94bcfd08%252F1750178362705-WhatsApp%2520Image%25202025-06-17%2520at%25208.08.55%2520PM.jpeg",
+    "website": "https://audiomatic.io/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-autopulse",
+    "source": "antler",
+    "name": "AutoPulse",
+    "description": "AI-enabled platform for real-time vehicle health tracking, maintenance forecasting, and customer service tools",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1cee94dec0abb3afaa7_teams%252Ff9226676-46ee-417a-8bbb-01577e680a24%252Flogos%252FIMG_1438.avif",
+    "website": "https://auto-pulse.co/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-caspr",
+    "source": "antler",
+    "name": "Caspr.",
+    "description": "GenAI-enabled platform integrating credible data sources, offering agency-quality research within minutes",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1cee94dec0abb3afa3e_teams%252F4de683c7-14e5-4c35-848e-23fb27416369%252Flogos%252FCaspr.avif",
+    "website": "https://www.caspr.ai/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-cenara",
+    "source": "antler",
+    "name": "Cenara",
+    "description": "Centralizing intelligence for revenue teams to optimize sales efforts and growth",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/698eef756bbf448bafee7723_teams%252Fc1518b38-67f4-4968-a748-7b66fd742885%252Flogos%252FCenara%2520AI%2520New%2520Logo.png",
+    "website": "https://www.cenara.ai/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-circle",
+    "source": "antler",
+    "name": "Circle",
+    "description": "Mobile-first, inventory led thrifting platform enabling secondhand sales, focused on fashion and clothing",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9bb9b591d03330c266c9_teams%252F67d6f73b-a6fd-4887-b267-4490947a37d2%252Flogos%252FCircle%2520logo.png",
+    "website": "https://circledrops.net/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-deliverect",
+    "source": "antler",
+    "name": "Deliverect",
+    "description": "Food Ordering & Payments in MENAP",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9cee26b50dc54bba3ab0_portfolio%252Fcompany%252Fb3a91a64-5560-438e-b537-fb921d15b9f6%252F1749562587870-Screenshot%25202025-06-10%2520093529.png",
+    "website": "https://www.deliverect.com/en-us",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-dhahaby",
+    "source": "antler",
+    "name": "Dhahaby",
+    "description": "Collateralized loans backed by physical or digital gold, gemstones, jewelry, and watches.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a0e4f6effac23559b4e_portfolio%252Fcompany%252F02f288ef-6afa-456a-b280-e60a2a9545de%252F1744546334744-Dhahaby%2520Logo%2520(6).png",
+    "website": "https://dhahaby.com",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-eecrow",
+    "source": "antler",
+    "name": "eecrow",
+    "description": "eecrow is a digital escrow platform simplifying contracts and securing timely payments for freelancers and SMEs in the MENA region",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1e579957dd323e46879_portfolio%252Fcompany%252F29941850-ce7f-454a-a9e4-a8a07560f11b%252F1732782666100-eecrow-logo.avif",
+    "website": "https://www.eecrow.com",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-enstyle",
+    "source": "antler",
+    "name": "Enstyle",
+    "description": "We help fashion brands develop products that consumers will buy",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a1f4f6effac23559cb3_portfolio%252Fcompany%252F082a7f42-a622-42fa-930c-9663e25e6c40%252F1741003356767-Enstyle_Monogram_RGB_BLACK.png",
+    "website": "https://www.enstyle.ai",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-gaiadata",
+    "source": "antler",
+    "name": "GaiaData",
+    "description": "AI to save water in agriculture",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b35d9e7d5954c061182_portfolio%252Fcompany%252F4b5fff2b-3263-4ace-9539-201cd4b4aa0f%252F1729848667997-logo.png",
+    "website": "https://www.gaiadata.ai/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-guardianai",
+    "source": "antler",
+    "name": "GuardianAI",
+    "description": "Telematics-based navigation app monitoring driving data and offering better insurance rates for safe behavior",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9e072793aa7a50a3e117_teams%252F4060dd68-e1c4-43de-b63e-11c8e3bcf7fc%252Flogos%252FGuardianAI.png",
+    "website": "https://guardianai.info/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-liricare",
+    "source": "antler",
+    "name": "Liricare",
+    "description": "Creating the world’s largest network of special needs professionals, connecting them with those who need them the most",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a9341d3cfe62349c16a_portfolio%252Fcompany%252F246ce6b0-705c-4836-91ea-90ac522a367f%252F1737139182442-Liricare%2520logo%2520icon%2520(1).png",
+    "website": "http://Liricare.com",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-mifta",
+    "source": "antler",
+    "name": "MIFTA",
+    "description": "Digital brokerage automating every step of the long-term rental process, from search to contract execution",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9bdc52021e4c41b45d9a_teams%252Fe86d8d3f-7ccb-4436-98b5-ab08ed9e961c%252Flogos%252FIC%2520-%2520Mifta%2520Pitch%2520June%25205.png",
+    "website": "https://mifta.co/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Real Estate & PropTech"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-nova",
+    "source": "antler",
+    "name": "Nova",
+    "description": "AI-native contract intelligence platform enabling users to analyze, generate, and sign contracts",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9af310b8d1d09ead1c73_teams%252Faafa7a23-6d2a-41a2-8a1e-f24842036c71%252Flogos%252FNova.png",
+    "website": "https://nova-doc.com/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-propel",
+    "source": "antler",
+    "name": "Propel",
+    "description": "Propel is the finance data layer between your orders and your bank — we auto-reconcile every transaction daily so operators decide on cash they actually see, not numbers that are 3 weeks stale.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a5e12f73f547d2f94e6e2df_portfolio%252Fcompany%252Fdb67c157-b03d-4ea7-82fa-566a08172e0f%252F1784549887544-Logo%2520-%2520propel%2520-%2520Company%2520Page.png",
+    "website": "https://www.propel-fs.com/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2026,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-ruya-ai",
+    "source": "antler",
+    "name": "Ruya AI",
+    "description": "Building frontier AI to accelerate scientific discovery and unlock insights for solving complex global challenges.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee196232e57828f66887d_portfolio%252Fcompany%252F0da220eb-49f0-4ba9-9eca-3b36661f875f%252F1750924859935-Color_Ruya.avif",
+    "website": "https://www.ruya.ai/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-sastaticket",
+    "source": "antler",
+    "name": "Sastaticket",
+    "description": "Pakistani Online Travel",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6acdcf6e51b0dc61386f27a3_portfolio%252Fcompany%252Fe1012e56-2ea4-4bc0-b6d8-ad76f377583f%252F1749574699243-Sast.png",
+    "website": "https://www.sastaticket.pk/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": [
+      "plugandplay"
+    ]
+  },
+  {
+    "id": "antler-wealthkarma",
+    "source": "antler",
+    "name": "WealthKarma",
+    "description": "Digital retirement advisory platform that simplifies retirement planning, enhancing financial literacy, streamlining the process from planning to investing, and motivating people to act.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9e042793aa7a50a3e0dd_portfolio%252Fcompany%252Ffd1d9e6e-f345-4399-8c30-e6e97de318fe%252F1744007147791-6718e19ddaec5882ebfaa9a5_logo-bg-p-1600.png",
+    "website": "https://thewealthkarma.com/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
+    "country": "United Arab Emirates",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-zybra-finance",
+    "source": "antler",
+    "name": "Zybra Finance",
+    "description": "Aggregator for real world assets (RWA) platforms that connects investors willing to lend with private credit institutions, creating liquid derivatives and bringing DeFi liquidity to RWA credit markets.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d6eaba4d489afa47fdd_portfolio%252Fcompany%252Fd6451146-4c7d-4cd7-8539-5155ce7ece81%252F1725423966642-logo.jpeg",
+    "website": "https://zybra.finance/",
+    "location": "United Arab Emirates",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Arab Emirates"
+    },
     "country": "United Arab Emirates",
     "alsoIn": []
   },
@@ -6544,7 +7323,21 @@
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
     "totalRaised": 5000000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anser Latheef",
+        "role": "Co-Founder & CSO",
+        "linkedin": "https://linkedin.com/in/anser-latheef",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1786972669/xf3n6qrmir1yer1at8gn.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Chirenj Chandran",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://linkedin.com/in/chirenj-chandran-8a8a2b69",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1786972702/iquioijneuiejoi215sc.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/mysyara",
       "twitter": "https://twitter.com/mysyara_app",
@@ -6582,7 +7375,21 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Saqib Ashfaq",
+        "role": "Head of Finance",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370538/kfbkb7a3of70bfrjuxth.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Capt. Adnan Ahmad",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/caahmad",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370348/r2xemciovdr4w4pmihtd.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/lorryz/",
       "twitter": "",
@@ -6623,7 +7430,27 @@
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
     "totalRaised": 685000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ishita Sood",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/ishita-sood-kochhar-0a343636/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1563975384/obqzihzhwepmco5svbse.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Badis Glaied",
+        "role": "Senior Business Developer & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/badisglaied/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1563975483/cergospdw17vt3j8ayvq.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Hassan Albalawi",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/hassanalbalawi",
+        "twitter": "https://twitter.com/hassan_albalawi",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522909794/agegncyf3oglrfxf1jyf.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/25065591/",
       "twitter": "https://twitter.com/Wake_Cap",

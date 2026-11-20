@@ -1490,7 +1490,21 @@
     "teamSize": 35,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bas Kohnke",
+        "role": "Founder/CEO, at Impraise",
+        "linkedin": "https://www.linkedin.com/in/baskohnke/",
+        "bio": "Living in Amsterdam and Lisbon. Former Founder/CEO of Impraise (acquired by BetterUp). Angel investor in several tech companies. Coach to Founders on self-awareness and emotional well-being. Extensive experience in B2B SaaS, Edtech, Product Management, Enterprise Sales, Culture Building.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1657c487158b3c9d5bb803886b320a2cb26327f5.jpg"
+      },
+      {
+        "name": "Filipe Dobreira",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/filipe-dobreira/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3dd0058d19578beaf932fb4f332d6a1b6d147fa8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1534,7 +1548,26 @@
     "formerNames": [
       "MessageBird"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Robert Vis",
+        "role": "Founder/CEO",
+        "linkedin": "http://linkedin/in/robertvis",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cb254aff15313d552d84b90655681a2839614a3c.jpg"
+      },
+      {
+        "name": "Bob Violier",
+        "role": "Founder/CTO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/79744c839df01828477fb232aaa99c7f9d023d48.jpg"
+      },
+      {
+        "name": "Joey van Ommen",
+        "role": "Founder/Head of Product & Partner",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e7edaf0c2dcaa80e4615a8cdb87046180a0c59e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1578,7 +1611,14 @@
     "formerNames": [
       "EMDR-VR"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christoph Lynen",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/christophlynen/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4c1e915c27beb39b16d30bc6294131aae9e0b320.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1618,7 +1658,23 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Grant Shaddick",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shaddickgrant/",
+        "bio": "Co-founder of Tella. I like talking about the challenges of remote work :)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0928056cd3bd0346b37729d11b869d54c4798c9b.jpg"
+      },
+      {
+        "name": "Michiel Westerbeek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michiel-westerbeek-4b6b7a48/",
+        "twitter": "https://twitter.com/happylinks",
+        "bio": "Working on Tella; Async video communication for remote teams. Create engaging stories for your ideas and updates.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/932745199d2a8945d7a893b4098656484844f694.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2330,6 +2386,1200 @@
       "crunchbase": ""
     },
     "extra": {},
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-balthazar",
+    "source": "antler",
+    "name": "Balthazar",
+    "description": "The operating system for deep tech labs",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c4c24c0aee2ff4b40a2_portfolio%252Fcompany%252F8825490a-0307-4499-9ea0-07fa95156816%252F1725422996681-logo.png",
+    "website": "https://www.balthazar.app/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-boxd",
+    "source": "antler",
+    "name": "boxd",
+    "description": "Cloud Infrastructure | Boxd: A composable computer. Fully isolated for developers and agents. Forkable and self-hostable. SSH boxd.sh",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/698b37de5287e3411532e801_portfolio%252Fcompany%252F0035beab-9b31-4747-b56a-2e688805dc2d%252F1770731430438-Icon-black-bg.jpeg",
+    "website": "https://boxd.sh",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-claridy-ai",
+    "source": "antler",
+    "name": "Claridy.ai",
+    "description": "AI Agents that handle Accounts Payable end-to-end",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69cfda1d6b0ea69fe6797bc5_portfolio%252Fcompany%252F6fe17b0d-3922-43d6-ab9c-a9ad1ea221bb%252F1775228828665-claridy-mark-linkedin-night%25402x.png",
+    "website": "https://www.claridy.ai/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-clear-bio",
+    "source": "antler",
+    "name": "Clear.bio",
+    "description": "Reimbursed treatment for reversing diabetes 2 based on digital precision nutrition",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b2277fcf19d200e2af0_portfolio%252Fcompany%252F482e48e6-c36c-4b7f-be7d-725dd34060be%252F1738661746981-download.png",
+    "website": "https://www.clear.bio/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-datamonk",
+    "source": "antler",
+    "name": "Datamonk",
+    "description": "Agentic Healthcare Data Platform",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9cdd26b50dc54bba3994_portfolio%252Fcompany%252Fae089e9b-570d-413a-9555-e91a837d5b0f%252F1744013156555-Datamonk%2520Logo%2520black%2520fit.png",
+    "website": "https://www.datamonk.ai/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-equip",
+    "source": "antler",
+    "name": "Equip",
+    "description": "Redefining financial security for the modern workforce",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d5faba4d489afa47ed5_portfolio%252Fcompany%252Fd376de10-183c-4474-a851-8436f8638f60%252F1725844200117-logo.jpeg",
+    "website": "https://www.withequip.com/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-fero",
+    "source": "antler",
+    "name": "FERO",
+    "description": "Personalisation of the checkout experience",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a032765fa7873bb209fc824_portfolio%252Fcompany%252F0669529c-f2d8-4b4f-942d-9d2088876da3%252F1778591577694-Screenshot%25202026-05-12%2520at%252015.12.49.png",
+    "website": "https://www.feropaymentscience.com/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-flouria",
+    "source": "antler",
+    "name": "Flouria",
+    "description": "Flouria is a digital women’s health company that re-invents the way women engage with women’s health experts",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69e7299ef1ac96aae525ccaf_portfolio%252Fcompany%252F5ad35023-9fcb-4490-904f-c79c81498199%252F1725422971155-logo.png",
+    "website": "https://flouria.health/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-getplace-io",
+    "source": "antler",
+    "name": "Getplace.io",
+    "description": "Platform to menage location expansion",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b80d5dec69f06644c81_portfolio%252Fcompany%252F5d115426-dee3-4e6a-8905-cfb52e44fdfd%252F1725844215946-logo.png",
+    "website": "https://getplace.io/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Real Estate & PropTech"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-greybox",
+    "source": "antler",
+    "name": "Greybox",
+    "description": "Greybox enables you to think in 3D space — design, iterate, and collaborate on 3D projects, no expertise needed.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b62d5dec69f06644ac8_portfolio%252Fcompany%252F54bdfcc7-8dde-4e74-b4c6-ee4d1067a473%252F1738653975051-monogram_white.png",
+    "website": "https://greybox.app",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-hero-labs",
+    "source": "antler",
+    "name": "Hero Labs",
+    "description": "The first and largest platform that allows citizens and organizations to directly fund a stable monthly income to over 100 climate leader in 30 countries.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944ef8f76369e2647b310d9_portfolio%252Fcompany%252F7522e476-38e5-437e-9875-3e052bf7b291%252F1725844220966-logo.png",
+    "website": "https://herocircle.app/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-hypherdata",
+    "source": "antler",
+    "name": "Hypherdata",
+    "description": "R&D data matchmaking -- connecting data producers to data consumers in Life Sciences through data labels.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c7e10b8d1d09ead5d3d_portfolio%252Fcompany%252F95f4a118-d34a-44d4-ac04-6ae866229441%252F1725844306967-logo.png",
+    "website": "https://www.hypherdata.com/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-jetlearn",
+    "source": "antler",
+    "name": "JetLearn",
+    "description": "Live 1:1 online coding and robotics classes for 5-16 yrs.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ddc3b8a0da7fefd2252b2_portfolio%252Fcompany%252Fdd525ba5-0ee7-40bf-a13b-fdb195723d31%252F1725844227549-logo.avif",
+    "website": "https://www.jet-learn.com/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-kariz",
+    "source": "antler",
+    "name": "Kariz",
+    "description": "Instantly connect your AI agents to any Channel",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6acdd239cacf9df071fe065e_portfolio%252Fcompany%252F87785253-cd33-48f1-9674-3b8a84a87231%252F1744199094476-Kariz%25201200p.png",
+    "website": "https://runkariz.com/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Deeptech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-klearly",
+    "source": "antler",
+    "name": "Klearly",
+    "description": "The payments platform for restaurants and hospitality across Europe",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ac3663f80b24fcf7927f70c_portfolio%252Fcompany%252F8ac4a71e-e430-483f-b9d0-225ca9e6c1e0%252F1740648196885-Asset%25201%25404x-8.png",
+    "website": "https://klearly.nl",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-klickie",
+    "source": "antler",
+    "name": "ツklickie",
+    "description": "Community activation: members of a community ask, and get introduced to the right trusted person.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ac3c83c020fd119c985c45a_portfolio%252Fcompany%252Fe806f8bc-d91f-4534-821c-0908a43eed00%252F1791215342927-klickie-mark-1000.png",
+    "website": "https://klickie.me/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-langwatch",
+    "source": "antler",
+    "name": "Langwatch",
+    "description": "LangWatch is the infrastructure layer for Agentic AI, enabling scenario-based testing and agent simulations to validate, monitor, and control autonomous agents across their entire lifecycle.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69d7ba1ab9137d7436b937e6_portfolio%252Fcompany%252Fc390d4de-d444-41fc-b57a-eae6392497f0%252F1761644030203-LangWatch%2520logo%2520colour.png",
+    "website": "https://langwatch.ai/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Deeptech"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-magpie",
+    "source": "antler",
+    "name": "Magpie",
+    "description": "Magpie is an AI-driven platform that automates quality assessments and coaching for customer support teams, unlocking insights and enhancing performance across all support channels.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c1f988ad26408450a18_portfolio%252Fcompany%252F7b7dc38a-a702-4047-9a2c-6e0899d9daf0%252F1736500946404-https___3f2e6f031ba60a3b33eb0cdd9c5aaa92.cdn.bubble.io_f1715172269845x292763322655405630_brand.png",
+    "website": "https://getmagpie.ai/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-pal",
+    "source": "antler",
+    "name": "Pal",
+    "description": "The complete at-home care solution for any serious illness",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b1977fcf19d200e2a6f_portfolio%252Fcompany%252F46562521-f581-4a59-927e-60e035dc41ac%252F1738595483683-01_Pal_Main%2520logo_Colored.png",
+    "website": "https://www.palhelps.com/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": [
+      "plugandplay"
+    ]
+  },
+  {
+    "id": "antler-passionfruit",
+    "source": "antler",
+    "name": "Passionfruit",
+    "description": "Passionfruit helps food companies respond faster and consistently to compliance requests from customers by automating up to 90% of the workflows.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944eed8a02ada8024a29885_portfolio%252Fcompany%252F317b97be-7a2b-4ed7-9747-7fadc2bc29ef%252F1739693448240-Passionfruit_pf-logo-mark.svg",
+    "website": "https://www.passionfruit.earth/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-peckish",
+    "source": "antler",
+    "name": "Peckish",
+    "description": "The inventory data layer for hospitality, powered by computer vision AI",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/698d0f2b8045d679c0bbc473_portfolio%252Fcompany%252Fb31744e6-92c6-4eeb-89d8-35c0b3fb4b47%252F1770851821118-dark.png",
+    "website": "https://peckish.app",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-pensify",
+    "source": "antler",
+    "name": "Pensify",
+    "description": "Pensify operates a financial platform to help self-employed people easily and simply build a future pension.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1cde94dec0abb3af9bb_portfolio%252Fcompany%252F159cef46-92c1-4e24-b66f-e39a39a15f1e%252F1725844243532-logo.avif",
+    "website": "https://www.pensify.com/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-qash",
+    "source": "antler",
+    "name": "Qash",
+    "description": "Stablecoin-powered business banking for emerging markets.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a9edff89b34229e32a24c8f_portfolio%252Fcompany%252Fa0e9db24-46e9-4fe5-b9d5-abe4eedaa96c%252F1760022137785-Qash_Logos_Qash_Imagotipo_2.png",
+    "website": "https://www.qash.ai/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": [
+      "plugandplay"
+    ]
+  },
+  {
+    "id": "antler-respiq",
+    "source": "antler",
+    "name": "RespiQ",
+    "description": "Smart breath testing for personalized health management.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c3924c0aee2ff4b3f9d_portfolio%252Fcompany%252F81938d23-b01e-4874-b653-57284a65f60b%252F1725844256563-logo.png",
+    "website": "https://respiq.com/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-shai",
+    "source": "antler",
+    "name": "Shai",
+    "description": "AI Content Studio for professional creatives",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9ca852ec2a2781d9c4f2_portfolio%252Fcompany%252F9f9c7725-f21c-45de-b914-20b540ec7797%252F1738660623094-logo%25202%2520(1).png",
+    "website": "https://www.shaicreative.ai/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-sonomo",
+    "source": "antler",
+    "name": "Sonomo",
+    "description": "Investing in music royalties",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b1477fcf19d200e2a24_portfolio%252Fcompany%252F450057c5-fe8f-46ca-a793-80a1003a00d2%252F1725844163737-logo.png",
+    "website": "https://www.sonomo.com/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2021,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-sosha-speechifai",
+    "source": "antler",
+    "name": "SoSha (Speechifai)",
+    "description": "AI-powered platform for organic social media amplification",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9dc03a3a657de965d6b0_portfolio%252Fcompany%252Fe841e0a2-6392-4055-8c6b-7d1edb7a6e1e%252F1725844331812-logo.png",
+    "website": "https://www.sosha.ai/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-sous",
+    "source": "antler",
+    "name": "SOUS",
+    "description": "Empowering f&b creators.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a1f4f6effac23559cba_portfolio%252Fcompany%252F081a5420-1361-4f13-b46a-1aa552c91762%252F1744047548415-sous-icon-blue.png",
+    "website": "https://eatsous.com",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-spherical",
+    "source": "antler",
+    "name": "Spherical",
+    "description": "Full-stack critical electronics, from semiconductor to system.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ad08bb843b036970819d355_portfolio%252Fcompany%252F6f9b50f6-25ac-4c54-ad05-6e4350eb4800%252F1792052055241-Spherical%2520Logo%25E2%2580%2594Black%2520-%2520lower_res.png",
+    "website": "http://www.spherical.si",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Defence & Dual-Use"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-struck",
+    "source": "antler",
+    "name": "Struck",
+    "description": "Let's check it now: AI Compliance Verification in Construction",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c9f52ec2a2781d9c472_portfolio%252Fcompany%252F9d8ce2a5-6727-4d57-b790-e3fb73ef3391%252F1726570598484-struck_logo_png.png",
+    "website": "https://www.struck.build",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Real Estate & PropTech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-tangle",
+    "source": "antler",
+    "name": "Tangle",
+    "description": "Tangle is an AI powered student engagement platform that connects students with peers, communities and campus opportunities, helping universities strengthen belonging and support student success.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ac55de7eb4bb30cbd65a594_portfolio%252Fcompany%252Feb5eaec3-a4c1-4008-bbe9-047a24548b5c%252F1791319489091-Tangle%2520Logo%2520High%2520res.png",
+    "website": "https://www.tanglecampus.com",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-thred",
+    "source": "antler",
+    "name": "Thred",
+    "description": "AI-native accounting and finance platform",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/698e3443d16210ea85401ae3_portfolio%252Fcompany%252Fa3c9abb2-3bb0-41fd-902a-0178866ef033%252F1770927156528-thred-logo-full-color-rgb-900px-w-72ppi.png",
+    "website": "https://thredfi.com/",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-trabotyx",
+    "source": "antler",
+    "name": "Trabotyx",
+    "description": "automating manual weeding for organic farmers",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d00a8349fb2ae257f09_portfolio%252Fcompany%252Fb8cce22f-fe98-4fb9-b8c8-05bc78fd1704%252F1725844274203-logo.jpeg",
+    "website": "https://www.trabotyx.com",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Industrials"
+    ],
+    "year": 2020,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-upmarket",
+    "source": "antler",
+    "name": "UpMarket",
+    "description": "Building the infrastructure layer that runs hospitality - from Airbnbs to hotel chains",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944efc15fdd3d1128a3944f_portfolio%252Fcompany%252F862d0c22-71ac-4524-bdb8-a06fa2ae57fd%252F1725844165734-logo.svg",
+    "website": "https://upmarket.cloud",
+    "location": "Netherlands",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Real Estate & PropTech"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
     "country": "Netherlands",
     "alsoIn": []
   },
@@ -4081,7 +5331,21 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Denis Suslov",
+        "role": "CFO",
+        "linkedin": "https://www.linkedin.com/in/denissuslov/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370501/foupqfnixnqgrqudxbfg.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Kirill Suslov",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/kirill-suslov-5636a622",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370524/kqgy26ecerrbbxx21phf.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/tabtrader/",
       "twitter": "https://twitter.com/tabtraderpro",
@@ -4121,7 +5385,28 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "stage": "Pre-Seed",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Frido Emans",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/frido-emans-35571033",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907096/twvtygybkfkupngml3vh.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Federico Muffatto",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://nl.linkedin.com/in/federico-muffatto-a30b715b",
+        "twitter": "https://twitter.com/digi_bio",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907097/jb7tl45cn8xmheubtnbc.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jelmer Cnossen",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/jcnossen",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505244603/lntwpw7gmdbtdlzuo00z.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/digi",
       "twitter": "https://twitter.com/digi_bio",
@@ -4161,12 +5446,71 @@
     "stage": "Seed",
     "teamSizeRange": "11-50",
     "totalRaised": 350000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Peter Kolarov",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/pkolarov",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1571789330/xfy9bpeiycxofbnbppqk.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Michal Varchola",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/michalvarchola/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1611786482/vnf9l2wkkjmaj6h5nk6b.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Pavol Schmitzer",
+        "role": "Chief Commercial Officer",
+        "linkedin": "https://www.linkedin.com/in/schmitzer/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1643665685/lhodjry48koeamhvcvfl.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/crayonic",
       "twitter": "https://twitter.com/Crayonic_com",
       "facebook": "",
       "crunchbase": "https://www.crunchbase.com/organization/crayonic"
+    },
+    "extra": {
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "founderinstitute-peerby",
+    "source": "founderinstitute",
+    "name": "Peerby",
+    "description": "Peerby is a leading application in the 'sharing economy', enabling people to borrow the things they need from others in their neighborhood. They have raised more than $4.7M in funding.",
+    "logo": "https://fi-hatchbox-production-active-storage-blobs.s3.amazonaws.com/uag0lrzmgcc1h7oexl1qjeyt0t6x",
+    "website": "https://sellster.ai/",
+    "location": "Silicon Valley Hybrid, US",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": "",
+    "program": "Founder Institute",
+    "programSlugs": [
+      "founder-institute"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Daan Weddepohl",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
     },
     "extra": {
       "country": "Netherlands"

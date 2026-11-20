@@ -30,7 +30,27 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Derek Greenfield",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/profile/view?id=9841556",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d0243e6ab45804f50149e0ce1b22551b3e5e3ce4.jpg"
+      },
+      {
+        "name": "Liz Clarke",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/elizabethclarke",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d373eb34c120fab20dbdb4fcccace1703b200037.jpg"
+      },
+      {
+        "name": "Noah Helman",
+        "role": "Founder/CSO",
+        "linkedin": "http://www.linkedin.com/pub/noah-helman/3/744/565/",
+        "twitter": "https://twitter.com/NoahHelman",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/831a3ea213eca288a13d79b4313f819b7a4290a9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

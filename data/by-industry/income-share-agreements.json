@@ -29,7 +29,24 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Edouard Harris",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/edouard-harris/",
+        "twitter": "https://twitter.com/neutronsNeurons",
+        "bio": "Cofounder of SharpestMinds (W18).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/865250418aceb960a2e2eb549e5697632b25d977.jpg",
+        "active": false
+      },
+      {
+        "name": "Jeremie Harris",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jeremieharris",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a9f5efc5e618b86cc2080d57734931321f73d0c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -69,7 +86,20 @@
     "teamSize": 3000,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Surya Paneerselvam",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/suryanarayanan-paneerselvam-05b65732/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e599e4aec938f8fbf957c1aac02a6f1011aa5b6b.jpg"
+      },
+      {
+        "name": "Sarang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sarangarajan-v-iyengar",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0b131bc51b51f6c7a4a0b0bb15f00a7ec7748ab7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

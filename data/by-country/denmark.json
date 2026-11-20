@@ -400,7 +400,21 @@
     "teamSize": 50,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jesper Theil Thomsen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/profile/view?id=AAIAABVMXEgBw5e16NKx-jQOYprAiCu8I34aBw8&trk=nav_responsive_tab_profile_pic",
+        "bio": "I'm the CEO & co-founder of SOUNDBOKS. I'm based in Copenhagen.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9db3223d6b91c217f742370b2fcce0ee3be9d160.jpg"
+      },
+      {
+        "name": "Christoffer Nyvold",
+        "role": "Founder/COO",
+        "linkedin": "https://dk.linkedin.com/pub/christoffer-nyvold/101/84a/b38",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/715cf78d9658af6deee3db65f95b4c9fe7821a28.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -442,7 +456,32 @@
     "formerNames": [
       "Peergrade"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Kofoed Wind",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/utdiscant",
+        "twitter": "https://twitter.com/utdiscant",
+        "bio": "Co-founder and CEO of Agentwork Co-founded EdTech startup Eduflow (acquired by Multiverse). Senior Director of Product at Multiverse. PhD in machine learning. IOI participant.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2beb7ad94d7df18aa618031530f0b27146ee30a9.jpg"
+      },
+      {
+        "name": "Malthe Jørgensen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/malthejorgensen",
+        "twitter": "https://twitter.com/malthejorgensen",
+        "bio": "CTO of Eduflow (formerly Peergrade) Been programming since I was 12, I have a B.sc. in Physics and I love all things technical – with a special love for math and programming puzzles.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39ba80343448e7aa55b957cb9653236f543d15f1.jpg"
+      },
+      {
+        "name": "Simon Lind",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/simonlind",
+        "twitter": "https://twitter.com/simonlind",
+        "bio": "Designer & co-founder @ Eduflow. simonlind.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/27df765b4e4f10e3b35e36d807a5e32c015dfca5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1164,6 +1203,986 @@
     "alsoIn": [
       "plugandplay"
     ]
+  },
+  {
+    "id": "antler-alcolase",
+    "source": "antler",
+    "name": "Alcolase",
+    "description": "Neutralise alcohol in the stomach with the world’s only patented, science-backed supplement",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d62aba4d489afa47f05_portfolio%252Fcompany%252Fd4c59c7a-f23b-42f2-a3b9-a4386a3beba5%252F1768740934087-Alcolase%252BLogo.png",
+    "website": "https://alcolase.com/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-chronicare",
+    "source": "antler",
+    "name": "ChroniCare",
+    "description": "Disease-specific peer communities and tracking platform for chronic disease patients.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c1c988ad264084509ef_portfolio%252Fcompany%252F7b216263-b016-494b-aeb9-6aad34c83231%252F1756901402108-Logo-black-2x.png",
+    "website": "https://chronicare.io",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-cityweft",
+    "source": "antler",
+    "name": "Cityweft",
+    "description": "The geospatial data infrastructure for the spatial software era",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69d38c936ac6b358a927e338_portfolio%252Fcompany%252F537f6d6c-e7d2-4846-8e13-57fdff57b0bf%252F1775471755020-logo%2520(1).png",
+    "website": "https://www.cityweft.com/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Real Estate & PropTech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-earth-miles",
+    "source": "antler",
+    "name": "Earth Miles",
+    "description": "The worlds first loyalty program for sustainable transport.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d18a8349fb2ae258091_portfolio%252Fcompany%252Fbfe2e055-cffa-451b-9e98-be9a1cc0dc00%252F1744096127005-Earth%2520Miles%2520Logo%2520Blue%2520PNG%25202%2520(6).png",
+    "website": "https://earthmiles.app/en/home-page-2025/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-enkel",
+    "source": "antler",
+    "name": "Enkel",
+    "description": "Connecting EVs with power markets",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944f087624246a217676c2f_portfolio%252Fcompany%252Fd63bb70d-17e4-43c9-8f10-0a25bbf8faf9%252F1730235677113-Enkel_LOGO-28.png",
+    "website": "https://enkelenergi.dk/about-en",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Mobility"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-frankly-insure",
+    "source": "antler",
+    "name": "Frankly Insure",
+    "description": "Enabling the next generation of insurance through a decentralized P2P marketplace",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ac4f560c450b62c3d83b0c5_portfolio%252Fcompany%252Fc75a6953-ea47-4f82-ac5c-829b5cc6ae87%252F1791292656115-frankly.png",
+    "website": "https://franklyinsure.com",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-hhc-medical",
+    "source": "antler",
+    "name": "HHC Medical",
+    "description": "HHC Medical is a health tech startup developing a platform technology for targeted and non-invasive drug delivery via wireless electroporation",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6acdcf639dfe43a8fb5aeb8d_portfolio%252Fcompany%252F5a4b6843-7ae8-4a76-97b7-3a47ed48dac5%252F1768212566471-Screenshot%25202026-01-12%2520at%252011.07.49.png",
+    "website": "https://hhc-medical.com/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-hymeth",
+    "source": "antler",
+    "name": "Hymeth",
+    "description": "Enabling the societal transformation from fossil fuel to green hydrogen",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c9f52ec2a2781d9c46b_portfolio%252Fcompany%252F9deaaf53-9b28-4845-9821-59a01d9ea6ed%252F1725420319474-logo.png",
+    "website": "https://Hymeth.com",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2021,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-inreality",
+    "source": "antler",
+    "name": "InReality",
+    "description": "Defending against AI generated content by certifying reality",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ae1b1e18b3a7036018cd8a4_portfolio%252Fcompany%252Fc2ad9cfd-d921-42e9-827e-abffeb7164f3%252F1793175992049-logo.png",
+    "website": "https://inreality.io/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-insutex",
+    "source": "antler",
+    "name": "Insutex",
+    "description": "Make textile waste into insulation, in order to minimize the carbon footprint within the textile and construction industry.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1c9e94dec0abb3af96a_portfolio%252Fcompany%252F1127ceee-0a67-4a81-a058-83c18ad5259b%252F1725420427160-logo.avif",
+    "website": "https://www.insutex.dk/en",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-interhuman",
+    "source": "antler",
+    "name": "Interhuman",
+    "description": "The social intelligence layer for AI",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6953c1fefb7f0b2e7d760d4a_portfolio%252Fcompany%252F1051b8d4-522d-4840-9723-92e37d90d796%252F1767096805692-Interhuman%2520Background%2520Transparent.avif",
+    "website": "https://www.interhuman.ai/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Deeptech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-iridae",
+    "source": "antler",
+    "name": "Iridae",
+    "description": "Proactive intelligence for the world’s most creative teams. Helping game studios A/B test the future and ship what wins.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69a8bd39c9d5bbaf60fe03e7_portfolio%252Fcompany%252Fc712a5e4-541b-4ae0-9311-e3ec7b2dfe34%252F1772666127338-icon.png",
+    "website": "https://iridae.com/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2026,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-jade-hosting",
+    "source": "antler",
+    "name": "Jade Hosting",
+    "description": "Building the world's first general hosting platform. If it runs on your machine, it runs on Jade.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d00a8349fb2ae257f0c_portfolio%252Fcompany%252Fb90db895-4755-453a-af50-f95b71f4b729%252F1764018789693-photo_2025-11-24_22-12-05.jpeg",
+    "website": "https://jadehosting.app",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-kakti",
+    "source": "antler",
+    "name": "KAKTI",
+    "description": "District Energy Production Made Simple, Efficient & Sustainable",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9ce526b50dc54bba3a19_portfolio%252Fcompany%252Fb0b85e8a-ab41-4e08-9e23-1f9af08d47f0%252F1725420389775-logo.png",
+    "website": "https://kakti.ai/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-kirsten",
+    "source": "antler",
+    "name": "Kirsten",
+    "description": "We are building the AI relationship therapist helping couples stay together.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ac4f5ccc91dd15f65e07c91_portfolio%252Fcompany%252F1587418d-4ca2-4626-9e3e-68fe8dc74b0b%252F1791292811021-kirsten.png",
+    "website": "https://askkirsten.com/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2026,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-klimate",
+    "source": "antler",
+    "name": "Klimate",
+    "description": "The integrated platform for high-quality carbon removal strategy & action",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1e479957dd323e467f9_portfolio%252Fcompany%252F2660b386-29bf-49e2-9132-26504bb976ec%252F1725420464367-logo.avif",
+    "website": "https://klimate.co",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-mimiry",
+    "source": "antler",
+    "name": "Mimiry",
+    "description": "Mimiry offers a cloud GPU hub to close the gap between European GPU providers and AI/ML SME’s building the solutions of tomorrow.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6acdd23d1364333bdd8f4a96_portfolio%252Fcompany%252Fd1aebd4a-b59e-4ecc-8e27-bb07d1eb84da%252F1725420497876-logo.jpeg",
+    "website": "https://mimiry.com/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Deeptech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-numa",
+    "source": "antler",
+    "name": "Numa",
+    "description": "The AI workforce platform for deploying, managing, and scaling AI agents across every business function.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c6324c0aee2ff4b41f3_portfolio%252Fcompany%252F8e36290a-0881-44a4-a232-672718ee4628%252F1756730401945-aisymphony_logo.jpeg",
+    "website": "https://www.getnuma.ai/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-opero",
+    "source": "antler",
+    "name": "Opero",
+    "description": "AI for the industrial workforce",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9cae52ec2a2781d9c535_portfolio%252Fcompany%252Fa0ecc8d5-ef63-4a52-a14f-cc9a40e4e639%252F1768740249571-Screenshot%25202026-01-18%2520at%252013.25.01.png",
+    "website": "https://www.opero.pro/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Industrials"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-perplant",
+    "source": "antler",
+    "name": "PerPlant",
+    "description": "Gateway to sustainable farming through AI based sensor systems.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1ffb2a680471521f3de_portfolio%252Fcompany%252F2e54fa07-214b-42ab-a613-1bce80fcb1d6%252F1725420538216-logo.avif",
+    "website": "https://perplant.ai/en/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Industrials"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-pharosbio",
+    "source": "antler",
+    "name": "PharosBio",
+    "description": "Life science breakthrough generator",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9cd726b50dc54bba3924_portfolio%252Fcompany%252Fad0409a0-8b9f-4e72-a0ce-0134115ad17b%252F1768740584070-PharosBio.png",
+    "website": "https://pharos.bio",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-supplme",
+    "source": "antler",
+    "name": "SUPPLME",
+    "description": "Liquid hydration and vitamins. Science-backed formulation. Proven in practice.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9ada10b8d1d09ead1af9_portfolio%252Fcompany%252F340b9acb-ec9e-4626-a163-1b617a2d8cbd%252F1768740295899-supplme_logo.png",
+    "website": "https://www.supplme.com",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-sustainly",
+    "source": "antler",
+    "name": "Sustainly",
+    "description": "Easy sustainability strategies for SMEs",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b7dd5dec69f06644c4f_portfolio%252Fcompany%252F5b57917f-715e-4198-9b24-a2e270b3e8a5%252F1725420642860-logo.png",
+    "website": "https://sustainly.earth",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-talos-innovation",
+    "source": "antler",
+    "name": "Talos Innovation",
+    "description": "Building a patented numerical engine that accelerates simulations without compromising accuracy.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6acdda056d43872c3fb9cc12_teams%252Fb632785b-667d-4db3-b960-9ce983bd9abe%252Flogos%252FTalos%2520Logo%2520-%2520Flat%2520DARK%2520Blue.png",
+    "website": "https://www.talosaps.com",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-virtuall",
+    "source": "antler",
+    "name": "Virtuall",
+    "description": "The operating system for AI-powered production automation for Studios at Enterprise scale.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69cb9ac4652f39f9303c55cd_portfolio%252Fcompany%252F99dec9f2-5983-41dc-8c32-8c92a1f8d32d%252F1767607213507-virtualllogo.png",
+    "website": "https://virtuall.pro",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-vocaire",
+    "source": "antler",
+    "name": "Vocaire",
+    "description": "AI-based journals for physiotherapy",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d2fe14fcae63ea52fe5_portfolio%252Fcompany%252Fc54b4783-420f-4404-8e12-590852607b45%252F1725420682477-logo.webp",
+    "website": "https://vocaire.ai/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-yaay",
+    "source": "antler",
+    "name": "Yaay",
+    "description": "Building the missing preference layer of travel - one saved video at a time",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69cd214ce8dd0c0dc7ec9164_portfolio%252Fcompany%252F7adf78e9-598a-4f0b-86a8-82de08cac4e9%252F1775051049428-Logo%2520Icon%252C%2520Cropped%2520(Transparent).png",
+    "website": "https://yaaytravel.com/",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-zupply-ai",
+    "source": "antler",
+    "name": "zupply AI",
+    "description": "Decarbonizing the built environment with AI-powered digital twins that automate the tracking, management, and circularity of building materials.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d2fe14fcae63ea52fe9_portfolio%252Fcompany%252Fc53ea632-e94a-4cb2-9f52-57619f2136ba%252F1726575190232-zupply_logo_png.png",
+    "website": "https://zupply.site",
+    "location": "Denmark",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "alsoIn": []
   },
   {
     "id": "500-easysize",
@@ -2025,7 +3044,21 @@
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 116000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Peter Jensen",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/peterlundingjensen/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1544541970/ic36lwwyty0hmocngboq.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Erik Poulsen",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/erikpoulsen/",
+        "twitter": "https://twitter.com/eriksp",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1612513806/yxbnzeqrwkiqjvrwl5se.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/cellari/",
       "twitter": "https://twitter.com/cellari_io",
@@ -2066,7 +3099,27 @@
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 3724466,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anantha Peramuna",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/anantha-peramuna-ph-d-b6426661/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1588163575/qvgwduhnyvflu3qyr2ar.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Hansol Bae",
+        "role": "CSO",
+        "linkedin": "https://www.linkedin.com/in/hansol-bae-a078aa90/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1586795344/ck0jscrrr2an8bp2sibt.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Alex Ingrisano",
+        "role": "COO",
+        "linkedin": "https://www.linkedin.com/in/agarciaingrisano/",
+        "twitter": "https://twitter.com/AlexIngrisano",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1587367213/rjt6psgcphopxsohf7p2.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/naturepreserve/",
       "twitter": "",

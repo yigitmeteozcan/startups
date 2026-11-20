@@ -867,7 +867,31 @@
     "teamSize": 350,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Henrik Zillmer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zillmer",
+        "twitter": "https://www.twitter.com/henrikzillmer",
+        "bio": "Henrik Zillmer is a serial entrepreneur, former Rocket Internet executive and founder of AirHelp and ROOM to mention a few. Henrik has founded more than ten startups’ within insurance, travel, software and e-commerce. At Rocket Internet Henrik launched one of Asia’s largest e-commerce businesses Zalora in eight different countries and took the company from 5 to 2,000 employees in less than one year. Henrik is currently chairman of AirHelp and continues to be active in Y Combinator as an advisor.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1465dc8a5e175db582ddaa45a905712522101484.jpg"
+      },
+      {
+        "name": "Nicolas Michaelsen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicolasbranasmichaelsen/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/04c4c35304bbe930a5c4449bd672030cb752236a.jpg",
+        "active": false
+      },
+      {
+        "name": "Greg Roodt",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/groodt/",
+        "twitter": "https://twitter.com/groodt",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1bc05db3fc7bdc0f307bf06723ef17b8601c093c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -908,7 +932,15 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sergei Lepchenkov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lepchenkov/",
+        "bio": "I'm the founder of GiveAway, a peer-to-peer marketplace that lets people pass on unwanted items through a unique internal coin and auction system. Designed to make giving more rewarding, GiveAway helps users declutter sustainably while earning coins they can use to bid on items from others—creating a circular, cashless exchange built on community and reuse.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d7152fbd65f82d930e31497eaa2da20d36faa6c7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -916,6 +948,111 @@
       "crunchbase": ""
     },
     "extra": {},
+    "country": "Portugal",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-meerchat",
+    "source": "antler",
+    "name": "meerchat",
+    "description": "Active chat groups to share any journey of learning, fitness, and self-improvement goals.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d7aaba4d489afa480de_portfolio%252Fcompany%252Fd9861bb2-090a-41c9-a10f-231f4ae00d84%252F1725424198230-logo.webp",
+    "website": "https://meerch.at/",
+    "location": "Portugal",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Portugal"
+    },
+    "country": "Portugal",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-quacks-ai",
+    "source": "antler",
+    "name": "quacks.ai",
+    "description": "quacks.ai leverages generative AI to automate front-end software testing with a single sentence.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9cae52ec2a2781d9c531_portfolio%252Fcompany%252Fa0fbda0a-a939-4b59-94d7-d201af1ab752%252F1725424203328-logo.png",
+    "website": "https://www.quacks.ai/",
+    "location": "Portugal",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Portugal"
+    },
+    "country": "Portugal",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-uptiq",
+    "source": "antler",
+    "name": "Uptiq",
+    "description": "Uptiq allows growth teams to take back control over their processes, by managing their experiments and activities in one place.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a8e41d3cfe62349c0fc_portfolio%252Fcompany%252F2173de06-f155-4971-b803-93214dc78cb9%252F1725424207134-logo.webp",
+    "website": "https://uptiq.app/",
+    "location": "Portugal",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Portugal"
+    },
     "country": "Portugal",
     "alsoIn": []
   },
@@ -1402,7 +1539,41 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "51-200",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paulo Ribeiro",
+        "role": "Software Engineer & Co-Founder",
+        "linkedin": "https://linkedin.com/in/paulo-ribeiro-818880129",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1551712356/jczzeqxvvmsduwpeqv6t.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Gilberto Loureiro",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/gilberto-loureiro/",
+        "twitter": "https://twitter.com/Gilberto_M_L",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1549298811/thkhm8dmzqsrlorphd6f.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "António Rocha",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/antonio-rocha-eng-physics/",
+        "twitter": "https://twitter.com/theantoniorocha",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1549694962/orzm4jpp482unmju9x7v.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Catarina Violante",
+        "role": "VP Operations",
+        "linkedin": "https://linkedin.com/in/catarinaviolante",
+        "avatar": "https://res.cloudinary.com/hlsr7ls49/image/upload/v1652808159/k241lz2pgrcisz8a97mv.jpg"
+      },
+      {
+        "name": "Pedro Farinha",
+        "role": "Principal Devops Engineer",
+        "linkedin": "https://linkedin.com/in/plfarinha",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/hlsr7ls49/image/upload/v1732724591/qswyijowyeg4d0fesvum.jpg"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/smartex-ai",
       "twitter": "",
@@ -1444,7 +1615,44 @@
     "stage": "Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 1300000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tiago Vilaças",
+        "role": "CFO",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370364/fyv1su0rrmoltgd1nnsq.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Vitor Crespo",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://pt.linkedin.com/in/vitorc"
+      },
+      {
+        "name": "Vânia Fernandes",
+        "role": "Marketing & Operations Lead",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370390/qchxjbkfddbnmrbokx6w.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Ljiljana Dukanovik",
+        "role": "Chief Scientific Officer & Lead Researcher",
+        "linkedin": "https://linkedin.com/in/ljiljanadukanovic",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370330/enyehnqd81u8bjvgfcwj.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Margarida Abranches",
+        "role": "Bioengineer",
+        "linkedin": "https://linkedin.com/in/margarida-abranches",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370476/tn7jtc94ggrduzu2tmlw.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Brad Mingus",
+        "role": "Manufacturing Lead",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370509/zyfh6luhjjoxjw68iwhk.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/criam/",
       "twitter": "",
@@ -1484,7 +1692,21 @@
     "isCurrentSession": false,
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Heikki Vänttinen",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/heikki-v%C3%A4nttinen-83a86380/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1571941063/o8xspp9m8gbzif8ends0.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Burak Benligiray",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/burak-benligiray-b3055715b/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1571691233/pc5wedowqkskbtvdyi7l.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/api3/",
       "twitter": "https://twitter.com/API3DAO",
@@ -1526,7 +1748,14 @@
     "stage": "Seed",
     "teamSizeRange": "11-50",
     "totalRaised": 3300000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Fernando Nogueira",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/fernando-nogueira-bbb1441",
+        "twitter": "https://twitter.com/sosv"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/nuada-lda/about/",
       "twitter": "",
@@ -1565,12 +1794,66 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Swen Schaeferjohann",
+        "role": "Co-Founder",
+        "linkedin": "",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1657370483/kclujklfonkwbr0eeqx6.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Jorrit Palfner",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/company/sosv",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1646416046/wrrxnnsvwby9pcgzuma8.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/luminous-labs-lda",
       "twitter": "https://twitter.com/LightProtocol",
       "facebook": "",
       "crunchbase": "https://www.crunchbase.com/organization/light-protocol"
+    },
+    "extra": {
+      "country": "Portugal"
+    },
+    "country": "Portugal",
+    "alsoIn": []
+  },
+  {
+    "id": "founderinstitute-climber-rms",
+    "source": "founderinstitute",
+    "name": "Climber RMS",
+    "description": "Climber is a fast-growing Revenue Management Software platform for independent hotel chains. The company was acquired in 2025.",
+    "logo": "https://fi-hatchbox-production-active-storage-blobs.s3.amazonaws.com/d1tp9bk0s5cfba0n8em8qa2qdvpz",
+    "website": "http://www.climberrms.com",
+    "location": "Lisbon, Portugal",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": "",
+    "program": "Founder Institute",
+    "programSlugs": [
+      "founder-institute"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "acquired",
+    "founders": [
+      {
+        "name": "Mario Mouraz",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
     },
     "extra": {
       "country": "Portugal"

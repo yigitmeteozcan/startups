@@ -27,7 +27,14 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Rowe",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ryan-rowe-4088107",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/00bfc14cc40a3f7e424ae93e8d70adb5ac5d9ae0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -68,7 +75,31 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexandre Lebrun",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alexandrelebrun/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/25b51639a38a9f7f55a658a38bb69107cf078c7e.jpg",
+        "active": false
+      },
+      {
+        "name": "Laurent Landowski",
+        "role": "Founder",
+        "linkedin": "",
+        "twitter": "https://twitter.com/lololando",
+        "bio": "Cofounded VirtuOz (acq. by Nuance), Wit.ai (acq. by FB), working currently on healthcare at Nabla",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ecc34e673cb80139a295e400baa3b6677a1678d1.jpg",
+        "active": false
+      },
+      {
+        "name": "Willy Blandin",
+        "role": "Founder/CTO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/539a71c9fb3b66797d72351c9268b72a92b5947f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

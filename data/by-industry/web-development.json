@@ -73,7 +73,22 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Frank Macreery",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/fancyremarker",
+        "twitter": "https://twitter.com/fancyremarker",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da63947718a39ed83b82d1b70fd55016cfdc1287.jpg"
+      },
+      {
+        "name": "Chas Ballew",
+        "role": "Founder/Chairman",
+        "linkedin": "https://www.linkedin.com/in/chasballew/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/686285007edfe40700c879d11e9257b6bf07159e.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -118,7 +133,31 @@
       "Treeline",
       "Sails"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mike McNeil",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mikermcneil",
+        "twitter": "https://x.com/mikermcneil",
+        "bio": "See https://mcneil.io",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1feda2482836c51ef46c4e3ada554fada3e8344a.jpg",
+        "active": false
+      },
+      {
+        "name": "Scott Gress",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/scottgress/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c02d497a1497878cd71e9af72948bb69dee00fe.jpg",
+        "active": false
+      },
+      {
+        "name": "Cody Stoltman",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/codystoltman/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/26b8f1dcb1fbec82bf7da599e99be87671a29795.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

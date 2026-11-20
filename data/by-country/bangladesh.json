@@ -63,7 +63,20 @@
     "teamSize": 2886,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Waseem Alim",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/profile/view?id=38553536",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c47ede7c2af9407d9d4d28eaa4846d225b48ab2c.jpg"
+      },
+      {
+        "name": "Zia Ashraf",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zia-ashraf/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/519b9586dcfe9e7ab8f4e4226b36f659146194a7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -200,7 +213,39 @@
     "stage": "Seed",
     "teamSizeRange": "51-200",
     "totalRaised": 277000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Fahim Siddique",
+        "role": "Head of Business Development",
+        "linkedin": "https://www.linkedin.com/in/fahim-siddique-ahmed/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1676527917/dubmq07dtjwokkxkrmoj.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Mridul Khandaker",
+        "role": "Head of Sales",
+        "linkedin": "https://www.linkedin.com/in/mridulkhandaker/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1672134924/joxgqwsbttudai5mmvfx.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Shariful Mubin",
+        "role": "CTO",
+        "linkedin": "https://linkedin.com/in/mubin986",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1671609848/ijvramxqjq3kcowqdbqu.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Abdullah Musabbir",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/abdullah-al-musabbir-b5a7b6134",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1671603161/gcrjksznl63uamcw9hbq.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Shourov Barua",
+        "role": "COO",
+        "linkedin": "https://www.linkedin.com/in/shourov-barua-949864132/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1671607865/a5lwz7qejxeg7igyguvp.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/ostad-inc",
       "twitter": "https://twitter.com/ostadapp",
@@ -240,12 +285,65 @@
     "stage": "Series A(+)",
     "teamSizeRange": "201-500",
     "totalRaised": 2585236,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Asikul Alam Khan Sujon",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/asikulalamkhan/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1683387875/wl3xbxhn6mp7ixbooukp.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Dipty Mandal",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/dipty-mandal/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1668787928/cphkhhsp1v2o9pmbvdst.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/priyoshopcom/",
       "twitter": "",
       "facebook": "https://facebook.com/PriyoShopb2b",
       "crunchbase": "https://www.crunchbase.com/organization/priyoshop-com"
+    },
+    "extra": {
+      "country": "Bangladesh"
+    },
+    "country": "Bangladesh",
+    "alsoIn": []
+  },
+  {
+    "id": "founderinstitute-palki-motors",
+    "source": "founderinstitute",
+    "name": "Palki Motors",
+    "description": "Palki Motors manufactures affordable mini-electric cars to help one million commercial car drivers make more money. They have raised over $1M from Shark Tank Bangladesh, and others.",
+    "logo": "https://fi-hatchbox-production-active-storage-blobs.s3.amazonaws.com/rybzh38y4mi74krqka8zv565e5gs",
+    "website": "http://palkimotors.com/",
+    "location": "Colombo, Sri Lanka",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": "",
+    "program": "Founder Institute",
+    "programSlugs": [
+      "founder-institute"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mustafa Momin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
     },
     "extra": {
       "country": "Bangladesh"

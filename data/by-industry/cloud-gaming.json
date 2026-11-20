@@ -29,7 +29,29 @@
     "teamSize": 21,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chris Molozian",
+        "role": "Founder/CEO",
+        "linkedin": "https://uk.linkedin.com/in/chrismolozian",
+        "bio": "Founder of @heroiclabs. A software engineer and tinkerer on distributed systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f65dabe665ce623969c6f8ea0ffbf17d99ae8e17.jpg"
+      },
+      {
+        "name": "Mo Firouz",
+        "role": "Founder/COO",
+        "linkedin": "http://uk.linkedin.com/in/mofirouz",
+        "bio": "Colourblind. Founder. YC S15. Photographer.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/290bda52c8bc587624bb0ef29a731af1475b6f77.jpg"
+      },
+      {
+        "name": "Andrei Mihu",
+        "role": "Founder/CTO",
+        "linkedin": "http://uk.linkedin.com/in/andreimihu",
+        "bio": "Founder of @heroiclabs. Scalable systems, high availability design, high-performance data processing and interoperability.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ef0cf1b03fb591fb873f740edcb4061f0dcdc8f2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -72,7 +94,26 @@
     "formerNames": [
       "Piepacker"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Benjamin Devienne",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/benjamindevienne/",
+        "twitter": "https://twitter.com/benjaryu",
+        "bio": "Benjamin worked in gaming at EA, Ubisoft and Gameloft on over ~20 games. He created and scaled data science at Gameloft. He joined Facebook as Head of Analytics then moved to Twitch as Head of Research. Now an entrepreneur, he co-founded Jamgg (YCS20) and Onibi (2023). He has spoken at global events like TEDx and lectured at prestigious universities, including UdeM and MIT.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5c762e527fe58ce125d74623974c3264add7c2fc.jpg",
+        "active": false
+      },
+      {
+        "name": "Jules Testard",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/julestestard/",
+        "twitter": "https://twitter.com/julestestard",
+        "bio": "Former academic researcher at UCSD. Worked as a software engineer at AWS, Docker and Madhive. Loves distributed systems, hacking things together quickly, surfing and gaming.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9332195de8d0fbf0e99e59f35b14a7e739731b87.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

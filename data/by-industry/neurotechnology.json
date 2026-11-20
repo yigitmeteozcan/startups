@@ -27,7 +27,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bob Schafer",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/bob-schafer-4171554",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3dff2781e0290e508c5c43f62e28330a451c670c.jpg",
+        "active": false
+      },
+      {
+        "name": "John Stanley",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/088f21d596060b6550232b53e9fed1614244f5a8.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -67,7 +82,14 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Marc Flajolet",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -111,7 +133,20 @@
       "Cambridge Bio-Augmentation Systems",
       "BIOS"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Oliver Armitage",
+        "role": "Founder",
+        "linkedin": "https://uk.linkedin.com/in/oliver-armitage-87280731",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8f10abf2c383a58113ad6f3329fc4f321247eb91.jpg"
+      },
+      {
+        "name": "Emil Hewage",
+        "role": "Founder/Director",
+        "linkedin": "https://uk.linkedin.com/in/ehewage",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d1b37bd1824a2829bd3a0902568edaaf4701ffbf.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -152,7 +187,15 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aurelia Song",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/aurellem",
+        "bio": "MIT grad where I studied old-school AI, last student of Marvin Minsky, created the world's first arbitrary code execution video game speedrun back in the day. I've desperately wanted good preservation for myself and my family since I was 6 years old and first learned that I and everyone in my family would die. Nothing satisfied me so I built it myself. Now I want to see all the cool things people will build when they're building for themselves and their loved ones in 300 years!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d047e9c8d942ae68486d2e5c71b442ca14b47c92.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -194,7 +237,27 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gordon Hirsch Wilson",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/gordonhirschwilson/",
+        "bio": "Gordon is the founding CEO of Rain.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5598e9f194d0d3786559e5503d3f578961c98cf7.jpg"
+      },
+      {
+        "name": "Juan Claudio Nino",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/juan-claudio-nino-6770b61a2",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da54b97562e1996e2e0e0f5f50a46c7417f292d8.jpg"
+      },
+      {
+        "name": "Jack Kendall",
+        "role": "Founder/Chief Technical Officer",
+        "linkedin": "https://www.linkedin.com/in/jack-kendall-21072887/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/933044a31791fbb79d787169509564b20b27e3a4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -239,7 +302,14 @@
     "formerNames": [
       "Circumvent Pharmaceuticals"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Devin Wiley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/devinwiley/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5ef0804235acc637ce72fb78b077e6cb84c0d850.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -285,7 +355,15 @@
     "formerNames": [
       "Brain Key"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Owen Phillips, PhD",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/owenrobertphillips/",
+        "bio": "Stanford-trained entrepreneur and neuroscientist. https://owenphillips.com/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4883905975aaf5b2009bec28947cd09431f3a8cd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -329,7 +407,29 @@
     "formerNames": [
       "BODYSIM by Well Principled"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Richt",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ryan-richt/",
+        "bio": "Ryan has galvanized teams with bold vision and disruptive, patented innovations since 2003. Ryan transformed distributed analytics across an academic lab, his first bootstrap startup and computational biology and cloud teams at Monsanto. He grew VC-backed CiBO from 7 to 70 engineers and data scientists. Ryan holds an MBA and BA prob/stats from Olin and WashU.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e251b1296e81516f1167cf3a6363f07ff33fedc3.jpg"
+      },
+      {
+        "name": "Christopher Shafer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-shafer/",
+        "bio": "Chronically the first customer-facing engineer, Chris has delighted customers with deep-data applications from corn germplasm catalogs to global satellite data and environment simulations. Marshalling his broad expertise from cloud architecture to data visualization, Chris delivers outcomes customers love and leads solutions teams to productize them.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7c828b926156cb2ee1bccbd77869529553cbf3f0.jpg"
+      },
+      {
+        "name": "Joseph Wingbermuehle",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joewing",
+        "bio": "Joe has spent 15 years building foundational platforms, from middleware at AT&T, to startups across FPGA-accelerated high-frequency trading, accelerated ETL, machine learning based network security (acquired by Cisco) and hybrid AI/physical models of global-scale crop simulation. Joe holds a BS in Applied Math and a PhD in Computer Science from WashU.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bc10e36863ae342f0586145c2ce2fcc5c7fcd6e0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -373,7 +473,29 @@
     "formerNames": [
       "Voyage Biomedical Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Justin Olshavsky",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jolshavsky/",
+        "twitter": "https://twitter.com/olshav",
+        "bio": "Founder of Voyage Bio (S19, acquired by Penumbra), founding partner of Pioneer Bio+Health Fund",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8beae5cc238b762e5eeec94788aecd8ac75235f4.jpg"
+      },
+      {
+        "name": "Robert Schultz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/robschultzmd",
+        "bio": "MD, heart surgery resident",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6bdc4435522c5847612abfc51ce6cd0dc067a0df.jpg"
+      },
+      {
+        "name": "Bridget Vaughan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bridgetcvaughan",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eb0a10c54180e581d2ad33f6c97f8d6e3243ebfd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

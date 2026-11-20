@@ -29,7 +29,33 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Lackey",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ryanlackey",
+        "twitter": "https://twitter.com/octal",
+        "bio": "Cypherpunk.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb4e4e241aa641fb4eafb33f8345135007a5a49b.jpg",
+        "active": false
+      },
+      {
+        "name": "Erik Berls",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/berls",
+        "bio": "Technical Founder for CryptoSeal, S11 Now focusing on Security using Big Data and AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8a12c28ea4077f792850d169320fef82503c6ef5.jpg",
+        "active": false
+      },
+      {
+        "name": "Thomas Sparks",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tom-sparks-46562/",
+        "bio": "Infrastructure professional with over 30 years of experience. Specializing in physical infrastructure, colocation, GPU/Compute farms, Security and Network Buildouts.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a5e472f30c640e65aa1dbe4c981385bc896731a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -73,7 +99,31 @@
     "formerNames": [
       "Gravitational"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ev Kontsevoy",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/kontsevoy/",
+        "twitter": "https://twitter.com/kontsevoy",
+        "bio": "- CEO/cofounder Teleport - Product at Rackspace - CEO/cofounder Mailgun - Software engineer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ec484fb92d26f682feb8114886a814a2875c56ea.jpg"
+      },
+      {
+        "name": "Alexander Klizhentas",
+        "role": "Founder/CTO",
+        "linkedin": "",
+        "bio": "I’m focusing on building distributed infrastructure systems while keeping things as simple as possible. I’m writing code and managing engineering teams, helping team members to be happy, productive and grow their technical and communication skills.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/444f7a2df9dff3828ffec713315c772143742849.jpg"
+      },
+      {
+        "name": "Taylor Wakefield",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/taylorwakefield/",
+        "twitter": "https://twitter.com/ktwakefield",
+        "bio": "- Co-Founder of Teleport (fka, Gravitational) (S2015) and Mailgun (W2011). - Director at Rackspace in product for 3 years after Mailgun was acquired by Rackspace in 2012. - Boston College alumni.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e360f0dda827c97e6732df2dbf9e3054f1e9266.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -117,7 +167,24 @@
     "formerNames": [
       "Paladin Cyber"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Han Wang",
+        "role": "Founder/CTO",
+        "linkedin": "http://www.linkedin.com/in/hanwangcyber",
+        "bio": "US Army Officer turned startup founder, with an expertise in browser use, embeddings, cybersecurity and computational mathematics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bbe02674927badf59fcf96f103ee4af74ae089e5.jpg",
+        "active": false
+      },
+      {
+        "name": "Daniel Bilbao",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/danielbilbao/",
+        "twitter": "https://twitter.com/ddbilbao",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/11dff57bb80d685d42f7dfeb8e14a2f475e92d03.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

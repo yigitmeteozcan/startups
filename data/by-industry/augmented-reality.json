@@ -1826,7 +1826,36 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ted Blackman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ted-blackman-8628164",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      },
+      {
+        "name": "Amir Hirsch",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/amirhirsch/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7625ee446dc8720be1f4ecb0b0a8d7569e664c4f.jpg",
+        "active": false
+      },
+      {
+        "name": "Roee Shenberg",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      },
+      {
+        "name": "Shlomo Zippel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shlomozippel",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1866,7 +1895,31 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ben Sand",
+        "role": "Founder/Co-CEO",
+        "linkedin": "https://linkedin.com/in/bensandcastle",
+        "bio": "Building the future of Cloud, starting with AI. (Strong Compute, W22) Co-Founder of Meta, Y Combinator S13.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f273b47679d41254669221fd128238f38df2c2d.jpg",
+        "active": false
+      },
+      {
+        "name": "Meron Gribetz",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/meron-gribetz-25b6673",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a4b0a4728c5e9af966700cdfef3099ac729764e9.jpg",
+        "active": false
+      },
+      {
+        "name": "Raymond Lo",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/raymondlo84/",
+        "bio": "I was the CTO and cofounder of Meta (2013 summer). We raised over $73M by Series B and we shipped two products. I received my PhD in ECE in Toronto, and had been focusing on wearable and CV researches for the last 10 years. Recently, I joined Intel as the Evangelist for the the AI product OpenVINO.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/16198ee1762501eceec9a24473ddd5f9d397ded3.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1910,7 +1963,14 @@
     "formerNames": [
       "Bespoke"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dave Jackson",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/davetjackson",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3172518462da9530696f80f6242bac6c13b5977b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1950,7 +2010,21 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ali Çevik",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alicevik/",
+        "bio": "Recently started working on improving developer experience for Gemini APIs at Google DeepMind. Feel free to reach with feedback/requests, I'll do my best to respond.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de53b78b25d3a9c650286baf791d9e4c4cd939fe.jpg"
+      },
+      {
+        "name": "Mert Küçük",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mert-kucuk/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e72bc3735377ce9fbc3fe87949880850cc085e95.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1996,7 +2070,30 @@
       "Vertical",
       "Placenote"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Neil Mathew",
+        "role": "Founder/CEO",
+        "linkedin": "http://www.linkedin.com/pub/neil-mathew",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/451656c9dfb82edf4651e8097e0e3228cd69e16c.jpg",
+        "active": false
+      },
+      {
+        "name": "Prasenjit Mukherjee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/prasenjitmukherjee",
+        "bio": "Started Placenote/Dabble in 2015 building Physical/Spatial AI for drones and phones. Acquired by Headout in 2024 deploying next generation audio guides that use Spatial and Voice AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/02215f706ea7131acf0282f839e901fa607e7f21.jpg",
+        "active": false
+      },
+      {
+        "name": "Yan Ma",
+        "role": "Founder/The Science Guy",
+        "linkedin": "http://ca.linkedin.com/pub/yan-ma/33/181/866/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de2d9b0f612174be34425a79fdc8cb35666390e1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2037,7 +2134,22 @@
     "teamSize": 50,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Scott Montgomerie",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/scottmontgomerie/en",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9d650000be3f27905c09832d6070e0756eef8d9d.jpg",
+        "active": false
+      },
+      {
+        "name": "David Nedohin",
+        "role": "Founder/President",
+        "linkedin": "https://www.ca.linkedin.com/in/davidnedohin",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b85a8e8c34f3684de5d804ea40584df4ba56f1c1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2080,7 +2192,20 @@
     "formerNames": [
       "Pantheon"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Hammad Bashir",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/hbashir",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7c0f1f851814be766d76ff2cde55ee7eb40cc83b.jpg"
+      },
+      {
+        "name": "Sonia Sharma",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sonia95sharma",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7be12f54c684b554765cfe9f9cdf5c674d28deee.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2167,7 +2292,30 @@
     "formerNames": [
       "Sunu Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Marco Trujillo",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/marco-trujillo-tejeda",
+        "bio": "I lead growth at Platica.mx, helping enterprises deploy AI agents across sales, customer engagement, and operations. My work is centered on transforming AI from a promising concept into measurable operating leverage. Previously, I built products across hardware that have empowered thousands of blind and visually impaired users to navigate more safely and independently.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7027a3620f6b67e205dbd6588e5dff8d21c618f3.jpg"
+      },
+      {
+        "name": "Fernando Albertorio",
+        "role": "Founder/Operations & Sales",
+        "linkedin": "https://www.linkedin.com/in/fernandoalbertorio",
+        "bio": "I am a senior product leader, and throughout the past 13 years I've been creating world-class products that profoundly connect with users and transform the way people work, think and live. I've built companies from the ground-up. I am an innovator who's been developing technologies from zero-to-one, and shipping award-winning products to market at the intersection of AI/ML/Computer Vision - digital health with wearable, IoT, mobile apps and enterprise SAAS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c21c87319d9fe771d514093d870f264a0ef66633.jpg"
+      },
+      {
+        "name": "Cuauhtli Padilla",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/cuauhtli-padilla/",
+        "twitter": "https://twitter.com/Cuauhtlip",
+        "bio": "Building Clara.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b1e0cf50644bd73b439171f8306cf07d282f3759.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2208,7 +2356,23 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joe Connolly",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jdconnol",
+        "bio": "Founder of Sketchbox (W18) & Greensky Games",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fce454f6fdb6f9b34744c2a58801c94678f40602.jpg",
+        "active": false
+      },
+      {
+        "name": "Peter Le Bek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/peter-le-bek-9a0353123/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8b6d0170051f5e1a6862dbc05af12ce7bb4fb63d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2254,7 +2418,14 @@
       "Brine",
       "Temper"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rohan Relan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rohan-relan-05938b41/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7423a954c7644cdc73d0f6bdfd11440e2894a661.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2299,7 +2470,16 @@
     "formerNames": [
       "Phair"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chen-Ping Yu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/chenpingyu/",
+        "twitter": "https://twitter.com/yuchenping",
+        "bio": "Dr. Chen-Ping Yu is the co-founder and CEO of Phiar, with over 10 years of cutting-edge research and innovations in computer vision, machine learning, and AI. He was previously a postdoctoral research fellow at Harvard University, and received his PhD in Computer Science from Stony Brook University. He is the recipient of numerous honors and fellowships, including National Science Foundation, and his AI research has appeared in top-tier venues such as ICCV, ECCV, NeurIPS, and PNAS.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9074fa05d083e54d17bd2b3b048cae6b33578696.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2343,7 +2523,20 @@
     "formerNames": [
       "VIRTMOTION"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sasha Rohachova",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/rohachova",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c23f476287f6dea741a6471099c59feece4b428.jpg"
+      },
+      {
+        "name": "Pavlo Razumovskyi",
+        "role": "Founder/CTO",
+        "linkedin": "http://ua.linkedin.com/in/PavloRazumovskyi",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba42a83cfceeb1c6b08c3225c9c4fd5bdbbb6fad.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2384,7 +2577,22 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Will Huang",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/hwjwill/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/122386e58d3b54fc510682d92d7e803d579b361c.jpg",
+        "active": false
+      },
+      {
+        "name": "Bill Zhou",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/bill-zhou",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/46a03c2efdaad331595ea13f69c593c9f980f8c1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2424,7 +2632,14 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jake Bullock",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jake-bullock-58284865/",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2468,7 +2683,23 @@
     "formerNames": [
       "Z Imaging"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jose Maria Amich",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/josemaria-amich/en",
+        "twitter": "https://twitter.com/amich_jose",
+        "bio": "Founder/CEO at Zeta Surgical",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3625cb2ca3124a40a3948eda7fee1be3e785b4e9.jpg"
+      },
+      {
+        "name": "Raahil Sha",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/raahil-sha/",
+        "bio": "Raahil is a co-founder of Zeta Surgical, a startup that develops surgical navigation and robotics tools to make minimally invasive surgeries easier, faster and more accessible. He graduated from Harvard in 2018 with a B.A. in Computer Science. Raahil has extensive experience in computational biology and is interested in the intersection of technology and medicine. While not working, Raahil can be spotted using his private pilot's license to fly to scenic locations around the east coast.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d9e9be96b3643fc110dfcfcc1879c1b028daa06d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2518,7 +2749,17 @@
       "Flocknet",
       "Hyper"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aaron Ng",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/aaronykng",
+        "twitter": "https://x.com/localghost",
+        "bio": "https://aaron.ng",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ec5040ae1dbb5b81a3d0fb022330de7321c2c96d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

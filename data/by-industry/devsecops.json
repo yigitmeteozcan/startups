@@ -29,7 +29,33 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Lackey",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ryanlackey",
+        "twitter": "https://twitter.com/octal",
+        "bio": "Cypherpunk.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb4e4e241aa641fb4eafb33f8345135007a5a49b.jpg",
+        "active": false
+      },
+      {
+        "name": "Erik Berls",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/berls",
+        "bio": "Technical Founder for CryptoSeal, S11 Now focusing on Security using Big Data and AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8a12c28ea4077f792850d169320fef82503c6ef5.jpg",
+        "active": false
+      },
+      {
+        "name": "Thomas Sparks",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tom-sparks-46562/",
+        "bio": "Infrastructure professional with over 30 years of experience. Specializing in physical infrastructure, colocation, GPU/Compute farms, Security and Network Buildouts.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a5e472f30c640e65aa1dbe4c981385bc896731a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -74,7 +100,14 @@
     "formerNames": [
       "SpinPunch"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ian Tien",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/iantien/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3228a1b9415374bd3d95e62fad598d0be9c3c526.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -117,7 +150,22 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Frank Macreery",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/fancyremarker",
+        "twitter": "https://twitter.com/fancyremarker",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da63947718a39ed83b82d1b70fd55016cfdc1287.jpg"
+      },
+      {
+        "name": "Chas Ballew",
+        "role": "Founder/Chairman",
+        "linkedin": "https://www.linkedin.com/in/chasballew/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/686285007edfe40700c879d11e9257b6bf07159e.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -164,7 +212,23 @@
       "PushMarket",
       "LogDNA"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lee Liu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/leeliu",
+        "bio": "Co-founder at Minicart",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b67b6b2dc43e9082bea3220a4154ced25456abdb.jpg",
+        "active": false
+      },
+      {
+        "name": "Chris Nguyen",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/christophernguyen",
+        "bio": "Co-founder at Minicart",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/16eaca1cd282dee20753e6adebb5fe133973f7e8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -206,7 +270,21 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sid Sijbrandij",
+        "role": "Founder/CEO",
+        "linkedin": "http://nl.linkedin.com/in/sijbrandij",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8c20310cddada8df8d941d23e622e8924e8f1658.jpg"
+      },
+      {
+        "name": "Dmytro Zaporozhets",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/dzaporozhets",
+        "twitter": "https://twitter.com/dzaporozhets",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/38d01aa63e1f80d279ecbf749ab64c6c5501e9ef.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -250,7 +328,31 @@
     "formerNames": [
       "Gravitational"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ev Kontsevoy",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/kontsevoy/",
+        "twitter": "https://twitter.com/kontsevoy",
+        "bio": "- CEO/cofounder Teleport - Product at Rackspace - CEO/cofounder Mailgun - Software engineer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ec484fb92d26f682feb8114886a814a2875c56ea.jpg"
+      },
+      {
+        "name": "Alexander Klizhentas",
+        "role": "Founder/CTO",
+        "linkedin": "",
+        "bio": "I’m focusing on building distributed infrastructure systems while keeping things as simple as possible. I’m writing code and managing engineering teams, helping team members to be happy, productive and grow their technical and communication skills.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/444f7a2df9dff3828ffec713315c772143742849.jpg"
+      },
+      {
+        "name": "Taylor Wakefield",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/taylorwakefield/",
+        "twitter": "https://twitter.com/ktwakefield",
+        "bio": "- Co-Founder of Teleport (fka, Gravitational) (S2015) and Mailgun (W2011). - Director at Rackspace in product for 3 years after Mailgun was acquired by Rackspace in 2012. - Boston College alumni.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9e360f0dda827c97e6732df2dbf9e3054f1e9266.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -289,7 +391,14 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aren Sandersen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/arens",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/35f502b495393c53a0090a6a6364b6ef94bd3340.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -329,7 +438,22 @@
     "teamSize": 90,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Isaac Mosquera",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/isaacmosquera",
+        "twitter": "https://twitter.com/imosquera",
+        "bio": "My experience has been focused on building startups from the ground up, where I have served as CTO, with 4 successful exits/acquisitions. In my past I've enjoyed building software products across multiple domains (e.g., adtech, big data, mobile, social, DevOps tooling) that bring joy to the people who use them. Although my title has mostly been CTO, I am passionate about product development, organizational psychology, and a penchant for gummy bears.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fd207be6b73f632c76eacee16495b9ca470e2a4d.jpg"
+      },
+      {
+        "name": "Ben Mappen",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/bmappen",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3d1aeaa319fc214f062b949da830179d60d40411.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -370,7 +494,28 @@
     "teamSize": 243,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Barnabas Birmacher",
+        "role": "Founder/CEO",
+        "linkedin": "https://hu.linkedin.com/in/birmacher",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8f417328f758e37af363d5d03aebfe99bdab13a7.jpg"
+      },
+      {
+        "name": "Viktor Benei",
+        "role": "Founder/CTO",
+        "linkedin": "https://hu.linkedin.com/in/viktorbenei",
+        "twitter": "https://twitter.com/viktorbenei",
+        "bio": "CTO and Co-founder of Bitrise",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d28311464bb206889065a90e2558f2ff7b8ab305.jpg"
+      },
+      {
+        "name": "Daniel Balla",
+        "role": "Founder",
+        "linkedin": "https://hu.linkedin.com/in/balladaniel",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8a31be8eb63ba0132ef236e41ff7ab062f1e1630.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -410,7 +555,16 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pierre Betouin",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/pbetouin/",
+        "twitter": "https://twitter.com/pbetouin",
+        "bio": "Pierre was leading security products at Datadog following the acquisition of Sqreen (W18) - a cybersecurity company providing a comprehensive security monitoring for cloud and web apps protecting over 800 customers in production. Pierre previously spent 9 years at Apple, where he led the team in charge of security assessments for the Internet Services department, hacking products and designing protection.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d773913accb3577e364f48d8247e9689aceedade.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -451,7 +605,22 @@
     "teamSize": 35,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Roman Kudiyarov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/roman-kudiyarov-0980346/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/40c58de9624022c4638dd1c742479f6f07dd412d.jpg"
+      },
+      {
+        "name": "Dmitry Lyfar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dmitrylyfar/",
+        "twitter": "https://twitter.com/dmitrylyfar?lang=en",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/950955664cf8217db3afe2c6c67df0478d38a3c2.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -496,7 +665,16 @@
       "Doppler Technologies",
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Vallelunga",
+        "role": "Chairman & Founder",
+        "linkedin": "http://linkedin.com/in/vallelungabrian",
+        "twitter": "https://twitter.com/vallelungabrian",
+        "bio": "Founder of Vantheon & Doppler",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3d0bee1cf50110e9b30d5a995df6873081280aa7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -540,7 +718,15 @@
       "Elastic Ledger",
       "Blocklayer"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Solomon Hykes",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/solomonhykes/",
+        "twitter": "https://twitter.com/solomonstre",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dd48f736b371509f4d7b3deccfa9f600e9c1c1fa.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -585,7 +771,24 @@
     "formerNames": [
       "Refinery Labs"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Free Wortley",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/freewortley/",
+        "twitter": "https://twitter.com/freeqaz",
+        "bio": "Background as a Security Engineer with a specific focus on AI Security and AppSec (code and infrastructure security). Feel free to shoot me an email if you need any security advise. I always love to help other founders figure that stuff out!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fa284e485c7d571a86bd9e96d2e0a00ea4b72eea.jpg",
+        "active": false
+      },
+      {
+        "name": "Matthew Bryant",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthew-bryant-a9403289/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3429b946bb099039812d40fc97b84d8cbe41811c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -628,7 +831,16 @@
     "formerNames": [
       "Devstore"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lior Grossman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/liorgrossman",
+        "twitter": "https://x.com/liorgrossman",
+        "bio": "Entrepreneur",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7783a7184e0f90133235e6baa4320acec987fda5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -674,7 +886,24 @@
       "FanX",
       "Hercules"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brendan Falk",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brendanfalk/",
+        "twitter": "https://twitter.com/brendanfalk",
+        "bio": "Founder / CEO @Fig. Prev. Brex. Harvard '20. Australian. Please email me brendan AT fig.io (seriously!)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2242b081a4f9d62a3be6481bac5a2aec386909f6.jpg"
+      },
+      {
+        "name": "Matt Schrage",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matt-schrage-957b6843/",
+        "twitter": "https://twitter.com/mattschrage",
+        "bio": "Building cool stuff. Interested in obscure programming languages, german social theorists and visions of the future that never came to fruition. Things I am thinking about. https://schra.ge Hardware. http://fab.cba.mit.edu/classes/863.19/Harvard/people/mschrage/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4caf3ec635b3409ed7871f276a243d57ab87d071.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -717,7 +946,21 @@
     "formerNames": [
       "Syndetic"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Allison Pike",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/swihartpike",
+        "bio": "Allison is the COO and co-founder of Infield. Prior to founding Infield, Allison was the COO of SevenFifty, a b2b marketplace for beverage alcohol. Allison started her career in quant finance working at D. E. Shaw and Tower Research Capital, where she took high-frequency trading strategies into new markets. She graduated from UPenn with a BA in Political Science and Psychology. She likes her gin in martinis, up with a twist.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dbd272642d2292f2f1571f54555b380871e78cc9.jpg"
+      },
+      {
+        "name": "Steve Pike",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/stephen-pike-53992419/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/136e07bc528b713867948afa818683398c23eea0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -758,7 +1001,21 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ken Ahrens",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kahrens/",
+        "bio": "Much of Ken’s career has been focused on helping companies develop and manage complex web applications. He previously ran North America teams for New Relic and CA/Broadcom. Previous startups included Pentaho (acquired by Hitachi), ITKO (acquired by CA/Broadcom) and ILC (acquired by General Dynamics). His first foray into programming started with a brand new language called Java at Georgia Tech and has grown into a lifetime interest.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6ea2749460222c7c19459a38baf85b846a9c5010.jpg"
+      },
+      {
+        "name": "Matthew LeRay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthewleray/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/117c27a4e54d8746aefc53a766a835a17eec5b09.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -801,7 +1058,23 @@
     "formerNames": [
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Cesar Talledo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/cesar-talledo-22863821/",
+        "bio": "Entrepreneur & software engineer. Driven by a passion to improve efficiency & ease-of-use of computer systems. This passion led me to co-found Nestybox, a company that is pushing Linux containers beyond apps and into the realm of VMs. Expertise & experience in: - Linux containers - Server virtualization - Operating systems - Computer hardware 20+ years of engineering experience (VMware and Integrated Device Technologies). Graduate of UC Irvine and SCU. Born in Lima, Peru.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6f25593911942d045f73ac8a53b624230156130f.jpg"
+      },
+      {
+        "name": "Rodny Molina",
+        "role": "Founder (acquired)",
+        "linkedin": "https://www.linkedin.com/in/rodnymolina",
+        "twitter": "https://twitter.com/RodnyMolina",
+        "bio": "Software Engineer with 20+ years of experience in distributed network systems, data-center infrastructure and cloud-native technologies (Linkedin, Ericsson, Juniper Networks, Lucent, Broadnet, etc). Co-founded Nestybox with the ultimate goal of maximizing compute utilization and portability while reducing infrastructure costs. B.S. Computer Science at University of Illinois. Changed countries almost as often as companies; spent a third of my live in each of these: Cuba (born), Spain, USA.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6eb2df42ae469efb120eb5c6bf2dc318de024cef.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

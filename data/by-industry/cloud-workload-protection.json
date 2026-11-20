@@ -29,7 +29,33 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Lackey",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ryanlackey",
+        "twitter": "https://twitter.com/octal",
+        "bio": "Cypherpunk.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb4e4e241aa641fb4eafb33f8345135007a5a49b.jpg",
+        "active": false
+      },
+      {
+        "name": "Erik Berls",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/berls",
+        "bio": "Technical Founder for CryptoSeal, S11 Now focusing on Security using Big Data and AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8a12c28ea4077f792850d169320fef82503c6ef5.jpg",
+        "active": false
+      },
+      {
+        "name": "Thomas Sparks",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tom-sparks-46562/",
+        "bio": "Infrastructure professional with over 30 years of experience. Specializing in physical infrastructure, colocation, GPU/Compute farms, Security and Network Buildouts.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a5e472f30c640e65aa1dbe4c981385bc896731a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -71,7 +97,14 @@
     "formerNames": [
       "Anjuna Security"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ayal Yogev",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ayalyogev/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/34b627117dd8b637b7f3428a2ec220baa3b79e9c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

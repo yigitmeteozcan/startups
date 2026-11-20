@@ -29,7 +29,14 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gee-Hwan Chuang",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/geechuang",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb7d23c7a7dc9692b8ee84e509779b9e5cb5c2e9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -70,7 +77,15 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Armstrong",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/barmstrong/",
+        "twitter": "https://twitter.com/brian_armstrong",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/74b21feb7c1dcea504e64630f7dba9073fbb05d4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -110,7 +125,40 @@
     "teamSize": 55,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Moe Adham",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/moeadham/",
+        "twitter": "https://twitter.com/moeadham",
+        "bio": "Founded Bitaccess (S14, acquired), and Sol Strategies Inc (public, NASDAQ:STKE). Now I'm working on something new.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/997892cfd9cd2c0d783b242223e899858645fe45.jpg",
+        "active": false
+      },
+      {
+        "name": "Haseeb Awan",
+        "role": "Founder",
+        "linkedin": "http://www.linked.com/in/haseebawan",
+        "twitter": "https://www.twitter.com/haseeb",
+        "bio": "Running EFANI - America's Most Secure & Private Cellphone Service to Protect. Previously Co-Founded the 1st Bitcoin ATM. BEng Telecommunication Engineering 0x926d01fb412884f24a1680d1398d0f1dc4bd59a0",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e2083e5bde2ec82160d1e03c2996c9eee38d919e.jpg",
+        "active": false
+      },
+      {
+        "name": "Vignesh Sundaresan",
+        "role": "Founder/Software lead",
+        "linkedin": "https://sg.linkedin.com/in/vigsun",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2745a630ee348bec6a2b05372cf328146b81ae91.jpg",
+        "active": false
+      },
+      {
+        "name": "Ryan Wallace",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ryan-wallace-8068464/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af484a367da94c21a97a20a7b3e54c0afbbd20fd.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -153,7 +201,16 @@
     "formerNames": [
       "Filecoin"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Juan Benet",
+        "role": "Founder/CEO, Engineer",
+        "linkedin": "https://www.linkedin.com/in/jbenetcs/",
+        "twitter": "https://twitter.com/juanbenet",
+        "bio": "Juan founded Protocol Labs, IPFS, and Filecoin.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c360c31bbcb98cbaeb1c0a7e1d8e6ade3a72d8a4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -196,7 +253,21 @@
     "formerNames": [
       "San Francisco Open Exchange"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "George Melika",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/gmelika",
+        "twitter": "https://twitter.com/gmelika",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a740e9b7f3bd9d97523fab068e409002f61e3b84.jpg"
+      },
+      {
+        "name": "Akbar Thobhani",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/akbart",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/82cf50c150c453728bb8188dc02033557a19f62f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -237,7 +308,31 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gareth MacLeod",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/garethmacleod/",
+        "bio": "Ex-facebook, Waterloo CS, S14, Grew last fintech startup to $billions in transaction volume as CEO. Canadian. Nice guy. Likes star trek and racecars.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7f908fbb8b800688cd5d64c6661193a32c8e89e6.jpg"
+      },
+      {
+        "name": "Trevor Creech",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/trevorcreech",
+        "twitter": "https://x.com/zedlander",
+        "bio": "Member of Technical Staff at OpenAI. Previously Opendoor and Tinker (S14)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0ef4cc1b6d65f1604474bec7db66ae2e6a44dfec.jpg",
+        "active": false
+      },
+      {
+        "name": "Ross Robinson",
+        "role": "Founder/COO, Software Engineer",
+        "linkedin": "https://www.linkedin.com/in/ross-robinson-aa6a1613/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1f87f2b06a38c5ec2a79574521187c943b0cea85.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -280,7 +375,29 @@
       "DemocracyOS"
     ],
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pia Mancini",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/piamancini",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5e76b53ffc32c15be4336d1582dff544a56a98dc.jpg",
+        "active": false
+      },
+      {
+        "name": "Santiago Siri",
+        "role": "Founder/President",
+        "linkedin": "http://ar.linkedin.com/in/santisiri",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a2c671cf5e0b4402482345ba9fc95d042bd21265.jpg",
+        "active": false
+      },
+      {
+        "name": "Guido Vilariño",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/guidovilarino",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bf3091e823b79ecb4a638e1efae800fc0815ee20.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -323,7 +440,20 @@
     "formerNames": [
       "Moneytis"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christophe Lassuyt",
+        "role": "Founder/CFO",
+        "linkedin": "https://www.linkedin.com/in/christophelassuyt",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fe3f555ef52ba080b738fb48f9c901f5ca498a1f.jpg"
+      },
+      {
+        "name": "Etienne TATUR",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/etiennetatur",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/11d6b78a81efc297f84995673f5740ed8fc2a189.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -368,7 +498,23 @@
       "Wifi Dabba",
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Karam Lakshman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/karam-lakshman-bb935817/",
+        "bio": "Tech at wifidabba.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7171de7d5d08f896e40c703183298c8f368de238.jpg"
+      },
+      {
+        "name": "Shubhendu Sharma",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/shubhendusharma",
+        "twitter": "https://twitter.com/shubhendusharma",
+        "bio": "building dabba.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f727a33093842869be4e5f252e2a9cabc204d9e6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -411,7 +557,15 @@
     "formerNames": [
       "Dharma Protocol"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nadav Hollander",
+        "role": "Founder/Project Lead",
+        "linkedin": "https://www.linkedin.com/in/nadav-hollander-8268585a/",
+        "bio": "Working on something new. Most recently CTO @ OpenSea. Fmrly Founder & CEO @ Dharma Labs.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fb3901db427e940dad3e7d5e508d264c82354a36.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -450,7 +604,15 @@
     "teamSize": 80,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Richard Ma",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/rtmtd/",
+        "bio": "Founder and CEO of Quantstamp, the leader in cybersecurity for web3 and AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4f8f6b3b5d4d9269a54c9a84be2c0b5e8a53f4f5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -495,7 +657,16 @@
       "Nino Finance",
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jon Lerner",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jonlerner",
+        "twitter": "https://x.com/jon_lerner",
+        "bio": "Co-founder and CEO at CoinTracker and Nino",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d8061625cf88621eed75a922d0b97c29834850b1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -539,7 +710,27 @@
       "Secrypto",
       "Obsidian Labs"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Edrick Guan",
+        "role": "Founder",
+        "linkedin": "",
+        "bio": "AWS & Alibaba Cloud Certified Cloud Architect, Product & People Manager, Liberal Arts Engineer.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f211e910b1922beef118eb761371c406e7c567f6.jpg"
+      },
+      {
+        "name": "Zehao Li",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zehao-li",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/890ee3789c4866f566ab083b7e2b50608f106170.jpg"
+      },
+      {
+        "name": "Xin Sun",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/0xsaam/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/40c16a0cf739282d0ce8056bd4e86ae9767ce80f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -584,7 +775,16 @@
     "formerNames": [
       "Ozone"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Devin Finzer",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/dfinzer",
+        "twitter": "https://twitter.com/dfinzer",
+        "bio": "Devin Finzer has a background in software engineering at Google and Pinterest, and sold his previous company to Credit Karma.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6d0d64c61bc058e996df333a49fa8656f6f6a43.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -627,7 +827,26 @@
     "formerNames": [
       "Benjamin"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Miguel Kudry",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/kudry/",
+        "twitter": "https://twitter.com/kudry",
+        "bio": "0xef0265a157fe4d27d9eba922a8ed9086d0055d8f",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/df0c2d66d8ecc73388c92a00436777570d75d71a.jpg",
+        "active": false
+      },
+      {
+        "name": "Alex Sismanis",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/alex-sismanis-5300b351/",
+        "twitter": "https://twitter.com/alexsismanis",
+        "bio": "Software Engineer, Full Stack, Cryptocurrency, Blockchain Developer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/193f57911fc675cfb86f440c14e5bf71525e09b3.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -672,7 +891,14 @@
       "Blockchange",
       "Khaki"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "John Palmer",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/john-palmer-38018191/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/60216a916442a63d7b3622be706171a49f007ccb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -716,7 +942,15 @@
     "formerNames": [
       "RealtyBits"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Umed Latifov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/umedl",
+        "bio": "Umed has 18+ year experience in finance, private equity, banking regulation and infrastructure investments. He has a comprehensive background ranging from a startup CEO to managing multi-billion dollar energy generation, transmission and distribution projects. Most recently he was Vice Chair of Central Bank and then Vice Minister of Finance of Tajikistan where he was in charge of overhauling the countries payments infrastructure. Umed holds and MBA from Stanford Graduate School of Business.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/98f22d9022903287a896699b46cc18935680b98a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -762,7 +996,22 @@
       "Buycoins",
       "Helicarrier"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ire Aderinokun",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/iaderinokun/",
+        "twitter": "https://twitter.com/ireaderinokun",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2622ce1db011d270c89c582e2821c6c73d3e658f.jpg"
+      },
+      {
+        "name": "Timi Ajiboye",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/timi-ajiboye-989b5b24b/",
+        "twitter": "https://twitter.com/timigod",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba6307cc56fa2a880fb7087f1103fa3a4c4f33f4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -802,7 +1051,14 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Edul Patel",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/edulpatel/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/51276633bc2aa426660783d8a934b6502cfe831d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -847,7 +1103,33 @@
       "ScholarMe Co.",
       "ScholarMe"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Femi Adebogun",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/femiadebogun",
+        "twitter": "https://twitter.com/femiadebogun",
+        "bio": "dropout, ceo @ path",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/48ba004ae8ee8ace71606cfe5bdd8d41379e30b3.jpg",
+        "active": false
+      },
+      {
+        "name": "Evan Farrell",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/evan-farrell/",
+        "twitter": "https://twitter.com/evanmtg",
+        "bio": "Dropout, cofounder of path, spicerack.gg, and tabletop.gg if you play trading card games/magic the gathering, hmu!!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b3c11e743b08d6e8565bed045f7fb1ecbd0b1065.jpg",
+        "active": false
+      },
+      {
+        "name": "Caleb Cross",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/calebcross",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a98dfc54393cd3d8b49f9b6da19c97834bc5298.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -891,7 +1173,23 @@
     "formerNames": [
       "Lofty AI"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Ball",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maxball/",
+        "bio": "Co-Founder at Lofty (YC S19)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e1f40dd977e17b391b07fa44313d7ce3ec5d73c7.jpg"
+      },
+      {
+        "name": "Jerry Chu",
+        "role": "Founder",
+        "linkedin": "",
+        "twitter": "https://twitter.com/PMDBT",
+        "bio": "USC alum, former Barclays Risk Management Analyst, and self-taught full-stack developer. I'm currently the CEO. YC Badge: 0xbc2e7da603f3dec73f658971c045c3023fb8975a",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c34a047249effd3e296a1f47fe96df7ae4c0e370.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -935,7 +1233,27 @@
     "formerNames": [
       "Rainbow 🌈"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christian Baroni",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christianbaroni/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83423c1286534a0dc09de8d1582825a0a750a914.jpg"
+      },
+      {
+        "name": "Jin Chung",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jinchung17",
+        "twitter": "https://twitter.com/jinrummie",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/86f8dd6443fe9025854ed5bdbd690d315fd01d36.jpg"
+      },
+      {
+        "name": "Michael Demarais",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-demarais-73273736/",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -975,7 +1293,26 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thibaut Sahaghian",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tsahaghian/",
+        "twitter": "https://twitter.com/fujisaha",
+        "bio": "14 years at the intersection of finance, product, and technology — as an investment banker, a founder, and an operator. I built and sold a US-regulated fintech backed by Y Combinator and Sequoia. At Safe, our acquirer, I partnered with the founding tea to reshape company strategy, built and led a 30-person high-performing team, and took their core business from 0 to $6M ARR. Today I help founders and executives build better products and unlock the real potential of AI in their organizations.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b51b6be121e60391540d057668cde5a5461effdf.jpg",
+        "active": false
+      },
+      {
+        "name": "Theophile Villard",
+        "role": "Founder",
+        "linkedin": "",
+        "twitter": "https://twitter.com/teawaterwire",
+        "bio": "minimalist nomad",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dcd9cde4efab069072900d54f7c93369e91d5350.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1015,7 +1352,24 @@
     "teamSize": 24,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Barinas",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/davidbarinas",
+        "twitter": "https://www.twitter.com/imdavidbarinas",
+        "bio": "Product hacker",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d2e2eeb3f5d7053514c23020bd8e42b2f14dc812.jpg"
+      },
+      {
+        "name": "Simon Chamorro",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/simonchamorro/",
+        "twitter": "https://twitter.com/realsimon",
+        "bio": "Partner at Alliance – investing in frontier tech founders | Former CEO of Valiu – YC S19 alumni.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d025af0930f60d40dc6c5ded36b024423dbfc0fa.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1059,7 +1413,28 @@
       "Coco",
       "Coco Pago"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kevin Charles",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kevin-charles-6348b5b5/",
+        "bio": "YC Badge: 0x2a8bd0744b05d94177f40e86983b9a79feb6ffd5",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/acbeedfeb080595c279c7f188c87b9ea583f7306.jpg"
+      },
+      {
+        "name": "Victor Charles",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/victor-a-charles-754394124/",
+        "bio": "Just a Venezuelan dude building and shipping crypto products with real life uses cases since 2014. YC Badge: 0x76d772b9e5dd1b50e416ae31a7a62735ecea3fc4",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/54f1860a3e650c338acb01cd0b38787b0537802b.jpg"
+      },
+      {
+        "name": "Francisco jose Martin toro",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/francisco-martin-toro-7a481715b",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/94c736d909e206f11ad90bc95de98f7c940d7863.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1148,7 +1523,36 @@
       "Tienda Dólar",
       "Plunzo"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Federico Goldberg",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/federico-goldberg-60393124/",
+        "bio": "Hey, I am the CEO of TiendaCrypto. I have a degree in Industrial Engineering and worked 6 years in logistics in a cargo airline company. I have sold a previous logistic company in 2017 called Sherpals and during 2018, we built a smart contract game for the World Cup which was a success in the crypto community. We built Tienda Dólar, the first digital exchange in Argentina (exchanging ARS into USD) with a volume of 6 MM usd/month and we are now adding Stock/bonds and crypto to our platform.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/49c42a47ce77efc3e8817844c7b61663ddb68594.jpg"
+      },
+      {
+        "name": "Nicolas D'Onofrio",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicol%C3%A1s-d-onofrio-90392458/",
+        "twitter": "https://twitter.com/nicodonof",
+        "bio": "Passionate tech founder, i love solving problems through teamwork and hard work.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5d6736239146be0d2fb00bf061aaa27dbd8bfcc.jpg"
+      },
+      {
+        "name": "Ramiro Furtado",
+        "role": "Founder",
+        "linkedin": "https://ar.linkedin.com/in/ramiro-furtado-595a3533",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d59e8044f966a9eb096151cac824e0d97f03eebb.jpg"
+      },
+      {
+        "name": "Martin Nagelberg",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/martin-nagelberg-44abab128/",
+        "twitter": "https://twitter.com/martonagel",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3cb56e4eda4bb660f42540863ed4ace5ec37474a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1190,7 +1594,16 @@
       "Enombic",
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chris Osborn",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/cbosborn",
+        "twitter": "https://twitter.com/aliquotchris",
+        "bio": "Founder, Dialect | Former quantum engineer and software tech lead, Rigetti Computing | Physics Ph.D., Columbia University",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4ef2292a33c04b33c82a6a1384cc0c7a9817bb80.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1231,7 +1644,32 @@
     "teamSize": 47,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andres Junge",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ajunge",
+        "twitter": "https://twitter.com/ajunge_m",
+        "bio": "Developer since 1985. Yaykuy Bitcoin Chile founder. Consensys / uPort co-founder. Notabene co-founder and CTO. Micael Waldorf School co-founder. Have a lovely wife and two awesome kids.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bfa9c8feb61da15639c181ea931c6e1e9d0327d7.jpg"
+      },
+      {
+        "name": "Ania Lipinska",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ania-lipinska/",
+        "twitter": "https://twitter.com/LipinskaAnna",
+        "bio": "Ania is a UX designer and Head of Product at Notabene. She has experience leading a variety of design projects for both start-ups and established companies (Comcast, Booking.com, Blade). She brings an unapologetically customer-centric approach to the team.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bcba2b07339d724fa4d005bf8540cf99d4a2a175.jpg"
+      },
+      {
+        "name": "Alice Nawfal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alicenawfal/",
+        "twitter": "https://twitter.com/na_alice",
+        "bio": "Alice Nawfal is COO of Notabene. Her role is to combine business strategy with hands-on execution, while navigating a complex regulatory landscape. Prior to Notabene, she co-lead uPort, a platform for user-controlled data. She comes from a management consulting and policy background, having worked at Bain and the Economist, as well as fintechs like Prodigy Finance and norbloc. She has an MBA from Wharton, a policy degree from the Harvard Kennedy School, and Math/Economics degrees from MIT.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e22d02b49636991b8de1847615c145f9fbce641c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1272,7 +1710,32 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Benjamin South Lee",
+        "role": "Co-founder, CEO (Acq. by Avara Labs)",
+        "linkedin": "https://linkedin.com/in/hoopla",
+        "twitter": "https://twitter.com/bnj",
+        "bio": "Building Variant. Formerly founded two companies which were acquired by Postmates, where I was VP of Product Design, and Avara, where I was SVP of Product and Design. Experiments: bensouth.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2c5f713219c46146c33d9c31b7e7941128a72e45.jpg",
+        "active": false
+      },
+      {
+        "name": "Leo Cho",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/biocho",
+        "bio": "-",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7ac1de2918528177ac3d7dccdb3f0d205996626c.jpg",
+        "active": false
+      },
+      {
+        "name": "Randolph Lee",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/bobbytables/",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

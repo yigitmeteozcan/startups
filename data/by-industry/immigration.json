@@ -27,7 +27,24 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "James Richards",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jpr2120/",
+        "bio": "CEO @ Evergrow. Venture Partner @ Garuda Ventures; investor in 30+ startups. Primarily focused on climate change. Before, CEO @ Teleborder (YC S13, acquired by TriNet).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/00111d0d1d128773771b1fbb68af0c85c936b12f.jpg",
+        "active": false
+      },
+      {
+        "name": "Michael Smith",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-smith-87710614a/",
+        "bio": "Programmer System Administrator IT Consultant",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7f9d88665449900f4ce1a51ce666b7c71ae82b77.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -74,7 +91,17 @@
       "GreenTiger",
       "Swadesh Bank"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Prateek Swain",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/prateekswain/",
+        "twitter": "https://twitter.com/prateekswain22",
+        "bio": "Building the US Bank for the Indian diaspora at Swadesh. Previously worked at Microsoft, Reactive Robotics, and Westbridge Capital. Started HackIndia (India's largest hackathon) and MakeVenturesPrinceton (Princeton's first student run incubator). Princeton University Computer Science '19.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/414f2aaa819f0786c84eb1e6b5c2b7c26622713a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -114,7 +141,28 @@
     "teamSize": 105,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Hanna Marie Asmussen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hanna-marie-asmussen/",
+        "bio": "Engineer & former consultant, originally from Northern Germany, living in Lisbon",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3f3605b4f65970131653d3fafbcc1bd37a98c2a9.jpg"
+      },
+      {
+        "name": "Lisa Dahlke",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lisa-dahlke-460045a3/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f80a0b282fee27c58211705d5f0182e38ec45d82.jpg"
+      },
+      {
+        "name": "Franzi Löw",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/feed/",
+        "twitter": "https://twitter.com/FranLoew",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1cda32c80718495c763cd351da55a0eb02d3af83.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

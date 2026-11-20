@@ -529,7 +529,20 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Per Cromwell",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/per-cromwell/",
+        "avatar": "https:///avatars/thumb/missing.png"
+      },
+      {
+        "name": "Tomas Mazetti",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a11136cdcd43561d0cb1361560c1b29e3783df05.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -570,7 +583,29 @@
     "teamSize": 200,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Samir Smajic",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/samirsmajic",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f61edbfdf597b71cad036bb458aaae749b9493f.jpg"
+      },
+      {
+        "name": "Carl Carell",
+        "role": "Founder",
+        "linkedin": "https://se.linkedin.com/in/carlcarell",
+        "bio": "Carl Carell is the Co-founder and CRO of GetAccept, an all-in-one digital sales room platform helps salespeople win more B2B deals. GetAccept has raised more than $30M in venture funding from Bessemer Venture Partners, Y Combinator, Amino Capital and DN Capital. Carl has co-founded several companies and have an extensive experience in scaling SaaS sales, go-to-market, leadership, and business development. Outside of GetAccept, Carl enjoys helping founders with scaling their business & B2B sales.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/502ca48820ba02dce635cc820e40ca8883f04f90.jpg"
+      },
+      {
+        "name": "Mathias Thulin",
+        "role": "Founder/Executive Partner",
+        "linkedin": "https://se.linkedin.com/in/mathiasthulin",
+        "twitter": "https://twitter.com/mathiasthulin",
+        "bio": "I want to live in a world where emails are short, business happens in a natural way and people care about each other. With a technical background with a degree in Master of Science in Engineering I have the experience to combine technology and sales to create successful companies with strong culture. I've founded companies within Lead Management, Marketing Automation and Sales Enablement with a true passion to make the life easier for every sales rep. I also run a charity project STATEMENT",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6901db97af85440731c9807f65bf79d739a9828.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -614,7 +649,32 @@
     "formerNames": [
       "Depict.ai"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Oliver Edholm",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/oliver-edholm-293950118/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4eff33932948027ab6411737723b9219eac9d092.jpg",
+        "active": false
+      },
+      {
+        "name": "Anton Osika",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/antonosika",
+        "twitter": "https://x.com/antonosika",
+        "bio": "I got hooked by coding when I was 14 and have since immersed myself in multiple technologies. Worked at CERN, in algorithmic trading and was first employee at Sana Labs (AI Startup) we grew from three to 20+ people (currently 200) before starting Depict.ai (recommendation systems for ecommerce). Now building the last piece of software as CEO of Lovable.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bc9d290136490a44c916ba241a8675a42057c4af.jpg",
+        "active": false
+      },
+      {
+        "name": "Lonis Hamaili",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/Loniss",
+        "twitter": "https://twitter.com/_Lonis_",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/394ad3d3ca75e09e53dcf4d0eabe841361a3e358.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1594,6 +1654,1406 @@
       "crunchbase": ""
     },
     "extra": {},
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-afterefx",
+    "source": "antler",
+    "name": "Afterefx",
+    "description": "Alternative Data for Every Investor",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9bcf52021e4c41b45cf2_portfolio%252Fcompany%252F69cc2e88-5c83-4155-8e2c-554701121a49%252F1733718343455-logo.png",
+    "website": "https://afterefx.com",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2021,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-allihoop",
+    "source": "antler",
+    "name": "Allihoop",
+    "description": "Allihoop is a technology enabled co-living brand offering flexible urban living in cities for professionals on the move.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9ca752ec2a2781d9c4db_portfolio%252Fcompany%252F9f56b8a5-6df1-4262-b0df-78ba46bb7c9d%252F1725420314258-logo.png",
+    "website": "https://www.allihoop.se/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Real Estate & PropTech"
+    ],
+    "year": 2020,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-arkion",
+    "source": "antler",
+    "name": "Arkion",
+    "description": "AI-powered asset intelligence for power grids—minimizing outages and increasing capacity.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9de92793aa7a50a3defc_portfolio%252Fcompany%252Ff347e52d-abaa-4e00-bd88-a10b5bffd61e%252F1733742965250-Arkion%2520-%2520logo.png",
+    "website": "https://www.arkion.co/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-astrid-wild",
+    "source": "antler",
+    "name": "Astrid Wild",
+    "description": "Outdoor fashion for women, by women",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b1077fcf19d200e29fe_portfolio%252Fcompany%252F4482c43b-0f26-41fd-92fc-e8f418dd90f3%252F1725420559983-logo.jpeg",
+    "website": "https://astridwild.com",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-brizo",
+    "source": "antler",
+    "name": "Brizo",
+    "description": "Everything delivered in minutes",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b47d9e7d5954c0612ea_portfolio%252Fcompany%252F50edcbf6-b58e-4f36-89fb-6e2233f77e5e%252F1725420355023-logo.jpeg",
+    "website": "https://brizo.se",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Mobility"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-brym",
+    "source": "antler",
+    "name": "BRYM",
+    "description": "Focus training for frontline workers",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9e002793aa7a50a3e097_teams%252F06c6de2e-42be-4287-97aa-dd408dbb253c%252Flogos%252FBRYM%2520Dark%2520BG.png",
+    "website": "http://brymapp.com/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-buddywise",
+    "source": "antler",
+    "name": "Buddywise",
+    "description": "Real time risk detection for industrial sites",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a194f6effac23559c37_portfolio%252Fcompany%252F06de6e16-a762-4ea9-83ca-719668533fd1%252F1733743548981-Buddywise_Marketing_Report.png",
+    "website": "https://buddywise.co",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Industrials"
+    ],
+    "year": 2020,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-causiq",
+    "source": "antler",
+    "name": "Causiq",
+    "description": "Revealing your true marketing performance - online and offline",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ddb68cd1e7b77854f3dab_portfolio%252Fcompany%252F757d8808-eff1-467c-935f-bada1c076232%252F1725420402181-logo.jpeg",
+    "website": "https://causiq.com",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2021,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-circulate",
+    "source": "antler",
+    "name": "Circulate",
+    "description": "B2B marketplace for sustainable packaging",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944f0da1e008804ed60e025_portfolio%252Fcompany%252Ff7ca7a84-a14f-4614-a255-e480ca09eb01%252F1725420278128-logo.svg",
+    "website": "https://circulate8.com",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2021,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-comra-ai",
+    "source": "antler",
+    "name": "Comra.ai",
+    "description": "3D models for real estate developers",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c4024c0aee2ff4b400a_portfolio%252Fcompany%252F83cab5c9-03ed-4636-b903-26ac40bcc41b%252F1742836992121-Screenshot%25202025-03-24%2520at%252018.22.55.png",
+    "website": "https://comra.ai/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Real Estate & PropTech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-creem",
+    "source": "antler",
+    "name": "Creem",
+    "description": "The Finance, Payments and Growth OS for small and efficient teams",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69db8ca5de272d6ce3ef93ce_portfolio%252Fcompany%252Ff9f2f83c-e49b-4801-beb0-6de56ba1e95f%252F1775996061570-creemlogo_black_full.svg",
+    "website": "https://www.creem.io",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-digility",
+    "source": "antler",
+    "name": "Digility",
+    "description": "Pricing optimization solution for SME manufacturers",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c8910b8d1d09ead5dee_portfolio%252Fcompany%252F98706bd9-0fb4-4a7e-8b7a-41e019772fc9%252F1742837145853-Screenshot%25202025-03-24%2520at%252018.25.37.png",
+    "website": "https://www.pricebase.se/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-dolprop",
+    "source": "antler",
+    "name": "Dolprop",
+    "description": "Hydropropulsion system based on biomimicry of dolphins",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c8c10b8d1d09ead5e05_portfolio%252Fcompany%252F997cde1d-fb1e-40bd-884d-2ce757863268%252F1725420445068-logo.png",
+    "website": "https://dolprop.se",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2020,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-done",
+    "source": "antler",
+    "name": "Done",
+    "description": "Platform for home improvement and repair services",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d02a8349fb2ae257f3a_portfolio%252Fcompany%252Fba2f8960-2a1e-4530-b0e8-62226c83ec59%252F1725420429843-logo.png",
+    "website": "https://doneservices.co",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-equality-check",
+    "source": "antler",
+    "name": "Equality Check",
+    "description": "Accelerating equality in the workplace",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d27e14fcae63ea52f79_portfolio%252Fcompany%252Fc3949161-2565-440d-915b-a700f31de1ef%252F1725420458752-logo.png",
+    "website": "https://equalitycheck.it",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-frey",
+    "source": "antler",
+    "name": "Frey",
+    "description": "AI that runs payroll end to end",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9ae310b8d1d09ead1b74_favicon.svg",
+    "website": "https://frey-ai.com/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2026,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-fryda",
+    "source": "antler",
+    "name": "Fryda",
+    "description": "Unlocking smart product features for physical products through a digital product card",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c5224c0aee2ff4b4115_portfolio%252Fcompany%252F8ada0107-c9fd-41b8-a0db-da2b0c9c6324%252F1733744274114-Screenshot%25202024-12-09%2520at%252012.37.43.png",
+    "website": "https://www.fryda.life",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-gro-gro",
+    "source": "antler",
+    "name": "Gro Gro",
+    "description": "Honest, supportive, nutritious baby food. We offer the next best thing to homemade.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944effbd3fc20d27ce1d311_portfolio%252Fcompany%252F9c780b93-f8a8-44cd-a407-45533239839c%252F1725420437743-logo.png",
+    "website": "https://grogrofood.com",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-hypertype",
+    "source": "antler",
+    "name": "Hypertype",
+    "description": "The smartest sales email communications ever using AI and human interactions",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1c9e94dec0abb3af961_portfolio%252Fcompany%252F0ef14cb1-809b-49fc-8925-d7576d2fc800%252F1725420469925-logo.avif",
+    "website": "https://hypertype.co",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2021,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-jiro",
+    "source": "antler",
+    "name": "Jiro",
+    "description": "AI CFO for SMBs",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69d66baa8d12b4262dfc2a16_portfolio%252Fcompany%252F4079919a-10f0-4577-ac08-a0b8a12ea384%252F1775659932052-jiro_transparent%2520(1).png",
+    "website": "https://jiroco.com/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-leetify",
+    "source": "antler",
+    "name": "Leetify",
+    "description": "Coaching software for gamers (Counter-Strike 2)",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1cde94dec0abb3af9b2_portfolio%252Fcompany%252F11f48ad6-b28a-40c2-85be-09fa5602393f%252F1725420288345-logo.avif",
+    "website": "https://leetify.com",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2020,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-legitify",
+    "source": "antler",
+    "name": "Legitify",
+    "description": "Digital-first notarisation workflows that simplify processes, empower cross-border deals, and drive innovation.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944f0541346c13a1925af15_portfolio%252Fcompany%252Fbde30821-cc9a-46a5-90b6-2c35f1aab1bb%252F1745324973140-Filled.svg",
+    "website": "https://www.legitify.eu",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2021,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-lemonado",
+    "source": "antler",
+    "name": "Lemonado",
+    "description": "No code app to build internal tools and automate processes",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944f02f5c38121ba99c1dc9_portfolio%252Fcompany%252Faebaf49d-d8ef-4059-adb6-4ae05fc5afa5%252F1725420433359-logo.svg",
+    "website": "https://lemonado.io/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-leyr",
+    "source": "antler",
+    "name": "Leyr",
+    "description": "Integrate with EHRs, EMRs and Patient Journals",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9dd33a3a657de965d7cf_portfolio%252Fcompany%252Fee363617-b9cb-43e1-8618-2253db3c4751%252F1725420490298-logo.jpeg",
+    "website": "https://leyr.io",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-lovable",
+    "source": "antler",
+    "name": "Lovable",
+    "description": "No code AI software engineer",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944eebcff846bab3c35d236_portfolio%252Fcompany%252F25f33d35-23fe-4e15-959c-b1fe2cf7e756%252F1750147684757-logoblack.svg",
+    "website": "https://lovable.dev/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-modoyo",
+    "source": "antler",
+    "name": "Modoyo",
+    "description": "Game Studio building the next great FPS.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c9a52ec2a2781d9c42d_portfolio%252Fcompany%252F9c53e2ad-d1e6-4b15-b56f-5aef37706536%252F1750158966691-Company-Logo_Modoyo.png",
+    "website": "https://modoyo.com",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "ConsumerTech"
+    ],
+    "year": 2020,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-multiply",
+    "source": "antler",
+    "name": "Multiply",
+    "description": "One workspace for all the apps and people you work with",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d11a8349fb2ae258026_portfolio%252Fcompany%252Fbda9ea63-62cb-4077-be9c-4ff8a6c01176%252F1725420481792-logo.jpeg",
+    "website": "https://multiply.co",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2021,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-nhost",
+    "source": "antler",
+    "name": "Nhost",
+    "description": "Backend platform for developers building apps",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9afe77fcf19d200e28d3_portfolio%252Fcompany%252F3ea841ed-6a53-4166-9930-b2a9d1130404%252F1725420510838-logo.png",
+    "website": "https://nhost.io",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2020,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-nomio",
+    "source": "antler",
+    "name": "Nomio",
+    "description": "Enhancing the human engine",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9a254f6effac23559d3e_portfolio%252Fcompany%252F0a270796-eeda-4061-af5a-d19146c99a81%252F1742835980601-Screenshot%25202025-03-24%2520at%252018.04.58.png",
+    "website": "https://drinknomio.com/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-opper",
+    "source": "antler",
+    "name": "Opper",
+    "description": "The European AI gateway for agents",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ac740bdf4f107aa71c2ad2f_portfolio%252Fcompany%252F21348e87-e80e-468a-a528-7a855a652989%252F1791442820354-opper-logomark-transparent.png",
+    "website": "https://opper.ai/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Deeptech"
+    ],
+    "year": 2026,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-peakpath",
+    "source": "antler",
+    "name": "PeakPath",
+    "description": "Personalized coaching powered by biometric data from wearables",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9cb252ec2a2781d9c581_portfolio%252Fcompany%252Fa1ad954d-264f-4bb6-93c8-47973b8bc7a4%252F1743024013257-66017410a79bbeb737b87099.png",
+    "website": "https://nudgelabs.com",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": 2021,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-pryvx",
+    "source": "antler",
+    "name": "pryvX",
+    "description": "Federated learning model software enabling Telecom and FinTechs to combat cybercrime",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9db13a3a657de965d5d9_portfolio%252Fcompany%252Fe54f98a2-b270-440e-8d6a-0abd03dcdbab%252F1750147172165-Screenshot%25202025-06-17%2520at%252009.59.22.png",
+    "website": "https://pryvx.com/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-sortrace",
+    "source": "antler",
+    "name": "Sortrace",
+    "description": "Transforming Waste with AI-driven Insights",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b9eb591d03330c2658a_portfolio%252Fcompany%252F607924da-1b7a-4a0c-89af-5c33f8b42807%252F1745306885741-Screenshot%25202025-04-22%2520at%252009.27.44.png",
+    "website": "https://www.sortrace.com/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & ClimateTech"
+    ],
+    "year": 2025,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-steep",
+    "source": "antler",
+    "name": "Steep",
+    "description": "Modern analytics platform",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d0fa8349fb2ae258005_portfolio%252Fcompany%252Fbd585b65-666d-4b20-8f92-959ab85b7bcc%252F1725420634667-logo.jpeg",
+    "website": "https://steep.app",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2022,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-talendary",
+    "source": "antler",
+    "name": "Talendary",
+    "description": "Enabling recruiters to focus on meaningful human connections",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d0da8349fb2ae257fdb_portfolio%252Fcompany%252Fbbf66c1b-febf-47f7-b888-0d8ebea75e7c%252F1742837442162-b493b511-f02b-4629-b9e8-050046dce068.png",
+    "website": "https://www.talendary.com/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-telgea",
+    "source": "antler",
+    "name": "Telgea",
+    "description": "Global Telecom operator - Employee mobile plans for B2B customers.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944ef3015ccdaeb3d9b0a93_portfolio%252Fcompany%252F521cf6b9-19bb-449c-aee2-18a8900a41f4%252F1750159062158-Telgea-Logo-New-1.png",
+    "website": "https://www.telgea.com/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2024,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-traxlo",
+    "source": "antler",
+    "name": "Traxlo",
+    "description": "Task based gig-work marketplace",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9af510b8d1d09ead1c84_portfolio%252Fcompany%252F3c31dcec-1a6c-479e-a1ee-5dc5f4cdbe4f%252F1750148298755-59c976_e1b848426c2e4cd7b8c22059b16bd6b6~mv2.png",
+    "website": "https://traxlo.com",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": 2020,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-treyd",
+    "source": "antler",
+    "name": "Treyd",
+    "description": "Sell now, pay later, grow faster.",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69e0be621dcba93822577d38_portfolio%252Fcompany%252F9c75a2fb-7943-4e20-a2cb-390f3e319de8%252F1750159191509-Logo_Black-1.png",
+    "website": "https://treyd.io",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2020,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-wingbits",
+    "source": "antler",
+    "name": "Wingbits",
+    "description": "Foundational Data Infrastructure for Global Mobility",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944ef01bfcfa4d71fd107ab_portfolio%252Fcompany%252F40e7010c-531e-4932-a2a8-7fa0824c3878%252F1743024167144-Logo_orange_3x_f5ea4d2a-f4be-4952-8746-7cea30f4c70d.svg",
+    "website": "https://wingbits.com/",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Mobility"
+    ],
+    "year": 2023,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-xnomad",
+    "source": "antler",
+    "name": "xNomad",
+    "description": "Marketplace for short-term rental spaces",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9c13988ad26408450973_portfolio%252Fcompany%252F798c2e1f-397a-4239-afcc-1ef73c1e4065%252F1725420698688-logo.png",
+    "website": "https://xnomad.co",
+    "location": "Sweden",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Real Estate & PropTech"
+    ],
+    "year": 2019,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Sweden"
+    },
     "country": "Sweden",
     "alsoIn": []
   },
@@ -2892,7 +4352,27 @@
     "stage": "Series A(+)",
     "teamSizeRange": "2-10",
     "totalRaised": 220000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Mansson",
+        "role": "CCO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/danielmanss/",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1505367500/htr32ojjycusepnboumb.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Erik Rehn",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/raindeer",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522907315/vlbfjmzxduslzo2n5zu7.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Erin Lee",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/erinslee",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1676841845/juch3tju0hrjdqck5mww.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/flow-neuroscience",
       "twitter": "",
@@ -2933,7 +4413,15 @@
     "isCurrentSession": false,
     "stage": "Seed",
     "teamSizeRange": "2-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bonnie Roupé",
+        "role": "CEO & Founder",
+        "linkedin": "https://linkedin.com/in/bonnie-roupé-57a459",
+        "twitter": "https://twitter.com/bonnieroupe",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1508909600/cc1kwfgmpan9t8sltlar.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/10159053",
       "twitter": "",
@@ -2974,7 +4462,46 @@
     "stage": "Series A(+)",
     "teamSizeRange": "11-50",
     "totalRaised": 2500000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Marcus Ljungblad",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/marcus-ljungblad-631a7a53",
+        "twitter": "https://twitter.com/mljungblad",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1587155276/ggnot7h7cksllgdx8txt.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Martin Lööf",
+        "role": "Hardware Engineer",
+        "linkedin": "https://linkedin.com/in/martin-lööf-6a69a4a7",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1563548862/sw202hyxwlv32hrpvuic.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Nils Mattisson",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/nmattisson",
+        "twitter": "https://twitter.com/nmattisson",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1587155280/w9hphdt78cfbcnaqtfkx.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Fredrik Ahlberg",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/fredrik-ahlberg-0275a670/en",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1513642039/jmhojy8pqo0dy7hewkbc.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Marcus Nilsson",
+        "role": "Head of Finance",
+        "linkedin": ""
+      },
+      {
+        "name": "Niklas Valfridsson",
+        "role": "Head of Finance",
+        "linkedin": "https://www.linkedin.com/in/niklas-valfridsson-900b4a4a/",
+        "twitter": "https://twitter.com/sosv",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1786968658/ryftz94lxfdlgtywtlnd.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/company/minut",
       "twitter": "https://twitter.com/minuthq",

@@ -27,7 +27,26 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pete Hunt",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/profile/view?id=21952666",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7c3090b2a38b82916117ac3322340892e643ffc1.jpg"
+      },
+      {
+        "name": "Julian Tempelsman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/profile/view?id=130147198",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dbbe11997e34b99304fbb5cb16c0efd3310c4e12.jpg"
+      },
+      {
+        "name": "Josh Yudaken",
+        "role": "Founder/Lead Infrastructure Engineer",
+        "linkedin": "http://za.linkedin.com/pub/josh-yudaken/5/ba8/958",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fcdc8b6f69e2d5fc0e43265fc1487d054aca9e53.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -72,7 +91,20 @@
       "Castle.io",
       "Castle Intelligence"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Johan Brissmyr",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/brissmyr",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7b325a5454671a0c325a49b2f9b6940c8af0b4c0.jpg"
+      },
+      {
+        "name": "Sebastian Wallin",
+        "role": "Founder/CTO",
+        "linkedin": "http://se.linkedin.com/in/sebwal/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/113e2eb5b57b288539628814d18c16361bc14ca9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -113,7 +145,21 @@
     "teamSize": 35,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ronan Burke",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/rnnbrk/",
+        "twitter": "https://twitter.com/rnnbrk",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/361681c3e4cb93c53eeaa26266cc30665aa56a4a.jpg"
+      },
+      {
+        "name": "Conor Burke",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/conorbrk/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0c3673dcdfd462ac2f076ee20303e9c540159767.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

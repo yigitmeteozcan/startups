@@ -30,7 +30,16 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Leah Culver",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/leahculver",
+        "twitter": "https://twitter.com/leahculver",
+        "bio": "iOS and Python developer. Co-author of OAuth and oEmbed. Angel investor. Formerly: Twitter, Breaker (YC W17), Dropbox, Pownce, Convore (YC W11), Grove.io.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e4ac5ed930610d0e2bada65b9905e99bc378ce31.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -79,7 +88,16 @@
       "Podcast App",
       "Evolve (makers of Podcast App & Rest AI)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Martin Siniawski",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/msinia",
+        "twitter": "http://twitter.com/msinia",
+        "bio": "Martin Siniawski is a Bay Area tech entrepreneur with nearly 20 years of experience building and scaling consumer products that have reached over 100 million downloads and hundreds of thousands of paying subscribers. He has built both bootstrapped and VC-backed companies, and is currently founder & CEO of Evolve — creator of Podcast App, the #1 independent podcast player in the App Store, and Rest, an AI-based sleep protocol.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fcd039fd85ef929357c32049c1435d70777bd5e5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -119,7 +137,31 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pulkit Sharma",
+        "role": "Founder",
+        "linkedin": "https://in.linkedin.com/in/pulkit-sharma-42334479",
+        "twitter": "https://twitter.com/PulkitSh5",
+        "bio": "Built Khabri to enable half a billion Indians to access knowledge. Scaled from 0 to 6Mn users and $1.2Mn in ARR. Raised $3.5Mn from Y Combinator, Founders Fund, Steve Huffman & others. Alum of Y Combinator, IIM Bangalore Nsrcell, IIT Delhi - Summer Research & received Entrepreneurship Award from TiE-Bangalore.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e1110e7327a3750917e24ce84fba09c62c4fa1b0.jpg",
+        "active": false
+      },
+      {
+        "name": "Aankit Roy",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aankit-roy-20515b35/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4228ea2b92489f892766ca62cc3f5d5fed0d595f.jpg",
+        "active": false
+      },
+      {
+        "name": "Sandeep",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/sandeepsin",
+        "avatar": "https:///avatars/thumb/missing.png",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -160,7 +202,43 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ross Chanin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rosschanin/",
+        "twitter": "https://twitter.com/rosschanin",
+        "bio": "I like to build things that help people. I'm a proud husband, father, and professed soccer nut. I hail from the Great State of New Jersey, but have called the Bay Area home since 2006. At heart, I am a Rawlsian.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c22993b7eb168ff120343b233f3a6fc7a904d69a.jpg",
+        "active": false
+      },
+      {
+        "name": "Moncef Biaz",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/moncefbiaz",
+        "twitter": "https://twitter.com/IAmMoncef",
+        "bio": "I was born and raised in Morocco, studied in France, then moved to the US. I've always been a startup fan — first employee at Knowhere News, and third employee at Charlie Finance. I love prototyping and building things from scratch.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/72b9e070bc253114f6dae2b88c2dd18a06fa98f7.jpg",
+        "active": false
+      },
+      {
+        "name": "Martin Gouy",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/martingouy/",
+        "bio": "Originally from France. I love building all sorts of things: drones, microphones, ceramics. The only thing I love more is building them with cool people and bringing tremendous value to people. Little do I know my luck, this is exactly what we are doing at Artifact!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/13b442576b80aadcab30a2fca5f96c32a695214e.jpg",
+        "active": false
+      },
+      {
+        "name": "George Quraishi",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/george-quraishi",
+        "twitter": "https://www.twitter.com/quraishi",
+        "bio": "I'm a former writer and editor, and I taught myself to make podcasts while working on Howler, the small but mighty soccer mag I founded and ran for seven years. This is what led me to helping to form Artifact. I'm an eighth-gen Floridian on my mom's side and a first-gen American on my dad's, and I live in Tampa with my wife, two kids, and two poodles.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3ee82a70e22a3013867b9215f1a0c6d6247f0151.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

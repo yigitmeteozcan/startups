@@ -28,7 +28,15 @@
     "teamSize": 250,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andy Su",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/andydsu",
+        "bio": "I founded Pry (W21) with Alex, Hayden and Tiffany to solve small business financial planning. I founded inDinero (S10) with Jessica Mah to automate small business accounting.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ff521ed66b8dc5d4a535cc3f66e381d9c1560585.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -73,7 +81,16 @@
     "formerNames": [
       "Beacon"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dmitri Cherniak",
+        "role": "Founder/CTO",
+        "linkedin": "",
+        "twitter": "https://twitter.com/dmitricherniak",
+        "bio": "Automation is my artistic medium. Hand-coded goods.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3c7ee773662fa82a862e6253c910c62f9d3b274c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -116,7 +133,15 @@
     "formerNames": [
       "Ramp"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Karim Atiyeh",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/karimatiyeh/",
+        "bio": "Founder @ Ramp (https://Ramp.com)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6513b7c492f1e0138341dbc857a56d49609f2e8f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -158,7 +183,26 @@
     "teamSize": 70,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gaurav Kumar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gaurav-kumar-9426a546/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d75651e972a3dae0368582356da41bd63288b472.jpg"
+      },
+      {
+        "name": "Harsh Pokharna",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/harsh-pokharna-58437a45",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/31631167fc13b4dd9695ac7a018fdb9979d2fea5.jpg"
+      },
+      {
+        "name": "Aditya Prasad",
+        "role": "Founder",
+        "linkedin": "https://in.linkedin.com/in/aditya-prasad-9a785a46",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/20b717cace5ae5ab0d72b75c7fb33b78ff0cae93.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -200,7 +244,23 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Samuel Schneider",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/samuelrschneider/",
+        "bio": "I want to build cool things—ideally, people will want them.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/85c451564568bb44cd96a8b71833233d7edaac5b.jpg",
+        "active": false
+      },
+      {
+        "name": "Sean Phillips",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sean-m-phillips/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dfaf69a102a720b50eb826df5e7e1bcb038ceb1d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

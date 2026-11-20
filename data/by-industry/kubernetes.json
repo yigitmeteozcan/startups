@@ -35,7 +35,23 @@
       "PushMarket",
       "LogDNA"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lee Liu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/leeliu",
+        "bio": "Co-founder at Minicart",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b67b6b2dc43e9082bea3220a4154ced25456abdb.jpg",
+        "active": false
+      },
+      {
+        "name": "Chris Nguyen",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/christophernguyen",
+        "bio": "Co-founder at Minicart",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/16eaca1cd282dee20753e6adebb5fe133973f7e8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -74,7 +90,31 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Dollar",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ddollar",
+        "twitter": "https://twitter.com/ddollar",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ce718979039e2bd80bbb2bdeee33ac53baf1a2b6.jpg",
+        "active": false
+      },
+      {
+        "name": "Noah Zoschke",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/nzoschke",
+        "bio": "Serial startup hacker. CTO at Housecat. Early Heroku (acquired by Salesforce), CTO at Convox (YC S15), Segment (Acquired by Twilio), VP Engineering at GRAX (Acquired by Ascendix).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c69381fd6203d9fb003d4ed21ff73635a4c49f51.jpg",
+        "active": false
+      },
+      {
+        "name": "Matt Manning",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mattmanning",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bfaf14916602a630d834569049c6205eac4c2037.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -116,7 +156,32 @@
     "teamSize": 30,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ramiro Berrelleza",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ramiroberrelleza/",
+        "twitter": "https://twitter.com/rberrelleza",
+        "bio": "Ramiro Berrelleza is one of the founders of Okteto. He has spent most of his career (and his free time) building cloud services and developer tools. Before starting Okteto, Ramiro was an Architect at Atlassian, a Software Engineer in ElasticBox and a Software Engineer in Microsoft Azure. Originally from Mexico, he currently lives in San Francisco.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/138281431906c463567c7d09dfdc41485cc1692f.jpg"
+      },
+      {
+        "name": "Pablo Chico de Guzman",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/pchico/",
+        "twitter": "https://twitter.com/pchico83",
+        "bio": "Founder @Okteto (www.okteto.com) helping companies to adopt Kubernetes and accelerate their development workflows. Previously, I worked @Docker in the Docker Cloud project (formerly Tutum), a container platform to take full advantage of the amazing technology that Docker containers are. As a Docker Community Leader, I organize the Docker Madrid and Cloud-Native Madrid Meetups, a group of 4000 enthusiastic DevOps, that find Docker and Kubernetes useful on their day-to-day work.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4ef396f07e48225b71448689a2301a7a04007ed.jpg"
+      },
+      {
+        "name": "Ramon Lamana",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rlamana/",
+        "twitter": "https://twitter.com/monchocromo",
+        "bio": "User-focused to the core, Ramon worked at Google in consumer products like Inbox by Gmail and YouTube. For many years he dedicated his efforts to improving the developer experience for tools at Elasticbox or EyeOS, a pioneer in the virtualization of workspaces in the browser.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2b4d797230817a0930c2ee5e623c7120ba2f2c99.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -158,7 +223,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Seandon Mooy",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/seandonmooy/",
+        "twitter": "https://twitter.com/erulabs",
+        "bio": "I am a human man who enjoys pressing my fingers on keyboards. If you buy me iced coffee, I'll fix your SQL query.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a00f542db18a7d7a08295d831abd7f1e796493f.jpg",
+        "active": false
+      },
+      {
+        "name": "Dan Pastusek",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dan-pastusek-9386698/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4b37c1fabd9360ba1c4a9dff9e74f4b23cc5928d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -201,7 +283,23 @@
     "formerNames": [
       "blipbox"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Arjun Iyer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/arjun-iyer-916332/",
+        "bio": "My background is in distributed systems and Machine Learning. I graduated from IIT-Kharagpur and did my MS at UIUC. I've led large Engineering teams and am a lifelong learner. When not at work, I love to play tennis and spend time with my family!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e7b11fea5faf024a5866978618dafbf2b898dc1a.jpg"
+      },
+      {
+        "name": "Anirudh Ramanathan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anirudhrx/",
+        "twitter": "https://twitter.com/foxish_",
+        "bio": "Technical Leader with a focus on distributed systems. I am passionate about containers, k8s and building better tools for systems of the future.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ced238b41c4f7370e222683fe270733177b147bc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -245,7 +343,26 @@
     "formerNames": [
       "TBD - Project Spacedust"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Giffin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/david-giffin-5190846/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/456ac8587aaa760e533039c83ad51b93b363ea06.jpg"
+      },
+      {
+        "name": "Erik Landerholm",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/elanderholm/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cfa84526d2fa22b306dbd54d460b4fd07181d6c0.jpg"
+      },
+      {
+        "name": "Tommy McClung",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tmcclung/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/57b25bca00e5ea78532dac3e0774fa30db75548c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -286,7 +403,21 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ken Ahrens",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kahrens/",
+        "bio": "Much of Ken’s career has been focused on helping companies develop and manage complex web applications. He previously ran North America teams for New Relic and CA/Broadcom. Previous startups included Pentaho (acquired by Hitachi), ITKO (acquired by CA/Broadcom) and ILC (acquired by General Dynamics). His first foray into programming started with a brand new language called Java at Georgia Tech and has grown into a lifetime interest.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6ea2749460222c7c19459a38baf85b846a9c5010.jpg"
+      },
+      {
+        "name": "Matthew LeRay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthewleray/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/117c27a4e54d8746aefc53a766a835a17eec5b09.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

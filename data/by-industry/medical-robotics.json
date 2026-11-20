@@ -28,7 +28,20 @@
     "teamSize": 30,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Manmeet Maggu",
+        "role": "Founder/CEO",
+        "linkedin": "https://ca.linkedin.com/in/manmeetmaggu",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/72496a76abbf9f5c7e2a09fadcc7ee961fff0094.jpg"
+      },
+      {
+        "name": "Rahul Udasi",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/rahul-udasi-7a7b6222",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d94a00980f0255ded29fa999d5e9202e69a6579.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -74,7 +87,23 @@
     "formerNames": [
       "Z Imaging"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jose Maria Amich",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/josemaria-amich/en",
+        "twitter": "https://twitter.com/amich_jose",
+        "bio": "Founder/CEO at Zeta Surgical",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3625cb2ca3124a40a3948eda7fee1be3e785b4e9.jpg"
+      },
+      {
+        "name": "Raahil Sha",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/raahil-sha/",
+        "bio": "Raahil is a co-founder of Zeta Surgical, a startup that develops surgical navigation and robotics tools to make minimally invasive surgeries easier, faster and more accessible. He graduated from Harvard in 2018 with a B.A. in Computer Science. Raahil has extensive experience in computational biology and is interested in the intersection of technology and medicine. While not working, Raahil can be spotted using his private pilot's license to fly to scenic locations around the east coast.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d9e9be96b3643fc110dfcfcc1879c1b028daa06d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

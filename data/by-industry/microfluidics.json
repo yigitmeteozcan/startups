@@ -30,7 +30,16 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Pawell",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/rpawell",
+        "twitter": "https://twitter.com/rpawell",
+        "bio": "My career aim is to use technology to improve health outcomes. See more on my LinkedIn profile.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1ec7eb2c05b850d36f6c41f641ae037e721c12d5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -74,7 +83,22 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Walker McHugh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/walker-mchugh-517b86b7/",
+        "twitter": "https://twitter.com/walker_mchugh?s=21&t=mXbPwUBOPCQgoonxNjWP9Q",
+        "bio": "Walker is Co-founder and CEO of PreDxion Bio. Walker is a graduate of the University of Michigan, completing undergraduate studies in immunology and further graduate training in the Medical Product Development Program at the University of Michigan College of Engineering. Walker is a past Fellow in the Zell Global Entrepreneurship Program, was named the 2017 University of Michigan Graduate Student Entrepreneur of the Year, and a Top 20 Entrepreneur Alumni from the University of Michigan in 2019.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7cee81f1d491872842f5f99808020ac799156b1e.jpg"
+      },
+      {
+        "name": "Timothy Cornell",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/timothy-cornell-64a19145",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/24a383dd4375534598881f133d0e379052f959e1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -116,7 +140,29 @@
     "teamSize": 16,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Akwasi Apori",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/akwasi-apori-465b5211/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aead751f8c7e0367eb128f8f71a16b8255cc7f2f.jpg",
+        "active": false
+      },
+      {
+        "name": "Kursad Araz",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kursadaraz",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/67065f7e4c3f0fc03e853b3aa16cfb48bb290473.jpg",
+        "active": false
+      },
+      {
+        "name": "Samuel Tia",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/samtia/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de81784e531e00400bebab8b65511031d0328690.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

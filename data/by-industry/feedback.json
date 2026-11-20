@@ -27,7 +27,35 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ted Lee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tedleeprofile/",
+        "twitter": "https://www.x.com/tedlee",
+        "bio": "Engineering at Patreon. Former YC founder (S13)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/37f331feb2f38dcff3387d915759c0afcda43ce4.jpg",
+        "active": false
+      },
+      {
+        "name": "George Tankersley",
+        "role": "Founder",
+        "linkedin": "",
+        "twitter": "https://twitter.com/gtank__",
+        "bio": "I mostly do cryptography, privacy, and systems security work at scale (with the requisite dose of product and business). Previously @ Matasano, CoreOS (S13), Cloudflare, Zcash.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d9ab2ea1585472a24552b7a9eeb72d391d2ea5c7.jpg",
+        "active": false
+      },
+      {
+        "name": "Will Whitney",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/william-whitney-b84023393/",
+        "twitter": "https://x.com/wfwhitney",
+        "bio": "MIT undergrad → S13 → MIT MEng → NYU PhD → DeepMind",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/970e270b7f77dc8ce9cf51027e48eda159bb444b.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

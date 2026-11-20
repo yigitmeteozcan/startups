@@ -28,7 +28,33 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sam Wurzel",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/sam-wurzel/",
+        "bio": "Co-founder of Octopart (YC W07).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2bad139dc668057ae114d02d0e4606b860e237b1.jpg",
+        "active": false
+      },
+      {
+        "name": "Harish Agarwal",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/harish-p-agarwal/",
+        "twitter": "https://x.com/smock",
+        "bio": "Cofounder & president Nori Health (F25); previously cofounder Chartable (acquired by Spotify); previously cofounder & CEO Octopart (W07)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39a3abd00a7380cd885cc8dae01d2a7150f66b6e.jpg",
+        "active": false
+      },
+      {
+        "name": "Andres Morey",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andres-morey-7227203",
+        "bio": "Co-founder Octopart (WC07)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/87143b221fd534437e35eb4880da294b730d9312.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -68,7 +94,22 @@
     "teamSize": 32,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Iya",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/davidiya/",
+        "bio": "Co-Founder of Eze a B2B SaaS Tool that helps you manage your company assets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a86d6c951c71b6d4c96d4d7794f415b8271594c6.jpg"
+      },
+      {
+        "name": "Joshua Nzewi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joshuanzewi/",
+        "bio": "Co-Founder of Eze a B2B SaaS Tool that helps you manage your company assets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/474336564d7a0b5eb3349fa296bb5f9410e2080e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

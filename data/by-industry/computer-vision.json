@@ -29,7 +29,14 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "David Gausebeck",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/david-gausebeck-ab23015",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/11707c6a85476f8fb8523285bdcd6429d750dd28.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -68,7 +75,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Navneet Dalal",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ndalal",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/83a647aba6b97da043b730efa90f4e43027cbc22.jpg",
+        "active": false
+      },
+      {
+        "name": "Mehul Nariyawala",
+        "role": "Founder/Product Management",
+        "linkedin": "https://www.linkedin.com/in/mehulnariyawala/",
+        "twitter": "https://twitter.com/home",
+        "bio": "Co-founder Matic - Fully autonomous indoor robots starting with the most advanced floor cleaning robot. Your home’s best helper! Fighting the bumbling tyranny of the disc robots. (Use code MATICVIP - YC Fam Deal) Past: PM Lead @ Nest. Shipped Nest Cam Outdoor, IQ, and the Hello Doorbell Co-founder @flutterapp (YCW12) (acq Google)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e95961359d7cd5732c1e1e0ba5198ec849996f10.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -109,7 +133,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jon Grall",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jgrall/",
+        "bio": "Jon is a serial app developer and user-centered design expert whose creations have been enjoyed by millions of people. Jon’s 20-year career in software development spans Silicon Valley startups and Fortune 100 companies.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f8a2435f593cb4580db829b2cb572baa8c96f36c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -148,7 +180,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Krausz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bkrausz/",
+        "twitter": "https://twitter.com/bkrausz",
+        "bio": "Working to make APIs better",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/32065c6a9ce003aefd695d40f2379320c74d6f89.jpg",
+        "active": false
+      },
+      {
+        "name": "Joe Gershenson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jgershen",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b2a674d992844fbbea389721932f30603472e64c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -190,7 +239,21 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ali Çevik",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alicevik/",
+        "bio": "Recently started working on improving developer experience for Gemini APIs at Google DeepMind. Feel free to reach with feedback/requests, I'll do my best to respond.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de53b78b25d3a9c650286baf791d9e4c4cd939fe.jpg"
+      },
+      {
+        "name": "Mert Küçük",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mert-kucuk/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e72bc3735377ce9fbc3fe87949880850cc085e95.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -236,7 +299,30 @@
       "Vertical",
       "Placenote"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Neil Mathew",
+        "role": "Founder/CEO",
+        "linkedin": "http://www.linkedin.com/pub/neil-mathew",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/451656c9dfb82edf4651e8097e0e3228cd69e16c.jpg",
+        "active": false
+      },
+      {
+        "name": "Prasenjit Mukherjee",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/prasenjitmukherjee",
+        "bio": "Started Placenote/Dabble in 2015 building Physical/Spatial AI for drones and phones. Acquired by Headout in 2024 deploying next generation audio guides that use Spatial and Voice AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/02215f706ea7131acf0282f839e901fa607e7f21.jpg",
+        "active": false
+      },
+      {
+        "name": "Yan Ma",
+        "role": "Founder/The Science Guy",
+        "linkedin": "http://ca.linkedin.com/pub/yan-ma/33/181/866/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de2d9b0f612174be34425a79fdc8cb35666390e1.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -278,7 +364,15 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeff Huber",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jeffchuber/",
+        "twitter": "https://x.com/jeffreyhuber",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0abc61a374d9022b65dc3cc85121604e0edd7ed3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -321,7 +415,20 @@
     "teamSize": 150,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abhinai Srivastava",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/abhinai",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/14f887ad32b47d2b93bdee84edcd76e3e94995fe.jpg"
+      },
+      {
+        "name": "Mukul Dhankhar",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/mdhankhar",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/39c2431da93e70eca62fac474dd89d47cc1d756c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -366,7 +473,25 @@
       "Prayas Analytics MetricBoy",
       "SimpleMoney"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yash Kothari",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/kothariy/en",
+        "bio": "Founder @ Kindred Minds (AI Leadership Coaching) + SVP at Pioneer Fund",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9b130e2ac2af246749edcaae2ae8f66f8ba8cbfa.jpg",
+        "active": false
+      },
+      {
+        "name": "Pranshu Maheshwari",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/pranshumaheshwari",
+        "twitter": "https://twitter.com/pranshu_m",
+        "bio": "/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/13869e9455dda4da2f2ccab63561456d4480cb6c.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -409,7 +534,27 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "eleazar .",
+        "role": "Founder/Head of Software",
+        "linkedin": "https://www.linkedin.com/in/eleazar-vega-gonzalez-a1071426/",
+        "bio": "builder. ai (coil w23). ai chips (rem s15).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a99b8b509bb1822dcd6629f0a9486bf442c52e91.jpg"
+      },
+      {
+        "name": "Dylan Hand",
+        "role": "Founder/Lead Hardware Engineer",
+        "linkedin": "https://www.linkedin.com/pub/dylan-hand/b3/487/8ba",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5401d5115e826c546f57903b2fe503d968226c2d.jpg"
+      },
+      {
+        "name": "William Koven",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/william-koven/93/9a8/324",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3096e649e78c1335e8de3616e5778e91a14eb9c1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -454,7 +599,22 @@
     "formerNames": [
       "ShapeScale"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexandre Wayenberg",
+        "role": "Founder/CEO",
+        "linkedin": "http://www.linkedin.com/in/awayenberg",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b2c6bf3106a813928f3e89cacf567cb679660567.jpg"
+      },
+      {
+        "name": "Martin Kessler",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/martinkessler",
+        "twitter": "https://twitter.com/kesslerio",
+        "bio": "I'm into D2C, growth marketing, recruiting, hardware, and fitness.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/853ac24c8e162c2e9b189bf0310e8aaeee9315c3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -495,7 +655,32 @@
     "teamSize": 170,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Francois Chaubard",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/pub/francois-chaubard/48/694/a1",
+        "twitter": "https://x.com/FrancoisChauba1",
+        "bio": "Stanford PhD in AGI / Founder Focal Systems / Author \"AI for Retail\"",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/30dcd1970b48f6b24e0de37b32d60e11e0967924.jpg",
+        "active": false
+      },
+      {
+        "name": "Michael Cantalino",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/pub/michael-john-cantalino/12/b44/747",
+        "bio": "Founder at Focal Systems, the AI operating system of brick-and-mortar retail. Leading with a people-first mentality. Constantly aiming to leave the world better than I found it in all aspects of business and life. Alongside technology, heavily involved in the non-profit sector and all things outdoors.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e34fb29ffd13b8ff303a5d79248102c61444bc19.jpg",
+        "active": false
+      },
+      {
+        "name": "Adriano Quiroga",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/profile/view?id=AAMAAAmpIS8BXS8HALADsGi6CBAoMfQ0kmlCcsU&trk=hp-identity-name",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d434a3d9c22875959cd30e6d6d994b59ee223290.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -541,7 +726,27 @@
     "formerNames": [
       "QueueHop"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lindon Gao",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/pub/lindon-gao/24/b31/1a1",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c40089129c492ef81f3aff1d4c8eda1b0bfbddc3.jpg"
+      },
+      {
+        "name": "Ahmed Beshry",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/ahmedbeshry",
+        "bio": "-",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e06e54bed5d7514764bf77a2c529f2666de9a2f4.jpg"
+      },
+      {
+        "name": "Yilin Huang",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0fbe46f3ffbe20ed44ca1a12fd25b81ee1bc1fa9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -581,7 +786,25 @@
     "status": "acquired",
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexander Harmsen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/alexanderharmsen",
+        "twitter": "https://twitter.com/alexharm",
+        "bio": "CEO/Co-founder of PortfolioPilot.com, a personal AI financial advisor with over $30B AOP. Former CEO/Founder at Iris Automation, autonomous vehicle software company - raised over $30M, sales globally, regulatory approvals in 9 countries, and successfully exited to a big partner. Advisor to various other deep tech and SaaS companies like VeriSIMLife.com, a computational pharma company aiming to reduce the need for animal testing to speed up and reduce the costs of drug development.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d0519f075760730d6ccc6018be66060747d809d7.jpg",
+        "active": false
+      },
+      {
+        "name": "James Howard",
+        "role": "Founder/CTO",
+        "linkedin": "https://ca.linkedin.com/in/jamesthoward",
+        "bio": "X",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/84361ad1a757ef6d7f65b08fe00724302bf28dc2.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -623,7 +846,27 @@
     "formerNames": [
       "StenoAI"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Devaki Raj",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/devaki-raj-31205826",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7cc344149f790992ade0ff7f388b67f7393cb514.jpg"
+      },
+      {
+        "name": "Nic Borensztein",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/nicbor",
+        "bio": "Director of Solution Architecture at NVIDIA former Founder/CTO of CrowdAI S16 GenAI at NVIDIA 2023-present",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/46f24257e76a839bc7c387484879e2ae1c425b49.jpg"
+      },
+      {
+        "name": "Pablo Garcia",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pablogarciaortiz",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1add7360bbc99911b150ce492464cad9eadf7e2b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -666,7 +909,22 @@
     "formerNames": [
       "Ambient"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shikhar Shrestha",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/shikharshrestha",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8bdadb754a12475d36800d17aecd97ea76c73801.jpg"
+      },
+      {
+        "name": "Vikesh Khanna",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vikesh-khanna-27184722",
+        "twitter": "https://twitter.com/vikeshkhanna",
+        "bio": "I am passionate about AI and the transformative influence it'll have on our lives. I founded Ambient AI in 2017 to bring AI to enterprise physical security; with a mission to prevent security incidents. As the CTO and co-founder of Ambient, I am responsible for everything engineering, product and technology at the company. Before founding Ambient, I was building software at Dropbox and Microsoft.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/389c92d81697addb8545b57a51107996183c5fc2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -712,7 +970,24 @@
       "IQBoxy",
       "Veryfi"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dmitry Birulia",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/birulia",
+        "twitter": "https://twitter.com/dbirulia",
+        "bio": "2017: Cofounded Veryfi to build Stripe for Data Extraction & Transformation 2010: Led 3 Engineering teams at Coupons, Inc. (NYSE: QUOT). Experienced evolution of the company from a Startup to IPO 2009: Came to the US from Belarus 2006: Master's Degree in Computer Science",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f33fda01549c2c32ba6379543d6fe6fe1a35219c.jpg"
+      },
+      {
+        "name": "Ernest Semerda",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/semerda",
+        "twitter": "https://twitter.com/semerda",
+        "bio": "2017: Cofounded Veryfi to build the world’s most experienced data extraction expert! 2012: Cofounded (Medlert, now VectorCare); a logistics & communication platform to connect hospitals to ambulances in the US #HealthTech. Today the software powers logistics & communication at Kaiser, Sutter, Emery et al. 2010: Led International Engineering at Coupons, Inc. (now Quotient Technologies NYSE: QUOT). Got to experience the journey from startup to a $2B IPO.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/52e273328254a4008df89b32f517b6def7aba775.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -753,7 +1028,15 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Evgeny Kuryshev",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/evgenyq",
+        "bio": "Worked at Yandex, co-founded Emerging Travel Group, co-founder at Mirror AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3f7cde618f180a4901b489e5b4454556364accea.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -797,7 +1080,15 @@
     "teamSize": 33,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Charles Acknin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/charlesacknin",
+        "bio": "Software Engineer turned Chief Email Officer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4d6b88b66f3363f857e0d2909a3aca9b839d7710.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -842,7 +1133,20 @@
     "formerNames": [
       "MapSync"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mark Stauber",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mark-stauber-01151638/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e2c8b601d548a33299a1a5c1b9608bd1ddd84176.jpg"
+      },
+      {
+        "name": "Jaeyong Sung",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jaeyongsung/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/336c4cbc2668c71d178f5e77672d31cea01b3281.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -889,7 +1193,16 @@
       "Snark.ai",
       "Snark AI"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Davit Buniatyan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/davidbuniatyan",
+        "twitter": "https://twitter.com/DBuniatyan",
+        "bio": "Founding CEO Activeloop, PhD on leave from Princeton, AI/ML, Data and Infra, Y Combinator S18, UCL 16’ Working on Data 2.0",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/49efe4795d8a38cc955a0c873f7de567ef057a52.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -933,7 +1246,31 @@
     "formerNames": [
       "Sterblue"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Geoffrey Vancassel",
+        "role": "Founder/CEO",
+        "linkedin": "https://fr.linkedin.com/in/geoffrey-vancassel-80b2aa12",
+        "bio": "LabelFlow, GitHub for visual data (now) // Sterblue, software for drones to inspect energy infrastructures // Airbus, Design Engineer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2cfd8da516c0f480d129cb10d3b65e9dfee30544.jpg"
+      },
+      {
+        "name": "Nicolas Draber",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/nicolasdraber/",
+        "twitter": "https://twitter.com/ndraber",
+        "bio": "Aerospace Engineer, Co-founder of Sterblue and LabelFlow",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cfe313a73008c291f4aee24b4f5e4172f0241447.jpg"
+      },
+      {
+        "name": "Vincent Lecrubier",
+        "role": "Founder/Chief Technical Officer",
+        "linkedin": "https://www.linkedin.com/in/crubier/",
+        "twitter": "https://twitter.com/VLecrubier",
+        "bio": "Olympic Finalist, Computer Science PhD, Aerospace Engineer, Co-funder of Sterblue YC S18",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c482f082d557d1e0ffe1bd20186864f22793853.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -980,7 +1317,29 @@
     "formerNames": [
       "Overview.ai"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Austin Appel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/austin-appel-aa822b66/",
+        "bio": "Austin Appel is the head of product and a co-founder at Overview, where he is responsible for leading product development and operations. With over 8 years of experience in manufacturing, he works with customers to ensure that customers can quickly adopt and use artificial intelligence-based computer vision systems. Previously, Austin spent four years at Tesla in manufacturing and R&D. Austin holds BS Degrees in Manufacturing Engineering and Mechanical Engineering from Northwestern University.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1e36e2fb2f960866341c37d8d0964d74e14d8233.jpg"
+      },
+      {
+        "name": "Russell Nibbelink",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/russellnibbelink/",
+        "bio": "I am the head of engineering and a co-founder at Overview. Before joining Overview, I was a software engineer at Salesforce, where I worked on web-scale infrastructure projects, including the migration of Salesforce’s largest customers to upgraded hardware with no downtime. I studied EECS at UC Berkeley, where I was also the head teaching assistant in the field of High Performance Computing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fa0586294cc7538ca638b3c8d3ef42d0a9b93813.jpg"
+      },
+      {
+        "name": "Christopher Van Dyke",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christopher-van-dyke/",
+        "bio": "After 8 years at Tesla I founded Overview. Overview provides cameras and AI recognition algorithms to help manufacturers automate inspection steps, improve uptime, and reduce errors on their manufacturing lines. At Tesla, I built the team that designed the Gigafactory and launched the Supercharger network.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b00f242e390331f22c5d6cb10c4d83bb83bcd5c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1065,7 +1424,26 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jonathon Blok",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jonathon-blok/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e6d830191c1f40a32fce80a0fd7720675cf33504.jpg"
+      },
+      {
+        "name": "Jaime Lomeli-Rodriguez",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/dr-jaime-lomeli-r-394451119",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/264105418963bac1c2d369ca33ac5f7baeb38ad1.jpg"
+      },
+      {
+        "name": "Daniel Martinho-Corbishley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/danielmartinhocorbishley/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5dda41938f2af339f3434ac3fe8f2923cab85fac.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1107,7 +1485,24 @@
     "teamSize": 18,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeremy CHAMOUX",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-chamoux-2593a27/",
+        "bio": "Specialties: Generative AI, Deep Learning, and Computer Vision, with a particular passion for imagery and visual data analysis. Strong focus on eCommerce and retail fashion, harnessing advanced AI to drive innovation and business impact in these industries.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/361bd63168291e86f97527a1f1dc7409fe27932d.jpg",
+        "active": false
+      },
+      {
+        "name": "Gabrielle CHOU",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gabrielle-chou/",
+        "bio": "Information Technology executive - Serial entrepreneur in tech start-ups ( 3 exits) NASDAQ listed Asia-Pacific management Specialities: Generative A.I., Computer vision , imagery, eCommerce & retail fashion",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f0b3331e1d6514c1f30b815a6bb99a2669773257.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1151,7 +1546,23 @@
     "formerNames": [
       "EllipseAI"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kostyantyn Shysh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kostyantyn-shysh-a8ab4a77/",
+        "twitter": "https://x.com/constant_shysh",
+        "bio": "Co-founder & CEO of Traces AI (YC S19), Founder of Unmorph",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b6384ac3531b6a897d520cb1b6a1fd0750b6a194.jpg"
+      },
+      {
+        "name": "Veronika Yurchuk",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/veronikayurchukdatascience/",
+        "bio": "CTO and co-founder at Traces AI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fbe8192d9747b0e34beb136a96a5150466fe8e35.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1260,7 +1671,24 @@
     "formerNames": [
       "Artizans"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matt Rouif",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthieurouif/",
+        "twitter": "https://twitter.com/matthieurouif",
+        "bio": "Co-founder and CEO of PhotoRoom, which enables anyone to create studio-quality photos on his smartphone. Polytechnique & Stanford graduate. I created the first mobile apps for ski resorts, used by 50+ ski resorts globally. Then co-founded HeyCrowd app to make surveys more social. Later, I led product for the Replay video editor, awarded « best app » of the year by Apple. GoPro acquired Replay, where he led all image editing products. I left GoPro to start PhotoRoom",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7fbe4cf332c187d8b866c1dcf6f5c2c2aa51fab4.jpg"
+      },
+      {
+        "name": "Eliot Andres",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/eliotandres/",
+        "twitter": "https://twitter.com/EliotAndres",
+        "bio": "3 years of experience in computer vision and deep learning, before that I worked on 5 different mobile apps.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b6975da6a8fac19fe5e5aea5b437d4abc014158b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1306,7 +1734,22 @@
       "Zappeal",
       "Oda (was Zappeal)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ege Ozgirin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ege-ozgirin/",
+        "twitter": "https://twitter.com/egeozin",
+        "bio": "Hiring Founding Engineers - reach out at ege@emotionmachine.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/33500fc42e396ea1e3184c5e02fb23006057074e.jpg"
+      },
+      {
+        "name": "Mert Karakus",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mert-karakus/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/560dc59812e19fe4120d3f7a654125de4e70506d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1349,7 +1792,24 @@
     "teamSize": 150,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joseph Nelson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/josephofiowa/",
+        "twitter": "https://twitter.com/josephofiowa",
+        "bio": "Cofounder of Roboflow, enabling developers to make the world programmable with open source and hosted computer vision tools for dataset, models, and deployments. Previously, cofounded/sold Represently (\"Zendesk for Congress\"), taught at General Assembly, and worked at Facebook.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/37d31b055bf9cb9771af1ea978aa9b66cf153c40.jpg"
+      },
+      {
+        "name": "Brad Dwyer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brad-dwyer-b6b4136",
+        "twitter": "https://twitter.com/braddwyer",
+        "bio": "Co-founder of Roboflow; putting computer vision into the toolbelt of every developer. Previously founded and bootstrapped Hatchlings, a social gaming company, to 10 million+ users and 7 figures in revenue. I love building things. I've been putting stuff online for basically as long as I can remember. In high school ran a web development company that did work for companies including Charles Schwab, Sony BMG, and PAX TV (on the Internet, no one knows you're still in high school).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/155829b440d95a1ba3a544caa775994827281825.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1394,7 +1854,25 @@
     "formerNames": [
       "Creation Labs"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jakub Langr",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/jakublangr",
+        "twitter": "https://twitter.com/langrjakub",
+        "bio": "Jakub has worked in data & AI for over a decade. He is the CTO for Tenderd (YC S18). Previously, he founded AI startup Hypermile (YC S20). He wrote a best-selling book on an area of Generative AI and he guest lectures at the University of Oxford. He worked for global tech companies (Palantir), as well as consultancies (Brainpool, Mudano, where he grew the ML team from 1 to 15) and startups (as ML Tech Lead at Filtered and a consultant at Founders Factory). Jakub graduated from Oxford.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9550a83c3e1389fe2330ec2d3e274f393616b526.jpg",
+        "active": false
+      },
+      {
+        "name": "James Hennessey",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/james-hennessey-2357391a/",
+        "bio": "Founder and CEO of Hypermile (S20). Background in computer vision and computer graphics. Former Head of Computer Vision at Pupil, ex-Adobe, ex-Disney, Entrepreneur First (EF1) alum. Computer Vision and Computer Graphics PhD from University College London.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/104b34ec8e5a6591b51dbca2bd6e652a41c518bf.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1434,7 +1912,14 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Alexander Popper",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/alexanderpopper/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c4fd6564384fc50023061879e6244d52d74e0b9d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

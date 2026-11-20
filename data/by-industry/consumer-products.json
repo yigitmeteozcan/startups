@@ -31,7 +31,23 @@
     "formerNames": [
       "Measurable AI (MailTime)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Heatherm Huang",
+        "role": "Founder/CEO",
+        "linkedin": "http://linkedin.com/in/heathermhuang",
+        "twitter": "http://twitter.com/heathermhuang",
+        "bio": "https://mailtime.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fa2910f3cac7d8a7a263f4e9c174cb3ed2439597.jpg"
+      },
+      {
+        "name": "Gary Lau",
+        "role": "Founder",
+        "linkedin": "http://hk.linkedin.com/pub/gary-lau/28/51b/a55",
+        "bio": "MailTime Cofounder & CTO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3b0d2e4d25c84d8fd828eb7078fc243726d0cf75.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -71,7 +87,15 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Niki Bayat",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/niki-bayat-1ba52b4b/",
+        "bio": "I am co-founder and CEO of AesculaTech, a biotechnology company designing innovative smart materials to change the way health and consumer products interact with the human body. I am also a chemical engineer with 10+ years of experience in organic chemistry with a PhD from the University of Southern California. I was included in MIT's 2018 35 Innovators Under 35. My company participated in YCombinator 2018.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5d09c1b3a0a05124d62b75b17cd65913aa3a7d4f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -112,7 +136,27 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aidan Porter",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/aidanjporter",
+        "bio": "Aidan Porter, a passionate entrepreneur and a Forbes 30 Under 30 honoree, I've always been driven by the potential of innovative technology to transform businesses. As the Founder and CEO of Kindled Growth, my mission is to unleash the power of startups and small businesses by delivering cutting-edge digital solutions and turning bold ideas into successful online ventures.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fdb91bf5dc582c1bbe4a3b9937eb00333daecb8e.jpg"
+      },
+      {
+        "name": "Erin Robert Frey",
+        "role": "Founder/Partner",
+        "linkedin": "https://www.linkedin.com/in/erin-robert-frey/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5cc11d687d6387f99775fde62bf8f236844c8acb.jpg"
+      },
+      {
+        "name": "Leif Frey",
+        "role": "Founder/Head of Direction",
+        "linkedin": "https://www.linkedin.com/in/leif-frey-76a3b63a/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b0b67d1ac94b4686aa2583c3effe54b57bbd10f6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -154,7 +198,16 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maciej Lobodzinski",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/mlobodzinski",
+        "twitter": "https://twitter.com/mlobodzinski",
+        "bio": "I build stoic — a mobile app that helps people feel better and gives them insights into their mental health. Previously I created Prismake (acquired by Tango Agency) — a software agency where I helped companies like dscout, Talixo, and Roam Robotics with their iOS apps.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c405e307ca624e7370fd48756bbb6273831d4c92.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -737,5 +790,423 @@
     "alsoIn": [],
     "listed": false,
     "delistedAt": "2026-11-18"
+  },
+  {
+    "id": "ef-strive",
+    "source": "ef",
+    "name": "Strive",
+    "description": "1:1 coding tutoring for K–12 math.",
+    "logo": "",
+    "website": "",
+    "location": "Singapore",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Consumer Products",
+      "Education"
+    ],
+    "year": 2021,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Pulkit Agarwal",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/agarwalpulkit/"
+      },
+      {
+        "name": "Tamir Shklaz",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/tamir-shklaz-32b446160/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Singapore",
+      "investor": ""
+    },
+    "country": "Singapore",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-tonk-labs",
+    "source": "ef",
+    "name": "Tonk Labs",
+    "description": "Making creating shared software as easy as creating a document.",
+    "logo": "",
+    "website": "",
+    "location": "London",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Consumer Products",
+      "Dev Tools / Infra"
+    ],
+    "year": 2023,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Gavin Owens",
+        "role": "Founding Founding CTO & Current CEO",
+        "linkedin": "https://www.linkedin.com/in/gavin-owens-21887346/"
+      },
+      {
+        "name": "Harry Kingdon",
+        "role": "Founding CEO",
+        "linkedin": "https://www.linkedin.com/in/harry-kingdon-12b00a126/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom",
+      "investor": ""
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-interactionlabs",
+    "source": "ef",
+    "name": "InteractionLabs",
+    "description": "Pixar lamp irl.",
+    "logo": "",
+    "website": "",
+    "location": "Paris",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Consumer Products"
+    ],
+    "year": 2025,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Karim Rkha Chaham",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/karim-rkha-chaham-0a29601ab/"
+      },
+      {
+        "name": "Julien Ajdenbaum",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/julien-ajdenbaum-7abb23144/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "France",
+      "investor": ""
+    },
+    "country": "France",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-the-personal-ai-company",
+    "source": "ef",
+    "name": "The Personal AI Company",
+    "description": "AI companion for personal productivity.",
+    "logo": "",
+    "website": "",
+    "location": "London",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Consumer Products"
+    ],
+    "year": 2025,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Sanskar Jethi",
+        "role": "ceo",
+        "linkedin": "https://www.linkedin.com/in/sanskar123/"
+      },
+      {
+        "name": "Arsen Kylyshbek",
+        "role": "CTO",
+        "linkedin": "https://linkedin.com/in/arsenkk"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom",
+      "investor": ""
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-vibe",
+    "source": "ef",
+    "name": "VIBE",
+    "description": "AI for daily reflection with friends.",
+    "logo": "",
+    "website": "",
+    "location": "London",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Consumer Products"
+    ],
+    "year": 2024,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Stelio Ropokis",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/stelioropokis/"
+      },
+      {
+        "name": "Thomas Metcalfe",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/thomas-metcalfe"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom",
+      "investor": ""
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-eigen",
+    "source": "ef",
+    "name": "Eigen",
+    "description": "",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Consumer Products"
+    ],
+    "year": 2025,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Paul Scherer",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/pescherer"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States",
+      "investor": ""
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-niostem",
+    "source": "ef",
+    "name": "niostem",
+    "description": "Wearable device for hair regeneration.",
+    "logo": "",
+    "website": "",
+    "location": "Berlin",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Consumer Products",
+      "Healthcare"
+    ],
+    "year": 2019,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Carlos Chacon",
+        "role": "Founding CEO & Current CTO",
+        "linkedin": "https://www.linkedin.com/in/carloschacon-martinez"
+      },
+      {
+        "name": "Samuel Jellard",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/sjellard/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Germany",
+      "investor": ""
+    },
+    "country": "Germany",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-moonsift",
+    "source": "ef",
+    "name": "Moonsift",
+    "description": "Predictive AI for personalized online shopping.",
+    "logo": "",
+    "website": "",
+    "location": "London",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Consumer Products",
+      "Retail & Commerce"
+    ],
+    "year": 2018,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alex Reed",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/alexander-reed-1786325b/"
+      },
+      {
+        "name": "David Wood",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/davidwooduk/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom",
+      "investor": ""
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-wild-ai",
+    "source": "ef",
+    "name": "Wild.AI",
+    "description": "AI for cycle-aware women’s training.",
+    "logo": "",
+    "website": "",
+    "location": "London",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Consumer Products",
+      "Healthcare"
+    ],
+    "year": 2017,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Helene Guillaume",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/heleneguillaume/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom",
+      "investor": ""
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
   }
 ]

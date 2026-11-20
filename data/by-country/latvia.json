@@ -177,7 +177,20 @@
     "teamSize": 250,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dainis Kruze",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/dainis-kruze-63b19013/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0673c4ae88fdd317151c82b27cdf26bc576aa3ff.jpg"
+      },
+      {
+        "name": "Janis Putrams",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/janis-putrams-2ab19345/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b10c75ee12c8442b63b1b7c8d269bada57b6097.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -253,7 +266,21 @@
     "stage": "Pre-Seed",
     "teamSizeRange": "2-10",
     "totalRaised": 180000,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mārtiņš Borodušķis",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/martins-boroduskis-88599a77",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1522906414/e1v72ax23tpmm0nv6b1g.jpg?_a=BACMTiGT"
+      },
+      {
+        "name": "Anna Ramata-Stunda",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://linkedin.com/in/anna-ramata-stunda-5b219629",
+        "twitter": "https://twitter.com/aramatastunda",
+        "avatar": "https://res.cloudinary.com/sosv-development/image/upload/v1620640798/mqcznrscx6g8cqnuonkh.jpg?_a=BACMTiGT"
+      }
+    ],
     "social": {
       "linkedin": "https://linkedin.com/company/alternativeplants",
       "twitter": "https://twitter.com/alternatplants",

@@ -27,7 +27,16 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Simon Willison",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/simonwillison",
+        "twitter": "https://twitter.com/simonw",
+        "bio": "Co-creator of Django, creator of Datasette. Co-founded Lanyrd, YC W2011.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6c24bd0dc8ee3f9ce78b361d008ed3fb94825e7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -66,7 +75,24 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dane Hurtubise",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/hurtubise/",
+        "twitter": "http://twitter.com/imdane",
+        "bio": "Co-founder, CEO of Spoken (S21). Previously founded Parklet (acq. Greenhouse) and JobSpice (S09).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/65817490baacb8f05324ac96df5178418a0763f1.jpg",
+        "active": false
+      },
+      {
+        "name": "Andrew McCollum",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/wirehog/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/34ee413d539b89e688060656809a59525deb874a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -106,7 +132,15 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Brian Ma",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zealoustiger",
+        "bio": "I'm a serial entrepreneur, investor, passionate problem solver, calculated risk taker, and lifelong dream follower. Founder at Iterative Capital (http://iterative.vc/) and Founder at DivvyHomes.com (backed by a16z, GIC, Max Levchin, and Tiger Global). Interests: real estate, investing, fintech, marketplaces. Twitter: @zealoustiger Previously: Founder at Weave (professional networking service, YC S14), Founder at Decide.com (ecommerce price predictions, acquired by Ebay), Zillow, Microsoft, UW C",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b50cc3040b8eab34f6a41829cb97cb2400bd1fb8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -149,7 +183,23 @@
     "formerNames": [
       "Campus Job"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Liz Wessel",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/elizabethwessel/",
+        "twitter": "https://twitter.com/lizwessel",
+        "bio": "I am 1 of 4 investing Partners at First Round Capital. First Round is a generalist firm who led the seed rounds of Uber, Roblox, Notion & more. I lead our YC investing strategy, having led the Seed rounds of Reducto, David AI, Gumloop & many more. Before First Round, I was a Visiting Partner @ YC working w/ hundreds of companies. Before that, I was a CEO/Cofounder of WayUp for 7.5 years through our exit, and also was an Angel investor in the seed rounds of Scale AI, Ramp, Ro & more",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8c072bdf05c5155094be1090d02196b453ea3f49.jpg"
+      },
+      {
+        "name": "JJ Fliegelman",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jjfliegelman",
+        "twitter": "https://twitter.com/JdotJdotF",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f1da1eda70bda0477fe4f27f5411051bd2cec49.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -196,7 +246,15 @@
     "formerNames": [
       "Paragon One"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matt Wilkerson",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mattwilkerson",
+        "bio": "Matt is the Co-founder & CEO of Extern (www.extern.com) which created the remote Externship, a new form of work experience that lets people quickly build their resumes while giving companies expert-designed, turnkey projects that drive business outcomes. Extern was a pivot from Paragon One which was YC'W17. Matt previously co-founded e-commerce marketplace AHAlife, started his career at Morgan Stanley and TCV, and holds degrees from MIT in Computer Science & Engineering and Management Science.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/180e934c05c954708b7c76ea442442a812c0bd39.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -239,7 +297,17 @@
       "Prism IO",
       "Bridge Academy"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Adam Breckler",
+        "role": "Founder/Problem Solver in Chief",
+        "linkedin": "http://www.linkedin.com/in/adambreckler",
+        "twitter": "https://x.com/adambreckler",
+        "bio": "- Serial entrepreneur across healthcare, data, and developer tools - Co-founded Better Health, scaling from zero to national reach, raising over $27m - Past Founder of Prism Labs (YC S17), a developer analytics platform - Co-founder at Visual.ly and Head of Product & Growth (exit) - Deep experience in product, engineering, and growth",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6dae2f98b775ed3d7f07089c2c2ddd8e51d908a5.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -285,7 +353,14 @@
       "Driver Partners Inc",
       "Driver Partners"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dwayne Shaw",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/dwaynenshaw",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6273651ba35722014178ef6e5e806b02b84f5eff.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -329,7 +404,26 @@
     "formerNames": [
       "Leap"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Cadran Cowansage",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/cadrancowansage/",
+        "twitter": "https://twitter.com/cadran_c",
+        "bio": "Leading an engineering team @ OpenAI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dca17fca36890883af7a53205366c279b609b184.jpg",
+        "active": false
+      },
+      {
+        "name": "Kuan Luo",
+        "role": "Founder",
+        "linkedin": "",
+        "twitter": "https://twitter.com/kuanluo",
+        "bio": "Design & Product",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ec00b9dfc67d424ed579a7eb8301966efb4f50fd.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -372,7 +466,14 @@
     "formerNames": [
       "TrustedFor"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pradeep Muthukrishnan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pradeep-muthukrishnan-6864055/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ae887971f59f56ecfff0d0e6a19fcf12d4089ab4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -415,7 +516,34 @@
     "formerNames": [
       "Able Jobs"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ravish Agrawal",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ravishagrawal/",
+        "twitter": "https://twitter.com/ravishagrwal",
+        "bio": "Co-Founder & CEO Able Jobs. Previously worked with Udacity. Growth Marketing Nerd",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a414f48c027f39163fff21543c0a85a3839a7112.jpg",
+        "active": false
+      },
+      {
+        "name": "Svatantra Kumar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/swat/",
+        "bio": "Founder & CEO @WhatBytes. Previous Co-Founded & CTO of Able Jobs (YC W20)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1d344ead9f231a75f977c6ec36550a7ad32e5706.jpg",
+        "active": false
+      },
+      {
+        "name": "Siddharth Srivastava",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/siddharthsrivastav",
+        "twitter": "https://twitter.com/sidvent",
+        "bio": "Founded of Able Jobs (YC W20) [Acquired by Instawork]. Building products and companies for upward mobility. Forbed 30 under 30",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/34a96ecae4d3612015ebcade2cf86c28852c3d8b.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -460,7 +588,16 @@
     "formerNames": [
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anish Raj Sikka",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anishrajsikka/",
+        "twitter": "https://twitter.com/anishsikka",
+        "bio": "I went to IIT D & IIM C for my B. Tech. & MBA degrees. Post MBA, I worked with BCG as a consultant but quickly moved on to join the founding team of this hospitality startup, ZO Rooms, which was 1 hell of a ride. We raised $30M+, scaled from 10 to 600 employees and got acquired in <2 years! Had a lot of insane learning from ZO & since then, I've been working on Hiration to solve a problem very near to my heart: helping people in finding new jobs & achieving their dream careers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/84a4f88512033fdf0d7785c7c01a562d7d56d74c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -503,7 +640,23 @@
     "formerNames": [
       "Electry"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Julian Lindinger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/julian-lindinger-82a4489b/",
+        "twitter": "https://twitter.com/lindingerju",
+        "bio": "Helping skilled technical blue-collar workers (electricians, mechanics) to find better jobs. Austrian living in Berlin.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/056165fcdec58cbfc6d02696101ff2a7fb657bc3.jpg"
+      },
+      {
+        "name": "Konrad Geiger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/konradgeiger/",
+        "twitter": "https://twitter.com/kon_geiger",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d16887447121a54e4c65f6b7aad7beb01facfa7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

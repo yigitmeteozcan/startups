@@ -31,7 +31,23 @@
     "isHiring": true,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matthew De Silva",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/matthewdesilva/",
+        "twitter": "https://twitter.com/MDe_Silva",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9f6eebea28438330b0e1b0a312affcdf60fa89eb.jpg",
+        "active": false
+      },
+      {
+        "name": "Pete Quinzio",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/peter-quinzio-26083a35",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e95bef4a9fd59491bdf3fab81ee4a4fc89118bcf.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -78,7 +94,33 @@
     "formerNames": [
       "Atomwise"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abraham Heifets",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/abrahamheifets/",
+        "twitter": "https://twitter.com/AbeHeifets",
+        "bio": "Founder and CEO of A Company in Stealth Mode. Previously, cofounded Atomwise, the first company to deploy deep learning for structure-based drug design ($220+ million in funding; 100 hires; signed $5B in total partnership value with Sanofi, Bayer, Eli Lilly, etc; ran largest AI-driven drug discovery experiment w/ 600+ researchers in 30 countries). Even more previous: PhD @ U of Toronto; inventor on 15 patents + applications; IBM Research; AI for Cornell’s world champion robotic soccer team.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/571a64309f08a9ce37f2b403541f4d87c8410311.jpg",
+        "active": false
+      },
+      {
+        "name": "Alex Levy",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/levyalex",
+        "bio": "Leveraging AI to revolutionize the physical sciences, Alex Levy is the CEO and co-founder of Atmo, the leading company integrating AI into global weather forecasting. Previously, he co-founded Atomwise (W15), a pioneering AI company in small molecule drug discovery, boasting over 800 active programs and $1 billion in pharmaceutical partnerships. An alumnus of the University of Toronto, he began his career by leading a computer vision research lab within the Computer Science Department.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9d6b2d29f328539e24d2cb0bac16217cc3f8838b.jpg",
+        "active": false
+      },
+      {
+        "name": "Izhar Wallach",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/izhar-wallach/11/38/a04",
+        "bio": "-",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0dd953a0f7260cfc91ec2e0021a7c37e4238d45d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -122,7 +164,14 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gabriel Lopez",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/gabriel-lopez-17b94410b?trk=nav_responsive_tab_profile",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1a43aeb91b950ff7d5bd688f68bd3d7471b10577.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -163,7 +212,20 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew Garazha",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/garazha/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b2fe9db2ae1be10198b1053682fb59ad55e404d0.jpg"
+      },
+      {
+        "name": "Anton Buzdin",
+        "role": "Founder/CSO",
+        "linkedin": "https://www.linkedin.com/in/anton-buzdin-8284972",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/645b94e854eaa634f8ab2e93480e9e5f87488952.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -209,7 +271,16 @@
       "Lifengine Animal Health Laboratories",
       "Incorporated"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Wesley Wierson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wesley-wierson",
+        "twitter": "https://www.twitter.com/dna4cy",
+        "bio": "I am a scientist and entrepreneur applying my expertise in gene editing towards solving consumer level problems in society, first focused on building curative cancer therapies for pets, and eventually their owners. Through my time at LEAH Labs, I've also found a passion for biotech business model innovation through regulatory arbitrage - e.g. CAR-T in pets is regulated by USDA, not FDA, thus we can get to market 2-3x faster and for 500x less capital than human CAR-T",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8f1452b8b0f4c51e048283655f5bf6dd88481a83.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -249,7 +320,22 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aaron Lazarus",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aaron-lazarus-b106b04a/",
+        "twitter": "https://twitter.com/AaronLazarus5",
+        "bio": "I am the former founder and CEO of EncepHeal Therapeutics, developing medications for substance abuse. Prior to EncepHeal, I graduated with my undergraduate and graduate degrees from Wake Forest University. I currently live in North Carolina, but I am originally from South Jersey. When I am not working, I try to go skiing, which is unfortunately hard to do living in North Carolina. I am the most accessible over email.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4df8e0795f5598ff219bd5bce41dcd3c2ed9ed47.jpg"
+      },
+      {
+        "name": "Omeed Rahimi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/omeed-rahimi-0a544914/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2012eb343c801411f8e0c34fc03e61ec486cca41.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -293,7 +379,14 @@
     "formerNames": [
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ritu Lal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ritu-lal-ph-d-m-s-management-2077953/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/836e1fb5bad3f1eeaab03d4770da1f94fd329128.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -338,7 +431,14 @@
     "formerNames": [
       "Arpeggio Biosciences"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joey Azofeifa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joey-azofeifa-060070130/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e54ca8af79831aff4f578dbb2be13abee5368e30.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -380,7 +480,24 @@
     "teamSize": 52,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jeremy Grushcow",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jeremygrushcow/",
+        "twitter": "https://twitter.com/crossborderbio",
+        "bio": "Ph.D. in Molecular Genetics and Cell Biology (University of Chicago, 2000); J.D. with Honors (University of Chicago Law School, 2003). Previously: CBO, Sequence Bio S19 (Raised >$10m; LOIs signed with Sema4, Helix and Biogen); EVP, Strategic Development, Antibe Therapeutics (International partnerships, public company financings and disclosures; preclinical through Phase 1 for a novel pain therapeutic) Best dog dad ever; 7 out of 10 human dad.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ff044c20376dd75fc72517397eda346a50760291.jpg",
+        "active": false
+      },
+      {
+        "name": "Chris Gardner",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chriscgardner/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1d75431e733272a4e4f7fa001c7dce0ed6443c81.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -485,7 +602,16 @@
     "formerNames": [
       "Weatherwax Bio"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Armand Cognetta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/armandcognetta/",
+        "twitter": "https://twitter.com/armandcognetta",
+        "bio": "Armand completed his PhD in Chemical Biology at the Scripps Research Institute under the supervision of Dr. Benjamin F. Cravatt. There he co-authored 19 scientific publications in prestigious journals such as Cell, Nature, and Science, as well as multiple patents, including a portion of the foundational IP for Abide Therapeutics (acq. Lundbeck) and Vividion Therapeutics (acq. Bayer). Prior to founding GP he was an early employee at the Flagship Pioneering start-up Inzen Tx (now Sonata).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0362d411a5c6d976a0f2faa0d83049484125f5ae.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -530,7 +656,20 @@
     "formerNames": [
       "Altay Therapeutics Inc"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ali Ozes",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ali-ozes-9694621b/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1105af78f970befcd33feac20c237259355ec65d.jpg"
+      },
+      {
+        "name": "Osman Ozes",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/osman-nidai-ozes-ph-d-aa365b45/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/53505b379e81a9317bb391b5b16029909f0265a0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -577,7 +716,22 @@
     "formerNames": [
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chun-Hao Huang",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/chun-hao-huang/",
+        "bio": "Dr. Huang is Co-Founder and CEO of Algen, with the mission to revolutionize therapeutic discovery through CRISPR gene-modulation and frontier AI. A genetic engineer, drug developer and AI entrepreneur, he received postdoc fellow at UC Berkeley under Nobel Laureate Jennifer Doudna and pioneered disease-relevant models using CRISPR. Dr. Huang’s accolades include an Edison Award, TIME Best Inventions of 2026, and being named a Lindau Nobel Laureate Meeting Fellow and Innovators Under 35.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3773ed07288c3da02c97b03e87fbbb26af3898be.jpg"
+      },
+      {
+        "name": "Christine Du",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-d",
+        "bio": "Co-Founder and CBO, Algen",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8eb1305fac0501004b534329a48f3044aef9337e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

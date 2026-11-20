@@ -29,7 +29,15 @@
     "teamSize": 45,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sumedh Pathak",
+        "role": "Founder/Engineer",
+        "linkedin": "",
+        "bio": "Founder at Citus Data, Acquired by Microsoft. https://blogs.microsoft.com/blog/2019/01/24/microsoft-acquires-citus-data-re-affirming-its-commitment-to-open-source-and-accelerating-azure-postgresql-performance-and-scale/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/98785e6cd9e8b6525b29457fe1f3333d63c20532.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -72,7 +80,21 @@
     "formerNames": [
       "MongoHQ"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jason McCay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jasonmccay/",
+        "twitter": "https://twitter.com/jasonmccay",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ee95ee3bf8dec76533deb2a683effa77835a3e58.jpg"
+      },
+      {
+        "name": "Ben Wyrosdick",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bwyrosdick/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bf47f4b4e25ec569495b37e8627ddcfc1e7bfb03.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -114,7 +136,26 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Suhail Doshi",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/suhaildoshi/",
+        "twitter": "https://x.com/suhail",
+        "bio": "Founder at Particle. Previously founded Mixpanel (YC S09), scaling it from 0 to 300+ employees and nearly $100M ARR as CEO over a decade. Also founded Playground (YC S19). Started coding at Arizona State before dropping out to build Mixpanel from his bedroom.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d176baace999ea87f76362b31b226ac86041250b.jpg",
+        "active": false
+      },
+      {
+        "name": "Tim Trefren",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/timtrefren",
+        "twitter": "https://twitter.com/ttrefren",
+        "bio": "Now working on climate change at Recheck. Previously founder at Mixpanel (2009-2019).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8c434afa1b4a010e62cf821387a6330ab8ea4694.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -156,7 +197,16 @@
     "teamSize": 210,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Dix",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/pauldix/",
+        "twitter": "https://twitter.com/pauldix",
+        "bio": "Co-founder and CTO of InfluxData, the company behind InfluxDB, an open source time series database. Creator of NYC Machine Learning Meetup, author of Service Oriented Design with Ruby, and series editor of Addison Wesley's Data & Analytics book and video series.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/08f7956ada5049ce69ab9169b75f8e3c0efe4f24.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -200,7 +250,21 @@
       "EQ Alpha Technology",
       "KeyDB Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "John Sully",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jdsully/",
+        "bio": "John wrote his first program at the age of 8, and since then has a history of pushing the limits of technology. At Microsoft John was responsible for ensuring Excel’s performance was orders of magnitude faster than the competition. John also lead a team effort to port Excel’s grid rendering stack to Android and iOS ensuring Excel would be a dominate player in a mobile first world.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d95e075a27ca26aae6b42abbab2dd227c7dcd71e.jpg"
+      },
+      {
+        "name": "Ben Schermel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ben-schermel-b68105179/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/90bce9a104dcc3787d67b577b75ea9d3613657d4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -243,7 +307,24 @@
     "teamSize": 120,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Copplestone",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/paulcopplestone/",
+        "twitter": "https://twitter.com/kiwicopple",
+        "bio": "CEO, Supabase.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d8e9228a74c698fae602238ea69bf4699490a5e7.jpg"
+      },
+      {
+        "name": "Ant Wilson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anthony-wilson-46179937/",
+        "twitter": "https://twitter.com/antwilson",
+        "bio": "CTO @ Supabase (YC S20)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7894aeaa75df52968edeaadd9115e60b84aeb442.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -29,7 +29,14 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Paul Chou",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/plchou",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b270b3e9d1eb77f7a658abb60a4c57fdedb86c30.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -74,7 +81,22 @@
     "formerNames": [
       "Foodie"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Richard Wu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wu-richard/",
+        "twitter": "https://www.twitter.com/heyrichardwu",
+        "bio": "Went through YC in winter of 2019 with the food review app Simmer. We were trying to build Yelp for dishes. Beforehand, I bootstrapped a social impact startup called Kitchenet. Now I'm the director of product at Woflow, which is building the automation infrastructure for commerce.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a79fd88191ef2e424008ea6cd26864c9d16023d5.jpg"
+      },
+      {
+        "name": "Vaibhav Verma",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/vaibhavverma9",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7ecf1abb098132036cfe8c5ba067149440805568.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

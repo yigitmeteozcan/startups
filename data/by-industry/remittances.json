@@ -29,7 +29,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Barak Ben Ezer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/barakb",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a0a05fcdbb16eb65de5900705032df7e886658f1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -74,7 +81,17 @@
       "GreenTiger",
       "Swadesh Bank"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Prateek Swain",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/prateekswain/",
+        "twitter": "https://twitter.com/prateekswain22",
+        "bio": "Building the US Bank for the Indian diaspora at Swadesh. Previously worked at Microsoft, Reactive Robotics, and Westbridge Capital. Started HackIndia (India's largest hackathon) and MakeVenturesPrinceton (Princeton's first student run incubator). Princeton University Computer Science '19.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/414f2aaa819f0786c84eb1e6b5c2b7c26622713a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -114,7 +131,23 @@
     "teamSize": 55,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tope Alabi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/topealabi",
+        "twitter": "https://twitter.com/topealabi_",
+        "bio": "Co-founder at afriexapp.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/db167e107d02de914fac68e19868fcba0c3fd583.jpg"
+      },
+      {
+        "name": "John Obirije",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/obirije-john-a2403310a/",
+        "bio": "Co-Founder & CTO, Afriex",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/64a8f6d339b8e29f8aa40f365e35035a842e05ab.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

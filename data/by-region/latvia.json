@@ -29,7 +29,20 @@
     "teamSize": 250,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dainis Kruze",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/dainis-kruze-63b19013/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0673c4ae88fdd317151c82b27cdf26bc576aa3ff.jpg"
+      },
+      {
+        "name": "Janis Putrams",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/janis-putrams-2ab19345/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b10c75ee12c8442b63b1b7c8d269bada57b6097.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

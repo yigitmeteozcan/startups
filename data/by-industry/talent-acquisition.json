@@ -30,7 +30,33 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nate Smith",
+        "role": "Founder/CEO/CTO",
+        "linkedin": "https://www.linkedin.com/in/nateps/",
+        "twitter": "https://twitter.com/nateps",
+        "bio": "Nate co-founded Lever, leading as both CEO and CTO. He is passionate about software’s potential for business transformation and user experience. Prior to Lever, Nate was a product manager on Google Analytics and the Google Search team. He led the first major redesign of Google’s image search UI, which launched in July 2010. Nate received a degree in electrical and computer engineering from Olin College, at which he was a member of the school’s second ever graduating class.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cc47ef3be17427668c7532628012153af9a58039.jpg",
+        "active": false
+      },
+      {
+        "name": "Sarah Nahm",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/sarahnahm",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a8a07feada98c921a4c72dc43db0912aed3692f.jpg",
+        "active": false
+      },
+      {
+        "name": "Brian Noguchi",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/briannoguchi",
+        "twitter": "https://twitter.com/briannoguchi",
+        "bio": "Founder of Smartcuts (W21) and cofounder of Lever (S12).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9d657196165fc57d2a6d843b6711475ca60c6b29.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -70,7 +96,16 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Fouad Matin",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/fouadmatin",
+        "twitter": "https://twitter.com/fouadmatin",
+        "bio": "Indent, CEO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4060822eb9c37e0395fc7d85efe57b7fed15e1d0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -116,7 +151,15 @@
     "formerNames": [
       "Flo Recruit"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Katherine Allen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/katherine-allen-flo/",
+        "bio": "Building Flo in Austin, Texas.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1fcc9830b7833a18094beecc8bc3be47f55d7522.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -158,7 +201,22 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shums Kassam",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shumskassam/",
+        "bio": "Co-founder/CTO of Hatchways (S19), Co-founder/CTO of Blynk (acquired by Kik), grad from UofT EngSci",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/173e2e3bc0fee2a15dcc9e1cb8eb8d0ae845ea1e.jpg"
+      },
+      {
+        "name": "Jaclyn Ling",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jaclynling/",
+        "bio": "Co-founder of Hatchways. Prev. co-founder of Blynk (acq. by Kik). I focus on product + sales.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/154cbe9486c0ec21779685f3c1c125cda5ff8f5b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -199,7 +257,36 @@
     "teamSize": 100,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Martin Borchardt",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/martin-borchardt/",
+        "twitter": "https://twitter.com/martinborchardt",
+        "bio": "Serial entrepreneur based in Argentina. Founder & CEO of HENRY. Previously co-founded Nubi (exit), a cross-border payments fintech that partnered with PayPal and TransferWise and was later acquired by Comafi Bank. Also co-founded VerdeAgua (exit), the largest hydroponic company in Uruguay, acquired by IBF Group.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/020edf92c2beb0e159245e604bb24a47cf04a421.jpg"
+      },
+      {
+        "name": "Manuel Barna Ferrés",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mbarnaferres/",
+        "twitter": "https://twitter.com/barnamanuel",
+        "bio": "Co-Founder of Henry, LATAM's online coding bootcamp in exchange of an ISA. Economist and MBA, My areas of expertise are product management, business development, financial analysis, operations, churn and customer experience.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/26ef561eca6f201ecd9f4a3b9ae57801f45999a3.jpg"
+      },
+      {
+        "name": "Luz Borchardt",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/luzborchardt/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/90d2b2932b3ed7468869cf6440718d86bc8c4795.jpg"
+      },
+      {
+        "name": "Leonardo Maglia",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/leonardomaglia/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ad0a473a38b9878df0ed92873b13d040c40662c0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

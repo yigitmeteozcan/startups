@@ -27,7 +27,14 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jesse Patel",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ddba1de75e0155c9c244ce22ebdb923aa9694030.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -66,7 +73,23 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tom Giannattasio",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/attasi",
+        "twitter": "https://twitter.com/attasi",
+        "bio": "Currently working on Clover. Previously led a team working on design tools at InVision. Founded Macaw, which InVision acquired in 2015. Also worked at nclud designing products for Apple and Oracle. In 2012, I went to Twitter by way of an acquihire. I left shortly after to help MIT design and launch edX. http://attasi.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/727e12b0349947fb805b72f83a1c5319c37adf5a.jpg"
+      },
+      {
+        "name": "Adam Christ",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adamchrist/",
+        "bio": "Software engineer primarily focused in Javascript. Co-founder of Macaw which was acquired by InVision App, Inc. Currently living in Austin, TX.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5811a3a1d23896b0529e5c723d86363298d1696.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

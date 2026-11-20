@@ -285,7 +285,39 @@
     "teamSize": 36,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ray Chan",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/raychan",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6c67f07d244f0e73bad30c8b7d819a1a767e06e5.jpg"
+      },
+      {
+        "name": "Chris Chan",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/705a980d3a076cbc2409a84bab0930f2f638f5fe.jpg"
+      },
+      {
+        "name": "Derek Chan",
+        "role": "Founder/Head of Engineer",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5c404f9eb9b792cab1258a28b90940969eb2b990.jpg"
+      },
+      {
+        "name": "Marco Fung",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a4bc1bd62192d9955d6e3f8aa697566e5c4ac3b4.jpg"
+      },
+      {
+        "name": "Brian Yu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/barelyanything/",
+        "twitter": "https://twitter.com/barelyanything",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a6310dead57a28e80975a91cfcf121528f2374ef.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -325,7 +357,26 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Roy Law",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/roy-law/63/b2b/4b",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5f2488d2682d2555d26eb3b5b256d56db070d0c4.jpg"
+      },
+      {
+        "name": "Ming Lo",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/loming/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7681a9faa4d2b33f14dd6ee9137c8cb0da3a2162.jpg"
+      },
+      {
+        "name": "Jon Yip",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f37eb9eb52b0ec204832b487fd36ae7ed4bc1588.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -368,7 +419,14 @@
     "formerNames": [
       "Cadobox"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matt Li",
+        "role": "Founder/Director",
+        "linkedin": "http://hk.linkedin.com/pub/matt-li/16/4b1/38b",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b68104fcc949e6a3978f797bacb3535792eabc6b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -411,7 +469,23 @@
     "formerNames": [
       "Measurable AI (MailTime)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Heatherm Huang",
+        "role": "Founder/CEO",
+        "linkedin": "http://linkedin.com/in/heathermhuang",
+        "twitter": "http://twitter.com/heathermhuang",
+        "bio": "https://mailtime.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fa2910f3cac7d8a7a263f4e9c174cb3ed2439597.jpg"
+      },
+      {
+        "name": "Gary Lau",
+        "role": "Founder",
+        "linkedin": "http://hk.linkedin.com/pub/gary-lau/28/51b/a55",
+        "bio": "MailTime Cofounder & CTO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3b0d2e4d25c84d8fd828eb7078fc243726d0cf75.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1583,6 +1657,620 @@
     "alsoIn": []
   },
   {
+    "id": "ef-neptune-robotics",
+    "source": "ef",
+    "name": "Neptune Robotics",
+    "description": "Robotic cleaning for the shipping industry.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Industrial & Manufacturing",
+      "Robotics"
+    ],
+    "year": 2018,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Elizabeth Chan",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/elizabethcsw/"
+      },
+      {
+        "name": "Zhuo Quan (Jacky) Im",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/jacky-im-324a66148/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": "Granite Asia"
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-caelus-tech",
+    "source": "ef",
+    "name": "Caelus Tech",
+    "description": "High-performance ADC/DAC IP cores for electronics.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Industrial & Manufacturing",
+      "Telecoms & Media"
+    ],
+    "year": 2018,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Morris He",
+        "role": "CEO",
+        "linkedin": ""
+      },
+      {
+        "name": "Chi Fung Lok",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/chi-fung-lok-0370a932/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-volt14-solutions",
+    "source": "ef",
+    "name": "Volt14 Solutions",
+    "description": "Silicon anodes for higher-density batteries.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & Utilities",
+      "Industrial & Manufacturing"
+    ],
+    "year": 2018,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Animesh Jhar",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/animesh-kumar-jha-5b7310b4/"
+      },
+      {
+        "name": "Adam Haldar",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/arindamhaldar2018/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-rc-labs",
+    "source": "ef",
+    "name": "RC Labs",
+    "description": "Adaptive battery management for EV and grid storage.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Energy & Utilities"
+    ],
+    "year": 2020,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Raghu Raman",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/s-raghuraman/"
+      },
+      {
+        "name": "Yat Chi Fong",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/yat-chi-fong-9b257a51/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-carnot-innovations",
+    "source": "ef",
+    "name": "Carnot Innovations",
+    "description": "AI predictive maintenance for commercial buildings.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Construction & Real Estate",
+      "Energy & Utilities"
+    ],
+    "year": 2018,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ashish Justin",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/ashishjustin/"
+      },
+      {
+        "name": "Chris Choy",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/christlc/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-endovision",
+    "source": "ef",
+    "name": "EndoVision",
+    "description": "AI-driven diagnostics for upper GI endoscopy.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2018,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Saurabh Jejurikar",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/saurabh-jejurikar-78076b97/"
+      },
+      {
+        "name": "Deepanshu Malik",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/deepanshu-malik-b8403414/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-intensel",
+    "source": "ef",
+    "name": "Intensel",
+    "description": "The digital solution for insurable, climate-resilient real assets.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Climate",
+      "Financial Services"
+    ],
+    "year": 2019,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Entela Benz",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/entelabenz/"
+      },
+      {
+        "name": "Saurabh Singh",
+        "role": "Founding CTO",
+        "linkedin": "https://www.linkedin.com/in/saurabh3635/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-pixcap",
+    "source": "ef",
+    "name": "Pixcap",
+    "description": "Web-based 3D editing for design teams.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Marketing & Advertising",
+      "Telecoms & Media"
+    ],
+    "year": 2020,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vincent Looi",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/cj-looi/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-bioponics",
+    "source": "ef",
+    "name": "Bioponics",
+    "description": "CRISPR-based bio-fertilizers for farmers.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Agriculture & Farming",
+      "Biotechnology"
+    ],
+    "year": 2020,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Hubert Tse",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/hubert-tse"
+      },
+      {
+        "name": "Akhilesh Chaurasia",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/akhilesh-k-chaurasia-0a6a4a19/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-neurum",
+    "source": "ef",
+    "name": "Neurum",
+    "description": "Personalized mental-health insights for teams.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2018,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Megan Lam",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/meglam/"
+      },
+      {
+        "name": "Caleb Chiu",
+        "role": "Founding CTO",
+        "linkedin": "https://www.linkedin.com/in/calebchiu/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-mechanix",
+    "source": "ef",
+    "name": "MechaniX",
+    "description": "Synthetic data generation for AI teams.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Financial Services"
+    ],
+    "year": 2019,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "David Au",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/david-au-28669198"
+      },
+      {
+        "name": "Thomas Yue",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/tclyue/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-spidfier",
+    "source": "ef",
+    "name": "Spidfier",
+    "description": "DNA sequencing for seafood authentication.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Agriculture & Farming",
+      "Biotechnology"
+    ],
+    "year": 2019,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Subleen Kaur",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/subleen-k/"
+      },
+      {
+        "name": "Syed Shakeel Ahmed",
+        "role": "Founding CTO",
+        "linkedin": "https://www.linkedin.com/in/syed-shakeel-ahmed-8a409a163/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-ai-motion",
+    "source": "ef",
+    "name": "AI Motion",
+    "description": "AI motion capture for youth athletes.",
+    "logo": "",
+    "website": "",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Education"
+    ],
+    "year": 2018,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Elvis Wang",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/yufan-elvis-wang-809b47bb/"
+      },
+      {
+        "name": "Sean Chen",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/sean-chen-68451541/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong",
+      "investor": ""
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
     "id": "plugandplay-deep-longevity",
     "source": "plugandplay",
     "name": "Deep Longevity",
@@ -1920,5 +2608,126 @@
     "alsoIn": [],
     "listed": false,
     "delistedAt": "2026-11-18"
+  },
+  {
+    "id": "sparklabs-zhenhub",
+    "source": "sparklabs",
+    "name": "ZhenHub",
+    "description": "ZhenHub provides a platform that allows users to execute logistics operations with a single click, making global e-commerce easier and more accessible. Through the 'sharing economy,' ZhenHub offers an affordable logistics solution that makes use of available s",
+    "logo": "https://www.sparklabs.co.kr/en/data/file/portfolio/thumb-3717456480_J5DsHhaG_c0d949390a24d3f375693a1459bf572e958bcf52_400x225.jpg",
+    "website": "https://zhenhub.com/",
+    "sourceUrl": "https://www.sparklabs.co.kr/en/portfolio/zhenhub/",
+    "location": "Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Supply Chain & Logistics"
+    ],
+    "year": 2016,
+    "program": "SparkLabs Batch 11",
+    "programSlugs": [
+      "sparklabs"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Vincent Poon",
+        "role": "CEO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/zhenhub/",
+      "twitter": "https://www.notion.so",
+      "facebook": "https://www.facebook.com/zhenhub",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong"
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "founderinstitute-expando",
+    "source": "founderinstitute",
+    "name": "Expando",
+    "description": "Expando® is an AI-powered referral software for B2B SaaS companies to leverage APAC's largest partner ecosystem to build a predictable referral pipeline. The company has raised $175k as the first investment in 2023.",
+    "logo": "https://fi-hatchbox-production-active-storage-blobs.s3.amazonaws.com/9q5coixxtmixqwrkbd41gqtkc281",
+    "website": "https://expando.world/",
+    "location": "Hong Kong, Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": "",
+    "program": "Founder Institute",
+    "programSlugs": [
+      "founder-institute"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Xavier Roso",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong"
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
+  },
+  {
+    "id": "founderinstitute-capsl-entertainment",
+    "source": "founderinstitute",
+    "name": "Capsl Entertainment",
+    "description": "CAPSL Entertainment is the developer of mobile esports tournament platform BAASH. The company raised more than USD $400k, and announced BAASH was acquired by Coda Payments in Q4 2021.",
+    "logo": "https://fi-hatchbox-production-active-storage-blobs.s3.amazonaws.com/wz7nd0rkulcnem20k86tf1g499sa",
+    "website": "https://linktr.ee/capsl",
+    "location": "Hong Kong, Hong Kong",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": "",
+    "program": "Founder Institute",
+    "programSlugs": [
+      "founder-institute"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "acquired",
+    "founders": [
+      {
+        "name": "Paddy Markham",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Hong Kong"
+    },
+    "country": "Hong Kong",
+    "alsoIn": []
   }
 ]

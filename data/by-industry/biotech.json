@@ -31,7 +31,14 @@
     "teamSize": 50,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Elizabeth Iorns",
+        "role": "Founder/President & CEO; Chairman of the Board",
+        "linkedin": "https://www.linkedin.com/in/elizabethiorns/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c506e33f53086e59c43d0292a563e061ea9a95b2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -71,7 +78,14 @@
     "isHiring": false,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sajith Wickramasekara",
+        "role": "Founder/CEO",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ab629d48365346c6ee6623d9db5a41e61b422ee8.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -111,7 +125,30 @@
     "isHiring": false,
     "stage": "Early",
     "nonprofit": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Naveen Jain",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/naveenkjain",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7e43dacb8515f0fc9fa237b3ea77725d1773593d.jpg",
+        "active": false
+      },
+      {
+        "name": "Reid Rubsamen",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/reidrubsamenmd",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c1b6f795b34e6ca3c6d69711bd7b6b51246d9c34.jpg",
+        "active": false
+      },
+      {
+        "name": "Ian Cinnamon",
+        "role": "Founder/Director of Strategy",
+        "linkedin": "http://linkedin.com/in/iancinnamon",
+        "bio": "http://linkedin.com/in/iancinnamon",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e42ce3935fd9002715d7ea14da5ce5b180e338af.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -153,7 +190,16 @@
     "teamSize": 16,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nick Greenfield",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nickgreenfield/",
+        "twitter": "https://twitter.com/boydgreenfield",
+        "bio": "Founded One Codex (YC S14), the leading microbial genomics data platform, acquired by Invitae (NVTA) in February 2021 and spun out via an employee buyout in late 2022. VP of Product & Tech (Biosecurity) at Ginkgo Bioworks 2022-2023 (DNA, also YC S14). Reformed management consultant turned software, data, and bio nerd. Skier, cheese-lover, Vermonter, based in VT and Cambridge MA.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f42aeac5527d4a0c4cce0950a5a86a60c323588c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -196,7 +242,23 @@
     "isHiring": true,
     "stage": "Growth",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matthew De Silva",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/matthewdesilva/",
+        "twitter": "https://twitter.com/MDe_Silva",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9f6eebea28438330b0e1b0a312affcdf60fa89eb.jpg",
+        "active": false
+      },
+      {
+        "name": "Pete Quinzio",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/peter-quinzio-26083a35",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e95bef4a9fd59491bdf3fab81ee4a4fc89118bcf.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -237,7 +299,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Saurabh Srivastava",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/saurabh-sriv/",
+        "twitter": "https://x.com/_saurabh",
+        "bio": "Work on building code capabilities for Nemotron at NVIDIA. Primarily focus is on pre-training, evals and data; some post-training. Previously: * Head of Code Research @ Essential AI (Ashish Vaswani's co) * YC W15 and S18: Code synthesis applied to bio and desktop automations respectively. * PhD / Postdoc: Code synthesis using theorem provers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/372a965319497524c71bec098dca39064071239f.jpg",
+        "active": false
+      },
+      {
+        "name": "Chris Anderson",
+        "role": "Founder/CSO",
+        "linkedin": "https://www.linkedin.com/profile/view?id=337176962",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b4d6e56618c267c55cbf44fb5fdb88f666e3dbe0.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -284,7 +363,33 @@
     "formerNames": [
       "Atomwise"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Abraham Heifets",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/abrahamheifets/",
+        "twitter": "https://twitter.com/AbeHeifets",
+        "bio": "Founder and CEO of A Company in Stealth Mode. Previously, cofounded Atomwise, the first company to deploy deep learning for structure-based drug design ($220+ million in funding; 100 hires; signed $5B in total partnership value with Sanofi, Bayer, Eli Lilly, etc; ran largest AI-driven drug discovery experiment w/ 600+ researchers in 30 countries). Even more previous: PhD @ U of Toronto; inventor on 15 patents + applications; IBM Research; AI for Cornell’s world champion robotic soccer team.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/571a64309f08a9ce37f2b403541f4d87c8410311.jpg",
+        "active": false
+      },
+      {
+        "name": "Alex Levy",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/levyalex",
+        "bio": "Leveraging AI to revolutionize the physical sciences, Alex Levy is the CEO and co-founder of Atmo, the leading company integrating AI into global weather forecasting. Previously, he co-founded Atomwise (W15), a pioneering AI company in small molecule drug discovery, boasting over 800 active programs and $1 billion in pharmaceutical partnerships. An alumnus of the University of Toronto, he began his career by leading a computer vision research lab within the Computer Science Department.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9d6b2d29f328539e24d2cb0bac16217cc3f8838b.jpg",
+        "active": false
+      },
+      {
+        "name": "Izhar Wallach",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/izhar-wallach/11/38/a04",
+        "bio": "-",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0dd953a0f7260cfc91ec2e0021a7c37e4238d45d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -325,7 +430,17 @@
     "teamSize": 13,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Max Hodak",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/maxhodak",
+        "twitter": "https://twitter.com/max_hodak",
+        "bio": "Founder at Science. Previously founded Transcriptic (YC W15), a cloud lab platform. Started his first company MyFit in 2008. Studied Biomedical Engineering at Duke, where he also conducted research at the Medical Center.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ca63c11a962e8d5955a3715bfeeb89d3a2f31258.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -369,7 +484,15 @@
     "formerNames": [
       "Tambo"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jose M. Mejia Oneto",
+        "role": "Founder/CEO",
+        "linkedin": "http://www.linkedin.com/in/joseperu/",
+        "bio": "José M Mejía Oneto is a physician scientist with training in Organic Chemistry at Emory and Orthopedics at UC Davis. During his clinical training, Jose recognized the need for a better way to get drugs to the right location in the body. Joined the YC program in 2015 with Tambo and in 2018 its spinoff Shasqi, focussing on pioneering click chemistry in humans for better cancer drugs. Shasqi has raised a more than $60M in funding, with its lead asset in Phase 2 and a growing pipeline of drugs.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/86774d5f2ca7067889869bdc0738d186329cf984.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -410,7 +533,23 @@
     "teamSize": 13,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dave Messina",
+        "role": "Founder/COO",
+        "linkedin": "http://linkedin.com/in/davemessina",
+        "twitter": "https://twitter.com/davemessina",
+        "bio": "Dr. Dave Messina has over 25 years of experience in healthcare and has been leading healthcare investments at Pioneer Fund since 2019. He has led 100+ deals including top portfolio companies like Gilgamesh ($1B exit to Abbvie) and Assort Health ($500M+ valuation). Previously he founded the RNA and machine learning company Cofactor Genomics (YC S15) and led it to national Medicare reimbursement. Dr. Messina also worked on the Human Genome Project.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ab073e2e48634af8f85e9039dd8a789ce8bfdee7.jpg",
+        "active": false
+      },
+      {
+        "name": "Jarret Glasscock",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jarretglasscock",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e79cc3d931002836ab378b3f801270df9fc3504c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -450,7 +589,14 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tuval Ben-Yehezkel",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/tuval-ben-yehezkel-04608424",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6435b8c87088bc68324de7128b04f4a96f0a616.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -491,7 +637,27 @@
     "teamSize": 26,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rodrigo Nuno",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rodrigo-nuno-585570a/",
+        "bio": "Founder on Unima. I worked on varios different aspects of the company. Was in change of manufacturing veterinary products, quality control, manufacturing, purchases, operations, contract manufacturing and IT. When we transition Unima from vet product to diagnostic, I continue working as head of manufacturing and started working as Director of engineering. As Director of engineering I was in charge of insfrastructure, architecture, developing, hiring and all tasks related to a small team.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4ec803dc3eac6ad54a4545c0ffbd4862d18434d3.jpg"
+      },
+      {
+        "name": "Maria Laura Mendoza",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/lauramendoza",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c2360239475fd8f11b95ae5d74958215f3a0c497.jpg"
+      },
+      {
+        "name": "Alejandro Nuño Ayala",
+        "role": "Founder/R&D Director",
+        "linkedin": "https://www.linkedin.com/in/alejandronuno/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2020ff0e8bb249bb6d887b5a80b36a2079ac7a94.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -533,7 +699,30 @@
     "teamSize": 300,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nicholas Wagner",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nicholashwagner",
+        "bio": "I'm working on feeding Quant Research to Generative AI as a service. BA Mathematics - Lehigh University '05 MS Analytical Finance - Lehigh University '08 MBA Finance - University of Wisconsin-Madison Applied Security Analysis Program '12 Co-founder - Opentrons Labware - MVP Software '13-16",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/54cf64f9527299b19b692098a26925d879b974ce.jpg",
+        "active": false
+      },
+      {
+        "name": "Will Canine",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/will-canine-602a9266",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/77b5f65539c11bc54211d9f4b493b9cb9d2797fb.jpg",
+        "active": false
+      },
+      {
+        "name": "Chiu Chau",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/pub/chiu-chau/b/297/bb2",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/be84f368d30a128b249cd97a617c9b2dcc00518f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -576,7 +765,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ke Cheng",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/pub/ke-cheng/0/537/b18 Richard Losick Teaching Fellow for Molecular Biology (MCB52). 09/07-02/08",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/98619fa4fe2a88c2545a3bc5ee2fd59e4fb60665.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -620,7 +817,14 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gabriel Lopez",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/gabriel-lopez-17b94410b?trk=nav_responsive_tab_profile",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1a43aeb91b950ff7d5bd688f68bd3d7471b10577.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -662,7 +866,14 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anup Singh",
+        "role": "Founder/Chief Scientific Officer",
+        "linkedin": "https://www.linkedin.com/in/anup-singh-229678b3",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e7314a17a2bd4ce92f872cfa84b6324c384b9e5e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -705,7 +916,14 @@
     "teamSize": 22,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Nikolai Eroshenko",
+        "role": "Founder/CSO",
+        "linkedin": "https://www.linkedin.com/in/nikolai-eroshenko-668998119",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f1d37eb73289b63509a03de868d65f0202150337.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -746,7 +964,32 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Karen Eaton",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/eatonkaren",
+        "twitter": "https://twitter.com/DrKeaton",
+        "bio": "Highly motivated to advance the healthcare field and I aspire to use both my business skills and scientific background to forward the medical industry. Interested in all things bio: cell/gene therapy, computational enzyme design, immunology, diagnostics, health devices, and so much more.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/639e2f30bccf2012a5bb44fc4fa57df1c911803a.jpg",
+        "active": false
+      },
+      {
+        "name": "Matthew Scholz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthewscholz",
+        "bio": "Matthew is a serial entrepreneur with a background in gene therapy and computer security. He has founded or co-founded five biotechnology companies and has played an integral role in the development of several advanced therapeutics, including three first-in-class treatment modalities. He is the author of dozens of patents covering innovations ranging from novel transfection technologies, immune cell programming, in vivo production of therapeutic proteins, senolytics, longevity, and oncology.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7b68855b254096395b46dc73e09be604599a469d.jpg",
+        "active": false
+      },
+      {
+        "name": "Chris Pihl",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-pihl-4a84b1a/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/992f1901f2931a53242ae96e2364a9275135655f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -792,7 +1035,28 @@
       "Lucy",
       "Lucy Nicotine"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "John Coogan",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/jacoogan",
+        "twitter": "http://www.twitter.com/johncoogan",
+        "bio": "Entrepreneur typically focused on the technology side of consumer packaged goods. Based in Los Angeles. Interested in computer graphics, deep learning, and marketing. Occasional angel investor. Follow me on YouTube: https://www.youtube.com/c/johncooganplus",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a21d2c6def50378a6435056746701505367fc8c2.jpg"
+      },
+      {
+        "name": "Samy Hamdouche",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/samy-hamdouche-6aa24738/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6f7d94bea142531e24c6d977edad4a4e0b52e3b9.jpg"
+      },
+      {
+        "name": "David Renteln",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/drenteln",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bf8822d67d41d8245902bfa2872d13d9d2012297.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -839,7 +1103,22 @@
       "Eclosion Technologies",
       "Eclosion"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Trina Chiasson",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/trinac/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/08a2e8c29b349f1f4d24253258d506f32f9ab195.jpg",
+        "active": false
+      },
+      {
+        "name": "James Ricci",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/james-ricci/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f97bb694a6cb905f8e1cf73fdf5c823ff511f8f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -880,7 +1159,20 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shak Lakhani",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/shaklakhani",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f019d04e2b2cdd8b16195cca4cf7d12e9c2cbaf0.jpg"
+      },
+      {
+        "name": "Keean Sarani",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/imkeean",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d85fa265d59bd3388eee431ba95fdf436817a5d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -921,7 +1213,15 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Aurelia Song",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/aurellem",
+        "bio": "MIT grad where I studied old-school AI, last student of Marvin Minsky, created the world's first arbitrary code execution video game speedrun back in the day. I've desperately wanted good preservation for myself and my family since I was 6 years old and first learned that I and everyone in my family would die. Nothing satisfied me so I built it myself. Now I want to see all the cool things people will build when they're building for themselves and their loved ones in 300 years!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d047e9c8d942ae68486d2e5c71b442ca14b47c92.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -963,7 +1263,31 @@
     "teamSize": 29,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ankit Gupta",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ankitvgupta",
+        "twitter": "https://twitter.com/agupta",
+        "bio": "General Partner @ YC. Formerly CTO and Co-Founder at Reverie Labs. We started by building software for pharma companies to make better decisions with cutting-edge AI. We ended as a pharma company developing our own pipeline of assets using our ML tools. We sold Reverie to Ginkgo in February 2024. Previously AB/SM at Harvard in CS. I'm an ML research guy turned infra, full stack, data science, and everything in between.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de1b1c749a204f8c8a286b8cebed321ae1aa8e55.jpg",
+        "active": false
+      },
+      {
+        "name": "Connor Duffy",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/cvduffy",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/eaf7b9618963043e8dcb4f1429d8ec36cc3984ce.jpg",
+        "active": false
+      },
+      {
+        "name": "Jonah Kallenbach",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jonah-kallenbach-5a306985/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6bb87474f25b4af26840e10fdd2421ac9de7e20f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1007,7 +1331,24 @@
     "formerNames": [
       "Culture Robotics"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Will Patrick",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/wgpatrick",
+        "bio": "A founder, engineer, and researcher interested in biology, robotics, fabrication, music, and more. I co-founded Culture Biosciences, where I served as CEO for 8 years, building cloud-based bioprocessing technology.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b6580ba4559964a0410d7bf482f5e223708ebed8.jpg",
+        "active": false
+      },
+      {
+        "name": "Matt Ball",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/mab43",
+        "bio": "https://oakmachine.com",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/058d858e19ac9fcd4c4d3db8f95db9b2e55becdd.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1049,7 +1390,26 @@
     "teamSize": 35,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shara Ticku",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/sharaticku/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0e8105004d4c7323a7a85e48187c8ba890f57625.jpg"
+      },
+      {
+        "name": "David Heller",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/david-heller-343981b2",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/52bc2830998867537bc08e2124fedbfb77b17708.jpg"
+      },
+      {
+        "name": "Harry McNamara",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/harry-mcnamara-92a799163",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bce754cfb9499c1d11cc6be4fdc2ffda2ada2cfc.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1092,7 +1452,14 @@
     "teamSize": 10,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sandeep Dave",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sandeep-dave-439679165",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a3af827406c62207803d154a6bbd849741f4d18c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1135,7 +1502,14 @@
     "formerNames": [
       "Hepatx Corporation"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Eric Schuur",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/eschuur",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1db9c67dab9139fa54637464b54637cf5e1b4ea5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1179,7 +1553,23 @@
     "formerNames": [
       "Phloem biotech"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dhasharath Shrivathsa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dhash-shrivathsa-52b7671a8",
+        "bio": "founder of radix labs (YC S18) — operating systems for biology labs",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1ca67db312ca109f294aaba4715dedb63a077319.jpg",
+        "active": false
+      },
+      {
+        "name": "Ian Paul",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ian-paul",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/80930d342755f76898fd8fccdfb059af18dd7c15.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1220,7 +1610,21 @@
     "teamSize": 18,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sher Butt",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/sherbutt/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1d1694113bbd026ba8acad27f2c89a31bdd78388.jpg"
+      },
+      {
+        "name": "Jacob Vogan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jacob-vogan-885212143",
+        "bio": "Co-founded CB Therapeutics to create new biological supply chains for rare natural products that can help treat disease, increase healthspan, and promote longevity.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/70da1d329f9668d3e97b8940f7bf51eea0fe49b2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1268,7 +1672,22 @@
       "HackScience",
       "Cytera CellWorks"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ali Afshar",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ali-afshar-0246002b/",
+        "twitter": "https://twitter.com/ali110afshar",
+        "bio": "CEO and Co-Founder of Mytos. I'm a mixture between a scientist and an engineer, having solved challenges both using physics/chemistry, as well as through building hardware and software. I aspire to operate at the interface of science and engineering, where low level science translates into meaningful products.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dbd8bf3c4b493e4af2eb28983a3d1c739e16dc08.jpg"
+      },
+      {
+        "name": "Ignacio Willats",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ignaciowillats/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/60fe670640158d428f0a4a4157910977261fd514.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1312,7 +1731,20 @@
     "formerNames": [
       "SF17 Therapeutics"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jason Barbour",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jasondbarbour/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ceb7317422c07a84cb8f50caa71c0a5bac1ce38b.jpg"
+      },
+      {
+        "name": "David Ott",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/davidott4",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c46092f7990fbcd080d8a153f34a2bdee12de287.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1357,7 +1789,14 @@
       "Reformer Therapeutics",
       "Perception Therapeutics"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Omid Karkouti",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/omidkarkouti",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/27a91f6d14eeb2504194e58bdb5bc773716325bd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1398,7 +1837,20 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maddalena Adorno",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/adornomaddalena",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3397ba70f7ec0a6795de85051d1da29ba833e0c7.jpg"
+      },
+      {
+        "name": "Benedetta di Robilant",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/benedetta-di-robilant-a196ba15/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/da0498b09a6d009d4d9e0dfe14223c21bb2b17ba.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1443,7 +1895,14 @@
     "formerNames": [
       "Circumvent Pharmaceuticals"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Devin Wiley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/devinwiley/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5ef0804235acc637ce72fb78b077e6cb84c0d850.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1486,7 +1945,29 @@
     "formerNames": [
       "Gerostate𝝰"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gordon J Lithgow",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gordon-lithgow-77b46a20/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a2f7ddb674f245cf13af31bfdf276f296b2ae739.jpg",
+        "active": false
+      },
+      {
+        "name": "Mark Lucanic",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mark-lucanic-7678913b5/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/769698712bd7444d980ab1d7d044262b6f00f4f6.jpg",
+        "active": false
+      },
+      {
+        "name": "Simon Melov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/simon-melov-92040016b",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bc07a7d2d0bfd06e1eb1cb464be993d527058f0b.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1532,7 +2013,15 @@
     "formerNames": [
       "Aiwa Health"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Lukas Lange",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lukas-lange-8b1aa334/",
+        "bio": "CEO & Co-Founder of Probably Genetic. Previously BCG & The Bill & Melinda Gates Foundation. PhD from Oxford as a Rhodes Scholar.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a34d08ca7bd7d5ef817d25623cafb18ffa6f5ba1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1575,7 +2064,14 @@
     "formerNames": [
       "Excepgen INC"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Folliard",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thomas-folliard-2b3a8a94/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d1b41b89c2cab6bbed6dbff96857644fa6964ae2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1616,7 +2112,20 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Akash Bakshi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/akashbakshi/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0cfdf5161054ad467cf49f76cfea3d56f1768cb8.jpg"
+      },
+      {
+        "name": "Nadja Mannowetz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nadja-mannowetz-b7633655/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/65c8cd64d303a5092bec9cfa74c9acc1ced2d0a4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1660,7 +2169,14 @@
     "formerNames": [
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ritu Lal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ritu-lal-ph-d-m-s-management-2077953/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/836e1fb5bad3f1eeaab03d4770da1f94fd329128.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1705,7 +2221,14 @@
     "formerNames": [
       "Arpeggio Biosciences"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Joey Azofeifa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joey-azofeifa-060070130/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e54ca8af79831aff4f578dbb2be13abee5368e30.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1748,7 +2271,20 @@
     "formerNames": [
       "Asher Biotherapeutics"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ivana Djuretic",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ivana-djuretic-730a1517/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/68b7be6efab1bb82c9a304ceeac9206c94cb7752.jpg"
+      },
+      {
+        "name": "Andy Yeung",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yikandyyeung/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/23e3992dff9a07f4b2e4af889749a50c22754183.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1847,7 +2383,29 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Robert McBride",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/robcmcbride/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6b2c0a59e970fbc429ff0495f6620ed3d61e3f05.jpg",
+        "active": false
+      },
+      {
+        "name": "Vivek Mutalik",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vivekmutalik/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1aa8d71d49eb498cb6bbc478b012c206cc32f440.jpg",
+        "active": false
+      },
+      {
+        "name": "Paul Turner",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/paul-turner-951bb072/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/051a0c9dff651ba619830ca7a3ee51d283a62127.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1891,7 +2449,16 @@
     "formerNames": [
       "Weatherwax Bio"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Armand Cognetta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/armandcognetta/",
+        "twitter": "https://twitter.com/armandcognetta",
+        "bio": "Armand completed his PhD in Chemical Biology at the Scripps Research Institute under the supervision of Dr. Benjamin F. Cravatt. There he co-authored 19 scientific publications in prestigious journals such as Cell, Nature, and Science, as well as multiple patents, including a portion of the foundational IP for Abide Therapeutics (acq. Lundbeck) and Vividion Therapeutics (acq. Bayer). Prior to founding GP he was an early employee at the Flagship Pioneering start-up Inzen Tx (now Sonata).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0362d411a5c6d976a0f2faa0d83049484125f5ae.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1936,7 +2503,20 @@
     "formerNames": [
       "Altay Therapeutics Inc"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ali Ozes",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ali-ozes-9694621b/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1105af78f970befcd33feac20c237259355ec65d.jpg"
+      },
+      {
+        "name": "Osman Ozes",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/osman-nidai-ozes-ph-d-aa365b45/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/53505b379e81a9317bb391b5b16029909f0265a0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1979,7 +2559,28 @@
     "teamSize": 53,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vihari Kanukollu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kvihari/",
+        "twitter": "https://twitter.com/VihariKanukollu",
+        "bio": "Forbes 30 under 30 Asia, Co-Founder and CEO @urbankisaan. Farmer at heart.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ca737070b84dc650f12c0b8bf1d53fa40e77ff82.jpg"
+      },
+      {
+        "name": "Srinivas Chaganti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chaganty/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/902ee56ad5f6506bb68372c3b903ab36af1fd867.jpg"
+      },
+      {
+        "name": "Dr. Sairam Reddy Palicherla",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sairam-reddy-3788647/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0462f3c4752a5d961c541a77a36c25257d7e57f1.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2022,7 +2623,28 @@
     "formerNames": [
       "Isabl Technologies"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Juan Medina",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jsmedmar/",
+        "twitter": "https://twitter.com/jsmedmar",
+        "bio": "Co-Founder & CTO, Isabl Inc.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6d875b4784e240de51cc8be845c6f318f85cc372.jpg"
+      },
+      {
+        "name": "Andrew Kung",
+        "role": "Founder",
+        "linkedin": "",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/db3b39473d026d2f126d3f1be3dad1c94be6942c.jpg"
+      },
+      {
+        "name": "Elli Papaemmanuil",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/elli-papaemmanuil-0b8444b0",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1cdce1afc995af3761b7bff7a29b24431c6c8e14.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2064,7 +2686,14 @@
     "teamSize": 40,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maddie Hall",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maddie-hall-76293135/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4ad3edb2ac5eebcff00205d7f865a0442daa0994.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2104,7 +2733,26 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Liliya Khasin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/liliya-gabelev-khasin-2b9b138a",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c1c89f99230992764743515986185ed827938038.jpg"
+      },
+      {
+        "name": "Yuriy Kirichok",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yuriy-kirichok-0409151a/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d496af2d8cc6c065dd2f834690bb7d74c1e25315.jpg"
+      },
+      {
+        "name": "Jonah Sinick",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jonahsinick",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/06dc90aaba5241c3ad1fda478c6d7737e0fb3732.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2145,7 +2793,20 @@
     "teamSize": 72,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dan Lin-Arlow",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/daniel-arlow-89056583/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/06ac6574273740cd2db84104856a0c099d08ff33.jpg"
+      },
+      {
+        "name": "Sebastian Palluk",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sebastian-palluk/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9f0fb64ca40007a698edbf56782a64f08dfaa07a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2186,7 +2847,14 @@
     "teamSize": 50,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Quin Wills",
+        "role": "Founder/CSO",
+        "linkedin": "https://www.linkedin.com/in/quinwills/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d5cf8bd0db814925b2c0f6271bb275be9de919f9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2233,7 +2901,22 @@
     "formerNames": [
       "Inc."
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chun-Hao Huang",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/chun-hao-huang/",
+        "bio": "Dr. Huang is Co-Founder and CEO of Algen, with the mission to revolutionize therapeutic discovery through CRISPR gene-modulation and frontier AI. A genetic engineer, drug developer and AI entrepreneur, he received postdoc fellow at UC Berkeley under Nobel Laureate Jennifer Doudna and pioneered disease-relevant models using CRISPR. Dr. Huang’s accolades include an Edison Award, TIME Best Inventions of 2026, and being named a Lindau Nobel Laureate Meeting Fellow and Innovators Under 35.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3773ed07288c3da02c97b03e87fbbb26af3898be.jpg"
+      },
+      {
+        "name": "Christine Du",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-d",
+        "bio": "Co-Founder and CBO, Algen",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8eb1305fac0501004b534329a48f3044aef9337e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2275,7 +2958,30 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Yusuf Erkul",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/yusuf-erkul-b23b4516/",
+        "twitter": "https://twitter.com/yusuf_erkul",
+        "bio": "I'm co-founder and CEO of Kernal Biologics, a Boston-based biotech startup developing next-generation messenger RNA immunotherapy. Backed by Hummingbird, Amgen, Lilly, NVIDIA, HBM, NASA, and Boeing, Kernal Bio raised more than $30M. Early in my career, I worked at Merck&Co. on the discovery and development of various oncology drugs, including ZEJULA®, which got FDA approval for ovarian cancer. I hold an executive MBA from MIT Sloan, an M.D. from Hacettepe Univ. and a B.S. in Biology from MIT.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/03c15c51cc4c1d4e920132e3e70fab69c28cf6a7.jpg"
+      },
+      {
+        "name": "Jeff Ozdemir",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jeff-ozdemir-phd-22822321/",
+        "bio": "I got PhD in Molecular Genetics at UTSW Medical Center at Dallas. I moved to Boston for postdoctoral training at Harvard Medical School. I served as Biochemistry instructor at MIT. Then I joined Kernal as a co-founder.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/43dea221aa18943f65d05e7d16ea57ad94c5f2d6.jpg"
+      },
+      {
+        "name": "Burak YILMAZ",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/burak-yilmaz-84400730",
+        "bio": "My name is Burak Yilmaz, MS, co-founder, and lead designer of Kernal Biologics. As a synthetic biologist, I co-invented stealth and onco-selective mRNA platform technology in Kernal. Kernal is my second endeavor. Previously, I founded Sentegen/Sentebiolab which is a synthetic biology company that produces synthetic DNA for research and diagnostic purposes.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9ddf422a1ee751e0c83309cb2702b20ab76b7001.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2361,7 +3067,15 @@
     "isHiring": false,
     "stage": "Early",
     "topCompany": true,
-    "founders": [],
+    "founders": [
+      {
+        "name": "Uri Lopatin",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/urilopatin",
+        "bio": "Co-founder and the Chief Medical Officer of Assembly Pharma (2012) and CMO/VP R&D for Assembly Biosciences (f\\k\\a Ventrus Bioscience), which reverse merged with Assembly Pharma in 2014. He helped ASMB raise > $300M to move 2 generations of novel HBV meds into Ph 1 and Ph 2 clinical studies. Uri has held roles at Schering Plough, Roche, and Gilead Science, and received medical training at UMDNJ, NYU and the NIH. Uri was a visiting partner at YC before he started Pardes to cure COVID-19",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5778aaf0271d7d376bc1f3f639c7a6d72753d456.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2403,7 +3117,22 @@
     "teamSize": 34,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Matt Anderson-Baron",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/matthew-anderson-baron-92640315a",
+        "bio": "I am a biotech entrepreneur with a background in the biological sciences. I am a co-founder of Future Fields, a Canadian start-up working to enable cellular agriculture commercialization through cost-effective, scalable, and custom growth media. I obtained a PhD in cell biology from the University of Alberta and was one of the first Canadian grant recipients in the field of cellular agriculture.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0fea0e6d5649cf401ef82be7053faf1f4f7625a4.jpg"
+      },
+      {
+        "name": "Jalene Anderson-Baron",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jalene-anderson-baron/",
+        "bio": "I obtained my MA from the University of Alberta and have worked in diverse analytical capacities over the past decade, focused on environmental and social causes. I'm a critical thinker with a keen attention to detail and the ability to turn big ideas into reality. I have extensive experience in health and social research, project management, stakeholder engagement, and policy planning, implementation and advocacy.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2504dd3fa86b4c62a5404606a364077e06e3f93b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

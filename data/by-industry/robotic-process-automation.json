@@ -29,7 +29,14 @@
     "teamSize": 32,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jenna Brown",
+        "role": "Founder/CEO",
+        "linkedin": "https://uk.linkedin.com/in/jenna-brown-2539b716, https://www.linkedin.com/in/fabian-blaicher-86936120/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9f4fd4628fe946e0fd57fef8071f3fb321ce7586.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -73,7 +80,16 @@
       "XXV Inc.",
       "Synthetic Minds"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Saurabh Srivastava",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/saurabh-sriv/",
+        "twitter": "https://x.com/_saurabh",
+        "bio": "Work on building code capabilities for Nemotron at NVIDIA. Primarily focus is on pre-training, evals and data; some post-training. Previously: * Head of Code Research @ Essential AI (Ashish Vaswani's co) * YC W15 and S18: Code synthesis applied to bio and desktop automations respectively. * PhD / Postdoc: Code synthesis using theorem provers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/372a965319497524c71bec098dca39064071239f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -159,7 +175,22 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Eugene Huang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/eugenehuangsg/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/029835dfa12b4b23d5b28660b96b1f9d5dfbf2dd.jpg",
+        "active": false
+      },
+      {
+        "name": "Thet Lin Thu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thetlinthu/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2d1974b6c339bd6b8265501c7c3cb32c7d22ea67.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -204,7 +235,25 @@
       "Datap",
       "Dashblock (was Datap)"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Maxime Corbani",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maxime-corbani-10664ba0/",
+        "twitter": "https://twitter.com/mxcrbn",
+        "bio": "After studying engineering between France and Brazil, I worked as a consultant in different European countries, founded a consulting firm in Paris (Symolia), and finally started Dashblock to offer an RPA solution to startups.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/08aca2ae6726da3038181872a4a24410f62c0384.jpg",
+        "active": false
+      },
+      {
+        "name": "Hugues Pouillot",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/huguespouillot/",
+        "bio": "Product Engineer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/03ceb8df479770b2696c6c8a5d1a2a8a9bd5ed37.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -247,7 +296,16 @@
       "ElectroNeek Robotics",
       "ElectroNeek RPA"
     ],
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sergey Yudovskiy",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/yudovskiy",
+        "twitter": "https://twitter.com/SergeyYudovskiy",
+        "bio": "2x YC Founder. Building Adentris to bring AI-driven systems into healthcare operations - a personal mission inspired by the legacy of my fully medical family. As a mathematician, I bring a data-driven, systems approach to product development and GTM strategy. Previously, I led ElectroNeek (W20) as CEO, scaling it to ~$5M ARR. Built a global B2B distribution and partnership network across 30+ countries (North & South America, Europe, Asia), and disrupted the RPA market with a novel GTM playbook.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7da84bfdf132133d48f3c0f5b778cfd2c6a6a515.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
