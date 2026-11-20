@@ -27,6 +27,8 @@ const { fetchPlugAndPlay } = require('./plugandplay');
 const { fetchItuCekirdek } = require('./itucekirdek');
 const { fetchSosv } = require('./sosv');
 const { fetchSpeedrun } = require('./speedrun');
+const { fetchSparkLabs } = require('./sparklabs');
+const { fetchFounderInstitute } = require('./founderinstitute');
 const { isPlausibleCompany, collapseSpaces } = require('../normalize');
 const { withTimeout } = require('../http');
 const { domainOf } = require('../data/unicorns');
@@ -64,9 +66,11 @@ const SOURCES = {
   sosv: fetchSosv,
   speedrun: fetchSpeedrun,
   itucekirdek: fetchItuCekirdek,
+  sparklabs: fetchSparkLabs,
+  founderinstitute: fetchFounderInstitute,
 };
 
-const DEFAULT_SOURCES = ['techstars', 'yc', 'antler', '500', 'ef', 'alchemist', 'plugandplay', 'sosv', 'speedrun', 'itucekirdek'];
+const DEFAULT_SOURCES = ['techstars', 'yc', 'antler', '500', 'ef', 'alchemist', 'plugandplay', 'sosv', 'speedrun', 'itucekirdek', 'sparklabs', 'founderinstitute'];
 
 function readCommitted(file) {
   try {

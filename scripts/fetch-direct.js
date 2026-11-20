@@ -19,6 +19,7 @@ const path = require('path');
 const { gatherAll, DEFAULT_SOURCES } = require('../src/sources');
 const { writeDataset, writeXlsx } = require('../src/dataset');
 const { enrichYcFounders } = require('../src/sources/yc-founders');
+const { enrichSosvTeam } = require('../src/sources/sosv-team');
 
 const STALE_ALERT_DAYS = Number(process.env.STALE_ALERT_DAYS || 3);
 
@@ -98,6 +99,14 @@ async function main() {
       await enrichYcFounders(companies, { rootDir: root });
     } catch (err) {
       console.log(`::warning::YC founder enrichment failed: ${err.message}`);
+    }
+  }
+  // Team profiles for SOSV companies (same incremental approach).
+  if (process.env.SOSV_TEAM !== '0' && (!live || live.includes('sosv'))) {
+    try {
+      await enrichSosvTeam(companies, { rootDir: root });
+    } catch (err) {
+      console.log(`::warning::SOSV team enrichment failed: ${err.message}`);
     }
   }
 

@@ -76,11 +76,10 @@ function parseTiles(html) {
     if (!name) continue;
     const slug = (b.match(/data-companyslug="([^"]*)"/) || [])[1] || '';
     const description = (b.match(/tile__description[^>]*>([\s\S]*?)<\/div>/) || [])[1] || '';
-    const location =
-      (b.match(/locationtag[^>]*>\s*<span class="linkline">([\s\S]*?)<\/span>/) || [])[1] || '';
-    const industries = [
-      ...b.matchAll(/categorytag[^>]*>\s*<span class="linkline">([\s\S]*?)<\/span>/g),
-    ].map((m) => decodeEntities(m[1]));
+    // Tags are <a class='locationtag'>London</a> (older markup wrapped the
+    // text in <span class="linkline">); accept both.
+    const location = (b.match(/locationtag[^>]*>([\s\S]*?)<\/a>/) || [])[1] || '';
+    const industries = [...b.matchAll(/categorytag[^>]*>([\s\S]*?)<\/a>/g)].map((m) => decodeEntities(m[1]));
     const yearMatch = b.match(/Founded<\/div>[\s\S]*?meta__row__name[^>]*>\s*(\d{4})\s*</);
     const year = yearMatch ? Number(yearMatch[1]) : '';
     const isExit = /Exited to<\/div>/.test(b);
@@ -185,7 +184,18 @@ async function fetchEf({ maxPages = MAX_PAGES } = {}) {
     console.log('    ↳ EF pages unavailable — trying the browser scraper');
     return browser.fetch(); // everything blocked -> browser
   }
-  return all.map((d) => normalizeRecord(d, { source: 'ef', program: 'Entrepreneur First' }));
+  return all.map((d) => withHubCountry(normalizeRecord(d, { source: 'ef', program: 'Entrepreneur First' })));
 }
 
-module.exports = { fetchEf, scrapeEf: browser.scrape, parseTiles, BASE_URL };
+// EF tags companies with the city of the cohort they came from.
+const EF_HUBS = {
+  london: 'United Kingdom', paris: 'France', berlin: 'Germany', stockholm: 'Sweden', toronto: 'Canada',
+  'san francisco': 'United States', 'new york': 'United States', bangalore: 'India', bengaluru: 'India',
+  singapore: 'Singapore', 'hong kong': 'Hong Kong',
+};
+function withHubCountry(c) {
+  const country = (c.extra && c.extra.country) || EF_HUBS[String(c.location || '').trim().toLowerCase()] || '';
+  return country ? { ...c, extra: { ...(c.extra || {}), country } } : c;
+}
+
+module.exports = { fetchEf, scrapeEf: browser.scrape, parseTiles, withHubCountry, BASE_URL };

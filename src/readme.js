@@ -56,6 +56,19 @@ function renderReadme(meta, stats) {
         .join('\n')
     : '';
   const cProgram = (meta.collections['by-program'] || []).length;
+  const pct = (x) => `${Number(x || 0).toFixed(1)}%`;
+  const board = (stats.leaderboard || []).length
+    ? '| Accelerator | Companies | Exits | Exit rate | Unicorns | Countries | Top country | Years | Founder profiles |\n' +
+      '|---|--:|--:|--:|--:|--:|---|---|--:|\n' +
+      stats.leaderboard
+        .map((r) => {
+          const site = (sources.find((s) => s.name === r.source) || {}).site;
+          const name = site ? `[${r.label}](${site})` : r.label;
+          const years = r.firstYear ? (r.firstYear === r.lastYear ? `${r.firstYear}` : `${r.firstYear}–${r.lastYear}`) : '—';
+          return `| ${name} | ${n(r.companies)} | ${n(r.exits)} | ${pct(r.exitRate)} | ${n(r.unicorns)} | ${n(r.countries)} | ${r.topCountry || '—'} | ${years} | ${n(r.founderProfiles)} |`;
+        })
+        .join('\n')
+    : '';
 
   const GH = 'https://github.com/yigitmeteozcan/startups';
   const E = meta.endpoints || {};
@@ -71,7 +84,7 @@ function renderReadme(meta, stats) {
 
 <p align="center">
   <b>The free, open API for ${n(stats.total)} startups funded by the world's top accelerators.</b><br>
-  Y Combinator · Techstars · 500 Global · Antler · Plug and Play · Entrepreneur First · Alchemist · SOSV · a16z speedrun · İTÜ Çekirdek<br>
+  Y Combinator · Techstars · 500 Global · Antler · Plug and Play · Entrepreneur First · Alchemist · SOSV · a16z speedrun · SparkLabs · Founder Institute · İTÜ Çekirdek<br>
   JSON, CSV and Excel — with founder profiles (LinkedIn, X, GitHub), industries, countries, coordinates and exits. Refreshed daily. No key, no rate limits.
 </p>
 
@@ -100,7 +113,7 @@ function renderReadme(meta, stats) {
 
 ## ✨ Why this exists
 
-Accelerator portfolios are scattered across ten different websites, each with its own format, filters and gaps. This project pulls them all into **one clean, consistent dataset** every day and serves it as static files on a CDN, so you can:
+Accelerator portfolios are scattered across a dozen different websites, each with its own format, filters and gaps. This project pulls them all into **one clean, consistent dataset** every day and serves it as static files on a CDN, so you can:
 
 - **Build lead lists** — every YC, Techstars or Antler company in a country or industry, with founder names and LinkedIn profiles.
 - **Research markets and investors** — which accelerators back which sectors, how cohorts have shifted year by year, who exited.
@@ -117,7 +130,15 @@ Switch the [explorer](${SITE}?view=globe) to **Globe** and spin the planet: ever
   <a href="${SITE}?view=globe"><img src="docs/screenshot-globe.png" alt="Globe view of the explorer: startups placed by city around the world" width="760"></a>
 </p>
 
-## ℹ️ Metadata
+${board ? `## 🏆 Accelerator scoreboard
+
+How the portfolios compare, recomputed every day from the data (also as [\`leaderboard.json\`](${(E.leaderboard && E.leaderboard.api) || `${B}/leaderboard.json`})).
+
+${board}
+
+_Rates reflect what each accelerator publishes: some list every startup they have worked with, others only the ones they invested in, and exits / unicorns are only as complete as each source marks them. Treat this as a starting point, not a ranking._
+
+` : ''}## ℹ️ Metadata
 
 > Last updated: **${date}**
 
@@ -203,7 +224,9 @@ ${B}/
 | Certified B Corps | [\`b-corps.json\`](${B}/b-corps.json) |
 | Current accelerator session | [\`current.json\`](${B}/current.json) |
 | YC companies hiring right now (links to their open roles) | [\`hiring.json\`](${B}/hiring.json) |
-| New — companies added to a portfolio in the last 30 days, newest first | [\`new.json\`](${B}/new.json) |
+| New — companies added to a portfolio in the last 30 days, newest first | [\`new.json\`](${B}/new.json) · [RSS / Atom feed](${B}/new.xml) |
+| Founder directory — every founder profile with company, role and links | [\`founders.json\`](${(E.founders && E.founders.api) || `${B}/founders.json`}) |
+| Accelerator scoreboard (exits, unicorns, countries per accelerator) | [\`leaderboard.json\`](${(E.leaderboard && E.leaderboard.api) || `${B}/leaderboard.json`}) |
 | Aggregate stats | [\`stats.json\`](${B}/stats.json) |
 | Map points — companies grouped by city / country with coordinates | [\`geo.json\`](${B}/geo.json) |
 | **Catalog of every endpoint** | [\`meta.json\`](${B}/meta.json) |
@@ -271,7 +294,7 @@ Each company is an object with the following fields:
 | Field | Type | Description |
 |---|---|---|
 | \`id\` | string | Stable unique id, e.g. \`yc-airbnb\` |
-| \`source\` | string | Portfolio source (\`techstars\`, \`yc\`, \`antler\`, \`500\`, \`ef\`, \`alchemist\`, \`plugandplay\`, \`sosv\`, \`speedrun\`, \`itucekirdek\`) |
+| \`source\` | string | Portfolio source (\`techstars\`, \`yc\`, \`antler\`, \`500\`, \`ef\`, \`alchemist\`, \`plugandplay\`, \`sosv\`, \`speedrun\`, \`itucekirdek\`, \`sparklabs\`, \`founderinstitute\`) |
 | \`name\` | string | Company name |
 | \`description\` | string | Short description |
 | \`website\` | string | Company website URL |
@@ -284,13 +307,13 @@ Each company is an object with the following fields:
 | \`year\` | number | First session (cohort) year |
 | \`program\` | string | Accelerator program name |
 | \`programSlugs\` | string[] | Program slug(s) |
-| \`founders\` | object[] | Founders: \`name\`, \`role\`, \`linkedin\`, and where available \`twitter\`, \`github\`, \`website\`, \`bio\`, \`avatar\`, \`active\` (\`false\` for former founders) (YC profiles are filled in from ycombinator.com; EF, 500, Alchemist and a16z speedrun from their portfolios) |
+| \`founders\` | object[] | Founders: \`name\`, \`role\`, \`linkedin\`, and where available \`twitter\`, \`github\`, \`website\`, \`bio\`, \`avatar\`, \`active\` (\`false\` for former founders) (YC profiles are filled in from ycombinator.com; EF, 500, Alchemist, a16z speedrun, SparkLabs and Founder Institute from their portfolios) |
 | \`sourceUrl\` | string | The company's page on its source portfolio (YC) |
 | \`isExit\` | boolean | Has exited |
 | \`isUnicorn\` | boolean | Valued $1B+ |
 | \`isBCorp\` | boolean | Certified B Corp |
 | \`isCurrentSession\` | boolean | In the current session |
-| \`status\` | string | \`active\`, \`inactive\`, \`acquired\` or \`public\` (YC, Alchemist, 500; only present where the source says) |
+| \`status\` | string | \`active\`, \`inactive\`, \`acquired\` or \`public\` (YC, Alchemist, 500, Founder Institute; only present where the source says) |
 | \`teamSize\` | number | Team size (YC, a16z speedrun) |
 | \`teamSizeRange\` | string | Team size band, e.g. \`11-50\` (SOSV, Alchemist) |
 | \`totalRaised\` | number | Total funding raised in USD, as reported by the source (SOSV, Alchemist) |
@@ -339,7 +362,7 @@ See **[STATS.md](STATS.md)** for charts — companies per year, top countries an
 
 ## 🔄 How it stays fresh
 
-A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, 500 Global, Entrepreneur First, Alchemist, Plug and Play and SOSV from their public JSON endpoints, a16z speedrun and İTÜ Çekirdek from their public portfolio pages, and Antler via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result.
+A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, 500 Global, Entrepreneur First, Alchemist, Plug and Play and SOSV from their public JSON endpoints, a16z speedrun, SparkLabs, Founder Institute and İTÜ Çekirdek from their public portfolio pages, and Antler via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result.
 
 Guard rails keep a bad scrape from damaging the data:
 
@@ -396,7 +419,7 @@ Spotted a wrong or missing company? [Open a data issue](${GH}/issues/new?templat
 
 ## 📄 License
 
-The code is [MIT](LICENSE)-licensed. The data is sourced from the public Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, Plug and Play, SOSV, a16z speedrun and İTÜ Çekirdek portfolios and remains subject to each provider's terms — the MIT license covers the code, not their data. This project is not affiliated with or endorsed by any of them. City coordinates in \`geo.json\` come from [GeoNames](https://www.geonames.org/) (CC BY 4.0); the globe uses [globe.gl](https://github.com/vasturiano/globe.gl) (MIT) and [Natural Earth](https://www.naturalearthdata.com/) country shapes (public domain); the explorer is set in [Geist](https://github.com/vercel/geist-font) (SIL OFL 1.1). To request a correction to a company or founder record, [open an issue](https://github.com/yigitmeteozcan/startups/issues/new?template=data-issue.md).
+The code is [MIT](LICENSE)-licensed. The data is sourced from the public Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, Plug and Play, SOSV, a16z speedrun, SparkLabs, Founder Institute and İTÜ Çekirdek portfolios and remains subject to each provider's terms — the MIT license covers the code, not their data. This project is not affiliated with or endorsed by any of them. City coordinates in \`geo.json\` come from [GeoNames](https://www.geonames.org/) (CC BY 4.0); the globe uses [globe.gl](https://github.com/vasturiano/globe.gl) (MIT) and [Natural Earth](https://www.naturalearthdata.com/) country shapes (public domain); the explorer is set in [Geist](https://github.com/vercel/geist-font) (SIL OFL 1.1). To request a correction to a company or founder record, [open an issue](https://github.com/yigitmeteozcan/startups/issues/new?template=data-issue.md).
 `;
 }
 

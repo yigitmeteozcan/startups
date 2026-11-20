@@ -133,3 +133,42 @@ test('YC detail fields, hiring.json and new.json', () => {
   const csv = fs.readFileSync(path.join(root, 'data', 'all.csv'), 'utf8').split('\n');
   assert.match(csv[0], /,status,team_size,is_hiring,stage,top_company,first_seen,team_size_range,total_raised$/);
 });
+
+test('scoreboard, founder directory and the new-companies Atom feed', () => {
+  const root = tmpRoot();
+  const today = new Date().toISOString().slice(0, 10);
+  writeDataset(
+    [
+      company({ name: 'A', isExit: true, year: 2010, founders: [{ name: 'Ann', role: 'CEO', linkedin: 'https://linkedin.com/in/ann' }] }),
+      company({ name: 'B', year: 2020, founders: [{ name: 'Bo', role: '', linkedin: '', active: false }] }),
+      company({ source: 'ef', name: 'C & <Co>', firstSeen: today, description: 'New "thing"', founders: [] }),
+    ],
+    { rootDir: root }
+  );
+  const read = (f) => JSON.parse(fs.readFileSync(path.join(root, 'data', f)));
+  const board = read('leaderboard.json').accelerators;
+  const yc = board.find((r) => r.source === 'yc');
+  assert.equal(yc.companies, 2);
+  assert.equal(yc.exits, 1);
+  assert.equal(yc.exitRate, 50);
+  assert.equal(yc.firstYear, 2010);
+  assert.equal(yc.lastYear, 2020);
+  assert.equal(yc.founderProfiles, 2);
+  assert.equal(yc.label, 'Y Combinator');
+
+  const founders = read('founders.json');
+  assert.deepEqual(founders[0], { name: 'Ann', role: 'CEO', company: 'A', companyId: 'yc-a', source: 'yc', companyWebsite: 'https://acme.com', linkedin: 'https://linkedin.com/in/ann' });
+  assert.equal(founders[1].former, true);
+  assert.equal(read('meta.json').endpoints.founders.count, 2);
+
+  const xml = fs.readFileSync(path.join(root, 'data', 'new.xml'), 'utf8');
+  assert.match(xml, /^<\?xml version="1.0" encoding="utf-8"\?>\n<feed xmlns="http:\/\/www.w3.org\/2005\/Atom">/);
+  assert.equal((xml.match(/<entry>/g) || []).length, 1);
+  assert.ok(xml.includes('<title>C &amp; &lt;Co&gt; (Entrepreneur First)</title>'), 'titles are escaped');
+  assert.ok(xml.includes('New &quot;thing&quot;'));
+  assert.ok(!/<[^>]*<Co>/.test(xml), 'no raw markup from the data');
+
+  const readme = fs.readFileSync(path.join(root, 'README.md'), 'utf8');
+  assert.match(readme, /## 🏆 Accelerator scoreboard/);
+  assert.match(readme, /\| \[Y Combinator\]\([^)]*\) \| 2 \| 1 \| 50\.0% \|/);
+});

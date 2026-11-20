@@ -17,7 +17,7 @@ const path = require('path');
 const { fetchWithTimeout } = require('../http');
 const { addHttps, collapseSpaces, stripUrlSignature } = require('../normalize');
 
-const BATCH = Number(process.env.YC_FOUNDER_BATCH || 400);
+const BATCH = Number(process.env.YC_FOUNDER_BATCH || 800);
 const CONCURRENCY = Number(process.env.YC_FOUNDER_CONCURRENCY || 3);
 const BUDGET_MS = Number(process.env.YC_FOUNDER_BUDGET_MS || 6 * 60 * 1000);
 const REFRESH_DAYS = Number(process.env.YC_FOUNDER_REFRESH_DAYS || 60);

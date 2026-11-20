@@ -13,11 +13,13 @@
     techstars: "Techstars", yc: "Y Combinator", antler: "Antler", 500: "500 Global",
     ef: "Entrepreneur First", alchemist: "Alchemist", plugandplay: "Plug and Play",
     sosv: "SOSV (HAX, IndieBio)", speedrun: "a16z speedrun", itucekirdek: "İTÜ Çekirdek",
+    sparklabs: "SparkLabs", founderinstitute: "Founder Institute",
   };
   const SOURCE_SHORT = {
     techstars: "Techstars", yc: "YC", antler: "Antler", 500: "500",
     ef: "EF", alchemist: "Alchemist", plugandplay: "Plug and Play",
     sosv: "SOSV", speedrun: "speedrun", itucekirdek: "İTÜ Çekirdek",
+    sparklabs: "SparkLabs", founderinstitute: "FI",
   };
   // 1500000 -> "$1.5M"
   const money = (n) => {

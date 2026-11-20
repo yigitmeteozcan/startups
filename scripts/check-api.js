@@ -45,6 +45,7 @@ async function main() {
     ['all.json', meta.endpoints.all.api, meta.endpoints.all.count],
     ['unicorns.json', meta.endpoints.unicorns.api, meta.endpoints.unicorns.count],
     ...(meta.endpoints.hiring ? [['hiring.json', meta.endpoints.hiring.api, meta.endpoints.hiring.count]] : []),
+    ...(meta.endpoints.founders ? [['founders.json', meta.endpoints.founders.api, meta.endpoints.founders.count]] : []),
     ...['by-source', 'by-country', 'by-industry', 'by-year']
       .map((c) => pick(c) && [`${c}/${pick(c).slug}.json`, pick(c).api, pick(c).count])
       .filter(Boolean),

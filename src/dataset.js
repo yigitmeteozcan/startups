@@ -118,8 +118,121 @@ function countBy(companies, keyFn) {
   return [...map.entries()].sort((a, b) => b[1] - a[1]);
 }
 
+// Per-accelerator scoreboard: size, exits, unicorns, reach and founder data.
+// Rates depend on what each source publishes (some list every startup they
+// ever worked with, others only investments), so compare them with care.
+function buildLeaderboard(companies) {
+  const groups = new Map();
+  for (const c of companies) {
+    if (!groups.has(c.source)) groups.set(c.source, []);
+    groups.get(c.source).push(c);
+  }
+  const rate = (k, n) => (n ? Math.round((1000 * k) / n) / 10 : 0);
+  return [...groups.entries()]
+    .map(([source, list]) => {
+      const years = list
+        .map((c) => parseInt(c.year, 10))
+        .filter((y) => y >= 1990 && y <= 2100)
+        .sort((a, b) => a - b);
+      const countries = countBy(list, (c) => c.country);
+      const exits = list.filter((c) => c.isExit).length;
+      const unicorns = list.filter((c) => c.isUnicorn).length;
+      return {
+        source,
+        label: SOURCE_LABELS[source] || source,
+        companies: list.length,
+        exits,
+        exitRate: rate(exits, list.length),
+        unicorns,
+        unicornRate: rate(unicorns, list.length),
+        countries: countries.length,
+        topCountry: countries.length ? countries[0][0] : '',
+        firstYear: years.length ? years[0] : null,
+        lastYear: years.length ? years[years.length - 1] : null,
+        medianYear: years.length ? years[Math.floor(years.length / 2)] : null,
+        founderProfiles: list.reduce((n, c) => n + (c.founders || []).length, 0),
+        withFounders: list.filter((c) => (c.founders || []).length).length,
+        hiring: list.filter((c) => c.isHiring && c.listed !== false).length,
+        alsoInOtherPortfolios: list.filter((c) => (c.alsoIn || []).length).length,
+      };
+    })
+    .sort((a, b) => b.companies - a.companies);
+}
+
+// Flat directory of every founder profile, one row per person per company.
+// Empty fields are left out to keep the file small.
+function buildFounders(companies) {
+  const out = [];
+  for (const c of companies) {
+    for (const f of c.founders || []) {
+      if (!f || !f.name) continue;
+      const row = {
+        name: f.name,
+        role: f.role || '',
+        company: c.name,
+        companyId: c.id,
+        source: c.source,
+        companyWebsite: c.website || '',
+        linkedin: f.linkedin || '',
+        twitter: f.twitter || '',
+        github: f.github || '',
+        website: f.website || '',
+      };
+      for (const k of Object.keys(row)) if (row[k] === '') delete row[k];
+      if (f.active === false) row.former = true;
+      out.push(row);
+    }
+  }
+  return out;
+}
+
+const SITE_URL = 'https://yigitmeteozcan.github.io/startups/';
+const xmlEscape = (s) =>
+  String(s == null ? '' : s)
+    // Characters XML 1.0 does not allow at all.
+    .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F￾￿]/g, '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+
+// Atom feed of newly added companies, so people can follow new startups in
+// any feed reader.
+function toAtomFeed(recent, { generatedAt, selfUrl }) {
+  const entries = recent.slice(0, 200).map((c) => {
+    const link = c.website || c.sourceUrl || `${SITE_URL}?q=${encodeURIComponent(c.name)}`;
+    const label = SOURCE_LABELS[c.source] || c.source;
+    const summary = [c.description, [c.program || label, c.country].filter(Boolean).join(' · ')].filter(Boolean).join(' — ');
+    return [
+      '  <entry>',
+      `    <title>${xmlEscape(`${c.name} (${label})`)}</title>`,
+      `    <id>tag:yigitmeteozcan.github.io,${c.firstSeen}:startup:${xmlEscape(c.id)}</id>`,
+      `    <link href="${xmlEscape(link)}"/>`,
+      `    <updated>${c.firstSeen}T00:00:00Z</updated>`,
+      `    <summary>${xmlEscape(summary)}</summary>`,
+      ...(c.tags || []).slice(0, 5).map((t) => `    <category term="${xmlEscape(t)}"/>`),
+      '  </entry>',
+    ].join('\n');
+  });
+  return [
+    '<?xml version="1.0" encoding="utf-8"?>',
+    '<feed xmlns="http://www.w3.org/2005/Atom">',
+    '  <title>New startups from the top accelerators</title>',
+    '  <subtitle>Companies that just joined a YC, Techstars, 500 Global, Antler, SOSV, a16z speedrun, … portfolio</subtitle>',
+    `  <id>${xmlEscape(selfUrl)}</id>`,
+    `  <link rel="self" href="${xmlEscape(selfUrl)}"/>`,
+    `  <link href="${SITE_URL}?isNew=1"/>`,
+    `  <updated>${generatedAt}</updated>`,
+    '  <author><name>Startup Portfolios API</name></author>',
+    ...entries,
+    '</feed>',
+    '',
+  ].join('\n');
+}
+
 function computeStats(companies) {
   return {
+    leaderboard: buildLeaderboard(companies),
     generatedAt: new Date().toISOString(),
     total: companies.length,
     bySource: Object.fromEntries(countBy(companies, (c) => c.source)),
@@ -265,6 +378,8 @@ function writeDataset(
     .sort((a, b) => (a.firstSeen < b.firstSeen ? 1 : a.firstSeen > b.firstSeen ? -1 : 0));
   writeJson(path.join(base, 'hiring.json'), hiring);
   writeJson(path.join(base, 'new.json'), recent);
+  const founders = buildFounders(companies);
+  writeJson(path.join(base, 'founders.json'), founders, { compact: true });
 
   // Grouped slices. Keys that slugify to the same file name are merged into one
   // slice (previously they silently overwrote each other on disk).
@@ -318,6 +433,7 @@ function writeDataset(
   const geo = buildGeo(companies, { generatedAt: stats.generatedAt });
   if (geo) writeJson(path.join(base, 'geo.json'), geo, { compact: true });
   writeJson(path.join(base, 'stats.json'), stats);
+  writeJson(path.join(base, 'leaderboard.json'), { generatedAt: stats.generatedAt, accelerators: stats.leaderboard });
   fs.writeFileSync(path.resolve(rootDir, 'STATS.md'), renderStatsMarkdown(stats));
 
   // Meta — the catalog of every endpoint (like yc-oss/api meta.json).
@@ -329,6 +445,7 @@ function writeDataset(
     current: current.length,
     hiring: hiring.length,
     recent: recent.length,
+    founders: founders.length,
   };
   const status = buildSourceStatus(stats.bySource, sourceStatus, prevMeta, stats.generatedAt);
   const meta = buildMeta({
@@ -340,6 +457,7 @@ function writeDataset(
     dataDir: base,
   });
   writeJson(path.join(base, 'meta.json'), meta);
+  fs.writeFileSync(path.join(base, 'new.xml'), toAtomFeed(recent, { generatedAt: stats.generatedAt, selfUrl: meta.endpoints.new.atom }));
 
   // Keep README counts/tables in sync with the data.
   fs.writeFileSync(path.resolve(rootDir, 'README.md'), renderReadme(meta, stats));
@@ -381,6 +499,8 @@ const SOURCE_SITES = {
   sosv: 'https://sosv.com/portfolio/',
   speedrun: 'https://speedrun.a16z.com/companies',
   itucekirdek: 'https://girisimler.itucekirdek.com/',
+  sparklabs: 'https://www.sparklabs.co.kr/en/portfolio',
+  founderinstitute: 'https://fi.co/graduates',
 };
 
 const SOURCE_LABELS = {
@@ -394,6 +514,8 @@ const SOURCE_LABELS = {
   sosv: 'SOSV (HAX, IndieBio)',
   speedrun: 'a16z speedrun',
   itucekirdek: 'İTÜ Çekirdek',
+  sparklabs: 'SparkLabs',
+  founderinstitute: 'Founder Institute',
 };
 
 function buildMeta({ counts, groupIndexes, generatedAt, bySource = {}, status = {}, dataDir = null }) {
@@ -436,7 +558,9 @@ function buildMeta({ counts, groupIndexes, generatedAt, bySource = {}, status = 
       bCorps: { count: counts.bCorps, api: url('b-corps.json') },
       current: { count: counts.current, api: url('current.json') },
       hiring: { count: counts.hiring || 0, api: url('hiring.json') },
-      new: { count: counts.recent || 0, days: NEW_DAYS, api: url('new.json') },
+      new: { count: counts.recent || 0, days: NEW_DAYS, api: url('new.json'), atom: url('new.xml') },
+      founders: { count: counts.founders || 0, api: url('founders.json') },
+      leaderboard: { api: url('leaderboard.json') },
       stats: { api: url('stats.json') },
       ...(fs.existsSync(path.join(dataDir || '', 'geo.json')) ? { geo: { api: url('geo.json') } } : {}),
     },
@@ -459,6 +583,9 @@ async function writeXlsx(companies, file) {
 }
 
 module.exports = {
+  buildLeaderboard,
+  buildFounders,
+  toAtomFeed,
   writeDataset,
   writeXlsx,
   computeStats,
