@@ -131,5 +131,5 @@ test('YC detail fields, hiring.json and new.json', () => {
   assert.equal(meta.endpoints.hiring.count, 1);
   assert.equal(meta.endpoints.new.count, 1);
   const csv = fs.readFileSync(path.join(root, 'data', 'all.csv'), 'utf8').split('\n');
-  assert.match(csv[0], /,status,team_size,is_hiring,stage,top_company,first_seen$/);
+  assert.match(csv[0], /,status,team_size,is_hiring,stage,top_company,first_seen,team_size_range,total_raised$/);
 });

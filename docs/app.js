@@ -12,10 +12,21 @@
   const SOURCE_LABELS = {
     techstars: "Techstars", yc: "Y Combinator", antler: "Antler", 500: "500 Global",
     ef: "Entrepreneur First", alchemist: "Alchemist", plugandplay: "Plug and Play",
+    sosv: "SOSV (HAX, IndieBio)", speedrun: "a16z speedrun", itucekirdek: "İTÜ Çekirdek",
   };
   const SOURCE_SHORT = {
     techstars: "Techstars", yc: "YC", antler: "Antler", 500: "500",
     ef: "EF", alchemist: "Alchemist", plugandplay: "Plug and Play",
+    sosv: "SOSV", speedrun: "speedrun", itucekirdek: "İTÜ Çekirdek",
+  };
+  // 1500000 -> "$1.5M"
+  const money = (n) => {
+    const v = Number(n);
+    if (!(v > 0)) return "";
+    const short = (x) => (x >= 10 ? Math.round(x) : Math.round(x * 10) / 10);
+    if (v >= 1e9) return `$${short(v / 1e9)}B`;
+    if (v >= 1e6) return `$${short(v / 1e6)}M`;
+    return `$${Math.round(v / 1e3)}K`;
   };
   const FLAGS = ["isUnicorn", "isExit", "isBCorp", "hasFounders", "isHiring", "isNew"];
   const SELECTS = ["source", "country", "region", "industry", "status", "yearFrom", "yearTo", "sort"];
@@ -383,9 +394,13 @@
       c.source && h("span", { class: "chip chip-src", title: sourceLabel(c.source) }, SOURCE_SHORT[c.source] || c.source),
       (c.alsoIn || []).map((s) => h("span", { class: "chip chip-also", title: `Also in the ${sourceLabel(s)} portfolio` }, `also ${SOURCE_SHORT[s] || s}`)),
       place && h("span", {}, place),
-      c.teamSize && h("span", { class: "chip", title: "Team size" }, `${Number(c.teamSize).toLocaleString()} ${c.teamSize === 1 ? "person" : "people"}`),
+      c.teamSize
+        ? h("span", { class: "chip", title: "Team size" }, `${Number(c.teamSize).toLocaleString()} ${c.teamSize === 1 ? "person" : "people"}`)
+        : c.teamSizeRange && h("span", { class: "chip", title: "Team size" }, `${c.teamSizeRange} people`),
+      c.stage && !/^(exit|exited)$/i.test(c.stage) && !(c.source === "yc" && c.stage === "Early") && h("span", { class: "chip", title: "Stage" }, c.stage),
+      money(c.totalRaised) && h("span", { class: "chip", title: "Total raised, as reported by the source" }, `${money(c.totalRaised)} raised`),
       c.year && h("span", { class: "chip" }, String(c.year)),
-      c.program && h("span", { class: "chip" }, c.program),
+      c.program && c.program !== sourceLabel(c.source) && c.program !== SOURCE_SHORT[c.source] && h("span", { class: "chip" }, c.program),
       (c.tags || []).slice(0, 3).map((t) => h("span", { class: "chip" }, t)),
       socialLinks.length > 0 && h("span", { class: "social" }, socialLinks),
     );
@@ -489,6 +504,8 @@
         Hiring: c.isHiring == null ? "" : c.isHiring ? "Yes" : "No",
         Stage: c.stage || "",
         "First Seen": c.firstSeen || "",
+        "Team Size Range": c.teamSizeRange || "",
+        "Total Raised (USD)": c.totalRaised || "",
         ID: c.id || "",
       };
     });
@@ -539,7 +556,7 @@
       const XLSX = await loadSheetJs();
       const wb = XLSX.utils.book_new();
       const ws = XLSX.utils.json_to_sheet(rows);
-      ws["!cols"] = [14, 30, 60, 30, 30, 18, 15, 18, 40, 8, 40, 50, 50, 40, 40, 40, 25, 8, 10, 8, 15, 35, 35, 35, 35, 35, 18, 20, 14, 10, 8, 9, 12, 28].map((w) => ({ wch: w }));
+      ws["!cols"] = [14, 30, 60, 30, 30, 18, 15, 18, 40, 8, 40, 50, 50, 40, 40, 40, 25, 8, 10, 8, 15, 35, 35, 35, 35, 35, 18, 20, 14, 10, 8, 9, 12, 12, 14, 28].map((w) => ({ wch: w }));
       XLSX.utils.book_append_sheet(wb, ws, "Startups");
       XLSX.writeFile(wb, `startups-${fileLabel()}.xlsx`);
     } catch (err) {

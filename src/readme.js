@@ -71,7 +71,7 @@ function renderReadme(meta, stats) {
 
 <p align="center">
   <b>The free, open API for ${n(stats.total)} startups funded by the world's top accelerators.</b><br>
-  Y Combinator · Techstars · 500 Global · Antler · Plug and Play · Entrepreneur First · Alchemist<br>
+  Y Combinator · Techstars · 500 Global · Antler · Plug and Play · Entrepreneur First · Alchemist · SOSV · a16z speedrun · İTÜ Çekirdek<br>
   JSON, CSV and Excel — with founder profiles (LinkedIn, X, GitHub), industries, countries, coordinates and exits. Refreshed daily. No key, no rate limits.
 </p>
 
@@ -100,7 +100,7 @@ function renderReadme(meta, stats) {
 
 ## ✨ Why this exists
 
-Accelerator portfolios are scattered across seven different websites, each with its own format, filters and gaps. This project pulls them all into **one clean, consistent dataset** every day and serves it as static files on a CDN, so you can:
+Accelerator portfolios are scattered across ten different websites, each with its own format, filters and gaps. This project pulls them all into **one clean, consistent dataset** every day and serves it as static files on a CDN, so you can:
 
 - **Build lead lists** — every YC, Techstars or Antler company in a country or industry, with founder names and LinkedIn profiles.
 - **Research markets and investors** — which accelerators back which sectors, how cohorts have shifted year by year, who exited.
@@ -271,7 +271,7 @@ Each company is an object with the following fields:
 | Field | Type | Description |
 |---|---|---|
 | \`id\` | string | Stable unique id, e.g. \`yc-airbnb\` |
-| \`source\` | string | Portfolio source (\`techstars\`, \`yc\`, \`antler\`, \`500\`, \`ef\`, \`alchemist\`, \`plugandplay\`) |
+| \`source\` | string | Portfolio source (\`techstars\`, \`yc\`, \`antler\`, \`500\`, \`ef\`, \`alchemist\`, \`plugandplay\`, \`sosv\`, \`speedrun\`, \`itucekirdek\`) |
 | \`name\` | string | Company name |
 | \`description\` | string | Short description |
 | \`website\` | string | Company website URL |
@@ -284,26 +284,28 @@ Each company is an object with the following fields:
 | \`year\` | number | First session (cohort) year |
 | \`program\` | string | Accelerator program name |
 | \`programSlugs\` | string[] | Program slug(s) |
-| \`founders\` | object[] | Founders: \`name\`, \`role\`, \`linkedin\`, and where available \`twitter\`, \`github\`, \`website\`, \`bio\`, \`avatar\`, \`active\` (\`false\` for former founders) (YC profiles are filled in from ycombinator.com; EF, 500 and Alchemist from their portfolios) |
+| \`founders\` | object[] | Founders: \`name\`, \`role\`, \`linkedin\`, and where available \`twitter\`, \`github\`, \`website\`, \`bio\`, \`avatar\`, \`active\` (\`false\` for former founders) (YC profiles are filled in from ycombinator.com; EF, 500, Alchemist and a16z speedrun from their portfolios) |
 | \`sourceUrl\` | string | The company's page on its source portfolio (YC) |
 | \`isExit\` | boolean | Has exited |
 | \`isUnicorn\` | boolean | Valued $1B+ |
 | \`isBCorp\` | boolean | Certified B Corp |
 | \`isCurrentSession\` | boolean | In the current session |
-| \`status\` | string | \`active\`, \`inactive\`, \`acquired\` or \`public\` (YC; only present where the source says) |
-| \`teamSize\` | number | Team size (YC) |
+| \`status\` | string | \`active\`, \`inactive\`, \`acquired\` or \`public\` (YC, Alchemist, 500; only present where the source says) |
+| \`teamSize\` | number | Team size (YC, a16z speedrun) |
+| \`teamSizeRange\` | string | Team size band, e.g. \`11-50\` (SOSV, Alchemist) |
+| \`totalRaised\` | number | Total funding raised in USD, as reported by the source (SOSV, Alchemist) |
 | \`isHiring\` | boolean | Hiring right now; open roles are at \`sourceUrl\` + \`/jobs\` (YC) |
-| \`stage\` | string | \`Early\` or \`Growth\` (YC) |
+| \`stage\` | string | Stage as the source labels it: \`Early\` / \`Growth\` (YC); \`Pre-Seed\`, \`Seed\`, \`Series A\` … (500, SOSV, Alchemist) |
 | \`topCompany\` | boolean | On YC's top companies list (only present when \`true\`) |
 | \`firstSeen\` | string | Date the company first appeared in its source portfolio (tracked from November 2026 on) |
 | \`social\` | object | \`linkedin\`, \`twitter\`, \`facebook\`, \`crunchbase\` URLs |
 | \`alsoIn\` | string[] | Other portfolios the same company (same website) is in |
 | \`listed\` | boolean | Only present (as \`false\`) when the company no longer appears in its source portfolio — it is kept, never deleted |
-| \`formerNames\` | string[] | Previous names, when a company was renamed in its source portfolio (only present if renamed) |
+| \`formerNames\` | string[] | Previous names: renames seen in its source portfolio, plus former names YC lists (only present if renamed) |
 | \`delistedAt\` | string | Date the company was first missing from its source portfolio (with \`listed: false\`) |
 | \`extra\` | object | Selected raw source fields (\`city\`, \`state_province\`, \`country\`, \`investor\`) |
 
-> **CSV note:** \`all.csv\` keeps its original 22 columns in the same order and appends \`id\`, \`location\`, \`founder_roles\`, \`founder_linkedins\`, \`investor\`, \`also_in\`, \`listed\`, \`delisted_at\`, \`former_names\`, \`founder_twitters\`, \`founder_githubs\`, \`founder_websites\`, \`source_url\`, \`status\`, \`team_size\`, \`is_hiring\`, \`stage\`, \`top_company\` and \`first_seen\`. Cells that would start with \`=\`, \`+\`, \`-\` or \`@\` are prefixed with \`'\` so spreadsheet apps don't run them as formulas; the JSON is never altered.
+> **CSV note:** \`all.csv\` keeps its original 22 columns in the same order and appends \`id\`, \`location\`, \`founder_roles\`, \`founder_linkedins\`, \`investor\`, \`also_in\`, \`listed\`, \`delisted_at\`, \`former_names\`, \`founder_twitters\`, \`founder_githubs\`, \`founder_websites\`, \`source_url\`, \`status\`, \`team_size\`, \`is_hiring\`, \`stage\`, \`top_company\`, \`first_seen\`, \`team_size_range\` and \`total_raised\`. Cells that would start with \`=\`, \`+\`, \`-\` or \`@\` are prefixed with \`'\` so spreadsheet apps don't run them as formulas; the JSON is never altered.
 
 ### Example
 
@@ -337,7 +339,7 @@ See **[STATS.md](STATS.md)** for charts — companies per year, top countries an
 
 ## 🔄 How it stays fresh
 
-A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, 500 Global, Entrepreneur First, Alchemist, and Plug and Play from their public JSON endpoints, and Antler via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result.
+A scheduled job pulls each source — Techstars from its public search index, Y Combinator from its public company directory, 500 Global, Entrepreneur First, Alchemist, Plug and Play and SOSV from their public JSON endpoints, a16z speedrun and İTÜ Çekirdek from their public portfolio pages, and Antler via a headless browser — merges them into one dataset, rebuilds every JSON/CSV/XLSX file, regenerates the stats and this README, and commits the result.
 
 Guard rails keep a bad scrape from damaging the data:
 
@@ -394,7 +396,7 @@ Spotted a wrong or missing company? [Open a data issue](${GH}/issues/new?templat
 
 ## 📄 License
 
-The code is [MIT](LICENSE)-licensed. The data is sourced from the public Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, and Plug and Play portfolios and remains subject to each provider's terms — the MIT license covers the code, not their data. This project is not affiliated with or endorsed by any of them. City coordinates in \`geo.json\` come from [GeoNames](https://www.geonames.org/) (CC BY 4.0); the globe uses [globe.gl](https://github.com/vasturiano/globe.gl) (MIT) and [Natural Earth](https://www.naturalearthdata.com/) country shapes (public domain); the explorer is set in [Geist](https://github.com/vercel/geist-font) (SIL OFL 1.1). To request a correction to a company or founder record, [open an issue](https://github.com/yigitmeteozcan/startups/issues/new?template=data-issue.md).
+The code is [MIT](LICENSE)-licensed. The data is sourced from the public Techstars, Y Combinator, Antler, 500 Global, Entrepreneur First, Alchemist, Plug and Play, SOSV, a16z speedrun and İTÜ Çekirdek portfolios and remains subject to each provider's terms — the MIT license covers the code, not their data. This project is not affiliated with or endorsed by any of them. City coordinates in \`geo.json\` come from [GeoNames](https://www.geonames.org/) (CC BY 4.0); the globe uses [globe.gl](https://github.com/vasturiano/globe.gl) (MIT) and [Natural Earth](https://www.naturalearthdata.com/) country shapes (public domain); the explorer is set in [Geist](https://github.com/vercel/geist-font) (SIL OFL 1.1). To request a correction to a company or founder record, [open an issue](https://github.com/yigitmeteozcan/startups/issues/new?template=data-issue.md).
 `;
 }
 

@@ -21,7 +21,7 @@ test('committed dataset: every record is a real company with a unique id', () =>
 
 test('committed dataset: every source is present', () => {
   const sources = new Set(read('all.json').map((c) => c.source));
-  for (const s of ['techstars', 'yc', 'antler', '500', 'ef', 'alchemist', 'plugandplay']) {
+  for (const s of ['techstars', 'yc', 'antler', '500', 'ef', 'alchemist', 'plugandplay', 'sosv', 'speedrun', 'itucekirdek']) {
     assert.ok(sources.has(s), `missing source ${s}`);
   }
 });

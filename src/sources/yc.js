@@ -66,6 +66,10 @@ function normalizeYc(d) {
     isHiring: d.isHiring === true,
     stage: d.stage === 'Early' || d.stage === 'Growth' ? d.stage : '',
     topCompany: d.top_company === true,
+    // Names YC lists for the company before a rename.
+    formerNames: [...new Set(toArray(d.former_names).map((n) => String(n || '').trim()))].filter(
+      (n) => n && n.toLowerCase() !== String(d.name || '').trim().toLowerCase()
+    ),
     nonprofit: d.nonprofit === true,
     founders: [],
     social: {

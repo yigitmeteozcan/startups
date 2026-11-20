@@ -91,6 +91,12 @@ function normalizeAlchemist(item, classById) {
     isUnicorn: false,
     isBCorp: false,
     isCurrentSession: false,
+    // Extra detail from the portfolio API. (Pitch decks, demo videos and
+    // traction notes are in it too, but are deliberately not collected.)
+    status: /^acquired$/i.test(status) ? 'acquired' : /^active$/i.test(status) ? 'active' : '',
+    stage: String(m.last_round_stage || '').trim(),
+    teamSizeRange: String(m.nrofemployees || '').trim(),
+    totalRaised: Number(m.startup_totalraise) >= 1000 ? Number(m.startup_totalraise) : null,
     founders: parseFounders(m.startup_teamdescription),
     social: { linkedin: '', twitter: '', facebook: '', crunchbase: '' },
     extra: { country: (m.location_formatted_address || '').split(',').pop().trim() },

@@ -24,6 +24,9 @@ const { fetch500 } = require('./fivehundred');
 const { fetchEf } = require('./ef');
 const { fetchAlchemist } = require('./alchemist');
 const { fetchPlugAndPlay } = require('./plugandplay');
+const { fetchItuCekirdek } = require('./itucekirdek');
+const { fetchSosv } = require('./sosv');
+const { fetchSpeedrun } = require('./speedrun');
 const { isPlausibleCompany, collapseSpaces } = require('../normalize');
 const { withTimeout } = require('../http');
 const { domainOf } = require('../data/unicorns');
@@ -58,9 +61,12 @@ const SOURCES = {
   ef: fetchEf,
   alchemist: fetchAlchemist,
   plugandplay: fetchPlugAndPlay,
+  sosv: fetchSosv,
+  speedrun: fetchSpeedrun,
+  itucekirdek: fetchItuCekirdek,
 };
 
-const DEFAULT_SOURCES = ['techstars', 'yc', 'antler', '500', 'ef', 'alchemist', 'plugandplay'];
+const DEFAULT_SOURCES = ['techstars', 'yc', 'antler', '500', 'ef', 'alchemist', 'plugandplay', 'sosv', 'speedrun', 'itucekirdek'];
 
 function readCommitted(file) {
   try {
@@ -166,7 +172,7 @@ function missingFrom(prior, live) {
 //  - firstSeen (the day a company first appeared in its source) is kept.
 const BACKFILL_FIELDS = [
   'description', 'website', 'logo', 'location', 'region', 'subregion', 'year', 'program', 'sourceUrl',
-  'status', 'teamSize', 'stage', 'firstSeen',
+  'status', 'teamSize', 'teamSizeRange', 'totalRaised', 'stage', 'firstSeen',
 ];
 const SOCIAL_FIELDS = ['linkedin', 'twitter', 'facebook', 'crunchbase'];
 const EXTRA_FIELDS = ['city', 'state_province', 'country', 'investor'];

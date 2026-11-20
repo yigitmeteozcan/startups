@@ -98,6 +98,8 @@ const CSV_COLUMNS = [
   ['stage', (c) => c.stage || ''],
   ['top_company', (c) => (c.topCompany == null ? '' : c.topCompany)],
   ['first_seen', (c) => c.firstSeen || ''],
+  ['team_size_range', (c) => c.teamSizeRange || ''],
+  ['total_raised', (c) => c.totalRaised ?? ''],
 ];
 
 function toCsv(companies) {
@@ -376,6 +378,9 @@ const SOURCE_SITES = {
   ef: 'https://www.joinef.com/portfolio/',
   alchemist: 'https://www.alchemistaccelerator.com/portfolio',
   plugandplay: 'https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups',
+  sosv: 'https://sosv.com/portfolio/',
+  speedrun: 'https://speedrun.a16z.com/companies',
+  itucekirdek: 'https://girisimler.itucekirdek.com/',
 };
 
 const SOURCE_LABELS = {
@@ -386,6 +391,9 @@ const SOURCE_LABELS = {
   ef: 'Entrepreneur First',
   alchemist: 'Alchemist',
   plugandplay: 'Plug and Play',
+  sosv: 'SOSV (HAX, IndieBio)',
+  speedrun: 'a16z speedrun',
+  itucekirdek: 'İTÜ Çekirdek',
 };
 
 function buildMeta({ counts, groupIndexes, generatedAt, bySource = {}, status = {}, dataDir = null }) {

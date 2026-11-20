@@ -31,6 +31,10 @@ function earliestYear(investments) {
   return years.length ? Math.min(...years) : '';
 }
 
+const FIVEHUNDRED_STAGES = new Set([
+  'Pre-Seed', 'Seed', 'Series A', 'Series B', 'Series C', 'Series D & Beyond', 'Exited', 'Secondary Sale', 'Dissolved',
+]);
+
 function normalize500(d) {
   const org = d.organization || {};
   const country = org.countryOfOperation && org.countryOfOperation.name;
@@ -62,6 +66,10 @@ function normalize500(d) {
     program,
     programSlugs: ['500'],
     isExit: String(d.stage && d.stage.name).toLowerCase() === 'exited',
+    // 500's own stage label (Pre-Seed … Series D & Beyond, Exited); internal
+    // labels like "Active fund" / "NA" are skipped.
+    stage: FIVEHUNDRED_STAGES.has(d.stage && d.stage.name) ? d.stage.name : '',
+    status: d.stage && d.stage.name === 'Dissolved' ? 'inactive' : '',
     isUnicorn: false,
     isBCorp: false,
     isCurrentSession: false,
