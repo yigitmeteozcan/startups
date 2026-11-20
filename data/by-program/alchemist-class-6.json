@@ -19,6 +19,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Series A",
+    "totalRaised": 25500000,
     "founders": [
       {
         "name": "Andreas Raptopoulos",
@@ -68,6 +71,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "51-100",
+    "totalRaised": 8400000,
     "founders": [
       {
         "name": "Jesse Leimgruber",
@@ -112,6 +119,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 2995172,
     "founders": [
       {
         "name": "Olav Nedrelid",
@@ -151,6 +162,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 1087500,
     "founders": [
       {
         "name": "Sriram Subramanian",
@@ -191,45 +206,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-badgermaps",
-    "source": "alchemist",
-    "name": "BadgerMaps",
-    "description": "-",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2013,
-    "program": "Alchemist Class 6",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Steve Benson",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": ""
-    },
-    "country": "",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-eventable",
     "source": "alchemist",
     "name": "Eventable",
@@ -249,9 +225,51 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Sameen Karim",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": ""
+    },
+    "country": "",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-badgermaps",
+    "source": "alchemist",
+    "name": "BadgerMaps",
+    "description": "-",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2013,
+    "program": "Alchemist Class 6",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [
+      {
+        "name": "Steve Benson",
         "role": "",
         "linkedin": ""
       }

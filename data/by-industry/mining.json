@@ -112,7 +112,28 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Stratum Technologies",
+      "Stratum"
+    ],
+    "founders": [
+      {
+        "name": "Daniel Mogilny",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/danielmogilny",
+        "bio": "I live, love, breath AI. Background in machine intelligence @ UofT. AI founder of various stripes who's done a lot of enterprise sales last 5 years.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e4ec7af06ced880cc184cee50932b193d89472c.jpg",
+        "active": false
+      },
+      {
+        "name": "Farzi Yusufali",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/farziyusufali",
+        "bio": "I'm a hardware engineer on paper, a quantum computing and ML engineer in practice, and a student of geology and mining. In pursuing my goal of finding elegant solutions to tough problems, I've worked in the tissue engineering, photonics, retail and telecom fields. My experiences are as straightforward as my hair.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0af0b85148d7a5a756777159f37f3f7c83636357.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -156,6 +177,9 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Impossible Mining"
+    ],
     "founders": [
       {
         "name": "Oliver Gunasekara",
@@ -221,6 +245,9 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "KorrAI Technologies Ltd."
+    ],
     "founders": [
       {
         "name": "Rahul Anand",

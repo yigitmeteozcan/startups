@@ -19,6 +19,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Series A",
+    "teamSizeRange": "11-50",
+    "totalRaised": 26039581,
     "founders": [
       {
         "name": "Georges",
@@ -103,6 +107,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Series A",
+    "teamSizeRange": "51-100",
+    "totalRaised": 15000000,
     "founders": [
       {
         "name": "Founders",
@@ -212,6 +220,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 1456000,
     "founders": [
       {
         "name": "CEO: Martin Dal",
@@ -261,6 +273,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "stage": "Angel",
+    "teamSizeRange": "1-10",
+    "totalRaised": 810000,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -294,6 +310,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 700000,
     "founders": [
       {
         "name": "Pruthvi Rao",
@@ -373,6 +393,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 50000,
     "founders": [
       {
         "name": "Joey Primiani",
@@ -413,99 +437,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-logimove",
-    "source": "alchemist",
-    "name": "LogiMove",
-    "description": "Build Step-by-Step Workflows and Processes on Central Platform which can be Executed on Smartphones in Mobile Execution Container",
-    "logo": "",
-    "website": "",
-    "location": "Redwood City, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2017,
-    "program": "Alchemist Class 19",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Philipp Weirauch",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-twizted-design",
-    "source": "alchemist",
-    "name": "Twizted Design",
-    "description": "Our vision is to revolutionize how OTT media is created, personalized and consumed.\n\nMany broadcasters and content providers today, shift from traditional broadcast to streaming video. In this shift from broadcast to streaming video, our product Videoflow aims to be the leading SaaS platform that enables them to deliver personalized and targeted content over live streams and VOD. And enables the viewers to interact with the content while watching. Our product has launched and our customers are the industry leading broadcasters.\n\n",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 19",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jan Umansky",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Practical engineering degree in Design",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Danny Umansky",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "[B.SC] in Computer Since",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-grafhopper-inc",
     "source": "alchemist",
     "name": "Grafhopper Inc.",
@@ -525,6 +456,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Vivek Agarwal",
@@ -569,6 +502,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Nigel Beck",
@@ -582,6 +517,52 @@
       },
       {
         "name": "Justin Louie",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-hardin-scientific-inc",
+    "source": "alchemist",
+    "name": "Hardin Scientific, Inc.",
+    "description": "Hardin Scientific is at the forefront of technological advancement.  \n We provide the highest quality tools and materials for exponential discovery and collaboration of the greatest minds.\n\nOur primary focus is on the design and manufacturing of the only modular and IoT enabled laboratory equipment in the Research, Diagnostics, and Forensics industry.\n\n",
+    "logo": "",
+    "website": "",
+    "location": "Wildomar, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 19",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Aaron Hardin",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ed Jenks",
         "role": "",
         "linkedin": ""
       }
@@ -618,6 +599,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Tom Covington",
@@ -631,6 +614,103 @@
       },
       {
         "name": "Mark Mooney",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-twizted-design",
+    "source": "alchemist",
+    "name": "Twizted Design",
+    "description": "Our vision is to revolutionize how OTT media is created, personalized and consumed.\n\nMany broadcasters and content providers today, shift from traditional broadcast to streaming video. In this shift from broadcast to streaming video, our product Videoflow aims to be the leading SaaS platform that enables them to deliver personalized and targeted content over live streams and VOD. And enables the viewers to interact with the content while watching. Our product has launched and our customers are the industry leading broadcasters.\n\n",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 19",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Jan Umansky",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Practical engineering degree in Design",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Danny Umansky",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "[B.SC] in Computer Since",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-logimove",
+    "source": "alchemist",
+    "name": "LogiMove",
+    "description": "Build Step-by-Step Workflows and Processes on Central Platform which can be Executed on Smartphones in Mobile Execution Container",
+    "logo": "",
+    "website": "",
+    "location": "Redwood City, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2017,
+    "program": "Alchemist Class 19",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Philipp Weirauch",
         "role": "",
         "linkedin": ""
       }
@@ -667,6 +747,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Filip Dousek",
@@ -726,6 +808,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Lucy Richards",
@@ -775,53 +859,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Enlai Chu",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-hardin-scientific-inc",
-    "source": "alchemist",
-    "name": "Hardin Scientific, Inc.",
-    "description": "Hardin Scientific is at the forefront of technological advancement.  \n We provide the highest quality tools and materials for exponential discovery and collaboration of the greatest minds.\n\nOur primary focus is on the design and manufacturing of the only modular and IoT enabled laboratory equipment in the Research, Diagnostics, and Forensics industry.\n\n",
-    "logo": "",
-    "website": "",
-    "location": "Wildomar, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 19",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Aaron Hardin",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ed Jenks",
         "role": "",
         "linkedin": ""
       }

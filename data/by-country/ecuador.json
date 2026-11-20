@@ -141,7 +141,27 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Fast Farma"
+    ],
+    "founders": [
+      {
+        "name": "Santiago Ribadeneira",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sribadeneira/",
+        "twitter": "https://twitter.com/s_ribadeneira",
+        "bio": "Cofounder @ Fastfarma, Founding MD @ Endeavor in Ecuador",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5def743cf8bc997b42711f71c2295c1c524cd696.jpg"
+      },
+      {
+        "name": "Marcelo Albuja",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/marceloalbuja/",
+        "twitter": "https://twitter.com/albujafreile",
+        "bio": "Co-Founder @FastFarma, ex-Territory Manager @UberEats, Master of Science @Columbia",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/76461884334fa344a9be4ffd8dee03b618aacef3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -171,6 +191,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -223,6 +244,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -280,6 +302,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 14060000,
     "founders": [
       {
         "name": "Team: Roberto Arroyo",

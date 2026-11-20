@@ -71,6 +71,9 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Sunu Inc."
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -111,6 +114,10 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Point.",
+      "EasyEmail"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -236,7 +243,29 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "FalconAI Technologies",
+      "Inc."
+    ],
+    "founders": [
+      {
+        "name": "Olcay Yilmazcoban",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/olcay-yilmazcoban/",
+        "bio": "I'm 3x founder (also a Y Combinator founder) and a former VC investor with an engineering background.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/be62c45ed3ad822928cbc85716485c8cc9732a3c.jpg",
+        "active": false
+      },
+      {
+        "name": "Berk Ozer",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ozerberk/",
+        "twitter": "https://twitter.com/berkbuilds",
+        "bio": "I’m a 2-time entrepreneur (also a Y Combinator founder), a former management consultant at Deloitte, and a former software developer",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/161226e893708ccddf44db03cbb3bfef9f6fbfff.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -19,6 +19,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 7063699,
     "founders": [
       {
         "name": "Raymond Hong & Jake Kyung",
@@ -58,6 +62,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 6025000,
     "founders": [
       {
         "name": "Eric Bennett",
@@ -122,6 +130,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 5050000,
     "founders": [
       {
         "name": "Alon Gilady",
@@ -176,6 +188,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 4090000,
     "founders": [
       {
         "name": "Bharat Vijay",
@@ -215,6 +231,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 2940000,
     "founders": [
       {
         "name": "Camilo Contreras",
@@ -259,6 +279,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 200000,
     "founders": [
       {
         "name": "Tareq Aljaber",
@@ -298,6 +322,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "totalRaised": 125000,
     "founders": [
       {
         "name": "Boken Lin",
@@ -328,39 +355,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-elton-inc",
-    "source": "alchemist",
-    "name": "Elton, Inc.",
-    "description": "Automating repetitive back-office processes where human intervention should be the exception, not the norm.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 24",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-spext",
     "source": "alchemist",
     "name": "Spext",
@@ -380,6 +374,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Anup Gosavi",
@@ -424,6 +420,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
     "founders": [
       {
         "name": "Emmanuel Oquendo",
@@ -468,6 +465,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Balqis Chepkwony",
@@ -495,6 +494,41 @@
       "country": "Kenya"
     },
     "country": "Kenya",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-elton-inc",
+    "source": "alchemist",
+    "name": "Elton, Inc.",
+    "description": "Automating repetitive back-office processes where human intervention should be the exception, not the norm.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 24",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
     "alsoIn": []
   }
 ]

@@ -185,6 +185,9 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Cityposh"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -350,6 +353,9 @@
     "teamSize": 120,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "SpinPunch"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -515,6 +521,10 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "InsiteVR",
+      "Resolve (Formerly InsiteVR)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -556,6 +566,9 @@
     "teamSize": 45,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Eden Workplace"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -680,6 +693,9 @@
     "teamSize": 250,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "BioRender.io"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -720,6 +736,9 @@
     "teamSize": 65,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Repl.it"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -800,6 +819,9 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Verbalize"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -841,6 +863,9 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Glasswing"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -880,6 +905,12 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Spree",
+      "Masonic",
+      "Sail",
+      "sail"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -920,6 +951,10 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Wisp",
+      "Tandem (formerly Wisp)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -961,6 +996,9 @@
     "teamSize": 150,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "CoLab Software"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1147,7 +1185,24 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mauricio Morales",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maomorales/",
+        "twitter": "https://twitter.com/maomorales",
+        "bio": "CEO at DailyBot Mauricio has been building internet products for over 15y. MsC and MBA. He has been involved in product management at different startups and helped build tech companies that have scaled rapidly and were acquired. He's lived in 3 countries.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0c8c909c734290d1b7b36a9c93d2c2aa7f12e5c3.jpg"
+      },
+      {
+        "name": "Sergio Florez",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/xergioalex/",
+        "twitter": "https://twitter.com/XergioAleX",
+        "bio": "CTO at DailyBot — leading and building unique conversational experiences for asynchronous work. Sergio is a computer science engineer, MSc in data science and passionate entrepreneur, with talent and more than 10y of experience building digital businesses. He's in the search of the ideation of disruptive business models as agents of change and success.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c5d98fc547869ed7e082728e254f86af1044bb15.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1188,7 +1243,32 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mahyad Ghassemi",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mahyad-ghassemi/",
+        "twitter": "https://twitter.com/MahyadGhassemi",
+        "bio": "2x YC founder building a web app to create AI coworkers using natural language, think of it as Lovable but specifically designed for AI agents. previously built the first web browser designed for work with AI agents built in @SigmaOS (S21), used by 100,000+ people with 75,000 LLM requests per day.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fce85c1b4ac5ed873104ac712da55650c69516ff.jpg"
+      },
+      {
+        "name": "Ali Attar",
+        "role": "Founder/CPO",
+        "linkedin": "https://www.linkedin.com/in/attarali",
+        "twitter": "https://twitter.com/aliatttar",
+        "bio": "Founder @Lightberry (F25) 💛",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fc8e4cc390f95fd1cb22381c69d3e994240bed1e.jpg"
+      },
+      {
+        "name": "Saurav Mitra",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thesauravmitra/",
+        "twitter": "https://www.twitter.com/thesauravmitra",
+        "bio": "Building Okibi (S25) to create AI coworkers using natural language, like Lovable but specifically designed for agents. Previously built SigmaOS (S21), the agentic browser built for work. Used by 100,000+ people.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/65318fee772e03105f7ea545a50aff50921896a0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1230,7 +1310,30 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mila Dayan",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mila-dayan",
+        "bio": "Co-founder at Beau, Cannes Lions Award winner",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/931fd36d8d366305b186f5fbd90b1081f73a1bc4.jpg"
+      },
+      {
+        "name": "Kyril Kulikov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kyril-ku/",
+        "twitter": "https://twitter.com/kyrilku",
+        "bio": "cofounder at Beau",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f27bf4826a0563ff358efc2979863a15cff204fe.jpg"
+      },
+      {
+        "name": "Kirill Zakharov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kirillzaharov",
+        "bio": "Former backend developer and team lead at fast growing russian companies and startups, product oriented and focused on delivering business results as fast as possible",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f1f82005675004685bf32fc2165ed62bf6c34917.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1324,6 +1427,11 @@
     "teamSize": 15,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Snippyly Inc.",
+      "Snippyly",
+      "Velt: Collaboration SDK"
+    ],
     "founders": [
       {
         "name": "Rakesh Goyal",
@@ -1374,6 +1482,10 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Onboard Software",
+      "Inc"
+    ],
     "founders": [
       {
         "name": "Jeffrey Douglas",
@@ -1554,6 +1666,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Reactline",
+      "Warlin"
+    ],
     "founders": [
       {
         "name": "Divyagnan Kandala",
@@ -1778,6 +1894,9 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Umbrella Company"
+    ],
     "founders": [
       {
         "name": "Jacob Thornton",
@@ -1835,6 +1954,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Indorsed"
+    ],
     "founders": [
       {
         "name": "Dhruhin Kurli",
@@ -1895,6 +2017,9 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Maitai"
+    ],
     "founders": [
       {
         "name": "Christian DalSanto",
@@ -2046,6 +2171,9 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Pops"
+    ],
     "founders": [
       {
         "name": "Alon Zuman",
@@ -2097,6 +2225,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "OnePatch"
+    ],
     "founders": [
       {
         "name": "Shalin Patel",

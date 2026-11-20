@@ -29,7 +29,16 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Botty Dimanov",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/botty-dimanov/",
+        "twitter": "https://twitter.com/botty_dimanov",
+        "bio": "Dr. Botty Dimanov, CEO & Co-Founder of Tenyks, holds a PhD in Explainable AI for Vision from Cambridge University, invented US Patent for extracting concepts from visual information, and is a Forbes 30U30 honouree. Tenyks is an award-winning Cambridge University spin-out backed by YCombinator. We are building probably the world's most advanced Visual Intelligence Platform – think Snowflake for Visual data.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1b50c89a9b232779d526ed936a1b186f488283ad.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -72,6 +81,11 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Enbank",
+      "Fynt",
+      "Fynt AI"
+    ],
     "founders": [
       {
         "name": "Nick Gospodinov",

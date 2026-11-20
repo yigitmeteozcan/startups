@@ -150,6 +150,9 @@
     "teamSize": 200,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "DroneBase"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -230,6 +233,9 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Flirtey"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -350,6 +356,10 @@
     "teamSize": 85,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "volans-i",
+      "Volans-i"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -473,6 +483,9 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Corvidair"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -555,6 +568,9 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Paladin Drones"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -684,6 +700,10 @@
     "teamSize": 77,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Lucid Drone Technologies",
+      "Lucid Drone Tech"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -726,7 +746,28 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Exosonic",
+      "Inc."
+    ],
+    "founders": [
+      {
+        "name": "Tim MacDonald",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/timdmacd/",
+        "bio": "Co-founder of supersonic aircraft startup.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fc8f6a9cbc67a85e3c4c9e514e63545720836109.jpg",
+        "active": false
+      },
+      {
+        "name": "Norris Tie",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/norristie/",
+        "bio": "Norris is a Stanford MBA graduate (2019) and aerospace engineer from UCLA (2014), In between his BS and MBA, he spent three years working in aerospace as a propulsion engineer, all on vehicles that fly faster than the speed of sound. He’s been passionate about faster commercial flight since he was little and is dedicated to solving the problem. He has the academic and industry background, grit, and passion to build Exosonic and introduce a new boomless era of supersonic commercial aviation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/782932a64c1a1a8e29443f8434e5bafe2b984a35.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -765,6 +806,9 @@
     "status": "active",
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Avion UAV"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -809,7 +853,38 @@
     "teamSize": 10,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Kiddernet (prev. Kalam Labs)",
+      "AskPenny",
+      "Kiddernet (prev Kalam Labs)"
+    ],
+    "founders": [
+      {
+        "name": "Ahmad Faraaz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/feed/",
+        "twitter": "https://twitter.com/AHMADFA38043127",
+        "bio": "Building ambitious space missions",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fdc2f37053903adb7c3fe6f6aec427c4e31dc230.jpg",
+        "active": false
+      },
+      {
+        "name": "Sashakt Tripathi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sashakt-tripathi",
+        "twitter": "https://twitter.com/sashakttripathi",
+        "bio": "Hard Tech ❤️",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5cf06846aee8aa29b141e1394543eb398820731e.jpg",
+        "active": false
+      },
+      {
+        "name": "Harshit Awasthi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/harshit016/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d855501f2f1a8e96bdb4868a0277194850835087.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -850,7 +925,19 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Buoyant Technologies",
+      "Buoyant"
+    ],
+    "founders": [
+      {
+        "name": "Benjamin Claman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/benjaminclaman/",
+        "bio": "Ben has built distributed sensing systems for the military, patented electronically steered antennas for next-gen satellite connectivity, and designed + built GPS data-loggers for motorcycle racers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9bd1103daa4f28d00c4ec0610a863523e4450908.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -892,6 +979,9 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "LlamaFarm"
+    ],
     "founders": [
       {
         "name": "Robert Thelen",
@@ -1011,6 +1101,9 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Radical Inc."
+    ],
     "founders": [
       {
         "name": "James Thomas",
@@ -1070,6 +1163,10 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Elodin Systems",
+      "Inc"
+    ],
     "founders": [
       {
         "name": "Daniel Driscoll",
@@ -1258,6 +1355,9 @@
     "teamSize": 9,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "SplashAI"
+    ],
     "founders": [
       {
         "name": "Ivan Avanesov",
@@ -1316,6 +1416,9 @@
     "teamSize": 18,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Albacore Ocean Systems, Inc."
+    ],
     "founders": [
       {
         "name": "Dante Vaisbort",
@@ -1429,6 +1532,9 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Voltair Inc."
+    ],
     "founders": [
       {
         "name": "Ronan Nopp",
@@ -1497,6 +1603,11 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "DroneTector Ltd",
+      "DroneTector",
+      "Milliray (formerly DroneTector)"
+    ],
     "founders": [
       {
         "name": "Matthew Moore",
@@ -1561,6 +1672,9 @@
     "teamSize": 7,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Seeing Systems Ltd"
+    ],
     "founders": [
       {
         "name": "Alexander Le Maitre",
@@ -1619,6 +1733,10 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "GrazeMate",
+      "Brumby (Formerly GrazeMate)"
+    ],
     "founders": [
       {
         "name": "Sam Rogers",
@@ -1644,7 +1762,7 @@
     "id": "yc-degla-inc",
     "source": "yc",
     "name": "Degla Inc",
-    "description": "The fully autonomous intelligence layer in the sky.",
+    "description": "Your intent. Onboard autonomous execution.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
     "website": "https://degla.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/degla-inc",
@@ -1781,6 +1899,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Mass Energy Company"
+    ],
     "founders": [
       {
         "name": "Eric Silver",
@@ -1970,6 +2091,9 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Earendil Robotics Ltd"
+    ],
     "founders": [
       {
         "name": "James Walton",
@@ -2155,6 +2279,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Pendulum Robotics"
+    ],
     "founders": [
       {
         "name": "Jon Facer",

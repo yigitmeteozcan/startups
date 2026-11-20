@@ -236,6 +236,9 @@
     "teamSize": 58,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Alpine Roads"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -277,6 +280,9 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "WaterFX Inc."
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -444,7 +450,15 @@
     "teamSize": 34,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mario Bustamante",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mario-andr%C3%A9s-bustamante-bernucci-36a79030/",
+        "bio": "As an electronics engineer with 10+ years of experience, I developed personalized IoT devices selling 11,000+ units which led to my first exit. I sold my first startup to one of the top retailers in LATAM. Inspired by my girlfriend, a farmer and agronomist, I became passionate about helping farmers make better decisions. Today, with Instacrops, we are operating in 350+ farms wondering how to improve the food production with Software and AI reducing food security risks",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7ee0dc1683a33b908aa5447eecff78993fcca28b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -485,7 +499,15 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Katherine French",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/katherine-french-a8452b1b4/",
+        "bio": "I am a biologist dedicated to developing new technologies that harness nature to clean up the environment. I completed my PhD in the Department of Plant Sciences at Oxford University in 2016. Since then, I have worked at UC Berkeley and Lawrence Berkeley National Lab to engineer organisms for bioremediation and to understand the environmental effects of genetically engineered bacteria and plants. BluumBio combines my passion for sustainability with my commitment to bioinovation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5932058fd8d3a8eabcdd9590c5770ca4c0963183.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -531,7 +553,29 @@
     "teamSize": 33,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Eatgood"
+    ],
+    "founders": [
+      {
+        "name": "Anahí Sosa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anahisosa/",
+        "twitter": "https://twitter.com/anahi_spd",
+        "bio": "Co-Founder & COO of Perfekto, reducing food waste through a subscription box of food items that would otherwise be wasted due to supply chain inefficiencies or strict cosmetic standards. Previously worked at Uber for almost 5 years where I had the opportunity of leading Uber Grocery. Worked also at Unilever in areas like Logistics Finance.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/372de0e5724ce95e603cbc246308b29750f05be2.jpg",
+        "active": false
+      },
+      {
+        "name": "Jan Heinvirta",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/janheinvirta/",
+        "twitter": "https://twitter.com/backpekka",
+        "bio": "Co-Founder & CEO at Perfekto. On a mission to create a more sustainable food system in LatAm, where more than 1/3 of food is wasted due to strict industry standards and supply chain inefficiencies. Previously founding team member and Head of LATAM at a Swiss FinTech. Scaled it from Seed to Pre-Series B and from Switzerland to Mexico.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d6eb8813e1113f66fc876eadc9df01063c03ee49.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -574,6 +618,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Vista Space"
+    ],
     "founders": [
       {
         "name": "Maxim Kraft",
@@ -729,6 +776,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -771,6 +819,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -824,6 +873,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -882,6 +932,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -934,6 +985,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,

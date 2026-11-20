@@ -80,7 +80,27 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Micro Meat Inc."
+    ],
+    "founders": [
+      {
+        "name": "Anne-Sophie Mertgen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anne-sophie-mertgen/",
+        "bio": "I am a biomedical engineer (with PhD from ETH Zurich) passionate about saving our planet and animal welfare. That is why I decided to focus my career towards cultivated meat and why I started Micro Meat in 2021 and now Pythag Tech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/468327e255464133d0fc65f89e76807c0320b6c4.jpg",
+        "active": false
+      },
+      {
+        "name": "Vincent Pribble",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vincentpribble/",
+        "bio": "Launched rockets at ULA. Built New Glenn at Blue Origin. Founded through Y Combinator. Now leading rad-hard microelectronics at Mercury Systems.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/449653b38201db6a5c1a2737fc1d602c056351c3.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -123,6 +143,10 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Mooij Bio",
+      "Mooji Meats"
+    ],
     "founders": [
       {
         "name": "Insa Mohr",

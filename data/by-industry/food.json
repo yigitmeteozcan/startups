@@ -113,6 +113,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Foodie"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -199,6 +202,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Athens Research"
+    ],
     "founders": [
       {
         "name": "Jeff Tang",
@@ -252,6 +258,9 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Leap Club"
+    ],
     "founders": [
       {
         "name": "Shubham Bansal",
@@ -310,7 +319,22 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Christopher Clark",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christopher-clark-a78620103/",
+        "bio": "I'm passionate about creating food that helps you feel and perform your best. I studied economics and statistics at Cal Poly. Prior to founding Locale, I worked in tech investment banking for a year. I love traveling and skiing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fc0c7e34bf4e760327ae4ea5c50e4b4edbcbc17d.jpg"
+      },
+      {
+        "name": "Kaveh Nemati",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kaveh-nemati-1b6205100/",
+        "bio": "I'm passionate about finding diets that help people function at their peak. I studied Statistics at Cal Poly. Prior to founding Locale, I worked in agtech and sales. I enjoy sports and being in the outdoors.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/25b5c2083f72e9fc69bb61cf51fe7a915dd73d2c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -350,6 +374,9 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Dropezy"
+    ],
     "founders": [
       {
         "name": "Chandni Chainani",
@@ -469,6 +496,12 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Purge",
+      "Fix AI",
+      "Candid",
+      "BookMyFlight"
+    ],
     "founders": [
       {
         "name": "Arav Seth",
@@ -515,6 +548,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -577,6 +611,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -624,6 +659,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -667,6 +703,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -719,6 +756,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series C",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -772,6 +810,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -814,6 +853,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -866,6 +906,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -907,6 +948,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -948,6 +990,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1002,6 +1045,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1049,6 +1093,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series C",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1096,6 +1141,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1132,6 +1178,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1190,6 +1237,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1246,6 +1294,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1288,6 +1337,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1350,6 +1400,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1391,6 +1442,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1449,6 +1501,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1507,6 +1560,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1558,6 +1612,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1599,6 +1654,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1647,6 +1703,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1689,6 +1746,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1741,6 +1799,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1788,6 +1847,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1845,6 +1905,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1891,6 +1952,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1942,6 +2004,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1990,6 +2053,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2042,6 +2106,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series C",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2090,6 +2155,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2151,6 +2217,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2202,6 +2269,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2243,6 +2311,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,

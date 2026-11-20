@@ -70,7 +70,22 @@
     "teamSize": 21,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mehdi Cherif Alami",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/mehdi-ca/",
+        "bio": "Co-founder and CEO at Freterium",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1445ca52ed9d5c2145c550ae0f23ce9d8a467fbc.jpg"
+      },
+      {
+        "name": "Omar El Kouhene",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/omar-el-kouhene-981b0412/",
+        "bio": "Work experience Logistics consultant & Shipping Broker Freelance 05/2015 - 12/2018 Shipping & Supply Chain Manager OCP Group 12/2011 - 05/2015 Consultant McKinsey & Company 02/2011 - 10/2011 Education Master of Engineering CentraleSupelec 2007-2011 Maths & Info Preparatory classes Lycee Sainte Geneviève 2005-2007",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6a7d7e1aee98ec1462214fd921e2173852d9de68.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -112,7 +127,27 @@
     "teamSize": 100,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Chari Co."
+    ],
+    "founders": [
+      {
+        "name": "Ismael Belkhayat",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/belkhayat",
+        "twitter": "https://twitter.com/ismaelbelkhayat",
+        "bio": "Moroccan born & raised. Went to a french High School in Rabat Morocco, then left Morocco to go to University in Europe and the US. I studied and lived in Paris, London, Madrid and Ithaca. I started my career working as a consultant for the Boston Consulting Group and then left after 3 years to become a tech entrepreneur in Casablanca Morocco.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0538f8b341e13836db0c3b26a86b8fd792e059f2.jpg"
+      },
+      {
+        "name": "Sophia Alj",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sophia-alj-40333960/",
+        "twitter": "https://twitter.com/alj_sophia",
+        "bio": "I am a tech entrepreneur, co-founder & COO of Chari.co. I am an ex-McKinsey consultant with a passion for digital transformations. I am the mom of 2: Malyk & Leyla, 3 and 2 years old. I am a triathlete & skydiver.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3dcd9d767ceeb71c90be6d98d91287452614bddb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -143,6 +178,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -193,6 +229,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,

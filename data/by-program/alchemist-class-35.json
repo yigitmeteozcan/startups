@@ -19,6 +19,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 3500000,
     "founders": [
       {
         "name": "Dale Calder",
@@ -68,6 +72,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 3140000,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -101,6 +109,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 3000000,
     "founders": [
       {
         "name": "Alexei Dunaway",
@@ -145,6 +157,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 2500000,
     "founders": [
       {
         "name": "Nate Poon",
@@ -189,6 +205,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 1735000,
     "founders": [
       {
         "name": "Murat Hacioglu",
@@ -233,6 +253,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Series A",
+    "teamSizeRange": "1-10",
+    "totalRaised": 1485593,
     "founders": [
       {
         "name": "Mao Parr",
@@ -282,6 +306,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 1200000,
     "founders": [
       {
         "name": "Balaji Viswanathan",
@@ -326,6 +354,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 760000,
     "founders": [
       {
         "name": "Stephen Morrell: Medical AI Scientist",
@@ -370,6 +402,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Angel",
+    "teamSizeRange": "1-10",
+    "totalRaised": 450000,
     "founders": [
       {
         "name": "Deniz Ozgur",
@@ -419,6 +455,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 250000,
     "founders": [
       {
         "name": "Neil Mitra",
@@ -449,50 +489,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-pivla",
-    "source": "alchemist",
-    "name": "Pivla",
-    "description": "AI Agents for Labor Compliance",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 35",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Nigel Coelho",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Karl Coelho",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-redshift",
     "source": "alchemist",
     "name": "Redshift",
@@ -512,6 +508,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Alex Lazich",
@@ -561,6 +559,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
     "founders": [
       {
         "name": "Alex Abol (ex VP Strategy",
@@ -569,6 +569,52 @@
       },
       {
         "name": "Yuri Baburov (Asst Prof AI",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-pivla",
+    "source": "alchemist",
+    "name": "Pivla",
+    "description": "AI Agents for Labor Compliance",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 35",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Nigel Coelho",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Karl Coelho",
         "role": "",
         "linkedin": ""
       }

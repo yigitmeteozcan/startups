@@ -30,6 +30,9 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "FlowCommand"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -113,6 +116,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Nomad Rides",
+      "Nomad Moments",
+      "Debt Destroyer (Formerly Nomad Rides)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -153,7 +161,23 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Dan Hobbs",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dan-hobbs-258998ab/",
+        "bio": "Hey there! My name is Dan, it's nice to meet you! I am the co founder and CEO of Protex AI. We provide proactive AI vision for workplace safety. I love to network and meet new people so get in touch for a virtual coffee to talk about all things start up!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1be3991be0a1923916e762c14bf45e47e9058696.jpg"
+      },
+      {
+        "name": "Ciarán O'Mara",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ciaranomara/",
+        "twitter": "https://twitter.com/ciaran_omara",
+        "bio": "Connecting the dots. Will look back later. ✌",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8285946530f94045c9a1f3bdc69f9b9a1717a4c9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

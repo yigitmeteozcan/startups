@@ -27,7 +27,26 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Gega Tsurtsumia",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/gegat/",
+        "twitter": "https://x.com/gegatsur",
+        "bio": "US Naval Academy --> Ocean Engineer --> Ex Georgian Military --> Several Startup failures --> aspiring backcountry skier & mountaineer --> turned founder",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/86940a51104270123e964a264f3e6ad76fabb12f.jpg",
+        "active": false
+      },
+      {
+        "name": "Kakha Gelashvili",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kakhagelashvili/",
+        "twitter": "https://twitter.com/kakha_ge",
+        "bio": "Software engineer, dropout from Caucasus School Of Technology, experience building and managing software for financial institutions. Founded Payze, where we are transforming payments in CIS region.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8580c9ffa0e6b791dc92984510ebac0162f057d2.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -19,6 +19,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "stage": "Series B",
+    "teamSizeRange": "1-10",
+    "totalRaised": 31720000,
     "founders": [
       {
         "name": "Ivana Schnur",
@@ -39,10 +43,50 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-upshot",
+    "id": "alchemist-drone-io",
     "source": "alchemist",
-    "name": "UPSHOT",
-    "description": "The only mobile reporting app that allows you to *create* new reports on your mobile device.\n\n",
+    "name": "drone.io",
+    "description": "Automated software delivery using Docker.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2013,
+    "program": "Alchemist Class 5",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "acquired",
+    "founders": [
+      {
+        "name": "Brad Rydzewski",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-appslingr",
+    "source": "alchemist",
+    "name": "AppSlingr",
+    "description": "A Technology Company that Lets People Access Any of their Files, and Use Any Application, on Any Device",
     "logo": "",
     "website": "",
     "location": "",
@@ -58,13 +102,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Joseph Turian",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "status": "acquired",
+    "teamSizeRange": "1-10",
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -97,6 +137,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Cathrine Andersen",
@@ -104,39 +146,6 @@
         "linkedin": ""
       }
     ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": ""
-    },
-    "country": "",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-appslingr",
-    "source": "alchemist",
-    "name": "AppSlingr",
-    "description": "A Technology Company that Lets People Access Any of their Files, and Use Any Application, on Any Device",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2013,
-    "program": "Alchemist Class 5",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -169,6 +178,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "CEO",
@@ -208,6 +219,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Ex-Convio : Tom Krackeler",
@@ -228,13 +241,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-drone-io",
+    "id": "alchemist-upshot",
     "source": "alchemist",
-    "name": "drone.io",
-    "description": "Automated software delivery using Docker.",
+    "name": "UPSHOT",
+    "description": "The only mobile reporting app that allows you to *create* new reports on your mobile device.\n\n",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -247,9 +260,11 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Brad Rydzewski",
+        "name": "Joseph Turian",
         "role": "",
         "linkedin": ""
       }
@@ -261,9 +276,9 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "USA"
+      "country": ""
     },
-    "country": "United States",
+    "country": "",
     "alsoIn": []
   }
 ]

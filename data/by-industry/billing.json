@@ -31,7 +31,23 @@
     "teamSize": 27,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anh-Tho CHUONG",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anhthochuong/",
+        "twitter": "https://twitter.com/byAnhtho",
+        "bio": "Anh-Tho leads the business side of Lago. She genuinely thinks \"SaaS is beautiful\" and therefore spent 10 years in go-to-market and product led growth roles in B2B SaaS startups. After a stint in consulting at McKinsey & Co, she joined Mailjet (acq. by Mailgun) as Head of Strategic projects. She then launched Weebly (YC W07) in France, before becoming the 1st employee at Qonto, one of the European fintech unicorns. During her tenure as VP Growth, she grew ARR from 0 to dozens of millions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a680ea33d82c7896e8ba2e6b7d06285d5353207.jpg"
+      },
+      {
+        "name": "Raffi SARKISSIAN",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sarkissianraffi",
+        "bio": "A 2nd time founder, Raffi is a Growth Product & Data expert, and leads Product at Lago. He led Data Operations at Qonto, one of the fintech unicorns in Europe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba4bf82817bb23e76f1a461d1ef27ccb1096577d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -174,6 +190,9 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Quill AI"
+    ],
     "founders": [
       {
         "name": "Gabriel Banks",

@@ -773,6 +773,10 @@
     "teamSize": 150,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Amber by inFeedo",
+      "inFeedo"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1012,7 +1016,20 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Atmana Innovations Pvt. Ltd. (formerly FunSwitch Technologies Pvt. Ltd)",
+      "Atmana Innovations Pvt. Ltd.",
+      "Atmana Innovations"
+    ],
+    "founders": [
+      {
+        "name": "Tejas Bala",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tejaspm/",
+        "bio": "Tejas is an entrepreneuer with over 12 years of experience working in startups in product & growth roles. He founded Atmana in 2020 to help youngsters overcome compulsive technology use.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2f07aaace7a4ffb74e93cf0ec0e0cf8ec3abd74b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1051,7 +1068,16 @@
     "teamSize": 88,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Omar Kassim",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/okassim/",
+        "twitter": "https://twitter.com/okassim",
+        "bio": "Omar is the Founder and CEO of Nomod. Omar previously founded and exited JadoPado, a highly regarded MENA e-commerce technology platform, to Noon.com in 2017. Omar has a BsC in Electronics Engineering and Business Studies from the University of Warwick, UK",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/13ffb99c457dc4b8455b518fd56948391aa398dd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1092,6 +1118,13 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "East Africa Financial Technologies Inc (Brand name: Bloom).",
+      "EAFT (Brand name: Bloom).",
+      "EAFT (Bloom)",
+      "Bloom",
+      "bloom"
+    ],
     "founders": [
       {
         "name": "Khalid Keenan",
@@ -1197,6 +1230,10 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Elkaso",
+      "Kaso (formerly Elkaso)"
+    ],
     "founders": [
       {
         "name": "Manar Alkassar",
@@ -1451,6 +1488,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Melly AI",
+      "Serno"
+    ],
     "founders": [
       {
         "name": "Andrew Malouf",
@@ -1497,6 +1538,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1543,6 +1585,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1589,6 +1632,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1635,6 +1679,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1681,6 +1726,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1729,6 +1775,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1770,6 +1817,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1816,6 +1864,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1860,6 +1909,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1921,6 +1971,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1960,6 +2011,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2009,6 +2061,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2055,6 +2108,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2096,6 +2150,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2139,6 +2194,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2183,6 +2239,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2226,6 +2283,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series C",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2272,6 +2330,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2325,6 +2384,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2368,6 +2428,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2412,6 +2473,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2468,6 +2530,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2510,6 +2573,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2551,6 +2615,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2597,6 +2662,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2645,6 +2711,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2686,6 +2753,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2729,6 +2797,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series D & Beyond",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2770,6 +2839,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2819,6 +2889,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2866,6 +2937,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2913,6 +2985,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2957,6 +3030,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2999,6 +3073,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3050,6 +3125,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3094,6 +3170,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3135,6 +3212,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3186,6 +3264,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3225,6 +3304,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3286,6 +3366,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3349,6 +3430,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3395,6 +3477,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3436,6 +3519,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3477,6 +3561,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3518,6 +3603,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3560,6 +3646,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3606,6 +3693,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3654,6 +3742,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3695,6 +3784,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3742,6 +3832,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3798,6 +3889,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3841,6 +3933,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3887,6 +3980,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3929,6 +4023,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3976,6 +4071,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4020,6 +4116,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4066,6 +4163,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4105,6 +4203,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4144,6 +4243,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4177,6 +4277,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4218,6 +4319,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4279,6 +4381,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4318,6 +4421,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4359,6 +4463,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4406,6 +4511,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4452,6 +4558,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4496,6 +4603,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4537,6 +4645,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4588,6 +4697,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4639,6 +4749,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4680,6 +4791,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4724,6 +4836,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4776,6 +4889,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4839,6 +4953,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4893,6 +5008,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4944,6 +5060,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series C",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4990,6 +5107,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5038,6 +5156,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5086,6 +5205,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5128,6 +5248,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5171,6 +5292,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5212,6 +5334,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5248,6 +5371,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5300,6 +5424,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series C",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5341,6 +5466,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5376,6 +5502,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5427,6 +5554,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5469,6 +5597,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,

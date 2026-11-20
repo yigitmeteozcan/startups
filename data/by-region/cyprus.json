@@ -30,7 +30,28 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Malloc, LTD.",
+      "Malloc"
+    ],
+    "founders": [
+      {
+        "name": "Maria Terzi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maria-terzi/",
+        "twitter": "https://twitter.com/mariankh_",
+        "bio": "Maria Terzi is the co-founder and CEO of Malloc. Maria holds a Ph.D. in Machine Learning and Recommender Systems. During her Ph.D., she won two Google hackathons and has previously worked at Google. Maria holds extensive experience in R&D in the areas of data analysis, machine learning, secure and private AI.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6a08f6a3943d618936dbd6c2c77dfc7a7727858.jpg"
+      },
+      {
+        "name": "Liza Charalambous",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lzcharalambous/",
+        "twitter": "https://twitter.com/lzcharalambous",
+        "bio": "Liza Charalambous is a Digital Security expert with 8+ years of experience in the ideation and implementation of (cyber) security projects. Liza holds a PhD in machine learning, as well as academic titles in signal processing and AI and digital communications. Over the years, she collaborated with various privately owned and public organizations to provide solutions that improve users’ quality of life.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bdcacd6c9da58df1227d94eb366d5e3b567653c6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

@@ -29,7 +29,24 @@
     "teamSize": 17,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Perseus Mlambo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/perseus",
+        "twitter": "https://twitter.com/perseusmlambo",
+        "bio": "CEO at Union54, developers of ChitChat.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9dc6c63451ce80c45ae40970c748bf852ee7622f.jpg"
+      },
+      {
+        "name": "Alessandra Martini",
+        "role": "Founder",
+        "linkedin": "https://za.linkedin.com/in/alessandra-martini-5bb15991",
+        "twitter": "https://twitter.com/AleMartiniM",
+        "bio": "Co-founder & COO at Union54",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/764bcdb519d4a77cd424a0a9516352ac68e79777.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

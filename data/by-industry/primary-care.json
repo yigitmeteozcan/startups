@@ -156,7 +156,22 @@
     "teamSize": 27,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ryan Singh",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ryanpreetsingh",
+        "twitter": "https://www.twitter.com/ryansingh123",
+        "bio": "COO and co-founder of Loop Health, a modern primary care plan for India. We're a team of 18 in Pune, India. Before Loop, I led programs in entrepreneurship education at the University of Illinois at Urbana-Champaign (UIUC), co-founding the iVenture Accelerator, the campus’s accelerator for top student startups. I studied Finance and Marketing at the University of Illinois at Urbana-Champaign and was a Watson University Social Enterprise Fellow.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7b4784f9cc28ef95c36cadaff72d2f2e85839e2f.jpg"
+      },
+      {
+        "name": "Mayank Kale",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kalemayank/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b41b829dcaeeedb1a3c9acc3f55ae3fce63e45c6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -199,7 +214,16 @@
     "teamSize": 6,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Casey Harlin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/caseyharlin/",
+        "twitter": "https://twitter.com/CaseyHarlin",
+        "bio": "Casey is a former engineer that’s spent the last 8 years as the VP of Product and Customer experience at Delta Dental, the largest dental insurance company in the US.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/27c8bb400145699f06d98e21218c97cef0da594c.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -240,7 +264,19 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Tiketeo"
+    ],
+    "founders": [
+      {
+        "name": "Jose Akle",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/joseakle",
+        "twitter": "https://twitter.com/pepeakle",
+        "bio": "Software engineer & engineering manager. Founded 3 companies in fintech (Solutrust acq. CIBanco), beverage (Sin Secretos acq. Kua Mex Foods) and ride hailing (Yaxi acq. Cabify). Worked at 3 fintechs: Paybook, Resuelve and Nubank.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/05322baeaa423704784bbe468feddf8baa10ff23.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -281,7 +317,21 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jiawei Li",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jiawei-c-li/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6a1879e75892ae093fc83dd45fcca0f632c27739.jpg"
+      },
+      {
+        "name": "Jialu Tu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jialu-tu-b2295615/",
+        "bio": "Jialu is a massive nerd, hence why it came to no surprise to anyone when he decided to do Maths at Imperial College London. However, after Imperial College, he strayed to the wrong path by going into financial services, where he stayed for close to 10 years observing how bad the sector as a whole is in terms of their tech. Being disappointed in FS and himself, he is now atoning his sins by doing a startup in the healthcare space. And yes, that is a Red Hat red hat.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c7e243abcff199e47b4507a80147c12829c8d6eb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -325,6 +375,11 @@
     "teamSize": 14,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Applied Genomics",
+      "Guide Genomics",
+      "Pepper Genomics"
+    ],
     "founders": [
       {
         "name": "Moran Snir",

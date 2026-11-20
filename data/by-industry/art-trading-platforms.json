@@ -29,7 +29,33 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "recordex (temporary)",
+      "discops"
+    ],
+    "founders": [
+      {
+        "name": "Cam Korzecke",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/cam-korzecke/",
+        "bio": "Co-founder & CEO of Nasdisc. Previously worked at Google on federated deep learning research, compilers, and ranking. Passionate about music, backpacking and code.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55bd7b93d91ed6dbbea1f69fd0090c23f89c7bdc.jpg"
+      },
+      {
+        "name": "Simeon Goolsby",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/simeon-goolsby-15859210a/",
+        "bio": "Co-founder of Nasdisc, iOS software engineer and music enthusiast. I've spent the last few years building music listening and education apps that leverage various audio related technologies. Much of my free time is spent writing iOS apps, exploring new music and raising a golden retriever.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8caa4fcaab4cf774a895f079d36afda2caf36988.jpg"
+      },
+      {
+        "name": "Christian White",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christian-white-2630967a/",
+        "bio": "Co-founder of Nasdisc. I graduated from Michigan State University in 2016 with a degree in computer science and then worked as a software engineer at Maxar where I developed distributed systems for signal processing applications. When not working, I like to read, hike, program for fun and play/listen to music.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e8d6e108ea9b7e7a2787bab1d0e0c14df5fe80b7.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

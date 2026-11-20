@@ -396,6 +396,9 @@
     "teamSize": 80,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Iron Ox"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -986,6 +989,9 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Taobotics LLC (深圳朝闻道智能信息科技有限公司)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1027,6 +1033,9 @@
     "teamSize": 12,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Robotic Sorting Solutions"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1068,6 +1077,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Nebullam"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1112,6 +1124,9 @@
     "teamSize": 50,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Volta Labs Inc."
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1195,6 +1210,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "BODYSIM by Well Principled"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1239,6 +1257,10 @@
     "teamSize": 77,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Lucid Drone Technologies",
+      "Lucid Drone Tech"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1282,6 +1304,9 @@
     "teamSize": 7,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Yummy Future Inc."
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1324,7 +1349,23 @@
     "teamSize": 30,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Rom Clément",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/romclement/",
+        "bio": "Co-founder and CTO of Teleo, Inc Ex-Lyft L5 (self-driving), Ex-Google (Street View) 0 to 60 across the board (tech sales, hardware, software, supply chain, deployment and customer success)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/35f8eb3137921ebcc2d279db388495164cbf6a4c.jpg"
+      },
+      {
+        "name": "Vinay Shet",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/vinayshet/",
+        "twitter": "https://twitter.com/vinay_shet",
+        "bio": "Vinay is the co-founder and CEO of Teleo. Prior to Teleo, he was the Director of Product Management at Lyft working on building Lyft's self-driving cars. Prior to Lyft, Vinay led Product Management at Google Street View, Google Maps, and Google reCAPTCHA launching several consumer products used by millions of users worldwide. Vinay has a Ph.D. in Computer Science, focusing on Computer Vision from the University of Maryland, College Park",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0b9037152ce8a6d6d6b5c31985c828cf00554573.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1366,7 +1407,26 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "formerNames": [
+      "Inc"
+    ],
+    "founders": [
+      {
+        "name": "Victor Darolfi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/victor-darolfi-92b17311/",
+        "bio": "Victor Darolfi is a seasoned entrepreneur (1 exit) and passionate roboticist with 11 years of experience designing, fabricating, and building robotics and automation equipment. Some of his equipment is installed and operational at well-known tech companies including Tesla, SpaceX, Zume Pizza, Space System Loral, Zee Aero, Intel & Lam Research.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b5eb08936745ea3bf80dc78b253c312d1c394772.jpg",
+        "active": false
+      },
+      {
+        "name": "Will Mapes",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/wmapes7",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/544adfa8f6016cbbf890494bc7b39bca39d02ca6.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1408,7 +1468,29 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "formerNames": [
+      "Cyberdontics",
+      "Perceptive Technologies, Inc (formerly Cyberdontics",
+      "Perceptive Technologies, Inc (formerly Cyberdontics)",
+      "Perceptive Technologies, Inc"
+    ],
+    "founders": [
+      {
+        "name": "Chris Ciriello",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/christopher-ciriello/",
+        "bio": "Founder Perceptive Tech, developed biomarker thesis, first in motion OCT, AI OCT models, first human automated dental crown prep.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ffb629bd59d9a6c7c30987db0e510aa33aabed1b.jpg",
+        "active": false
+      },
+      {
+        "name": "Scott Phillips",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/scotthphillips/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0fda450e09adb59a4965d67e7abcbdec8402d92b.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1493,6 +1575,10 @@
     "teamSize": 65,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Morphle Technologies Private Limited",
+      "Morphle"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1534,6 +1620,9 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Lector"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1620,6 +1709,12 @@
     "teamSize": 20,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "RCML",
+      "NeXtera Robotics",
+      "NextEra Robotics",
+      "Nextera Robotics"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1790,6 +1885,10 @@
     "teamSize": 150,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Cord Technologies",
+      "Cord"
+    ],
     "founders": [
       {
         "name": "Ulrik Stig Hansen",
@@ -1849,6 +1948,10 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Faction Technology",
+      "Inc."
+    ],
     "founders": [
       {
         "name": "Ain McKendrick",
@@ -1957,6 +2060,9 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Hermes Robotics Inc."
+    ],
     "founders": [
       {
         "name": "Guilhem Herail",
@@ -2008,6 +2114,11 @@
     "teamSize": 8,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "ARC:Advanced Robotics Construction",
+      "ARC: Advanced Robotic Construction",
+      "ARC"
+    ],
     "founders": [
       {
         "name": "Brent Wadas",
@@ -2059,6 +2170,9 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "EveryMeal"
+    ],
     "founders": [
       {
         "name": "Alex Kolchinski",
@@ -2190,7 +2304,22 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "slip",
+      "Slip",
+      "Diode",
+      "Reason Robotics"
+    ],
+    "founders": [
+      {
+        "name": "Kenneth Cassel",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kenneth-cassel/",
+        "twitter": "https://twitter.com/KennethCassel",
+        "bio": "Had my first kid at 20, worked in the trades for the better part of a decade and accidentally stumbled into software. Spent a few years as a software engineer. Had some more kids (4 total). Now I'm building a software-defined contract manufacturing company called RMFG",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d203f2bcac882ae939157ea0e0dbd0faa8843ac6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2231,7 +2360,19 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Buoyant Technologies",
+      "Buoyant"
+    ],
+    "founders": [
+      {
+        "name": "Benjamin Claman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/benjaminclaman/",
+        "bio": "Ben has built distributed sensing systems for the military, patented electronically steered antennas for next-gen satellite connectivity, and designed + built GPS data-loggers for motorcycle racers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9bd1103daa4f28d00c4ec0610a863523e4450908.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2274,7 +2415,23 @@
     "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Banks Hunter",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/banksh/",
+        "bio": "Co-founder + CEO at Charge Robotics. 🪂🧗🏂🏔️",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e30568e3c006ba2581c19fdaa5d2489522655de3.jpg"
+      },
+      {
+        "name": "Max Justicz",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/maxj/",
+        "twitter": "https://x.com/just1cz",
+        "bio": "Co-founder and CTO @ Charge Robotics! Formerly EECS @ MIT.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5d0a84ea5289f7af2616b5bf5bdb27d295248e81.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2317,6 +2474,9 @@
     "teamSize": 10,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Ex Scientia"
+    ],
     "founders": [
       {
         "name": "Matt Gialich",
@@ -2534,6 +2694,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Lifecast Incorporated"
+    ],
     "founders": [
       {
         "name": "Forrest Briggs",
@@ -2588,6 +2751,9 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Impossible Mining"
+    ],
     "founders": [
       {
         "name": "Oliver Gunasekara",
@@ -2707,6 +2873,9 @@
     "teamSize": 50,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Hedgehog Agriculture"
+    ],
     "founders": [
       {
         "name": "Jamie Balsillie",
@@ -2826,6 +2995,9 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Persist AI Formulations Corp"
+    ],
     "founders": [
       {
         "name": "Karthik Raman",
@@ -2940,6 +3112,10 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "MAIHEM",
+      "Maihem"
+    ],
     "founders": [
       {
         "name": "Max Ahrens",
@@ -2991,6 +3167,10 @@
     "teamSize": 7,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Adagy Robotics",
+      "Tuesday Lab"
+    ],
     "founders": [
       {
         "name": "Rosalind Shinkle",
@@ -3042,6 +3222,10 @@
     "teamSize": 8,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Pivot AI",
+      "Pivot Robots"
+    ],
     "founders": [
       {
         "name": "Siddharth Girdhar",
@@ -3160,6 +3344,9 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "dpsh"
+    ],
     "founders": [
       {
         "name": "Benjamin Bolte",
@@ -3293,6 +3480,10 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Continuous AI",
+      "Miru ML"
+    ],
     "founders": [
       {
         "name": "Armel Talla",
@@ -3360,6 +3551,9 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Saphira"
+    ],
     "founders": [
       {
         "name": "Akshay Chalana",
@@ -3600,6 +3794,9 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "RigManic"
+    ],
     "founders": [
       {
         "name": "Richard Gong",
@@ -3718,6 +3915,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "OBO"
+    ],
     "founders": [
       {
         "name": "Anubhav Guha",
@@ -3887,6 +4087,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Dartboard Energy"
+    ],
     "founders": [
       {
         "name": "Rohun Ati",
@@ -4226,6 +4429,9 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "The Robot Learning Company (TRLC)"
+    ],
     "founders": [
       {
         "name": "Jannik Grothusen",
@@ -4278,6 +4484,9 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Zeon Technologies"
+    ],
     "founders": [
       {
         "name": "Brontë Kolar",
@@ -4570,6 +4779,11 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Comply Genie",
+      "Vision Nexus",
+      "Vision Lab"
+    ],
     "founders": [
       {
         "name": "Tanachart (James) Kujareevanich",
@@ -4635,6 +4849,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "TipTop",
+      "TipTop AI"
+    ],
     "founders": [
       {
         "name": "Nicole Ma",
@@ -4692,6 +4910,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Corvus Defense"
+    ],
     "founders": [
       {
         "name": "Kristopher Luo",
@@ -4753,6 +4974,9 @@
     "teamSize": 4,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "DeepAware AI"
+    ],
     "founders": [
       {
         "name": "Jerry Huang",
@@ -4810,6 +5034,10 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "B12",
+      "b-12"
+    ],
     "founders": [
       {
         "name": "Zlatko Jončev",
@@ -4868,6 +5096,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Riff",
+      "GoRiff"
+    ],
     "founders": [
       {
         "name": "Adith Reddi",
@@ -4982,6 +5214,9 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Observee"
+    ],
     "founders": [
       {
         "name": "Rishabh Chanana",
@@ -5040,6 +5275,9 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Remnant Robotics"
+    ],
     "founders": [
       {
         "name": "Gianluca Bencomo",
@@ -5095,6 +5333,9 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Core"
+    ],
     "founders": [
       {
         "name": "Eric Berndt",
@@ -5162,6 +5403,11 @@
     "teamSize": 4,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Thesis Labs",
+      "Thesis",
+      "Darwin"
+    ],
     "founders": [
       {
         "name": "Sergio Charles",
@@ -5328,6 +5574,9 @@
     "status": "active",
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Spatial AI"
+    ],
     "founders": [
       {
         "name": "Alexandros Petkos",
@@ -5489,6 +5738,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Gradient Robotics"
+    ],
     "founders": [
       {
         "name": "Angus Muffatti",
@@ -5557,6 +5809,9 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Waddle"
+    ],
     "founders": [
       {
         "name": "Hanming Ye",
@@ -5613,6 +5868,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "ProactiveAI",
+      "Ishiki Labs",
+      "Fern (Formerly Ishiki Labs)"
+    ],
     "founders": [
       {
         "name": "Amit Yadav",
@@ -5669,6 +5929,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Flow AI",
+      "Arzule"
+    ],
     "founders": [
       {
         "name": "Nikhil Reddy",
@@ -5844,6 +6108,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Bright Eyed Labs"
+    ],
     "founders": [
       {
         "name": "Oscar Brisset",
@@ -5901,6 +6168,11 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "TeleOps",
+      "BotZero",
+      "Foveal"
+    ],
     "founders": [
       {
         "name": "Andrey Gizdov",
@@ -5959,6 +6231,10 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Gikl, Inc",
+      "PerfectBit"
+    ],
     "founders": [
       {
         "name": "Seiji Yamamoto",
@@ -6015,6 +6291,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Instance"
+    ],
     "founders": [
       {
         "name": "Claire Mao",
@@ -6191,6 +6470,10 @@
     "teamSize": 50,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Hub",
+      "Hub.xyz"
+    ],
     "founders": [
       {
         "name": "Armin Kiani",
@@ -6313,6 +6596,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Bitstream"
+    ],
     "founders": [
       {
         "name": "Bill Jiao",
@@ -6432,6 +6718,10 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Fastsky",
+      "General Aviation"
+    ],
     "founders": [
       {
         "name": "Ben Frank",
@@ -6484,6 +6774,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Lasso (temporary, naming conflict exists)",
+      "Lasso"
+    ],
     "founders": [
       {
         "name": "Michael Hazard",
@@ -6540,6 +6834,9 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Proprio"
+    ],
     "founders": [
       {
         "name": "Anirudh Pai",
@@ -6591,6 +6888,9 @@
     "teamSize": 12,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Edgerun Industries"
+    ],
     "founders": [
       {
         "name": "David Venegas",
@@ -6643,6 +6943,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Mass Energy Company"
+    ],
     "founders": [
       {
         "name": "Eric Silver",
@@ -6819,6 +7122,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Buildbox"
+    ],
     "founders": [
       {
         "name": "Trishala Jain",
@@ -7248,6 +7554,9 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Phi Robotics"
+    ],
     "founders": [
       {
         "name": "Jaskaran Singh Walia",
@@ -7448,6 +7757,14 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Run Lobster",
+      "RunLobster",
+      "Demon AI",
+      "RunDemon",
+      "Avicenna Care",
+      "Agent Insurance"
+    ],
     "founders": [
       {
         "name": "Shehryar Saroya",
@@ -7678,6 +7995,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Vanda Labs"
+    ],
     "founders": [
       {
         "name": "Brandon Ong",
@@ -7739,6 +8059,10 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Telos",
+      "Robocurve PBC"
+    ],
     "founders": [
       {
         "name": "Jay Chooi",
@@ -7849,6 +8173,10 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Lambda Robotics",
+      "Runtime"
+    ],
     "founders": [
       {
         "name": "Chen Peng",
@@ -8084,6 +8412,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Micora Energy"
+    ],
     "founders": [
       {
         "name": "Ashten Akemoto",
@@ -8121,7 +8452,7 @@
     "id": "yc-antropi-robotics",
     "source": "yc",
     "name": "Antropi Robotics",
-    "description": "Autonomous CNC factories for faster hardware",
+    "description": "Autonomous factories that turn designs into metal parts, in days",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b8c101f20a3b29a6ae368d81297168e49391e75a.png",
     "website": "https://www.antropi.world/",
     "sourceUrl": "https://www.ycombinator.com/companies/antropi-robotics",
@@ -8207,6 +8538,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Pendulum Robotics"
+    ],
     "founders": [
       {
         "name": "Jon Facer",
@@ -8353,7 +8687,7 @@
     "id": "yc-hemlock",
     "source": "yc",
     "name": "Hemlock",
-    "description": "Force data collected at scale for training physical AI.",
+    "description": "Force data collected at scale for training physical AI models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9593981f6acf78f7e8d4417ca9346aed3d279da4.png",
     "website": "https://hemlock.inc",
     "sourceUrl": "https://www.ycombinator.com/companies/hemlock",
@@ -8433,6 +8767,10 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "SuperRadiant",
+      "Primordiant (Formerly SuperRadiant)"
+    ],
     "founders": [
       {
         "name": "Owen Tower",
@@ -8981,6 +9319,57 @@
     "alsoIn": []
   },
   {
+    "id": "yc-foreshadow-industries",
+    "source": "yc",
+    "name": "Foreshadow Industries",
+    "description": "Defense robotics built on AI models that reason over space and time",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1f41492158a230aa441d92210031ab9426dcfc87.png",
+    "website": "https://foreshadow-industries.ai/",
+    "sourceUrl": "https://www.ycombinator.com/companies/foreshadow-industries",
+    "location": "Coronado, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Robotics",
+      "Defense",
+      "AI",
+      "Industrial"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Mo Akbar",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mohammad-k-akbar",
+        "bio": "CEO & Founder at Foreshadow Industries Previously @ Anduril, Vannevar Labs, P-1, SpaceX",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/15a898f2d2799bf4cbc4d96d095ef04e3948eb24.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "firstSeen": "2026-11-20",
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-nines",
     "source": "yc",
     "name": "Nines",
@@ -9039,13 +9428,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-mantle",
+    "id": "yc-mantle-machines",
     "source": "yc",
-    "name": "Mantle",
+    "name": "Mantle Machines",
     "description": "The pit crew for machines and robots.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7073e1cf7c2495368d081bd479283a8c160179f2.png",
-    "website": "",
-    "sourceUrl": "https://www.ycombinator.com/companies/mantle-2",
+    "website": "https://www.mantlemachines.com/",
+    "sourceUrl": "https://www.ycombinator.com/companies/mantle-machines",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -9070,6 +9459,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Kyvore",
+      "Mantle"
+    ],
     "founders": [
       {
         "name": "Kieran White",
@@ -9093,6 +9486,7 @@
       "crunchbase": ""
     },
     "extra": {},
+    "firstSeen": "2026-11-20",
     "country": "United States",
     "alsoIn": []
   },
@@ -9212,6 +9606,66 @@
     "alsoIn": []
   },
   {
+    "id": "yc-mantle",
+    "source": "yc",
+    "name": "Mantle",
+    "description": "The pit crew for machines and robots.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7073e1cf7c2495368d081bd479283a8c160179f2.png",
+    "website": "",
+    "sourceUrl": "https://www.ycombinator.com/companies/mantle-2",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Hardware",
+      "Robotics",
+      "AI",
+      "Industrial"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Kieran White",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/kieran-luke-white",
+        "bio": "Co-Founder & CEO at Mantle, the pit crew for machines and robots. Previously founded Curo (YC F24), the world's largest private EV charging network. Curo scaled to 5,000 stations with Uber, Zoox and Google before acquisition by Inspiration Mobility Group ($415M raised). Before Curo I joined Tesla at 18 as the youngest employee.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7be1f2e4cf0534df456c1bb228513defaf8da7bc.jpg"
+      },
+      {
+        "name": "Graham Smith",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/graham-smith-a69572130",
+        "bio": "Co-Founder & CTO at Mantle, the pit crew for machines and robots. Previously founded Babylon, the world’s largest fleet of autonomous vertical farms. Babylon raised $22M and deployed 400 farms with Compass, LinkedIn and American Airlines. Before Babylon I scaled an electronics repair business I started at 14.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/df721112dac33cfa183258ca717c4e4d51e9a2b6.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-20"
+  },
+  {
     "id": "500-avision",
     "source": "500",
     "name": "Avision",
@@ -9232,6 +9686,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -9288,6 +9743,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Secondary Sale",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -9332,6 +9788,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -9378,6 +9835,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -9424,6 +9882,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -9465,6 +9924,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -9508,6 +9968,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -9556,6 +10017,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -9602,6 +10064,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -9678,6 +10141,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,

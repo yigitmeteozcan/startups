@@ -2720,6 +2720,9 @@
     "teamSize": 35,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Mindset"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2818,7 +2821,24 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Riley O'Donnell",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rileyodonnell-1/",
+        "twitter": "https://twitter.com/riley_odo",
+        "bio": "I worked in industry as a process engineer and built internal software to help my team do its job at both ExxonMobil and Santos. I saw the benefit of the software first hand, however, I also saw that these organisations were unable to maintain it long term. I'm passionate about combining engineer and software skill sets to address these shortcomings and help move the traditional engineering sector forwards.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f85e18d8c84e5a8de5831f4d33a413bd35e5250a.jpg"
+      },
+      {
+        "name": "Michael Moore",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michaelmoore1997/",
+        "twitter": "https://twitter.com/michaeljmoore97",
+        "bio": "I’m a software specialist with a strong software architecture and mathematics background. Before Endla I consulted on software and infrastructure architecture design to solve pressing problems for businesses of all sizes. Through this I have seen many ways which software fails and how to avoid these issues. I cofounded Endla with Riley to solve a class of problems in a high value and underserviced industry, bringing the energy industry forward.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa5c147858175b0e0f0dd8e075931585721cebe9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -2860,7 +2880,22 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Will Crowe",
+        "role": "Founder",
+        "linkedin": "http://www.linkedin.com/in/william-crowe-space",
+        "bio": "Will has a PhD in Aerospace Engineering, with a focus on the astrodynamics of spacecraft swarms with relation to asteroids. He has won international awards for his work, including the Space Generation Advisory Council's \"Move an Asteroid\" award in 2015. As CEO of HEO Robotics, Will's highlights include taking the world's second commercial in-orbit inspection photo of a spacecraft. Will loves spending time with family and reading.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5c8a2eb050cc16e676e0dacd46e9593858f0d6c9.jpg"
+      },
+      {
+        "name": "Hiranya Jayakody",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/hiranya-jayakody/",
+        "bio": "Co-founder and CTO - HEO Robotics Hiranya Jayakody is the CTO and co-founder of HEO Robotics. He has a PhD in mechatronics engineering from UNSW Sydney and a bachelor's degree in electronics engineering from University of Peradeniya, Sri Lanka. In addition to HEO Robotics, he worked as a researcher at UNSW Sydney focusing on computer vision and machine learning for agriculture as well as robust control of aerial vehicles and space robots.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/614230dc5d95929cf6311a472320f21b538b2c8a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3063,6 +3098,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "RE-MINT",
+      "re-mint",
+      "GPT Builder Tools by Top Road"
+    ],
     "founders": [
       {
         "name": "Jeevika Makani",
@@ -3169,6 +3209,9 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Index"
+    ],
     "founders": [
       {
         "name": "Simon Kubica",
@@ -3340,6 +3383,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Polinate",
+      "Pollinate",
+      "Khotan"
+    ],
     "founders": [
       {
         "name": "Adeep Mitra",
@@ -3399,6 +3447,10 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "GrazeMate",
+      "Brumby (Formerly GrazeMate)"
+    ],
     "founders": [
       {
         "name": "Sam Rogers",
@@ -3545,6 +3597,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3586,6 +3639,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Secondary Sale",
     "isUnicorn": true,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3648,6 +3702,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3689,6 +3744,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3781,6 +3837,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3832,6 +3889,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3873,6 +3931,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series D & Beyond",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3924,6 +3983,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3965,6 +4025,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4013,6 +4074,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4059,6 +4121,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4106,6 +4169,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 2200000,
     "founders": [
       {
         "name": "Wilhelm Wonigkeit",

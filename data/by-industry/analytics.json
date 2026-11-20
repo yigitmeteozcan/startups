@@ -28,6 +28,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Nou Data"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -346,6 +349,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Moki"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -940,6 +946,9 @@
     "teamSize": 51,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Interana"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1742,6 +1751,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Kuhcoon"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1937,6 +1949,9 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "PaveAI"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2015,6 +2030,9 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "flexReceipts"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2055,6 +2073,10 @@
     "teamSize": 10,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Clover Intelligence",
+      "Voice Ops"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2097,6 +2119,9 @@
     "teamSize": 4,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Vinsight"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2136,6 +2161,10 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Vize Software",
+      "Anasen (was Vize Software)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2412,6 +2441,9 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Tada analytics"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2577,6 +2609,9 @@
     "teamSize": 34,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Bot Orange"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2619,6 +2654,9 @@
     "teamSize": 700,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Nabis (Siban Holdings Inc.)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2697,6 +2735,10 @@
     "teamSize": 17,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "INNAAS",
+      "Askdata (formerly INNAAS)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2778,6 +2820,9 @@
     "teamSize": 80,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Inc"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2938,6 +2983,10 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Graphitics (placeholder name)",
+      "Lazy Lantern"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -2980,7 +3029,17 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "GoodHealth"
+    ],
+    "founders": [
+      {
+        "name": "Preeti Shrimal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pshrimal/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f8123b419b4475c7bc0f3c22a5e3eb993168bdd4.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3062,6 +3121,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Nomad Rides",
+      "Nomad Moments",
+      "Debt Destroyer (Formerly Nomad Rides)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3102,7 +3166,25 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Tomas Barreto",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tomasrb",
+        "twitter": "https://x.com/tomasrb",
+        "bio": "Operating Partner, Engineering at Kleiner Perkins. Co-founder/CTO Okay W20 (acq by Stripe). Former VP Engineering Checkr and Box.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a056d1f40b0edcdf95795c7ff1b43a85db19d441.jpg",
+        "active": false
+      },
+      {
+        "name": "Antoine Boulanger",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/antoineboulanger",
+        "bio": "Okay Co-Founder and CEO (YC W20, acq. by Stripe). Former Eng Leader at Box, Google, Stripe",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5333cc70b4eeaa6c4ce8a12a1abb004b8273489.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3142,7 +3224,22 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ghalib Suleiman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ghalibs",
+        "twitter": "https://www.twitter.com/ghalib",
+        "bio": "Polytomic CEO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d4d9f3518e981623664735db3ae05c07d7ec6bd.jpg"
+      },
+      {
+        "name": "Nathan Yergler",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nathanyergler/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2a28dee9f318ba8788d9c081243a3f6f18d0ccc9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3184,7 +3281,35 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "BuildPlane"
+    ],
+    "founders": [
+      {
+        "name": "Chris Winslett",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/winslett/",
+        "twitter": "https://twitter.com/winsletts",
+        "bio": "Generalist. Early utility player for startups. Capable of maturing a section of the company until a specialist can be justified - tech, product, sales, and marketing. I enjoy being a cheerleader.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4a985f8da2ff938fe955cc2793847b7d2e66bbde.jpg",
+        "active": false
+      },
+      {
+        "name": "Jason McCay",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jasonmccay/",
+        "twitter": "https://twitter.com/jasonmccay",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ee95ee3bf8dec76533deb2a683effa77835a3e58.jpg",
+        "active": false
+      },
+      {
+        "name": "Ben Wyrosdick",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/bwyrosdick/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bf47f4b4e25ec569495b37e8627ddcfc1e7bfb03.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3223,7 +3348,29 @@
     "teamSize": 24,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "A La Carte",
+      "Roco Recipes",
+      "Kaz",
+      "Sphere"
+    ],
+    "founders": [
+      {
+        "name": "Andrew Chen",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/andrewchen9",
+        "twitter": "https://twitter.com/andrew_c_chen",
+        "bio": "Founder at Explo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/00208ab185f090148da5f5d4e078d06419bb2909.jpg"
+      },
+      {
+        "name": "Gary Lin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/garymlin/",
+        "twitter": "https://twitter.com/garymlin",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/36bb1cd911c6b6eefaa10f0fb0189d5255b36392.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3263,7 +3410,37 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "In Good Company",
+      "Orbiter (by In Good Company)"
+    ],
+    "founders": [
+      {
+        "name": "Mark Wai",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/markwai",
+        "bio": "Building Polished Previously Growth @ Tesla, Facebook",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e7835121f75384f2b6a95aa37523c3607b9931ae.jpg",
+        "active": false
+      },
+      {
+        "name": "Victor Zhang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zhangvictorz/",
+        "bio": "Co-founder of Cega Bringing exotic options to DeFi 🇨🇦eh?",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0dc72137d734239f768d6c6583992dec473bb98b.jpg",
+        "active": false
+      },
+      {
+        "name": "Winston Zhang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/winstonzhang/",
+        "twitter": "https://twitter.com/zhangwins",
+        "bio": "VP Revops @EvenUp. Co-founded Cega (acquired) and Orbiter (YC W20). Ex-PM @DoorDash (YC S13)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c4198ee93d44c9cc498e4eb35fca3269d7a5826f.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -3346,6 +3523,12 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Stryve",
+      "Circle",
+      "Shopstack",
+      "Blueprint"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3386,6 +3569,9 @@
     "teamSize": 150,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Hiberly"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3427,6 +3613,9 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "kSense"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3509,6 +3698,9 @@
     "teamSize": 23,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Hubble"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3550,6 +3742,9 @@
     "status": "active",
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "QuestDB Limited"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3590,6 +3785,9 @@
     "status": "inactive",
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Postered"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3631,6 +3829,9 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "PolyOps"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3673,6 +3874,10 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Saga",
+      "Mtio"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3767,6 +3972,9 @@
     "teamSize": 9,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Vigo"
+    ],
     "founders": [
       {
         "name": "Charles Chretien",
@@ -3820,6 +4028,9 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Gemini AI"
+    ],
     "founders": [
       {
         "name": "Samuel Oluwalana",
@@ -4000,6 +4211,9 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "StreamReport"
+    ],
     "founders": [
       {
         "name": "Jonathan Ben-tzur",
@@ -4106,6 +4320,9 @@
     "teamSize": 13,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Waydev AI"
+    ],
     "founders": [
       {
         "name": "Alex Circei",
@@ -4156,6 +4373,9 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Mayanalytics"
+    ],
     "founders": [
       {
         "name": "Christopher Compean",
@@ -4214,6 +4434,9 @@
     "teamSize": 35,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Inc."
+    ],
     "founders": [
       {
         "name": "Mit Patel",
@@ -4392,7 +4615,25 @@
     "teamSize": 65,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "formerNames": [
+      "OutFit"
+    ],
+    "founders": [
+      {
+        "name": "Kara Holinski",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kara-holinski-77b673b6/",
+        "bio": "Previously APM at Schmidt Futures. Engineering at MIT",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4fb7bf476bb3e240680edf8b779cba87fff15867.jpg"
+      },
+      {
+        "name": "Justin Hunter",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/justin-hunter/",
+        "bio": "Justin - Previously a Senior Corporate Strategy Associate at Capital One. In college, Justin played football at Harvard and studied Sociology.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/384269b606434d42433acc4df70a6dbefbc61577.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4433,7 +4674,24 @@
     "teamSize": 70,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mohit Prateek",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/mohitprateek",
+        "twitter": "https://twitter.com/mohitprateek",
+        "bio": "Building Anakin.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0b340b6afa1cd471644a8a665ae9395784fd1892.jpg"
+      },
+      {
+        "name": "Rashmi Bala",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kumari-rashmi-bala/",
+        "twitter": "https://twitter.com/rashssss",
+        "bio": "Rashmi Bala is the co-founder and CTO of Anakin. Rashmi is responsible for hiring and running Anakin’s engineering and data science teams. She has worked across multiple eCommerce companies building softwares. She graduated from IIT Kanpur with a Bachelor in Electrical Engineering.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/154d3b67886708aa3274fcd1e5fbc62bd31c39b6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4474,7 +4732,28 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Snapdata",
+      "Basis",
+      "Atoma"
+    ],
+    "founders": [
+      {
+        "name": "Ken Van Haren",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/kenvanharen",
+        "bio": "Founder @ Patterns. Previously Square, Google, stats PhD @ Duke.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55451e2f3a29d444202af141e90902291148139d.jpg",
+        "active": false
+      },
+      {
+        "name": "Chris Stanley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-stanley",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/339f8dca62b76beeedc6c36bbf4dd04f64ded934.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4515,7 +4794,16 @@
     "teamSize": 45,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andrew McEwen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/armcewen",
+        "twitter": "https://twitter.com/andrew_mcewen",
+        "bio": "https://secoda.co",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2fccefd3872a2d00e39f8b8f1fd7e5ac6f786376.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4556,7 +4844,18 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Noya Services"
+    ],
+    "founders": [
+      {
+        "name": "Brian Low",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brianlowzh/",
+        "bio": "Building @ Kaya",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e21bca85a83f55ce04c2b283a104a162fbe24f91.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4596,7 +4895,32 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Armando Biondi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/armandobiondi",
+        "twitter": "https://twitter.com/armandobiondi",
+        "bio": "Co-founder & CEO @BreadcrumbsIO (previously Co-founder & COO @AdEspresso, sold to @Hootsuite). Investor in 150+ startups. Board Member @MailUpGroup and former Radio Host.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ee6ce92d8d3a93c2d95c188d75a4ce4a49535cb7.jpg"
+      },
+      {
+        "name": "Gary Amaral",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/garyamaral/",
+        "twitter": "https://twitter.com/AmaralGary",
+        "bio": "Co-Founder & CPO at BreadcrumbsIO bringing years of experience in Demand Marketing from Blackberry, Canadian Tire, Hootsuite and Chargify.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f118b35800f0a78a14bf9389026355fa839c6624.jpg"
+      },
+      {
+        "name": "Massimo Chieruzzi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/massimochieruzzi",
+        "twitter": "https://twitter.com/MassimoCw",
+        "bio": "I sit between Marketing and Product. Passionate about SEO & Inbound marketing. Spaghetti coder. CMO and CoFounder of Breadcrumbs Prev. CEO & Cofounder of AdEspresso, sold to Hootsuite in 2016.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fe2397fafb1d81eb73c7055e15af1b558d2c067f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4636,7 +4960,16 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sylwia Brodacka",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sylwia-brodacka/",
+        "twitter": "https://twitter.com/sylwiab?lang=en",
+        "bio": "Leader, software developer, physicist. Used to design materials to build 🚀 Now creates tools to open up new possibilities for people. Addicted to sports, 🐕 lover.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/54b7d7777c6d4e9dcf5da8a780e49bd2acbb587e.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4678,7 +5011,22 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Hotswap",
+      "Tasker",
+      "Journalize"
+    ],
+    "founders": [
+      {
+        "name": "Len Boyette",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lenb/",
+        "twitter": "https://twitter.com/kevlened",
+        "bio": "Len was an early Okta engineer, who founded Okta's developer experience team. He built a platform to power hundreds of Okta integrations and maintained open-source projects which have over a billion installs.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d51ac2e2d555498ebe6b8cc1c681bdec6e3eb223.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4720,7 +5068,16 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ilia Semenov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/iliavsemenov/",
+        "twitter": "https://twitter.com/ilia_v_semenov",
+        "bio": "🚀ex-Lyft (2016-2020): Data Engineering + Cloud Cost Management 🎮ex-EA (2014-2016): Cloud Cost Management 🎓Carnegie Mellon University 🏡Saint-Petersburg, Russia 🌁San Francisco, USA",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/17bcfa797b83e672337eae9735fd7f5b270c9e48.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4761,7 +5118,34 @@
     "teamSize": 6,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Snowboard Software GmbH",
+      "Snowboard Software",
+      "Seld",
+      "Sled",
+      "Dot"
+    ],
+    "founders": [
+      {
+        "name": "Theo Tortorici",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/theo-tortorici/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bb5511511300c5a8603c089d023e1699a51822bf.jpg"
+      },
+      {
+        "name": "Rick Radewagen",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/radewagen/",
+        "bio": "analyst in a world of data; creator of well-arranged pixels; surprised language learner",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6df4de73ba59af6e3d95655bb6c838a513676889.jpg"
+      },
+      {
+        "name": "Sven Rudolph",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sven-rudolph-0b7910a0/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6868b101bd442907562644c17be049c87d148e9d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4800,7 +5184,31 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Emilien Sanchez",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/emiliensanchez/",
+        "bio": "As a former product manager I love building products that are heavily used by customers, I also enjoy doing sales and understanding pains and drivers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0f4babfc0476b90740cf337c78652e2d67311ec4.jpg"
+      },
+      {
+        "name": "Florian Buguet",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/florian-buguet-a1150812/",
+        "twitter": "https://twitter.com/flobbgt",
+        "bio": "COO & Co-Founder @Whaly Head of CS @mediarithmics Previously consulting @Accenture & Deloitte",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ca6be4182862436e59edcb773905c34584c8f098.jpg"
+      },
+      {
+        "name": "Pierre de Poulpiquet",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pierre-de-poulpiquet-28ba1a95/",
+        "twitter": "https://twitter.com/PoulpiP",
+        "bio": "Engineer from Paris, France 🇫🇷🐓 Loves to hack around 👨‍💻, eat baguette 🥖 and learn new things 🧠! After initial experience in Business Consulting 👔 at large firms and product manager 🦄 at a Data marketing startup, I'm building Whaly 🐳 with my 2 co-founders! I often have strong opinions/learnings about the stuff that interest me so, keep me posted to see if I can help you with something 😉",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c689f215d291dab5b5f29198f81c15837d55f2d5.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4841,7 +5249,24 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Elena Samuylova",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/elenasamuylova/",
+        "twitter": "https://twitter.com/elenasamuylova/",
+        "bio": "- CEO and Co-founder Evidently AI - Spent 7 years helping large enterprises deploy ML systems - Previously built an industrial AI startup focused on steel and chemical markets - Led business development for an enterprise ML division at Yandex (NASDAQ:YNDX)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/44ada9bbe8ce9c096f8472aba306a25e4454f7c0.jpg"
+      },
+      {
+        "name": "Emeli Dral",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/emelidral/",
+        "twitter": "https://twitter.com/EmeliDral",
+        "bio": "- CTO and Co-founder Evidently AI - Co-author of the most popular Coursera course on ML in the Russian language with 100K+ students - 50+ real-world ML projects from e-commerce to manufacturing - Ex-Chief Data Scientist at Yandex Data Factory, enterprise ML division at Yandex",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6e91eb6d0553014c79ceb8d0d73b656f63523159.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4882,7 +5307,24 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Riley O'Donnell",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rileyodonnell-1/",
+        "twitter": "https://twitter.com/riley_odo",
+        "bio": "I worked in industry as a process engineer and built internal software to help my team do its job at both ExxonMobil and Santos. I saw the benefit of the software first hand, however, I also saw that these organisations were unable to maintain it long term. I'm passionate about combining engineer and software skill sets to address these shortcomings and help move the traditional engineering sector forwards.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f85e18d8c84e5a8de5831f4d33a413bd35e5250a.jpg"
+      },
+      {
+        "name": "Michael Moore",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michaelmoore1997/",
+        "twitter": "https://twitter.com/michaeljmoore97",
+        "bio": "I’m a software specialist with a strong software architecture and mathematics background. Before Endla I consulted on software and infrastructure architecture design to solve pressing problems for businesses of all sizes. Through this I have seen many ways which software fails and how to avoid these issues. I cofounded Endla with Riley to solve a class of problems in a high value and underserviced industry, bringing the energy industry forward.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa5c147858175b0e0f0dd8e075931585721cebe9.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4922,7 +5364,25 @@
     "teamSize": 12,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Telm.ai"
+    ],
+    "founders": [
+      {
+        "name": "Mona Rakibe",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/monarakibe/",
+        "bio": "Started Telmai in November 2020 with a vision to improve data quality. Prior to Telmai spend 5 years at a Data management start-up as director of product management.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ad63abd07d293c44039137cf6304c32cf25318bd.jpg"
+      },
+      {
+        "name": "Maxim Lukichev",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/maximlukichev",
+        "bio": "Data Science and Engineering Leader with over 15 years of experience in various environments including startups and Fortune 500 companies",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8a9fccf97ea63769b3a9b57d0ea5c3eb7b58e9a2.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -4962,7 +5422,22 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Teamhouse (working title)",
+      "Teamhouse",
+      "Teamspace",
+      "CollabKit"
+    ],
+    "founders": [
+      {
+        "name": "Namit Chadha",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/namitchadha/",
+        "twitter": "https://twitter.com/namitchadha",
+        "bio": "Namit is the founder & CEO of Shape. He's a repeat founder who has built and led teams. Previously Product Design Lead at Meta, and Software Engineer at Goldman Sachs.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/056bc4ee56fc18c736c0cf554e0a9a221192f05f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5003,7 +5478,27 @@
     "teamSize": 6,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Evidence.dev"
+    ],
+    "founders": [
+      {
+        "name": "Adam McAskill",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/adam-mcaskill-74515720/",
+        "twitter": "https://twitter.com/AdamMcaskill",
+        "bio": "Previously led the data science team at one of Canada's leading private equity funds.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2ad8671d97bb5e486ca60a01f8b4755915738dff.jpg"
+      },
+      {
+        "name": "Sean Hughes",
+        "role": "Founder",
+        "linkedin": "https://ca.linkedin.com/in/hughessean",
+        "twitter": "https://twitter.com/SeanHughes92",
+        "bio": "Previously led the data science team at one of Canada's leading private equity funds.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/07de9c5aa123280b82349d36dc989a116e6a9d66.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5043,7 +5538,23 @@
     "teamSize": 60,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "SIGA Geointelligence"
+    ],
+    "founders": [
+      {
+        "name": "Mateus Felini",
+        "role": "Founder",
+        "linkedin": "https://br.linkedin.com/in/mateus-felini",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b56d0db2c938a28df09cc12ba448e9fd33a7c2a3.jpg"
+      },
+      {
+        "name": "Raisa Spagnol",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/raisa-spagnol-a589999b/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d754af5e70cd99cb349142af014898bf6ba3c53a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -5083,6 +5594,9 @@
     "teamSize": 46,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Growth Book"
+    ],
     "founders": [
       {
         "name": "Graham McNicoll",
@@ -5135,6 +5649,9 @@
     "status": "active",
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Cube"
+    ],
     "founders": [
       {
         "name": "Erin Tavgac",
@@ -5191,6 +5708,11 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "8vdx",
+      "8vdX",
+      "VentedgeAI"
+    ],
     "founders": [
       {
         "name": "Ravi Chachra",
@@ -5251,6 +5773,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Kiter"
+    ],
     "founders": [
       {
         "name": "Peter Mangan",
@@ -5374,6 +5899,9 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "HypaHub, Inc."
+    ],
     "founders": [
       {
         "name": "Hugo Lam",
@@ -5480,6 +6008,9 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Sophys Health"
+    ],
     "founders": [
       {
         "name": "Vinith Johnson",
@@ -5635,6 +6166,10 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Tingo",
+      "Airdot"
+    ],
     "founders": [
       {
         "name": "Chalam PVS",
@@ -5692,6 +6227,9 @@
     "teamSize": 8,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Supersheets"
+    ],
     "founders": [
       {
         "name": "Tom Firth",
@@ -5975,6 +6513,10 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Asparagus",
+      "Nimbus"
+    ],
     "founders": [
       {
         "name": "LIUSHA HUANG",
@@ -6041,6 +6583,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "RE-MINT",
+      "re-mint",
+      "GPT Builder Tools by Top Road"
+    ],
     "founders": [
       {
         "name": "Jeevika Makani",
@@ -6203,6 +6750,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Probably Nothing Labs"
+    ],
     "founders": [
       {
         "name": "Amey Chaugule",
@@ -6494,6 +7044,11 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Garage Mobility Inc.",
+      "Garage Mobility",
+      "Garage"
+    ],
     "founders": [
       {
         "name": "Gwanygha’a Gana",
@@ -6604,6 +7159,10 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Patika Technology Limited",
+      "Patika"
+    ],
     "founders": [
       {
         "name": "Sidney Rema",
@@ -6720,6 +7279,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Moving Lake"
+    ],
     "founders": [
       {
         "name": "Andres Paez",
@@ -6778,6 +7340,9 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Vizzly Technology Ltd"
+    ],
     "founders": [
       {
         "name": "Matt Williamson",
@@ -7015,6 +7580,10 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Chataverse",
+      "Members.Land"
+    ],
     "founders": [
       {
         "name": "Leo Lu",
@@ -7130,6 +7699,10 @@
     "teamSize": 18,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "PoloPay",
+      "Polo"
+    ],
     "founders": [
       {
         "name": "Andres Richardson",
@@ -7255,6 +7828,9 @@
     "teamSize": 26,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Finto"
+    ],
     "founders": [
       {
         "name": "Marc Klingen",
@@ -7320,6 +7896,11 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Prompt Zero",
+      "TableTalk",
+      "Valyr"
+    ],
     "founders": [
       {
         "name": "Justin Torre",
@@ -7503,6 +8084,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Muffin"
+    ],
     "founders": [
       {
         "name": "Andres Recalde",
@@ -7562,6 +8146,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "CorgiAI"
+    ],
     "founders": [
       {
         "name": "Saif Farooqui",
@@ -7608,6 +8195,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Curious Data"
+    ],
     "founders": [
       {
         "name": "Wally Gurzynski",
@@ -7675,6 +8265,9 @@
     "status": "active",
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Swishjam"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -7716,6 +8309,11 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "NodeFlow",
+      "Baseplate",
+      "DealPage"
+    ],
     "founders": [
       {
         "name": "Ani Gottiparthy",
@@ -7766,6 +8364,11 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Map3",
+      "Ally",
+      "Evefan"
+    ],
     "founders": [
       {
         "name": "Amadeo Pellicce",
@@ -7953,6 +8556,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "PeerDB Inc"
+    ],
     "founders": [
       {
         "name": "Sai Srirampur",
@@ -8013,6 +8619,9 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Deasie"
+    ],
     "founders": [
       {
         "name": "Reece Griffiths",
@@ -8078,6 +8687,11 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "River AI",
+      "River",
+      "Introscopic"
+    ],
     "founders": [
       {
         "name": "Jean-Michael Diei",
@@ -8239,6 +8853,10 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Revamp.ai",
+      "Revamp AI"
+    ],
     "founders": [
       {
         "name": "Stephen Campbell",
@@ -8343,6 +8961,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Latentspace"
+    ],
     "founders": [
       {
         "name": "Qasim Munye",
@@ -8529,6 +9150,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Backpocket"
+    ],
     "founders": [
       {
         "name": "Frank Lee",
@@ -8587,6 +9211,9 @@
     "teamSize": 11,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Retake"
+    ],
     "founders": [
       {
         "name": "Philippe Noël",
@@ -8645,6 +9272,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "ten.dev",
+      "Ten"
+    ],
     "founders": [
       {
         "name": "Eoghan Mulcahy",
@@ -8703,6 +9334,10 @@
     "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Ultravity",
+      "CatX"
+    ],
     "founders": [
       {
         "name": "Benedict Altier",
@@ -8935,6 +9570,9 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Buster"
+    ],
     "founders": [
       {
         "name": "Blake Rouse",
@@ -8993,6 +9631,9 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Intercept"
+    ],
     "founders": [
       {
         "name": "Sasha Zhang",
@@ -9088,6 +9729,9 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Speak Analytics"
+    ],
     "founders": [
       {
         "name": "John Provine",
@@ -9316,6 +9960,9 @@
     "teamSize": 9,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Crux"
+    ],
     "founders": [
       {
         "name": "Himank Jain",
@@ -9382,6 +10029,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Bayesline, Inc."
+    ],
     "founders": [
       {
         "name": "Sebastian Janisch",
@@ -9439,6 +10089,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "minusone.ai",
+      "minusx.ai"
+    ],
     "founders": [
       {
         "name": "Vivek Aithal",
@@ -9497,6 +10151,9 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Bridge"
+    ],
     "founders": [
       {
         "name": "Caelean Barnes",
@@ -9557,6 +10214,9 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Overstand Labs Inc."
+    ],
     "founders": [
       {
         "name": "Mihir Patil",
@@ -9615,6 +10275,11 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "January",
+      "Lumenary",
+      "Lumenary, Inc."
+    ],
     "founders": [
       {
         "name": "Vivek Hazari",
@@ -9676,9 +10341,12 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 12,
+    "teamSize": 17,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Cascada AI"
+    ],
     "founders": [
       {
         "name": "Leopold von Waldthausen",
@@ -9793,6 +10461,9 @@
     "teamSize": 12,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Sentify"
+    ],
     "founders": [
       {
         "name": "Alex Marantelos",
@@ -9853,6 +10524,10 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Invoke AI",
+      "Invoke Labs"
+    ],
     "founders": [
       {
         "name": "Tyler Postle",
@@ -10092,6 +10767,9 @@
     "teamSize": 16,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "WorkWeave"
+    ],
     "founders": [
       {
         "name": "Adam Cohen",
@@ -10147,6 +10825,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Levo UI",
+      "Lopus AI"
+    ],
     "founders": [
       {
         "name": "Aamish Ahmad Beg",
@@ -10204,6 +10886,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "With Riviera"
+    ],
     "founders": [
       {
         "name": "Shaun Lane",
@@ -10261,6 +10946,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Roark AI"
+    ],
     "founders": [
       {
         "name": "James Zammit",
@@ -10372,6 +11060,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Realm"
+    ],
     "founders": [
       {
         "name": "Connor Jones",
@@ -10482,6 +11173,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Dough"
+    ],
     "founders": [
       {
         "name": "Amogh Chaturvedi",
@@ -10532,6 +11226,9 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Hypermorphic"
+    ],
     "founders": [
       {
         "name": "Win Wang",
@@ -10579,6 +11276,13 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Alpha's Game",
+      "Ludus",
+      "Ludus Labs",
+      "Rid",
+      "Chestnut Forty"
+    ],
     "founders": [
       {
         "name": "Veniamin Veselovsky",
@@ -10750,6 +11454,10 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Ouiza",
+      "Louiza Labs"
+    ],
     "founders": [
       {
         "name": "Larissa Tyagi",
@@ -10851,6 +11559,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Fluentive AI",
+      "Fluentive"
+    ],
     "founders": [
       {
         "name": "Eytan Rozenblum",
@@ -10957,6 +11669,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Salesmith"
+    ],
     "founders": [
       {
         "name": "Nazli Danis",
@@ -11138,6 +11853,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "PlayVision AI",
+      "PlayVision",
+      "Bron"
+    ],
     "founders": [
       {
         "name": "Anish Gupta",
@@ -11326,6 +12046,9 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "DiligenceSquared Inc."
+    ],
     "founders": [
       {
         "name": "Frederik Hansen",
@@ -11440,6 +12163,10 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "pulse",
+      "itefire"
+    ],
     "founders": [
       {
         "name": "Jochen Madler",
@@ -11494,6 +12221,9 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Constellation"
+    ],
     "founders": [
       {
         "name": "Kamran Majid",
@@ -11563,6 +12293,9 @@
     "teamSize": 6,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Netter AI"
+    ],
     "founders": [
       {
         "name": "Samuel Ladroue",
@@ -11726,6 +12459,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Lyon (Branding TBD)"
+    ],
     "founders": [
       {
         "name": "Gabriel Noya",
@@ -12107,6 +12843,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -12155,6 +12892,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -12216,6 +12954,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -12258,6 +12997,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -12306,6 +13046,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,

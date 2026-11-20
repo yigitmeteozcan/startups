@@ -233,6 +233,9 @@
     "teamSize": 45,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Centaur Labs"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -317,6 +320,10 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Saga",
+      "Mtio"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -358,7 +365,28 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Snapdata",
+      "Basis",
+      "Atoma"
+    ],
+    "founders": [
+      {
+        "name": "Ken Van Haren",
+        "role": "Founder",
+        "linkedin": "http://linkedin.com/in/kenvanharen",
+        "bio": "Founder @ Patterns. Previously Square, Google, stats PhD @ Duke.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55451e2f3a29d444202af141e90902291148139d.jpg",
+        "active": false
+      },
+      {
+        "name": "Chris Stanley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-stanley",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/339f8dca62b76beeedc6c36bbf4dd04f64ded934.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -399,6 +427,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Glocally"
+    ],
     "founders": [
       {
         "name": "Felix Steinbrenner",
@@ -569,6 +600,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Ergomake"
+    ],
     "founders": [
       {
         "name": "Lucas da Costa",
@@ -688,6 +722,9 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "DryBox Bio"
+    ],
     "founders": [
       {
         "name": "Emily Damato",
@@ -722,7 +759,7 @@
     "id": "yc-cognitio-labs",
     "source": "yc",
     "name": "Cognitio Labs",
-    "description": "AI back office for food product quality teams",
+    "description": "AI back office for food product quality and manufacturing teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ef89599f5919a67db2c626d5aa12b8e6f38bf8da.png",
     "website": "https://cognitioiq.com",
     "sourceUrl": "https://www.ycombinator.com/companies/cognitio-labs",
@@ -749,6 +786,12 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Flair Technology Services Inc.",
+      "Flair",
+      "Flair Health",
+      "Flair Technologies"
+    ],
     "founders": [
       {
         "name": "Diva Avaya Sharma",
@@ -860,6 +903,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Metofico ltd"
+    ],
     "founders": [
       {
         "name": "Mehdi Boudjadja",
@@ -978,6 +1024,11 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "qaml (pronounced camel)",
+      "qaml",
+      "camelQA"
+    ],
     "founders": [
       {
         "name": "Illiana Reed",
@@ -1044,6 +1095,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "minusone.ai",
+      "minusx.ai"
+    ],
     "founders": [
       {
         "name": "Vivek Aithal",
@@ -1104,6 +1159,9 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Overstand Labs Inc."
+    ],
     "founders": [
       {
         "name": "Mihir Patil",
@@ -1159,6 +1217,11 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Pastel Health",
+      "Olive Legal",
+      "Paradome"
+    ],
     "founders": [
       {
         "name": "Greg Volynsky",
@@ -1216,6 +1279,9 @@
     "teamSize": 10,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Thunder"
+    ],
     "founders": [
       {
         "name": "Carl Peterson",
@@ -1322,6 +1388,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Percival Technologies"
+    ],
     "founders": [
       {
         "name": "Kevin Bi",
@@ -1439,6 +1508,9 @@
     "teamSize": 11,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Axel AI"
+    ],
     "founders": [
       {
         "name": "Saurav Kumar",
@@ -1497,6 +1569,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Lyon (Branding TBD)"
+    ],
     "founders": [
       {
         "name": "Gabriel Noya",
@@ -1529,7 +1604,7 @@
     "id": "yc-alkera-ai",
     "source": "yc",
     "name": "Alkera AI",
-    "description": "Reliable and safe data engineering and data science agents",
+    "description": "AI platform for enterprise data teams",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eecc1a49c35b3a26973c35ce53d1c3f862a058cb.png",
     "website": "https://alkera.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/alkera-ai",
@@ -1554,9 +1629,12 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 3,
+    "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Inc."
+    ],
     "founders": [
       {
         "name": "Rick Gao",
@@ -1623,6 +1701,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Vanda Labs"
+    ],
     "founders": [
       {
         "name": "Brandon Ong",

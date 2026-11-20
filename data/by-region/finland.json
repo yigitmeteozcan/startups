@@ -30,7 +30,30 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jaakko Rauhala",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jaakko-rauhala/",
+        "twitter": "https://x.com/JayRauhala",
+        "bio": "Co-founder of Kapacity.io, which was acquired by EnergyHub in November 2024.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ad73d298b4b34a81b414e439cf14f07c82b62ca0.jpg"
+      },
+      {
+        "name": "Rami El Geneidy",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ramielgeneidy/",
+        "twitter": "https://twitter.com/Eramismus",
+        "bio": "I'm technical co-founder of Kapacity.io. I am building the next big thing for the energy and real estate sector so we all could enjoy a less hot and more sustainable future. When I am not doing that, I enjoy runs, hiking and climbing.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1c901a76f003114fc30aec375a36f8ca21de76f8.jpg"
+      },
+      {
+        "name": "Sonja Salo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sonja-salo/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4f1c1935f6598affab21c7c582024845deba2e43.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -128,6 +151,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Last Accounting Company"
+    ],
     "founders": [
       {
         "name": "Sami Laakkonen",

@@ -147,6 +147,11 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "AdSpecter",
+      "CloudWorkout",
+      "Cloud Workout"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -226,7 +231,24 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bruno Vegreville",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/brunovegreville/",
+        "twitter": "https://twitter.com/bruvgr",
+        "bio": "Co-founder & CEO at Hera Passionate about productivity, healthcare, education and Albert Camus. Machine learning engineer turned Product Engineer turned Product Manager.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/930e5545691c67b9dbe49b4b398f86510d9c7aa9.jpg"
+      },
+      {
+        "name": "Louise Bayssat",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/louise-bayssat-53488a127/",
+        "twitter": "https://twitter.com/loubayss",
+        "bio": "Co founder & COO at Hera. Previously worked in finance and as a Customer Success Manager at a start up. Passionate about community building.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/99043e22ac2d6dc3becacd16e5d661da1490e254.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

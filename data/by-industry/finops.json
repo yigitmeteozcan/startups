@@ -70,6 +70,9 @@
     "teamSize": 13,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Beacon"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -110,6 +113,9 @@
     "status": "acquired",
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Ramp"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -408,6 +414,10 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Seed Technologies",
+      "Inc."
+    ],
     "founders": [
       {
         "name": "Hootan Mahallati",
@@ -524,7 +534,24 @@
     "teamSize": 17,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Perseus Mlambo",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/perseus",
+        "twitter": "https://twitter.com/perseusmlambo",
+        "bio": "CEO at Union54, developers of ChitChat.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9dc6c63451ce80c45ae40970c748bf852ee7622f.jpg"
+      },
+      {
+        "name": "Alessandra Martini",
+        "role": "Founder",
+        "linkedin": "https://za.linkedin.com/in/alessandra-martini-5bb15991",
+        "twitter": "https://twitter.com/AleMartiniM",
+        "bio": "Co-founder & COO at Union54",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/764bcdb519d4a77cd424a0a9516352ac68e79777.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -567,7 +594,23 @@
     "teamSize": 27,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Anh-Tho CHUONG",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anhthochuong/",
+        "twitter": "https://twitter.com/byAnhtho",
+        "bio": "Anh-Tho leads the business side of Lago. She genuinely thinks \"SaaS is beautiful\" and therefore spent 10 years in go-to-market and product led growth roles in B2B SaaS startups. After a stint in consulting at McKinsey & Co, she joined Mailjet (acq. by Mailgun) as Head of Strategic projects. She then launched Weebly (YC W07) in France, before becoming the 1st employee at Qonto, one of the European fintech unicorns. During her tenure as VP Growth, she grew ARR from 0 to dozens of millions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3a680ea33d82c7896e8ba2e6b7d06285d5353207.jpg"
+      },
+      {
+        "name": "Raffi SARKISSIAN",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sarkissianraffi",
+        "bio": "A 2nd time founder, Raffi is a Growth Product & Data expert, and leads Product at Lago. He led Data Operations at Qonto, one of the fintech unicorns in Europe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ba4bf82817bb23e76f1a461d1ef27ccb1096577d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -609,7 +652,16 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ilia Semenov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/iliavsemenov/",
+        "twitter": "https://twitter.com/ilia_v_semenov",
+        "bio": "🚀ex-Lyft (2016-2020): Data Engineering + Cloud Cost Management 🎮ex-EA (2014-2016): Cloud Cost Management 🎓Carnegie Mellon University 🏡Saint-Petersburg, Russia 🌁San Francisco, USA",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/17bcfa797b83e672337eae9735fd7f5b270c9e48.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -652,7 +704,30 @@
     "teamSize": 150,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Francisca Noguera",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/francisca-noguera-toku/",
+        "bio": "Co - Founder & CRO of Toku, love to talk with people and sing. I worked for three years in the Chilean financial market in Falabella. Graduated from Pontificia Universidad Católica de Chile, BS in Business and Economics.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f84706bd86b10126d925f82026cfb0dfe72d0dc7.jpg"
+      },
+      {
+        "name": "Cristina Etcheberry",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/cristina-etcheberry-toku/",
+        "bio": "* Product Manager, self-taught developer and dog lover. * +3 years of experience working at Latam biggest Airline and Product Owner from idea to conception of Brasil Alexa's Skill. * Pontificia Universidad Católica de Chile, BS in Business and Economics. Graduated on top ten of promotion.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e37ab366e80726c1381a291c14b7c69eb3b558dd.jpg"
+      },
+      {
+        "name": "Enzo Tamburini",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/entamburini/",
+        "twitter": "https://twitter.com/enzorrr",
+        "bio": "Chilean 🇨🇱, developer and Co-Founder of Toku. Python and dog lover. Not pretty sure what i have to put here but probably I'll update it later.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d4c3ee71ff32aa71212e87f8ab6e6fe5c4f7bd69.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -798,6 +873,9 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Bananas"
+    ],
     "founders": [
       {
         "name": "Mario Gaw",
@@ -907,6 +985,9 @@
     "teamSize": 75,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Pump"
+    ],
     "founders": [
       {
         "name": "Spandana Nakka",
@@ -957,6 +1038,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Fleat",
+      "Ferment Technologies",
+      "Rosettic"
+    ],
     "founders": [
       {
         "name": "Micah Wheat",
@@ -1063,6 +1149,9 @@
     "teamSize": 25,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Cloudchipr Inc"
+    ],
     "founders": [
       {
         "name": "Ashot Ayvazyan",
@@ -1293,6 +1382,9 @@
     "teamSize": 8,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Lightning Medical"
+    ],
     "founders": [
       {
         "name": "Ayush Jain",
@@ -1400,6 +1492,11 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "PowerPlay",
+      "Strike",
+      "Pluto"
+    ],
     "founders": [
       {
         "name": "Ronit Jain",
@@ -1457,6 +1554,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Cart"
+    ],
     "founders": [
       {
         "name": "Erin Kim",
@@ -1569,6 +1669,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Anyware"
+    ],
     "founders": [
       {
         "name": "Christopher Acker",

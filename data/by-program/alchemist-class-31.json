@@ -19,6 +19,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 5650000,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -52,6 +56,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 2470000,
     "founders": [
       {
         "name": "Kirill Lisitsyn",
@@ -96,6 +104,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 550000,
     "founders": [
       {
         "name": "Sean Hazaray",
@@ -145,6 +157,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 450000,
     "founders": [
       {
         "name": "Juanita Duque",
@@ -194,6 +210,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 250000,
     "founders": [
       {
         "name": "David Klecka",
@@ -243,6 +263,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 200000,
     "founders": [
       {
         "name": "Chandler Supple",
@@ -287,6 +311,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 160000,
     "founders": [
       {
         "name": "Yuliia Tkachova",
@@ -331,6 +359,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 135000,
     "founders": [
       {
         "name": "Serge Berezhnoy",
@@ -380,6 +412,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 87000,
     "founders": [
       {
         "name": "Matias Figliozzi",
@@ -429,6 +465,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 60000,
     "founders": [
       {
         "name": "Tunji Olalekan",
@@ -454,6 +494,52 @@
     "alsoIn": []
   },
   {
+    "id": "alchemist-flyhound",
+    "source": "alchemist",
+    "name": "Flyhound",
+    "description": "Patented Technology for Drones that Locates and Identifies People on the Ground and Inside Buildings Without an App, User Interaction, or Infrastructure",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Manny Cerniglia",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Antonio Albanese",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "alchemist-krinu",
     "source": "alchemist",
     "name": "Krinu",
@@ -473,6 +559,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Aisling Hayes",
@@ -503,99 +591,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-flyhound",
-    "source": "alchemist",
-    "name": "Flyhound",
-    "description": "Patented Technology for Drones that Locates and Identifies People on the Ground and Inside Buildings Without an App, User Interaction, or Infrastructure",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 31",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Manny Cerniglia",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Antonio Albanese",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-freefuse",
-    "source": "alchemist",
-    "name": "FreeFuse",
-    "description": "A video communication platform that simplifies how information is shared and processed.",
-    "logo": "",
-    "website": "",
-    "location": "Los Angeles, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2022,
-    "program": "Alchemist Class 31",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mike Liu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Wendy Chen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Marcus Jeffrey",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-mechlabs-ai",
     "source": "alchemist",
     "name": "mechlabs.ai",
@@ -615,6 +610,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Alex Dantas",
@@ -659,6 +656,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "CEO",
@@ -672,6 +671,57 @@
       },
       {
         "name": "CPO",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-freefuse",
+    "source": "alchemist",
+    "name": "FreeFuse",
+    "description": "A video communication platform that simplifies how information is shared and processed.",
+    "logo": "",
+    "website": "",
+    "location": "Los Angeles, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Mike Liu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Wendy Chen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Marcus Jeffrey",
         "role": "",
         "linkedin": ""
       }

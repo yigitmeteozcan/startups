@@ -72,6 +72,13 @@
     "teamSize": 23,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Evolve",
+      "The Podcast App (formerly Evolve)",
+      "The Podcast App",
+      "Podcast App",
+      "Evolve (makers of Podcast App & Rest AI)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -194,7 +201,24 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Robert Gaal",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/robertgaal",
+        "twitter": "https://twitter.com/robertgaal",
+        "bio": "Tall Dutch guy. Founder of Klime. Previously: Quest (S21), Google, Karma, Wakoopa.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b9a9dbaf9ca8a86ad81f1972e44b5d3c8ba3c82e.jpg"
+      },
+      {
+        "name": "Emiel van Liere",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/emielvanliere/",
+        "twitter": "https://twitter.com/emielvanliere",
+        "bio": "CTO & Co-founder at Quest, living in Amsterdam.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1da98f9c3b38e64972ab0080e68d953aea8eef19.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -235,6 +259,9 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Moonshot"
+    ],
     "founders": [
       {
         "name": "Youssef Rizk",
@@ -294,6 +321,9 @@
     "teamSize": 9,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Vastly"
+    ],
     "founders": [
       {
         "name": "Jonathan Baer",

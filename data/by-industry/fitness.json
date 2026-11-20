@@ -154,6 +154,10 @@
     "teamSize": 64,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Hykso",
+      "Hykso (FightCamp)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -197,7 +201,15 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jake Mor",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jake-mor-3b397392/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/98a7da64e7926b3cf80f10f3c107b4634cb7f3bf.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -239,6 +251,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Blok (name is work-in-progress)",
+      "Blok Fitness"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -280,6 +296,10 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Assist AI",
+      "PepTales"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -321,6 +341,9 @@
     "teamSize": 55,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Sutra"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -465,6 +488,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Athens Research"
+    ],
     "founders": [
       {
         "name": "Jeff Tang",
@@ -516,7 +542,26 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "CalorieSnap"
+    ],
+    "founders": [
+      {
+        "name": "Wade Norris",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wadenorris/",
+        "twitter": "https://twitter.com/wadednorris",
+        "bio": "Founded SnapCalorie. 500k+ MAUs, profitable, twice the accuracy of a professional nutritionist, published first algorithm in top conference of computer vision (CVPR). Co-founded The Spaghetti Detective, profitable, most popular paid software in 3D printing. Previously co-lead for the 100+ researcher Mobile Vision team at Google AI. The team co-founded Google Cloud Vision API, Google Lens, MobileNets, and a wide variety of computer vision models powering products across Google.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/72ddeb7f1c688c925ba9f351065b51abef22bb41.jpg"
+      },
+      {
+        "name": "Scott Baron",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/scott-baron-7b09b011/",
+        "bio": "Scott Baron, the co-founder and CTO of SnapCalorie. He previously spent 12 years as a systems engineer in Aerospace where he developed software and algorithms to support high reliability missions and advanced data science applications.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ef506ba76aad8b912e393f4fbe87297c20106f11.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -558,7 +603,22 @@
     "teamSize": 26,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Piero Linares",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/piero-linares-1a9397121/",
+        "bio": "Co-Founder & CEO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/59961fb4d7ec649fb250af9b2584513e64d926dd.jpg"
+      },
+      {
+        "name": "Ulises Olave",
+        "role": "Founder",
+        "linkedin": "https://pe.linkedin.com/in/ulises-olave-mendoza-3bb448100",
+        "bio": "Co-Founder & CTO at Fitia",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/20a0909450fdbc6d0aba5b82c52b35bc666b79eb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -598,7 +658,23 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jordan Kobert",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jordankobert/",
+        "twitter": "https://twitter.com/jordankobert",
+        "bio": "CEO & Co-founder of The Breakaway. I founded The Breakaway in 2020 along with Kyle Yugawa. Our mission is to help people improve and we're starting with cycling, leveraging the explosive growth in platforms like Peloton, Zwift and Strava. We'll expand to all aspects of digital fitness to become the go-to coaching app for fitness enthusiasts. Previously I was at: Urbandoor (Acq by Airbnb), Strava, Google, AdMob (Acq by Google), HomeGain.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/154df1aff5d28a8ea4b745cb0efa6073ea5bde64.jpg"
+      },
+      {
+        "name": "Kyle Yugawa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kyleyugawa",
+        "bio": "Product designer. Father of two. Recovering jiujiteiro. Weekend warrior cyclist. Co-founder & design leader at The Breakaway YCS21. Singularly focused on helping more people improve their fitness and finding joy in riding their bikes. Previously at Strava, VSCO, and Tempo",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/415c51d617eef73d6c149a7498780db190c56925.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -641,6 +717,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Forfeit"
+    ],
     "founders": [
       {
         "name": "Josh Mitchell",
@@ -699,6 +778,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Babylon AI",
+      "BabylonAI",
+      "Rex"
+    ],
     "founders": [
       {
         "name": "Ahmad Roumie",
@@ -748,6 +832,11 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "PurplePill",
+      "HeyPurple",
+      "PurplePages"
+    ],
     "founders": [
       {
         "name": "Aditya Ganapathi",
@@ -814,6 +903,15 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Chirp",
+      "Convey",
+      "Corefin",
+      "Stackgrant",
+      "For Effect",
+      "ForEffect",
+      "Pernell"
+    ],
     "founders": [
       {
         "name": "Albert Jo",
@@ -938,6 +1036,11 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "FoundryAI",
+      "Foundry",
+      "x1"
+    ],
     "founders": [
       {
         "name": "Manil Lakabi",

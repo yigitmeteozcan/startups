@@ -4,11 +4,11 @@ _Auto-generated from the dataset on 2026-11-20._
 
 | Metric | Count |
 |---|---|
-| Total companies | **23,783** |
+| Total companies | **23,788** |
 | 🦄 Unicorns ($1B+) | **152** |
-| 💰 Exits | **2906** |
+| 💰 Exits | **2907** |
 | 🌱 B Corps | **29** |
-| 👤 Founder profiles | **14,932** |
+| 👤 Founder profiles | **15,679** |
 | Current session | **69** |
 
 ## By source
@@ -16,7 +16,7 @@ _Auto-generated from the dataset on 2026-11-20._
 | Source | Companies |
 |---|---|
 | plugandplay | 6,444 |
-| yc | 6,408 |
+| yc | 6,413 |
 | techstars | 5,200 |
 | 500 | 2,243 |
 | antler | 1,088 |
@@ -57,13 +57,13 @@ _Auto-generated from the dataset on 2026-11-20._
 2023  ████████████████████████████ 1580
 2024  ████████████████████████████ 1561
 2025  █████████████████████░░░░░░░ 1196
-2026  █████████████████████░░░░░░░ 1158
-2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 17
+2026  █████████████████████░░░░░░░ 1161
+2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 19
 2018.11  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
 ## Top countries
-1. **United States** — 12185
+1. **United States** — 12190
 2. **Japan** — 3143
 3. **United Kingdom** — 931
 4. **Canada** — 813
@@ -108,14 +108,14 @@ _Auto-generated from the dataset on 2026-11-20._
 9. **YC Winter 2023** — 274
 10. **YC Winter 2024** — 248
 11. **YC Summer 2024** — 248
-12. **Techstars Boston Accelerator** — 239
-13. **YC Fall 2026** — 237
+12. **YC Fall 2026** — 240
+13. **Techstars Boston Accelerator** — 239
 14. **YC Summer 2022** — 233
 15. **YC Winter 2020** — 229
 
 ## Top industries
 1. **Fintech** — 3027
-2. **AI** — 1912
+2. **AI** — 1917
 3. **SaaS** — 1748
 4. **Artificial intelligence and machine learning** — 1669
 5. **Mobile** — 1164
@@ -123,7 +123,7 @@ _Auto-generated from the dataset on 2026-11-20._
 7. **Healthcare** — 920
 8. **Infrastructure** — 759
 9. **Developer Tools** — 748
-10. **Industrials** — 695
+10. **Industrials** — 698
 11. **Health & Longevity** — 691
 12. **Engineering, Product and Design** — 635
 13. **Insurtech** — 632
@@ -137,7 +137,7 @@ _Auto-generated from the dataset on 2026-11-20._
 
 ## By region
 1. **Americas** — 6014
-2. **United States of America** — 4784
+2. **United States of America** — 4789
 3. **Asia** — 3438
 4. **Europe** — 1028
 5. **EMEA** — 951

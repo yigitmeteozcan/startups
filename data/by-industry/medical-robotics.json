@@ -71,6 +71,9 @@
     "status": "active",
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Z Imaging"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -114,7 +117,22 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Peter Francis",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/peterfrancis19/",
+        "bio": "Background in Mechatronics Engineering (undergrad) and surgical robotics (graduate-level). Engineer #2 at a medical robotics startup in the Bay area and worked on a CSA lunar rover.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2103b72c4e0a41062e302cd0e0fa4d507a87828c.jpg"
+      },
+      {
+        "name": "Matthew Kang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/matthew-kang/",
+        "bio": "I build stuff: MedTech, ML/CV, robots",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/afd54366ab433fb30f2e03f6af7e9f1e4b558365.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

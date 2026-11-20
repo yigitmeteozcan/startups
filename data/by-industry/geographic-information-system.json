@@ -28,6 +28,9 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Geosite Inc."
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -68,7 +71,24 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Vincent Lam",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lamvincent/",
+        "twitter": "https://twitter.com/VincentLam328",
+        "bio": "Vincent is a visionary and technologist at heart, with 20 years of experience of delivering world-class software. He specializes in product strategy and development, as well as technology transformation for SMBs and enterprises. Vincent previously led large-scale projects at Google and Dassault Systems, and has created a number of award-winning start-ups since 2011. He currently held an MBA from the University of Ottawa, and a BASc in Computer Engineering from the University of BC.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/33c523156f0aa8d1efd3006a946ca321284bda96.jpg"
+      },
+      {
+        "name": "Sean Huang",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sean-huang/",
+        "twitter": "https://twitter.com/SeanSangH",
+        "bio": "A Vancouver-based serial entrepreneur who has founded three startups and has more than 10 years of experience in sales and business development. From door-to-door sales with Telus to handling enterprise accounts, Sean was one of the fastest salesmen in his marketing firm to get promoted to senior sales manager for B2B campaigns. Sean has gone on to build startups in the VRAR space as well as having cross-border experience from his time spent in Shanghai.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/94abd5709e472d17e479b82e3b8b5c92b89a7c50.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -108,7 +128,23 @@
     "teamSize": 60,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "SIGA Geointelligence"
+    ],
+    "founders": [
+      {
+        "name": "Mateus Felini",
+        "role": "Founder",
+        "linkedin": "https://br.linkedin.com/in/mateus-felini",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b56d0db2c938a28df09cc12ba448e9fd33a7c2a3.jpg"
+      },
+      {
+        "name": "Raisa Spagnol",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/raisa-spagnol-a589999b/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d754af5e70cd99cb349142af014898bf6ba3c53a.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -149,6 +185,10 @@
     "teamSize": 2,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Atonomo",
+      "CodeCanary"
+    ],
     "founders": [
       {
         "name": "Michael Egan",

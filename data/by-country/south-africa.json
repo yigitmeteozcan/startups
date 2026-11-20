@@ -567,7 +567,19 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "FloatPays (Pty) Ltd",
+      "FloatPays"
+    ],
+    "founders": [
+      {
+        "name": "Simon Ward",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wardsimon/",
+        "bio": "I am a passionate technologist and product builder. I get my energy from building products that disrupt existing markets and make a positive impact on how we live our lives. My experience includes 25 years as an entrepreneur and business leader in the fintech and eCommerce business verticals. I have worked globally and been fortunate enough to be part of a few business exits along the way. Brands include Play.com, Rakuten, Moonpig.com, Photobox.com, Prodigy Finance and most recently Floatpays.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7aa687fc9202bea91cf9a0a3d6d074dd6b1ab834.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -606,7 +618,20 @@
     "teamSize": 40,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "JABU Logistics Inc",
+      "JABU Logistics"
+    ],
+    "founders": [
+      {
+        "name": "David Akinin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/davidakinin/",
+        "twitter": "https://twitter.com/davidakinin",
+        "bio": "I’m changing the way informal sector retailers in Africa source products and interact with brands @JABU Venezuelan, grew up in the US, Econ at @UChicago, MPhil Inclusive Innovation @UCTGSB Ex-Credit Suisse, Google, Atenu. Have a passion for development and the creation of Habitats; Social entrepreneur, driven by #accountability, and geared by the fusion of finance and technology.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9faf70a48e5b83ff19874258e18a956b4b1f1eb0.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -637,6 +662,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Secondary Sale",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -678,6 +704,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,

@@ -849,6 +849,10 @@
     "teamSize": 350,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Ropeo",
+      "WeExpenses"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -889,6 +893,9 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Impuesto Correcto"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1414,7 +1421,16 @@
     "teamSize": 41,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Carlos Guayara",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/cguayara/",
+        "twitter": "https://twitter.com/carlosguayarar",
+        "bio": "Entrepreneur for the past five years, co-founder of 3 startups focused on the financial markets inclusion with one previous exit — Economist and Business Administrator, with emphasis on capital markets. -Ex Citi- Chief Operating Officer for companies in the financial markets sector.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1d7331fea9b0e50cf2256fc5905c17c3e1395a31.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1453,7 +1469,25 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "MejorCDT"
+    ],
+    "founders": [
+      {
+        "name": "Charlie Correa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/carloscorreavega/",
+        "bio": "Early Uber employee, launched UberX in Colombia, Dominican Republic and Argentina, and led DiDi Chuxing expansion in Colombia as Head of Ops building a team of 50 people and capturing 30% of market share in 3 months. Now building Luable, a fintech that allows Banks get faster and cheaper funding from Retail users, that already has USD $30M+ in deposits, from thousands of Retail users.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d1a0fedf099b56b3645b6cb58edc92fc1c3c42dc.jpg"
+      },
+      {
+        "name": "David Susa",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/davidsusa",
+        "bio": "Colombian. Systems and Computing Engineer. Msc on Information Security. In God I trust, all others must bring data. +8 years working on software development, serving thousands of customers on a SaaS platform for real state in LATAM. +5 years working on fintech space.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/def3b3ccfdd3b842f96d6a10b0ca9aef8e923c3d.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1492,7 +1526,15 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pablo Rojas",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pablo-rojas-contreras-0a3525140/",
+        "bio": "Pablo Rojas, co-founder and CEO. Prior to founding Protego, Pablo led Rappi Bank's Onboarding and Know Your Customer (KYC) for Latam and helped structure the company's chargeback reconciliation process. He also co-founded a non-profit organization that improves the living conditions of vulnerable social sectors, victims of extreme poverty and armed conflict in Colombia.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5dc1faeb82807158c1c6d6eb01cf08d575ad8ca.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1534,6 +1576,9 @@
     "teamSize": 14,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Evalo"
+    ],
     "founders": [
       {
         "name": "Fabian Torres",
@@ -1592,6 +1637,9 @@
     "teamSize": 50,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "acasa"
+    ],
     "founders": [
       {
         "name": "Mauricio Peñaranda",
@@ -1660,6 +1708,11 @@
     "teamSize": 35,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "HoyTrabajas Inc.",
+      "HoyTrabajas",
+      "HoyTrabajas.com"
+    ],
     "founders": [
       {
         "name": "Ruben Cordoba",
@@ -1709,6 +1762,9 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Hippo.Build"
+    ],
     "founders": [
       {
         "name": "Mads Schmidt Petersen",
@@ -1875,6 +1931,9 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Pagaa"
+    ],
     "founders": [
       {
         "name": "Cipriano Echavarria",
@@ -2102,6 +2161,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "HireThomas, Inc.",
+      "HireThomas",
+      "MadeByThomas"
+    ],
     "founders": [
       {
         "name": "Human Thomas",
@@ -2141,6 +2205,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2202,6 +2267,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2253,6 +2319,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2311,6 +2378,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2357,6 +2425,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2400,6 +2469,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2456,6 +2526,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2511,6 +2582,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2564,6 +2636,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2616,6 +2689,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2663,6 +2737,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2710,6 +2785,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2751,6 +2827,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2814,6 +2891,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2861,6 +2939,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2908,6 +2987,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -2954,6 +3034,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3015,6 +3096,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3066,6 +3148,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3113,6 +3196,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -3169,6 +3253,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,

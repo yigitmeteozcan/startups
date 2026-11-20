@@ -172,6 +172,9 @@
     "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Keynua Inc."
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -378,7 +381,22 @@
     "teamSize": 26,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Piero Linares",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/piero-linares-1a9397121/",
+        "bio": "Co-Founder & CEO",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/59961fb4d7ec649fb250af9b2584513e64d926dd.jpg"
+      },
+      {
+        "name": "Ulises Olave",
+        "role": "Founder",
+        "linkedin": "https://pe.linkedin.com/in/ulises-olave-mendoza-3bb448100",
+        "bio": "Co-Founder & CTO at Fitia",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/20a0909450fdbc6d0aba5b82c52b35bc666b79eb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -417,7 +435,26 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Carlos Lau",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/carloslauv/",
+        "twitter": "https://twitter.com/carloslauv",
+        "bio": "Co-founder & CEO @ KURIOS. Ex-Uber Latam early stage employee. Contributed to the 60x growth in the Peruvian operations, as a Growth and Operations Manager. Launched and scaled UberDost in Latam (Brasil, Mexico, Colombia and Peru), a supply growth app. Ex-Amazon USA Product Marketing Manager Intern. Squash addict. Father of two. Alumni - University of Texas at Austin.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ef040d2737b1e252ec364d11b85832194dd43ed1.jpg",
+        "active": false
+      },
+      {
+        "name": "Luis Alonso Ubillas",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lubillas/",
+        "twitter": "https://twitter.com/alonsoub",
+        "bio": "Co-founder of Kurios (S21), helping enterprises in Latin America with digital transformation and AI enablement. Built GTM, operations, and finance from zero and sold directly to VPs and senior executives at Walmart, AB InBev, Scotiabank, and Yape across 8 countries, reaching 156% NDR at 80% gross margin. I also build AI agents hands-on (Claude Code, n8n).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/944d4259d7264edc789a4bdfc1c75dee590d472a.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -566,6 +603,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -614,6 +652,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -660,6 +699,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -713,6 +753,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -759,6 +800,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -810,6 +852,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -851,6 +894,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -899,6 +943,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -941,6 +986,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 2000000,
     "founders": [
       {
         "name": "Jose Delmar",

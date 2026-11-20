@@ -940,6 +940,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1002,6 +1003,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -1049,6 +1051,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "11-50",
     "founders": [
       {
         "name": "Sanja Kon",

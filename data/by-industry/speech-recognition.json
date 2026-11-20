@@ -70,7 +70,27 @@
     "teamSize": 12,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Wellocution"
+    ],
+    "founders": [
+      {
+        "name": "Anada Lakra",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anadalakra/",
+        "twitter": "https://twitter.com/AnadaLakra",
+        "bio": "Co-founder/CEO at BoldVoice, helping non-native English speakers to speak English clearly and confidently and advance their careers.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a7eaf6d09c44f25a37bf75e8377603688e9fd730.jpg"
+      },
+      {
+        "name": "Ilya Usorov",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ilyausorov/",
+        "twitter": "https://twitter.com/ilyausorov",
+        "bio": "Current: CTO @ BoldVoice, a speech and pronunciation coaching app to help non-native English speakers speak more clearly and confidently. We combine video instruction from Hollywood speech coaches together with speech AI tools.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2259539f017cffde44733f871f90e7476ac3dfb6.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -169,6 +189,9 @@
     "teamSize": 140,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "voize GmbH"
+    ],
     "founders": [
       {
         "name": "Fabio Schmidberger",
@@ -230,6 +253,11 @@
     "teamSize": 8,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "AutoflowAI (Zapier for AI Copilots)",
+      "AutoflowAI",
+      "Ocular"
+    ],
     "founders": [
       {
         "name": "Michael Moyo",
@@ -341,8 +369,12 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 5,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Vued",
+      "AirCaps"
+    ],
     "founders": [
       {
         "name": "Madhav Lavakare",

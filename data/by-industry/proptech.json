@@ -72,6 +72,9 @@
     "teamSize": 200,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Status/Agent/Tagstand"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -150,9 +153,12 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 700,
+    "teamSize": 800,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
+    "formerNames": [
+      "SuperHost"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -194,6 +200,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Baker Street Properties"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -524,6 +533,9 @@
     "teamSize": 23,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Contract Simply"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -609,6 +621,13 @@
     "teamSize": 45,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Pippin",
+      "HelloPippin",
+      "Rent The Backyard",
+      "Rent the Backyard",
+      "Pippin xyz / Rent the Backyard"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -691,6 +710,9 @@
     "teamSize": 50,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "BitFight"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -733,6 +755,11 @@
     "teamSize": 31,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "NODE ECO",
+      "Inc",
+      "NODE"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -818,7 +845,19 @@
     "teamSize": 20,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "1build"
+    ],
+    "founders": [
+      {
+        "name": "Dmitry Alexin",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/dzhdankin/",
+        "twitter": "https://twitter.com/dmitry_alexin",
+        "bio": "I am the CEO & Founder of Handoff. Previously, I led the ML team at CloudKitchens as one of the founding employees. Before that I worked for a global macro hedge fund and the IMF.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/8b010f58fb3d0257945c9a1b225395720d5d5beb.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -983,6 +1022,9 @@
     "teamSize": 75,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Inspectify (formerly Home Inspections App)"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1026,6 +1068,9 @@
     "teamSize": 90,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Flat"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -1110,6 +1155,9 @@
     "teamSize": 18,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Brick"
+    ],
     "founders": [
       {
         "name": "Chapman Snowden",
@@ -1226,6 +1274,9 @@
     "teamSize": 20,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Princep Pte Ltd."
+    ],
     "founders": [
       {
         "name": "Jun Yuan Tan",
@@ -1333,6 +1384,9 @@
     "teamSize": 45,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Lumos"
+    ],
     "founders": [
       {
         "name": "Vineet Mehta",
@@ -1447,6 +1501,9 @@
     "teamSize": 8,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Kanda Products & Services Ltd"
+    ],
     "founders": [
       {
         "name": "Richard Fleeman",
@@ -1624,7 +1681,35 @@
     "teamSize": 40,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jayant Panwar",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jayant-panwar/",
+        "twitter": "https://twitter.com/JayantPanwar17",
+        "bio": "Founder @ Momentary Labs, and Co-Founder @ PropReturns - India's biggest commercial real estate platform. Scaled PropReturns to $85M+ GTV, and 650,000 sqft. of transactions through the platform. Previously cofounded AudaceLabs and AutoChain. AudaceLabs was an AI consulting lab with enterprise clients such as Emirates Airlines, Etisalat etc; AutoChain was a used car marketplace, and was recognised by Ministry of Economy as one of the 10 most innovative startups in the UAE.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9af883ae941a6ca83d0d9555fbb7cfde1a3c8e1e.jpg",
+        "active": false
+      },
+      {
+        "name": "Somil Mathur",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/somilmathur",
+        "twitter": "https://twitter.com/SomilMathur14",
+        "bio": "Building AI for the physical world. Named the company after an elf from LOTR. No regrets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4a06273e31ba27dbf452a825726e03031ebb0ca4.jpg",
+        "active": false
+      },
+      {
+        "name": "Kenish Shah",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kenishshah/",
+        "twitter": "https://twitter.com/kenishshah",
+        "bio": "Founder at PropReturns (YC S21) Connect with me and let's brainstorm!!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cdf846f45095db4f2fb7f5d6d505515d62897d9d.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1665,7 +1750,32 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Labyrinthe",
+      "Loop"
+    ],
+    "founders": [
+      {
+        "name": "Andrew Zhou",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/andrewjzhou/",
+        "bio": "CEO at Commery. Princeton Computer Science '18. Previously cofounder at Labyrinthe, an autonomous/ unstaffed coworking space, and software engineer at Alibaba.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b50c6ce206425503163a3a66b8154a074682586f.jpg"
+      },
+      {
+        "name": "Lyon Aung",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/lyonaung/",
+        "bio": "Princeton Economics '18. Previously cofounder at Labyrinthe, an autonomous/ unstaffed coworking space, and customer success at Braze.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/285fdb21a7b35ce154c953da60682e07cf53e6f9.jpg"
+      },
+      {
+        "name": "Eric He",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ehe3/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e596d238206bea82af489fd532fdfdcb03deae0b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1705,7 +1815,15 @@
     "teamSize": 80,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Pritam Thakur",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pritamthakur/",
+        "bio": "Prior to Ivy Homes, I was the Director of Content Operations at ShareChat. I was leading a team of 200+ members, managing multiple verticals including online campaigns, content moderation and creator management. Prior to this, I ran a real estate project in India and before that I was in Rocket Internet in South East Asia.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/57f3f450727c3a3aff500d03f723e2cb6d6fedbd.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1747,7 +1865,18 @@
     "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "CostCertified"
+    ],
+    "founders": [
+      {
+        "name": "Mike Bignold",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-bignold-6092a27/",
+        "bio": "Mike Bignold is the founder and CEO of CostCertified. He conceived and built CostCertified while running his previous contracting contracting company, with the aim of transforming the construction industry. He dived full-time into CostCertified in 2017, it came out of beta in late 2020, and in 2021 it is expected to have over $200m of construction projects sold through the platform. Born and raised in Canmore, Alberta, he also has a BMgt from University of British Columbia (Okanagan).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/63247679e3a503fc0299699e5abdf0481b8a78f3.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1790,7 +1919,24 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Andres Barrios",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/anbarrios/",
+        "twitter": "https://twitter.com/elandresbarrios",
+        "bio": "Andres is a serial entrepreneur passionate about creating efficient real estate solutions to our ever growing population. He is an experienced founder that has demonstrated history of launching succesful tech startups in different industries and a real estate junky with more than 16 years of experience in acquisitions, property management, development and divestments. Has an MBA from UT at Austin",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a42594f9004af4ceea97bdaf9afdefc68cef4cbe.jpg"
+      },
+      {
+        "name": "Ryan Black",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ryanablack/",
+        "twitter": "https://twitter.com/RyanAllenBlack",
+        "bio": "Ryan is Co-Founder and COO of Ancana (YC S21), building a marketplace for fully managed, co-owned vacation homes. He's a product leader with over 15 years of experience and two exits — Rival (a16z/Upfront-backed, acquired by Ticketmaster) and RideScout (acquired by Daimler's Moovel). He's also built products at Facebook, Prosper Marketplace (Sequoia-backed), and Airvet, the #1 pet telehealth app on the App Store",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c0217b55ffb90e224a805d015707071bddad0489.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1829,7 +1975,23 @@
     "teamSize": 50,
     "isHiring": false,
     "stage": "Growth",
-    "founders": [],
+    "formerNames": [
+      "Resident Boost"
+    ],
+    "founders": [
+      {
+        "name": "Shiv Gettu",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/shiv-gettu-735309ab/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/55f201cf8c8c16066222a355d98e48395870921f.jpg"
+      },
+      {
+        "name": "Kendrick Bradley",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kendrick-bradley-3b094a108/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a51fe640caa9d259c679011fb5633468147b1b88.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -1869,6 +2031,10 @@
     "teamSize": 50,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Agave Search",
+      "Agave API"
+    ],
     "founders": [
       {
         "name": "Tom Reno",
@@ -1933,6 +2099,21 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "WeReno",
+      "Inc.",
+      "VIDCALL",
+      "Inc",
+      "WeReno (Vidcall",
+      "Inc.)",
+      "Scope3D (fka WeReno)",
+      "Scope3D",
+      "Built OS",
+      "BuiltOS",
+      "Handyman.ai by WeReno",
+      "Handyman.ai",
+      "Clickpad (fka WeReno)"
+    ],
     "founders": [
       {
         "name": "Harry Grewal",
@@ -2050,6 +2231,9 @@
     "teamSize": 50,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "acasa"
+    ],
     "founders": [
       {
         "name": "Mauricio Peñaranda",
@@ -2405,6 +2589,9 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Nophin Inc."
+    ],
     "founders": [
       {
         "name": "Teddy Li",
@@ -2656,6 +2843,9 @@
     "teamSize": 170,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Remi Labs"
+    ],
     "founders": [
       {
         "name": "Doug Barnett",
@@ -2716,6 +2906,9 @@
     "teamSize": 48,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "Paces AI"
+    ],
     "founders": [
       {
         "name": "James McWalter",
@@ -2889,6 +3082,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Hostfi",
+      "Atlas"
+    ],
     "founders": [
       {
         "name": "Shaan Franchi",
@@ -3015,6 +3212,11 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Uwi Homes",
+      "Uwi",
+      "uwi"
+    ],
     "founders": [
       {
         "name": "Joseph Tan",
@@ -3072,6 +3274,9 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Lumo"
+    ],
     "founders": [
       {
         "name": "Miquel Llobet",
@@ -3355,6 +3560,9 @@
     "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Clava"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -3396,6 +3604,9 @@
     "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Propify"
+    ],
     "founders": [
       {
         "name": "Nick Johnson",
@@ -3511,6 +3722,9 @@
     "teamSize": 12,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "inBuild, Inc."
+    ],
     "founders": [
       {
         "name": "Ty Sharp",
@@ -3755,6 +3969,11 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Player One",
+      "Story Quest",
+      "StoryQuest"
+    ],
     "founders": [
       {
         "name": "Alvin Salehi",
@@ -3814,6 +4033,11 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Starlight Charging",
+      "Avery HQ",
+      "Avery"
+    ],
     "founders": [
       {
         "name": "Andrew Kouri",
@@ -3968,6 +4192,10 @@
     "teamSize": 22,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Tandem Space",
+      "Inc."
+    ],
     "founders": [
       {
         "name": "Rafi Sands",
@@ -4025,6 +4253,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Zzyzzx",
+      "Zzyzzx Inc."
+    ],
     "founders": [
       {
         "name": "Reader Wang",
@@ -4077,6 +4309,9 @@
     "teamSize": 12,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "Assembly Technologies Inc."
+    ],
     "founders": [
       {
         "name": "Allen Liou",
@@ -4135,6 +4370,11 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Pastelle.",
+      "Mindley",
+      "Mindely"
+    ],
     "founders": [
       {
         "name": "Joseph Thalinjan",
@@ -4246,6 +4486,13 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Doublecall",
+      "Vovana",
+      "Snowbase",
+      "Highintent",
+      "Gowatch"
+    ],
     "founders": [
       {
         "name": "Charlie Maki",
@@ -4310,6 +4557,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "PARES"
+    ],
     "founders": [
       {
         "name": "Zihao Wang",
@@ -4410,6 +4660,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Odyssey"
+    ],
     "founders": [
       {
         "name": "Edmond Niu",
@@ -4505,6 +4758,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4547,6 +4801,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4590,6 +4845,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4647,6 +4903,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4693,6 +4950,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4739,6 +4997,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4793,6 +5052,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4856,6 +5116,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series B",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4918,6 +5179,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -4965,6 +5227,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Series A",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5028,6 +5291,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5069,6 +5333,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5117,6 +5382,7 @@
       "500"
     ],
     "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5163,6 +5429,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5206,6 +5473,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
@@ -5252,6 +5520,7 @@
       "500"
     ],
     "isExit": false,
+    "stage": "Pre-Seed",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,

@@ -109,6 +109,11 @@
     "teamSize": 20,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "FanPlay Technologirs",
+      "FanPlay Technologies",
+      "FanPlay"
+    ],
     "founders": [
       {
         "name": "Bharat Gupta",
@@ -164,7 +169,22 @@
     "teamSize": 40,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Manas Kumar Verma",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/thenextmkv/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2744faaac16faa6ab77feb9451714997ad1166b9.jpg"
+      },
+      {
+        "name": "Swapnil Daga",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/swapnil-daga-b42762130/",
+        "twitter": "https://twitter.com/iamstg?lang=en",
+        "bio": "Co-Founder at AlgoUniversity (S21) I previously worked as an SRE intern at Google, and as an SWE at Apple after graduating from university. I have an extensive teaching experience and have previously taught in other edtech startups as lead instructor for over 2 years, with my students bagging offers from Google, Microsoft, Bytedance etc. I look after scaling the teaching infrastructure at AlgoUniversity.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/40ee127000753d9d8916a5f064aba493ac6f9e9b.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

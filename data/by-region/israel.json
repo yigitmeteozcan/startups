@@ -68,6 +68,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Shoptimally"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -106,6 +109,9 @@
     "status": "active",
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "AirFence"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -149,6 +155,10 @@
     "teamSize": 40,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "MDAlgorithms",
+      "MDacne"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -232,6 +242,9 @@
     "teamSize": 27,
     "isHiring": true,
     "stage": "Growth",
+    "formerNames": [
+      "De-ID"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -356,6 +369,9 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Growth",
+    "formerNames": [
+      "Jul"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -437,6 +453,9 @@
     "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "TailorED"
+    ],
     "founders": [],
     "social": {
       "linkedin": "",
@@ -476,7 +495,25 @@
     "teamSize": 16,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Shimon Tolts",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/tolts",
+        "twitter": "https://twitter.com/shimontolts",
+        "bio": "CNCF Ambassador, AWS Hero, Co-Founder of Datree. ex-ironSource GM of Platform Engineering",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5d9a16ca799df60fb86e1e4115f00191dd69d89e.jpg",
+        "active": false
+      },
+      {
+        "name": "Eyar (Epic) Zilberman",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/eyar-zilberman/",
+        "bio": "In law school, I researched open-source licensing, fell in love with the technology and became active in the development community. Through open-source, I have grown into the professional I am today, leading my startup. The purpose of Datree is to equip developers with the tools they need to succeed. I intend to remain developer-focused, and to continue giving back to the community that gave me so much back when I began my journey.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/70880acc6f9c1299e96434359af6c4ebf5524eed.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -516,6 +553,9 @@
     "teamSize": 12,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Benga"
+    ],
     "founders": [
       {
         "name": "Tomer Biger",
@@ -695,7 +735,38 @@
     "teamSize": 7,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Daniel Liechtenstein",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/daniel-liechtenstein-ba338370/",
+        "bio": "I work with a group of amazing partners who build amazing products together. We founded Hypercore with the goal of pushing the non-bank lending market forward. Already at the beginning of my career, I learned that the future is in the combination between domains, and the more I meet new people the more I learn. I started as an economist and grew into the technological world and today I see myself as a person looking for interesting opportunities.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c7ab89278530e99ea6120e8f801f2d71c31b1ce4.jpg"
+      },
+      {
+        "name": "Eitan Frailich",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/eitan-frailich-81b69390/",
+        "bio": "Started my first steps with technology during my service at IDF technological unit (MAMRAM). After finishing my service I worked as a freelancer software developer, mostly on web and mobile applications. A Year later cofounded Articode LTD - devshop focused on GIS and Financial projects. During that time I was charged with many projects, working with big enterprises, defense industries, startups, etc. A Year a ago changed the focus to our fintech startup Hypercore.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7cc4c83fcbd515fb5ff25eb4d4fe50742e58c605.jpg"
+      },
+      {
+        "name": "Tomer Moshe",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/tomer-moshe-033a2b69",
+        "twitter": "https://twitter.com/tomosher1",
+        "bio": "Completed my BSc in computer science at the age of 18. Co-founder of Hypercore and Articode. Delivered over 20 software products as a freelancer and with Articode. IAF-Ofek Alumni. Coding non-stop since 2011 :)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/643ff54d06094ace005c9639e779241c3d7544d0.jpg"
+      },
+      {
+        "name": "David Yahalomi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/david-yahalomi-441b3863/",
+        "twitter": "https://twitter.com/DavidYahalomi",
+        "bio": "Co-founder of Hypercore and Articode. Delivered over 30 software products as a freelancer and with Articode. Worked for the first digital bank in Israel - Pepper - as a team leader. Speaker at various tech conferences mainly about GraphQL. IAF-Ofek Alumni, and Mamram graduate. Writing code since 2001 :)",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aacf5dc541dd5d2d3de4448eed9f9e1554beeb42.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -909,6 +980,9 @@
     "teamSize": 16,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Whis"
+    ],
     "founders": [
       {
         "name": "Noam Izhaki",
@@ -1147,6 +1221,11 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Allero.io",
+      "Allero",
+      "Wand"
+    ],
     "founders": [
       {
         "name": "Idan Shahar",
@@ -1204,6 +1283,11 @@
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Rovie",
+      "Vecinity",
+      "Enrolla"
+    ],
     "founders": [
       {
         "name": "Nir Gazit",
@@ -1262,6 +1346,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "SAPI",
+      "SAPI 𐂂"
+    ],
     "founders": [
       {
         "name": "Yarden Shem Tov",
@@ -1435,6 +1523,9 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Tailorr"
+    ],
     "founders": [
       {
         "name": "Tal Feld",
@@ -1501,6 +1592,9 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Paladin"
+    ],
     "founders": [
       {
         "name": "Tal Borenstein",
@@ -1558,6 +1652,10 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Octo",
+      "AgentsForce"
+    ],
     "founders": [
       {
         "name": "Ohad Navon",
@@ -1670,6 +1768,9 @@
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "TxAI"
+    ],
     "founders": [
       {
         "name": "Dan Danay",

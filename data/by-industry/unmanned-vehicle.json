@@ -72,7 +72,28 @@
     "teamSize": 14,
     "isHiring": false,
     "stage": "Early",
-    "founders": [],
+    "formerNames": [
+      "Exosonic",
+      "Inc."
+    ],
+    "founders": [
+      {
+        "name": "Tim MacDonald",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/timdmacd/",
+        "bio": "Co-founder of supersonic aircraft startup.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fc8f6a9cbc67a85e3c4c9e514e63545720836109.jpg",
+        "active": false
+      },
+      {
+        "name": "Norris Tie",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/norristie/",
+        "bio": "Norris is a Stanford MBA graduate (2019) and aerospace engineer from UCLA (2014), In between his BS and MBA, he spent three years working in aerospace as a propulsion engineer, all on vehicles that fly faster than the speed of sound. He’s been passionate about faster commercial flight since he was little and is dedicated to solving the problem. He has the academic and industry background, grit, and passion to build Exosonic and introduce a new boomless era of supersonic commercial aviation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/782932a64c1a1a8e29443f8434e5bafe2b984a35.jpg",
+        "active": false
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

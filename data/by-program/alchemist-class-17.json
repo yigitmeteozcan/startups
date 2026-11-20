@@ -19,6 +19,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Series A",
+    "teamSizeRange": "251-500",
+    "totalRaised": 17000000,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -52,6 +56,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "51-100",
+    "totalRaised": 4800000,
     "founders": [
       {
         "name": "CSN Murthy- CEO",
@@ -101,6 +109,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 2724000,
     "founders": [
       {
         "name": "Alexander Britkin",
@@ -155,6 +167,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 2350000,
     "founders": [
       {
         "name": "Ashish Dua",
@@ -194,6 +210,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 2000000,
     "founders": [
       {
         "name": "George Batschinski",
@@ -238,6 +258,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 1845000,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -271,6 +295,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 540000,
     "founders": [],
     "social": {
       "linkedin": "",
@@ -304,6 +332,10 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 170000,
     "founders": [
       {
         "name": "Sean Huver",
@@ -339,46 +371,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-hexa",
+    "id": "alchemist-netifi",
     "source": "alchemist",
-    "name": "Hexa",
-    "description": "Hexa eliminates the leaks in your sales pipeline. \n\nWe accomplish this by tying all of your sales tools together to exponentially increase their output. This means companies will save time and money, streamline their process, and most importantly drive more revenue for their company without having to change their existing playbook.\n\n",
+    "name": "Netifi",
+    "description": "Platform to enable businesses to create realtime web, mobile, and IoT experiences.\n\n",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2017,
-    "program": "Alchemist Class 17",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-arrivy",
-    "source": "alchemist",
-    "name": "Arrivy",
-    "description": "Streamline Operations, Delight Customers",
-    "logo": "",
-    "website": "",
-    "location": "Seattle, WA, USA",
+    "location": "Los Gatos, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -391,7 +390,25 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "founders": [],
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Robert Roeser",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ryland Degnan",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Greg Whitaker",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -424,6 +441,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Cody Pawlowski",
@@ -431,6 +450,76 @@
         "linkedin": ""
       }
     ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-arrivy",
+    "source": "alchemist",
+    "name": "Arrivy",
+    "description": "Streamline Operations, Delight Customers",
+    "logo": "",
+    "website": "",
+    "location": "Seattle, WA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2017,
+    "program": "Alchemist Class 17",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-hexa",
+    "source": "alchemist",
+    "name": "Hexa",
+    "description": "Hexa eliminates the leaks in your sales pipeline. \n\nWe accomplish this by tying all of your sales tools together to exponentially increase their output. This means companies will save time and money, streamline their process, and most importantly drive more revenue for their company without having to change their existing playbook.\n\n",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2017,
+    "program": "Alchemist Class 17",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -463,6 +552,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "11-50",
     "founders": [
       {
         "name": "CEO",
@@ -502,6 +593,8 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
     "founders": [
       {
         "name": "Moran Snir",
@@ -515,55 +608,6 @@
       },
       {
         "name": "Motti Shohat",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-netifi",
-    "source": "alchemist",
-    "name": "Netifi",
-    "description": "Platform to enable businesses to create realtime web, mobile, and IoT experiences.\n\n",
-    "logo": "",
-    "website": "",
-    "location": "Los Gatos, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2017,
-    "program": "Alchemist Class 17",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Robert Roeser",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ryland Degnan",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Greg Whitaker",
         "role": "",
         "linkedin": ""
       }

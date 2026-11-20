@@ -29,7 +29,26 @@
     "teamSize": 25,
     "isHiring": true,
     "stage": "Growth",
-    "founders": [],
+    "formerNames": [
+      "Adaptyv Biosystems"
+    ],
+    "founders": [
+      {
+        "name": "Julian Englert",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/julian-englert",
+        "twitter": "https://twitter.com/julian_englert",
+        "bio": "Protein Data Dealer @ Adaptyv",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e8a4f1282dad7b914fbef6234e143280ce89781b.jpg"
+      },
+      {
+        "name": "Daniel Nakhaee-Zadeh Gutierrez",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/danielnzg",
+        "bio": "I am passionate about engineering biology to positively impact society and the environment. I have been lucky enough to develop my experience over the years in the fields of immunoengineering, synthetic biology and computational biology in some of the best universities in the world (Harvard, University of Leeds, KAIST, EPFL). Now in charge of Operations at Adaptyv.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/74b1adbc6255ddc1a8372ae9f2961dae53e2144f.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -69,7 +88,16 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Igor Susmelj",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/igorsusmelj/",
+        "twitter": "https://twitter.com/ISusmelj",
+        "bio": "Igor has more than five years of experience in machine learning. He holds a degree in electrical engineering from ETH Zurich. During his studies, he developed a lot of experience in machine learning and robotics and had multiple successful publications in the area of deep learning at top conferences such as ICML and ECCV. He previously worked for two years at the Swiss stock exchange as a software engineer.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1d9349e0fc104753bb1766db702c87fd90497a13.jpg"
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -335,6 +363,10 @@
     "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Generai",
+      "Waveline"
+    ],
     "founders": [
       {
         "name": "Jan Schnyder",
@@ -400,6 +432,10 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Quazel",
+      "Univerbal (formerly Quazel)"
+    ],
     "founders": [
       {
         "name": "Samuel Bissegger",
@@ -512,6 +548,10 @@
     "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "P2P Industries",
+      "Augento"
+    ],
     "founders": [
       {
         "name": "Linus Meierhöfer",
@@ -576,6 +616,12 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Dialin - Dialogue Insights",
+      "dialin",
+      "dialin ai",
+      "Dialin AI"
+    ],
     "founders": [
       {
         "name": "Marcus Storm-Mollard",
