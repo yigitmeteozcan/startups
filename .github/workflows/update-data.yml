@@ -91,12 +91,15 @@ jobs:
           REPO: ${{ github.repository }}
           BRANCH: ${{ github.ref_name }}
         run: |
-          git diff --name-only HEAD~1 HEAD -- data | grep '\.\(json\|csv\|xlsx\)$' | head -600 > /tmp/changed.txt || true
-          echo "Purging $(wc -l < /tmp/changed.txt) changed files from jsDelivr"
-          failed=0
-          while read -r f; do
-            curl -fsS -m 30 -o /dev/null "https://purge.jsdelivr.net/gh/${REPO}@${BRANCH}/${f}" || failed=$((failed + 1))
-          done < /tmp/changed.txt
+          # Everything changed since the previous automated data commit, so
+          # data pushed by hand in between is refreshed too (the checkout is
+          # shallow, hence the fetch).
+          git fetch -q --deepen=100 origin "${BRANCH}" || true
+          base=$(git log -n 1 --skip=1 --format=%H --grep='^chore: update startup portfolios dataset' HEAD || true)
+          [ -n "$base" ] || base=HEAD~1
+          git diff --name-only "$base" HEAD -- data | grep '\.\(json\|csv\|xlsx\|xml\)$' | head -2000 > /tmp/changed.txt || true
+          echo "Purging $(wc -l < /tmp/changed.txt) changed files from jsDelivr (since ${base})"
+          failed=$(xargs -P 8 -n 1 sh -c 'curl -fsS -m 30 -o /dev/null "https://purge.jsdelivr.net/gh/${REPO}@${BRANCH}/$1" 2>/dev/null || echo x' _ < /tmp/changed.txt | wc -l)
           [ "$failed" -eq 0 ] || echo "::warning::${failed} files could not be purged from jsDelivr (they refresh within 12 hours)"
 
       # Fetch the public endpoints the way an outside project would (CDN or raw
