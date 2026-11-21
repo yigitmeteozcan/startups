@@ -134,7 +134,7 @@
     "status": "active",
     "teamSize": 2400,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "topCompany": true,
     "formerNames": [
       "ZenPayroll"
@@ -799,7 +799,7 @@
     "status": "active",
     "teamSize": 7000,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "topCompany": true,
     "founders": [
       {
@@ -1961,66 +1961,6 @@
     },
     "extra": {},
     "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "yc-hive",
-    "source": "yc",
-    "name": "Hive",
-    "description": "Marketing automation for event promoters (email, sms, ads, CRM)",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/73d61e1d2cf23166fc40148ac368fe95c3fb3ed1.png",
-    "website": "http://www.hive.co",
-    "sourceUrl": "https://www.ycombinator.com/companies/hive",
-    "location": "Kitchener, ON, Canada; Remote",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Marketing",
-      "SaaS",
-      "CRM",
-      "SMS",
-      "Email"
-    ],
-    "year": 2014,
-    "program": "YC Summer 2014",
-    "programSlugs": [
-      "yc-summer-2014"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSize": 65,
-    "isHiring": true,
-    "stage": "Early",
-    "formerNames": [
-      "TicketLabs"
-    ],
-    "founders": [
-      {
-        "name": "Patrick Hannigan",
-        "role": "Founder/CTO",
-        "linkedin": "https://www.linkedin.com/in/patrickhannigan/",
-        "twitter": "http://www.twitter.com/patrickhannigan",
-        "bio": "Founder @ www.hive.co",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9868df01b4cec4ac4a81c77a78af56f9ad44604e.jpg"
-      },
-      {
-        "name": "Ian Roberts",
-        "role": "Founder",
-        "linkedin": "",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9dc86d6976ba1d19fa607968f62976218c85f2d6.jpg"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {},
-    "country": "Canada",
     "alsoIn": []
   },
   {
@@ -42445,7 +42385,7 @@
     "status": "active",
     "teamSize": 190,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "John Glasgow",
@@ -53878,7 +53818,7 @@
     "status": "active",
     "teamSize": 35,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Eden Ovadia",
@@ -67734,7 +67674,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Ari Polakof",
@@ -69178,6 +69118,67 @@
     "alsoIn": []
   },
   {
+    "id": "yc-rebulk",
+    "source": "yc",
+    "name": "Rebulk",
+    "description": "AI-native software for managing rail and bulk operations.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/37f1f3fac3b53d55834007e8aa34e2f8bb7a1198.png",
+    "website": "https://www.rebulk.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/rebulk",
+    "location": "Olathe, KS, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Supply Chain and Logistics",
+      "Logistics",
+      "Supply Chain",
+      "AI",
+      "Industrial"
+    ],
+    "year": 2025,
+    "program": "YC Summer 2025",
+    "programSlugs": [
+      "yc-summer-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
+    "formerNames": [
+      "dScribe AI"
+    ],
+    "founders": [
+      {
+        "name": "Warren Wijaya Wang",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/warrenwang-fnu/",
+        "bio": "Co-Founder and CEO of Rebulk. Previously led product at Milk Moovement, a Series A ag supply chain startup powering the transport of 45% of California’s dairy and 20% nationwide. Before that, he was an Investor at Dynamo Ventures, backing early-stage industrial startups. He also worked in Strategy & Operations at Chick-fil-A Corporate, where he launched autonomous ground robot and drone delivery programs.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7d7d330619e02e860207498c8486b6b5998af010.jpg"
+      },
+      {
+        "name": "Cole Robertson",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/colemrobertson",
+        "twitter": "https://x.com/cole__robertson",
+        "bio": "Co-Founder and CTO of Rebulk. Previously Head of Engineering at Chipp, an AI startup, and engineer #3 at Tropic, where he helped scale the company from seed to Series B. Earlier experience includes developing aviation products at Garmin. Also built a SaaS consulting business focused on MVP development, generating $300K in just over a year.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/29b8373858a885c2ef8df1c19be0a8eae999a21c.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-juxta",
     "source": "yc",
     "name": "Juxta",
@@ -69965,7 +69966,7 @@
     "status": "active",
     "teamSize": 64,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "formerNames": [
       "NOX METAL"
     ],
@@ -70860,7 +70861,7 @@
     "id": "yc-alder",
     "source": "yc",
     "name": "Alder",
-    "description": "AI employees for finance, starting with accounts receivable. ",
+    "description": "AI employees for finance and accounting",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f394904d91685ab676105f88e9090848b7a6f1b2.png",
     "website": "https://meetalder.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/alder",
@@ -72144,7 +72145,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 6,
+    "teamSize": 16,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -73003,58 +73004,6 @@
         "twitter": "https://x.com/rak3sh_m",
         "bio": "Building Zarna—the Agentic Operating Layer for Private Capital Markets. Focused on AI/ML applications to the real world. Other interests include astrophysics, videography/film, photography, and basketball.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5bffe5c679057e0cd2eb69caa075f7090c293f24.jpg"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {},
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "yc-moss",
-    "source": "yc",
-    "name": "Moss",
-    "description": "Real-time semantic search for Conversational AI",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/631b5f054745e65be97bbf8459061215b1e4e693.png",
-    "website": "https://moss.dev",
-    "sourceUrl": "https://www.ycombinator.com/companies/moss",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "AI"
-    ],
-    "year": 2025,
-    "program": "YC Fall 2025",
-    "programSlugs": [
-      "yc-fall-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSize": 5,
-    "isHiring": true,
-    "stage": "Early",
-    "formerNames": [
-      "InferEdge Inc."
-    ],
-    "founders": [
-      {
-        "name": "Sri Raghu Malireddi",
-        "role": "Founder/CEO",
-        "linkedin": "https://www.linkedin.com/in/r4ghu",
-        "twitter": "https://x.com/srimalireddi",
-        "bio": "Founder & CEO of Moss. We are developing real-time semantic search for conversational AI.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d4d35194c36b1439842c0c5a79465192b0c34ea.jpg"
       }
     ],
     "social": {
@@ -74860,76 +74809,6 @@
     },
     "extra": {},
     "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "yc-stilta",
-    "source": "yc",
-    "name": "Stilta",
-    "description": "Agentic AI for intellectual property",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/548ae3316ed7633c94e48e231c43d783c87ee9c1.png",
-    "website": "https://stilta.com",
-    "sourceUrl": "https://www.ycombinator.com/companies/stilta",
-    "location": "Stockholm, Stockholm County, Sweden",
-    "region": "Sweden",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "YC Winter 2026",
-    "programSlugs": [
-      "yc-winter-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSize": 4,
-    "isHiring": true,
-    "stage": "Early",
-    "formerNames": [
-      "Patrona"
-    ],
-    "founders": [
-      {
-        "name": "Oskar Block",
-        "role": "Founder/CEO",
-        "linkedin": "https://www.linkedin.com/in/oskarblock",
-        "twitter": "https://x.com/oskarblock",
-        "bio": "Oskar is the co-founder and CEO of Stilta. He started his first company building ML models for sports betting when he was 18, and later bootstrapped another to +$1M in revenue and +25,000 MAU. Previously at McKinsey, Goldman Sachs, and two Swedish unicorns.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/67a00f670bb495c10aaca44b547541c084d78968.jpg"
-      },
-      {
-        "name": "Oscar Adamsson",
-        "role": "Founder/CPO",
-        "linkedin": "https://www.linkedin.com/in/oscaradamsson/",
-        "bio": "Oscar is CPO and co-founder of Stilta. Before Stilta, he built products at a unicorn, was a founder himself, and worked with 50+ CEOs at McKinsey to shape Sweden's innovation agenda. He has a background as a competitive mathematician, with degrees in business and AI from Chalmers and other top Swedish universities, plus coursework at UC Berkeley and Bocconi.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/811935bad6eba2951fdef4f09331155874f8058a.jpg"
-      },
-      {
-        "name": "Tobias Estreen",
-        "role": "Founder",
-        "linkedin": "https://www.linkedin.com/in/tobiasestreen",
-        "twitter": "https://x.com/estreenx",
-        "bio": "Tobias is co-founder of Stilta. Previously at QuantumBlack (McKinsey & Company), he led teams developing agentic AI systems for global clients. He is a second-time founder with a background in physics and machine learning from KTH and KU Leuven, bringing deep technical expertise and a track record of building AI systems for complex, high-stakes environments.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5d56952e93ebe7aadffec38e65c8d6df05b3ca99.jpg"
-      },
-      {
-        "name": "Petrus Werner",
-        "role": "Founder/Chief Engineering Officer",
-        "linkedin": "https://www.linkedin.com/in/petruswerner/",
-        "bio": "Founder and Chief Engineering Officer at Stilta. Prior to Stilta, he built and deployed AI systems across European organisations at QuantumBlack (AI by McKinsey & Company) and Amazon Web Services.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ef028bd5fcbf8bd7921400960a866dda92c98b1e.jpg"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {},
-    "country": "Sweden",
     "alsoIn": []
   },
   {
@@ -77402,6 +77281,61 @@
         "twitter": "https://x.com/lukerosa_",
         "bio": "Building Hedge. Prev. Head of Scaled Systems at Traba (Series A, backed by Founders Fund, Khosla), replaced humans with AI agents to manage $20 MM+ in revenue. Econ at UChicago.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/524a034d003bd11ddfd046107d99a729dad21e3d.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-klarify",
+    "source": "yc",
+    "name": "Klarify",
+    "description": "AI Agent for Therapists",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b1e276eff7f94fc1f97bb94df15769f7ec1b4fef.png",
+    "website": "https://www.klarify.ca/",
+    "sourceUrl": "https://www.ycombinator.com/companies/klarify",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Moody Abdul",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/moodyabdul",
+        "twitter": "https://x.com/MoodyAbdulf",
+        "bio": "Founder of Klarify, an AI agent for therapists. Previously founder @ Circleback.ai. Contact: moody@klarify.ca",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2ffb5b3843dde9c98f21227a4351fa8ad3d1b137.jpg"
+      },
+      {
+        "name": "Alexander Bergholm",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/bergholmalexander/",
+        "bio": "CTO @ Klarify (Batch P26) Here to graduate clients from therapy by enhancing their therapeutic journey. Former Div 1 collegiate CS player, top 50 in Canada — still clutch under pressure.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/38f18808748d7f11b2fdd99653f7550542e8de90.jpg"
       }
     ],
     "social": {
@@ -81036,7 +80970,7 @@
     "name": "Speko",
     "description": "AI Phone Agents for Business Calls",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
-    "website": "https://speko.com/?utm_source=ycombinator&utm_medium=profile",
+    "website": "https://speko.com",
     "sourceUrl": "https://www.ycombinator.com/companies/speko",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -82734,17 +82668,18 @@
     "id": "yc-hillstar",
     "source": "yc",
     "name": "HillStar",
-    "description": "Agents to help utilities make better buying decisions.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b2a3199ea6bce97161125f2d12ceedf9cc1ecd2.png",
+    "description": "AI that helps utilities buy power.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
     "website": "https://hillstar.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/hillstar",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Energy",
+      "AI",
       "GovTech",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -83390,6 +83325,64 @@
     "alsoIn": []
   },
   {
+    "id": "yc-horizontal",
+    "source": "yc",
+    "name": "horizontal.",
+    "description": "AI agents that run factory operations end-to-end.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2ba2a7c31a26b5e1a29a7aa8375c9dd030c5c3d6.png",
+    "website": "https://horizontal-tech.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/horizontal",
+    "location": "BY, Germany",
+    "region": "Germany",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Manufacturing",
+      "Automation",
+      "Industrial"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Niklas Marxer",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/niklas-marxer",
+        "bio": "Co-Founder & CEO of Horizontal (YC F26). Niklas is a mechanical engineer and was one of the first employees at askLio (YC S23), where he helped scale the company into one of the world's fastest-growing AI startups. Since then, he has worked on bringing agentic AI into more than 150 industrial companies worldwide. He signed multiple six figure enterprise deals and Lio's largest seven figure deal with a fortune 50 manufacturing company.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1112406de57451b45301ba499c19ec0c1eaf571b.jpg"
+      },
+      {
+        "name": "Jakob Hermeler",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/jakobhermeler/",
+        "twitter": "https://x.com/JakobHermeler",
+        "bio": "Co-Founder at Horizontal. Researcher at ETH Zurich building autonomous drone systems. Previously Visiting Researcher at Stanford in autonomous robotics and ML. Solo-built ML digital twin of world's largest heat pump (140 MW) at MAN Energy Solutions. Undergrad research at BMW on thermal high-voltage storage. MS Mechanical Engineering (Robotics) from ETH Zurich. Jakob has earned the highest academic scholarships (Studienstiftung and DAAD) and graduated top of his class in bachelor's and master's.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c04ff17f587603d143b98649d8729cdee62f1a82.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "Germany",
+    "alsoIn": []
+  },
+  {
     "id": "yc-helios-intelligence",
     "source": "yc",
     "name": "Helios Intelligence",
@@ -83556,6 +83549,63 @@
     },
     "extra": {},
     "country": "Italy",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-streamline-systems",
+    "source": "yc",
+    "name": "Streamline Systems",
+    "description": "Precision navigation for UAVs operating without GPS. ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/989b85da2420d6592fdbd561cfe2e0802ebf6933.png",
+    "website": "https://streamlinesystems.ltd/",
+    "sourceUrl": "https://www.ycombinator.com/companies/streamline-systems",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Defense",
+      "Autonomous Delivery",
+      "Drones",
+      "Navigation"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Gabriel Poraj",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/gabriel-poraj-14b756246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "bio": "Founder at Streamline Systems. Previously Senior Software Developer at Torus, a p2p protocol for AI agent swarms. Founded a content agency that scaled faceless creators to billions of views across 10 languages using custom Premiere Pro automation. Studying Aerospace/Information Engineering at Cambridge.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dbf98b516cac723e95939bac13f5e3a3f12e5e30.jpg"
+      },
+      {
+        "name": "Charlie Jessett",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/charlie-jessett-194142278/",
+        "bio": "Founder, COO Streamline Systems Cambridge Graduate - 3rd in Cohort",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f06eb1fdfd945ab9bc205f46aba0a63ed5b3e155.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -84054,7 +84104,7 @@
     "id": "yc-super-powers-mobility-spm",
     "source": "yc",
     "name": "Super Powers Mobility (SPM)",
-    "description": "The highest performance modular battery packs for mobility/vehicles",
+    "description": "Defense compliant modular battery packs power systems and vehicles",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a5c35648a3ac00d7da1ce27b5b0a62372c6a5f2e.png",
     "website": "https://www.spm.us",
     "sourceUrl": "https://www.ycombinator.com/companies/super-powers-mobility-spm",

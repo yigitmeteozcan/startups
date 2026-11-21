@@ -8380,7 +8380,7 @@
     "status": "active",
     "teamSize": 800,
     "isHiring": false,
-    "stage": "Early",
+    "stage": "Growth",
     "formerNames": [
       "SuperHost"
     ],
@@ -8591,7 +8591,7 @@
     "status": "acquired",
     "teamSize": 600,
     "isHiring": false,
-    "stage": "Early",
+    "stage": "Growth",
     "topCompany": true,
     "formerNames": [
       "Weave Communications"
@@ -12775,7 +12775,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 65,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "TicketLabs"
@@ -21771,6 +21771,47 @@
     "alsoIn": []
   },
   {
+    "id": "alchemist-freedcamp",
+    "source": "alchemist",
+    "name": "Freedcamp",
+    "description": "-",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2014,
+    "program": "Alchemist Class 7",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Angel Grablev",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "alchemist-xendo",
     "source": "alchemist",
     "name": "Xendo",
@@ -21809,6 +21850,88 @@
       "country": ""
     },
     "country": "",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-exabyte-io",
+    "source": "alchemist",
+    "name": "Exabyte.io",
+    "description": "Enterprise software platform accelerating the development of new materials and chemicals through modeling and simulations.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2014,
+    "program": "Alchemist Class 9",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Timur Bazhirov",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-ladera-labs",
+    "source": "alchemist",
+    "name": "Ladera Labs",
+    "description": "Industrial Internet-of-Things company focused on real-time telemetry solutions for telecommunications, transportation and energy applications. We specialize in monitor and control of critical systems that reside in difficult environments.",
+    "logo": "",
+    "website": "",
+    "location": "Portola Valley, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2014,
+    "program": "Alchemist Class 7",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Mark Williams",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -21900,129 +22023,6 @@
       "country": ""
     },
     "country": "",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-ladera-labs",
-    "source": "alchemist",
-    "name": "Ladera Labs",
-    "description": "Industrial Internet-of-Things company focused on real-time telemetry solutions for telecommunications, transportation and energy applications. We specialize in monitor and control of critical systems that reside in difficult environments.",
-    "logo": "",
-    "website": "",
-    "location": "Portola Valley, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2014,
-    "program": "Alchemist Class 7",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Mark Williams",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-freedcamp",
-    "source": "alchemist",
-    "name": "Freedcamp",
-    "description": "-",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2014,
-    "program": "Alchemist Class 7",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Angel Grablev",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-exabyte-io",
-    "source": "alchemist",
-    "name": "Exabyte.io",
-    "description": "Enterprise software platform accelerating the development of new materials and chemicals through modeling and simulations.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2014,
-    "program": "Alchemist Class 9",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Timur Bazhirov",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
     "alsoIn": []
   },
   {

@@ -20490,7 +20490,7 @@
     "status": "active",
     "teamSize": 7000,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "topCompany": true,
     "founders": [
       {
@@ -22355,7 +22355,7 @@
     "status": "active",
     "teamSize": 800,
     "isHiring": false,
-    "stage": "Early",
+    "stage": "Growth",
     "formerNames": [
       "SuperHost"
     ],
@@ -22414,7 +22414,7 @@
     "status": "acquired",
     "teamSize": 600,
     "isHiring": false,
-    "stage": "Early",
+    "stage": "Growth",
     "topCompany": true,
     "formerNames": [
       "Weave Communications"
@@ -22813,7 +22813,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 65,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "TicketLabs"
@@ -25454,12 +25454,12 @@
     "id": "yc-superside",
     "source": "yc",
     "name": "Superside",
-    "description": "AI-First Creative Partner for Enterprise Teams",
+    "description": "AI-native creative agency",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3f97e6f72e5f0f939f199ac6282cab34c72f7945.png",
     "website": "http://www.superside.com",
     "sourceUrl": "https://www.ycombinator.com/companies/superside",
-    "location": "Oslo, Oslo, Norway; Remote",
-    "region": "Norway",
+    "location": "Remote",
+    "region": "Remote",
     "subregion": "",
     "tags": [
       "Productivity",
@@ -25478,7 +25478,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 850,
+    "teamSize": 750,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -25500,7 +25500,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Norway",
+    "country": "",
     "alsoIn": []
   },
   {
@@ -61568,7 +61568,8 @@
     "subregion": "",
     "tags": [
       "Productivity",
-      "SaaS"
+      "SaaS",
+      "Energy"
     ],
     "year": 2022,
     "program": "YC Summer 2022",
@@ -69417,7 +69418,7 @@
     "status": "active",
     "teamSize": 190,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "John Glasgow",
@@ -71988,7 +71989,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -77309,8 +77310,8 @@
     "id": "yc-bystreet",
     "source": "yc",
     "name": "Bystreet",
-    "description": "Connect with hotel owners around the world.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/17421a7106c2aa1e760abcb7892a8de8d04a9e7a.png",
+    "description": "Global intelligence on property owners and decision-makers.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9723a0c8fde3142adacaa4d7586341acafc34422.png",
     "website": "http://www.bystreet.com",
     "sourceUrl": "https://www.ycombinator.com/companies/bystreet",
     "location": "San Francisco, CA, USA",
@@ -80171,7 +80172,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 5,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "InferEdge Inc."
@@ -82635,6 +82636,7 @@
     "tags": [
       "Generative AI",
       "SaaS",
+      "Enterprise",
       "Big Data",
       "Infrastructure"
     ],
@@ -82674,7 +82676,7 @@
     "id": "yc-mirrors",
     "source": "yc",
     "name": "Mirrors",
-    "description": "The guidance system for production AI agents",
+    "description": "Give AI agents situation-specific context",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/mirrors",
@@ -82867,7 +82869,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 4,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [

@@ -1,10 +1,10 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-20._
+_Auto-generated from the dataset on 2026-11-21._
 
 | Metric | Count |
 |---|---|
-| Total companies | **24,075** |
+| Total companies | **24,077** |
 | 🦄 Unicorns ($1B+) | **152** |
 | 💰 Exits | **2955** |
 | 🌱 B Corps | **29** |
@@ -17,9 +17,9 @@ _Auto-generated from the dataset on 2026-11-20._
 |---|---|
 | plugandplay | 6,444 |
 | yc | 6,413 |
-| techstars | 5,200 |
+| techstars | 5,201 |
 | 500 | 2,243 |
-| antler | 1,088 |
+| antler | 1,089 |
 | sosv | 791 |
 | ef | 545 |
 | alchemist | 514 |
@@ -56,9 +56,9 @@ _Auto-generated from the dataset on 2026-11-20._
 2019  █████████████████░░░░░░░░░░░ 1148
 2020  ██████████████████░░░░░░░░░░ 1219
 2021  ███████████████████████░░░░░ 1518
-2022  ██████████████████████████░░ 1690
+2022  ██████████████████████████░░ 1691
 2023  ███████████████████████████░ 1787
-2024  ████████████████████████████ 1850
+2024  ████████████████████████████ 1851
 2025  █████████████████████░░░░░░░ 1418
 2026  ███████████████████░░░░░░░░░ 1242
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 19
@@ -72,7 +72,7 @@ _Auto-generated from the dataset on 2026-11-20._
 4. **Canada** — 865
 5. **India** — 522
 6. **Singapore** — 486
-7. **Germany** — 415
+7. **Germany** — 416
 8. **France** — 381
 9. **South Korea** — 362
 10. **Turkey** — 271
@@ -102,7 +102,7 @@ _Auto-generated from the dataset on 2026-11-20._
 ## Top programs
 1. **Plug and Play** — 6444
 2. **500 Global** — 1403
-3. **Antler** — 1088
+3. **Antler** — 1089
 4. **Entrepreneur First** — 545
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 390
@@ -126,11 +126,11 @@ _Auto-generated from the dataset on 2026-11-20._
 7. **Healthcare** — 1010
 8. **Infrastructure** — 761
 9. **Developer Tools** — 748
-10. **Industrials** — 698
+10. **Industrials** — 699
 11. **Health & Longevity** — 691
 12. **Engineering, Product and Design** — 635
 13. **Insurtech** — 632
-14. **Energy** — 567
+14. **Energy** — 569
 15. **Health** — 553
 16. **Deeptech** — 542
 17. **Climate tech** — 539
@@ -139,8 +139,8 @@ _Auto-generated from the dataset on 2026-11-20._
 20. **Healthtech** — 484
 
 ## By region
-1. **Americas** — 6014
-2. **United States of America** — 4789
+1. **Americas** — 6015
+2. **United States of America** — 4788
 3. **Asia** — 3438
 4. **Europe** — 1028
 5. **EMEA** — 951
@@ -158,9 +158,9 @@ _Auto-generated from the dataset on 2026-11-20._
 17. **Southeast Asia** — 93
 18. **France** — 81
 19. **Mexico** — 77
-20. **Oceania** — 75
-21. **Germany** — 75
-22. **Remote** — 72
+20. **Germany** — 76
+21. **Oceania** — 75
+22. **Remote** — 73
 23. **Brazil** — 69
 24. **Singapore** — 51
 25. **Nigeria** — 46
@@ -181,11 +181,11 @@ _Auto-generated from the dataset on 2026-11-20._
 40. **Australia & NZ** — 13
 41. **Pakistan** — 11
 42. **Kenya** — 10
-43. **Norway** — 9
-44. **Ireland** — 8
-45. **Philippines** — 8
-46. **Malaysia** — 8
-47. **Peru** — 8
+43. **Ireland** — 8
+44. **Philippines** — 8
+45. **Malaysia** — 8
+46. **Peru** — 8
+47. **Norway** — 8
 48. **Hong Kong** — 7
 49. **Poland** — 7
 50. **China** — 6

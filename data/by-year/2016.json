@@ -11155,12 +11155,12 @@
     "id": "yc-superside",
     "source": "yc",
     "name": "Superside",
-    "description": "AI-First Creative Partner for Enterprise Teams",
+    "description": "AI-native creative agency",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3f97e6f72e5f0f939f199ac6282cab34c72f7945.png",
     "website": "http://www.superside.com",
     "sourceUrl": "https://www.ycombinator.com/companies/superside",
-    "location": "Oslo, Oslo, Norway; Remote",
-    "region": "Norway",
+    "location": "Remote",
+    "region": "Remote",
     "subregion": "",
     "tags": [
       "Productivity",
@@ -11179,7 +11179,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 850,
+    "teamSize": 750,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -11201,7 +11201,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Norway",
+    "country": "",
     "alsoIn": []
   },
   {
@@ -33835,132 +33835,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-meetingsift",
-    "source": "alchemist",
-    "name": "MeetingSift",
-    "description": "Meeting collaboration platform",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2016,
-    "program": "Alchemist Class 15",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Our team consists of PhDs",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-roxy",
-    "source": "alchemist",
-    "name": "Roxy",
-    "description": "Venture-Backed Company that Creates Intelligent, Conversational Devices for Businesses, Providing Patrons with On-Site Information and Services",
-    "logo": "",
-    "website": "",
-    "location": "Seattle, WA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2016,
-    "program": "Alchemist Class 14",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "acquired",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Cam Urban",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Peng \"Michael\" Shao",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Le \"Grace\" Huang",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-remote-interview-inc",
-    "source": "alchemist",
-    "name": "Remote Interview, Inc.",
-    "description": "Online programming screening",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2016,
-    "program": "Alchemist Class 14",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": ""
-    },
-    "country": "",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-edyza-inc",
     "source": "alchemist",
     "name": "Edyza, Inc.",
@@ -34048,6 +33922,40 @@
     "alsoIn": []
   },
   {
+    "id": "alchemist-remote-interview-inc",
+    "source": "alchemist",
+    "name": "Remote Interview, Inc.",
+    "description": "Online programming screening",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2016,
+    "program": "Alchemist Class 14",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": ""
+    },
+    "country": "",
+    "alsoIn": []
+  },
+  {
     "id": "alchemist-clouber-inc",
     "source": "alchemist",
     "name": "Clouber, Inc.",
@@ -34105,6 +34013,98 @@
     "status": "active",
     "teamSizeRange": "11-50",
     "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-meetingsift",
+    "source": "alchemist",
+    "name": "MeetingSift",
+    "description": "Meeting collaboration platform",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2016,
+    "program": "Alchemist Class 15",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Our team consists of PhDs",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-roxy",
+    "source": "alchemist",
+    "name": "Roxy",
+    "description": "Venture-Backed Company that Creates Intelligent, Conversational Devices for Businesses, Providing Patrons with On-Site Information and Services",
+    "logo": "",
+    "website": "",
+    "location": "Seattle, WA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2016,
+    "program": "Alchemist Class 14",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "acquired",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Cam Urban",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Peng \"Michael\" Shao",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Le \"Grace\" Huang",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",

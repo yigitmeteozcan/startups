@@ -1024,7 +1024,7 @@
     "status": "active",
     "teamSize": 2400,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "topCompany": true,
     "formerNames": [
       "ZenPayroll"
@@ -7746,7 +7746,7 @@
     "status": "acquired",
     "teamSize": 450,
     "isHiring": false,
-    "stage": "Early",
+    "stage": "Growth",
     "topCompany": true,
     "founders": [
       {
@@ -11916,7 +11916,7 @@
     "status": "active",
     "teamSize": 7000,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "topCompany": true,
     "founders": [
       {
@@ -29058,7 +29058,7 @@
     "status": "active",
     "teamSize": 800,
     "isHiring": false,
-    "stage": "Early",
+    "stage": "Growth",
     "formerNames": [
       "SuperHost"
     ],
@@ -29269,7 +29269,7 @@
     "status": "acquired",
     "teamSize": 600,
     "isHiring": false,
-    "stage": "Early",
+    "stage": "Growth",
     "topCompany": true,
     "formerNames": [
       "Weave Communications"
@@ -98349,7 +98349,7 @@
     "status": "active",
     "teamSize": 150,
     "isHiring": false,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Dileep Thazhmon",
@@ -162715,7 +162715,7 @@
     "status": "active",
     "teamSize": 190,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "John Glasgow",
@@ -174800,7 +174800,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -188174,7 +188174,7 @@
     "status": "active",
     "teamSize": 35,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Eden Ovadia",
@@ -200463,8 +200463,8 @@
     "id": "yc-dartboard",
     "source": "yc",
     "name": "Dartboard",
-    "description": "AI-native remote operations center for hardware fleets",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e6b5a6279db8d201fef41a88a35c1d4c0828744e.png",
+    "description": "AI transformation for industrial and service businesses",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e921c00cb83b7e552043f9ef0c51da579791cd57.png",
     "website": "https://dartboard.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/dartboard",
     "location": "San Francisco, CA, USA",
@@ -200472,11 +200472,12 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Hardware",
-      "Robotics",
+      "Manufacturing",
       "Energy",
       "AI",
-      "Industrial"
+      "Industrial",
+      "Hardware",
+      "Robotics"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -203919,8 +203920,8 @@
     "id": "yc-bystreet",
     "source": "yc",
     "name": "Bystreet",
-    "description": "Connect with hotel owners around the world.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/17421a7106c2aa1e760abcb7892a8de8d04a9e7a.png",
+    "description": "Global intelligence on property owners and decision-makers.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9723a0c8fde3142adacaa4d7586341acafc34422.png",
     "website": "http://www.bystreet.com",
     "sourceUrl": "https://www.ycombinator.com/companies/bystreet",
     "location": "San Francisco, CA, USA",
@@ -204470,11 +204471,11 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Legal",
       "GovTech",
       "Real Estate",
       "Housing",
-      "Compliance"
+      "Compliance",
+      "Legal"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -216159,7 +216160,7 @@
     "source": "yc",
     "name": "Monarcha",
     "description": "Turn maps into data",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ea1e425c52a9026abd48335f2ffaf6dceeb4d842.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/38fd308146451e43151aa665382eac217d1f3ccf.png",
     "website": "https://monarcha.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/monarcha",
     "location": "New York City, NY, USA",
@@ -218475,7 +218476,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Ari Polakof",
@@ -221542,7 +221543,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 3,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "formerNames": [
       "dScribe AI"
@@ -223339,7 +223340,7 @@
     "status": "active",
     "teamSize": 64,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "formerNames": [
       "NOX METAL"
     ],
@@ -225818,7 +225819,7 @@
     "id": "yc-alder",
     "source": "yc",
     "name": "Alder",
-    "description": "AI employees for finance, starting with accounts receivable. ",
+    "description": "AI employees for finance and accounting",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f394904d91685ab676105f88e9090848b7a6f1b2.png",
     "website": "https://meetalder.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/alder",
@@ -226398,7 +226399,7 @@
     "id": "yc-travo",
     "source": "yc",
     "name": "Travo",
-    "description": ".",
+    "description": "AI-native commercial real estate brokerage",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/aecc588fa69715d41e766cd5d4ea9ad32f10adff.png",
     "website": "https://www.travoai.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/travo",
@@ -226698,7 +226699,7 @@
     "id": "yc-captain",
     "source": "yc",
     "name": "Captain",
-    "description": "Self-tuning search for products and files",
+    "description": "Agent Infra for File Search",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
     "website": "https://captain.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/captain",
@@ -230192,7 +230193,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 5,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "InferEdge Inc."
@@ -241055,7 +241056,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 3,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -242086,7 +242087,7 @@
     "id": "yc-twolabs",
     "source": "yc",
     "name": "Twolabs",
-    "description": "RL environments for underexplored domains.",
+    "description": "RL environments for industrial domains.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f6140e69d64bb482f52d28db6644ebb4a4c700ef.png",
     "website": "https://twolabs.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/twolabs",
@@ -245743,7 +245744,7 @@
     "source": "yc",
     "name": "tday.com",
     "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a145822bf641ed1c6676fee5617d73460ae37314.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ac6fc73f21af31774380b7d239f6d1a6a2aff66f.png",
     "website": "https://tday.com",
     "sourceUrl": "https://www.ycombinator.com/companies/tdaycom",
     "location": "San Francisco, CA, USA",
@@ -246859,7 +246860,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 4,
+    "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -252120,7 +252121,7 @@
     "name": "Speko",
     "description": "AI Phone Agents for Business Calls",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
-    "website": "https://speko.com/?utm_source=ycombinator&utm_medium=profile",
+    "website": "https://speko.com",
     "sourceUrl": "https://www.ycombinator.com/companies/speko",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -254171,7 +254172,7 @@
     "source": "yc",
     "name": "Rasyn",
     "description": "Making chemicals 100,000x faster",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ffda7ce34aee49cfec95fa8aef9ed1a70e4c3e28.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0a818ba06487377552c1a79dfedb78753836ef2d.png",
     "website": "https://www.rasyn.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/rasyn",
     "location": "San Francisco, CA, USA",
@@ -259298,7 +259299,7 @@
     "id": "yc-isoquant",
     "source": "yc",
     "name": "isoquant",
-    "description": "Self-optimizing inference cloud for 4x faster open models",
+    "description": "Recursively self-improving inference cloud for 4x faster AI models",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2393ff6f2bb8fa724b4d08301f7b560ba116be78.png",
     "website": "https://isoquant.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/isoquant",
@@ -260075,17 +260076,18 @@
     "id": "yc-hillstar",
     "source": "yc",
     "name": "HillStar",
-    "description": "Agents to help utilities make better buying decisions.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b2a3199ea6bce97161125f2d12ceedf9cc1ecd2.png",
+    "description": "AI that helps utilities buy power.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
     "website": "https://hillstar.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/hillstar",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Energy",
+      "AI",
       "GovTech",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -260259,8 +260261,8 @@
     "id": "yc-dawn-industries",
     "source": "yc",
     "name": "Dawn Industries",
-    "description": "Automatic Diagnosis & Fix for Industrial Automation Cells",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/be237324cf82c0125a34763f99ffb0cf35ca384d.png",
+    "description": "Making Robots Easy to Deploy in Factories Today",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a2e3f76b70d601aec51f0abbc92cea8accd845e0.png",
     "website": "https://www.dawnxr.com",
     "sourceUrl": "https://www.ycombinator.com/companies/dawn-industries",
     "location": "San Francisco, CA, USA",
@@ -260281,7 +260283,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -262802,8 +262804,8 @@
     "id": "yc-capveon",
     "source": "yc",
     "name": "Capveon",
-    "description": "Turning infrastructure demand into action ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/55acb7275a696cdf957737bce96b338f2da2d45f.png",
+    "description": "AI to find, understand, and win government work.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/095610089ce25c95f1548bef19684fa04ff1113a.png",
     "website": "https://capveon.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/capveon",
     "location": "San Francisco, CA, USA",
@@ -262823,7 +262825,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -263562,6 +263564,7 @@
     "tags": [
       "Generative AI",
       "SaaS",
+      "Enterprise",
       "Big Data",
       "Infrastructure"
     ],
@@ -263665,64 +263668,6 @@
     "alsoIn": []
   },
   {
-    "id": "yc-horizontal",
-    "source": "yc",
-    "name": "horizontal.",
-    "description": "AI agents that run factory operations end-to-end.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2ba2a7c31a26b5e1a29a7aa8375c9dd030c5c3d6.png",
-    "website": "https://horizontal-tech.com",
-    "sourceUrl": "https://www.ycombinator.com/companies/horizontal",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Industrials",
-      "Manufacturing and Robotics",
-      "Manufacturing",
-      "Automation",
-      "Industrial"
-    ],
-    "year": 2026,
-    "program": "YC Fall 2026",
-    "programSlugs": [
-      "yc-fall-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSize": 2,
-    "isHiring": false,
-    "stage": "Early",
-    "founders": [
-      {
-        "name": "Niklas Marxer",
-        "role": "Founder/CEO",
-        "linkedin": "https://www.linkedin.com/in/niklas-marxer",
-        "bio": "Co-Founder & CEO of Horizontal (YC F26). Niklas is a mechanical engineer and was one of the first employees at askLio (YC S23), where he helped scale the company into one of the world's fastest-growing AI startups. Since then, he has worked on bringing agentic AI into more than 150 industrial companies worldwide. He signed multiple six figure enterprise deals and Lio's largest seven figure deal with a fortune 50 manufacturing company.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/1112406de57451b45301ba499c19ec0c1eaf571b.jpg"
-      },
-      {
-        "name": "Jakob Hermeler",
-        "role": "Founder/CTO",
-        "linkedin": "https://www.linkedin.com/in/jakobhermeler/",
-        "twitter": "https://x.com/JakobHermeler",
-        "bio": "Co-Founder at Horizontal. Researcher at ETH Zurich building autonomous drone systems. Previously Visiting Researcher at Stanford in autonomous robotics and ML. Solo-built ML digital twin of world's largest heat pump (140 MW) at MAN Energy Solutions. Undergrad research at BMW on thermal high-voltage storage. MS Mechanical Engineering (Robotics) from ETH Zurich. Jakob has earned the highest academic scholarships (Studienstiftung and DAAD) and graduated top of his class in bachelor's and master's.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c04ff17f587603d143b98649d8729cdee62f1a82.jpg"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {},
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "yc-nodus-compute",
     "source": "yc",
     "name": "Nodus Compute",
@@ -263782,7 +263727,7 @@
     "id": "yc-mirrors",
     "source": "yc",
     "name": "Mirrors",
-    "description": "The guidance system for production AI agents",
+    "description": "Give AI agents situation-specific context",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/mirrors",
@@ -264802,7 +264747,7 @@
     "id": "yc-oasive",
     "source": "yc",
     "name": "Oasive",
-    "description": "AI credit research for municipal bond investors",
+    "description": "Credit research for bond investors",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bc57ec29fb0414ace78c3d3c1e5d7acfef9c0c5c.png",
     "website": "https://www.oasive.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/oasive",
@@ -265299,7 +265244,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -265648,7 +265593,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 4,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -269539,7 +269484,7 @@
     "id": "yc-frontrunner",
     "source": "yc",
     "name": "Frontrunner",
-    "description": "Engineer your GTM",
+    "description": "Infra + agents for GTM",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a9d85abe63d98ee4de2bf8d852d5f9cf4ad82e21.png",
     "website": "https://usefr.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/frontrunner",
@@ -271087,7 +271032,7 @@
     "id": "yc-super-powers-mobility-spm",
     "source": "yc",
     "name": "Super Powers Mobility (SPM)",
-    "description": "The highest performance modular battery packs for mobility/vehicles",
+    "description": "Defense compliant modular battery packs power systems and vehicles",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a5c35648a3ac00d7da1ce27b5b0a62372c6a5f2e.png",
     "website": "https://www.spm.us",
     "sourceUrl": "https://www.ycombinator.com/companies/super-powers-mobility-spm",
@@ -271491,7 +271436,7 @@
     "id": "yc-aikido-technologies",
     "source": "yc",
     "name": "Aikido Technologies",
-    "description": "Clean marine AI datacenters",
+    "description": "Offshore datacenters, powered by the wind",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ffb13551195295abd4b5ab3d0ecce6ac89addccd.png",
     "website": "https://www.aikidotechnologies.com",
     "sourceUrl": "https://www.ycombinator.com/companies/aikido-technologies",

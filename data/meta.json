@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:37:55.429Z",
+  "generatedAt": "2026-11-21T14:48:20.721Z",
   "sources": [
     {
       "name": "500",
@@ -7,7 +7,7 @@
       "site": "https://500.co/portfolio",
       "count": 2243,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
       "note": ""
     },
     {
@@ -25,26 +25,26 @@
       "site": "https://www.ycombinator.com/companies",
       "count": 6413,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
       "note": "7 no longer listed upstream (kept, flagged listed:false)"
     },
     {
       "name": "techstars",
       "label": "Techstars",
       "site": "https://www.techstars.com/portfolio",
-      "count": 5200,
+      "count": 5201,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
-      "note": "13 no longer listed upstream (kept, flagged listed:false)"
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
+      "note": "1 new; 14 no longer listed upstream (kept, flagged listed:false)"
     },
     {
       "name": "antler",
       "label": "Antler",
       "site": "https://www.antler.co/portfolio",
-      "count": 1088,
+      "count": 1089,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
-      "note": "1 no longer listed upstream (kept, flagged listed:false)"
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
+      "note": "1 new; 2 no longer listed upstream (kept, flagged listed:false)"
     },
     {
       "name": "sosv",
@@ -52,7 +52,7 @@
       "site": "https://sosv.com/portfolio/",
       "count": 791,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
       "note": ""
     },
     {
@@ -61,7 +61,7 @@
       "site": "https://www.joinef.com/portfolio/",
       "count": 545,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
       "note": ""
     },
     {
@@ -70,7 +70,7 @@
       "site": "https://www.alchemistaccelerator.com/portfolio",
       "count": 514,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
       "note": ""
     },
     {
@@ -79,7 +79,7 @@
       "site": "https://speedrun.a16z.com/companies",
       "count": 321,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
       "note": ""
     },
     {
@@ -88,7 +88,7 @@
       "site": "https://girisimler.itucekirdek.com/",
       "count": 229,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
       "note": ""
     },
     {
@@ -97,7 +97,7 @@
       "site": "https://www.sparklabs.co.kr/en/portfolio",
       "count": 186,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
       "note": ""
     },
     {
@@ -106,16 +106,16 @@
       "site": "https://fi.co/graduates",
       "count": 101,
       "status": "live",
-      "lastLiveFetch": "2026-11-20T15:37:55.429Z",
+      "lastLiveFetch": "2026-11-21T14:48:20.721Z",
       "note": ""
     }
   ],
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data",
   "raw": "https://raw.githubusercontent.com/yigitmeteozcan/startups/main/data",
-  "total": 24075,
+  "total": 24077,
   "endpoints": {
     "all": {
-      "count": 24075,
+      "count": 24077,
       "api": "https://raw.githubusercontent.com/yigitmeteozcan/startups/main/data/all.json",
       "csv": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.csv",
       "xlsx": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/all.xlsx"
@@ -137,11 +137,11 @@
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/current.json"
     },
     "hiring": {
-      "count": 1470,
+      "count": 1471,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/hiring.json"
     },
     "new": {
-      "count": 11,
+      "count": 13,
       "days": 30,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/new.json",
       "atom": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/new.xml"
@@ -177,7 +177,7 @@
       {
         "name": "techstars",
         "slug": "techstars",
-        "count": 5200,
+        "count": 5201,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/techstars.json"
       },
       {
@@ -189,7 +189,7 @@
       {
         "name": "antler",
         "slug": "antler",
-        "count": 1088,
+        "count": 1089,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-source/antler.json"
       },
       {
@@ -239,7 +239,7 @@
       {
         "name": "2024",
         "slug": "2024",
-        "count": 1850,
+        "count": 1851,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2024.json"
       },
       {
@@ -251,7 +251,7 @@
       {
         "name": "2022",
         "slug": "2022",
-        "count": 1690,
+        "count": 1691,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-year/2022.json"
       },
       {
@@ -445,7 +445,7 @@
       {
         "name": "Antler",
         "slug": "antler",
-        "count": 1088,
+        "count": 1089,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/antler.json"
       },
       {
@@ -821,6 +821,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/yc-summer-2011.json"
       },
       {
+        "name": "Techstars Miami powered by J.P. Morgan",
+        "slug": "techstars-miami-powered-by-j-p-morgan",
+        "count": 59,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/techstars-miami-powered-by-j-p-morgan.json"
+      },
+      {
         "name": "a16z speedrun SR005",
         "slug": "a16z-speedrun-sr005",
         "count": 59,
@@ -831,12 +837,6 @@
         "slug": "a16z-speedrun-sr006",
         "count": 59,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/a16z-speedrun-sr006.json"
-      },
-      {
-        "name": "Techstars Miami powered by J.P. Morgan",
-        "slug": "techstars-miami-powered-by-j-p-morgan",
-        "count": 58,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-program/techstars-miami-powered-by-j-p-morgan.json"
       },
       {
         "name": "New York Barclays Accelerator, powered by Techstars",
@@ -3453,13 +3453,13 @@
       {
         "name": "Americas",
         "slug": "americas",
-        "count": 6014,
+        "count": 6015,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/americas.json"
       },
       {
         "name": "United States of America",
         "slug": "united-states-of-america",
-        "count": 4789,
+        "count": 4788,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-states-of-america.json"
       },
       {
@@ -3565,21 +3565,21 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/mexico.json"
       },
       {
+        "name": "Germany",
+        "slug": "germany",
+        "count": 76,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/germany.json"
+      },
+      {
         "name": "Oceania",
         "slug": "oceania",
         "count": 75,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/oceania.json"
       },
       {
-        "name": "Germany",
-        "slug": "germany",
-        "count": 75,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/germany.json"
-      },
-      {
         "name": "Remote",
         "slug": "remote",
-        "count": 72,
+        "count": 73,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/remote.json"
       },
       {
@@ -3703,12 +3703,6 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/kenya.json"
       },
       {
-        "name": "Norway",
-        "slug": "norway",
-        "count": 9,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/norway.json"
-      },
-      {
         "name": "Ireland",
         "slug": "ireland",
         "count": 8,
@@ -3731,6 +3725,12 @@
         "slug": "peru",
         "count": 8,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/peru.json"
+      },
+      {
+        "name": "Norway",
+        "slug": "norway",
+        "count": 8,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/norway.json"
       },
       {
         "name": "Hong Kong",
@@ -4115,7 +4115,7 @@
       {
         "name": "Germany",
         "slug": "germany",
-        "count": 415,
+        "count": 416,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/germany.json"
       },
       {
@@ -4175,7 +4175,7 @@
       {
         "name": "Indonesia",
         "slug": "indonesia",
-        "count": 135,
+        "count": 136,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/indonesia.json"
       },
       {
@@ -4229,7 +4229,7 @@
       {
         "name": "Norway",
         "slug": "norway",
-        "count": 81,
+        "count": 80,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/norway.json"
       },
       {
@@ -4849,7 +4849,7 @@
       {
         "name": "Industrials",
         "slug": "industrials",
-        "count": 698,
+        "count": 699,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/industrials.json"
       },
       {
@@ -4873,7 +4873,7 @@
       {
         "name": "Energy",
         "slug": "energy",
-        "count": 567,
+        "count": 569,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/energy.json"
       },
       {
@@ -4993,7 +4993,7 @@
       {
         "name": "Manufacturing",
         "slug": "manufacturing",
-        "count": 331,
+        "count": 332,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/manufacturing.json"
       },
       {
@@ -5125,7 +5125,7 @@
       {
         "name": "Supply chain technology",
         "slug": "supply-chain-technology",
-        "count": 202,
+        "count": 203,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/supply-chain-technology.json"
       },
       {
@@ -5299,7 +5299,7 @@
       {
         "name": "Enterprise",
         "slug": "enterprise",
-        "count": 138,
+        "count": 139,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/enterprise.json"
       },
       {
@@ -7445,6 +7445,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/food-software.json"
       },
       {
+        "name": "Infra",
+        "slug": "infra",
+        "count": 5,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/infra.json"
+      },
+      {
         "name": "Blockchain / Crypto",
         "slug": "blockchain-crypto",
         "count": 5,
@@ -7605,12 +7611,6 @@
         "slug": "gambling",
         "count": 4,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/gambling.json"
-      },
-      {
-        "name": "Infra",
-        "slug": "infra",
-        "count": 4,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/infra.json"
       },
       {
         "name": "Bio",

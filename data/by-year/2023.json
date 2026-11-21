@@ -49023,7 +49023,7 @@
     "status": "active",
     "teamSize": 190,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "John Glasgow",
@@ -75722,10 +75722,10 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-vara",
+    "id": "alchemist-coursefactory",
     "source": "alchemist",
-    "name": "Vara",
-    "description": "Environmental Compliance AI for Manufacturers ",
+    "name": "CourseFactory",
+    "description": "Connecting humans and AI to create online courses: faster, cheaper and with high quality",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -75733,7 +75733,7 @@
     "subregion": "",
     "tags": [],
     "year": 2023,
-    "program": "Alchemist Class 36",
+    "program": "Alchemist Class 34",
     "programSlugs": [
       "alchemist"
     ],
@@ -75742,9 +75742,20 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
+    "teamSizeRange": "11-50",
     "founders": [
       {
-        "name": "Founded by [Shraddha Agrawal]",
+        "name": "Taras Pustovoy",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Irina Karpunina",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Gennady Koveshnikov",
         "role": "",
         "linkedin": ""
       }
@@ -75762,10 +75773,10 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-worksense",
+    "id": "alchemist-cerevox",
     "source": "alchemist",
-    "name": "Worksense",
-    "description": "Real-Time People Analytics Platform",
+    "name": "Cerevox",
+    "description": "Context-rich embeddings with 50% fewer tokens",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -75785,7 +75796,155 @@
     "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Arshan Ahmad",
+        "name": "Muaz Siddiqui",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kamran Siddiqui",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-the-cognity",
+    "source": "alchemist",
+    "name": "The Cognity",
+    "description": "AI platform for learning social skills designed for autistic individuals.",
+    "logo": "",
+    "website": "",
+    "location": "Wilmington, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "K. Stankevich",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "W. Kretowicz",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "A. Leniec",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-sunnybotics-inc",
+    "source": "alchemist",
+    "name": "Sunnybotics inc",
+    "description": "Sunnybotics uses robots and software to automate field work for energy operators, starting with utility-scale solar.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Camilo Rojas**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Santiago Rodriguez**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-modaltrans",
+    "source": "alchemist",
+    "name": "Modaltrans",
+    "description": "Shipment Management and Collaboration Platform for All Stakeholders of the Logistics Industry that Helps them Streamline Daily Operational Tasks and Gain End-to-End Visibility",
+    "logo": "",
+    "website": "",
+    "location": "Clifton, NJ, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 34",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
+    "founders": [
+      {
+        "name": "Salih Cakir",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Faruk Celik",
         "role": "",
         "linkedin": ""
       }
@@ -75849,18 +76008,18 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-the-cognity",
+    "id": "alchemist-upcree",
     "source": "alchemist",
-    "name": "The Cognity",
-    "description": "AI platform for learning social skills designed for autistic individuals.",
+    "name": "Upcree",
+    "description": "ML to Fast-Forward Solar Plant Design",
     "logo": "",
     "website": "",
-    "location": "Wilmington, DE, USA",
+    "location": "Miami, FL, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2023,
-    "program": "Alchemist Class 34",
+    "program": "Alchemist Class 36",
     "programSlugs": [
       "alchemist"
     ],
@@ -75869,20 +76028,15 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSizeRange": "1-10",
+    "teamSizeRange": "11-50",
     "founders": [
       {
-        "name": "K. Stankevich",
+        "name": "Valentin Noves",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "W. Kretowicz",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "A. Leniec",
+        "name": "Pablo Derendinger",
         "role": "",
         "linkedin": ""
       }
@@ -75997,144 +76151,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-remyx-ai",
-    "source": "alchemist",
-    "name": "Remyx AI",
-    "description": "Agent-guided MLOps",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 36",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Salma Mayorquin",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-redshift",
-    "source": "alchemist",
-    "name": "Redshift",
-    "description": "Next Gen ERP: SaaS-Based, Highly Customizable App that Matches a Company's Exact Processes",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 35",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Alex Lazich",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jesse Williams",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Ben Folks",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-docutable",
-    "source": "alchemist",
-    "name": "DocuTable",
-    "description": "App building platform for AI documents processing. ",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 35",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Alex Abol (ex VP Strategy",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Yuri Baburov (Asst Prof AI",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-glocate",
     "source": "alchemist",
     "name": "Glocate",
@@ -76222,61 +76238,10 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-coursefactory",
+    "id": "alchemist-remyx-ai",
     "source": "alchemist",
-    "name": "CourseFactory",
-    "description": "Connecting humans and AI to create online courses: faster, cheaper and with high quality",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Taras Pustovoy",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Irina Karpunina",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Gennady Koveshnikov",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-cerevox",
-    "source": "alchemist",
-    "name": "Cerevox",
-    "description": "Context-rich embeddings with 50% fewer tokens",
+    "name": "Remyx AI",
+    "description": "Agent-guided MLOps",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -76296,150 +76261,7 @@
     "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Muaz Siddiqui",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kamran Siddiqui",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-sunnybotics-inc",
-    "source": "alchemist",
-    "name": "Sunnybotics inc",
-    "description": "Sunnybotics uses robots and software to automate field work for energy operators, starting with utility-scale solar.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Camilo Rojas**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Santiago Rodriguez**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-modaltrans",
-    "source": "alchemist",
-    "name": "Modaltrans",
-    "description": "Shipment Management and Collaboration Platform for All Stakeholders of the Logistics Industry that Helps them Streamline Daily Operational Tasks and Gain End-to-End Visibility",
-    "logo": "",
-    "website": "",
-    "location": "Clifton, NJ, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 34",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Salih Cakir",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Faruk Celik",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-upcree",
-    "source": "alchemist",
-    "name": "Upcree",
-    "description": "ML to Fast-Forward Solar Plant Design",
-    "logo": "",
-    "website": "",
-    "location": "Miami, FL, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2023,
-    "program": "Alchemist Class 36",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Valentin Noves",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Pablo Derendinger",
+        "name": "Salma Mayorquin",
         "role": "",
         "linkedin": ""
       }
@@ -76481,6 +76303,184 @@
     "founders": [
       {
         "name": "Panos Halios",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-vara",
+    "source": "alchemist",
+    "name": "Vara",
+    "description": "Environmental Compliance AI for Manufacturers ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 36",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [
+      {
+        "name": "Founded by [Shraddha Agrawal]",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-redshift",
+    "source": "alchemist",
+    "name": "Redshift",
+    "description": "Next Gen ERP: SaaS-Based, Highly Customizable App that Matches a Company's Exact Processes",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 35",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Alex Lazich",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jesse Williams",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ben Folks",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-worksense",
+    "source": "alchemist",
+    "name": "Worksense",
+    "description": "Real-Time People Analytics Platform",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 36",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Arshan Ahmad",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-docutable",
+    "source": "alchemist",
+    "name": "DocuTable",
+    "description": "App building platform for AI documents processing. ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 35",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
+    "founders": [
+      {
+        "name": "Alex Abol (ex VP Strategy",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yuri Baburov (Asst Prof AI",
         "role": "",
         "linkedin": ""
       }
@@ -78814,7 +78814,8 @@
     "subregion": "",
     "tags": [
       "AI Models / Research",
-      "Consumer"
+      "Consumer",
+      "Infra"
     ],
     "year": 2023,
     "program": "a16z speedrun SR001",

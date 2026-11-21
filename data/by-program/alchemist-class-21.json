@@ -244,44 +244,10 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-aero-systems-west",
+    "id": "alchemist-wisdom",
     "source": "alchemist",
-    "name": "Aero Systems West",
-    "description": "Builds Hardware and Software to Make Drone Operations — Not Just Drone Flight — Truly Autonomous",
-    "logo": "",
-    "website": "",
-    "location": "Morgan Hill, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 21",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "acquired",
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-safemode",
-    "source": "alchemist",
-    "name": "SafeMode",
-    "description": "SafeMode developed the first Driver-Success platform called Driverz, transforming how transportation companies and drivers interact and perform.\n ",
+    "name": "Wisdom",
+    "description": "Customer Experience Management platform (CXM) that's changing the way product teams explore, find, and fix broken customer experiences online. Wisdom uses ML to flag where users struggle, with a short video clip.",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -298,43 +264,24 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-opcomm",
-    "source": "alchemist",
-    "name": "OpComm",
-    "description": "Perioperative Microcollaboration and Workflow App. Team: Jacob Brandon, MD (Indiana University School of Medicine); Corbin Frye, MD (General Surgery Resident, Washington University School of Medicine)",
-    "logo": "",
-    "website": "",
-    "location": "St. Louis, MO, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 21",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
     "teamSizeRange": "1-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Technical CEO.",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "2 prior data startups.",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Writes about Unicode.",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -394,13 +341,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-wisdom",
+    "id": "alchemist-aero-systems-west",
     "source": "alchemist",
-    "name": "Wisdom",
-    "description": "Customer Experience Management platform (CXM) that's changing the way product teams explore, find, and fix broken customer experiences online. Wisdom uses ML to flag where users struggle, with a short video clip.",
+    "name": "Aero Systems West",
+    "description": "Builds Hardware and Software to Make Drone Operations — Not Just Drone Flight — Truly Autonomous",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Morgan Hill, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -409,80 +356,12 @@
     "programSlugs": [
       "alchemist"
     ],
-    "isExit": false,
+    "isExit": true,
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Technical CEO.",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "2 prior data startups.",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Writes about Unicode.",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-bayware",
-    "source": "alchemist",
-    "name": "Bayware",
-    "description": "Application-Centric Software for Secure, Agile, Multi-Cloud Networking",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2018,
-    "program": "Alchemist Class 21",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Co-CEO Charles Stucki",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Co-CEO and Co-Founder Grigori Dzekon",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Co-Founder and CTO Igor Tarasenko",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "status": "acquired",
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -579,6 +458,127 @@
       "country": "Netherlands"
     },
     "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-safemode",
+    "source": "alchemist",
+    "name": "SafeMode",
+    "description": "SafeMode developed the first Driver-Success platform called Driverz, transforming how transportation companies and drivers interact and perform.\n ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 21",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-opcomm",
+    "source": "alchemist",
+    "name": "OpComm",
+    "description": "Perioperative Microcollaboration and Workflow App. Team: Jacob Brandon, MD (Indiana University School of Medicine); Corbin Frye, MD (General Surgery Resident, Washington University School of Medicine)",
+    "logo": "",
+    "website": "",
+    "location": "St. Louis, MO, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 21",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-bayware",
+    "source": "alchemist",
+    "name": "Bayware",
+    "description": "Application-Centric Software for Secure, Agile, Multi-Cloud Networking",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 21",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
+    "founders": [
+      {
+        "name": "Co-CEO Charles Stucki",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Co-CEO and Co-Founder Grigori Dzekon",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Co-Founder and CTO Igor Tarasenko",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
     "alsoIn": []
   }
 ]
