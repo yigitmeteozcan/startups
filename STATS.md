@@ -1,14 +1,14 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-21._
+_Auto-generated from the dataset on 2026-11-22._
 
 | Metric | Count |
 |---|---|
-| Total companies | **24,077** |
+| Total companies | **24,078** |
 | 🦄 Unicorns ($1B+) | **152** |
 | 💰 Exits | **2955** |
 | 🌱 B Corps | **29** |
-| 👤 Founder profiles | **22,020** |
+| 👤 Founder profiles | **22,022** |
 | Current session | **69** |
 
 ## By source
@@ -16,7 +16,7 @@ _Auto-generated from the dataset on 2026-11-21._
 | Source | Companies |
 |---|---|
 | plugandplay | 6,444 |
-| yc | 6,413 |
+| yc | 6,414 |
 | techstars | 5,201 |
 | 500 | 2,243 |
 | antler | 1,089 |
@@ -61,14 +61,14 @@ _Auto-generated from the dataset on 2026-11-21._
 2024  ████████████████████████████ 1851
 2025  █████████████████████░░░░░░░ 1418
 2026  ███████████████████░░░░░░░░░ 1242
-2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 19
+2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20
 2018.11  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
 ## Top countries
-1. **United States** — 12450
+1. **United States** — 12451
 2. **Japan** — 3166
-3. **United Kingdom** — 1261
+3. **United Kingdom** — 1260
 4. **Canada** — 865
 5. **India** — 522
 6. **Singapore** — 486
@@ -77,7 +77,7 @@ _Auto-generated from the dataset on 2026-11-21._
 9. **South Korea** — 362
 10. **Turkey** — 271
 11. **Israel** — 256
-12. **Australia** — 239
+12. **Australia** — 240
 13. **Mexico** — 224
 14. **United Arab Emirates** — 171
 15. **Italy** — 151
@@ -118,14 +118,14 @@ _Auto-generated from the dataset on 2026-11-21._
 
 ## Top industries
 1. **Fintech** — 3033
-2. **AI** — 1944
-3. **SaaS** — 1748
+2. **AI** — 1946
+3. **SaaS** — 1749
 4. **Artificial intelligence and machine learning** — 1669
 5. **Mobile** — 1164
-6. **Consumer** — 1124
+6. **Consumer** — 1125
 7. **Healthcare** — 1010
 8. **Infrastructure** — 761
-9. **Developer Tools** — 748
+9. **Developer Tools** — 749
 10. **Industrials** — 699
 11. **Health & Longevity** — 691
 12. **Engineering, Product and Design** — 635
@@ -140,19 +140,19 @@ _Auto-generated from the dataset on 2026-11-21._
 
 ## By region
 1. **Americas** — 6015
-2. **United States of America** — 4788
+2. **United States of America** — 4789
 3. **Asia** — 3438
 4. **Europe** — 1028
 5. **EMEA** — 951
 6. **North America** — 902
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
-9. **United Kingdom** — 221
+9. **United Kingdom** — 220
 10. **India** — 219
 11. **Canada** — 218
 12. **Latin America** — 163
 13. **Middle East** — 157
-14. **Unspecified** — 119
+14. **Unspecified** — 118
 15. **North Asia** — 110
 16. **Africa** — 107
 17. **Southeast Asia** — 93
@@ -160,7 +160,7 @@ _Auto-generated from the dataset on 2026-11-21._
 19. **Mexico** — 77
 20. **Germany** — 76
 21. **Oceania** — 75
-22. **Remote** — 73
+22. **Remote** — 74
 23. **Brazil** — 69
 24. **Singapore** — 51
 25. **Nigeria** — 46
@@ -170,8 +170,8 @@ _Auto-generated from the dataset on 2026-11-21._
 29. **Spain** — 21
 30. **Sweden** — 19
 31. **Argentina** — 19
-32. **Netherlands** — 17
-33. **Australia** — 17
+32. **Australia** — 18
+33. **Netherlands** — 17
 34. **United Arab Emirates** — 16
 35. **Chile** — 16
 36. **Denmark** — 14

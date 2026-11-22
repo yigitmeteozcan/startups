@@ -18120,7 +18120,7 @@
     "status": "active",
     "teamSize": 60,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Aaron Slodov",
@@ -31639,7 +31639,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 12,
+    "teamSize": 14,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -46835,22 +46835,25 @@
     "alsoIn": []
   },
   {
-    "id": "yc-digibuild",
+    "id": "yc-digibuild-resilience",
     "source": "yc",
-    "name": "DigiBuild",
-    "description": "We buy & track building materials for construction companies.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/619bfcc11ede71a157f8463466ae0bd8ddd6cc7e.png",
+    "name": "DigiBuild Resilience",
+    "description": "Physical AI solutions that Protect What We Build.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd340226433c62b25161ca1850caaa89e15335a0.png",
     "website": "https://digibuild.com",
-    "sourceUrl": "https://www.ycombinator.com/companies/digibuild",
+    "sourceUrl": "https://www.ycombinator.com/companies/digibuild-resilience",
     "location": "Miami, FL, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Real Estate and Construction",
       "Construction",
-      "SaaS",
       "Supply Chain",
+      "Data Science",
+      "Advanced Materials",
       "AI",
+      "Industrial",
+      "SaaS",
       "ML"
     ],
     "year": 2021,
@@ -46863,12 +46866,13 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 15,
+    "teamSize": 4,
     "isHiring": true,
     "stage": "Early",
     "formerNames": [
       "DigiBuild Software Inc.",
-      "DigiBuild Software"
+      "DigiBuild Software",
+      "DigiBuild"
     ],
     "founders": [
       {
@@ -46876,7 +46880,7 @@
         "role": "Founder",
         "linkedin": "https://www.linkedin.com/in/robertjsalvador/",
         "twitter": "https://twitter.com/robertjsalvador",
-        "bio": "- Cofounder & CEO of PoliTech.AI: Digital sales robots that sell for startups. - Fmr Founder & CEO DigiBuild: AI optimizes buying building materials. - Fmr Founder & President of SLP, a Commercial Construction company. - 750M+ in sales prospected and closed since 2015. - Bitcoin & Crypto since 2016. - Seen on Fox Business, NBC, CNBC, Newsnation. - Influencer on Linkedin, X. -Prev backed by: YC, Draper Associates, Valhalla Ventures, Picus Cap, Bluefield Capital, Cathexis Ventures, Harvard.",
+        "bio": "- Founder of DigiBuild (YC S21). Now Board Member & Special Advisor as DigiBuild expands into DigiBuild Resilience: advanced materials and disaster intelligence for buildings and critical infrastructure. - Cofounder & CEO of Promota AI: OS for Government Efficiency. - Government strategy leader using AI and existing public records to cut waste and modernize how government buys and builds. FL DOGE. - Seen on Fox Business, NBC, CNBC and NewsNation, speaking on AI, jobs, government efficiency.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fda657636b07cd862a9a20ed722eb1e0347bc61e.jpg",
         "active": false
       },
@@ -70411,6 +70415,47 @@
     "alsoIn": []
   },
   {
+    "id": "alchemist-userlove",
+    "source": "alchemist",
+    "name": "UserLove",
+    "description": "Generative AI for customer support - automating 47% of customer service tickets.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 32",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Hasan Khan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "alchemist-copyright-delta",
     "source": "alchemist",
     "name": "Copyright Delta",
@@ -70443,6 +70488,489 @@
       "country": "Netherlands"
     },
     "country": "Netherlands",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-lynxai-technologies-inc",
+    "source": "alchemist",
+    "name": "Lynxai Technologies, Inc",
+    "description": "A Data-Driven Platform that Makes ESG Investment More Efficient",
+    "logo": "",
+    "website": "",
+    "location": "California City, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Tiago Andrade",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Eduardo Rebelo",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-rocketbrew",
+    "source": "alchemist",
+    "name": "Rocketbrew",
+    "description": "GenAI for personalized sales outbound.",
+    "logo": "",
+    "website": "",
+    "location": "Vancouver, BC, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Heidi Ye",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rachel Wong",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    },
+    "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-deriskly-limited",
+    "source": "alchemist",
+    "name": "Deriskly Limited",
+    "description": "Leveraging AI to Help Companies Prevent Legal Disputes by Detecting and Assessing Risks in Documents, Emails, Social Media & Web",
+    "logo": "",
+    "website": "",
+    "location": "Oxford, UK",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 29",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Dr Mimi Zou",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tatiana Botskina",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "UK"
+    },
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-jsight",
+    "source": "alchemist",
+    "name": "JSight",
+    "description": "Open Source API Documentation Platform that Automatically Ensures that the API Documentation is Complete, Up to Date, and Useful",
+    "logo": "",
+    "website": "",
+    "location": "Delaware, OH 43015, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 29",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
+    "founders": [
+      {
+        "name": "Ivan Martynov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Konstantin Malyshev",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Maxim Reznizkii",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andrei Ivaniv",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-werbot",
+    "source": "alchemist",
+    "name": "Werbot",
+    "description": "1Password for Servers - Easy Server Access Sharing, Control and Audit",
+    "logo": "",
+    "website": "",
+    "location": "Middletown, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 29",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Inna Ponamarchuk",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dmitry Shurco",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-smartan",
+    "source": "alchemist",
+    "name": "Smartan",
+    "description": "Business Revenue Verification. Financial and Accounting Data Aggregation & Analytics",
+    "logo": "",
+    "website": "",
+    "location": "Delaware, OH 43015, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
+    "founders": [
+      {
+        "name": "Maria Mikhaylenko",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Sadofyev",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Arsenii Pechenkin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-flyhound",
+    "source": "alchemist",
+    "name": "Flyhound",
+    "description": "Patented Technology for Drones that Locates and Identifies People on the Ground and Inside Buildings Without an App, User Interaction, or Infrastructure",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Manny Cerniglia",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Antonio Albanese",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-var-energy",
+    "source": "alchemist",
+    "name": "VAR.energy",
+    "description": "Smart Grid “Platform-as-a-Service” Provider",
+    "logo": "",
+    "website": "",
+    "location": "Kyiv, Ukraine, 02000",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [
+      {
+        "name": "Nick Turchak",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Denys Popov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mykola Pimankov",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "02000"
+    },
+    "country": "",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-engagelively",
+    "source": "alchemist",
+    "name": "engageLively",
+    "description": "Intelligent Dashboards that Enable Data Science for All",
+    "logo": "",
+    "website": "",
+    "location": "Orinda, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Rick McGeer",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andi Bergen",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt Hemmings",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-navigateio-inc",
+    "source": "alchemist",
+    "name": "NavigateIO Inc.",
+    "description": "Self Contained Location Intelligence in GPS-Denied Areas for Public Safety, Military, Construction, Warehousing, Industrial and AR/VR",
+    "logo": "",
+    "website": "",
+    "location": "Santa Rosa, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [
+      {
+        "name": "Sukhi Lamba",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Karthik Sundaresan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -70526,530 +71054,6 @@
       },
       {
         "name": "Caleb Finn",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-lynxai-technologies-inc",
-    "source": "alchemist",
-    "name": "Lynxai Technologies, Inc",
-    "description": "A Data-Driven Platform that Makes ESG Investment More Efficient",
-    "logo": "",
-    "website": "",
-    "location": "California City, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Tiago Andrade",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Eduardo Rebelo",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-userlove",
-    "source": "alchemist",
-    "name": "UserLove",
-    "description": "Generative AI for customer support - automating 47% of customer service tickets.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 32",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Hasan Khan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-rocketbrew",
-    "source": "alchemist",
-    "name": "Rocketbrew",
-    "description": "GenAI for personalized sales outbound.",
-    "logo": "",
-    "website": "",
-    "location": "Vancouver, BC, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Heidi Ye",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Rachel Wong",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    },
-    "country": "Canada",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-werbot",
-    "source": "alchemist",
-    "name": "Werbot",
-    "description": "1Password for Servers - Easy Server Access Sharing, Control and Audit",
-    "logo": "",
-    "website": "",
-    "location": "Middletown, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 29",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Inna Ponamarchuk",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dmitry Shurco",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-jsight",
-    "source": "alchemist",
-    "name": "JSight",
-    "description": "Open Source API Documentation Platform that Automatically Ensures that the API Documentation is Complete, Up to Date, and Useful",
-    "logo": "",
-    "website": "",
-    "location": "Delaware, OH 43015, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 29",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Ivan Martynov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Konstantin Malyshev",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Maxim Reznizkii",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andrei Ivaniv",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-navigateio-inc",
-    "source": "alchemist",
-    "name": "NavigateIO Inc.",
-    "description": "Self Contained Location Intelligence in GPS-Denied Areas for Public Safety, Military, Construction, Warehousing, Industrial and AR/VR",
-    "logo": "",
-    "website": "",
-    "location": "Santa Rosa, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "founders": [
-      {
-        "name": "Sukhi Lamba",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Karthik Sundaresan",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-var-energy",
-    "source": "alchemist",
-    "name": "VAR.energy",
-    "description": "Smart Grid “Platform-as-a-Service” Provider",
-    "logo": "",
-    "website": "",
-    "location": "Kyiv, Ukraine, 02000",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "founders": [
-      {
-        "name": "Nick Turchak",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Denys Popov",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Mykola Pimankov",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "02000"
-    },
-    "country": "",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-flyhound",
-    "source": "alchemist",
-    "name": "Flyhound",
-    "description": "Patented Technology for Drones that Locates and Identifies People on the Ground and Inside Buildings Without an App, User Interaction, or Infrastructure",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 31",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Manny Cerniglia",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Antonio Albanese",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-deriskly-limited",
-    "source": "alchemist",
-    "name": "Deriskly Limited",
-    "description": "Leveraging AI to Help Companies Prevent Legal Disputes by Detecting and Assessing Risks in Documents, Emails, Social Media & Web",
-    "logo": "",
-    "website": "",
-    "location": "Oxford, UK",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 29",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Dr Mimi Zou",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tatiana Botskina",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "UK"
-    },
-    "country": "United Kingdom",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-smartan",
-    "source": "alchemist",
-    "name": "Smartan",
-    "description": "Business Revenue Verification. Financial and Accounting Data Aggregation & Analytics",
-    "logo": "",
-    "website": "",
-    "location": "Delaware, OH 43015, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Maria Mikhaylenko",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Michael Sadofyev",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Arsenii Pechenkin",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-engagelively",
-    "source": "alchemist",
-    "name": "engageLively",
-    "description": "Intelligent Dashboards that Enable Data Science for All",
-    "logo": "",
-    "website": "",
-    "location": "Orinda, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2021,
-    "program": "Alchemist Class 30",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Rick McGeer",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andi Bergen",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Matt Hemmings",
         "role": "",
         "linkedin": ""
       }

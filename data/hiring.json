@@ -134,7 +134,7 @@
     "status": "active",
     "teamSize": 2400,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "topCompany": true,
     "formerNames": [
       "ZenPayroll"
@@ -799,7 +799,7 @@
     "status": "active",
     "teamSize": 7000,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "topCompany": true,
     "founders": [
       {
@@ -19519,7 +19519,7 @@
     "status": "active",
     "teamSize": 60,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Aaron Slodov",
@@ -25814,22 +25814,25 @@
     "alsoIn": []
   },
   {
-    "id": "yc-digibuild",
+    "id": "yc-digibuild-resilience",
     "source": "yc",
-    "name": "DigiBuild",
-    "description": "We buy & track building materials for construction companies.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/619bfcc11ede71a157f8463466ae0bd8ddd6cc7e.png",
+    "name": "DigiBuild Resilience",
+    "description": "Physical AI solutions that Protect What We Build.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd340226433c62b25161ca1850caaa89e15335a0.png",
     "website": "https://digibuild.com",
-    "sourceUrl": "https://www.ycombinator.com/companies/digibuild",
+    "sourceUrl": "https://www.ycombinator.com/companies/digibuild-resilience",
     "location": "Miami, FL, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
       "Real Estate and Construction",
       "Construction",
-      "SaaS",
       "Supply Chain",
+      "Data Science",
+      "Advanced Materials",
       "AI",
+      "Industrial",
+      "SaaS",
       "ML"
     ],
     "year": 2021,
@@ -25842,12 +25845,13 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 15,
+    "teamSize": 4,
     "isHiring": true,
     "stage": "Early",
     "formerNames": [
       "DigiBuild Software Inc.",
-      "DigiBuild Software"
+      "DigiBuild Software",
+      "DigiBuild"
     ],
     "founders": [
       {
@@ -25855,7 +25859,7 @@
         "role": "Founder",
         "linkedin": "https://www.linkedin.com/in/robertjsalvador/",
         "twitter": "https://twitter.com/robertjsalvador",
-        "bio": "- Cofounder & CEO of PoliTech.AI: Digital sales robots that sell for startups. - Fmr Founder & CEO DigiBuild: AI optimizes buying building materials. - Fmr Founder & President of SLP, a Commercial Construction company. - 750M+ in sales prospected and closed since 2015. - Bitcoin & Crypto since 2016. - Seen on Fox Business, NBC, CNBC, Newsnation. - Influencer on Linkedin, X. -Prev backed by: YC, Draper Associates, Valhalla Ventures, Picus Cap, Bluefield Capital, Cathexis Ventures, Harvard.",
+        "bio": "- Founder of DigiBuild (YC S21). Now Board Member & Special Advisor as DigiBuild expands into DigiBuild Resilience: advanced materials and disaster intelligence for buildings and critical infrastructure. - Cofounder & CEO of Promota AI: OS for Government Efficiency. - Government strategy leader using AI and existing public records to cut waste and modernize how government buys and builds. FL DOGE. - Seen on Fox Business, NBC, CNBC and NewsNation, speaking on AI, jobs, government efficiency.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/fda657636b07cd862a9a20ed722eb1e0347bc61e.jpg",
         "active": false
       },
@@ -49380,7 +49384,7 @@
     "id": "yc-brainbase-labs",
     "source": "yc",
     "name": "Brainbase Labs",
-    "description": "The AI Labor Company",
+    "description": "Internal agent infrastructure for enterprise",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/55b9b557f3faec62dfe5b2755730337e32975f4b.png",
     "website": "https://brainbaselabs.com",
     "sourceUrl": "https://www.ycombinator.com/companies/brainbase-labs",
@@ -49731,10 +49735,10 @@
     "subregion": "",
     "tags": [
       "Energy Storage",
-      "Solar Power",
       "Climate",
       "Energy",
-      "AI"
+      "AI",
+      "Solar Power"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -52189,9 +52193,9 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 250,
+    "teamSize": 450,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "Corgi Insurance"
     ],
@@ -59817,6 +59821,59 @@
         "linkedin": "https://www.linkedin.com/in/jasonskaufmann/",
         "bio": "I'm a hardware engineer with a passion for building cool electronics and systems. With a background in physics and computer engineering from Penn, I've worked on everything from AI hardware at Tesla to power systems for rockets at SpaceX. Currently focused on making a fusion reactor for ships.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/de5bd445a30e5ded336464f26afb4873ba9b1435.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-elip-ai",
+    "source": "yc",
+    "name": "Elip AI",
+    "description": "Good matches have reasons.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/54e4f055bff9db8e9f1d9ba01a05699d60abbf1b.png",
+    "website": "https://tryelip.ai",
+    "sourceUrl": "https://www.ycombinator.com/companies/elip-ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Recruiting and Talent",
+      "Recruiting",
+      "AI"
+    ],
+    "year": 2025,
+    "program": "YC Winter 2025",
+    "programSlugs": [
+      "yc-winter-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
+    "formerNames": [
+      "TejasAI",
+      "Tejas AI"
+    ],
+    "founders": [
+      {
+        "name": "Gaurav Luhariwala",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/gauravluhariwala/",
+        "twitter": "https://x.com/Snorlaxxex",
+        "bio": "Born and raised in India. Have previously built and scaled data-driven products for Indian banks and financial institutions - founded Tejas AI with the mission of making financial services more inclusive worldwide.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/15a4d41fd9b509921804347a08de2fbbcc8135b4.jpg"
       }
     ],
     "social": {
@@ -70632,14 +70689,19 @@
     "id": "yc-nessie",
     "source": "yc",
     "name": "Nessie",
-    "description": "The shared context layer for recursive companies.",
+    "description": "Shared context across ChatGPT, Claude, Codex, Cursor and more",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/400e4be5acfaa12735760bedcf4f0ad136f82137.png",
     "website": "https://nessielabs.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/nessie",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Enterprise Software",
+      "AI"
+    ],
     "year": 2025,
     "program": "YC Fall 2025",
     "programSlugs": [
@@ -73869,8 +73931,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cd6943aa08a6062cd8e0e6aba456f3d77558d5e3.png",
     "website": "https://www.shortkit.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/shortkit",
-    "location": "",
-    "region": "Unspecified",
+    "location": "Remote",
+    "region": "Remote",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design"
@@ -73885,7 +73947,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": true,
     "stage": "Early",
     "formerNames": [
@@ -75457,7 +75519,11 @@
     "subregion": "",
     "tags": [
       "Industrials",
-      "Defense"
+      "Defense",
+      "Robotics",
+      "Drones",
+      "GovTech",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -75469,7 +75535,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 19,
+    "teamSize": 35,
     "isHiring": true,
     "stage": "Early",
     "formerNames": [
@@ -83388,7 +83454,7 @@
     "name": "Helios Intelligence",
     "description": "At-home molecular body test: 1,000+ biomarkers from a drop of blood",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7dc9a239cf834c9434b809e9cda6ac12630153db.png",
-    "website": "https://www.heliosinc.ai/",
+    "website": "https://www.myhelios.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/helios-intelligence",
     "location": "Boston, MA, USA",
     "region": "United States of America",
