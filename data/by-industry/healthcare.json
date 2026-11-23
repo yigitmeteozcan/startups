@@ -29195,7 +29195,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Namrata Anand",
@@ -29627,7 +29627,7 @@
     "id": "yc-ora-ai",
     "source": "yc",
     "name": "Ora AI",
-    "description": "The AI Platform for Healthcare Education",
+    "description": "Precision Education for Healthcare",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e986c79fdf04d121008f6f06d79ac622e40609d2.png",
     "website": "https://www.oraai.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/ora-ai",
@@ -35850,13 +35850,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-10x",
+    "id": "yc-10x-dental",
     "source": "yc",
-    "name": "10x",
+    "name": "10x Dental",
     "description": "AI Sales Teams for Dental Practices",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba966c23157e18273203c5a895b88637e3e4b8e0.png",
     "website": "https://www.10xdental.com/",
-    "sourceUrl": "https://www.ycombinator.com/companies/10x",
+    "sourceUrl": "https://www.ycombinator.com/companies/10x-dental",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -35879,7 +35879,8 @@
     "formerNames": [
       "GradeWIz",
       "Gradewiz",
-      "GradeWiz"
+      "GradeWiz",
+      "10x"
     ],
     "founders": [
       {
@@ -42160,7 +42161,7 @@
     "name": "BioDelivera",
     "description": "Programmable drug delivery precisely targets only diseased cells",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/103574b8d0b5907b8788ed0e0c0ce09af40e81be.png",
-    "website": "https://biodelivera.com/",
+    "website": "https://biodelivera.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/biodelivera",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -45945,90 +45946,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-kuraseru",
-    "source": "500",
-    "name": "Kuraseru",
-    "description": "Developer of a medical enterprise software designed to connect patients with professional care managers. The company's software provides a tool that can retrieve optimum nursing facility information instantaneously, enabling users to choose their treatment provider smartly.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c3ce90e-6a50-43ad-be16-98c25d6a5f7f.png",
-    "website": "https://www.kuraseru.co.jp",
-    "location": "Japan",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2018,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Daiki Kawahara",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
-    },
-    "country": "Japan",
-    "alsoIn": []
-  },
-  {
-    "id": "500-helloflo",
-    "source": "500",
-    "name": "HelloFlo",
-    "description": "Provider of a subscription-based online business that delivers feminine products. The company provides products, services and everyday health and wellness resources and it also encourages women empowerment management.",
-    "logo": "",
-    "website": "https://helloflo.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Naama Bloom",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "500-this-is-l",
     "source": "500",
     "name": "This Is L.",
@@ -46073,22 +45990,20 @@
     ]
   },
   {
-    "id": "500-health-co-stealth",
+    "id": "500-helloflo",
     "source": "500",
-    "name": "Health Co (Stealth)",
-    "description": "Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.",
+    "name": "HelloFlo",
+    "description": "Provider of a subscription-based online business that delivers feminine products. The company provides products, services and everyday health and wellness resources and it also encourages women empowerment management.",
     "logo": "",
-    "website": "https://unwind.me",
+    "website": "https://helloflo.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Health Tech",
-      "Wellness",
       "Healthcare"
     ],
     "year": 2014,
-    "program": "GA 8",
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -46099,12 +46014,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Akaash Achreja",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Milan Thakor",
+        "name": "Naama Bloom",
         "role": "",
         "linkedin": ""
       }
@@ -46119,26 +46029,23 @@
       "country": "United States"
     },
     "country": "United States",
-    "alsoIn": [
-      "yc"
-    ]
+    "alsoIn": []
   },
   {
-    "id": "500-alba",
+    "id": "500-kuraseru",
     "source": "500",
-    "name": "Alba",
-    "description": "Alba connects families with caregivers in Latin America and provides peace of mind in every step of the caring process. Through its platforms, Alba connects families with caregivers of their social networks, allowing parents to book caregivers just as if their best friend would have recommended it. After booking, parents receive live updates of what’s happening at home and caregivers receive 24/7 support, ensuring peace of mind in every step of the process",
-    "logo": "",
-    "website": "https://alba-app.com",
-    "location": "United States",
-    "region": "North America",
+    "name": "Kuraseru",
+    "description": "Developer of a medical enterprise software designed to connect patients with professional care managers. The company's software provides a tool that can retrieve optimum nursing facility information instantaneously, enabling users to choose their treatment provider smartly.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c3ce90e-6a50-43ad-be16-98c25d6a5f7f.png",
+    "website": "https://www.kuraseru.co.jp",
+    "location": "Japan",
+    "region": "North Asia",
     "subregion": "",
     "tags": [
-      "Marketplace",
       "Healthcare"
     ],
     "year": 2018,
-    "program": "GA 24",
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
@@ -46149,27 +46056,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Mauricio Giadach",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Maria Teresa Sante Ross",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dan Stern",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Juan Fantoni",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tesi Del Sante",
+        "name": "Daiki Kawahara",
         "role": "",
         "linkedin": ""
       }
@@ -46181,9 +46068,9 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United States"
+      "country": "Japan"
     },
-    "country": "United States",
+    "country": "Japan",
     "alsoIn": []
   },
   {
@@ -46236,201 +46123,6 @@
     ]
   },
   {
-    "id": "500-mylife",
-    "source": "500",
-    "name": "MyLife",
-    "description": "Provider of an emotional wellness platform designed to help the users find peace of mind everyday. The companies emotional wellness platform provides personalized approach prompts for users to check in with, and provides recommendations for short activities like meditations tuned to those particular emotions.",
-    "logo": "",
-    "website": "https://www.stopbreathethink.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2017,
-    "program": "Distro 1",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jamie Price",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Julie Campistron",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "500-simplifimed",
-    "source": "500",
-    "name": "SimplifiMed",
-    "description": "Provider of a platform for connecting patients with doctors. The company provides an online platform where patients could update their personal health profiles and seek medication facilities and consult with caregivers without having to move to clinics physically.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e9be1282-56d3-40f1-912f-ccdc6178b51d.png",
-    "website": "https://simplifimed.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2016,
-    "program": "GA 18",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Chinmay Singh",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "500-medico-com",
-    "source": "500",
-    "name": "Medico.com",
-    "description": "Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b67e109-9184-4496-8ce3-2cfe37173a29.png",
-    "website": "https://www.medico.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Elan Dekel",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "500-careport-health",
-    "source": "500",
-    "name": "Careport Health",
-    "description": "Provider of software to facilitate post-acute hospital care. The company offers a web-based platform enabling hospitals, patients and post-hospital care providers to coordinate and manage care across the post-acute care continuum. The platform includes tools enabling real-time data and alerts for patient management, evaluating patient outcomes and assisting patients in selecting post-acute providers from hospitals' preferred networks.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2b212d2f-0043-42e6-9387-6fdfb704dab4.png",
-    "website": "https://careporthealth.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jonathan Helm",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kira Yugay",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Lissy Hu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Vivek Garipalli",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jessica Hohman",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": [
-      "techstars"
-    ]
-  },
-  {
     "id": "500-cyberpsyc",
     "source": "500",
     "name": "Cyberpsyc",
@@ -46475,53 +46167,6 @@
       "country": "Canada"
     },
     "country": "Canada",
-    "alsoIn": []
-  },
-  {
-    "id": "500-inofab",
-    "source": "500",
-    "name": "Inofab",
-    "description": "Inofab Health has joined Carbon Health by 2022 April! \n\nInofab Health® is a digital health company that offers revolutionary respiratory care solutions for home and professional use with a human-centric approach and cutting-edge technology. It provides a software platform for functional respiratory care management, state-of-the-art ultrasonic personal & clinic spirometers, along with connected inhaler attachments with a strong focus on misuse detection. Inofab Health alerts any declines in lung health, allowing quick intervention against symptom onset and preventing unnecessary hospitalizations.",
-    "logo": "",
-    "website": "https://www.spirohome.io",
-    "location": "Turkey",
-    "region": "Middle East & Africa",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Kerem Yaşar",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Merthan Öztürk",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Turkey"
-    },
-    "country": "Turkey",
     "alsoIn": []
   },
   {
@@ -46713,6 +46358,102 @@
     "alsoIn": []
   },
   {
+    "id": "500-drchrono",
+    "source": "500",
+    "name": "DrChrono",
+    "description": "Developer of an electronic health record platform designed to offer practice management, electronic health records, and billing solutions. The company's platform features cloud-based scheduling, clinical documentation, a patient portal, billing software, and helps to perform patient, charge, utilization, payment, and collection analysis, enabling physicians and patients from around the world to manage their healthcare ecosystem through a mobile phone or tablet.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/234b5f2f-7a91-42cd-abd9-b22e58afe4c8.png",
+    "website": "https://drchrono.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Daniel Kivatinos",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Nusimow",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
+  },
+  {
+    "id": "500-inofab",
+    "source": "500",
+    "name": "Inofab",
+    "description": "Inofab Health has joined Carbon Health by 2022 April! \n\nInofab Health® is a digital health company that offers revolutionary respiratory care solutions for home and professional use with a human-centric approach and cutting-edge technology. It provides a software platform for functional respiratory care management, state-of-the-art ultrasonic personal & clinic spirometers, along with connected inhaler attachments with a strong focus on misuse detection. Inofab Health alerts any declines in lung health, allowing quick intervention against symptom onset and preventing unnecessary hospitalizations.",
+    "logo": "",
+    "website": "https://www.spirohome.io",
+    "location": "Turkey",
+    "region": "Middle East & Africa",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2017,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Kerem Yaşar",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Merthan Öztürk",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Turkey"
+    },
+    "country": "Turkey",
+    "alsoIn": []
+  },
+  {
     "id": "500-baker-technologies",
     "source": "500",
     "name": "Baker Technologies",
@@ -46765,19 +46506,19 @@
     "alsoIn": []
   },
   {
-    "id": "500-drchrono",
+    "id": "500-medico-com",
     "source": "500",
-    "name": "DrChrono",
-    "description": "Developer of an electronic health record platform designed to offer practice management, electronic health records, and billing solutions. The company's platform features cloud-based scheduling, clinical documentation, a patient portal, billing software, and helps to perform patient, charge, utilization, payment, and collection analysis, enabling physicians and patients from around the world to manage their healthcare ecosystem through a mobile phone or tablet.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/234b5f2f-7a91-42cd-abd9-b22e58afe4c8.png",
-    "website": "https://drchrono.com",
+    "name": "Medico.com",
+    "description": "Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b67e109-9184-4496-8ce3-2cfe37173a29.png",
+    "website": "https://www.medico.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
       "Healthcare"
     ],
-    "year": 2011,
+    "year": 2012,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -46789,12 +46530,272 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Daniel Kivatinos",
+        "name": "Elan Dekel",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-simplifimed",
+    "source": "500",
+    "name": "SimplifiMed",
+    "description": "Provider of a platform for connecting patients with doctors. The company provides an online platform where patients could update their personal health profiles and seek medication facilities and consult with caregivers without having to move to clinics physically.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e9be1282-56d3-40f1-912f-ccdc6178b51d.png",
+    "website": "https://simplifimed.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2016,
+    "program": "GA 18",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Chinmay Singh",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-mylife",
+    "source": "500",
+    "name": "MyLife",
+    "description": "Provider of an emotional wellness platform designed to help the users find peace of mind everyday. The companies emotional wellness platform provides personalized approach prompts for users to check in with, and provides recommendations for short activities like meditations tuned to those particular emotions.",
+    "logo": "",
+    "website": "https://www.stopbreathethink.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2017,
+    "program": "Distro 1",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jamie Price",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Michael Nusimow",
+        "name": "Julie Campistron",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-careport-health",
+    "source": "500",
+    "name": "Careport Health",
+    "description": "Provider of software to facilitate post-acute hospital care. The company offers a web-based platform enabling hospitals, patients and post-hospital care providers to coordinate and manage care across the post-acute care continuum. The platform includes tools enabling real-time data and alerts for patient management, evaluating patient outcomes and assisting patients in selecting post-acute providers from hospitals' preferred networks.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2b212d2f-0043-42e6-9387-6fdfb704dab4.png",
+    "website": "https://careporthealth.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jonathan Helm",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kira Yugay",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Lissy Hu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Vivek Garipalli",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jessica Hohman",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": [
+      "techstars"
+    ]
+  },
+  {
+    "id": "500-alba",
+    "source": "500",
+    "name": "Alba",
+    "description": "Alba connects families with caregivers in Latin America and provides peace of mind in every step of the caring process. Through its platforms, Alba connects families with caregivers of their social networks, allowing parents to book caregivers just as if their best friend would have recommended it. After booking, parents receive live updates of what’s happening at home and caregivers receive 24/7 support, ensuring peace of mind in every step of the process",
+    "logo": "",
+    "website": "https://alba-app.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Marketplace",
+      "Healthcare"
+    ],
+    "year": 2018,
+    "program": "GA 24",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mauricio Giadach",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Maria Teresa Sante Ross",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Dan Stern",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Juan Fantoni",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tesi Del Sante",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-health-co-stealth",
+    "source": "500",
+    "name": "Health Co (Stealth)",
+    "description": "Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.",
+    "logo": "",
+    "website": "https://unwind.me",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Health Tech",
+      "Wellness",
+      "Healthcare"
+    ],
+    "year": 2014,
+    "program": "GA 8",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Akaash Achreja",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Milan Thakor",
         "role": "",
         "linkedin": ""
       }

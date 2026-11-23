@@ -8670,13 +8670,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-runtime-si",
+    "id": "yc-runtime-runtime-si",
     "source": "yc",
-    "name": "Runtime.si",
-    "description": "Robots that think in simulation",
+    "name": "Runtime",
+    "description": "Fast, Reliable Agentic Robotics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
     "website": "https://runtime.si/",
-    "sourceUrl": "https://www.ycombinator.com/companies/runtimesi",
+    "sourceUrl": "https://www.ycombinator.com/companies/runtime-si",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -8702,9 +8702,16 @@
     "stage": "Early",
     "formerNames": [
       "Lambda Robotics",
-      "Runtime"
+      "Runtime.si"
     ],
     "founders": [
+      {
+        "name": "Liam Zhong",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ningze-zhong-a62917388/",
+        "bio": "Co-founder & CTO at Runtime.si. Graduate student / Researcher at UPenn GRASP Lab Program, CV, Control, and RL. Reviewer and author for CVPR, ECCV, NeurIPS, etc. Robotics@Penn.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b18316c9abbf955bffc0c60956eb1724dc4d498e.jpg"
+      },
       {
         "name": "Chen Peng",
         "role": "Co-Founder",
@@ -8719,13 +8726,6 @@
         "linkedin": "https://www.linkedin.com/in/qingyun-ying-46558235b?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "bio": "Co-founder at Runtime.si. Full-stack robotics engineer focused on robotics productization, manipulation, and manufacturing.MechE @ Penn.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3abf1241b0a3a88b9721dba23ce1cce5e431f5ea.jpg"
-      },
-      {
-        "name": "Liam Zhong",
-        "role": "Founder/CTO",
-        "linkedin": "https://www.linkedin.com/in/ningze-zhong-a62917388/",
-        "bio": "Co-founder & CTO at Runtime.si. Graduate student / Researcher at UPenn GRASP Lab Program, CV, Control, and RL. Reviewer and author for CVPR, ECCV, NeurIPS, etc. Robotics@Penn.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b18316c9abbf955bffc0c60956eb1724dc4d498e.jpg"
       }
     ],
     "social": {

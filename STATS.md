@@ -1,14 +1,14 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-22._
+_Auto-generated from the dataset on 2026-11-23._
 
 | Metric | Count |
 |---|---|
-| Total companies | **24,078** |
+| Total companies | **24,079** |
 | 🦄 Unicorns ($1B+) | **152** |
 | 💰 Exits | **2955** |
 | 🌱 B Corps | **29** |
-| 👤 Founder profiles | **22,022** |
+| 👤 Founder profiles | **22,023** |
 | Current session | **69** |
 
 ## By source
@@ -19,7 +19,7 @@ _Auto-generated from the dataset on 2026-11-22._
 | yc | 6,414 |
 | techstars | 5,201 |
 | 500 | 2,243 |
-| antler | 1,089 |
+| antler | 1,090 |
 | sosv | 791 |
 | ef | 545 |
 | alchemist | 514 |
@@ -60,16 +60,16 @@ _Auto-generated from the dataset on 2026-11-22._
 2023  ███████████████████████████░ 1787
 2024  ████████████████████████████ 1851
 2025  █████████████████████░░░░░░░ 1418
-2026  ███████████████████░░░░░░░░░ 1242
+2026  ███████████████████░░░░░░░░░ 1243
 2027  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20
 2018.11  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1
 ```
 
 ## Top countries
-1. **United States** — 12451
+1. **United States** — 12452
 2. **Japan** — 3166
 3. **United Kingdom** — 1260
-4. **Canada** — 865
+4. **Canada** — 864
 5. **India** — 522
 6. **Singapore** — 486
 7. **Germany** — 416
@@ -85,7 +85,7 @@ _Auto-generated from the dataset on 2026-11-22._
 ## Top cities
 1. **Tokyo** — 3092
 2. **Silicon Valley** — 1960
-3. **New York City** — 409
+3. **New York City** — 410
 4. **London** — 316
 5. **San Francisco** — 181
 6. **Los Angeles** — 142
@@ -102,7 +102,7 @@ _Auto-generated from the dataset on 2026-11-22._
 ## Top programs
 1. **Plug and Play** — 6444
 2. **500 Global** — 1403
-3. **Antler** — 1089
+3. **Antler** — 1090
 4. **Entrepreneur First** — 545
 5. **YC Winter 2022** — 398
 6. **YC Summer 2021** — 390
@@ -117,16 +117,16 @@ _Auto-generated from the dataset on 2026-11-22._
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 3033
+1. **Fintech** — 3034
 2. **AI** — 1946
-3. **SaaS** — 1749
-4. **Artificial intelligence and machine learning** — 1669
+3. **SaaS** — 1751
+4. **Artificial intelligence and machine learning** — 1670
 5. **Mobile** — 1164
 6. **Consumer** — 1125
 7. **Healthcare** — 1010
 8. **Infrastructure** — 761
 9. **Developer Tools** — 749
-10. **Industrials** — 699
+10. **Industrials** — 701
 11. **Health & Longevity** — 691
 12. **Engineering, Product and Design** — 635
 13. **Insurtech** — 632
@@ -140,7 +140,7 @@ _Auto-generated from the dataset on 2026-11-22._
 
 ## By region
 1. **Americas** — 6015
-2. **United States of America** — 4789
+2. **United States of America** — 4790
 3. **Asia** — 3438
 4. **Europe** — 1028
 5. **EMEA** — 951
@@ -149,7 +149,7 @@ _Auto-generated from the dataset on 2026-11-22._
 8. **South Asia** — 264
 9. **United Kingdom** — 220
 10. **India** — 219
-11. **Canada** — 218
+11. **Canada** — 217
 12. **Latin America** — 163
 13. **Middle East** — 157
 14. **Unspecified** — 118

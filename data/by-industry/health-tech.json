@@ -10471,7 +10471,7 @@
     "id": "yc-elithia",
     "source": "yc",
     "name": "Elithia",
-    "description": "Agents for the medical review behind every claim",
+    "description": "AI-native medical opinions",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20436ab063ed4eb9cfc3c31dc2982dbc3d245463.png",
     "website": "https://elithia.com",
     "sourceUrl": "https://www.ycombinator.com/companies/elithia",
@@ -13586,163 +13586,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-health-co-stealth",
-    "source": "500",
-    "name": "Health Co (Stealth)",
-    "description": "Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.",
-    "logo": "",
-    "website": "https://unwind.me",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Health Tech",
-      "Wellness",
-      "Healthcare"
-    ],
-    "year": 2014,
-    "program": "GA 8",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Akaash Achreja",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Milan Thakor",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": [
-      "yc"
-    ]
-  },
-  {
-    "id": "500-kindara",
-    "source": "500",
-    "name": "Kindara",
-    "description": "Developer of a fertility tracking application designed to revolutionize the women's health care industry. The company's application helps women to understand their cycle by tracking ovulation calendar and menstrual cycle tracker, empowering women to learn more about their bodies, enabling users to have earlier and better conversations about their fertility journey with their healthcare providers.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b53fcb4e-4003-4270-9572-987e4db21cda.png",
-    "website": "https://kindara.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Health Tech"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "William Sacks",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Katherine Bicknell",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": [
-      "founderinstitute"
-    ]
-  },
-  {
-    "id": "500-gentem",
-    "source": "500",
-    "name": "Gentem",
-    "description": "Developer of a medical platform intended to help physicians with instant reimbursements. The company's offerings include connecting, processing and receiving payment for their claims, enabling medical practitioners to get their money without any administrative cost.",
-    "logo": "",
-    "website": "https://gentem.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Health Tech"
-    ],
-    "year": 2019,
-    "program": "GA 25",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Fisayo Ositelu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Madhav Jha",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Emmanuel Akintayo",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Manny Akintayo",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "500-neutun",
     "source": "500",
     "name": "Neutun",
@@ -13873,5 +13716,162 @@
     },
     "country": "United States",
     "alsoIn": []
+  },
+  {
+    "id": "500-gentem",
+    "source": "500",
+    "name": "Gentem",
+    "description": "Developer of a medical platform intended to help physicians with instant reimbursements. The company's offerings include connecting, processing and receiving payment for their claims, enabling medical practitioners to get their money without any administrative cost.",
+    "logo": "",
+    "website": "https://gentem.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Health Tech"
+    ],
+    "year": 2019,
+    "program": "GA 25",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Fisayo Ositelu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Madhav Jha",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Emmanuel Akintayo",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Manny Akintayo",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-kindara",
+    "source": "500",
+    "name": "Kindara",
+    "description": "Developer of a fertility tracking application designed to revolutionize the women's health care industry. The company's application helps women to understand their cycle by tracking ovulation calendar and menstrual cycle tracker, empowering women to learn more about their bodies, enabling users to have earlier and better conversations about their fertility journey with their healthcare providers.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b53fcb4e-4003-4270-9572-987e4db21cda.png",
+    "website": "https://kindara.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Health Tech"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "William Sacks",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Katherine Bicknell",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": [
+      "founderinstitute"
+    ]
+  },
+  {
+    "id": "500-health-co-stealth",
+    "source": "500",
+    "name": "Health Co (Stealth)",
+    "description": "Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.",
+    "logo": "",
+    "website": "https://unwind.me",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Health Tech",
+      "Wellness",
+      "Healthcare"
+    ],
+    "year": 2014,
+    "program": "GA 8",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Akaash Achreja",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Milan Thakor",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
   }
 ]

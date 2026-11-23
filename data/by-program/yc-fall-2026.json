@@ -614,8 +614,8 @@
     "id": "yc-collar",
     "source": "yc",
     "name": "Collar",
-    "description": "Helping Enterprises Fundraise Faster",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e0d7cba39c34a79507cb7c89d4524ddfa9de7ccf.png",
+    "description": "AI-Native Investor Relations",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bcc2083dd748d9e5e2bb9f15d6cfe10a5fbe93b3.png",
     "website": "https://usecollarai.com",
     "sourceUrl": "https://www.ycombinator.com/companies/collar",
     "location": "San Francisco, CA, USA",
@@ -1808,7 +1808,7 @@
     "id": "yc-hillstar",
     "source": "yc",
     "name": "HillStar",
-    "description": "AI that helps utilities buy power.",
+    "description": "HillStar helps utilities buy power.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
     "website": "https://hillstar.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/hillstar",
@@ -1816,6 +1816,7 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Industrials",
       "Energy",
       "AI",
       "GovTech",
@@ -2166,8 +2167,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12eef74104b6e57636a6f0d2305e3a2d18d5c2e5.png",
     "website": "https://simantic.com",
     "sourceUrl": "https://www.ycombinator.com/companies/simantic",
-    "location": "Waterloo, ON, Canada",
-    "region": "Canada",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
@@ -2215,7 +2216,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Canada",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -2287,13 +2288,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-runtime-si",
+    "id": "yc-runtime-runtime-si",
     "source": "yc",
-    "name": "Runtime.si",
-    "description": "Robots that think in simulation",
+    "name": "Runtime",
+    "description": "Fast, Reliable Agentic Robotics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
     "website": "https://runtime.si/",
-    "sourceUrl": "https://www.ycombinator.com/companies/runtimesi",
+    "sourceUrl": "https://www.ycombinator.com/companies/runtime-si",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -2319,9 +2320,16 @@
     "stage": "Early",
     "formerNames": [
       "Lambda Robotics",
-      "Runtime"
+      "Runtime.si"
     ],
     "founders": [
+      {
+        "name": "Liam Zhong",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ningze-zhong-a62917388/",
+        "bio": "Co-founder & CTO at Runtime.si. Graduate student / Researcher at UPenn GRASP Lab Program, CV, Control, and RL. Reviewer and author for CVPR, ECCV, NeurIPS, etc. Robotics@Penn.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b18316c9abbf955bffc0c60956eb1724dc4d498e.jpg"
+      },
       {
         "name": "Chen Peng",
         "role": "Co-Founder",
@@ -2336,13 +2344,6 @@
         "linkedin": "https://www.linkedin.com/in/qingyun-ying-46558235b?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "bio": "Co-founder at Runtime.si. Full-stack robotics engineer focused on robotics productization, manipulation, and manufacturing.MechE @ Penn.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3abf1241b0a3a88b9721dba23ce1cce5e431f5ea.jpg"
-      },
-      {
-        "name": "Liam Zhong",
-        "role": "Founder/CTO",
-        "linkedin": "https://www.linkedin.com/in/ningze-zhong-a62917388/",
-        "bio": "Co-founder & CTO at Runtime.si. Graduate student / Researcher at UPenn GRASP Lab Program, CV, Control, and RL. Reviewer and author for CVPR, ECCV, NeurIPS, etc. Robotics@Penn.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b18316c9abbf955bffc0c60956eb1724dc4d498e.jpg"
       }
     ],
     "social": {
@@ -3092,9 +3093,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Industrials",
       "Swarm AI",
-      "AI"
+      "AI",
+      "Industrials"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -5294,7 +5295,7 @@
     "id": "yc-truemile",
     "source": "yc",
     "name": "TrueMile",
-    "description": "The trucking company run by AI agents.",
+    "description": "AI-native trucking company",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94408cc02a79b94fd281d47aabc0056465683df6.png",
     "website": "https://TrueMile.AI/",
     "sourceUrl": "https://www.ycombinator.com/companies/truemile",
@@ -7725,7 +7726,7 @@
     "id": "yc-telamont",
     "source": "yc",
     "name": "Telamont",
-    "description": "Sentry for errors in construction documents",
+    "description": "AI that catches errors in construction documents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/91ca6e13f61dd82bb7d60aab67dcbaec5b7eab25.png",
     "website": "https://telamont.com",
     "sourceUrl": "https://www.ycombinator.com/companies/telamont",
@@ -11052,7 +11053,7 @@
     "id": "yc-elithia",
     "source": "yc",
     "name": "Elithia",
-    "description": "Agents for the medical review behind every claim",
+    "description": "AI-native medical opinions",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20436ab063ed4eb9cfc3c31dc2982dbc3d245463.png",
     "website": "https://elithia.com",
     "sourceUrl": "https://www.ycombinator.com/companies/elithia",
@@ -11798,7 +11799,7 @@
     "name": "BioDelivera",
     "description": "Programmable drug delivery precisely targets only diseased cells",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/103574b8d0b5907b8788ed0e0c0ce09af40e81be.png",
-    "website": "https://biodelivera.com/",
+    "website": "https://biodelivera.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/biodelivera",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -11860,7 +11861,7 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1ee4cc24084cdd9a8a0fe0d70982248244d6fd3a.png",
     "website": "https://www.redoubt.insure",
     "sourceUrl": "https://www.ycombinator.com/companies/redoubt-insurance",
-    "location": "Salt Lake City, UT, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -11905,7 +11906,7 @@
     "id": "yc-lark-larkagents-com",
     "source": "yc",
     "name": "Lark",
-    "description": "AI agents that automate workflows for distributors",
+    "description": "AI native operating system for distributors ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/658417946c5809d1681eb90f9636442c2526cc5c.png",
     "website": "https://larkagents.com",
     "sourceUrl": "https://www.ycombinator.com/companies/lark-2",

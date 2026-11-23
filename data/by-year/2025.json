@@ -582,10 +582,10 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "tags": [
+      "Space tech",
       "Cybersecurity",
       "Internet of Things",
-      "SaaS",
-      "Space tech"
+      "SaaS"
     ],
     "year": 2025,
     "program": "Techstars Space Accelerator",
@@ -2643,7 +2643,9 @@
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Beauty"
+      "Beauty",
+      "Big Data",
+      "SaaS"
     ],
     "year": 2025,
     "program": "Techstars London Accelerator",
@@ -5255,15 +5257,16 @@
     "id": "techstars-technovatime",
     "source": "techstars",
     "name": "Technovatime",
-    "description": "TechNovaTime helps healthcare providers reduce revenue cycle delays and administrative burden by using HIPAA-compliant AI voice agents to automate claim status checks, prior authorizations, and payer calls--cutting cycle time and freeing staff from manual",
+    "description": "TechNovaTime builds the Enterprise Health Ontology, a memory layer that captures how a health system's best people actually do the work (their decisions and rules) so digital employees can run that work reliably inside the systems hospitals already use.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9df3e310b19b472d664b178d2.png",
     "website": "https://technovatime.com",
-    "location": "Pompton Lakes, New Jersey, United States",
+    "location": "New York City, New York, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
       "Artificial intelligence and machine learning",
-      "Digital health"
+      "Digital health",
+      "SaaS"
     ],
     "year": 2025,
     "program": "Techstars AI Health Baltimore",
@@ -5282,8 +5285,8 @@
       "crunchbase": ""
     },
     "extra": {
-      "city": "Pompton Lakes",
-      "state_province": "New Jersey",
+      "city": "New York City",
+      "state_province": "New York",
       "country": "United States"
     },
     "country": "United States",
@@ -5752,16 +5755,17 @@
     "id": "techstars-okkanti",
     "source": "techstars",
     "name": "Okkanti",
-    "description": "Okkanti is a whole health pregnancy care platform that enables a community-ecosystem approach to caring for diverse populations.",
+    "description": "Okkanti helps families actually get the Maternity and Infant Care that they need (and are covered for)",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_415ce796d906bb695c11ac4d0.png",
     "website": "https://okkanti.com",
     "location": "Madison, Wisconsin, United States",
     "region": "Americas",
     "subregion": "North America",
     "tags": [
-      "Digital health",
       "Femtech",
-      "Healthtech"
+      "Fintech",
+      "Healthtech",
+      "Digital health"
     ],
     "year": 2025,
     "program": "Techstars Columbus Powered by The Ohio State University",
@@ -5800,6 +5804,7 @@
     "tags": [
       "Artificial intelligence and machine learning",
       "Audiotech",
+      "Cybersecurity",
       "SaaS",
       "Technology, media and telecommunications"
     ],
@@ -7130,6 +7135,9 @@
     "region": "Americas",
     "subregion": "North America",
     "tags": [
+      "Artificial intelligence and machine learning",
+      "Edtech",
+      "HRtech",
       "SaaS"
     ],
     "year": 2025,
@@ -13388,13 +13396,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-10x",
+    "id": "yc-10x-dental",
     "source": "yc",
-    "name": "10x",
+    "name": "10x Dental",
     "description": "AI Sales Teams for Dental Practices",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba966c23157e18273203c5a895b88637e3e4b8e0.png",
     "website": "https://www.10xdental.com/",
-    "sourceUrl": "https://www.ycombinator.com/companies/10x",
+    "sourceUrl": "https://www.ycombinator.com/companies/10x-dental",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -13417,7 +13425,8 @@
     "formerNames": [
       "GradeWIz",
       "Gradewiz",
-      "GradeWiz"
+      "GradeWiz",
+      "10x"
     ],
     "founders": [
       {
@@ -64427,6 +64436,12 @@
         "name": "Aditya Agrawal",
         "role": "Co-founder",
         "linkedin": "https://linkedin.com/in/adi-agrawal-122559167"
+      },
+      {
+        "name": "Dmitri Mirakyan",
+        "role": "CTO",
+        "linkedin": "https://linkedin.com/in/dmirakyan",
+        "avatar": "https://cdn.a16zspeedrun.com/platform/founders/a8e905fa-3947-41c0-b0a4-48e97ced168f/images/DSC00880_copy.jpg"
       },
       {
         "name": "Dmitri M",

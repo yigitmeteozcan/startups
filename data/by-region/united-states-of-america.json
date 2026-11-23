@@ -98870,7 +98870,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 35,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "formerNames": [
       "Drip"
@@ -146728,7 +146728,7 @@
     "id": "yc-quindar",
     "source": "yc",
     "name": "Quindar",
-    "description": "Datadog for Space",
+    "description": "Infrastructure for Space",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bab55689155fe5f27aa4e87f73ddcae81fde5f8b.png",
     "website": "https://www.quindar.space",
     "sourceUrl": "https://www.ycombinator.com/companies/quindar",
@@ -146739,7 +146739,8 @@
       "SaaS",
       "Space Exploration",
       "Satellites",
-      "Aerospace"
+      "Aerospace",
+      "Defense"
     ],
     "year": 2022,
     "program": "YC Summer 2022",
@@ -146751,9 +146752,9 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 57,
+    "teamSize": 91,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [
       {
         "name": "Nate Hamet",
@@ -156850,7 +156851,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Namrata Anand",
@@ -160597,7 +160598,7 @@
     "id": "yc-ora-ai",
     "source": "yc",
     "name": "Ora AI",
-    "description": "The AI Platform for Healthcare Education",
+    "description": "Precision Education for Healthcare",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e986c79fdf04d121008f6f06d79ac622e40609d2.png",
     "website": "https://www.oraai.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/ora-ai",
@@ -171341,7 +171342,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 11,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "formerNames": [
       "Vectorview"
@@ -178467,7 +178468,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 4,
+    "teamSize": 6,
     "isHiring": true,
     "stage": "Early",
     "formerNames": [
@@ -181167,7 +181168,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 15,
+    "teamSize": 50,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -184531,7 +184532,7 @@
     "status": "active",
     "teamSize": 450,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "formerNames": [
       "Corgi Insurance"
     ],
@@ -202630,13 +202631,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-10x",
+    "id": "yc-10x-dental",
     "source": "yc",
-    "name": "10x",
+    "name": "10x Dental",
     "description": "AI Sales Teams for Dental Practices",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba966c23157e18273203c5a895b88637e3e4b8e0.png",
     "website": "https://www.10xdental.com/",
-    "sourceUrl": "https://www.ycombinator.com/companies/10x",
+    "sourceUrl": "https://www.ycombinator.com/companies/10x-dental",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -202659,7 +202660,8 @@
     "formerNames": [
       "GradeWIz",
       "Gradewiz",
-      "GradeWiz"
+      "GradeWiz",
+      "10x"
     ],
     "founders": [
       {
@@ -230648,7 +230650,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Industrials"
+      "Industrials",
+      "Reinforcement Learning",
+      "Manufacturing"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -245758,7 +245762,7 @@
     "source": "yc",
     "name": "tday.com",
     "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/85798362f9c91ba42628f6a28d4011b747a9c69d.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cf0ab54011ff6085db65df6f056d30faef43fd5f.png",
     "website": "https://tday.com",
     "sourceUrl": "https://www.ycombinator.com/companies/tdaycom",
     "location": "San Francisco, CA, USA",
@@ -246050,8 +246054,8 @@
     "id": "yc-collar",
     "source": "yc",
     "name": "Collar",
-    "description": "Helping Enterprises Fundraise Faster",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e0d7cba39c34a79507cb7c89d4524ddfa9de7ccf.png",
+    "description": "AI-Native Investor Relations",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bcc2083dd748d9e5e2bb9f15d6cfe10a5fbe93b3.png",
     "website": "https://usecollarai.com",
     "sourceUrl": "https://www.ycombinator.com/companies/collar",
     "location": "San Francisco, CA, USA",
@@ -247957,7 +247961,7 @@
     "alsoIn": []
   },
   {
-    "id": "yc-runtime",
+    "id": "yc-runtime-runtm-com",
     "source": "yc",
     "name": "Runtime",
     "description": "The AI agent harness for payment teams",
@@ -255384,9 +255388,9 @@
     "id": "yc-graphify-labs",
     "source": "yc",
     "name": "Graphify Labs",
-    "description": "Shared Understanding of Codebase for Agents and Developers ",
+    "description": "Shared Context of Codebase for Agents and Developers ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/827fabd6e00bab1febd0feb00c906a6a3809b989.png",
-    "website": "https://www.graphify.com/",
+    "website": "https://graphify.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/graphify-labs",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -260090,7 +260094,7 @@
     "id": "yc-hillstar",
     "source": "yc",
     "name": "HillStar",
-    "description": "AI that helps utilities buy power.",
+    "description": "HillStar helps utilities buy power.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
     "website": "https://hillstar.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/hillstar",
@@ -260098,6 +260102,7 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Industrials",
       "Energy",
       "AI",
       "GovTech",
@@ -261332,6 +261337,66 @@
     "alsoIn": []
   },
   {
+    "id": "yc-simantic",
+    "source": "yc",
+    "name": "Simantic",
+    "description": "Firmware simulation for AI agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12eef74104b6e57636a6f0d2305e3a2d18d5c2e5.png",
+    "website": "https://simantic.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/simantic",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "Hardware",
+      "Semiconductors",
+      "Electronics",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Seungmin Hong",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/shong0504",
+        "twitter": "https://x.com/shong0504",
+        "bio": "Founder at Simantic (YC F26). Previously firmware engineer at Tesla, Simbe Robotics, and Rapyuta Robotics. ML at Ericsson. BASc Computer Engineering from University of Waterloo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/dc234bdf0e7d060cf24bf13d252ce7311c2e3ce0.jpg"
+      },
+      {
+        "name": "Ahnaf Shahriar",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ahnaf-s",
+        "twitter": "https://x.com/enough_ahnaf",
+        "bio": "Founder at Simantic (YC F26). Previously Embedded Software Engineer at Neuralink (Implant/Charger) and AI Hardware Engineer at Tesla (Dojo/Autopilot). Computer Engineer from the University of Waterloo.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7d91d8988fc211a1d486d15228c422801d7cf268.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-conifer",
     "source": "yc",
     "name": "Conifer",
@@ -261527,13 +261592,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-runtime-si",
+    "id": "yc-runtime-runtime-si",
     "source": "yc",
-    "name": "Runtime.si",
-    "description": "Robots that think in simulation",
+    "name": "Runtime",
+    "description": "Fast, Reliable Agentic Robotics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
     "website": "https://runtime.si/",
-    "sourceUrl": "https://www.ycombinator.com/companies/runtimesi",
+    "sourceUrl": "https://www.ycombinator.com/companies/runtime-si",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -261559,9 +261624,16 @@
     "stage": "Early",
     "formerNames": [
       "Lambda Robotics",
-      "Runtime"
+      "Runtime.si"
     ],
     "founders": [
+      {
+        "name": "Liam Zhong",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ningze-zhong-a62917388/",
+        "bio": "Co-founder & CTO at Runtime.si. Graduate student / Researcher at UPenn GRASP Lab Program, CV, Control, and RL. Reviewer and author for CVPR, ECCV, NeurIPS, etc. Robotics@Penn.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b18316c9abbf955bffc0c60956eb1724dc4d498e.jpg"
+      },
       {
         "name": "Chen Peng",
         "role": "Co-Founder",
@@ -261576,13 +261648,6 @@
         "linkedin": "https://www.linkedin.com/in/qingyun-ying-46558235b?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "bio": "Co-founder at Runtime.si. Full-stack robotics engineer focused on robotics productization, manipulation, and manufacturing.MechE @ Penn.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3abf1241b0a3a88b9721dba23ce1cce5e431f5ea.jpg"
-      },
-      {
-        "name": "Liam Zhong",
-        "role": "Founder/CTO",
-        "linkedin": "https://www.linkedin.com/in/ningze-zhong-a62917388/",
-        "bio": "Co-founder & CTO at Runtime.si. Graduate student / Researcher at UPenn GRASP Lab Program, CV, Control, and RL. Reviewer and author for CVPR, ECCV, NeurIPS, etc. Robotics@Penn.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b18316c9abbf955bffc0c60956eb1724dc4d498e.jpg"
       }
     ],
     "social": {
@@ -262173,9 +262238,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Industrials",
       "Swarm AI",
-      "AI"
+      "AI",
+      "Industrials"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -264081,7 +264146,7 @@
     "id": "yc-truemile",
     "source": "yc",
     "name": "TrueMile",
-    "description": "The trucking company run by AI agents.",
+    "description": "AI-native trucking company",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94408cc02a79b94fd281d47aabc0056465683df6.png",
     "website": "https://TrueMile.AI/",
     "sourceUrl": "https://www.ycombinator.com/companies/truemile",
@@ -266340,7 +266405,7 @@
     "id": "yc-telamont",
     "source": "yc",
     "name": "Telamont",
-    "description": "Sentry for errors in construction documents",
+    "description": "AI that catches errors in construction documents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/91ca6e13f61dd82bb7d60aab67dcbaec5b7eab25.png",
     "website": "https://telamont.com",
     "sourceUrl": "https://www.ycombinator.com/companies/telamont",
@@ -269396,7 +269461,7 @@
     "id": "yc-elithia",
     "source": "yc",
     "name": "Elithia",
-    "description": "Agents for the medical review behind every claim",
+    "description": "AI-native medical opinions",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20436ab063ed4eb9cfc3c31dc2982dbc3d245463.png",
     "website": "https://elithia.com",
     "sourceUrl": "https://www.ycombinator.com/companies/elithia",
@@ -269963,7 +270028,7 @@
     "name": "BioDelivera",
     "description": "Programmable drug delivery precisely targets only diseased cells",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/103574b8d0b5907b8788ed0e0c0ce09af40e81be.png",
-    "website": "https://biodelivera.com/",
+    "website": "https://biodelivera.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/biodelivera",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -270025,7 +270090,7 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1ee4cc24084cdd9a8a0fe0d70982248244d6fd3a.png",
     "website": "https://www.redoubt.insure",
     "sourceUrl": "https://www.ycombinator.com/companies/redoubt-insurance",
-    "location": "Salt Lake City, UT, USA",
+    "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -270070,7 +270135,7 @@
     "id": "yc-lark-larkagents-com",
     "source": "yc",
     "name": "Lark",
-    "description": "AI agents that automate workflows for distributors",
+    "description": "AI native operating system for distributors ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/658417946c5809d1681eb90f9636442c2526cc5c.png",
     "website": "https://larkagents.com",
     "sourceUrl": "https://www.ycombinator.com/companies/lark-2",
@@ -271657,7 +271722,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 5,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [

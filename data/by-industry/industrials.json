@@ -24947,7 +24947,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Industrials"
+      "Industrials",
+      "Reinforcement Learning",
+      "Manufacturing"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -30986,6 +30988,63 @@
     "alsoIn": []
   },
   {
+    "id": "yc-hillstar",
+    "source": "yc",
+    "name": "HillStar",
+    "description": "HillStar helps utilities buy power.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
+    "website": "https://hillstar.ai",
+    "sourceUrl": "https://www.ycombinator.com/companies/hillstar",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Energy",
+      "AI",
+      "GovTech",
+      "Big Data"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Nooshin Behroyan",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/nooshinbehroyan",
+        "bio": "Founder at HillStar. Previously founded and scaled Paxon Energy from zero to a nationally recognized energy-infrastructure services company serving major U.S. utilities across methane recapture, wildfire mitigation, and oil & gas pipeline integrity management solutions—successfully exited in 2025.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f201389d3770c886b57395cd2c8696f3544a02f3.jpg"
+      },
+      {
+        "name": "Kenny Stone",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/kenny-stone-a239a4a/",
+        "bio": "Cofounder, CTO at HillStar. Previously, I cofounded PlanGrid (YC W12 – acquired by Autodesk), where we introduced mobile technology and machine learning to the construction industry. Computer Engineering from Purdue.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2099009940fb36621652efc9751564ca62be21fa.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-vernius-systems-inc",
     "source": "yc",
     "name": "Vernius Systems, Inc.",
@@ -31280,13 +31339,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-runtime-si",
+    "id": "yc-runtime-runtime-si",
     "source": "yc",
-    "name": "Runtime.si",
-    "description": "Robots that think in simulation",
+    "name": "Runtime",
+    "description": "Fast, Reliable Agentic Robotics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
     "website": "https://runtime.si/",
-    "sourceUrl": "https://www.ycombinator.com/companies/runtimesi",
+    "sourceUrl": "https://www.ycombinator.com/companies/runtime-si",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
@@ -31312,9 +31371,16 @@
     "stage": "Early",
     "formerNames": [
       "Lambda Robotics",
-      "Runtime"
+      "Runtime.si"
     ],
     "founders": [
+      {
+        "name": "Liam Zhong",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/ningze-zhong-a62917388/",
+        "bio": "Co-founder & CTO at Runtime.si. Graduate student / Researcher at UPenn GRASP Lab Program, CV, Control, and RL. Reviewer and author for CVPR, ECCV, NeurIPS, etc. Robotics@Penn.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b18316c9abbf955bffc0c60956eb1724dc4d498e.jpg"
+      },
       {
         "name": "Chen Peng",
         "role": "Co-Founder",
@@ -31329,13 +31395,6 @@
         "linkedin": "https://www.linkedin.com/in/qingyun-ying-46558235b?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "bio": "Co-founder at Runtime.si. Full-stack robotics engineer focused on robotics productization, manipulation, and manufacturing.MechE @ Penn.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3abf1241b0a3a88b9721dba23ce1cce5e431f5ea.jpg"
-      },
-      {
-        "name": "Liam Zhong",
-        "role": "Founder/CTO",
-        "linkedin": "https://www.linkedin.com/in/ningze-zhong-a62917388/",
-        "bio": "Co-founder & CTO at Runtime.si. Graduate student / Researcher at UPenn GRASP Lab Program, CV, Control, and RL. Reviewer and author for CVPR, ECCV, NeurIPS, etc. Robotics@Penn.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/b18316c9abbf955bffc0c60956eb1724dc4d498e.jpg"
       }
     ],
     "social": {
@@ -31482,9 +31541,9 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Industrials",
       "Swarm AI",
-      "AI"
+      "AI",
+      "Industrials"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -33837,7 +33896,7 @@
     "id": "yc-lark-larkagents-com",
     "source": "yc",
     "name": "Lark",
-    "description": "AI agents that automate workflows for distributors",
+    "description": "AI native operating system for distributors ",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/658417946c5809d1681eb90f9636442c2526cc5c.png",
     "website": "https://larkagents.com",
     "sourceUrl": "https://www.ycombinator.com/companies/lark-2",
@@ -34847,9 +34906,9 @@
     "id": "antler-akar-farm",
     "source": "antler",
     "name": "Akar Farm",
-    "description": "AI Fullstack for Modular Indoor Farming and Urban Farm",
+    "description": "AKAR builds and operates container farms and greenhouses for hot climates, with their proprietary AKAR OS monitoring system..",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d95649e1c214868cfd8_portfolio%252Fcompany%252Fde57d13c-60f9-4c83-ba0b-5d3e24a3c32a%252F1725422033479-logo.png",
-    "website": "https://www.akarfarm.com",
+    "website": "https://akarfarm.com/",
     "location": "Indonesia",
     "region": "",
     "subregion": "",
@@ -35474,6 +35533,42 @@
       "country": "Canada"
     },
     "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-geospan",
+    "source": "antler",
+    "name": "Geospan",
+    "description": "The physical AI harness for industrial sites",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69be9c049b28d40bb651d553_teams%252F9ffb2e9b-5e03-43bd-a635-6ed1d065f064%252Flogos%252Fgeospan_spite-aBqRtAVX.png",
+    "website": "https://www.geospan.ai/",
+    "location": "Australia",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Mobility"
+    ],
+    "year": 2026,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Australia"
+    },
+    "country": "Australia",
     "alsoIn": []
   },
   {

@@ -4565,7 +4565,7 @@
     "id": "yc-elithia",
     "source": "yc",
     "name": "Elithia",
-    "description": "Agents for the medical review behind every claim",
+    "description": "AI-native medical opinions",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/20436ab063ed4eb9cfc3c31dc2982dbc3d245463.png",
     "website": "https://elithia.com",
     "sourceUrl": "https://www.ycombinator.com/companies/elithia",
@@ -5599,6 +5599,50 @@
     "alsoIn": []
   },
   {
+    "id": "500-willing",
+    "source": "500",
+    "name": "Willing",
+    "description": "Provider of a platform designed to create legal will online. The company's platform offers an online tool for the user to create a will or living will in minutes and help users to find and compare costs for funeral homes and cemeteries, enabling users to protect their family, property and save their time and money.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28746df8-87d9-40d4-8263-7e678688fc4f.png",
+    "website": "https://willing.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Legal"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Eliam Medina",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": [
+      "yc"
+    ]
+  },
+  {
     "id": "500-classaction",
     "source": "500",
     "name": "ClassAction",
@@ -5649,49 +5693,5 @@
     },
     "country": "Japan",
     "alsoIn": []
-  },
-  {
-    "id": "500-willing",
-    "source": "500",
-    "name": "Willing",
-    "description": "Provider of a platform designed to create legal will online. The company's platform offers an online tool for the user to create a will or living will in minutes and help users to find and compare costs for funeral homes and cemeteries, enabling users to protect their family, property and save their time and money.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28746df8-87d9-40d4-8263-7e678688fc4f.png",
-    "website": "https://willing.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Legal"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Eliam Medina",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": [
-      "yc"
-    ]
   }
 ]
