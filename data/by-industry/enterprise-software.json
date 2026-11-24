@@ -3337,6 +3337,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Contour AI"
+    ],
     "founders": [
       {
         "name": "Arvind Subramanian",
@@ -6523,7 +6526,7 @@
     "id": "yc-skillsync",
     "source": "yc",
     "name": "Skillsync",
-    "description": "Search your agent session history",
+    "description": "Substack for agent skills",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74db8ee9ac823e859d8f4544a01d6e33b5507273.png",
     "website": "https://skillsync.com",
     "sourceUrl": "https://www.ycombinator.com/companies/skillsync",
@@ -6531,11 +6534,13 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design",
+      "Consumer",
+      "Content",
       "AIOps",
       "Developer Tools",
       "Enterprise Software",
-      "AI"
+      "AI",
+      "Engineering, Product and Design"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -8160,7 +8165,7 @@
     "id": "yc-byteask",
     "source": "yc",
     "name": "ByteAsk",
-    "description": "The AI coding agent for C, C++ and CUDA",
+    "description": "Software factory for C, C++ and CUDA",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
     "website": "https://byteask.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/byteask",

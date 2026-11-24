@@ -41846,9 +41846,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "teamSize": 4,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "Discz Music Inc.",
@@ -50798,6 +50798,56 @@
     "alsoIn": []
   },
   {
+    "id": "yc-agentjam",
+    "source": "yc",
+    "name": "AgentJam",
+    "description": "The Internet of AI Agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eb123db0025f08e8253b49c51c1be59ebe00bbec.png",
+    "website": "https://agentjam.com/",
+    "sourceUrl": "https://www.ycombinator.com/companies/agentjam",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer"
+    ],
+    "year": 2025,
+    "program": "YC Winter 2025",
+    "programSlugs": [
+      "yc-winter-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
+    "formerNames": [
+      "Stamp"
+    ],
+    "founders": [
+      {
+        "name": "Archit Mehta",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/4architmehta",
+        "bio": "Stamp CEO. Previously graduated at 20, built products with 50k+ users, Software Engineer at Stripe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/70440c5325cf760c66e43f447d00331f90428675.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "firstSeen": "2026-11-24",
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-karoo",
     "source": "yc",
     "name": "Karoo",
@@ -53497,7 +53547,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 8,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -53886,6 +53936,67 @@
     },
     "extra": {},
     "country": "France",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-skillsync",
+    "source": "yc",
+    "name": "Skillsync",
+    "description": "Substack for agent skills",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74db8ee9ac823e859d8f4544a01d6e33b5507273.png",
+    "website": "https://skillsync.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/skillsync",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Content",
+      "AIOps",
+      "Developer Tools",
+      "Enterprise Software",
+      "AI",
+      "Engineering, Product and Design"
+    ],
+    "year": 2026,
+    "program": "YC Winter 2026",
+    "programSlugs": [
+      "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Narayana Aaditya Ganeshkumar",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/narayanaaaditya/",
+        "twitter": "https://x.com/narsagna",
+        "bio": "Co-founder & CEO of Skillsync. I helped take an open-source Rust project from zero to 30k+ GitHub stars and saw firsthand how many world-class engineers are hiding in the long tail of open source. My background is at the intersection of engineering, product, and organizational psychology. Software is a team sport and I'm building Skillsync to bring the best out of engineering teams!",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/348038e9c3ae2025087a7cc740d6b0e3261ee6b4.jpg"
+      },
+      {
+        "name": "Nishant Joshi",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/nishantjosh",
+        "twitter": "https://x.com/nishantjosh",
+        "bio": "Co-Founder CTO @ SkillSync Inc. | Top 1% Rust dev. Went from building type-safe payment infra to people search. Now fixing how companies find engineers like me.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/40dcbdecc855a465821362dbf4aa20ffdbf5783b.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -54297,7 +54408,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 4,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -55137,20 +55248,23 @@
     "id": "yc-egoist-machines",
     "source": "yc",
     "name": "Egoist Machines",
-    "description": "Your personal context, securely portable across every AI app.",
+    "description": "Own your AI context. Ink, our first app, makes drafts sound like you",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cfd986a9205506ed6e96b2903d048ce2aa98626d.png",
-    "website": "https://ego.ist/",
+    "website": "https://ink.ego.ist/",
     "sourceUrl": "https://www.ycombinator.com/companies/egoist-machines",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
     "subregion": "",
     "tags": [
+      "Productivity",
+      "Generative AI",
       "Consumer",
+      "SEO",
+      "AI Assistant",
       "Hardware",
       "Personalization",
       "Privacy",
-      "Consumer Products",
-      "AI Assistant"
+      "Consumer Products"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -55162,7 +55276,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -55193,7 +55307,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "United States",
+    "country": "United Kingdom",
     "alsoIn": []
   },
   {
@@ -56333,7 +56447,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -56824,7 +56938,7 @@
     "name": "Godpack",
     "description": "The marketplace for internet culture.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/efed4a76a2a7ec64512d28d0184feb711e11215b.png",
-    "website": "http://godpack.com/",
+    "website": "http://godpack.com",
     "sourceUrl": "https://www.ycombinator.com/companies/godpack",
     "location": "New York City, NY, USA",
     "region": "United States of America",

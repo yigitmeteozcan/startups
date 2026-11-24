@@ -21546,7 +21546,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 11,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "Vectorview"
@@ -32749,7 +32749,7 @@
     "id": "yc-skillsync",
     "source": "yc",
     "name": "Skillsync",
-    "description": "Search your agent session history",
+    "description": "Substack for agent skills",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74db8ee9ac823e859d8f4544a01d6e33b5507273.png",
     "website": "https://skillsync.com",
     "sourceUrl": "https://www.ycombinator.com/companies/skillsync",
@@ -32757,11 +32757,13 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design",
+      "Consumer",
+      "Content",
       "AIOps",
       "Developer Tools",
       "Enterprise Software",
-      "AI"
+      "AI",
+      "Engineering, Product and Design"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -32812,8 +32814,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2fa726d414c3f4d378fa6af116bb14e3abb29e0f.png",
     "website": "https://sparkles.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/sparkles",
-    "location": "London, England, United Kingdom",
-    "region": "United Kingdom",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design"
@@ -32852,7 +32854,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "United Kingdom",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -35407,7 +35409,7 @@
     "id": "yc-mirrors",
     "source": "yc",
     "name": "Mirrors",
-    "description": "Give AI agents situation-specific context",
+    "description": "Real-time steering for production AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/mirrors",
@@ -35527,7 +35529,7 @@
     "id": "yc-byteask",
     "source": "yc",
     "name": "ByteAsk",
-    "description": "The AI coding agent for C, C++ and CUDA",
+    "description": "Software factory for C, C++ and CUDA",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
     "website": "https://byteask.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/byteask",
@@ -36056,7 +36058,7 @@
     "id": "yc-composal",
     "source": "yc",
     "name": "Composal",
-    "description": "Always-on agents that don't need to be prompted",
+    "description": "Always-on agents that don't wait to be prompted",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5e1f6f0a97f11c72c78bdc6875df0e065a154770.png",
     "website": "https://composal.com",
     "sourceUrl": "https://www.ycombinator.com/companies/composal",

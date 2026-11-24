@@ -6175,7 +6175,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
@@ -10291,7 +10291,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 11,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "Vectorview"
@@ -13350,6 +13350,63 @@
     "alsoIn": []
   },
   {
+    "id": "yc-enjamb-labs",
+    "source": "yc",
+    "name": "Enjamb Labs",
+    "description": "Earned Intelligence. Data, RL environments and custom models",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eb32d60ea4c36f3aa1c2bcee107868ffa450011b.png",
+    "website": "https://www.enjamb.ai",
+    "sourceUrl": "https://www.ycombinator.com/companies/enjamb-labs",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Robotics",
+      "AI",
+      "SaaS",
+      "Biotech",
+      "Automation"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "formerNames": [
+      "Enjamb Labs Inc",
+      "Enjamb"
+    ],
+    "founders": [
+      {
+        "name": "Rayan Mubarak",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/rayanmubarak/",
+        "twitter": "https://x.com/rayannmubarak",
+        "bio": "Co-founder of Enjamb. I'm an ML and biology researcher. At 17, I published a first-author cancer ML paper in JMIR that beat SOTA models by 20%. Previously, I researched drug therapeutics for pesticide poisoning (30% more effective) and presented at top bio conferences (SOT, ISCB).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/3051be1dd51ca5887a4a57b988def17442882bb2.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-rekursiv-ai",
     "source": "yc",
     "name": "rekursiv.ai",
@@ -13702,9 +13759,10 @@
     "tags": [
       "Hardware",
       "Machine Learning",
-      "Robotics",
+      "Reinforcement Learning",
       "Electronics",
-      "AI"
+      "AI",
+      "Robotics"
     ],
     "year": 2026,
     "program": "YC Fall 2026",

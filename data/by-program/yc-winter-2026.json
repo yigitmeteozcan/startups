@@ -3370,7 +3370,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "formerNames": [
       "FISSION"
@@ -4135,7 +4135,7 @@
     "id": "yc-skillsync",
     "source": "yc",
     "name": "Skillsync",
-    "description": "Search your agent session history",
+    "description": "Substack for agent skills",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74db8ee9ac823e859d8f4544a01d6e33b5507273.png",
     "website": "https://skillsync.com",
     "sourceUrl": "https://www.ycombinator.com/companies/skillsync",
@@ -4143,11 +4143,13 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design",
+      "Consumer",
+      "Content",
       "AIOps",
       "Developer Tools",
       "Enterprise Software",
-      "AI"
+      "AI",
+      "Engineering, Product and Design"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -4924,8 +4926,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2fa726d414c3f4d378fa6af116bb14e3abb29e0f.png",
     "website": "https://sparkles.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/sparkles",
-    "location": "London, England, United Kingdom",
-    "region": "United Kingdom",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design"
@@ -4964,7 +4966,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "United Kingdom",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -7948,7 +7950,7 @@
     "id": "yc-constellation-space",
     "source": "yc",
     "name": "Constellation Space",
-    "description": "AI operating system for mega-scale satellite networks. ",
+    "description": "Physics-grounded autonomy for satellite link forecasts and fleet ops.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
     "website": "https://constellation.space/",
     "sourceUrl": "https://www.ycombinator.com/companies/constellation-space",
@@ -7968,7 +7970,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 4,
+    "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -8835,7 +8837,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 4,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -9560,7 +9562,7 @@
     "source": "yc",
     "name": "Grade",
     "description": "The AI agent for affiliate and creator programs.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9c4664428c3dccae4a32ebf9d12aab6f7983b56d.png",
     "website": "https://usegrade.com",
     "sourceUrl": "https://www.ycombinator.com/companies/grade",
     "location": "San Francisco, CA, USA",

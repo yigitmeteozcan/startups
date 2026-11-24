@@ -153950,7 +153950,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
@@ -171659,7 +171659,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 3,
+    "teamSize": 15,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -171723,7 +171723,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
@@ -189527,7 +189527,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "teamSize": 9,
     "isHiring": false,
     "stage": "Early",
@@ -195300,8 +195300,8 @@
     "source": "yc",
     "name": "Material Depot",
     "description": "India's Fastest Growing Home Decor destination for Floor & Wall Decor",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a662852a35aa588b121563de0be00dcfacd66749.png",
-    "website": "https://materialdepot.in/",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b93b630f5e3f2ded42f770efeaa47026d9085c15.png",
+    "website": "https://materialdepot.com",
     "sourceUrl": "https://www.ycombinator.com/companies/material-depot",
     "location": "Bengaluru, KA, India",
     "region": "India",
@@ -198826,9 +198826,9 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "teamSize": 4,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "Discz Music Inc.",
@@ -212317,7 +212317,7 @@
     "status": "active",
     "teamSize": 91,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Nate Hamet",
@@ -235447,6 +235447,9 @@
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Contour AI"
+    ],
     "founders": [
       {
         "name": "Arvind Subramanian",
@@ -247908,7 +247911,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 11,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "Vectorview"
@@ -248522,7 +248525,7 @@
     "source": "yc",
     "name": "Argon AI, Inc.",
     "description": "AI for Pharma Intelligence ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/422284c71061c1b13b2dea760955ab9a3fa6d01a.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/136919ac18ebcc09ed9e1f93757b2c8fa8222594.png",
     "website": "https://www.argon-ai.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/argon-ai-inc",
     "location": "New York City, NY, USA",
@@ -259264,7 +259267,7 @@
     "id": "yc-junction-bioscience",
     "source": "yc",
     "name": "Junction Bioscience",
-    "description": "Industrializing structural biology: from months to minutes",
+    "description": "Industrializing structural biology",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3c382f7f1170e4d96b382d69430f2fc2c9fffe94.png",
     "website": "https://www.junction.bio/",
     "sourceUrl": "https://www.ycombinator.com/companies/junction-bioscience",
@@ -264493,7 +264496,7 @@
     "name": "NetworkOcean",
     "description": "We build floating solar data centers",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4ea43063c4846025feacfa937099e20519f804c8.png",
-    "website": "https://networkocean.io/",
+    "website": "https://networkocean.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/networkocean",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -264518,7 +264521,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 4,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -279005,7 +279008,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 3,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -282378,18 +282381,18 @@
     "alsoIn": []
   },
   {
-    "id": "yc-stamp",
+    "id": "yc-agentjam",
     "source": "yc",
-    "name": "Stamp",
-    "description": "The AI Secretary for Email and Calendar.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ec77fe8f30c765884c0359fdaafcf0412168dd15.png",
-    "website": "https://www.stampmail.ai/",
-    "sourceUrl": "https://www.ycombinator.com/companies/stamp",
+    "name": "AgentJam",
+    "description": "The Internet of AI Agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eb123db0025f08e8253b49c51c1be59ebe00bbec.png",
+    "website": "https://agentjam.com/",
+    "sourceUrl": "https://www.ycombinator.com/companies/agentjam",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Productivity"
+      "Consumer"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -282404,6 +282407,9 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Stamp"
+    ],
     "founders": [
       {
         "name": "Archit Mehta",
@@ -282420,6 +282426,7 @@
       "crunchbase": ""
     },
     "extra": {},
+    "firstSeen": "2026-11-24",
     "country": "United States",
     "alsoIn": []
   },
@@ -286800,7 +286807,7 @@
     "source": "yc",
     "name": "Bystreet",
     "description": "Global intelligence on property owners and decision-makers.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9723a0c8fde3142adacaa4d7586341acafc34422.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/54f6f3bf2eb19881e5f68429e7b1bace34f5e7f0.png",
     "website": "http://www.bystreet.com",
     "sourceUrl": "https://www.ycombinator.com/companies/bystreet",
     "location": "San Francisco, CA, USA",
@@ -304980,7 +304987,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 4,
+    "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
     "formerNames": [
@@ -311538,7 +311545,7 @@
     "source": "yc",
     "name": "Wardstone",
     "description": "The Modular Interceptor Platform",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/12a498451818daa71ba01c88400ac7f241e33a03.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ea6aac5b26a4e344cdb7446825c84f75bce11187.png",
     "website": "https://www.wardstone.us",
     "sourceUrl": "https://www.ycombinator.com/companies/wardstone",
     "location": "Los Angeles, CA, USA",
@@ -311548,10 +311555,10 @@
       "Industrials",
       "Aviation and Space",
       "Hard Tech",
-      "Satellites",
       "Rocketry",
       "Aerospace",
-      "Defense"
+      "Defense",
+      "Satellites"
     ],
     "year": 2025,
     "program": "YC Fall 2025",
@@ -314583,7 +314590,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 8,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -320780,7 +320787,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "formerNames": [
       "FISSION"
@@ -321594,7 +321601,7 @@
     "id": "yc-skillsync",
     "source": "yc",
     "name": "Skillsync",
-    "description": "Search your agent session history",
+    "description": "Substack for agent skills",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74db8ee9ac823e859d8f4544a01d6e33b5507273.png",
     "website": "https://skillsync.com",
     "sourceUrl": "https://www.ycombinator.com/companies/skillsync",
@@ -321602,11 +321609,13 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Engineering, Product and Design",
+      "Consumer",
+      "Content",
       "AIOps",
       "Developer Tools",
       "Enterprise Software",
-      "AI"
+      "AI",
+      "Engineering, Product and Design"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -322383,8 +322392,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2fa726d414c3f4d378fa6af116bb14e3abb29e0f.png",
     "website": "https://sparkles.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/sparkles",
-    "location": "London, England, United Kingdom",
-    "region": "United Kingdom",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design"
@@ -322423,7 +322432,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "United Kingdom",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -325754,7 +325763,7 @@
     "id": "yc-constellation-space",
     "source": "yc",
     "name": "Constellation Space",
-    "description": "AI operating system for mega-scale satellite networks. ",
+    "description": "Physics-grounded autonomy for satellite link forecasts and fleet ops.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
     "website": "https://constellation.space/",
     "sourceUrl": "https://www.ycombinator.com/companies/constellation-space",
@@ -325774,7 +325783,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 4,
+    "teamSize": 6,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -326995,7 +327004,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 4,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -327835,7 +327844,7 @@
     "source": "yc",
     "name": "Grade",
     "description": "The AI agent for affiliate and creator programs.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9c4664428c3dccae4a32ebf9d12aab6f7983b56d.png",
     "website": "https://usegrade.com",
     "sourceUrl": "https://www.ycombinator.com/companies/grade",
     "location": "San Francisco, CA, USA",
@@ -336097,7 +336106,7 @@
     "source": "yc",
     "name": "tday.com",
     "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cf0ab54011ff6085db65df6f056d30faef43fd5f.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/28748aad0c8ba0aed432ef309d8dd322adb412a3.png",
     "website": "https://tday.com",
     "sourceUrl": "https://www.ycombinator.com/companies/tdaycom",
     "location": "San Francisco, CA, USA",
@@ -336215,7 +336224,7 @@
     "id": "yc-valctrl",
     "source": "yc",
     "name": "ValCtrl",
-    "description": "ValCtrl is building the only intelligent prediction market",
+    "description": "A proprietary trading startup.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e3baf656ebe6d7298a56a2799b4143c1d8a6e653.png",
     "website": "https://valctrl.com",
     "sourceUrl": "https://www.ycombinator.com/companies/valctrl",
@@ -340199,18 +340208,21 @@
     "id": "yc-enjamb-labs",
     "source": "yc",
     "name": "Enjamb Labs",
-    "description": "The AI Workforce for Biopharma",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b1348d79301216902dfdfa731a133bfa809b1447.png",
+    "description": "Earned Intelligence. Data, RL environments and custom models",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eb32d60ea4c36f3aa1c2bcee107868ffa450011b.png",
     "website": "https://www.enjamb.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/enjamb-labs",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Robotics",
+      "AI",
       "SaaS",
       "Biotech",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -342227,20 +342239,23 @@
     "id": "yc-egoist-machines",
     "source": "yc",
     "name": "Egoist Machines",
-    "description": "Your personal context, securely portable across every AI app.",
+    "description": "Own your AI context. Ink, our first app, makes drafts sound like you",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cfd986a9205506ed6e96b2903d048ce2aa98626d.png",
-    "website": "https://ego.ist/",
+    "website": "https://ink.ego.ist/",
     "sourceUrl": "https://www.ycombinator.com/companies/egoist-machines",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
     "subregion": "",
     "tags": [
+      "Productivity",
+      "Generative AI",
       "Consumer",
+      "SEO",
+      "AI Assistant",
       "Hardware",
       "Personalization",
       "Privacy",
-      "Consumer Products",
-      "AI Assistant"
+      "Consumer Products"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -342252,7 +342267,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -342283,7 +342298,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "United States",
+    "country": "United Kingdom",
     "alsoIn": []
   },
   {
@@ -342344,8 +342359,8 @@
     "source": "yc",
     "name": "Shielded",
     "description": "We help Fortune 500 companies hedge their supply chain risk",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eec883dcf84a87963c1d7874cef470c16c9dad19.png",
-    "website": "https://www.shieldedglobal.com/",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0e1df31713b27449562aa73fde14116ccbd97cd2.png",
+    "website": "https://www.shielded.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/shielded",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
@@ -342368,6 +342383,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [],
@@ -344130,9 +344146,10 @@
     "tags": [
       "Hardware",
       "Machine Learning",
-      "Robotics",
+      "Reinforcement Learning",
       "Electronics",
-      "AI"
+      "AI",
+      "Robotics"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -348461,7 +348478,7 @@
     "id": "yc-computable",
     "source": "yc",
     "name": "Computable",
-    "description": "Derivatives Exchange for Compute",
+    "description": "the matching engine for compute",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4778fcb121d43a885f6b39a13d66a2fe2364fb1a.png",
     "website": "https://getcomputable.com",
     "sourceUrl": "https://www.ycombinator.com/companies/computable",
@@ -352994,8 +353011,8 @@
     "id": "yc-metalcraft",
     "source": "yc",
     "name": "Metalcraft",
-    "description": "Advancing biological models",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5f7933f1917a47bf844572cf253da02eeececc9f.png",
+    "description": "Teaching frontier models experimental science",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1a5a329743b45106a09eea00a639b43463c0b988.png",
     "website": "https://metalcraft.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/metalcraft",
     "location": "San Francisco, CA, USA; Remote",
@@ -354559,7 +354576,7 @@
     "id": "yc-openscaffold",
     "source": "yc",
     "name": "OpenScaffold",
-    "description": "Superagent for Deployment Teams",
+    "description": "First AI Forward-Deployed Engineer",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f7d38b3eee0095a6968f8c9f98029c1e58d352d1.png",
     "website": "https://openscaffold.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/openscaffold",
@@ -354995,7 +355012,7 @@
     "id": "yc-boat",
     "source": "yc",
     "name": "Boat",
-    "description": "The best cloud VMs for billions of agents",
+    "description": "Most powerful & affordable cloud VMs for agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dd00ca6a15fbe23bc8d3447bda9de39006326892.png",
     "website": "https://boat.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/boat",
@@ -355175,7 +355192,7 @@
     "source": "yc",
     "name": "Capveon",
     "description": "AI to find, understand, and win government work.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/095610089ce25c95f1548bef19684fa04ff1113a.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/03fe372b15da0d930beaf756c1de73cae7ca4232.png",
     "website": "https://capveon.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/capveon",
     "location": "San Francisco, CA, USA",
@@ -356273,7 +356290,7 @@
     "id": "yc-mirrors",
     "source": "yc",
     "name": "Mirrors",
-    "description": "Give AI agents situation-specific context",
+    "description": "Real-time steering for production AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/mirrors",
@@ -356393,7 +356410,7 @@
     "id": "yc-asakana",
     "source": "yc",
     "name": "Asakana",
-    "description": "Automating away manual admin for food distributors: texts to ERP",
+    "description": "Back-office automation for food distributors, no behavior change",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b17bfb784fbfd8ce18bf9fc551a8a6c2a2c68f02.png",
     "website": "https://www.asakana.co/",
     "sourceUrl": "https://www.ycombinator.com/companies/asakana",
@@ -356664,7 +356681,7 @@
     "id": "yc-byteask",
     "source": "yc",
     "name": "ByteAsk",
-    "description": "The AI coding agent for C, C++ and CUDA",
+    "description": "Software factory for C, C++ and CUDA",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
     "website": "https://byteask.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/byteask",
@@ -358603,6 +358620,7 @@
     "subregion": "",
     "tags": [
       "Real Estate and Construction",
+      "Housing and Real Estate",
       "Real Estate",
       "Proptech"
     ],
@@ -359013,7 +359031,7 @@
     "id": "yc-avout",
     "source": "yc",
     "name": "Avout",
-    "description": "Avout - new finance company for the American frontier",
+    "description": "Financing for robots and the physical AI buildout",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05baf08f913ac1b26e529d99ba1ec594c8e02576.png",
     "website": "https://www.avoutcapital.com",
     "sourceUrl": "https://www.ycombinator.com/companies/avout",
@@ -359547,7 +359565,7 @@
     "id": "yc-everyapp",
     "source": "yc",
     "name": "EveryApp",
-    "description": "Making every SaaS open source",
+    "description": "Every app you need to run a business. 100% open source.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4748ea4cce3f5b77e3f8a5d77e2720edaffb5983.png",
     "website": "https://everyapp.com",
     "sourceUrl": "https://www.ycombinator.com/companies/everyapp",
@@ -359600,7 +359618,7 @@
     "id": "yc-particularity",
     "source": "yc",
     "name": "Particularity",
-    "description": "Building the tech stack for government regulators",
+    "description": "The intelligence layer and system of action for government agencies",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bcbf7ec4217465351ee9a2745d3429e194218ed3.png",
     "website": "https://particularity.io",
     "sourceUrl": "https://www.ycombinator.com/companies/particularity",
@@ -360954,7 +360972,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -361748,7 +361766,7 @@
     "id": "yc-composal",
     "source": "yc",
     "name": "Composal",
-    "description": "Always-on agents that don't need to be prompted",
+    "description": "Always-on agents that don't wait to be prompted",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5e1f6f0a97f11c72c78bdc6875df0e065a154770.png",
     "website": "https://composal.com",
     "sourceUrl": "https://www.ycombinator.com/companies/composal",
@@ -363540,6 +363558,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
+    "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -365159,7 +365178,7 @@
     "name": "Godpack",
     "description": "The marketplace for internet culture.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/efed4a76a2a7ec64512d28d0184feb711e11215b.png",
-    "website": "http://godpack.com/",
+    "website": "http://godpack.com",
     "sourceUrl": "https://www.ycombinator.com/companies/godpack",
     "location": "New York City, NY, USA",
     "region": "United States of America",
@@ -365598,6 +365617,71 @@
     "alsoIn": []
   },
   {
+    "id": "yc-spita-labs",
+    "source": "yc",
+    "name": "SPITA Labs",
+    "description": "Reconfigurable electronics for robotics teams",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8e1fb21e94af0645c32fa04bbb172e92cb6da03f.png",
+    "website": "https://www.spitalabs.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/spita-labs",
+    "location": "",
+    "region": "Unspecified",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Developer Tools",
+      "Hardware",
+      "Robotics",
+      "Aerospace"
+    ],
+    "year": 2027,
+    "program": "YC Winter 2027",
+    "programSlugs": [
+      "yc-winter-2027"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Robin Liu",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/liurobinn",
+        "bio": "Co-founder at SPITA Labs. Previously Electrical Hardware Engineer at Etched AI designing next-gen AI inference infrastructure Hardware engineer at NVIDIA (datacenter products) and Apple. Dual BS in Electrical Engineering and Aerospace Engineering from Georgia Tech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/82124ce7691674eef4e3e89cb991321f1cb81488.jpg"
+      },
+      {
+        "name": "Mohammed Abdeen",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/mohammed-abdeen-ae",
+        "bio": "Founder/CTO at SPITA Labs (YC W27). Previously iPhone Hardware Engineering Intern at Apple, working on schematics, layout, and EMI simulations. Led avionics and electrical engineering teams at Georgia Tech's Ramblin' Rocket Club, achieving top 6 ranking among 71 teams in NASA USLI and winning NASA's Pay-It Forward award. Dual BS in Aerospace and Electrical Engineering from Georgia Tech.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/aa849cc131e9abef560a9b01ce673cfcd86f0127.jpg"
+      },
+      {
+        "name": "Andrew Cheng",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/andrew-kang-qi-cheng",
+        "bio": "Co-Founder at SPITA Labs. Previously founded Scentola, a cross-border consumer startup that scaled across China, Malaysia, and the US. Transacted nine figures across Asia working in treasury foreign exchange markets.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bd86cd33f6c6950fa6f69726a15c4992248ac0c4.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "firstSeen": "2026-11-24",
+    "country": "",
+    "alsoIn": []
+  },
+  {
     "id": "yc-datanode",
     "source": "yc",
     "name": "DataNode",
@@ -365985,6 +366069,54 @@
     "firstSeen": "2026-11-19",
     "country": "United States",
     "alsoIn": []
+  },
+  {
+    "id": "yc-stamp",
+    "source": "yc",
+    "name": "Stamp",
+    "description": "The AI Secretary for Email and Calendar.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ec77fe8f30c765884c0359fdaafcf0412168dd15.png",
+    "website": "https://www.stampmail.ai/",
+    "sourceUrl": "https://www.ycombinator.com/companies/stamp",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2025,
+    "program": "YC Winter 2025",
+    "programSlugs": [
+      "yc-winter-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Archit Mehta",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/4architmehta",
+        "bio": "Stamp CEO. Previously graduated at 20, built products with 50k+ users, Software Engineer at Stripe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/70440c5325cf760c66e43f447d00331f90428675.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-24"
   },
   {
     "id": "yc-neoncoral",

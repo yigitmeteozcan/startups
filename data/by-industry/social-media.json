@@ -1002,7 +1002,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
@@ -3942,153 +3942,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-khush",
-    "source": "500",
-    "name": "Khush",
-    "description": "Developer of music applications for mobile phones. The company's application analyzes the user's voice and composes music to match.",
-    "logo": "",
-    "website": "https://www.khu.sh",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Social Media"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Parag Chordia",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Prerna Gupta",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "500-pop-up-archive",
-    "source": "500",
-    "name": "Pop Up Archive",
-    "description": "Provider of a search engine for digital media. The company provides a platform which takes sound from anywhere and automatically creates timestamped transcripts and keywords, indexed so that users can play back search terms.",
-    "logo": "",
-    "website": "https://popuparchive.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Social Media"
-    ],
-    "year": 2014,
-    "program": "GA 9",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Anne Wootton",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Bailey Smith",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "500-breaker",
-    "source": "500",
-    "name": "Breaker",
-    "description": "Tokyo-based social media branding agency connecting the world to Japan. ",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/537f715d-15c6-4dcc-904a-269c0e8b2338.png",
-    "website": "https://brkr.jp",
-    "location": "Japan",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Creative Industry",
-      "Social Media"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alan Swarts",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "John Possman",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kenneth Sekine",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
-    },
-    "country": "Japan",
-    "alsoIn": []
-  },
-  {
     "id": "500-restar",
     "source": "500",
     "name": "RestAR",
@@ -4337,6 +4190,53 @@
     "alsoIn": []
   },
   {
+    "id": "500-lumific",
+    "source": "500",
+    "name": "Lumific",
+    "description": "Developer of a web and mobile-based application for editing photos. The company's application automatically sorts and edits photos stored in the cloud and on mobile device.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/650e7472-4d2c-471f-9292-eda07c6b1d8c.png",
+    "website": "https://lumific.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Social Media"
+    ],
+    "year": 2014,
+    "program": "GA 9",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Desmond Chik",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jonathan Wills",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "500-stupeflix",
     "source": "500",
     "name": "Stupeflix",
@@ -4500,53 +4400,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-lumific",
-    "source": "500",
-    "name": "Lumific",
-    "description": "Developer of a web and mobile-based application for editing photos. The company's application automatically sorts and edits photos stored in the cloud and on mobile device.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/650e7472-4d2c-471f-9292-eda07c6b1d8c.png",
-    "website": "https://lumific.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Social Media"
-    ],
-    "year": 2014,
-    "program": "GA 9",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Desmond Chik",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jonathan Wills",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "500-viki",
     "source": "500",
     "name": "Viki",
@@ -4687,48 +4540,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-9slides",
-    "source": "500",
-    "name": "9Slides",
-    "description": "Provider of a cloud based presentation platform. The company delivers mobile technology for employees to watch video presentations, answer quizzes to test their knowledge, and to create their own presentations to share. The company also provides real-time analytics to employers on completion rates and comprehension.",
-    "logo": "",
-    "website": "https://9slides.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Social Media"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Ruchit Garg",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "500-hipster",
     "source": "500",
     "name": "Hipster",
@@ -4829,20 +4640,19 @@
     "alsoIn": []
   },
   {
-    "id": "500-zya",
+    "id": "500-9slides",
     "source": "500",
-    "name": "Zya",
-    "description": "Developer of a mobile based music creation software designed to democratize music creation and expression through imaginative games and apps. The company's Ditty application offers a technology platform that powers musical communication across a range of products and integrations with global companies enabling users to personalize their video, music, and message and collaborate with artists on a variety of platforms including web portals, mobile devices and gaming consoles.",
+    "name": "9Slides",
+    "description": "Provider of a cloud based presentation platform. The company delivers mobile technology for employees to watch video presentations, answer quizzes to test their knowledge, and to create their own presentations to share. The company also provides real-time analytics to employers on completion rates and comprehension.",
     "logo": "",
-    "website": "https://zyamusic.com",
+    "website": "https://9slides.com",
     "location": "United States",
     "region": "North America",
     "subregion": "",
     "tags": [
-      "Entertainment / Media",
       "Social Media"
     ],
-    "year": 2016,
+    "year": 2012,
     "program": "500 Global",
     "programSlugs": [
       "500"
@@ -4854,7 +4664,7 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Matt Serletic",
+        "name": "Ruchit Garg",
         "role": "",
         "linkedin": ""
       }
@@ -4978,6 +4788,196 @@
       "country": "United States"
     },
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-zya",
+    "source": "500",
+    "name": "Zya",
+    "description": "Developer of a mobile based music creation software designed to democratize music creation and expression through imaginative games and apps. The company's Ditty application offers a technology platform that powers musical communication across a range of products and integrations with global companies enabling users to personalize their video, music, and message and collaborate with artists on a variety of platforms including web portals, mobile devices and gaming consoles.",
+    "logo": "",
+    "website": "https://zyamusic.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Entertainment / Media",
+      "Social Media"
+    ],
+    "year": 2016,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Matt Serletic",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-khush",
+    "source": "500",
+    "name": "Khush",
+    "description": "Developer of music applications for mobile phones. The company's application analyzes the user's voice and composes music to match.",
+    "logo": "",
+    "website": "https://www.khu.sh",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Social Media"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Parag Chordia",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Prerna Gupta",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-pop-up-archive",
+    "source": "500",
+    "name": "Pop Up Archive",
+    "description": "Provider of a search engine for digital media. The company provides a platform which takes sound from anywhere and automatically creates timestamped transcripts and keywords, indexed so that users can play back search terms.",
+    "logo": "",
+    "website": "https://popuparchive.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Social Media"
+    ],
+    "year": 2014,
+    "program": "GA 9",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Anne Wootton",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Bailey Smith",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-breaker",
+    "source": "500",
+    "name": "Breaker",
+    "description": "Tokyo-based social media branding agency connecting the world to Japan. ",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/537f715d-15c6-4dcc-904a-269c0e8b2338.png",
+    "website": "https://brkr.jp",
+    "location": "Japan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Creative Industry",
+      "Social Media"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alan Swarts",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "John Possman",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kenneth Sekine",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Japan"
+    },
+    "country": "Japan",
     "alsoIn": []
   }
 ]

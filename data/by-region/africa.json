@@ -3797,43 +3797,31 @@
     "alsoIn": []
   },
   {
-    "id": "500-payment24",
+    "id": "500-shopgo",
     "source": "500",
-    "name": "Payment24",
-    "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
-    "website": "https://payment24.co",
-    "location": "South Africa",
+    "name": "ShopGo",
+    "description": "Provider of software platform designed to create e-commerce Websites. The company's software platform provides local support to its merchants and their changing needs at every stage, enabling merchants to succeed in their online business.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/017c6531-a0a4-4b90-a3b6-81832b6c42e1.png",
+    "website": "https://shopgo.me",
+    "location": "British Virgin Islands",
     "region": "Africa",
     "subregion": "",
     "tags": [
-      "CloudTech",
-      "Fintech",
-      "Payments",
-      "Mobility"
+      "Payments"
     ],
-    "year": 2018,
-    "program": "GA 22",
+    "year": 2013,
+    "program": "500 Global",
     "programSlugs": [
       "500"
     ],
-    "isExit": false,
+    "isExit": true,
+    "stage": "Exited",
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Janko Milunovic",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Nolan Daniel",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Shadab Rahil",
+        "name": "Mohanad Ghashim",
         "role": "",
         "linkedin": ""
       }
@@ -3845,9 +3833,9 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "South Africa"
+      "country": "British Virgin Islands"
     },
-    "country": "South Africa",
+    "country": "British Virgin Islands",
     "alsoIn": []
   },
   {
@@ -3892,48 +3880,6 @@
       },
       {
         "name": "Omar Koudsi",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "British Virgin Islands"
-    },
-    "country": "British Virgin Islands",
-    "alsoIn": []
-  },
-  {
-    "id": "500-shopgo",
-    "source": "500",
-    "name": "ShopGo",
-    "description": "Provider of software platform designed to create e-commerce Websites. The company's software platform provides local support to its merchants and their changing needs at every stage, enabling merchants to succeed in their online business.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/017c6531-a0a4-4b90-a3b6-81832b6c42e1.png",
-    "website": "https://shopgo.me",
-    "location": "British Virgin Islands",
-    "region": "Africa",
-    "subregion": "",
-    "tags": [
-      "Payments"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mohanad Ghashim",
         "role": "",
         "linkedin": ""
       }
@@ -4134,6 +4080,60 @@
       "country": "British Virgin Islands"
     },
     "country": "British Virgin Islands",
+    "alsoIn": []
+  },
+  {
+    "id": "500-payment24",
+    "source": "500",
+    "name": "Payment24",
+    "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
+    "website": "https://payment24.co",
+    "location": "South Africa",
+    "region": "Africa",
+    "subregion": "",
+    "tags": [
+      "CloudTech",
+      "Fintech",
+      "Payments",
+      "Mobility"
+    ],
+    "year": 2018,
+    "program": "GA 22",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Janko Milunovic",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Nolan Daniel",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Shadab Rahil",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "South Africa"
+    },
+    "country": "South Africa",
     "alsoIn": []
   }
 ]

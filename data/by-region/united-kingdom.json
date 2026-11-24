@@ -5215,7 +5215,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
@@ -11543,57 +11543,6 @@
     "alsoIn": []
   },
   {
-    "id": "yc-sparkles",
-    "source": "yc",
-    "name": "Sparkles",
-    "description": "Make everyone on your team an engineer",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2fa726d414c3f4d378fa6af116bb14e3abb29e0f.png",
-    "website": "https://sparkles.dev",
-    "sourceUrl": "https://www.ycombinator.com/companies/sparkles",
-    "location": "London, England, United Kingdom",
-    "region": "United Kingdom",
-    "subregion": "",
-    "tags": [
-      "Engineering, Product and Design"
-    ],
-    "year": 2026,
-    "program": "YC Winter 2026",
-    "programSlugs": [
-      "yc-winter-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSize": 2,
-    "isHiring": false,
-    "stage": "Early",
-    "formerNames": [
-      "Litmus",
-      "Flics"
-    ],
-    "founders": [
-      {
-        "name": "Ai Daniil Bekirov",
-        "role": "Founder/CEO",
-        "linkedin": "https://www.linkedin.com/in/aidaniilbekirov/",
-        "twitter": "https://x.com/aidaniil",
-        "bio": "20 | 🇺🇦 I dropped out of University College London to build Sparkles (W26). Previously worked at Iterate.com (founded by Jonas who was previously the co-founder and CTO of Monzo. Backed by OpenAI, Index etc.) and StructuredAI (F25)",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f07af39014457a4d2ff63358c4e3ccd33c6c034a.jpg"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {},
-    "country": "United Kingdom",
-    "alsoIn": []
-  },
-  {
     "id": "yc-seeing-systems",
     "source": "yc",
     "name": "Seeing Systems",
@@ -12298,6 +12247,72 @@
     "alsoIn": []
   },
   {
+    "id": "yc-egoist-machines",
+    "source": "yc",
+    "name": "Egoist Machines",
+    "description": "Own your AI context. Ink, our first app, makes drafts sound like you",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cfd986a9205506ed6e96b2903d048ce2aa98626d.png",
+    "website": "https://ink.ego.ist/",
+    "sourceUrl": "https://www.ycombinator.com/companies/egoist-machines",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
+    "subregion": "",
+    "tags": [
+      "Productivity",
+      "Generative AI",
+      "Consumer",
+      "SEO",
+      "AI Assistant",
+      "Hardware",
+      "Personalization",
+      "Privacy",
+      "Consumer Products"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": false,
+    "stage": "Early",
+    "formerNames": [
+      "studysesh"
+    ],
+    "founders": [
+      {
+        "name": "Erin McGurk",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/erin-mcgurk",
+        "twitter": "https://x.com/erinmerylstudy",
+        "bio": "Co-founder & CEO of Egoist Machines (YC S26). Grew 0 to 1M+ followers in a year (@erinmerylstudy) and scaled a social enterprise reaching millions. Advised Cambridge and the UK Government on social media strategy. BA (Uni of Cambridge), Land Economy (Economics + Law). Focused on privacy, and social + legal infrastructure.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f0cad001b56062b81b2b1049fee039401556e8fc.jpg"
+      },
+      {
+        "name": "David Khachaturov",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/david-g-khachaturov/",
+        "twitter": "https://x.com/davidobot_",
+        "bio": "Founder at Egoist Machines (YC S26). BA/MA (Uni of Cambridge), MSc (Uni of Oxford), PhD (Uni of Cambridge) in Computer Science. Youngest-ever Fellow at St Catharine's College, Cambridge at 25. Previously ML Researcher at OpenAI (PaperBench), Lead AI Security Researcher at FrontierOne. Founded and scaled mazette! (game publisher, 10-title portfolio). Cambridge CS supervisor for 8+ courses, taught 160+ supervision groups and mentored 19 dissertations.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/414ccf8066649877960bdc6ad659a315ca611119.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
     "id": "yc-princeps",
     "source": "yc",
     "name": "PRINCEPS",
@@ -12501,6 +12516,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
+    "teamSize": 2,
     "isHiring": false,
     "stage": "Early",
     "founders": [

@@ -1489,18 +1489,18 @@
     "alsoIn": []
   },
   {
-    "id": "yc-stamp",
+    "id": "yc-agentjam",
     "source": "yc",
-    "name": "Stamp",
-    "description": "The AI Secretary for Email and Calendar.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ec77fe8f30c765884c0359fdaafcf0412168dd15.png",
-    "website": "https://www.stampmail.ai/",
-    "sourceUrl": "https://www.ycombinator.com/companies/stamp",
+    "name": "AgentJam",
+    "description": "The Internet of AI Agents",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eb123db0025f08e8253b49c51c1be59ebe00bbec.png",
+    "website": "https://agentjam.com/",
+    "sourceUrl": "https://www.ycombinator.com/companies/agentjam",
     "location": "San Francisco, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Productivity"
+      "Consumer"
     ],
     "year": 2025,
     "program": "YC Winter 2025",
@@ -1515,6 +1515,9 @@
     "teamSize": 1,
     "isHiring": false,
     "stage": "Early",
+    "formerNames": [
+      "Stamp"
+    ],
     "founders": [
       {
         "name": "Archit Mehta",
@@ -1531,6 +1534,7 @@
       "crunchbase": ""
     },
     "extra": {},
+    "firstSeen": "2026-11-24",
     "country": "United States",
     "alsoIn": []
   },
@@ -5911,7 +5915,7 @@
     "source": "yc",
     "name": "Bystreet",
     "description": "Global intelligence on property owners and decision-makers.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9723a0c8fde3142adacaa4d7586341acafc34422.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/54f6f3bf2eb19881e5f68429e7b1bace34f5e7f0.png",
     "website": "http://www.bystreet.com",
     "sourceUrl": "https://www.ycombinator.com/companies/bystreet",
     "location": "San Francisco, CA, USA",
@@ -9457,5 +9461,53 @@
     "extra": {},
     "country": "United States",
     "alsoIn": []
+  },
+  {
+    "id": "yc-stamp",
+    "source": "yc",
+    "name": "Stamp",
+    "description": "The AI Secretary for Email and Calendar.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ec77fe8f30c765884c0359fdaafcf0412168dd15.png",
+    "website": "https://www.stampmail.ai/",
+    "sourceUrl": "https://www.ycombinator.com/companies/stamp",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2025,
+    "program": "YC Winter 2025",
+    "programSlugs": [
+      "yc-winter-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 1,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Archit Mehta",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/4architmehta",
+        "bio": "Stamp CEO. Previously graduated at 20, built products with 50k+ users, Software Engineer at Stripe.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/70440c5325cf760c66e43f447d00331f90428675.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-24"
   }
 ]

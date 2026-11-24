@@ -7071,7 +7071,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 3,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -10043,53 +10043,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-homeday",
-    "source": "500",
-    "name": "Homeday",
-    "description": "Developer of an online platform designed to be used for data-driven pairing in the real estate sector. The company's online platform provides an application for buying and selling properties, enabling real estate agents to pair with private property owners to sell their property.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d03c8982-2185-4a15-b61e-36535fb4dd90.png",
-    "website": "https://www.homeday.de",
-    "location": "Germany",
-    "region": "Europe",
-    "subregion": "",
-    "tags": [
-      "Real Estate"
-    ],
-    "year": 2017,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Dmitri Uvarovski",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Steffen Wicker",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Germany"
-    },
-    "country": "Germany",
-    "alsoIn": []
-  },
-  {
     "id": "500-inzmo",
     "source": "500",
     "name": "INZMO",
@@ -10172,6 +10125,53 @@
       },
       {
         "name": "Maximilian Lober",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Germany"
+    },
+    "country": "Germany",
+    "alsoIn": []
+  },
+  {
+    "id": "500-homeday",
+    "source": "500",
+    "name": "Homeday",
+    "description": "Developer of an online platform designed to be used for data-driven pairing in the real estate sector. The company's online platform provides an application for buying and selling properties, enabling real estate agents to pair with private property owners to sell their property.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d03c8982-2185-4a15-b61e-36535fb4dd90.png",
+    "website": "https://www.homeday.de",
+    "location": "Germany",
+    "region": "Europe",
+    "subregion": "",
+    "tags": [
+      "Real Estate"
+    ],
+    "year": 2017,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Dmitri Uvarovski",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Steffen Wicker",
         "role": "",
         "linkedin": ""
       }
