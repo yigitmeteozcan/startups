@@ -35305,7 +35305,7 @@
     "status": "active",
     "teamSize": 8,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "Pagaa"
     ],
@@ -47134,7 +47134,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 3,
+    "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -51762,7 +51762,7 @@
     "id": "yc-gloglo",
     "source": "yc",
     "name": "GloGlo",
-    "description": "Curing and preventing type 1 diabetes",
+    "description": "Solving autoimmune diseases with AI, starting with type 1 diabetes.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
     "website": "https://gloglo.com",
     "sourceUrl": "https://www.ycombinator.com/companies/gloglo",
@@ -51770,12 +51770,14 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Consumer",
+      "Healthcare",
+      "Therapeutics",
       "AI-powered Drug Discovery",
-      "Consumer Health Services",
       "Biotech",
-      "E-commerce",
-      "AI"
+      "AI",
+      "Consumer",
+      "Consumer Health Services",
+      "E-commerce"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -57247,7 +57249,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 10,
+    "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
     "formerNames": [
@@ -80188,7 +80190,7 @@
     "status": "active",
     "teamSize": 3,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "Arcada"
     ],
@@ -86386,7 +86388,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 7,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -90032,6 +90034,7 @@
     "tags": [
       "SaaS",
       "Biotech",
+      "Healthcare",
       "AI"
     ],
     "year": 2026,
@@ -91315,7 +91318,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "pulse",
@@ -94194,7 +94197,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -97865,7 +97868,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -99497,7 +99500,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 3,
+    "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -106593,7 +106596,7 @@
     "id": "yc-raven-ravenphone-com",
     "source": "yc",
     "name": "Raven",
-    "description": "A new phone rebuilt around agents: more done, less time on screen.",
+    "description": "AI phone rebuilt around agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/754de4c0d947ee0ffec143a04381c7d7cdcc0667.png",
     "website": "https://ravenphone.com",
     "sourceUrl": "https://www.ycombinator.com/companies/ravenphone",
@@ -107853,6 +107856,7 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Hard Tech",
       "Hardware",
       "Electronics",
       "AI"
@@ -111080,7 +111084,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -112342,6 +112346,54 @@
       "investor": ""
     },
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-gini-health",
+    "source": "ef",
+    "name": "Gini Health",
+    "description": "The health intelligence platform for the female body.",
+    "logo": "",
+    "website": "",
+    "location": "Europe",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "AI",
+      "Healthcare"
+    ],
+    "year": 2026,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Richard Robinet-Duffo",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/richard-robinet-duffo/"
+      },
+      {
+        "name": "Kenza Moussaoui Rahali",
+        "role": "COO",
+        "linkedin": "https://www.linkedin.com/in/kenzarahali"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    },
+    "firstSeen": "2026-11-25",
+    "country": "",
     "alsoIn": []
   },
   {

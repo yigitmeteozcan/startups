@@ -31291,7 +31291,7 @@
     "id": "yc-okteto",
     "source": "yc",
     "name": "Okteto",
-    "description": "Cloud Development Environments with one click",
+    "description": "Ephemeral environments on Kubernetes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/65528c51b9eccc4012b7ad09d502f4452f49c03f.png",
     "website": "https://okteto.com",
     "sourceUrl": "https://www.ycombinator.com/companies/okteto",
@@ -31317,7 +31317,7 @@
     "status": "active",
     "teamSize": 30,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [
       {
         "name": "Ramiro Berrelleza",
@@ -60646,7 +60646,7 @@
     "status": "active",
     "teamSize": 24,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "StreamD"
     ],
@@ -64943,7 +64943,7 @@
     "status": "active",
     "teamSize": 8,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "Pagaa"
     ],
@@ -73294,7 +73294,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 10,
+    "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
     "formerNames": [
@@ -80562,6 +80562,7 @@
     "tags": [
       "SaaS",
       "Biotech",
+      "Healthcare",
       "AI"
     ],
     "year": 2026,
@@ -81126,7 +81127,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -82121,7 +82122,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 3,
+    "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -88326,54 +88327,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-fatora",
-    "source": "500",
-    "name": "Fatora",
-    "description": "All-in-one tool to go eCommerce and start selling",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
-    "website": "https://maktapp.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Fintech",
-      "SaaS"
-    ],
-    "year": 2020,
-    "program": "Dojo III",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Waleed Fatora",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saleh Al-Mansouri",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "500-plerk",
     "source": "500",
     "name": "Plerk",
@@ -88579,6 +88532,54 @@
       },
       {
         "name": "Hoang Anh Vu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-fatora",
+    "source": "500",
+    "name": "Fatora",
+    "description": "All-in-one tool to go eCommerce and start selling",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d92ecfc9-0c7f-46e0-937a-f7acb5659e8c.png",
+    "website": "https://maktapp.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "year": 2020,
+    "program": "Dojo III",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Waleed Fatora",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saleh Al-Mansouri",
         "role": "",
         "linkedin": ""
       }

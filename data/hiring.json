@@ -661,6 +661,58 @@
     ]
   },
   {
+    "id": "yc-talkable",
+    "source": "yc",
+    "name": "Talkable",
+    "description": "Online store referrals.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/32c3e67d3146d4db5470d6b6731cf422c4c9a2c0.png",
+    "website": "http://talkable.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/talkable",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Retail",
+      "E-commerce",
+      "Referrals"
+    ],
+    "year": 2011,
+    "program": "YC Winter 2011",
+    "programSlugs": [
+      "yc-winter-2011"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 76,
+    "isHiring": true,
+    "stage": "Growth",
+    "formerNames": [
+      "Curebit"
+    ],
+    "founders": [
+      {
+        "name": "Allan Grant",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/allangrant",
+        "avatar": "https:///avatars/thumb/missing.png"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": [
+      "500"
+    ]
+  },
+  {
     "id": "yc-mino-games",
     "source": "yc",
     "name": "Mino Games",
@@ -11721,7 +11773,7 @@
     "id": "yc-okteto",
     "source": "yc",
     "name": "Okteto",
-    "description": "Cloud Development Environments with one click",
+    "description": "Ephemeral environments on Kubernetes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/65528c51b9eccc4012b7ad09d502f4452f49c03f.png",
     "website": "https://okteto.com",
     "sourceUrl": "https://www.ycombinator.com/companies/okteto",
@@ -11747,7 +11799,7 @@
     "status": "active",
     "teamSize": 30,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [
       {
         "name": "Ramiro Berrelleza",
@@ -12643,8 +12695,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2e227664daa8b8943b9d87641ef2bf7c2b5c1b42.png",
     "website": "https://www.inito.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/inito",
-    "location": "Bengaluru, KA, India",
-    "region": "India",
+    "location": "Dubai, Dubai, United Arab Emirates; Bengaluru, KA, India",
+    "region": "United Arab Emirates",
     "subregion": "",
     "tags": [
       "Healthcare",
@@ -12688,7 +12740,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "India",
+    "country": "United Arab Emirates",
     "alsoIn": []
   },
   {
@@ -19037,7 +19089,7 @@
     "status": "active",
     "teamSize": 75,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "Inspectify (formerly Home Inspections App)"
     ],
@@ -33591,7 +33643,7 @@
     "status": "active",
     "teamSize": 24,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "StreamD"
     ],
@@ -48007,7 +48059,7 @@
     "id": "yc-gloglo",
     "source": "yc",
     "name": "GloGlo",
-    "description": "Curing and preventing type 1 diabetes",
+    "description": "Solving autoimmune diseases with AI, starting with type 1 diabetes.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
     "website": "https://gloglo.com",
     "sourceUrl": "https://www.ycombinator.com/companies/gloglo",
@@ -48015,12 +48067,14 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Consumer",
+      "Healthcare",
+      "Therapeutics",
       "AI-powered Drug Discovery",
-      "Consumer Health Services",
       "Biotech",
-      "E-commerce",
-      "AI"
+      "AI",
+      "Consumer",
+      "Consumer Health Services",
+      "E-commerce"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -50984,7 +51038,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 10,
+    "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
     "formerNames": [
@@ -56203,7 +56257,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "Schematx",
       "Diode, Inc."
@@ -56846,7 +56900,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 25,
+    "teamSize": 45,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -60228,54 +60282,6 @@
         "twitter": "https://x.com/viewerisland",
         "bio": "Defining how real time systems should be built. Previously worked on data architecture and ecosystem at TikTok recommendations as the 5th and youngest US hire",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4acaad1754ca9e5bf80ca3d25cdc86b8226565d6.jpg"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {},
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "yc-healthkey",
-    "source": "yc",
-    "name": "HealthKey",
-    "description": "AI-powered Patient Identification for Clinical Trials",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c1861589f70a31b85bd0f644259f89e147516204.png",
-    "website": "https://gethealthkey.com/",
-    "sourceUrl": "https://www.ycombinator.com/companies/healthkey",
-    "location": "Austin, TX, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "year": 2025,
-    "program": "YC Winter 2025",
-    "programSlugs": [
-      "yc-winter-2025"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSize": 10,
-    "isHiring": true,
-    "stage": "Early",
-    "founders": [
-      {
-        "name": "Josh Sabol",
-        "role": "Founder/CEO",
-        "linkedin": "https://linkedin.com/in/joshsabol",
-        "twitter": "https://x.com/JoshSabol",
-        "bio": "Founder/CEO of HealthKey. Previously a Product Manager at AWS, helping automate the ~$20B supply chain at AWS. I was the 1st PM at Plate IQ (S15), a B2B accounting & payments tool, which 10x'ed during my tenure and recently raised a $160M Series B from FTV Capital. 🌐 https://sabol.io/",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e95ad93aa9652613ccb07b5849e1641f5b0901fe.jpg"
       }
     ],
     "social": {
@@ -71107,7 +71113,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 7,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -71465,7 +71471,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 1,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -73921,6 +73927,7 @@
     "tags": [
       "SaaS",
       "Biotech",
+      "Healthcare",
       "AI"
     ],
     "year": 2026,
@@ -75669,66 +75676,6 @@
     },
     "extra": {},
     "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "yc-sitefire",
-    "source": "yc",
-    "name": "Sitefire",
-    "description": "Marketing suite for the agentic web",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ea31f29e253c2635c1eccbc268b7d4d685f8caf6.png",
-    "website": "https://sitefire.ai",
-    "sourceUrl": "https://www.ycombinator.com/companies/sitefire",
-    "location": "BY, Germany",
-    "region": "Germany",
-    "subregion": "",
-    "tags": [
-      "Marketing",
-      "Analytics",
-      "AI"
-    ],
-    "year": 2026,
-    "program": "YC Winter 2026",
-    "programSlugs": [
-      "yc-winter-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSize": 2,
-    "isHiring": true,
-    "stage": "Early",
-    "formerNames": [
-      "pulse",
-      "itefire"
-    ],
-    "founders": [
-      {
-        "name": "Jochen Madler",
-        "role": "Founder/CEO",
-        "linkedin": "https://www.linkedin.com/in/jochen-madler/",
-        "twitter": "https://x.com/jochenmadler",
-        "bio": "Co-founder & CEO, sitefire.ai. Valedictorian of Germany's no. 1 finance program. Deep RL & optimization at Stanford and PhD at Technical University Munich (TUM).",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/248b63c639b40291155bb485d9f3022f0bdad768.jpg"
-      },
-      {
-        "name": "Vincent Jeltsch",
-        "role": "Founder/CTO",
-        "linkedin": "https://www.linkedin.com/in/vincent-jeltsch/",
-        "bio": "CTO@sitefire.ai, helping you market your brand to AI agents.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/601742d9017be5cfc272a7cebbc9911f000d723c.jpg"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {},
-    "country": "Germany",
     "alsoIn": []
   },
   {
@@ -78604,6 +78551,63 @@
     "alsoIn": []
   },
   {
+    "id": "yc-sherpa",
+    "source": "yc",
+    "name": "Sherpa",
+    "description": "Make websites improve themselves.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/24b3833352a8b36953c5bec1a4cb93f9ac0f2259.png",
+    "website": "https://www.withsherpa.ai/",
+    "sourceUrl": "https://www.ycombinator.com/companies/sherpa",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "SaaS",
+      "Marketing",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Ethan Kinnan",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/ethan-kinnan/",
+        "twitter": "https://x.com/ethan_kinnan",
+        "bio": "Automated every job I’ve ever had with AI. Now helping marketing teams do the same at Sherpa.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d9f03777eff6b6e84484f729537e62cc31d2837.jpg"
+      },
+      {
+        "name": "Norbu Sonam",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/norbusonam/",
+        "twitter": "https://x.com/norbusonam",
+        "bio": "Co-founder and CTO of Sherpa (YC P26): autonomous growth experiments that increase conversion for human and agent traffic. Previously built agent infrastructure at Lindy used in millions of tasks, ran 50+ growth experiments there, and tripled paywall conversion. Before that, shipped image generation in Microsoft Copilot to tens of millions of users and a Super Bowl audience.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/72de213de31f5ea5cb1e6be2c683e894fe448795.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-taiga",
     "source": "yc",
     "name": "Taiga",
@@ -80378,13 +80382,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-kugelaudio",
+    "id": "yc-elbic-formerly-kugelaudio",
     "source": "yc",
-    "name": "KugelAudio",
-    "description": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/44c1f17a88c6716d09288318cb5f9de77b9bdbbb.png",
-    "website": "https://kugelaudio.com/en",
-    "sourceUrl": "https://www.ycombinator.com/companies/kugelaudio",
+    "name": "elbic (formerly KugelAudio)",
+    "description": "elbic is an on-prem Voice AI model supporting 30+ languages ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8e95119db487e10dcb6ed64e8458581394c46d9a.png",
+    "website": "https://elbic.com/",
+    "sourceUrl": "https://www.ycombinator.com/companies/elbic",
     "location": "Berlin, Berlin, Germany",
     "region": "Germany",
     "subregion": "",
@@ -80404,6 +80408,9 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "KugelAudio"
+    ],
     "founders": [
       {
         "name": "Viktor Presber",
@@ -80427,6 +80434,7 @@
       "crunchbase": ""
     },
     "extra": {},
+    "firstSeen": "2026-11-25",
     "country": "Germany",
     "alsoIn": []
   },
@@ -81098,6 +81106,61 @@
         "linkedin": "https://www.linkedin.com/in/alessandro-fiume45/",
         "bio": "Co-founder at Impact Drones. Columbia MSc. Built the pipeline behind 180M+ USD in signed LOIs. At Bloomberg, drove 80% week-over-week growth in terminal activations closing 2M USD in contracts. Scholarship fellow to Columbia & ESCP, valedictorian of CIV, France.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/afa1db0b96ca55b32dea0b32e29b6a0fe999eda2.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-verdant",
+    "source": "yc",
+    "name": "Verdant",
+    "description": "AI Agents to Make Local Gov Efficient",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4de79d62c0767417bcc285f4339875d51c92131b.png",
+    "website": "https://www.verdantapp.com/",
+    "sourceUrl": "https://www.ycombinator.com/companies/verdant",
+    "location": "New York City, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Government",
+      "GovTech",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Aidan Ng",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/aidan-c-ng",
+        "bio": "Co-founder & CEO of Verdant. Before Verdant, I built commercial real estate underwriting models as a business analyst at Capital One. Before that, I studied International Politics at Georgetown and spent three years in the government space at DOJ, USDA, the Hill, and Deloitte Government and Public Services.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/06f5b92036568e3a0f58f53ff7de3ee788672855.jpg"
+      },
+      {
+        "name": "Jason Yi",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jason-yi1/",
+        "bio": "Co-founder of Verdant. Before Verdant, I built AI HR software for local government at Holly and legislative tracking tools at Aidy (YC W24). Previously, I studied computer science at Georgetown where I researched automation for public benefits delivery, AI safety, and published data security research.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/5e581a5ee73cd1068b17f8bc9cabb05fd43966b8.jpg"
       }
     ],
     "social": {
@@ -84128,7 +84191,7 @@
     "id": "yc-super-powers-mobility-spm",
     "source": "yc",
     "name": "Super Powers Mobility (SPM)",
-    "description": "Defense compliant modular battery packs power systems and vehicles",
+    "description": "Defense compliant modular battery packs and power systems",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a5c35648a3ac00d7da1ce27b5b0a62372c6a5f2e.png",
     "website": "https://www.spm.us",
     "sourceUrl": "https://www.ycombinator.com/companies/super-powers-mobility-spm",

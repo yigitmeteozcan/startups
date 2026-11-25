@@ -2375,7 +2375,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -3078,48 +3078,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-exa",
-    "source": "500",
-    "name": "EXA",
-    "description": "Developer of a software designed to monitors multiple blockchains to identify and locate criminal activity. The company's software aims to ensure that bitcoin and other digital currencies are not utilized for illicit purposes, enabling law enforcement agencies to identify and locate criminal activities.",
-    "logo": "",
-    "website": "https://sabr.io",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Government"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "David Berger",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "500-remix",
     "source": "500",
     "name": "Remix",
@@ -3212,6 +3170,48 @@
       },
       {
         "name": "Josh Goldstein",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-exa",
+    "source": "500",
+    "name": "EXA",
+    "description": "Developer of a software designed to monitors multiple blockchains to identify and locate criminal activity. The company's software aims to ensure that bitcoin and other digital currencies are not utilized for illicit purposes, enabling law enforcement agencies to identify and locate criminal activities.",
+    "logo": "",
+    "website": "https://sabr.io",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Government"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "David Berger",
         "role": "",
         "linkedin": ""
       }

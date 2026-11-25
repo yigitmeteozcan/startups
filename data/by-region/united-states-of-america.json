@@ -6775,7 +6775,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 76,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Growth",
     "formerNames": [
       "Curebit"
@@ -78179,7 +78179,7 @@
     "id": "yc-okteto",
     "source": "yc",
     "name": "Okteto",
-    "description": "Cloud Development Environments with one click",
+    "description": "Ephemeral environments on Kubernetes",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/65528c51b9eccc4012b7ad09d502f4452f49c03f.png",
     "website": "https://okteto.com",
     "sourceUrl": "https://www.ycombinator.com/companies/okteto",
@@ -78205,7 +78205,7 @@
     "status": "active",
     "teamSize": 30,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [
       {
         "name": "Ramiro Berrelleza",
@@ -104410,7 +104410,7 @@
     "status": "active",
     "teamSize": 75,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "Inspectify (formerly Home Inspections App)"
     ],
@@ -142751,7 +142751,7 @@
     "status": "active",
     "teamSize": 24,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "StreamD"
     ],
@@ -169418,7 +169418,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 3,
+    "teamSize": 5,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -175198,7 +175198,7 @@
     "id": "yc-gloglo",
     "source": "yc",
     "name": "GloGlo",
-    "description": "Curing and preventing type 1 diabetes",
+    "description": "Solving autoimmune diseases with AI, starting with type 1 diabetes.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
     "website": "https://gloglo.com",
     "sourceUrl": "https://www.ycombinator.com/companies/gloglo",
@@ -175206,12 +175206,14 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Consumer",
+      "Healthcare",
+      "Therapeutics",
       "AI-powered Drug Discovery",
-      "Consumer Health Services",
       "Biotech",
-      "E-commerce",
-      "AI"
+      "AI",
+      "Consumer",
+      "Consumer Health Services",
+      "E-commerce"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -182387,7 +182389,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 10,
+    "teamSize": 25,
     "isHiring": true,
     "stage": "Early",
     "formerNames": [
@@ -192641,7 +192643,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "Schematx",
       "Diode, Inc."
@@ -202615,7 +202617,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 10,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -207478,7 +207480,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 8,
+    "teamSize": 10,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -216030,7 +216032,7 @@
     "status": "active",
     "teamSize": 3,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "Arcada"
     ],
@@ -226028,7 +226030,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 7,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -227093,7 +227095,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 1,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -232556,6 +232558,7 @@
     "tags": [
       "SaaS",
       "Biotech",
+      "Healthcare",
       "AI"
     ],
     "year": 2026,
@@ -243776,7 +243779,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -244193,7 +244196,7 @@
     "id": "yc-synphony",
     "source": "yc",
     "name": "Synphony",
-    "description": "robots & software for physical industries.",
+    "description": "Train and deploy robots for any task in any embodiment, quickly.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/53a6cd89169bae47c2b36df57db7197b466fab96.png",
     "website": "https://www.synphony.co/",
     "sourceUrl": "https://www.ycombinator.com/companies/synphony",
@@ -245821,8 +245824,8 @@
     "id": "yc-tday-com",
     "source": "yc",
     "name": "tday.com",
-    "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/28748aad0c8ba0aed432ef309d8dd322adb412a3.png",
+    "description": "AI-recorded Screen Studio style editable demos",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5794019006cfb6578d95d075fcb79d63cf1aee8e.png",
     "website": "https://tday.com",
     "sourceUrl": "https://www.ycombinator.com/companies/tdaycom",
     "location": "San Francisco, CA, USA",
@@ -246831,7 +246834,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -252498,7 +252501,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -254407,7 +254410,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 3,
+    "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -266272,6 +266275,7 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Hard Tech",
       "Hardware",
       "Electronics",
       "AI"
@@ -271100,7 +271104,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -271184,7 +271188,7 @@
     "id": "yc-super-powers-mobility-spm",
     "source": "yc",
     "name": "Super Powers Mobility (SPM)",
-    "description": "Defense compliant modular battery packs power systems and vehicles",
+    "description": "Defense compliant modular battery packs and power systems",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a5c35648a3ac00d7da1ce27b5b0a62372c6a5f2e.png",
     "website": "https://www.spm.us",
     "sourceUrl": "https://www.ycombinator.com/companies/super-powers-mobility-spm",

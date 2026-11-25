@@ -1284,50 +1284,6 @@
     "alsoIn": []
   },
   {
-    "id": "ef-ex-sentient",
-    "source": "ef",
-    "name": "Ex Sentient",
-    "description": "Trusted AI agents for critical infrastructure operations.",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Entrepreneur First",
-    "programSlugs": [
-      "ef"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Harry Philips",
-        "role": "CEO",
-        "linkedin": "https://www.linkedin.com/in/harry-philips-30a4bb158/"
-      },
-      {
-        "name": "Tomás Borges",
-        "role": "CTO",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "investor": ""
-    },
-    "country": "",
-    "alsoIn": []
-  },
-  {
     "id": "ef-firstocean",
     "source": "ef",
     "name": "Firstocean",
@@ -2240,19 +2196,20 @@
     "alsoIn": []
   },
   {
-    "id": "ef-pactio-technologies",
+    "id": "ef-gini-health",
     "source": "ef",
-    "name": "Pactio Technologies",
-    "description": "AI-native finance workflows in Microsoft Office.",
+    "name": "Gini Health",
+    "description": "The health intelligence platform for the female body.",
     "logo": "",
     "website": "",
-    "location": "London",
+    "location": "Europe",
     "region": "",
     "subregion": "",
     "tags": [
-      "Financial Services"
+      "AI",
+      "Healthcare"
     ],
-    "year": 2021,
+    "year": 2026,
     "program": "Entrepreneur First",
     "programSlugs": [
       "ef"
@@ -2263,14 +2220,14 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "Eric Heimark",
-        "role": "CEO",
-        "linkedin": "http://linkedin.com/in/eric-heimark"
+        "name": "Richard Robinet-Duffo",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/richard-robinet-duffo/"
       },
       {
-        "name": "Lorenzo Foglianti",
-        "role": "Founding CTO",
-        "linkedin": "https://www.linkedin.com/in/lorenzo-foglianti/"
+        "name": "Kenza Moussaoui Rahali",
+        "role": "COO",
+        "linkedin": "https://www.linkedin.com/in/kenzarahali"
       }
     ],
     "social": {
@@ -2280,10 +2237,10 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "United Kingdom",
       "investor": ""
     },
-    "country": "United Kingdom",
+    "firstSeen": "2026-11-25",
+    "country": "",
     "alsoIn": []
   },
   {
@@ -25602,5 +25559,100 @@
     },
     "country": "United Kingdom",
     "alsoIn": []
+  },
+  {
+    "id": "ef-ex-sentient",
+    "source": "ef",
+    "name": "Ex Sentient",
+    "description": "Trusted AI agents for critical infrastructure operations.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Harry Philips",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/harry-philips-30a4bb158/"
+      },
+      {
+        "name": "Tomás Borges",
+        "role": "CTO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    },
+    "country": "",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-25"
+  },
+  {
+    "id": "ef-pactio-technologies",
+    "source": "ef",
+    "name": "Pactio Technologies",
+    "description": "AI-native finance workflows in Microsoft Office.",
+    "logo": "",
+    "website": "",
+    "location": "London",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Financial Services"
+    ],
+    "year": 2021,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Eric Heimark",
+        "role": "CEO",
+        "linkedin": "http://linkedin.com/in/eric-heimark"
+      },
+      {
+        "name": "Lorenzo Foglianti",
+        "role": "Founding CTO",
+        "linkedin": "https://www.linkedin.com/in/lorenzo-foglianti/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United Kingdom",
+      "investor": ""
+    },
+    "country": "United Kingdom",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-25"
   }
 ]

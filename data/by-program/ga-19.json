@@ -898,18 +898,16 @@
     "alsoIn": []
   },
   {
-    "id": "500-homigo",
+    "id": "500-crema",
     "source": "500",
-    "name": "Homigo",
-    "description": "Provider of home services platform intended to help users take care of all their home maintenance and repairs. The company's platform offers concierge service for managing home maintenance such as plumbing, landscaping, pools, exterior, broken appliances, handyman, HVAC, masonry, roofing and electrical wiring repair, enabling users to avail a one point of contact for home maintenance & repair needs.",
-    "logo": "",
-    "website": "https://setter.com",
-    "location": "Canada",
-    "region": "Canada",
+    "name": "Crema",
+    "description": "Developer of an online platform to provide coffee subscription services. The company operates a marketplace enabling coffee drinkers to subscribe to top coffees from craft roasters.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a359f116-dd6d-42c7-a4fa-af9d6d98777b.png",
+    "website": "https://crema.co",
+    "location": "United States",
+    "region": "North America",
     "subregion": "",
-    "tags": [
-      "Real Estate"
-    ],
+    "tags": [],
     "year": 2016,
     "program": "GA 19",
     "programSlugs": [
@@ -922,7 +920,12 @@
     "isCurrentSession": false,
     "founders": [
       {
-        "name": "David Steckel",
+        "name": "Emily McIntyre",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tyler Tate",
         "role": "",
         "linkedin": ""
       }
@@ -934,9 +937,9 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Canada"
+      "country": "United States"
     },
-    "country": "Canada",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -982,51 +985,6 @@
       },
       {
         "name": "Marcel Alcoverro",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "500-crema",
-    "source": "500",
-    "name": "Crema",
-    "description": "Developer of an online platform to provide coffee subscription services. The company operates a marketplace enabling coffee drinkers to subscribe to top coffees from craft roasters.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a359f116-dd6d-42c7-a4fa-af9d6d98777b.png",
-    "website": "https://crema.co",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [],
-    "year": 2016,
-    "program": "GA 19",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Emily McIntyre",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tyler Tate",
         "role": "",
         "linkedin": ""
       }
@@ -1127,6 +1085,48 @@
       "country": "United States"
     },
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-homigo",
+    "source": "500",
+    "name": "Homigo",
+    "description": "Provider of home services platform intended to help users take care of all their home maintenance and repairs. The company's platform offers concierge service for managing home maintenance such as plumbing, landscaping, pools, exterior, broken appliances, handyman, HVAC, masonry, roofing and electrical wiring repair, enabling users to avail a one point of contact for home maintenance & repair needs.",
+    "logo": "",
+    "website": "https://setter.com",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Real Estate"
+    ],
+    "year": 2016,
+    "program": "GA 19",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "David Steckel",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    },
+    "country": "Canada",
     "alsoIn": []
   }
 ]

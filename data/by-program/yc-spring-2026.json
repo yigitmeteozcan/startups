@@ -4215,7 +4215,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -4577,7 +4577,7 @@
     "id": "yc-synphony",
     "source": "yc",
     "name": "Synphony",
-    "description": "robots & software for physical industries.",
+    "description": "Train and deploy robots for any task in any embodiment, quickly.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/53a6cd89169bae47c2b36df57db7197b466fab96.png",
     "website": "https://www.synphony.co/",
     "sourceUrl": "https://www.ycombinator.com/companies/synphony",
@@ -6472,8 +6472,8 @@
     "id": "yc-tday-com",
     "source": "yc",
     "name": "tday.com",
-    "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/28748aad0c8ba0aed432ef309d8dd322adb412a3.png",
+    "description": "AI-recorded Screen Studio style editable demos",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5794019006cfb6578d95d075fcb79d63cf1aee8e.png",
     "website": "https://tday.com",
     "sourceUrl": "https://www.ycombinator.com/companies/tdaycom",
     "location": "San Francisco, CA, USA",
@@ -7528,7 +7528,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -9773,13 +9773,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-kugelaudio",
+    "id": "yc-elbic-formerly-kugelaudio",
     "source": "yc",
-    "name": "KugelAudio",
-    "description": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/44c1f17a88c6716d09288318cb5f9de77b9bdbbb.png",
-    "website": "https://kugelaudio.com/en",
-    "sourceUrl": "https://www.ycombinator.com/companies/kugelaudio",
+    "name": "elbic (formerly KugelAudio)",
+    "description": "elbic is an on-prem Voice AI model supporting 30+ languages ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8e95119db487e10dcb6ed64e8458581394c46d9a.png",
+    "website": "https://elbic.com/",
+    "sourceUrl": "https://www.ycombinator.com/companies/elbic",
     "location": "Berlin, Berlin, Germany",
     "region": "Germany",
     "subregion": "",
@@ -9799,6 +9799,9 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "KugelAudio"
+    ],
     "founders": [
       {
         "name": "Viktor Presber",
@@ -9822,6 +9825,7 @@
       "crunchbase": ""
     },
     "extra": {},
+    "firstSeen": "2026-11-25",
     "country": "Germany",
     "alsoIn": []
   },
@@ -10814,6 +10818,61 @@
     "extra": {},
     "country": "United States",
     "alsoIn": []
+  },
+  {
+    "id": "yc-kugelaudio",
+    "source": "yc",
+    "name": "KugelAudio",
+    "description": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/44c1f17a88c6716d09288318cb5f9de77b9bdbbb.png",
+    "website": "https://kugelaudio.com/en",
+    "sourceUrl": "https://www.ycombinator.com/companies/kugelaudio",
+    "location": "Berlin, Berlin, Germany",
+    "region": "Germany",
+    "subregion": "",
+    "tags": [
+      "Infrastructure"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Viktor Presber",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/viktor-presber",
+        "bio": "Co-Founder of KugelAudio, building foundational Text-To-Speech models for customer support. Started founding ventures at 17 with a local video production company. Later co-founded full-house.io, scaling to $300K ARR in six months with enterprise clients like Siemens Energy, Hitachi Rail, and Barilla. Previously co-founded Sagemode, securing partnerships with two major esports teams.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/292b5b530e0dcd807d063494a7fcffe268d73a9d.jpg"
+      },
+      {
+        "name": "Kajo Kratzenstein",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/kratzenstein",
+        "bio": "Founder at KugelAudio (YC P26). Previously CTO at Sagemode, scaling an in-game AI coach to 1,000+ users with deep League of Legends integration. Built production aneurysm detection model at Floy GmbH. MA and BSc in Computer Science from Hasso Plattner Institute.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/13d970157877e6d170963a2e971eac2dc71c2904.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "Germany",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-25"
   },
   {
     "id": "yc-centralcoms",

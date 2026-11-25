@@ -1167,7 +1167,7 @@
     "isCurrentSession": true,
     "founders": [],
     "social": {
-      "linkedin": "",
+      "linkedin": "https://linkedin.com/company/umbra-ai",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -1204,7 +1204,7 @@
     "isCurrentSession": true,
     "founders": [],
     "social": {
-      "linkedin": "",
+      "linkedin": "https://linkedin.com/company/nuvante-io",
       "twitter": "",
       "facebook": "",
       "crunchbase": ""
@@ -5175,6 +5175,45 @@
     "alsoIn": []
   },
   {
+    "id": "techstars-pulsar-space-systems",
+    "source": "techstars",
+    "name": "Pulsar Space Systems",
+    "description": "Tracking launch, reentry, hypersonic, and VLEO objects via ground and airborne GNSS stations - turning the ionosphere into a sensor.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_b385ead16cb07f49f3d488ef4.png",
+    "website": "https://pulsarspacesystems.com",
+    "location": "Louisville, Colorado, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Space tech"
+    ],
+    "year": 2026,
+    "program": "Techstars Space Accelerator",
+    "programSlugs": [
+      "space"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": true,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/pulsar-space-systems",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Louisville",
+      "state_province": "Colorado",
+      "country": "United States"
+    },
+    "firstSeen": "2026-11-25",
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "techstars-namu-robotics",
     "source": "techstars",
     "name": "Namu Robotics",
@@ -8658,7 +8697,7 @@
     "source": "yc",
     "name": "Didit",
     "description": "Infrastructure for identity and fraud.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c3f50a228cdf3568c8631e4feca3095106e0e9cc.png",
     "website": "https://didit.me/",
     "sourceUrl": "https://www.ycombinator.com/companies/didit",
     "location": "CT, Spain",
@@ -9602,6 +9641,7 @@
     "tags": [
       "SaaS",
       "Biotech",
+      "Healthcare",
       "AI"
     ],
     "year": 2026,
@@ -14746,7 +14786,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "formerNames": [
       "pulse",
@@ -23111,7 +23151,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -23528,7 +23568,7 @@
     "id": "yc-synphony",
     "source": "yc",
     "name": "Synphony",
-    "description": "robots & software for physical industries.",
+    "description": "Train and deploy robots for any task in any embodiment, quickly.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/53a6cd89169bae47c2b36df57db7197b466fab96.png",
     "website": "https://www.synphony.co/",
     "sourceUrl": "https://www.ycombinator.com/companies/synphony",
@@ -25578,8 +25618,8 @@
     "id": "yc-tday-com",
     "source": "yc",
     "name": "tday.com",
-    "description": "AI that turns your product into on-brand marketing content",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/28748aad0c8ba0aed432ef309d8dd322adb412a3.png",
+    "description": "AI-recorded Screen Studio style editable demos",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5794019006cfb6578d95d075fcb79d63cf1aee8e.png",
     "website": "https://tday.com",
     "sourceUrl": "https://www.ycombinator.com/companies/tdaycom",
     "location": "San Francisco, CA, USA",
@@ -26756,7 +26796,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -29294,13 +29334,13 @@
     "alsoIn": []
   },
   {
-    "id": "yc-kugelaudio",
+    "id": "yc-elbic-formerly-kugelaudio",
     "source": "yc",
-    "name": "KugelAudio",
-    "description": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/44c1f17a88c6716d09288318cb5f9de77b9bdbbb.png",
-    "website": "https://kugelaudio.com/en",
-    "sourceUrl": "https://www.ycombinator.com/companies/kugelaudio",
+    "name": "elbic (formerly KugelAudio)",
+    "description": "elbic is an on-prem Voice AI model supporting 30+ languages ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8e95119db487e10dcb6ed64e8458581394c46d9a.png",
+    "website": "https://elbic.com/",
+    "sourceUrl": "https://www.ycombinator.com/companies/elbic",
     "location": "Berlin, Berlin, Germany",
     "region": "Germany",
     "subregion": "",
@@ -29320,6 +29360,9 @@
     "teamSize": 5,
     "isHiring": true,
     "stage": "Early",
+    "formerNames": [
+      "KugelAudio"
+    ],
     "founders": [
       {
         "name": "Viktor Presber",
@@ -29343,6 +29386,7 @@
       "crunchbase": ""
     },
     "extra": {},
+    "firstSeen": "2026-11-25",
     "country": "Germany",
     "alsoIn": []
   },
@@ -33147,7 +33191,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -35141,7 +35185,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 3,
+    "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -46304,7 +46348,7 @@
     "id": "yc-raven-ravenphone-com",
     "source": "yc",
     "name": "Raven",
-    "description": "A new phone rebuilt around agents: more done, less time on screen.",
+    "description": "AI phone rebuilt around agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/754de4c0d947ee0ffec143a04381c7d7cdcc0667.png",
     "website": "https://ravenphone.com",
     "sourceUrl": "https://www.ycombinator.com/companies/ravenphone",
@@ -48189,6 +48233,7 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Hard Tech",
       "Hardware",
       "Electronics",
       "AI"
@@ -53587,7 +53632,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -53671,7 +53716,7 @@
     "id": "yc-super-powers-mobility-spm",
     "source": "yc",
     "name": "Super Powers Mobility (SPM)",
-    "description": "Defense compliant modular battery packs power systems and vehicles",
+    "description": "Defense compliant modular battery packs and power systems",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a5c35648a3ac00d7da1ce27b5b0a62372c6a5f2e.png",
     "website": "https://www.spm.us",
     "sourceUrl": "https://www.ycombinator.com/companies/super-powers-mobility-spm",
@@ -54354,6 +54399,61 @@
     "extra": {},
     "country": "United States",
     "alsoIn": []
+  },
+  {
+    "id": "yc-kugelaudio",
+    "source": "yc",
+    "name": "KugelAudio",
+    "description": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/44c1f17a88c6716d09288318cb5f9de77b9bdbbb.png",
+    "website": "https://kugelaudio.com/en",
+    "sourceUrl": "https://www.ycombinator.com/companies/kugelaudio",
+    "location": "Berlin, Berlin, Germany",
+    "region": "Germany",
+    "subregion": "",
+    "tags": [
+      "Infrastructure"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Viktor Presber",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/viktor-presber",
+        "bio": "Co-Founder of KugelAudio, building foundational Text-To-Speech models for customer support. Started founding ventures at 17 with a local video production company. Later co-founded full-house.io, scaling to $300K ARR in six months with enterprise clients like Siemens Energy, Hitachi Rail, and Barilla. Previously co-founded Sagemode, securing partnerships with two major esports teams.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/292b5b530e0dcd807d063494a7fcffe268d73a9d.jpg"
+      },
+      {
+        "name": "Kajo Kratzenstein",
+        "role": "Founder/CTO",
+        "linkedin": "https://linkedin.com/in/kratzenstein",
+        "bio": "Founder at KugelAudio (YC P26). Previously CTO at Sagemode, scaling an in-game AI coach to 1,000+ users with deep League of Legends integration. Built production aneurysm detection model at Floy GmbH. MA and BSc in Computer Science from Hasso Plattner Institute.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/13d970157877e6d170963a2e971eac2dc71c2904.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "Germany",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-25"
   },
   {
     "id": "yc-mantle",
@@ -56667,7 +56767,7 @@
     "name": "Selqo",
     "description": "AI sales agent for SMBs",
     "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6b040864e54f28f2589aa9d4_teams%252Fbafe39ef-c707-4801-a74b-737d6dca10f3%252Flogos%252FLogo_white_small.jpeg",
-    "website": "https://#",
+    "website": "https://selqo.ai",
     "location": "",
     "region": "",
     "subregion": "",
@@ -59970,50 +60070,6 @@
     "alsoIn": []
   },
   {
-    "id": "ef-ex-sentient",
-    "source": "ef",
-    "name": "Ex Sentient",
-    "description": "Trusted AI agents for critical infrastructure operations.",
-    "logo": "",
-    "website": "",
-    "location": "",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2026,
-    "program": "Entrepreneur First",
-    "programSlugs": [
-      "ef"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Harry Philips",
-        "role": "CEO",
-        "linkedin": "https://www.linkedin.com/in/harry-philips-30a4bb158/"
-      },
-      {
-        "name": "Tomás Borges",
-        "role": "CTO",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "investor": ""
-    },
-    "country": "",
-    "alsoIn": []
-  },
-  {
     "id": "ef-firstocean",
     "source": "ef",
     "name": "Firstocean",
@@ -60832,6 +60888,54 @@
     "alsoIn": []
   },
   {
+    "id": "ef-gini-health",
+    "source": "ef",
+    "name": "Gini Health",
+    "description": "The health intelligence platform for the female body.",
+    "logo": "",
+    "website": "",
+    "location": "Europe",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "AI",
+      "Healthcare"
+    ],
+    "year": 2026,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Richard Robinet-Duffo",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/richard-robinet-duffo/"
+      },
+      {
+        "name": "Kenza Moussaoui Rahali",
+        "role": "COO",
+        "linkedin": "https://www.linkedin.com/in/kenzarahali"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    },
+    "firstSeen": "2026-11-25",
+    "country": "",
+    "alsoIn": []
+  },
+  {
     "id": "ef-eversettled",
     "source": "ef",
     "name": "EverSettled",
@@ -61459,6 +61563,52 @@
     },
     "country": "India",
     "alsoIn": []
+  },
+  {
+    "id": "ef-ex-sentient",
+    "source": "ef",
+    "name": "Ex Sentient",
+    "description": "Trusted AI agents for critical infrastructure operations.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2026,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Harry Philips",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/harry-philips-30a4bb158/"
+      },
+      {
+        "name": "Tomás Borges",
+        "role": "CTO",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    },
+    "country": "",
+    "alsoIn": [],
+    "listed": false,
+    "delistedAt": "2026-11-25"
   },
   {
     "id": "alchemist-qodex-quantum",

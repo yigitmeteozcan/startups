@@ -2599,9 +2599,9 @@
     "id": "yc-x-zell",
     "source": "yc",
     "name": "X-Zell",
-    "description": "Early, pain-free cancer detection. ",
+    "description": "Same-day cancer diagnosis from minimally invasive samples",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3fafbc0fbed91c91e5664f3b665740b3a037febe.png",
-    "website": "http://www.x-zell.com",
+    "website": "https://x-zell.com",
     "sourceUrl": "https://www.ycombinator.com/companies/x-zell",
     "location": "Bangkok, Thailand; Düsseldorf, NRW, Germany",
     "region": "Thailand",
@@ -2621,7 +2621,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 19,
+    "teamSize": 11,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -12165,8 +12165,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2e227664daa8b8943b9d87641ef2bf7c2b5c1b42.png",
     "website": "https://www.inito.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/inito",
-    "location": "Bengaluru, KA, India",
-    "region": "India",
+    "location": "Dubai, Dubai, United Arab Emirates; Bengaluru, KA, India",
+    "region": "United Arab Emirates",
     "subregion": "",
     "tags": [
       "Healthcare",
@@ -12210,7 +12210,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "India",
+    "country": "United Arab Emirates",
     "alsoIn": []
   },
   {
@@ -32598,6 +32598,72 @@
     "alsoIn": []
   },
   {
+    "id": "yc-gloglo",
+    "source": "yc",
+    "name": "GloGlo",
+    "description": "Solving autoimmune diseases with AI, starting with type 1 diabetes.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
+    "website": "https://gloglo.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/gloglo",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Therapeutics",
+      "AI-powered Drug Discovery",
+      "Biotech",
+      "AI",
+      "Consumer",
+      "Consumer Health Services",
+      "E-commerce"
+    ],
+    "year": 2024,
+    "program": "YC Winter 2024",
+    "programSlugs": [
+      "yc-winter-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
+    "formerNames": [
+      "Markprompt",
+      "14.ai"
+    ],
+    "founders": [
+      {
+        "name": "Marie Schneegans",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/marie-schneegans",
+        "twitter": "https://twitter.com/marieschneegans",
+        "bio": "co-founder GloGlo.com: curing autoimmune diseases with AI, starting with type 1 diabetes",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/85a05fccd160477dc3140f8def1392421375435a.jpg"
+      },
+      {
+        "name": "Michael Fester",
+        "role": "Founder",
+        "linkedin": "https://linkedin.com/in/michaelfester",
+        "twitter": "https://twitter.com/michaelfester",
+        "bio": "Co-founder GloGlo.com. Previously, co-founder of Snips (AI voice platform, acquired by Sonos). Maths at Cambridge.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f1b9466bb4e820a48afa4b5e44d74254b46152d1.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-inquery",
     "source": "yc",
     "name": "InQuery",
@@ -35830,7 +35896,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 10,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -38842,6 +38908,71 @@
     "alsoIn": []
   },
   {
+    "id": "yc-10x-science",
+    "source": "yc",
+    "name": "10x Science",
+    "description": "The AI-native platform for next-generation protein characterization.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/80a81e39e735a3e350222fa5fd72596c97653b0a.png",
+    "website": "https://10xscience.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/10x-science",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "SaaS",
+      "Biotech",
+      "Healthcare",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Winter 2026",
+    "programSlugs": [
+      "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 5,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "David Roberts",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/davidstephenroberts/",
+        "twitter": "https://x.com/DSRoberts007",
+        "bio": "Chemistry postdoc and Damon Runyon Cancer Research Fellow in Prof. Carolyn Bertozzi's lab (2022 Nobel Prize in Chemistry) at Stanford University. Next-generation scientific leader in chemical biology and glycobiology with 1800+ citations & h-index 23. Received my B.S. double major in chemistry & mathematics at UC San Diego (2016) and Ph.D. in materials chemistry & analytical chemistry at the University of Wisconsin-Madison (2023).",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c6458f5ddffbca7a68cf637083a86d14c9d13bfc.jpg"
+      },
+      {
+        "name": "Andrew Reiter",
+        "role": "Founder/COO",
+        "linkedin": "https://www.linkedin.com/in/andrew-r-593066136",
+        "bio": "Previously received my B.S. in Biology from UNC-Chapel Hill. I then joined Dr. Steven Carr’s Proteomics Platform Lab at the Broad Institute of MIT and Harvard, where I developed new methods in mass spectrometry. I later became a Ph.D. student and NSF-GRFP fellow in the Department of Biology at Stanford University, where I was co-advised by Dr. Carolyn Bertozzi (2022 Nobel Laureate in Chemistry) and Dr. Or Gozani.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f816be19ae8b5bf8c4d4d46cbe3af248805457d8.jpg"
+      },
+      {
+        "name": "Vishnu Tejus",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/vishnutejus",
+        "twitter": "https://www.twitter.com/vrtejus",
+        "bio": "I am a 2x YC Founder. Previously, I built AI for go-to-market teams as the 2nd hire and founding engineer at Nooks. Then, I forward deployed myself in research labs at the University of Washington, UCSF, and Stanford, where I was mentored by world-renowned scientists in analytical chemistry and cancer research. In < 1 year, I published 2 papers and won 4 national awards. Now, I'm building ultrafast AI models for drug discovery teams to characterize proteins and pharmaceutical candidates.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2de53d26f48f7a5e8acee1b465c8fe66b7946c60.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-strand-ai",
     "source": "yc",
     "name": "Strand AI",
@@ -40193,7 +40324,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [
@@ -45950,186 +46081,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-helloflo",
-    "source": "500",
-    "name": "HelloFlo",
-    "description": "Provider of a subscription-based online business that delivers feminine products. The company provides products, services and everyday health and wellness resources and it also encourages women empowerment management.",
-    "logo": "",
-    "website": "https://helloflo.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Naama Bloom",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "500-kuraseru",
-    "source": "500",
-    "name": "Kuraseru",
-    "description": "Developer of a medical enterprise software designed to connect patients with professional care managers. The company's software provides a tool that can retrieve optimum nursing facility information instantaneously, enabling users to choose their treatment provider smartly.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c3ce90e-6a50-43ad-be16-98c25d6a5f7f.png",
-    "website": "https://www.kuraseru.co.jp",
-    "location": "Japan",
-    "region": "North Asia",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2018,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Daiki Kawahara",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Japan"
-    },
-    "country": "Japan",
-    "alsoIn": []
-  },
-  {
-    "id": "500-lready",
-    "source": "500",
-    "name": "Lready",
-    "description": "Provider of a location and communication smartphone application intended to keep millions of families and close friends connected. The company's location and communication application addresses the immediate concerns of parents and rapidly redefining the safety and security landscape, enabling users to see where family members are on a private map, get help in an emergency and group chat.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8d81b360-09c3-46f9-a191-235621913cf1.png",
-    "website": "https://life360.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2010,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Alex Haro",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Chris Hulls",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": [
-      "plugandplay"
-    ]
-  },
-  {
-    "id": "500-cyberpsyc",
-    "source": "500",
-    "name": "Cyberpsyc",
-    "description": "Provider of on-demand online therapy for mental health issues designed to keep mental health in check. The company's on-demand online therapy for mental health is a self-help interactive therapy and specializes in providing computerized cognitive behavioral therapy (CCBT) for the treatment of stress, anxiety and depression, enabling students to get help for their mental well-being.",
-    "logo": "",
-    "website": "https://mywelltrack.com",
-    "location": "Canada",
-    "region": "Canada",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2017,
-    "program": "GA 20",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Darren Piercey",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Natasha O'Brien",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    },
-    "country": "Canada",
-    "alsoIn": []
-  },
-  {
     "id": "500-cakehealth",
     "source": "500",
     "name": "CakeHealth",
@@ -46660,70 +46611,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-careport-health",
-    "source": "500",
-    "name": "Careport Health",
-    "description": "Provider of software to facilitate post-acute hospital care. The company offers a web-based platform enabling hospitals, patients and post-hospital care providers to coordinate and manage care across the post-acute care continuum. The platform includes tools enabling real-time data and alerts for patient management, evaluating patient outcomes and assisting patients in selecting post-acute providers from hospitals' preferred networks.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2b212d2f-0043-42e6-9387-6fdfb704dab4.png",
-    "website": "https://careporthealth.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2014,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Jonathan Helm",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kira Yugay",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Lissy Hu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Vivek Garipalli",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jessica Hohman",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": [
-      "techstars"
-    ]
-  },
-  {
     "id": "500-health-co-stealth",
     "source": "500",
     "name": "Health Co (Stealth)",
@@ -46817,6 +46704,250 @@
     "alsoIn": [
       "yc"
     ]
+  },
+  {
+    "id": "500-careport-health",
+    "source": "500",
+    "name": "Careport Health",
+    "description": "Provider of software to facilitate post-acute hospital care. The company offers a web-based platform enabling hospitals, patients and post-hospital care providers to coordinate and manage care across the post-acute care continuum. The platform includes tools enabling real-time data and alerts for patient management, evaluating patient outcomes and assisting patients in selecting post-acute providers from hospitals' preferred networks.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2b212d2f-0043-42e6-9387-6fdfb704dab4.png",
+    "website": "https://careporthealth.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Jonathan Helm",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kira Yugay",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Lissy Hu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Vivek Garipalli",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jessica Hohman",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": [
+      "techstars"
+    ]
+  },
+  {
+    "id": "500-helloflo",
+    "source": "500",
+    "name": "HelloFlo",
+    "description": "Provider of a subscription-based online business that delivers feminine products. The company provides products, services and everyday health and wellness resources and it also encourages women empowerment management.",
+    "logo": "",
+    "website": "https://helloflo.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2014,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Naama Bloom",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-kuraseru",
+    "source": "500",
+    "name": "Kuraseru",
+    "description": "Developer of a medical enterprise software designed to connect patients with professional care managers. The company's software provides a tool that can retrieve optimum nursing facility information instantaneously, enabling users to choose their treatment provider smartly.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c3ce90e-6a50-43ad-be16-98c25d6a5f7f.png",
+    "website": "https://www.kuraseru.co.jp",
+    "location": "Japan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2018,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Daiki Kawahara",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Japan"
+    },
+    "country": "Japan",
+    "alsoIn": []
+  },
+  {
+    "id": "500-lready",
+    "source": "500",
+    "name": "Lready",
+    "description": "Provider of a location and communication smartphone application intended to keep millions of families and close friends connected. The company's location and communication application addresses the immediate concerns of parents and rapidly redefining the safety and security landscape, enabling users to see where family members are on a private map, get help in an emergency and group chat.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8d81b360-09c3-46f9-a191-235621913cf1.png",
+    "website": "https://life360.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2010,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Alex Haro",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Chris Hulls",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": [
+      "plugandplay"
+    ]
+  },
+  {
+    "id": "500-cyberpsyc",
+    "source": "500",
+    "name": "Cyberpsyc",
+    "description": "Provider of on-demand online therapy for mental health issues designed to keep mental health in check. The company's on-demand online therapy for mental health is a self-help interactive therapy and specializes in providing computerized cognitive behavioral therapy (CCBT) for the treatment of stress, anxiety and depression, enabling students to get help for their mental well-being.",
+    "logo": "",
+    "website": "https://mywelltrack.com",
+    "location": "Canada",
+    "region": "Canada",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2017,
+    "program": "GA 20",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Darren Piercey",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Natasha O'Brien",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    },
+    "country": "Canada",
+    "alsoIn": []
   },
   {
     "id": "ef-accurx",
@@ -46959,6 +47090,54 @@
       "investor": "Creandum"
     },
     "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "ef-gini-health",
+    "source": "ef",
+    "name": "Gini Health",
+    "description": "The health intelligence platform for the female body.",
+    "logo": "",
+    "website": "",
+    "location": "Europe",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "AI",
+      "Healthcare"
+    ],
+    "year": 2026,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Richard Robinet-Duffo",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/richard-robinet-duffo/"
+      },
+      {
+        "name": "Kenza Moussaoui Rahali",
+        "role": "COO",
+        "linkedin": "https://www.linkedin.com/in/kenzarahali"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    },
+    "firstSeen": "2026-11-25",
+    "country": "",
     "alsoIn": []
   },
   {

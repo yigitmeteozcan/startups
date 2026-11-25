@@ -8467,7 +8467,7 @@
     "status": "active",
     "teamSize": 24,
     "isHiring": true,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "StreamD"
     ],
@@ -9517,7 +9517,7 @@
     "status": "active",
     "teamSize": 8,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "formerNames": [
       "Pagaa"
     ],
@@ -13477,95 +13477,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-shopgo",
-    "source": "500",
-    "name": "ShopGo",
-    "description": "Provider of software platform designed to create e-commerce Websites. The company's software platform provides local support to its merchants and their changing needs at every stage, enabling merchants to succeed in their online business.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/017c6531-a0a4-4b90-a3b6-81832b6c42e1.png",
-    "website": "https://shopgo.me",
-    "location": "British Virgin Islands",
-    "region": "Africa",
-    "subregion": "",
-    "tags": [
-      "Payments"
-    ],
-    "year": 2013,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Mohanad Ghashim",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "British Virgin Islands"
-    },
-    "country": "British Virgin Islands",
-    "alsoIn": []
-  },
-  {
-    "id": "500-kudo",
-    "source": "500",
-    "name": "Kudo",
-    "description": "Provider of an online platform designed to help businesses to create opportunities to grow their current business through technology. The company's online platform offers to make cash payments through a network of electronic machines to purchase e-commerce products without a credit card, as well as transportation tickets, enabling users to shop online with a safe payment gateway.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a67de5f-b2ab-4211-a96d-88c0ba6f879e.png",
-    "website": "https://kudo.co.id",
-    "location": "Singapore",
-    "region": "South Asia",
-    "subregion": "",
-    "tags": [
-      "Payments"
-    ],
-    "year": 2015,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Agung Nugroho",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Albert Lucius",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Singapore"
-    },
-    "country": "Singapore",
-    "alsoIn": []
-  },
-  {
     "id": "500-curlec",
     "source": "500",
     "name": "Curlec",
@@ -14281,6 +14192,95 @@
       "country": "United States"
     },
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-shopgo",
+    "source": "500",
+    "name": "ShopGo",
+    "description": "Provider of software platform designed to create e-commerce Websites. The company's software platform provides local support to its merchants and their changing needs at every stage, enabling merchants to succeed in their online business.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/017c6531-a0a4-4b90-a3b6-81832b6c42e1.png",
+    "website": "https://shopgo.me",
+    "location": "British Virgin Islands",
+    "region": "Africa",
+    "subregion": "",
+    "tags": [
+      "Payments"
+    ],
+    "year": 2013,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Mohanad Ghashim",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "British Virgin Islands"
+    },
+    "country": "British Virgin Islands",
+    "alsoIn": []
+  },
+  {
+    "id": "500-kudo",
+    "source": "500",
+    "name": "Kudo",
+    "description": "Provider of an online platform designed to help businesses to create opportunities to grow their current business through technology. The company's online platform offers to make cash payments through a network of electronic machines to purchase e-commerce products without a credit card, as well as transportation tickets, enabling users to shop online with a safe payment gateway.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a67de5f-b2ab-4211-a96d-88c0ba6f879e.png",
+    "website": "https://kudo.co.id",
+    "location": "Singapore",
+    "region": "South Asia",
+    "subregion": "",
+    "tags": [
+      "Payments"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Agung Nugroho",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Albert Lucius",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Singapore"
+    },
+    "country": "Singapore",
     "alsoIn": []
   }
 ]
