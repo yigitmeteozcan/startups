@@ -229,17 +229,29 @@ function mergeLiveWithCommitted(prior, live, now = new Date()) {
     const d = domainOf(c.website);
     return `${norm(c.name)}|${d && !SHARED_HOSTS.has(d) ? d : ''}`;
   };
+  // A source that returns the very same record twice (Plug and Play's API
+  // did, through overlapping pages) must not create duplicate companies.
+  const seenLive = new Set();
+  live = live.filter((c) => {
+    const k = JSON.stringify(c);
+    if (seenLive.has(k)) return false;
+    seenLive.add(k);
+    return true;
+  });
   const { pairs, unmatched } = matchPrior(prior, live);
   const today = now.toISOString().slice(0, 10);
   // A live record with no committed counterpart is a new company: stamp the
   // day it first appeared. Not on a source's first run (everything would look
   // new), nor when an implausible share is unmatched (e.g. the source changed
-  // every URL at once) — then nothing is stamped rather than everything.
+  // every URL at once) — then nothing is stamped rather than everything. A
+  // record whose name + website is already committed (a second listing of a
+  // known company) is never "new" either.
   const unmatchedLive = live.filter((_, li) => !pairs[li]).length;
   const stampNew = prior.length > 0 && unmatchedLive <= Math.max(50, Math.round(live.length * 0.25));
+  const priorKeys = new Set(prior.map(twinKey));
   const merged = live.map((c, li) => {
     if (pairs[li]) return mergeRecord(c, pairs[li]);
-    return stampNew && !c.firstSeen ? { ...c, firstSeen: today } : c;
+    return stampNew && !c.firstSeen && !priorKeys.has(twinKey(c)) ? { ...c, firstSeen: today } : c;
   });
   const byKey = new Map();
   merged.forEach((c, i) => {

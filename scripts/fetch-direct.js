@@ -12,7 +12,7 @@
 //
 // Exit code is 0 whenever the dataset was written. Sources that have not been
 // fetched live for STALE_ALERT_DAYS (default 3) are reported via GITHUB_OUTPUT
-// so the workflow can fail *after* committing and notify the owner.
+// so the workflow can flag them on the run page *after* committing.
 
 const fs = require('fs');
 const path = require('path');
@@ -48,9 +48,9 @@ function staleSources(metaSources, now = Date.now()) {
   });
 }
 
-// Which stale sources should fail the run (and email the owner). A source
-// that stays blocked would otherwise fail every single day, so: alert on the
-// first day it goes stale, then once a week (Mondays UTC) as a reminder.
+// Which stale sources get the run-page flag. A source that stays blocked
+// would otherwise be flagged every single day, so: on the first day it goes
+// stale, then once a week (Mondays UTC) as a reminder.
 // Warnings and the job summary still report every stale source daily.
 function sourcesToAlert(stale, now = new Date()) {
   const day = 24 * 3600 * 1000;

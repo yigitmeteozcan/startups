@@ -110,14 +110,15 @@ jobs:
           sleep 20
           node scripts/check-api.js
 
-      # Runs after the commit, so fresh data from healthy sources is never held
-      # back. Fails the run (GitHub emails the owner) on the day a source first
-      # goes 3+ days without a live fetch, then weekly (Mondays) while it stays
-      # stale. Its committed records are always kept; the job summary shows why.
-      - name: Alert on stale sources
+      # A source that goes 3+ days without a live fetch (Plug and Play's API
+      # often refuses GitHub's servers) is flagged on the run page — the day it
+      # first goes stale, then weekly (Mondays) — without failing the run: its
+      # committed records are kept, the data still updated, and the README's
+      # source-freshness table shows it as "cached".
+      - name: Flag stale sources
         if: steps.fetch.outputs.alert != ''
         env:
           ALERT: ${{ steps.fetch.outputs.alert }}
         run: |
-          echo "::error::Not fetched live for 3+ days: ${ALERT}. Committed records were kept; see the job summary for the reason."
-          exit 1
+          echo "::warning::Not fetched live for 3+ days: ${ALERT}. Committed records were kept; see the job summary for the reason."
+          echo "### ⚠️ Stale sources: ${ALERT}" >> "$GITHUB_STEP_SUMMARY"

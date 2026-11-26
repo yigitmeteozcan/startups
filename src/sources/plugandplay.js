@@ -58,10 +58,14 @@ function displayName(title, description) {
   return brand;
 }
 
+// Without an explicit order the API pages overlap: the same startup comes
+// back on several pages and others are skipped (5,646 rows held only ~4,400
+// distinct startups on 2026-11-25). A stable sort makes the pages disjoint.
 function buildUrl(offset, limit) {
   const u = new URL(API);
   u.searchParams.set('offset', String(offset));
   u.searchParams.set('limit', String(limit));
+  u.searchParams.set('orderBy', 'mgnl:created asc');
   return u.toString();
 }
 
@@ -114,24 +118,32 @@ function normalizePlugAndPlay(item) {
 async function fetchPlugAndPlay({ limit = 1000, maxPages = 20 } = {}) {
   try {
     const all = [];
+    const seen = new Set();
     let total = Infinity;
     for (let page = 0; page < maxPages; page++) {
       const offset = page * limit;
       if (offset >= total) break;
       const res = await fetchWithTimeout(buildUrl(offset, limit), { headers: HEADERS });
       if (!res.ok) {
-        if (page === 0) {
-          const body = (await res.text().catch(() => '')).replace(/\s+/g, ' ').slice(0, 120);
-          throw new Error(`HTTP ${res.status} from ${API}${body ? `: ${body}` : ''}`);
-        }
-        break;
+        const body = (await res.text().catch(() => '')).replace(/\s+/g, ' ').slice(0, 120);
+        // A missing page would make its startups look delisted: never return
+        // a partial list.
+        throw new Error(`HTTP ${res.status} from ${API} (page ${page + 1})${body ? `: ${body}` : ''}`);
       }
       const json = await res.json();
       const results = json.results || [];
       if (results.length === 0) break;
-      for (const item of results) all.push(normalizePlugAndPlay(item));
+      for (const item of results) {
+        const id = item['@id'] || item['@path'];
+        if (id && seen.has(id)) continue; // the same node on two pages
+        if (id) seen.add(id);
+        all.push(normalizePlugAndPlay(item));
+      }
       if (typeof json.total === 'number') total = json.total;
       if (results.length < limit) break;
+    }
+    if (Number.isFinite(total) && seen.size < total * 0.98) {
+      throw new Error(`API paging returned only ${seen.size} of ${total} startups`);
     }
     const companies = all.filter((c) => c.name);
     if (companies.length > 0) return companies;

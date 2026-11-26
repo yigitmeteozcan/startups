@@ -194,3 +194,25 @@ test('first run of a source, or a mass re-key, stamps nothing as new', () => {
   const m = mergeLiveWithCommitted(many('ef', 300), rekeyed);
   assert.ok(m.companies.every((c) => !c.firstSeen));
 });
+
+test('overlapping API pages (Plug and Play, 2026-11-25) create no duplicates or fake "new" companies', () => {
+  const { mergeLiveWithCommitted } = require('../src/sources');
+  const now = new Date('2026-11-25T12:00:00Z');
+  const prior = [...many('plugandplay', 100), company('plugandplay', 'multi')];
+  // The same rows come back on several pages, and a known company has a
+  // second listing (another country) that differs only in location.
+  const live = [
+    ...many('plugandplay', 100),
+    ...many('plugandplay', 30), // exact repeats
+    company('plugandplay', 'multi'),
+    { ...company('plugandplay', 'multi'), location: 'Japan' },
+    company('plugandplay', 'really-new'),
+  ];
+  const m = mergeLiveWithCommitted(prior, live, now);
+  const names = m.companies.map((c) => c.name);
+  assert.equal(names.filter((n) => n === 'plugandplay co 0').length, 1, 'exact repeats are dropped');
+  assert.equal(m.delisted, 0);
+  const stamped = m.companies.filter((c) => c.firstSeen).map((c) => c.name);
+  assert.deepEqual(stamped, ['plugandplay co really-new'], 'only the genuinely new company is "new"');
+  assert.equal(m.added, 1);
+});
