@@ -19559,7 +19559,7 @@
     "status": "active",
     "teamSize": 30,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Ramiro Berrelleza",
@@ -22641,8 +22641,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b88d5a316c1273387235d0b00032377e1df4b77f.png",
     "website": "http://nala.com",
     "sourceUrl": "https://www.ycombinator.com/companies/nala",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
     "subregion": "",
     "tags": [
       "Fintech",
@@ -22679,7 +22679,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "United States",
+    "country": "United Kingdom",
     "alsoIn": []
   },
   {
@@ -34993,7 +34993,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 10,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Growth",
     "formerNames": [
       "Nabla Computing",
@@ -48041,59 +48041,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-yieldigo",
-    "source": "alchemist",
-    "name": "Yieldigo",
-    "description": "AI Pricing Service Specially Designed for Grocers",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 31",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "stage": "Seed",
-    "teamSizeRange": "11-50",
-    "totalRaised": 250000,
-    "founders": [
-      {
-        "name": "David Klecka",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Radim Dudek",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Jiri Psota",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-faucetworks",
     "source": "alchemist",
     "name": "Faucetworks",
@@ -48130,6 +48077,59 @@
       },
       {
         "name": "Renata Barreto",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-yieldigo",
+    "source": "alchemist",
+    "name": "Yieldigo",
+    "description": "AI Pricing Service Specially Designed for Grocers",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 31",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "stage": "Seed",
+    "teamSizeRange": "11-50",
+    "totalRaised": 250000,
+    "founders": [
+      {
+        "name": "David Klecka",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Radim Dudek",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jiri Psota",
         "role": "",
         "linkedin": ""
       }
@@ -48348,18 +48348,18 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-elton-inc",
+    "id": "alchemist-aichemist-metal",
     "source": "alchemist",
-    "name": "Elton, Inc.",
-    "description": "Automating repetitive back-office processes where human intervention should be the exception, not the norm.",
+    "name": "Aichemist Metal",
+    "description": "Makes Highest Strength, Thin-Film, Metal and Nanofiber Materials",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Mountain View, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2019,
-    "program": "Alchemist Class 24",
+    "program": "Alchemist Class 23",
     "programSlugs": [
       "alchemist"
     ],
@@ -48368,50 +48368,14 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-friendly-robots-company",
-    "source": "alchemist",
-    "name": "Friendly Robots Company",
-    "description": "Autonomous Vacuum for the Janitorial Industry",
-    "logo": "",
-    "website": "",
-    "location": "Orinda, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 22",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Xiao Xiao",
+        "name": "Sergey Lopatin",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Andrei Zimin",
+        "name": "Richard Fraga",
         "role": "",
         "linkedin": ""
       }
@@ -48475,18 +48439,18 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-aichemist-metal",
+    "id": "alchemist-friendly-robots-company",
     "source": "alchemist",
-    "name": "Aichemist Metal",
-    "description": "Makes Highest Strength, Thin-Film, Metal and Nanofiber Materials",
+    "name": "Friendly Robots Company",
+    "description": "Autonomous Vacuum for the Janitorial Industry",
     "logo": "",
     "website": "",
-    "location": "Mountain View, CA, USA",
+    "location": "Orinda, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
     "year": 2019,
-    "program": "Alchemist Class 23",
+    "program": "Alchemist Class 22",
     "programSlugs": [
       "alchemist"
     ],
@@ -48495,14 +48459,15 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
+    "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Sergey Lopatin",
+        "name": "Xiao Xiao",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Richard Fraga",
+        "name": "Andrei Zimin",
         "role": "",
         "linkedin": ""
       }
@@ -48520,10 +48485,50 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-celly-ai",
+    "id": "alchemist-crelytics",
     "source": "alchemist",
-    "name": "Celly.AI",
-    "description": "iOS app for AI-Driven Lab Microscopy Automation",
+    "name": "Crelytics",
+    "description": "AI-native Recruitment Platform for Lean Teams",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 22",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [
+      {
+        "name": "Abhijit Onkar",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-gritwell",
+    "source": "alchemist",
+    "name": "Gritwell",
+    "description": "A subscription service to treat the root cause of chronic symptoms- focused on nutrition, lifestyle and environmental factors.",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -48543,17 +48548,12 @@
     "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Ansar Zhalyalov",
+        "name": "CEO",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Muammar Al-Shedivat",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Maruan Al-Shedivat",
+        "name": "CTO",
         "role": "",
         "linkedin": ""
       }
@@ -48571,13 +48571,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-leda-health",
+    "id": "alchemist-social-glass",
     "source": "alchemist",
-    "name": "Leda Health",
-    "description": "Sexual assault evidence collection kits designed for self-collection, expedited testing and fostering a community of support for sexual assault survivors.",
+    "name": "Social Glass",
+    "description": "Government Marketplace for Small Purchases under $10K without Bids or Paperwork",
     "logo": "",
     "website": "",
-    "location": "New York, NY, USA",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -48594,12 +48594,7 @@
     "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Madison Campbell",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Liesel Vaidya",
+        "name": "Paola Santana",
         "role": "",
         "linkedin": ""
       }
@@ -48614,52 +48609,6 @@
       "country": "USA"
     },
     "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-clearquote",
-    "source": "alchemist",
-    "name": "ClearQuote",
-    "description": "Simplifying Vehicle Inspections and Damage Assessment Using Computer Vision",
-    "logo": "",
-    "website": "",
-    "location": "Bengaluru, Karnataka, India",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 25",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Venkat Sreeram",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sharath Murthy",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "India"
-    },
-    "country": "India",
     "alsoIn": []
   },
   {
@@ -48710,47 +48659,6 @@
       "country": "Spain"
     },
     "country": "Spain",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-social-glass",
-    "source": "alchemist",
-    "name": "Social Glass",
-    "description": "Government Marketplace for Small Purchases under $10K without Bids or Paperwork",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 23",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Paola Santana",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
     "alsoIn": []
   },
   {
@@ -48841,6 +48749,98 @@
     "alsoIn": []
   },
   {
+    "id": "alchemist-clearquote",
+    "source": "alchemist",
+    "name": "ClearQuote",
+    "description": "Simplifying Vehicle Inspections and Damage Assessment Using Computer Vision",
+    "logo": "",
+    "website": "",
+    "location": "Bengaluru, Karnataka, India",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 25",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
+    "founders": [
+      {
+        "name": "Venkat Sreeram",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sharath Murthy",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "India"
+    },
+    "country": "India",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-leda-health",
+    "source": "alchemist",
+    "name": "Leda Health",
+    "description": "Sexual assault evidence collection kits designed for self-collection, expedited testing and fostering a community of support for sexual assault survivors.",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 23",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Madison Campbell",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Liesel Vaidya",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "alchemist-fleetsimplify",
     "source": "alchemist",
     "name": "FleetSimplify",
@@ -48892,10 +48892,10 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-crelytics",
+    "id": "alchemist-elton-inc",
     "source": "alchemist",
-    "name": "Crelytics",
-    "description": "AI-native Recruitment Platform for Lean Teams",
+    "name": "Elton, Inc.",
+    "description": "Automating repetitive back-office processes where human intervention should be the exception, not the norm.",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -48903,7 +48903,7 @@
     "subregion": "",
     "tags": [],
     "year": 2019,
-    "program": "Alchemist Class 22",
+    "program": "Alchemist Class 24",
     "programSlugs": [
       "alchemist"
     ],
@@ -48912,13 +48912,8 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "founders": [
-      {
-        "name": "Abhijit Onkar",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "teamSizeRange": "1-10",
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -48932,10 +48927,10 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-gritwell",
+    "id": "alchemist-celly-ai",
     "source": "alchemist",
-    "name": "Gritwell",
-    "description": "A subscription service to treat the root cause of chronic symptoms- focused on nutrition, lifestyle and environmental factors.",
+    "name": "Celly.AI",
+    "description": "iOS app for AI-Driven Lab Microscopy Automation",
     "logo": "",
     "website": "",
     "location": "San Francisco, CA, USA",
@@ -48955,12 +48950,17 @@
     "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "CEO",
+        "name": "Ansar Zhalyalov",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "CTO",
+        "name": "Muammar Al-Shedivat",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Maruan Al-Shedivat",
         "role": "",
         "linkedin": ""
       }

@@ -15334,7 +15334,7 @@
     "status": "active",
     "teamSize": 30,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Ramiro Berrelleza",
@@ -17381,6 +17381,68 @@
     },
     "extra": {},
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-medpiper-technologies-inc",
+    "source": "yc",
+    "name": "MedPiper Technologies, Inc",
+    "description": "Insurance and risk infrastructure for businesses",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f7d30e3e30894c40033c853cefa3efa02ec9f54b.png",
+    "website": "https://www.medpiper.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/medpiper-technologies-inc",
+    "location": "Bengaluru, KA, India; Remote",
+    "region": "India",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Insurance",
+      "Infrastructure",
+      "AI",
+      "Travel",
+      "Consumer Finance"
+    ],
+    "year": 2020,
+    "program": "YC Summer 2020",
+    "programSlugs": [
+      "yc-summer-2020"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 55,
+    "isHiring": false,
+    "stage": "Early",
+    "formerNames": [
+      "MedPiper Technologies"
+    ],
+    "founders": [
+      {
+        "name": "Nitthin Nair",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/nitthin-chandran-nair-82aa9290/",
+        "twitter": "https://www.twitter.com/nitthin",
+        "bio": "Founder CEO at MedPiper. Previously lead Growth at a mobility startup, and prior domain experience in Healthcare and Media for over 7+ years, in sales, product development and growth.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/605cbfb8b2085038e2f08fd60207641f4781b8c8.jpg"
+      },
+      {
+        "name": "Pranay Suyash",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/pranaysuyash/",
+        "bio": "Currently Co-founder at Medpiper. Worked as a Business Consultant building products to enable clients streamline their sales and distribution process.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/43356afb7dd9ce97c9d9239df5913ba8ac9d2118.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "India",
     "alsoIn": []
   },
   {
@@ -30304,7 +30366,7 @@
     "id": "yc-didit",
     "source": "yc",
     "name": "Didit",
-    "description": "Infrastructure for identity and fraud.",
+    "description": "We verify who is behind every account and stop fraud, through one API.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c3f50a228cdf3568c8631e4feca3095106e0e9cc.png",
     "website": "https://didit.me/",
     "sourceUrl": "https://www.ycombinator.com/companies/didit",
@@ -30312,7 +30374,12 @@
     "region": "Spain",
     "subregion": "",
     "tags": [
-      "Infrastructure"
+      "Infrastructure",
+      "SaaS",
+      "Identity",
+      "Cybersecurity",
+      "Fraud Prevention",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -31881,7 +31948,7 @@
     "id": "yc-twolabs",
     "source": "yc",
     "name": "Twolabs",
-    "description": "RL environments for industrial domains.",
+    "description": "RL environments for physical engineering work.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f6140e69d64bb482f52d28db6644ebb4a4c700ef.png",
     "website": "https://twolabs.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/twolabs",
@@ -31891,7 +31958,8 @@
     "tags": [
       "Infrastructure",
       "Robotics",
-      "AI"
+      "AI",
+      "Industrial"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -34423,6 +34491,66 @@
     },
     "extra": {},
     "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-onecli",
+    "source": "yc",
+    "name": "OneCLI",
+    "description": "The vault for AI agents.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e27780d9b15ce1d3fa816c41252545bb371d4ede.png",
+    "website": "https://onecli.sh",
+    "sourceUrl": "https://www.ycombinator.com/companies/onecli",
+    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "region": "Israel",
+    "subregion": "",
+    "tags": [
+      "Infrastructure",
+      "Security",
+      "Open Source",
+      "AI",
+      "Productivity",
+      "AIOps",
+      "Workflow Automation"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Jonathan Fishner",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/jonathanfishner",
+        "twitter": "https://x.com/jonathanfishner",
+        "bio": "Co-founder of OneCLI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6230ecfcb0be73a0475915f586f61d5139a12a58.jpg"
+      },
+      {
+        "name": "Guy Ben Aharon",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/guy-ben-aharon/",
+        "twitter": "https://x.com/GuyBenAharon",
+        "bio": "Co-founder of OneCLI",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d2d3562621d02f714e16c1c63903eab6e5f71f23.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "Israel",
     "alsoIn": []
   },
   {

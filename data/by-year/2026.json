@@ -8696,7 +8696,7 @@
     "id": "yc-didit",
     "source": "yc",
     "name": "Didit",
-    "description": "Infrastructure for identity and fraud.",
+    "description": "We verify who is behind every account and stop fraud, through one API.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c3f50a228cdf3568c8631e4feca3095106e0e9cc.png",
     "website": "https://didit.me/",
     "sourceUrl": "https://www.ycombinator.com/companies/didit",
@@ -8704,7 +8704,12 @@
     "region": "Spain",
     "subregion": "",
     "tags": [
-      "Infrastructure"
+      "Infrastructure",
+      "SaaS",
+      "Identity",
+      "Cybersecurity",
+      "Fraud Prevention",
+      "AI"
     ],
     "year": 2026,
     "program": "YC Winter 2026",
@@ -9811,7 +9816,7 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/864a14cbf1a285a8411263cf32fd2240cbb9f2d9.png",
     "website": "https://getfuchsia.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/fuchsia",
-    "location": "San Francisco, CA, USA",
+    "location": "New Haven, CT, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [],
@@ -13779,7 +13784,7 @@
     "id": "yc-assemble",
     "source": "yc",
     "name": "Assemble",
-    "description": "Autonomous IT Delivery",
+    "description": "Self-Improving Business Systems",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fdaeafd72d237eaf328842585365c3b7ce49cb7c.png",
     "website": "https://www.assemble.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/assemble",
@@ -16645,7 +16650,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 3,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "formerNames": [
       "Sevvy"
@@ -18216,8 +18221,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b23ce152528185e61986e56941165e5686edcb24.png",
     "website": "https://www.khotan.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/khotan",
-    "location": "Brisbane, QLD, Australia",
-    "region": "Australia",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Supply Chain and Logistics"
@@ -18265,7 +18270,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Australia",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -19850,7 +19855,7 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ab5a7de765aab31de659bc6429451ecb734f5da7.png",
     "website": "https://surtrdefense.com",
     "sourceUrl": "https://www.ycombinator.com/companies/surtr-defense-systems",
-    "location": "San Francisco, CA, USA",
+    "location": "Los Angeles, CA, USA",
     "region": "United States of America",
     "subregion": "",
     "tags": [
@@ -21011,7 +21016,7 @@
     "id": "yc-twolabs",
     "source": "yc",
     "name": "Twolabs",
-    "description": "RL environments for industrial domains.",
+    "description": "RL environments for physical engineering work.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f6140e69d64bb482f52d28db6644ebb4a4c700ef.png",
     "website": "https://twolabs.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/twolabs",
@@ -21021,7 +21026,8 @@
     "tags": [
       "Infrastructure",
       "Robotics",
-      "AI"
+      "AI",
+      "Industrial"
     ],
     "year": 2026,
     "program": "YC Spring 2026",
@@ -22415,7 +22421,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 5,
+    "teamSize": 8,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -24284,7 +24290,7 @@
     "id": "yc-ontora",
     "source": "yc",
     "name": "Ontora",
-    "description": "AI agents that interviews every employee to hand context to AI tools. ",
+    "description": "AI agents that speak to every employee to hand undocumented knowledge…",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
     "website": "https://ontora.com",
     "sourceUrl": "https://www.ycombinator.com/companies/ontora",
@@ -24463,6 +24469,56 @@
       "crunchbase": ""
     },
     "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-ergodex-ai",
+    "source": "yc",
+    "name": "Ergodex AI",
+    "description": "Full-stack AI-native Agentic chip design ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b3c3fc64440954c1c05cd9050d0d1cfd66dcf6bb.png",
+    "website": "https://ergodex.ai",
+    "sourceUrl": "https://www.ycombinator.com/companies/ergodex-ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Edge Computing Semiconductors",
+      "Hardware",
+      "Semiconductors"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Yugesh Kothari",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/yugeshkothari",
+        "bio": "PL / compilers / formal methods person. Building agentic SiliconDev solutions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cef23a232194993fa102572603dd64c5e0824665.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "firstSeen": "2026-11-26",
     "country": "United States",
     "alsoIn": []
   },
@@ -25619,7 +25675,7 @@
     "source": "yc",
     "name": "tday.com",
     "description": "AI-recorded Screen Studio style editable demos",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5794019006cfb6578d95d075fcb79d63cf1aee8e.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/85a92c541f01d7059df3fe28c61f328474eafa10.png",
     "website": "https://tday.com",
     "sourceUrl": "https://www.ycombinator.com/companies/tdaycom",
     "location": "San Francisco, CA, USA",
@@ -31149,8 +31205,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d6fb7711e26bf57516e7dcfa35cfadeb5d98b5b2.png",
     "website": "https://pango.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/pango",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "Stockholm, Stockholm County, Sweden",
+    "region": "Sweden",
     "subregion": "",
     "tags": [
       "Retail",
@@ -31196,7 +31252,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "United States",
+    "country": "Sweden",
     "alsoIn": []
   },
   {
@@ -35158,76 +35214,6 @@
     "alsoIn": []
   },
   {
-    "id": "yc-definite",
-    "source": "yc",
-    "name": "Definite",
-    "description": "Connect operational data with finance to see what drives the numbers.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
-    "website": "https://www.usedefinite.com",
-    "sourceUrl": "https://www.ycombinator.com/companies/definite",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Finance and Accounting",
-      "Fintech",
-      "SaaS",
-      "Finance",
-      "AI"
-    ],
-    "year": 2026,
-    "program": "YC Fall 2026",
-    "programSlugs": [
-      "yc-fall-2026"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSize": 4,
-    "isHiring": false,
-    "stage": "Early",
-    "formerNames": [
-      "Ledgix",
-      "Bylaw"
-    ],
-    "founders": [
-      {
-        "name": "Gurshabd Singh Varaich",
-        "role": "Founder/CEO",
-        "linkedin": "https://www.linkedin.com/in/gvaraich/",
-        "twitter": "https://x.com/gurshabdv",
-        "bio": "Founder & CEO at Definite (YC F26). Previous SWE intern at BitGo (pre-execution wallet policy and approval controls). Studied CS at UWaterloo",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f208520804de89eb57bd0ffaecc678ab08e70e04.jpg"
-      },
-      {
-        "name": "Mazin Al-Ani",
-        "role": "Founder",
-        "linkedin": "https://www.linkedin.com/in/mazinalani/",
-        "bio": "Founder at Definite (YC F26). Previously SWE intern at Optiver (quantitative trading systems) and Boosted.ai (agentic AI platform for financial analysts). Studied CS at University of Waterloo.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/61a124dc48094fbc0085b19ae79a8f71f1cc6f19.jpg"
-      },
-      {
-        "name": "Farhan Ur Rehman",
-        "role": "Founder",
-        "linkedin": "https://www.linkedin.com/in/farhan-ur-rehman/",
-        "twitter": "https://x.com/re__farhan",
-        "bio": "Founder at Definite (YC F26). Previous SWE at Meta (Instagram reels recommendation). Studied Statistics at University of Waterloo.",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bbb1704fb2da8fe5afeb297c7a36c7091072108e.jpg"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {},
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "yc-callbook-ai",
     "source": "yc",
     "name": "Callbook AI",
@@ -35948,7 +35934,7 @@
     "id": "yc-audora",
     "source": "yc",
     "name": "Audora",
-    "description": "Audiobooks where every character has their own voice.",
+    "description": "Audora is Audible 2.0, where stories are immersive & fun to listen to",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a6302716929368f039c6e25d73d9f3913bfb0475.png",
     "website": "https://audora.art",
     "sourceUrl": "https://www.ycombinator.com/companies/audora",
@@ -38950,7 +38936,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 2,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -41250,7 +41236,7 @@
     "source": "yc",
     "name": "HillStar",
     "description": "HillStar helps utilities buy power.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fc161aff0343dabb814fdae973487ff3050d64e6.png",
     "website": "https://hillstar.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/hillstar",
     "location": "San Francisco, CA, USA",
@@ -41373,19 +41359,21 @@
     "id": "yc-onecli",
     "source": "yc",
     "name": "OneCLI",
-    "description": "AI teammates for your business-critical work.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
+    "description": "The vault for AI agents.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e27780d9b15ce1d3fa816c41252545bb371d4ede.png",
     "website": "https://onecli.sh",
     "sourceUrl": "https://www.ycombinator.com/companies/onecli",
     "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "region": "Israel",
     "subregion": "",
     "tags": [
+      "Infrastructure",
+      "Security",
+      "Open Source",
+      "AI",
       "Productivity",
       "AIOps",
-      "Workflow Automation",
-      "Open Source",
-      "AI"
+      "Workflow Automation"
     ],
     "year": 2026,
     "program": "YC Summer 2026",
@@ -44440,7 +44428,7 @@
     "id": "yc-inflection-space-systems",
     "source": "yc",
     "name": "Inflection Space Systems",
-    "description": "Hyperscaling space manufacturing",
+    "description": "Mass Manufacturing Satellites",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9391545f5f098175eca1fe35fba695db3a2e0766.png",
     "website": "https://inflection-space.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/inflection-space-systems",
@@ -48120,9 +48108,9 @@
       "Industrial Bio",
       "AI-powered Drug Discovery",
       "Auto Commerce",
-      "Swarm AI",
       "Biotech",
-      "Automation"
+      "Automation",
+      "Swarm AI"
     ],
     "year": 2026,
     "program": "YC Fall 2026",
@@ -49928,7 +49916,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -55040,6 +55028,42 @@
       "country": "United Kingdom"
     },
     "country": "United Kingdom",
+    "alsoIn": []
+  },
+  {
+    "id": "antler-carna-robotics",
+    "source": "antler",
+    "name": "Carna Robotics",
+    "description": "Robots that learn the work that hurts",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6b079cb3f21ee4dbf03155ef_portfolio%252Fcompany%252F9660d8cf-62a3-468d-a512-bc47858d7c84%252F1795660957583-Carna%2520-%2520horizontal%2520-%2520main%25404x-8.png",
+    "website": "https://www.carnarobotics.com",
+    "location": "Australia",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Industrials"
+    ],
+    "year": 2026,
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Australia"
+    },
+    "firstSeen": "2026-11-26",
+    "country": "Australia",
     "alsoIn": []
   },
   {

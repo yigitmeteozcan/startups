@@ -355,17 +355,17 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-elton-inc",
+    "id": "alchemist-brainhi",
     "source": "alchemist",
-    "name": "Elton, Inc.",
-    "description": "Automating repetitive back-office processes where human intervention should be the exception, not the norm.",
+    "name": "BrainHi",
+    "description": "Voicemail 2.0 for Local Businesses in LatAm",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "San Juan, Puerto Rico",
     "region": "",
     "subregion": "",
     "tags": [],
-    "year": 2019,
+    "year": 2018,
     "program": "Alchemist Class 24",
     "programSlugs": [
       "alchemist"
@@ -375,8 +375,18 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Emmanuel Oquendo",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Israel Figueroa",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -384,9 +394,9 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "USA"
+      "country": "Puerto Rico"
     },
-    "country": "United States",
+    "country": "Puerto Rico",
     "alsoIn": []
   },
   {
@@ -487,17 +497,17 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-brainhi",
+    "id": "alchemist-elton-inc",
     "source": "alchemist",
-    "name": "BrainHi",
-    "description": "Voicemail 2.0 for Local Businesses in LatAm",
+    "name": "Elton, Inc.",
+    "description": "Automating repetitive back-office processes where human intervention should be the exception, not the norm.",
     "logo": "",
     "website": "",
-    "location": "San Juan, Puerto Rico",
+    "location": "San Francisco, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
-    "year": 2018,
+    "year": 2019,
     "program": "Alchemist Class 24",
     "programSlugs": [
       "alchemist"
@@ -507,18 +517,8 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "founders": [
-      {
-        "name": "Emmanuel Oquendo",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Israel Figueroa",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
+    "teamSizeRange": "1-10",
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -526,9 +526,9 @@
       "crunchbase": ""
     },
     "extra": {
-      "country": "Puerto Rico"
+      "country": "USA"
     },
-    "country": "Puerto Rico",
+    "country": "United States",
     "alsoIn": []
   }
 ]

@@ -39,43 +39,6 @@
     "alsoIn": []
   },
   {
-    "id": "techstars-digitalocean",
-    "source": "techstars",
-    "name": "DigitalOcean",
-    "description": "Simple, scalable cloud computing solutions built for startups and small-to-midsize businesses.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/57e2c87f808320e7b4000010/original/do-icon-logo.png",
-    "website": "https://digitalocean.com",
-    "location": "New York City, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Cloudtech and DevOps"
-    ],
-    "year": 2012,
-    "program": "Techstars Boulder Accelerator",
-    "programSlugs": [
-      "boulder"
-    ],
-    "isExit": true,
-    "isUnicorn": true,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "https://linkedin.com/company/digitalocean",
-      "twitter": "https://twitter.com/digitalocean",
-      "facebook": "https://facebook.com/DigitalOceanCloudHosting",
-      "crunchbase": "https://crunchbase.com/organization/digitalocean"
-    },
-    "extra": {
-      "city": "New York City",
-      "state_province": "New York",
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-chainalysis",
     "source": "techstars",
     "name": "Chainalysis",
@@ -103,6 +66,43 @@
       "twitter": "https://twitter.com/chainalysis",
       "facebook": "https://facebook.com/Chainalysis",
       "crunchbase": "https://crunchbase.com/organization/chainalysis"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-digitalocean",
+    "source": "techstars",
+    "name": "DigitalOcean",
+    "description": "Simple, scalable cloud computing solutions built for startups and small-to-midsize businesses.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/57e2c87f808320e7b4000010/original/do-icon-logo.png",
+    "website": "https://digitalocean.com",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cloudtech and DevOps"
+    ],
+    "year": 2012,
+    "program": "Techstars Boulder Accelerator",
+    "programSlugs": [
+      "boulder"
+    ],
+    "isExit": true,
+    "isUnicorn": true,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/digitalocean",
+      "twitter": "https://twitter.com/digitalocean",
+      "facebook": "https://facebook.com/DigitalOceanCloudHosting",
+      "crunchbase": "https://crunchbase.com/organization/digitalocean"
     },
     "extra": {
       "city": "New York City",
@@ -6188,43 +6188,6 @@
     "alsoIn": []
   },
   {
-    "id": "techstars-owlet-baby-care",
-    "source": "techstars",
-    "name": "Owlet Baby Care",
-    "description": "Owlet's baby monitoring ecosystem works together seamlessly to give your family easier days and nights.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4e1928ce3f6a977877094e23f.jpg",
-    "website": "https://owletcare.com",
-    "location": "Lehi, Utah, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Digital health",
-      "Healthtech",
-      "Internet of Things"
-    ],
-    "year": 2013,
-    "program": "R/GA Accelerator, powered by Techstars",
-    "programSlugs": [],
-    "isExit": true,
-    "isUnicorn": true,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "https://linkedin.com/company/owlet-care-monitors",
-      "twitter": "https://twitter.com/owletbabycare",
-      "facebook": "https://facebook.com/OwletBabyMonitors",
-      "crunchbase": "https://crunchbase.com/organization/owlet"
-    },
-    "extra": {
-      "city": "Lehi",
-      "state_province": "Utah",
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-sensei",
     "source": "techstars",
     "name": "Sensei",
@@ -6302,6 +6265,43 @@
     "alsoIn": [
       "plugandplay"
     ]
+  },
+  {
+    "id": "techstars-owlet-baby-care",
+    "source": "techstars",
+    "name": "Owlet Baby Care",
+    "description": "Owlet's baby monitoring ecosystem works together seamlessly to give your family easier days and nights.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4e1928ce3f6a977877094e23f.jpg",
+    "website": "https://owletcare.com",
+    "location": "Lehi, Utah, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Digital health",
+      "Healthtech",
+      "Internet of Things"
+    ],
+    "year": 2013,
+    "program": "R/GA Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": true,
+    "isUnicorn": true,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/owlet-care-monitors",
+      "twitter": "https://twitter.com/owletbabycare",
+      "facebook": "https://facebook.com/OwletBabyMonitors",
+      "crunchbase": "https://crunchbase.com/organization/owlet"
+    },
+    "extra": {
+      "city": "Lehi",
+      "state_province": "Utah",
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
   },
   {
     "id": "techstars-learnplatform",
@@ -68364,41 +68364,6 @@
     "alsoIn": []
   },
   {
-    "id": "techstars-harvest",
-    "source": "techstars",
-    "name": "Harvest",
-    "description": "For businesses needing real-time web data, Harvest turns the internet into structured, tabular data using AI chat.",
-    "logo": "https://apimg.techstars.com/profiles/1742789330325_518194.png",
-    "website": "https://goharvest.ai",
-    "location": "Monroe, New Jersey, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning"
-    ],
-    "year": 2025,
-    "program": "Techstars San Francisco",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [],
-    "social": {
-      "linkedin": "https://linkedin.com/company/goharvestai",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "city": "Monroe",
-      "state_province": "New Jersey",
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "techstars-galvano-ai",
     "source": "techstars",
     "name": "Galvano.ai",
@@ -68816,6 +68781,44 @@
       "country": "India"
     },
     "country": "India",
+    "alsoIn": []
+  },
+  {
+    "id": "techstars-bitfab",
+    "source": "techstars",
+    "name": "Bitfab",
+    "description": "For businesses needing real-time web data, Harvest turns the internet into structured, tabular data using AI chat.",
+    "logo": "https://apimg.techstars.com/profiles/1742789330325_518194.png",
+    "website": "https://goharvest.ai",
+    "location": "Monroe, New Jersey, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning"
+    ],
+    "year": 2025,
+    "program": "Techstars San Francisco",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "https://linkedin.com/company/goharvestai",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Monroe",
+      "state_province": "New Jersey",
+      "country": "United States"
+    },
+    "formerNames": [
+      "Harvest"
+    ],
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -164484,7 +164487,7 @@
     "description": "PriceBackers is an AI Trust relations Management (TRM) platform that aims to increase online shops customer retention.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/62c747bab31d233f83ac915d/original/pricebackers.jpeg",
     "website": "",
-    "location": "Katzir, Israel",
+    "location": "Katzir, Haifa District, Israel",
     "region": "Middle East",
     "subregion": "Middle East",
     "tags": [
@@ -164508,6 +164511,7 @@
     },
     "extra": {
       "city": "Katzir",
+      "state_province": "Haifa District",
       "country": "Israel"
     },
     "country": "Israel",

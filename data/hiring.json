@@ -11799,7 +11799,7 @@
     "status": "active",
     "teamSize": 30,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Ramiro Berrelleza",
@@ -14180,59 +14180,6 @@
         "twitter": "https://twitter.com/johnxie",
         "bio": "Co-founder, CEO of Taskade",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e67e7aed5c68ffb36ac2d94959fe4b75eae8680f.jpg"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {},
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "yc-vorticity",
-    "source": "yc",
-    "name": "Vorticity",
-    "description": "The Fastest Scientific Computing Platform on the Planet",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bf45a738c52014231eb5cc7bfba5ca712ef23c50.png",
-    "website": "http://vorticity.xyz/",
-    "sourceUrl": "https://www.ycombinator.com/companies/vorticity",
-    "location": "San Francisco, CA, USA",
-    "region": "United States of America",
-    "subregion": "",
-    "tags": [
-      "Industrials",
-      "Manufacturing and Robotics",
-      "Cloud Computing"
-    ],
-    "year": 2019,
-    "program": "YC Summer 2019",
-    "programSlugs": [
-      "yc-summer-2019"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSize": 10,
-    "isHiring": true,
-    "stage": "Growth",
-    "formerNames": [
-      "Nabla Computing",
-      "Nabla Inc"
-    ],
-    "founders": [
-      {
-        "name": "Chirath Neranjena",
-        "role": "Founder",
-        "linkedin": "https://www.linkedin.com/in/chirath-neranjena-8299241/",
-        "twitter": "https://twitter.com/neranjena?lang=en",
-        "bio": "Aerospace Engineer. Private pilot, amateur musician and photographer. Caltech | Idealab | GoogleX | Y Combinator. Made in Sri Lanka",
-        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6048c541901923761fbace17efeaa283c82f50c0.jpg"
       }
     ],
     "social": {
@@ -18642,7 +18589,7 @@
     "id": "yc-taktile",
     "source": "yc",
     "name": "Taktile",
-    "description": "Transform your decision-making with reliable AI agents in weeks, not…",
+    "description": "Taktile is the Agentic Decision Platform for banking and insurance.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fda6209e5ce1deac3dd962c779d7c375cd750a5a.png",
     "website": "http://www.taktile.com",
     "sourceUrl": "https://www.ycombinator.com/companies/taktile",
@@ -19089,7 +19036,7 @@
     "status": "active",
     "teamSize": 75,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "formerNames": [
       "Inspectify (formerly Home Inspections App)"
     ],
@@ -25987,6 +25934,62 @@
     "alsoIn": []
   },
   {
+    "id": "yc-warpbuild",
+    "source": "yc",
+    "name": "WarpBuild",
+    "description": "Accelerate software development with WarpBuild's 10x faster CI infra.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
+    "website": "https://www.warpbuild.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/warpbuild",
+    "location": "San Francisco, CA, USA; Remote",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Productivity",
+      "DevOps"
+    ],
+    "year": 2021,
+    "program": "YC Summer 2021",
+    "programSlugs": [
+      "yc-summer-2021"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 14,
+    "isHiring": true,
+    "stage": "Early",
+    "formerNames": [
+      "Argonaut",
+      "WartpBuild"
+    ],
+    "founders": [
+      {
+        "name": "Surya Oruganti",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/suryaoruganti/",
+        "twitter": "https://twitter.com/suryaoruganti",
+        "bio": "I'm making WarpBuild - which provides fast, secure Github actions runners and AI powered software delivery insights. I love hikes, poker, board games, and adrenaline.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c36a14083521f77b95c21ba406072fcd0e243c4.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-mindfi",
     "source": "yc",
     "name": "MindFi",
@@ -30290,8 +30293,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4d777f64a6f8aa21e8a0f44f260c8cb87a5ac203.png",
     "website": "https://reforgedlabs.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/reforged-labs",
-    "location": "Ho Chi Minh City, Vietnam",
-    "region": "Vietnam",
+    "location": "Boston, MA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Marketing",
@@ -30331,7 +30334,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Vietnam",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -33643,7 +33646,7 @@
     "status": "active",
     "teamSize": 24,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "formerNames": [
       "StreamD"
     ],
@@ -34645,7 +34648,7 @@
     "status": "active",
     "teamSize": 9,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Nikita Ermoshkin",
@@ -56257,7 +56260,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "formerNames": [
       "Schematx",
       "Diode, Inc."
@@ -60282,6 +60285,54 @@
         "twitter": "https://x.com/viewerisland",
         "bio": "Defining how real time systems should be built. Previously worked on data architecture and ecosystem at TikTok recommendations as the 5th and youngest US hire",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4acaad1754ca9e5bf80ca3d25cdc86b8226565d6.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-healthkey",
+    "source": "yc",
+    "name": "HealthKey",
+    "description": "AI-powered Patient Identification for Clinical Trials",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c1861589f70a31b85bd0f644259f89e147516204.png",
+    "website": "https://gethealthkey.com/",
+    "sourceUrl": "https://www.ycombinator.com/companies/healthkey",
+    "location": "Austin, TX, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "year": 2025,
+    "program": "YC Winter 2025",
+    "programSlugs": [
+      "yc-winter-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 10,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Josh Sabol",
+        "role": "Founder/CEO",
+        "linkedin": "https://linkedin.com/in/joshsabol",
+        "twitter": "https://x.com/JoshSabol",
+        "bio": "Founder/CEO of HealthKey. Previously a Product Manager at AWS, helping automate the ~$20B supply chain at AWS. I was the 1st PM at Plate IQ (S15), a B2B accounting & payments tool, which 10x'ed during my tenure and recently raised a $160M Series B from FTV Capital. 🌐 https://sabol.io/",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e95ad93aa9652613ccb07b5849e1641f5b0901fe.jpg"
       }
     ],
     "social": {
@@ -68378,7 +68429,7 @@
     "id": "yc-procindex",
     "source": "yc",
     "name": "ProcIndex",
-    "description": "AI-powered accounting automation for construction and manufacturing",
+    "description": "AI accounting team for construction and manufacturing, in any ERP",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/55b886e3f926718d32add5ccfdea06761c40b243.png",
     "website": "https://procindex.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/procindex",
@@ -76227,6 +76278,66 @@
     "alsoIn": []
   },
   {
+    "id": "yc-corelayer",
+    "source": "yc",
+    "name": "Corelayer",
+    "description": "AI production engineer for regulated industries",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
+    "website": "https://www.corelayer.com",
+    "sourceUrl": "https://www.ycombinator.com/companies/corelayer",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "Enterprise Software",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Winter 2026",
+    "programSlugs": [
+      "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 3,
+    "isHiring": true,
+    "stage": "Early",
+    "formerNames": [
+      "Sevvy"
+    ],
+    "founders": [
+      {
+        "name": "Mitch Radhuber",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/mitchellradhuber",
+        "twitter": "https://x.com/MRadhuber",
+        "bio": "Co-Founder & CEO @ Corelayer | Automating software support and ops for the world’s most complex environments. Prev: software + data infra @ Goldman Sachs, CS @ UMich, astrophysics research @ Princeton",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/e7590cd2fc3d3a9254fe52d5d01e6d5da3d0c35b.jpg"
+      },
+      {
+        "name": "Shipra Jha",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/shipra-jha-9b021859/",
+        "bio": "Co-Founder & CTO @ Corelayer | Building the AI-native operations layer for production software and data systems. Prev: software + data infra @ Goldman Sachs, cloud infra @ Oracle, CS @ CMU",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/ebc2e5c8ebb0dde05bf8a9e100f7393778004685.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-booko",
     "source": "yc",
     "name": "Booko",
@@ -78416,7 +78527,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 5,
+    "teamSize": 8,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -80732,8 +80843,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d6fb7711e26bf57516e7dcfa35cfadeb5d98b5b2.png",
     "website": "https://pango.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/pango",
-    "location": "New York City, NY, USA",
-    "region": "United States of America",
+    "location": "Stockholm, Stockholm County, Sweden",
+    "region": "Sweden",
     "subregion": "",
     "tags": [
       "Retail",
@@ -80779,7 +80890,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "United States",
+    "country": "Sweden",
     "alsoIn": []
   },
   {
@@ -82354,6 +82465,65 @@
     "alsoIn": []
   },
   {
+    "id": "yc-agnost-ai",
+    "source": "yc",
+    "name": "Agnost AI",
+    "description": "We find where AI agents fail, then train better models to run them",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e1595f92ea75b1f367addedb5703852b1c7efded.png",
+    "website": "https://agnost.ai",
+    "sourceUrl": "https://www.ycombinator.com/companies/agnost-ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Analytics",
+      "Developer Tools",
+      "Machine Learning",
+      "Monitoring",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Summer 2026",
+    "programSlugs": [
+      "yc-summer-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": true,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Shubham Palriwala",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/shubhampalriwala/",
+        "twitter": "https://x.com/ShubhamInTech",
+        "bio": "Co-founder and CEO of Agnost AI. Youngest Engineer on Cisco's Analytics team, First Hire at Formbricks (Open-Source Qualtrics), wrote code in Bitcoin & other open-source projects across OWASP and the Linux foundation.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/16f7d9652057acfedcb3ad0c94ecab3e15758aba.jpg"
+      },
+      {
+        "name": "Parth Ajmera",
+        "role": "Founder/CTO",
+        "linkedin": "https://www.linkedin.com/in/parthajmera/",
+        "twitter": "https://x.com/prrthh132",
+        "bio": "Co-Founder/CTO at Agnost AI. Graduated in Computer Science from IIT Madras, ranking 159 among over 1 million candidates. Previously led graphics engineering at Infurnia and built terabyte scaled data pipelines at Microsoft",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/93dc08b7da172c3288f1f798f2b9a0b27db75f16.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-pennant",
     "source": "yc",
     "name": "Pennant",
@@ -82708,7 +82878,7 @@
     "source": "yc",
     "name": "HillStar",
     "description": "HillStar helps utilities buy power.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fc161aff0343dabb814fdae973487ff3050d64e6.png",
     "website": "https://hillstar.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/hillstar",
     "location": "San Francisco, CA, USA",
@@ -83259,7 +83429,7 @@
     "id": "yc-inflection-space-systems",
     "source": "yc",
     "name": "Inflection Space Systems",
-    "description": "Hyperscaling space manufacturing",
+    "description": "Mass Manufacturing Satellites",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9391545f5f098175eca1fe35fba695db3a2e0766.png",
     "website": "https://inflection-space.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/inflection-space-systems",

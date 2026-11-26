@@ -12219,7 +12219,7 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d2fcd63a3cac722d51b58a21c25eafadbb4e2252.png",
     "website": "https://hoop.dev",
     "sourceUrl": "https://www.ycombinator.com/companies/hoop-dev",
-    "location": "São Paulo, SP, Brazil; Remote",
+    "location": "Rio de Janeiro, RJ, Brazil; Remote",
     "region": "Brazil",
     "subregion": "",
     "tags": [
@@ -13312,7 +13312,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 14,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "formerNames": [
       "Argonaut",
@@ -22221,7 +22221,7 @@
     "isUnicorn": false,
     "isBCorp": false,
     "isCurrentSession": false,
-    "status": "active",
+    "status": "inactive",
     "teamSize": 4,
     "isHiring": false,
     "stage": "Early",
@@ -22950,8 +22950,8 @@
     "id": "yc-toma",
     "source": "yc",
     "name": "Toma",
-    "description": "AI Applied Research",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/487d262a82be5ca0a686f315a9b5fa293f2006b9.png",
+    "description": "AI for Automotive",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ba6be36f089e2ddcf98b71661bd4f770addb9d56.png",
     "website": "http://www.toma.so/",
     "sourceUrl": "https://www.ycombinator.com/companies/toma",
     "location": "San Francisco, CA, USA",
@@ -22959,10 +22959,13 @@
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
+      "Customer Support",
+      "AI",
+      "Automotive",
+      "Conversational AI",
       "Marketplace",
       "Productivity",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "year": 2024,
     "program": "YC Winter 2024",
@@ -22974,9 +22977,9 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 20,
+    "teamSize": 25,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [
       {
         "name": "Monik Pamecha",
@@ -25885,7 +25888,7 @@
     "status": "active",
     "teamSize": 10,
     "isHiring": true,
-    "stage": "Early",
+    "stage": "Growth",
     "formerNames": [
       "Schematx",
       "Diode, Inc."
@@ -30965,8 +30968,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f23d4a87e54104479dda1da414cfdf2d79192208.png",
     "website": "https://stagewise.io",
     "sourceUrl": "https://www.ycombinator.com/companies/stagewise",
-    "location": "",
-    "region": "Unspecified",
+    "location": "Bielefeld, NRW, Germany",
+    "region": "Germany",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
@@ -31012,7 +31015,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "",
+    "country": "Germany",
     "alsoIn": []
   },
   {
@@ -32191,8 +32194,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png",
     "website": "https://www.fastshot.ai/",
     "sourceUrl": "https://www.ycombinator.com/companies/fastshot",
-    "location": "Thessaloniki, Greece",
-    "region": "Greece",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Engineering, Product and Design",
@@ -32239,7 +32242,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Greece",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -33227,7 +33230,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 3,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "formerNames": [
       "Sevvy"
@@ -33899,6 +33902,56 @@
       "crunchbase": ""
     },
     "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-ergodex-ai",
+    "source": "yc",
+    "name": "Ergodex AI",
+    "description": "Full-stack AI-native Agentic chip design ",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b3c3fc64440954c1c05cd9050d0d1cfd66dcf6bb.png",
+    "website": "https://ergodex.ai",
+    "sourceUrl": "https://www.ycombinator.com/companies/ergodex-ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Edge Computing Semiconductors",
+      "Hardware",
+      "Semiconductors"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 12,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Yugesh Kothari",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/yugeshkothari",
+        "bio": "PL / compilers / formal methods person. Building agentic SiliconDev solutions.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/cef23a232194993fa102572603dd64c5e0824665.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "firstSeen": "2026-11-26",
     "country": "United States",
     "alsoIn": []
   },
