@@ -1,12 +1,12 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-25._
+_Auto-generated from the dataset on 2026-11-26._
 
 | Metric | Count |
 |---|---|
-| Total companies | **24,062** |
-| 🦄 Unicorns ($1B+) | **149** |
-| 💰 Exits | **3003** |
+| Total companies | **23,216** |
+| 🦄 Unicorns ($1B+) | **121** |
+| 💰 Exits | **2917** |
 | 🌱 B Corps | **29** |
 | 👤 Founder profiles | **22,031** |
 | Current session | **71** |
@@ -15,8 +15,8 @@ _Auto-generated from the dataset on 2026-11-25._
 
 | Source | Companies |
 |---|---|
-| plugandplay | 6,421 |
 | yc | 6,417 |
+| plugandplay | 5,575 |
 | techstars | 5,203 |
 | 500 | 2,243 |
 | antler | 1,090 |
@@ -66,32 +66,32 @@ _Auto-generated from the dataset on 2026-11-25._
 ```
 
 ## Top countries
-1. **United States** — 12205
-2. **Japan** — 3553
-3. **United Kingdom** — 1232
-4. **Canada** — 831
+1. **United States** — 12141
+2. **Japan** — 2821
+3. **United Kingdom** — 1227
+4. **Canada** — 824
 5. **India** — 521
-6. **Singapore** — 479
-7. **Germany** — 390
-8. **France** — 370
-9. **South Korea** — 361
+6. **Singapore** — 478
+7. **Germany** — 388
+8. **France** — 368
+9. **South Korea** — 357
 10. **Turkey** — 271
-11. **Israel** — 246
-12. **Australia** — 239
+11. **Israel** — 245
+12. **Australia** — 238
 13. **Mexico** — 224
-14. **United Arab Emirates** — 172
-15. **Italy** — 135
+14. **United Arab Emirates** — 170
+15. **Indonesia** — 134
 
 ## Top cities
-1. **Tokyo** — 3458
-2. **Silicon Valley** — 1653
+1. **Tokyo** — 2844
+2. **Silicon Valley** — 1578
 3. **New York City** — 411
-4. **London** — 316
+4. **London** — 315
 5. **San Francisco** — 183
-6. **Los Angeles** — 143
+6. **Los Angeles** — 137
 7. **Boston** — 123
-8. **Seattle** — 122
-9. **Paris** — 118
+8. **Seattle** — 120
+9. **Paris** — 115
 10. **Chicago** — 114
 11. **Austin** — 110
 12. **Toronto** — 100
@@ -100,7 +100,7 @@ _Auto-generated from the dataset on 2026-11-25._
 15. **Boulder** — 81
 
 ## Top programs
-1. **Plug and Play** — 6421
+1. **Plug and Play** — 5575
 2. **500 Global** — 1403
 3. **Antler** — 1090
 4. **Entrepreneur First** — 546
@@ -117,34 +117,34 @@ _Auto-generated from the dataset on 2026-11-25._
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 3039
+1. **Fintech** — 2948
 2. **AI** — 1947
 3. **SaaS** — 1753
 4. **Artificial intelligence and machine learning** — 1673
 5. **Mobile** — 1164
 6. **Consumer** — 1127
 7. **Healthcare** — 1013
-8. **Health & Longevity** — 770
-9. **Infrastructure** — 762
-10. **Developer Tools** — 750
-11. **Industrials** — 702
-12. **Insurtech** — 647
-13. **Engineering, Product and Design** — 635
-14. **Deeptech** — 549
-15. **Climate tech** — 539
-16. **Health** — 539
-17. **Energy** — 513
-18. **Brand & Retail** — 510
-19. **Healthtech** — 485
-20. **E-commerce** — 471
+8. **Infrastructure** — 762
+9. **Developer Tools** — 750
+10. **Industrials** — 702
+11. **Health & Longevity** — 656
+12. **Engineering, Product and Design** — 635
+13. **Insurtech** — 552
+14. **Climate tech** — 539
+15. **Health** — 537
+16. **Healthtech** — 485
+17. **Deeptech** — 475
+18. **E-commerce** — 471
+19. **Energy** — 459
+20. **Brand & Retail** — 437
 
 ## By region
-1. **Americas** — 5729
+1. **Americas** — 5657
 2. **United States of America** — 4791
-3. **Asia** — 3812
+3. **Asia** — 3072
 4. **Europe** — 1028
 5. **North America** — 902
-6. **EMEA** — 840
+6. **EMEA** — 806
 7. **Middle East & Africa** — 284
 8. **South Asia** — 264
 9. **United Kingdom** — 220

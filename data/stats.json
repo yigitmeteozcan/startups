@@ -1,24 +1,6 @@
 {
   "leaderboard": [
     {
-      "source": "plugandplay",
-      "label": "Plug and Play",
-      "companies": 6421,
-      "exits": 629,
-      "exitRate": 9.8,
-      "unicorns": 72,
-      "unicornRate": 1.1,
-      "countries": 76,
-      "topCountry": "Japan",
-      "firstYear": null,
-      "lastYear": null,
-      "medianYear": null,
-      "founderProfiles": 0,
-      "withFounders": 0,
-      "hiring": 0,
-      "alsoInOtherPortfolios": 314
-    },
-    {
       "source": "yc",
       "label": "Y Combinator",
       "companies": 6417,
@@ -35,6 +17,24 @@
       "withFounders": 6330,
       "hiring": 1473,
       "alsoInOtherPortfolios": 217
+    },
+    {
+      "source": "plugandplay",
+      "label": "Plug and Play",
+      "companies": 5575,
+      "exits": 543,
+      "exitRate": 9.7,
+      "unicorns": 44,
+      "unicornRate": 0.8,
+      "countries": 76,
+      "topCountry": "Japan",
+      "firstYear": null,
+      "lastYear": null,
+      "medianYear": null,
+      "founderProfiles": 0,
+      "withFounders": 0,
+      "hiring": 0,
+      "alsoInOtherPortfolios": 291
     },
     {
       "source": "techstars",
@@ -217,12 +217,12 @@
       "alsoInOtherPortfolios": 17
     }
   ],
-  "generatedAt": "2026-11-25T17:25:37.352Z",
-  "total": 24062,
+  "generatedAt": "2026-11-26T13:32:42.250Z",
+  "total": 23216,
   "bySource": {
     "500": 2243,
-    "plugandplay": 6421,
     "yc": 6417,
+    "plugandplay": 5575,
     "techstars": 5203,
     "antler": 1090,
     "sosv": 791,
@@ -233,11 +233,11 @@
     "sparklabs": 186,
     "founderinstitute": 101
   },
-  "unicorns": 149,
-  "exits": 3003,
+  "unicorns": 121,
+  "exits": 2917,
   "bCorps": 29,
   "currentSession": 71,
-  "delisted": 802,
+  "delisted": 27,
   "hiring": 1473,
   "byStatus": {
     "active": 4866,
@@ -283,19 +283,19 @@
   "topCountries": [
     [
       "United States",
-      12205
+      12141
     ],
     [
       "Japan",
-      3553
+      2821
     ],
     [
       "United Kingdom",
-      1232
+      1227
     ],
     [
       "Canada",
-      831
+      824
     ],
     [
       "India",
@@ -303,19 +303,19 @@
     ],
     [
       "Singapore",
-      479
+      478
     ],
     [
       "Germany",
-      390
+      388
     ],
     [
       "France",
-      370
+      368
     ],
     [
       "South Korea",
-      361
+      357
     ],
     [
       "Turkey",
@@ -323,11 +323,11 @@
     ],
     [
       "Israel",
-      246
+      245
     ],
     [
       "Australia",
-      239
+      238
     ],
     [
       "Mexico",
@@ -335,21 +335,21 @@
     ],
     [
       "United Arab Emirates",
-      172
+      170
     ],
     [
-      "Italy",
-      135
+      "Indonesia",
+      134
     ]
   ],
   "topCities": [
     [
       "Tokyo",
-      3458
+      2844
     ],
     [
       "Silicon Valley",
-      1653
+      1578
     ],
     [
       "New York City",
@@ -357,7 +357,7 @@
     ],
     [
       "London",
-      316
+      315
     ],
     [
       "San Francisco",
@@ -365,7 +365,7 @@
     ],
     [
       "Los Angeles",
-      143
+      137
     ],
     [
       "Boston",
@@ -373,11 +373,11 @@
     ],
     [
       "Seattle",
-      122
+      120
     ],
     [
       "Paris",
-      118
+      115
     ],
     [
       "Chicago",
@@ -407,7 +407,7 @@
   "byRegion": [
     [
       "Americas",
-      5729
+      5657
     ],
     [
       "United States of America",
@@ -415,7 +415,7 @@
     ],
     [
       "Asia",
-      3812
+      3072
     ],
     [
       "Europe",
@@ -427,7 +427,7 @@
     ],
     [
       "EMEA",
-      840
+      806
     ],
     [
       "Middle East & Africa",
@@ -825,7 +825,7 @@
   "topPrograms": [
     [
       "Plug and Play",
-      6421
+      5575
     ],
     [
       "500 Global",
@@ -887,7 +887,7 @@
   "topIndustries": [
     [
       "Fintech",
-      3039
+      2948
     ],
     [
       "AI",
@@ -914,10 +914,6 @@
       1013
     ],
     [
-      "Health & Longevity",
-      770
-    ],
-    [
       "Infrastructure",
       762
     ],
@@ -930,16 +926,16 @@
       702
     ],
     [
-      "Insurtech",
-      647
+      "Health & Longevity",
+      656
     ],
     [
       "Engineering, Product and Design",
       635
     ],
     [
-      "Deeptech",
-      549
+      "Insurtech",
+      552
     ],
     [
       "Climate tech",
@@ -947,23 +943,27 @@
     ],
     [
       "Health",
-      539
-    ],
-    [
-      "Energy",
-      513
-    ],
-    [
-      "Brand & Retail",
-      510
+      537
     ],
     [
       "Healthtech",
       485
     ],
     [
+      "Deeptech",
+      475
+    ],
+    [
       "E-commerce",
       471
+    ],
+    [
+      "Energy",
+      459
+    ],
+    [
+      "Brand & Retail",
+      437
     ]
   ]
 }
