@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:42:11.521Z",
+  "generatedAt": "2026-11-26T17:05:21.778Z",
   "sources": [
     {
       "name": "500",
@@ -7,7 +7,7 @@
       "site": "https://500.co/portfolio",
       "count": 2243,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
       "note": ""
     },
     {
@@ -16,17 +16,17 @@
       "site": "https://www.ycombinator.com/companies",
       "count": 6418,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
-      "note": "1 new; 9 no longer listed upstream (kept, flagged listed:false)"
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "note": "9 no longer listed upstream (kept, flagged listed:false)"
     },
     {
       "name": "plugandplay",
       "label": "Plug and Play",
       "site": "https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups",
       "count": 5575,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-26T13:30:56.044Z",
-      "note": "returned no usable companies"
+      "status": "live",
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "note": ""
     },
     {
       "name": "techstars",
@@ -34,7 +34,7 @@
       "site": "https://www.techstars.com/portfolio",
       "count": 5203,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
       "note": "14 no longer listed upstream (kept, flagged listed:false)"
     },
     {
@@ -43,8 +43,8 @@
       "site": "https://www.antler.co/portfolio",
       "count": 1091,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
-      "note": "1 new; 2 no longer listed upstream (kept, flagged listed:false)"
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "note": "2 no longer listed upstream (kept, flagged listed:false)"
     },
     {
       "name": "sosv",
@@ -52,7 +52,7 @@
       "site": "https://sosv.com/portfolio/",
       "count": 791,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
       "note": ""
     },
     {
@@ -61,7 +61,7 @@
       "site": "https://www.joinef.com/portfolio/",
       "count": 546,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
       "note": "2 no longer listed upstream (kept, flagged listed:false)"
     },
     {
@@ -70,7 +70,7 @@
       "site": "https://www.alchemistaccelerator.com/portfolio",
       "count": 514,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
       "note": ""
     },
     {
@@ -79,7 +79,7 @@
       "site": "https://speedrun.a16z.com/companies",
       "count": 321,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
       "note": ""
     },
     {
@@ -87,9 +87,9 @@
       "label": "İTÜ Çekirdek",
       "site": "https://girisimler.itucekirdek.com/",
       "count": 229,
-      "status": "live",
+      "status": "cached",
       "lastLiveFetch": "2026-11-26T13:42:11.521Z",
-      "note": ""
+      "note": "İTÜ Çekirdek directory returned no startups"
     },
     {
       "name": "sparklabs",
@@ -97,7 +97,7 @@
       "site": "https://www.sparklabs.co.kr/en/portfolio",
       "count": 186,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
       "note": ""
     },
     {
@@ -106,7 +106,7 @@
       "site": "https://fi.co/graduates",
       "count": 101,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
+      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
       "note": ""
     }
   ],
@@ -3453,7 +3453,7 @@
       {
         "name": "Americas",
         "slug": "americas",
-        "count": 5657,
+        "count": 5658,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/americas.json"
       },
       {
@@ -3471,7 +3471,7 @@
       {
         "name": "Europe",
         "slug": "europe",
-        "count": 1028,
+        "count": 1027,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/europe.json"
       },
       {
@@ -4073,7 +4073,7 @@
       {
         "name": "United States",
         "slug": "united-states",
-        "count": 12141,
+        "count": 12142,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/united-states.json"
       },
       {
@@ -4323,16 +4323,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/philippines.json"
       },
       {
-        "name": "Poland",
-        "slug": "poland",
-        "count": 25,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/poland.json"
-      },
-      {
         "name": "Austria",
         "slug": "austria",
         "count": 25,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/austria.json"
+      },
+      {
+        "name": "Poland",
+        "slug": "poland",
+        "count": 24,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/poland.json"
       },
       {
         "name": "South Africa",
@@ -4843,7 +4843,7 @@
       {
         "name": "Industrials",
         "slug": "industrials",
-        "count": 703,
+        "count": 704,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/industrials.json"
       },
       {

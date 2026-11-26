@@ -66,7 +66,7 @@ _Auto-generated from the dataset on 2026-11-26._
 ```
 
 ## Top countries
-1. **United States** — 12141
+1. **United States** — 12142
 2. **Japan** — 2821
 3. **United Kingdom** — 1229
 4. **Canada** — 824
@@ -126,7 +126,7 @@ _Auto-generated from the dataset on 2026-11-26._
 7. **Healthcare** — 1013
 8. **Infrastructure** — 764
 9. **Developer Tools** — 750
-10. **Industrials** — 703
+10. **Industrials** — 704
 11. **Health & Longevity** — 656
 12. **Engineering, Product and Design** — 636
 13. **Insurtech** — 552
@@ -139,10 +139,10 @@ _Auto-generated from the dataset on 2026-11-26._
 20. **Brand & Retail** — 437
 
 ## By region
-1. **Americas** — 5657
+1. **Americas** — 5658
 2. **United States of America** — 4791
 3. **Asia** — 3072
-4. **Europe** — 1028
+4. **Europe** — 1027
 5. **North America** — 902
 6. **EMEA** — 806
 7. **Middle East & Africa** — 284
