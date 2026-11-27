@@ -17262,7 +17262,7 @@
     "id": "yc-lume-uselume-com",
     "source": "yc",
     "name": "Lume",
-    "description": "Lume was a banking app for nurses with earned wage access, student loan refinancing, and travel nurse jobs. Acquired by Vivian Health (an NYSE: IAC company) in 2022.",
+    "description": "Banking platform purpose-built for healthcare professionals.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9a8e5cb4b22f095f64a29038540f9f3308d81d06.png",
     "website": "https://www.uselume.com",
     "sourceUrl": "https://www.ycombinator.com/companies/lume",
@@ -17270,7 +17270,8 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
-      "Healthcare"
+      "Healthcare",
+      "Fintech"
     ],
     "year": 2020,
     "program": "YC Summer 2020",
@@ -41882,7 +41883,7 @@
     "id": "yc-rhem-labs",
     "source": "yc",
     "name": "Rhem Labs",
-    "description": "Rhem Labs builds smart home care devices that help older adults and people with complex care needs live independently. ",
+    "description": "Robots that care for humans",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/36cbf39bb5d034d7765e7ee595b7fac4dc2358e5.png",
     "website": "https://rhem.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/rhem-labs",
@@ -46081,53 +46082,6 @@
     "alsoIn": []
   },
   {
-    "id": "500-cakehealth",
-    "source": "500",
-    "name": "CakeHealth",
-    "description": "Provider of online healthcare expense-management services. The company provides an online portal where users can manage their healthcare plans, claims and bills. It also enables users to see their out-of-pocket spending, the state of deductibles and unused benefits.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c8b85451-af3a-4c30-b88e-f348615e1c9e.png",
-    "website": "https://cakehealth.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2011,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Andy Brett",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Rebecca Woodcock",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "500-pacifica-labs",
     "source": "500",
     "name": "Pacifica Labs",
@@ -46414,48 +46368,6 @@
       "country": "Turkey"
     },
     "country": "Turkey",
-    "alsoIn": []
-  },
-  {
-    "id": "500-medico-com",
-    "source": "500",
-    "name": "Medico.com",
-    "description": "Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.",
-    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b67e109-9184-4496-8ce3-2cfe37173a29.png",
-    "website": "https://www.medico.com",
-    "location": "United States",
-    "region": "North America",
-    "subregion": "",
-    "tags": [
-      "Healthcare"
-    ],
-    "year": 2012,
-    "program": "500 Global",
-    "programSlugs": [
-      "500"
-    ],
-    "isExit": true,
-    "stage": "Exited",
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Elan Dekel",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "United States"
-    },
-    "country": "United States",
     "alsoIn": []
   },
   {
@@ -46947,6 +46859,95 @@
       "country": "Canada"
     },
     "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "500-medico-com",
+    "source": "500",
+    "name": "Medico.com",
+    "description": "Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b67e109-9184-4496-8ce3-2cfe37173a29.png",
+    "website": "https://www.medico.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2012,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Elan Dekel",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "500-cakehealth",
+    "source": "500",
+    "name": "CakeHealth",
+    "description": "Provider of online healthcare expense-management services. The company provides an online portal where users can manage their healthcare plans, claims and bills. It also enables users to see their out-of-pocket spending, the state of deductibles and unused benefits.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c8b85451-af3a-4c30-b88e-f348615e1c9e.png",
+    "website": "https://cakehealth.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2011,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "stage": "Exited",
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Andy Brett",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rebecca Woodcock",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    },
+    "country": "United States",
     "alsoIn": []
   },
   {

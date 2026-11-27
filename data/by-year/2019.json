@@ -29723,7 +29723,7 @@
     "status": "acquired",
     "teamSize": 62,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [
       {
         "name": "Eric Futoran",
@@ -47776,6 +47776,54 @@
     "alsoIn": []
   },
   {
+    "id": "alchemist-synapbox",
+    "source": "alchemist",
+    "name": "Synapbox",
+    "description": "AI-Powered Content Testing",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 22",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "stage": "Angel",
+    "teamSizeRange": "11-50",
+    "totalRaised": 1100000,
+    "founders": [
+      {
+        "name": "Cristina De la Peña",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andres Botero",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "alchemist-spectrum-cannalabs",
     "source": "alchemist",
     "name": "Spectrum CannaLabs",
@@ -47812,54 +47860,6 @@
       },
       {
         "name": "Sarita Evans",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-synapbox",
-    "source": "alchemist",
-    "name": "Synapbox",
-    "description": "AI-Powered Content Testing",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 22",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "stage": "Angel",
-    "teamSizeRange": "11-50",
-    "totalRaised": 1100000,
-    "founders": [
-      {
-        "name": "Cristina De la Peña",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andres Botero",
         "role": "",
         "linkedin": ""
       }
@@ -47988,59 +47988,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-coolso-inc",
-    "source": "alchemist",
-    "name": "CoolSo, Inc.",
-    "description": "Wearable Muscle Gesture Control Device for Human: Computer Interactions in Industrial Use Cases and Beyond\n",
-    "logo": "",
-    "website": "",
-    "location": "Boston, MA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 22",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "stage": "Pre-Seed",
-    "teamSizeRange": "1-10",
-    "totalRaised": 250000,
-    "founders": [
-      {
-        "name": "Jack Wu",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Will Lee",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Leo Hsu",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-faucetworks",
     "source": "alchemist",
     "name": "Faucetworks",
@@ -48130,6 +48077,59 @@
       },
       {
         "name": "Jiri Psota",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-coolso-inc",
+    "source": "alchemist",
+    "name": "CoolSo, Inc.",
+    "description": "Wearable Muscle Gesture Control Device for Human: Computer Interactions in Industrial Use Cases and Beyond\n",
+    "logo": "",
+    "website": "",
+    "location": "Boston, MA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 22",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "stage": "Pre-Seed",
+    "teamSizeRange": "1-10",
+    "totalRaised": 250000,
+    "founders": [
+      {
+        "name": "Jack Wu",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Will Lee",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Leo Hsu",
         "role": "",
         "linkedin": ""
       }
@@ -48348,320 +48348,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-aichemist-metal",
-    "source": "alchemist",
-    "name": "Aichemist Metal",
-    "description": "Makes Highest Strength, Thin-Film, Metal and Nanofiber Materials",
-    "logo": "",
-    "website": "",
-    "location": "Mountain View, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 23",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "founders": [
-      {
-        "name": "Sergey Lopatin",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Richard Fraga",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-harmonize",
-    "source": "alchemist",
-    "name": "Harmonize",
-    "description": "Chat-Based HR Platform with Hundreds of Customers",
-    "logo": "",
-    "website": "",
-    "location": "New York, NY, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 23",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Ujjwal Grover",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kanav Abrol",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-friendly-robots-company",
-    "source": "alchemist",
-    "name": "Friendly Robots Company",
-    "description": "Autonomous Vacuum for the Janitorial Industry",
-    "logo": "",
-    "website": "",
-    "location": "Orinda, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 22",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Xiao Xiao",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andrei Zimin",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-crelytics",
-    "source": "alchemist",
-    "name": "Crelytics",
-    "description": "AI-native Recruitment Platform for Lean Teams",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 22",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "founders": [
-      {
-        "name": "Abhijit Onkar",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-gritwell",
-    "source": "alchemist",
-    "name": "Gritwell",
-    "description": "A subscription service to treat the root cause of chronic symptoms- focused on nutrition, lifestyle and environmental factors.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 22",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "CEO",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "CTO",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-social-glass",
-    "source": "alchemist",
-    "name": "Social Glass",
-    "description": "Government Marketplace for Small Purchases under $10K without Bids or Paperwork",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 23",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Paola Santana",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-zapiens",
-    "source": "alchemist",
-    "name": "Zapiens",
-    "description": "Improves Productivity Helping Employees to Learn and Have Access to Knowledge at Work",
-    "logo": "",
-    "website": "",
-    "location": "Oviedo, Asturias, Spain",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 23",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "founders": [
-      {
-        "name": "Daniel Suárez",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Aurelio Jiménez",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Iván Arrizabalaga",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Spain"
-    },
-    "country": "Spain",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-spext",
     "source": "alchemist",
     "name": "Spext",
@@ -48695,6 +48381,41 @@
         "linkedin": ""
       }
     ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-elton-inc",
+    "source": "alchemist",
+    "name": "Elton, Inc.",
+    "description": "Automating repetitive back-office processes where human intervention should be the exception, not the norm.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 24",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [],
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -48892,41 +48613,6 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-elton-inc",
-    "source": "alchemist",
-    "name": "Elton, Inc.",
-    "description": "Automating repetitive back-office processes where human intervention should be the exception, not the norm.",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2019,
-    "program": "Alchemist Class 24",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
     "id": "alchemist-celly-ai",
     "source": "alchemist",
     "name": "Celly.AI",
@@ -48961,6 +48647,320 @@
       },
       {
         "name": "Maruan Al-Shedivat",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-aichemist-metal",
+    "source": "alchemist",
+    "name": "Aichemist Metal",
+    "description": "Makes Highest Strength, Thin-Film, Metal and Nanofiber Materials",
+    "logo": "",
+    "website": "",
+    "location": "Mountain View, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 23",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [
+      {
+        "name": "Sergey Lopatin",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Richard Fraga",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-zapiens",
+    "source": "alchemist",
+    "name": "Zapiens",
+    "description": "Improves Productivity Helping Employees to Learn and Have Access to Knowledge at Work",
+    "logo": "",
+    "website": "",
+    "location": "Oviedo, Asturias, Spain",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 23",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [
+      {
+        "name": "Daniel Suárez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Aurelio Jiménez",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Iván Arrizabalaga",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Spain"
+    },
+    "country": "Spain",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-harmonize",
+    "source": "alchemist",
+    "name": "Harmonize",
+    "description": "Chat-Based HR Platform with Hundreds of Customers",
+    "logo": "",
+    "website": "",
+    "location": "New York, NY, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 23",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
+    "founders": [
+      {
+        "name": "Ujjwal Grover",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kanav Abrol",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-friendly-robots-company",
+    "source": "alchemist",
+    "name": "Friendly Robots Company",
+    "description": "Autonomous Vacuum for the Janitorial Industry",
+    "logo": "",
+    "website": "",
+    "location": "Orinda, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 22",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Xiao Xiao",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andrei Zimin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-social-glass",
+    "source": "alchemist",
+    "name": "Social Glass",
+    "description": "Government Marketplace for Small Purchases under $10K without Bids or Paperwork",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 23",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Paola Santana",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-crelytics",
+    "source": "alchemist",
+    "name": "Crelytics",
+    "description": "AI-native Recruitment Platform for Lean Teams",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 22",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "founders": [
+      {
+        "name": "Abhijit Onkar",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-gritwell",
+    "source": "alchemist",
+    "name": "Gritwell",
+    "description": "A subscription service to treat the root cause of chronic symptoms- focused on nutrition, lifestyle and environmental factors.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 22",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "CEO",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "CTO",
         "role": "",
         "linkedin": ""
       }

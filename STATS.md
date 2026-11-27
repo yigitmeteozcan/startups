@@ -1,6 +1,6 @@
 # Startup Portfolios — by the numbers
 
-_Auto-generated from the dataset on 2026-11-26._
+_Auto-generated from the dataset on 2026-11-27._
 
 | Metric | Count |
 |---|---|
@@ -66,10 +66,10 @@ _Auto-generated from the dataset on 2026-11-26._
 ```
 
 ## Top countries
-1. **United States** — 12142
+1. **United States** — 12143
 2. **Japan** — 2821
 3. **United Kingdom** — 1229
-4. **Canada** — 824
+4. **Canada** — 823
 5. **India** — 521
 6. **Singapore** — 480
 7. **Germany** — 389
@@ -85,7 +85,7 @@ _Auto-generated from the dataset on 2026-11-26._
 ## Top cities
 1. **Tokyo** — 2844
 2. **Silicon Valley** — 1578
-3. **New York City** — 411
+3. **New York City** — 410
 4. **London** — 315
 5. **San Francisco** — 183
 6. **Los Angeles** — 137
@@ -117,14 +117,14 @@ _Auto-generated from the dataset on 2026-11-26._
 15. **YC Winter 2020** — 229
 
 ## Top industries
-1. **Fintech** — 2948
-2. **AI** — 1949
+1. **Fintech** — 2949
+2. **AI** — 1951
 3. **SaaS** — 1754
 4. **Artificial intelligence and machine learning** — 1673
 5. **Mobile** — 1164
 6. **Consumer** — 1127
 7. **Healthcare** — 1013
-8. **Infrastructure** — 764
+8. **Infrastructure** — 765
 9. **Developer Tools** — 750
 10. **Industrials** — 704
 11. **Health & Longevity** — 656
@@ -140,7 +140,7 @@ _Auto-generated from the dataset on 2026-11-26._
 
 ## By region
 1. **Americas** — 5658
-2. **United States of America** — 4791
+2. **United States of America** — 4792
 3. **Asia** — 3072
 4. **Europe** — 1027
 5. **North America** — 902
@@ -149,7 +149,7 @@ _Auto-generated from the dataset on 2026-11-26._
 8. **South Asia** — 264
 9. **United Kingdom** — 222
 10. **India** — 218
-11. **Canada** — 217
+11. **Canada** — 216
 12. **Latin America** — 163
 13. **Middle East** — 157
 14. **Unspecified** — 118

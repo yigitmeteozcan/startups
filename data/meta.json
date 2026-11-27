@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T17:05:21.778Z",
+  "generatedAt": "2026-11-27T16:49:58.911Z",
   "sources": [
     {
       "name": "500",
@@ -7,7 +7,7 @@
       "site": "https://500.co/portfolio",
       "count": 2243,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
       "note": ""
     },
     {
@@ -16,7 +16,7 @@
       "site": "https://www.ycombinator.com/companies",
       "count": 6418,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
       "note": "9 no longer listed upstream (kept, flagged listed:false)"
     },
     {
@@ -24,9 +24,9 @@
       "label": "Plug and Play",
       "site": "https://www.plugandplaytechcenter.com/innovation-services/startups/our-startups",
       "count": 5575,
-      "status": "live",
+      "status": "cached",
       "lastLiveFetch": "2026-11-26T17:05:21.778Z",
-      "note": ""
+      "note": "returned no usable companies"
     },
     {
       "name": "techstars",
@@ -34,7 +34,7 @@
       "site": "https://www.techstars.com/portfolio",
       "count": 5203,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
       "note": "14 no longer listed upstream (kept, flagged listed:false)"
     },
     {
@@ -43,7 +43,7 @@
       "site": "https://www.antler.co/portfolio",
       "count": 1091,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
       "note": "2 no longer listed upstream (kept, flagged listed:false)"
     },
     {
@@ -52,7 +52,7 @@
       "site": "https://sosv.com/portfolio/",
       "count": 791,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
       "note": ""
     },
     {
@@ -61,7 +61,7 @@
       "site": "https://www.joinef.com/portfolio/",
       "count": 546,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
       "note": "2 no longer listed upstream (kept, flagged listed:false)"
     },
     {
@@ -70,7 +70,7 @@
       "site": "https://www.alchemistaccelerator.com/portfolio",
       "count": 514,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
       "note": ""
     },
     {
@@ -79,7 +79,7 @@
       "site": "https://speedrun.a16z.com/companies",
       "count": 321,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
       "note": ""
     },
     {
@@ -87,9 +87,9 @@
       "label": "İTÜ Çekirdek",
       "site": "https://girisimler.itucekirdek.com/",
       "count": 229,
-      "status": "cached",
-      "lastLiveFetch": "2026-11-26T13:42:11.521Z",
-      "note": "İTÜ Çekirdek directory returned no startups"
+      "status": "live",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
+      "note": ""
     },
     {
       "name": "sparklabs",
@@ -97,7 +97,7 @@
       "site": "https://www.sparklabs.co.kr/en/portfolio",
       "count": 186,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
       "note": ""
     },
     {
@@ -106,7 +106,7 @@
       "site": "https://fi.co/graduates",
       "count": 101,
       "status": "live",
-      "lastLiveFetch": "2026-11-26T17:05:21.778Z",
+      "lastLiveFetch": "2026-11-27T16:49:58.911Z",
       "note": ""
     }
   ],
@@ -137,7 +137,7 @@
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/current.json"
     },
     "hiring": {
-      "count": 1476,
+      "count": 1477,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/hiring.json"
     },
     "new": {
@@ -3459,7 +3459,7 @@
       {
         "name": "United States of America",
         "slug": "united-states-of-america",
-        "count": 4791,
+        "count": 4792,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/united-states-of-america.json"
       },
       {
@@ -3513,7 +3513,7 @@
       {
         "name": "Canada",
         "slug": "canada",
-        "count": 217,
+        "count": 216,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-region/canada.json"
       },
       {
@@ -4073,7 +4073,7 @@
       {
         "name": "United States",
         "slug": "united-states",
-        "count": 12142,
+        "count": 12143,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/united-states.json"
       },
       {
@@ -4091,7 +4091,7 @@
       {
         "name": "Canada",
         "slug": "canada",
-        "count": 824,
+        "count": 823,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-country/canada.json"
       },
       {
@@ -4789,13 +4789,13 @@
       {
         "name": "Fintech",
         "slug": "fintech",
-        "count": 2948,
+        "count": 2949,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/fintech.json"
       },
       {
         "name": "AI",
         "slug": "ai",
-        "count": 1949,
+        "count": 1951,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/ai.json"
       },
       {
@@ -4831,7 +4831,7 @@
       {
         "name": "Infrastructure",
         "slug": "infrastructure",
-        "count": 764,
+        "count": 765,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/infrastructure.json"
       },
       {
@@ -5687,16 +5687,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/crypto-digital-assets.json"
       },
       {
+        "name": "Design Tools",
+        "slug": "design-tools",
+        "count": 61,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/design-tools.json"
+      },
+      {
         "name": "Government",
         "slug": "government",
         "count": 61,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/government.json"
-      },
-      {
-        "name": "Design Tools",
-        "slug": "design-tools",
-        "count": 60,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/design-tools.json"
       },
       {
         "name": "Community",
@@ -5795,6 +5795,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/elearning.json"
       },
       {
+        "name": "Industrial",
+        "slug": "industrial",
+        "count": 53,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/industrial.json"
+      },
+      {
         "name": "Entertainment / Media",
         "slug": "entertainment-media",
         "count": 53,
@@ -5829,12 +5835,6 @@
         "slug": "conversational-ai",
         "count": 52,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/conversational-ai.json"
-      },
-      {
-        "name": "Industrial",
-        "slug": "industrial",
-        "count": 52,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/industrial.json"
       },
       {
         "name": "Travel",
@@ -6047,16 +6047,16 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/drug-discovery.json"
       },
       {
+        "name": "Robotic Process Automation",
+        "slug": "robotic-process-automation",
+        "count": 36,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/robotic-process-automation.json"
+      },
+      {
         "name": "Travel, Leisure and Tourism",
         "slug": "travel-leisure-and-tourism",
         "count": 35,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/travel-leisure-and-tourism.json"
-      },
-      {
-        "name": "Robotic Process Automation",
-        "slug": "robotic-process-automation",
-        "count": 35,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/startups@main/data/by-industry/robotic-process-automation.json"
       },
       {
         "name": "Marketing & Advertising",

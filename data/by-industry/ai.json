@@ -10025,7 +10025,7 @@
     "status": "acquired",
     "teamSize": 62,
     "isHiring": false,
-    "stage": "Growth",
+    "stage": "Early",
     "founders": [
       {
         "name": "Eric Futoran",
@@ -53146,7 +53146,7 @@
     "status": "active",
     "teamSize": 25,
     "isHiring": false,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Monik Pamecha",
@@ -58093,7 +58093,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 5,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -87294,7 +87294,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -90315,6 +90315,69 @@
         "linkedin": "https://www.linkedin.com/in/ryanelliott-10",
         "bio": "Building and scaling ZeroSettle: the future of mobile gaming payments. Previous systems software engineer at Apple.",
         "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/9c91ea19ee288c4712457f948e7ca7944d65b89a.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "yc-21st",
+    "source": "yc",
+    "name": "21st",
+    "description": "Inspiration layer for software.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
+    "website": "https://21st.dev",
+    "sourceUrl": "https://www.ycombinator.com/companies/21st",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Design Tools",
+      "AI"
+    ],
+    "year": 2026,
+    "program": "YC Winter 2026",
+    "programSlugs": [
+      "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 4,
+    "isHiring": false,
+    "stage": "Early",
+    "formerNames": [
+      "1code by 21st.dev",
+      "1code (21st.dev)",
+      "1code (ex: 21st.dev)",
+      "21st.dev"
+    ],
+    "founders": [
+      {
+        "name": "Serafim Korablev",
+        "role": "Founder/CEO",
+        "linkedin": "https://www.linkedin.com/in/serafimkorablev",
+        "twitter": "https://x.com/serafimcloud",
+        "bio": "One of the first full-time vibe-coders (since October 2023). Co-founder of 21st.dev, a UI components registry with over 1m users. Previously co-founded Rork.com (then a web app builder for Next.js), the first Telegram-native memecoin launchpad (multi-million exit), and Via, a cross-chain crypto routing protocol with $1.5B GTV backed by Naval, Safe, Sandeep, and others. Passionate about design and basketball.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/6c31cb4436a1f8c1e8bbd013792ba179ebd34a1f.jpg"
+      },
+      {
+        "name": "Sergey Bunas",
+        "role": "co-founder",
+        "linkedin": "https://www.linkedin.com/in/s-bunas/",
+        "twitter": "https://x.com/sergeybunas",
+        "bio": "i love computers",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/2d9fe695712a7823f3ff5612f545749362a5836c.jpg"
       }
     ],
     "social": {
@@ -99034,7 +99097,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 1,
+    "teamSize": 4,
     "isHiring": true,
     "stage": "Early",
     "founders": [
@@ -102031,7 +102094,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 2,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "formerNames": [
@@ -105775,7 +105838,7 @@
     "id": "yc-stacktrace",
     "source": "yc",
     "name": "Stacktrace",
-    "description": "Give agents autonomy without losing control",
+    "description": "Control layer for AI agents",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e79ba1ad9464ac22023bbed994e2299d2ae8addf.png",
     "website": "https://stacktrace.ai",
     "sourceUrl": "https://www.ycombinator.com/companies/stacktrace",
@@ -105961,7 +106024,7 @@
     "id": "yc-talos",
     "source": "yc",
     "name": "Talos",
-    "description": "Predictive maintenance for power infrastructure.",
+    "description": "Predictive maintenance for critical grid infrastructure.",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/adf2f2d3e67de554b1df8a77cdc1d6dd943928ec.png",
     "website": "https://www.talos-us.com/",
     "sourceUrl": "https://www.ycombinator.com/companies/talos-us",
@@ -107240,6 +107303,66 @@
     "alsoIn": []
   },
   {
+    "id": "yc-deploy",
+    "source": "yc",
+    "name": "Deploy",
+    "description": "The generalist robot deployment company.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6d01c6f3a4b9cb73c5468cd6441f7c93909edb6a.png",
+    "website": "https://deployrobotics.co/",
+    "sourceUrl": "https://www.ycombinator.com/companies/deploy",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Industrials",
+      "Manufacturing and Robotics",
+      "Robotic Process Automation",
+      "Robotics",
+      "AI",
+      "Industrial"
+    ],
+    "year": 2026,
+    "program": "YC Fall 2026",
+    "programSlugs": [
+      "yc-fall-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSize": 2,
+    "isHiring": false,
+    "stage": "Early",
+    "founders": [
+      {
+        "name": "Irene Grace Karot Polson",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/irene-grace-karot-polson/",
+        "twitter": "https://x.com/irenekarrot",
+        "bio": "Deploying generalist robots at Deploy. Previously Autonomy Engineer at AeroVect, deploying self-driving vehicles at airports, flight data at Airbus. MS Robotics from UPenn, BS Aerospace from IIT Kanpur.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/0d0cff2b295376185f768d9e81a3e11d369263c8.jpg"
+      },
+      {
+        "name": "Sahith Reddy Chada",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sahith-reddy-chada",
+        "twitter": "https://x.com/sahithchada",
+        "bio": "Deploying generalist robots at Deploy. Research Engineer at Honda Research Institute building vision-language-action models and world models for robotics and autonomous vehicles. MS Robotics from UMn, BTech Aerospace Engineering from IIT Kanpur.",
+        "avatar": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/7420ef4a0d182dfb06daee92dc8e49c3fa294297.jpg"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {},
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
     "id": "yc-evardi",
     "source": "yc",
     "name": "Evardi",
@@ -107843,7 +107966,7 @@
     "id": "yc-dreamscale-labs",
     "source": "yc",
     "name": "Dreamscale Labs",
-    "description": "Cloud inference and training infrastructure for robotics.",
+    "description": "Cloud inference for robotics",
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5a0eb88901e7f46ec71cc8739e8069f4815b0a52.png",
     "website": "https://dreamscalelabs.com",
     "sourceUrl": "https://www.ycombinator.com/companies/dreamscale-labs",
@@ -108644,6 +108767,7 @@
     "region": "United States of America",
     "subregion": "",
     "tags": [
+      "Infrastructure",
       "AI",
       "Security"
     ],
@@ -109568,7 +109692,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 11,
-    "isHiring": false,
+    "isHiring": true,
     "stage": "Early",
     "founders": [
       {
@@ -109701,7 +109825,7 @@
     "source": "yc",
     "name": "Axiomat",
     "description": "AI that never hallucinates.",
-    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/73e5297e01ab55a8cd3d54127a27671c6d5e6934.png",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/055d5eb77fe15a90ba20297eccc4c483c285165a.png",
     "website": "https://www.axiomat.com",
     "sourceUrl": "https://www.ycombinator.com/companies/axiomat",
     "location": "San Francisco, CA, USA",
@@ -111921,7 +112045,7 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "status": "active",
-    "teamSize": 1,
+    "teamSize": 3,
     "isHiring": false,
     "stage": "Early",
     "founders": [

@@ -32554,7 +32554,7 @@
     "status": "active",
     "teamSize": 25,
     "isHiring": false,
-    "stage": "Early",
+    "stage": "Growth",
     "founders": [
       {
         "name": "Monik Pamecha",
@@ -40980,7 +40980,7 @@
     "isCurrentSession": false,
     "status": "active",
     "teamSize": 5,
-    "isHiring": true,
+    "isHiring": false,
     "stage": "Early",
     "founders": [
       {
@@ -58704,8 +58704,8 @@
     "logo": "https://bookface-images.s3.amazonaws.com/small_logos/03e05dcd715014e7e3ce539d4aef2abf9ef621e2.png",
     "website": "https://www.loombotic.com",
     "sourceUrl": "https://www.ycombinator.com/companies/loombotic",
-    "location": "Toronto, ON, Canada",
-    "region": "Canada",
+    "location": "Austin, TX, USA",
+    "region": "United States of America",
     "subregion": "",
     "tags": [
       "Industrials",
@@ -58752,7 +58752,7 @@
       "crunchbase": ""
     },
     "extra": {},
-    "country": "Canada",
+    "country": "United States",
     "alsoIn": []
   },
   {
@@ -74069,6 +74069,54 @@
     "alsoIn": []
   },
   {
+    "id": "ef-syntetica",
+    "source": "ef",
+    "name": "Syntetica",
+    "description": "Nylon recycling for textile producers.",
+    "logo": "",
+    "website": "",
+    "location": "Paris",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Biotechnology",
+      "Industrial & Manufacturing"
+    ],
+    "year": 2024,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Marco Bertone",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/marcobertone/"
+      },
+      {
+        "name": "Louis Monsigny",
+        "role": "Founding CTO",
+        "linkedin": "https://www.linkedin.com/in/louis-monsigny-706b5585"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "France",
+      "investor": ""
+    },
+    "country": "France",
+    "alsoIn": []
+  },
+  {
     "id": "ef-codeant-ai",
     "source": "ef",
     "name": "CodeAnt AI",
@@ -74245,54 +74293,6 @@
         "name": "Joonatan Laulainen",
         "role": "CTO",
         "linkedin": "https://www.linkedin.com/in/joonatan-laulainen/"
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "France",
-      "investor": ""
-    },
-    "country": "France",
-    "alsoIn": []
-  },
-  {
-    "id": "ef-syntetica",
-    "source": "ef",
-    "name": "Syntetica",
-    "description": "Nylon recycling for textile producers.",
-    "logo": "",
-    "website": "",
-    "location": "Paris",
-    "region": "",
-    "subregion": "",
-    "tags": [
-      "Biotechnology",
-      "Industrial & Manufacturing"
-    ],
-    "year": 2024,
-    "program": "Entrepreneur First",
-    "programSlugs": [
-      "ef"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "founders": [
-      {
-        "name": "Marco Bertone",
-        "role": "CEO",
-        "linkedin": "https://www.linkedin.com/in/marcobertone/"
-      },
-      {
-        "name": "Louis Monsigny",
-        "role": "CTO",
-        "linkedin": "https://www.linkedin.com/in/louis-monsigny-706b5585"
       }
     ],
     "social": {
@@ -78922,13 +78922,266 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-atomistic-insights",
+    "id": "alchemist-hubtalk-ai",
     "source": "alchemist",
-    "name": "Atomistic Insights",
-    "description": "Harnessing Protein Dynamics For Breakthrough Medicines",
+    "name": "Hubtalk AI",
+    "description": "AI voice agents for enterprise contact centers",
     "logo": "",
     "website": "",
-    "location": "Atlanta, GA, USA",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 40",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "101-250",
+    "founders": [
+      {
+        "name": "Ivan Belokhvostikov**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Vitaliy Akulov**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rashid Ismailov**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-corbu",
+    "source": "alchemist",
+    "name": "Corbu",
+    "description": "Design AI for Architecture, Engineering & Construction",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 37",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Taylor Schmidt",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-warestack",
+    "source": "alchemist",
+    "name": "Warestack",
+    "description": "Audit-ready compliance evidence for regulated software teams",
+    "logo": "",
+    "website": "",
+    "location": "Delaware City, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 38",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-bitgrit",
+    "source": "alchemist",
+    "name": "Bitgrit",
+    "description": "Your AI? Built By Many. Your Data? Seen By None",
+    "logo": "",
+    "website": "",
+    "location": "Delaware City, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "11-50",
+    "founders": [
+      {
+        "name": "Tõnu Samuel",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kazuya Saginawa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saksham Kukreja",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tetsuro Masunaga",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-pairity",
+    "source": "alchemist",
+    "name": "Pairity",
+    "description": "Human-Context Data Infrastructure for High-Stakes Decisions",
+    "logo": "",
+    "website": "",
+    "location": "Toronto, ON, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    },
+    "country": "Canada",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-biio",
+    "source": "alchemist",
+    "name": "Biio",
+    "description": "Redefining Physical Intelligence",
+    "logo": "",
+    "website": "",
+    "location": "Cupertino, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-arithmedics",
+    "source": "alchemist",
+    "name": "Arithmedics",
+    "description": "AI that Reclaims Physician Time for Patients",
+    "logo": "",
+    "website": "",
+    "location": "Cupertino, CA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -78945,17 +79198,17 @@
     "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Katie Kuo",
+        "name": "Vetri Elango",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "JC Gumbart",
+        "name": "Dr. Renu Dhanasekaran",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Shiyao Bao",
+        "name": "Venu Appana",
         "role": "",
         "linkedin": ""
       }
@@ -79079,6 +79332,57 @@
     "founders": [
       {
         "name": "Luciana",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    },
+    "country": "United States",
+    "alsoIn": []
+  },
+  {
+    "id": "alchemist-cosign-ai",
+    "source": "alchemist",
+    "name": "Cosign AI",
+    "description": "Never miss clinical trial candidates & save months recruiting",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "status": "active",
+    "teamSizeRange": "1-10",
+    "founders": [
+      {
+        "name": "Will Xie",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Riya Fukui",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Louie Cai",
         "role": "",
         "linkedin": ""
       }
@@ -79234,13 +79538,13 @@
     "alsoIn": []
   },
   {
-    "id": "alchemist-cosign-ai",
+    "id": "alchemist-atomistic-insights",
     "source": "alchemist",
-    "name": "Cosign AI",
-    "description": "Never miss clinical trial candidates & save months recruiting",
+    "name": "Atomistic Insights",
+    "description": "Harnessing Protein Dynamics For Breakthrough Medicines",
     "logo": "",
     "website": "",
-    "location": "San Francisco, CA, USA",
+    "location": "Atlanta, GA, USA",
     "region": "",
     "subregion": "",
     "tags": [],
@@ -79257,17 +79561,17 @@
     "teamSizeRange": "1-10",
     "founders": [
       {
-        "name": "Will Xie",
+        "name": "Katie Kuo",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Riya Fukui",
+        "name": "JC Gumbart",
         "role": "",
         "linkedin": ""
       },
       {
-        "name": "Louie Cai",
+        "name": "Shiyao Bao",
         "role": "",
         "linkedin": ""
       }
@@ -79353,310 +79657,6 @@
     "status": "active",
     "teamSizeRange": "11-50",
     "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-bitgrit",
-    "source": "alchemist",
-    "name": "Bitgrit",
-    "description": "Your AI? Built By Many. Your Data? Seen By None",
-    "logo": "",
-    "website": "",
-    "location": "Delaware City, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "11-50",
-    "founders": [
-      {
-        "name": "Tõnu Samuel",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kazuya Saginawa",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Saksham Kukreja",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tetsuro Masunaga",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-corbu",
-    "source": "alchemist",
-    "name": "Corbu",
-    "description": "Design AI for Architecture, Engineering & Construction",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 37",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Taylor Schmidt",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-warestack",
-    "source": "alchemist",
-    "name": "Warestack",
-    "description": "Audit-ready compliance evidence for regulated software teams",
-    "logo": "",
-    "website": "",
-    "location": "Delaware City, DE, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 38",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-hubtalk-ai",
-    "source": "alchemist",
-    "name": "Hubtalk AI",
-    "description": "AI voice agents for enterprise contact centers",
-    "logo": "",
-    "website": "",
-    "location": "San Francisco, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 40",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "101-250",
-    "founders": [
-      {
-        "name": "Ivan Belokhvostikov**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Vitaliy Akulov**",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Rashid Ismailov**",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-pairity",
-    "source": "alchemist",
-    "name": "Pairity",
-    "description": "Human-Context Data Infrastructure for High-Stakes Decisions",
-    "logo": "",
-    "website": "",
-    "location": "Toronto, ON, Canada",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "Canada"
-    },
-    "country": "Canada",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-biio",
-    "source": "alchemist",
-    "name": "Biio",
-    "description": "Redefining Physical Intelligence",
-    "logo": "",
-    "website": "",
-    "location": "Cupertino, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [],
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "country": "USA"
-    },
-    "country": "United States",
-    "alsoIn": []
-  },
-  {
-    "id": "alchemist-arithmedics",
-    "source": "alchemist",
-    "name": "Arithmedics",
-    "description": "AI that Reclaims Physician Time for Patients",
-    "logo": "",
-    "website": "",
-    "location": "Cupertino, CA, USA",
-    "region": "",
-    "subregion": "",
-    "tags": [],
-    "year": 2024,
-    "program": "Alchemist Class 39",
-    "programSlugs": [
-      "alchemist"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "status": "active",
-    "teamSizeRange": "1-10",
-    "founders": [
-      {
-        "name": "Vetri Elango",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Dr. Renu Dhanasekaran",
-        "role": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Venu Appana",
-        "role": "",
-        "linkedin": ""
-      }
-    ],
     "social": {
       "linkedin": "",
       "twitter": "",
